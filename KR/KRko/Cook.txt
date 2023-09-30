@@ -1,0 +1,298 @@
+MID_FOOD_RESULT	\x0E\x01\x00\x00 \x0E\x01\x01\x00
+MID_FOODRANK_Superb	극상의
+MID_FOODRANK_Delicious	맛있는
+MID_FOODRANK_Growling	누구나 감탄할
+MID_FOODRANK_Melt	살살 녹는
+MID_FOODRANK_HighKing	패왕의
+MID_FOODRANK_HolyMother	성모의
+MID_FOODRANK_Courage	용기의
+MID_FOODRANK_Wisdom	지혜의
+MID_FOODRANK_Chalk	백악의
+MID_FOODRANK_Mens	투박한
+MID_FOODRANK_ForBoys	중독성 있는
+MID_FOODRANK_Woman	대담한
+MID_FOODRANK_ForGirls	섬세한
+MID_FOODRANK_Adult	어른의
+MID_FOODRANK_Child	어린이
+MID_FOODRANK_Your	당신의
+MID_FOODRANK_Discerning	심혈을 쏟은
+MID_FOODRANK_Whimsical	변덕스러운
+MID_FOODRANK_Rich	농후한
+MID_FOODRANK_Refreshing	담백한
+MID_FOODRANK_Sharp	균형 잡힌
+MID_FOODRANK_Friendly	부드러운
+MID_FOODRANK_BrodiaStyle	브로디아풍
+MID_FOODRANK_FileneStyle	피레네풍
+MID_FOODRANK_SolumStyle	솔룸풍
+MID_FOODRANK_IrcionStyle	이르시온풍
+MID_FOODRANK_LithosStyle	리토스풍
+MID_FOODRANK_Wild	야성적인
+MID_FOODRANK_Exciting	호쾌한
+MID_FOODRANK_CarefullySelected	엄선한
+MID_FOODRANK_Fresh	신선한
+MID_FOODRANK_Spicy	엄청 매운
+MID_FOODRANK_Hot	매운
+MID_FOODRANK_Bitter	쓴
+MID_FOODRANK_Bittersweet	씁쓸한
+MID_FOODRANK_SuperSweet	엄청 달콤한
+MID_FOODRANK_Sweet	달콤한
+MID_FOODRANK_Chewy	씹는 맛이 있는
+MID_FOODRANK_Hard	단단한
+MID_FOODRANK_Habit	멈출 수 없는
+MID_FOODRANK_Smart	독특한
+MID_FOODRANK_Normal	평범한
+MID_FOODRANK_Mistake	뭔가 잘못된
+MID_FOODRANK_Shortage	여러모로 부족한
+MID_FOODRANK_DifferentStar	다른 별의
+MID_FOODRANK_DefinitelySuffer	기절할 만한
+MID_FOODRANK_Carbonization	까맣게 탄
+MID_FOOD_OnionSoup	양파 수프
+MID_FOOD_H_OnionSoup	양파, 물, 조미료만 들어간\n간단한 수프.
+MID_FOOD_ConsommeSoup	콩과 야채를 넣은 콩소메 수프
+MID_FOOD_H_ConsommeSoup	야채와 콩, 두꺼운 베이컨을 넣고\n푹 끓인 음식.\n수프의 기본 재료는 사람마다 다르다.
+MID_FOOD_DumplingsOfMeat	다진 고기 덤플링
+MID_FOOD_H_DumplingsOfMeat	파스타 반죽 속에\n다진 고기와 야채, 빵가루를 채우고\n허브를 넣어서 찐 음식.
+MID_FOOD_PotatoSoup	감자 수프
+MID_FOOD_H_PotatoSoup	으깬 감자를 이용한 걸쭉한 수프.
+MID_FOOD_WhiteSausage	흰 소시지
+MID_FOOD_H_WhiteSausage	양고기와 신선한 돼지고기 베이컨에\n풍미를 위해 허브를 더한 소시지.
+MID_FOOD_StewedSaltedMeat	소금에 절인 고기 찜
+MID_FOOD_H_StewedSaltedMeat	소금에 절인 돼지 사태를\n야채, 허브와 함께 장시간 동안 찐 음식.
+MID_FOOD_CreamCroquette	크림 크로켓
+MID_FOOD_H_CreamCroquette	화이트소스가 들어간 크로켓.
+MID_FOOD_SmokedEel	훈제 장어
+MID_FOOD_H_SmokedEel	내장을 제거한 장어의 훈제 구이.\n부드러워서 껍질째로 먹을 수 있다.
+MID_FOOD_PickledPicklesHerringRoll	피클 초절임 청어 말이
+MID_FOOD_H_PickledPicklesHerringRoll	초절임한 청어로 양파 등의\n피클을 말아서 만든 음식.
+MID_FOOD_FriedCarp	잉어 튀김
+MID_FOOD_H_FriedCarp	내장을 깔끔하게 제거한 잉어를\n그대로 고온에서 튀긴 음식.
+MID_FOOD_ApplePie	애플파이
+MID_FOOD_H_ApplePie	얇게 썬 사과를 가득 채워 구운 파이.
+MID_FOOD_StewedCabbage	양배추 절임
+MID_FOOD_H_StewedCabbage	병이나 절임 용기에 썬 양배추와\n소금, 향신료를 넣고 잘 섞어 절여 둔 음식.
+MID_FOOD_PotatoPancakes	포테이토 팬케이크
+MID_FOOD_H_PotatoPancakes	감자를 갈아 만든 반죽을\n프라이팬에 구운 음식.
+MID_FOOD_SteamedDumpling	찐 경단
+MID_FOOD_H_SteamedDumpling	버터와 우유를 끓여서 만든 빵 반죽을\n둥글게 늘어놓고 뚜껑을 덮어 쪄 낸 음식.
+MID_FOOD_OnionQuiche	양파 키슈
+MID_FOOD_H_OnionQuiche	대량의 양파를 베이컨과 함께 천천히 볶아\n키슈 반죽에 넣고 오븐에서 구워 낸 음식.
+MID_FOOD_FruitHamToast	애플 치즈 토스트
+MID_FOOD_H_FruitHamToast	토스트에 얇게 썬 사과와\n치즈를 올린 음식.
+MID_FOOD_PeachCake	복숭아 케이크
+MID_FOOD_H_PeachCake	버터를 넣은 반죽에 복숭아를 넣고 구워,\n먹기 직전에 설탕 가루를 뿌린 음식.
+MID_FOOD_NutsAndHoneyCake	나무 열매 캐러멜 케이크
+MID_FOOD_H_NutsAndHoneyCake	자른 나무 열매를 설탕으로 조리고,\n반죽 위에 올려서 구운 뒤,\n커스터드 크림을 추가한 음식.
+MID_FOOD_BoiledRedWineInBerry	베리 시럽을 뿌린 아이스크림
+MID_FOOD_H_BoiledRedWineInBerry	베리와 붉은 시럽을 걸쭉하게 끓인 뒤,\n식혀서 차가운 아이스크림과 함께\n내놓는 음식.
+MID_FOOD_FriedBreadOfDonutStyle	도넛풍 튀김빵
+MID_FOOD_H_FriedBreadOfDonutStyle	잼과 크림을 가득 채워 튀긴 빵.
+MID_FOOD_TearingPancakes	한입 팬케이크
+MID_FOOD_H_TearingPancakes	달콤한 팬케이크 반죽을\n한 입 크기로 구워서 버터를 버무린 후\n설탕 가루를 뿌려 마무리한 음식.
+MID_FOOD_Omlet	오믈렛
+MID_FOOD_H_Omlet	둥글게 부친 계란에 토마토와 치즈 등을\n잔뜩 넣은 음식.
+MID_FOOD_ThickGrilledCrepePizza	두툼한 크레이프 피자
+MID_FOOD_H_ThickGrilledCrepePizza	두툼한 크레이프 반죽으로 만든\n쫄깃한 피자.
+MID_FOOD_ThickSlicedPotatoFries	두껍게 썬 감자튀김
+MID_FOOD_H_ThickSlicedPotatoFries	두껍게 썬 감자를 기름에 튀겨\n소금과 버무린 음식.
+MID_FOOD_LambAndCabbageStew	양고기 양배추 스튜
+MID_FOOD_H_LambAndCabbageStew	양고기와 양배추를 넣고\n양배추가 흐물흐물해질 때까지 푹 끓인 음식.
+MID_FOOD_RoastWithSkinOfPorkBelly	오겹살 로스트
+MID_FOOD_H_RoastWithSkinOfPorkBelly	오겹살을 그대로 구워서\n육즙이 가득한 음식.
+MID_FOOD_SteamedThighMeatOfSaltedSheep	소금에 절인 양 넓적다리 찜
+MID_FOOD_H_SteamedThighMeatOfSaltedSheep	소금을 문질러서 건조한\n양의 넓적다리 고기를 찐 음식.
+MID_FOOD_FruitPie	프루트 파이
+MID_FOOD_H_FruitPie	말린 과일을\n파이에 넣어 구운 음식.
+MID_FOOD_BoiledBeefInWine	소고기 포도 소스 조림
+MID_FOOD_H_BoiledBeefInWine	한 입 크기로 자른 소고기를\n양파와 함께 살짝 튀긴 후,\n포도 소스에 조리다 버터를 넣은 음식.
+MID_FOOD_BraisedCod	대구 찜
+MID_FOOD_H_BraisedCod	말린 대구를 물과 잿물에\n순서대로 불리고\n다시 물로 헹군 뒤 쪄 낸 음식.
+MID_FOOD_FishCreamSoup	생선 크림수프
+MID_FOOD_H_FishCreamSoup	생크림을 잔뜩 사용한 생선 수프.
+MID_FOOD_MeatDumplingWithCreamSauce	크림소스를 뿌린 고기 완자
+MID_FOOD_H_MeatDumplingWithCreamSauce	고기 완자에 농후한 크림소스를 뿌린 음식.\n소스에 들어간 잼의 달콤함이\n고기에 어울린다.
+MID_FOOD_MarinatedSalmon	연어 마리네
+MID_FOOD_H_MarinatedSalmon	연어를 소금, 설탕, 허브에 넣고 절인 음식.\n독특한 향이 난다.
+MID_FOOD_CrispBread	크리스프 브레드
+MID_FOOD_H_CrispBread	밀가루, 소금, 물만 가지고 만든\n크래커처럼 매우 얇은 빵.
+MID_FOOD_PorridgeOfSourCream	사워크림 죽
+MID_FOOD_H_PorridgeOfSourCream	사워크림과 밀가루, 우유를 함께 끓인 음식.\n설탕과 녹은 버터를 얹어 먹는다.
+MID_FOOD_CrepePancake	크레이프 팬케이크
+MID_FOOD_H_CrepePancake	크레이프처럼 얇게 구운 팬케이크에\n잼을 발라 돌돌 만 음식.
+MID_FOOD_JamCake	잼 케이크
+MID_FOOD_H_JamCake	잼을 바른 스펀지케이크.
+MID_FOOD_TreeCake	트리 케이크
+MID_FOOD_H_TreeCake	머랭 등을 섞은 반죽을 고리 모양으로 만들어\n다양한 크기로 구운 뒤,\n원뿔형으로 쌓아 올린 음식.
+MID_FOOD_FishDumpling	생선 완자
+MID_FOOD_H_FishDumpling	하얀 생선 살을 베이스로 만든\n반죽을 버터를 이용해 구운 음식.
+MID_FOOD_GoatCheese	산양 치즈
+MID_FOOD_H_GoatCheese	산양유 100%로 만든 갈색 치즈.
+MID_FOOD_Oatmeal	오트밀
+MID_FOOD_H_Oatmeal	우유에 귀리를 넣고 데운 음식.
+MID_FOOD_BakedPotatoes	베이크트 포테이토
+MID_FOOD_H_BakedPotatoes	통째로 구운 감자를 갈라\n치즈와 콩 등으로 토핑한 음식.
+MID_FOOD_NutsCompote	나무 열매 콩포트
+MID_FOOD_H_NutsCompote	다양한 나무 열매를 설탕물에 넣고 조린 음식.
+MID_FOOD_BoiledEggGroundMeatRolls	다진 고기로 감싼 삶은 계란
+MID_FOOD_H_BoiledEggGroundMeatRolls	다진 소고기로 감싼 삶은 계란을\n빵가루에 묻혀 튀긴 음식.
+MID_FOOD_CurryOfChickenAndTomato	닭고기 토마토 카레
+MID_FOOD_H_CurryOfChickenAndTomato	구운 닭고기를 토마토와 크림이 베이스인\n카레 소스에 넣어 끓인 음식.
+MID_FOOD_StewedSheep	양고기 내장 찜
+MID_FOOD_H_StewedSheep	양고기와 양파, 허브 등을\n양의 위에 넣은 뒤, 그것을 찐 음식.
+MID_FOOD_CrumbleCake	크럼블 케이크
+MID_FOOD_H_CrumbleCake	조린 과일에 밀가루, 버터, 설탕으로 만든\n반죽을 덮어씌워서 구운 음식.
+MID_FOOD_MarinatedOnionAndHerring	청어 양파 마리네
+MID_FOOD_H_MarinatedOnionAndHerring	청어를 양파와 함께 식초, 설탕에\n절여 둔 음식.
+MID_FOOD_BakedPie	미트 파이
+MID_FOOD_H_BakedPie	다진 고기, 양파, 감자 등을\n파이로 싸서 구운 음식.
+MID_FOOD_NutsMilkPie	나무 열매 밀크 파이
+MID_FOOD_H_NutsMilkPie	얇게 튀긴 반죽에 튀긴 나무 열매와\n열매를 빻아 만든 시럽을 겹겹이 쌓은 음식.
+MID_FOOD_NutsRicePudding	나무 열매 라이스 푸딩
+MID_FOOD_H_NutsRicePudding	나무 열매를 빻아 만든 시럽과 쌀을\n우유에 넣고 끓인 음식.
+MID_FOOD_DomeBread	돔 빵
+MID_FOOD_H_DomeBread	반죽 안에 잘게 썬 마른 과일을 넣은 뒤\n구운 돔 형태의 빵.
+MID_FOOD_ColdVegetableSoup	야채 냉수프
+MID_FOOD_H_ColdVegetableSoup	다양한 야채와 물, 사과 등을\n잘게 썰어 함께 섞은 음식.
+MID_FOOD_RawHam	생햄
+MID_FOOD_H_RawHam	고급 돼지고기를 사용한 생햄.
+MID_FOOD_SkeweredMeat	고기 꼬치구이
+MID_FOOD_H_SkeweredMeat	향신료와 기름에 담가 둔 다양한 고기를\n꼬치에 꽂아 구운 음식.
+MID_FOOD_Paella	파에야
+MID_FOOD_H_Paella	야채, 어패류를 볶아 그 육수와 함께\n밥을 지어낸 음식.
+MID_FOOD_StewedBaconAndBeans	고기 완자와 콩 찜
+MID_FOOD_H_StewedBaconAndBeans	고기 완자와 콩을\n양파 등과 함께 찐 음식.
+MID_FOOD_Tiramisu	티라미수
+MID_FOOD_H_Tiramisu	에스프레소가 깊이 스며든 비스킷과\n특제 크림을 번갈아 쌓아 차갑게 굳힌 음식.
+MID_FOOD_BerrySaucePannaCotta	베리 소스 판나 코타
+MID_FOOD_H_BerrySaucePannaCotta	부드러운 젤라틴에 설탕, 바닐라 등을 더한\n따뜻한 크림을 틀에 넣어 굳힌 뒤,\n베리 소스를 뿌린 음식.
+MID_FOOD_SeafoodAjillo	해산물 아히요
+MID_FOOD_H_SeafoodAjillo	다양한 해산물에\n올리브유와 마늘을 넣고 끓인 음식.
+MID_FOOD_FriedSardines	정어리 튀김
+MID_FOOD_H_FriedSardines	작은 정어리를 통째로\n올리브유에 넣어 튀긴 음식.
+MID_FOOD_FriedVegetables	야채 볶음
+MID_FOOD_H_FriedVegetables	마늘과 야채를 함께 볶은 음식.
+MID_FOOD_BoiledTomatoesInVinegar	토마토 감초 조림
+MID_FOOD_H_BoiledTomatoesInVinegar	토마토를 양파나 향신료와 함께\n감초에 넣고 조린 음식.
+MID_FOOD_CremeBrulee	크렘 브륄레
+MID_FOOD_H_CremeBrulee	차가운 커스터드 위에 설탕을 묻힌 뒤\n불에 구워서 뜨거운 캐러멜 층이 생긴 음식.
+MID_FOOD_Churro	추로스
+MID_FOOD_H_Churro	짤주머니와 별 모양 깍지로 반죽을 짜낸 뒤\n기름에 튀겨 설탕이나 꿀 등을 바른 음식.
+MID_FOOD_SoftCandy	소프트 캔디
+MID_FOOD_H_SoftCandy	나무 열매 등에 설탕이나 머랭을 섞은 다음\n틀에 넣고 식혀서 굳힌 음식.
+MID_FOOD_AuthenticPizza	오리지널 피자
+MID_FOOD_H_AuthenticPizza	평평하게 편 반죽에 토마토소스와\n치즈, 바질을 올린 음식.
+MID_FOOD_Risotto	리소토
+MID_FOOD_H_Risotto	버터로 볶은 쌀에 육수와\n향신료를 넣고 익힌 음식.
+MID_FOOD_RiceCroquette	라이스 크로켓
+MID_FOOD_H_RiceCroquette	밥에 풀어 둔 계란과\n치즈, 소금, 후추를 섞은 뒤\n빵가루를 묻혀 튀긴 음식.
+MID_FOOD_RosettaBread	로제타 빵
+MID_FOOD_H_RosettaBread	장미 모양으로 생긴 빵.\n속은 비어 있지만,\n겉은 바삭바삭하고 고소하다.
+MID_FOOD_AcquaPazza	아쿠아 파짜
+MID_FOOD_H_AcquaPazza	어패류를 토마토와\n올리브유 등과 함께 끓인 음식.
+MID_FOOD_VealRoll	송아지 고기 말이
+MID_FOOD_H_VealRoll	얇게 썬 소고기 안심 위에\n치즈나 소스 등을 올린 후, 말아서 구운 음식.
+MID_FOOD_SaltedPorkNeck	항정살 소금 절임
+MID_FOOD_H_SaltedPorkNeck	소금에 절인 항정살을\n허브와 함께 구웠다가 얇게 썬 음식.
+MID_FOOD_BloodBoiledSausage	익힌 피 소시지
+MID_FOOD_H_BloodBoiledSausage	피를 넣어 만든 소시지를 익힌 음식.
+MID_FOOD_PotatoMeatBun	감자 고기 찐빵
+MID_FOOD_H_PotatoMeatBun	돼지고기와 양파를\n감자로 만든 반죽에 넣은 음식.
+MID_FOOD_Cocotte	코코트
+MID_FOOD_H_Cocotte	감자, 생선, 크림을 냄비에 넣고\n오븐에서 구운 음식.
+MID_FOOD_GreenPeasMash	매시트 그린 피스
+MID_FOOD_H_GreenPeasMash	완두콩에\n우유와 버터 등을 넣고 으깬 음식.
+MID_FOOD_SandwichCake	샌드위치 케이크
+MID_FOOD_H_SandwichCake	생선 살을 꽃처럼 만들어\n케이크처럼 장식한 샌드위치.
+MID_FOOD_RoastedSalmon	로스트 새먼
+MID_FOOD_H_RoastedSalmon	연어에 밑간을 한 다음\n오븐에서 구운 음식.
+MID_FOOD_StewedMashedPotatoesAndKale	매시트포테이토 허브 찜
+MID_FOOD_H_StewedMashedPotatoesAndKale	으깬 감자에 허브와 우유를 넣고 끓인 음식.
+MID_FOOD_SalmonAndPotatoGratin	연어 감자 그라탱
+MID_FOOD_H_SalmonAndPotatoGratin	소금에 절인 연어와 감자를 포개\n풀어 둔 계란과 우유를 끼얹어\n오븐에서 구운 음식.
+MID_FOOD_ShamrockSalad	섐록 샐러드
+MID_FOOD_H_ShamrockSalad	그릇에 담은 토끼풀에\n올리브유와 식초를 뿌린 음식.
+MID_FOOD_BaconAndFishWrappedBread	베이컨과 생선을 넣은 빵
+MID_FOOD_H_BaconAndFishWrappedBread	호밀 가루 반죽 위에 베이컨과\n소금에 절인 생선을 겹겹이 쌓은 뒤,\n반죽으로 감싸서 오븐에 넣고 구운 음식.
+MID_FOOD_JamCookies	잼 쿠키
+MID_FOOD_H_JamCookies	움푹 파인 쿠키의 중앙 부분에\n잼을 넣고 오븐에서 구운 음식.
+MID_FOOD_CinnamonRoll	시나몬 롤
+MID_FOOD_H_CinnamonRoll	길게 늘인 반죽에 버터를 발라\n시나몬과 설탕을 뿌린 뒤,\n돌돌 말아 오븐에서 구운 음식.
+MID_FOOD_CabbageAndNutSalad	양배추 나무 열매 샐러드
+MID_FOOD_H_CabbageAndNutSalad	양배추와 나무 열매에\n드레싱을 뿌린 음식.
+MID_FOOD_OpenSandwich	오픈 샌드위치
+MID_FOOD_H_OpenSandwich	얇게 자른 호밀빵에 버터를 바른 뒤,\n치즈, 훈제 연어 등을\n빵이 보이지 않을 정도로 올린 음식.
+MID_FOOD_AppleCharlotte	사과 샤를로트
+MID_FOOD_H_AppleCharlotte	비스킷을 그릇같이 만든 뒤, 크림을 넣고\n찐 사과를 썰어서 올린 다음에 식혔다가\n크림으로 예쁘게 장식한 음식.
+MID_FOOD_MochiPancake	쫄깃한 팬케이크
+MID_FOOD_H_MochiPancake	계란, 밀가루, 우유 등의 반죽을\n트레이에 올려놓고 천천히 구운 음식.
+MID_FOOD_SauteedBaconAndApples	베이컨 사과 소테
+MID_FOOD_H_SauteedBaconAndApples	잘게 썬 삼겹살을 굽다가\n고온으로 구운 사과를 넣고 함께 구운 음식.
+MID_FOOD_BerryJelly	베리 젤리
+MID_FOOD_H_BerryJelly	녹말가루를 넣어 걸쭉해진 베리 주스를\n차갑게 식힌 뒤, 위에 생크림을 토핑한 음식.
+MID_FOOD_BakingSodaBread	베이킹 소다 빵
+MID_FOOD_H_BakingSodaBread	효모 대신에 베이킹 소다를 넣어 만든 빵.
+MID_FOOD_SashimiPlatter	모둠 회
+MID_FOOD_H_SashimiPlatter	날생선을 네모나게 썬 음식.
+MID_FOOD_MisoSoup	된장국
+MID_FOOD_H_MisoSoup	콩에 소금과 누룩을 첨가해\n발효시킨 것을 뜨거운 물에 풀어\n두부, 해초 등과 함께 끓인 음식.
+MID_FOOD_Uiro	화과자
+MID_FOOD_H_Uiro	설탕을 넣은 밀가루나 박력분을 쪄서 굳힌 것.
+MID_FOOD_Anmitsu	안미츠
+MID_FOOD_H_Anmitsu	깍둑썰기한 묵에 팥과\n복숭아, 오렌지 등을 토핑하고\n흑설탕을 끼얹은 음식.
+MID_FOOD_EggOverRice	계란 밥
+MID_FOOD_H_EggOverRice	밥에 날계란과 간장을 끼얹어 먹는 음식.
+MID_FOOD_CountrysideBread	시골 빵
+MID_FOOD_H_CountrysideBread	호밀 가루와 소금, 물만 이용해서 만든\n커다란 타원형 빵.
+MID_FOOD_Croissant	크루아상
+MID_FOOD_H_Croissant	버터를 반죽에 넣고 접는 것을 반복한 다음\n초승달 모양으로 구운 빵.
+MID_FOOD_StewedLambMeat	양고기 찜
+MID_FOOD_H_StewedLambMeat	볶은 양고기를 감자, 양파와\n함께 넣고 찐 음식.
+MID_FOOD_StewedVegetables	야채가 듬뿍 들어간 수프
+MID_FOOD_H_StewedVegetables	다양한 야채를 듬뿍 넣고 끓인 수프.
+MID_FOOD_CodDip	대구 딥
+MID_FOOD_H_CodDip	대구를 우유에 끓인 감자와 함께 으깨서\n담백한 크래커 등과 함께 먹는 음식.
+MID_FOOD_HotCrepe	핫 크레이프
+MID_FOOD_H_HotCrepe	과일 주스를 이용해\n크레이프에 향을 더한 음식.
+MID_FOOD_BerryAndCustardTartCake	베리 커스터드 타르트 케이크
+MID_FOOD_H_BerryAndCustardTartCake	타르트 반죽에 커스터드와\n다크베리 잼을 발라서 구운 음식.
+MID_FOOD_PeachSorbet	복숭아 셔벗
+MID_FOOD_H_PeachSorbet	으깬 복숭아의 과즙을 얼려 만든 음식.
+MID_FOOD_AppleBeignet	사과 베이네
+MID_FOOD_H_AppleBeignet	사과를 슈 반죽에 넣은 뒤,\n기름에 튀겨서 설탕을 묻힌 음식.
+MID_FOOD_OrangeChocolate	오렌지 초콜릿
+MID_FOOD_H_OrangeChocolate	설탕물에 조린 오렌지를\n오븐에서 구운 뒤,\n식혀서 초콜릿으로 코팅한 음식.
+MID_FOOD_FruitCandy	과일 사탕
+MID_FOOD_H_FruitCandy	시럽이나 사탕 등을 이용해\n과일을 통째로 코팅한 뒤,\n손에 들 수 있도록 막대를 꽂은 음식.
+MID_FOOD_Smoothie	스무디
+MID_FOOD_H_Smoothie	다양한 과일을\n한데 섞어서 만든 음료.
+MID_FOOD_AppleCanpot	사과 콤폿
+MID_FOOD_H_AppleCanpot	대량의 물에 사과와 설탕을 넣고 끓인 것을\n컵에 담아 마시는 음료.\n차게 마시는 경우도 있다.
+MID_FOOD_OrangeMarmalade	오렌지 마멀레이드
+MID_FOOD_H_OrangeMarmalade	오렌지를 껍질까지 조려 만든 음식.\n담백한 크래커 등에 발라 먹는다.
+MID_FOOD_VegetableStick	야채 스틱
+MID_FOOD_H_VegetableStick	다양한 야채를 막대 모양으로 자른 음식.\n마요네즈 등의 소스에 찍어 먹는다.
+MID_FOOD_ChiliSalad	칠리 샐러드
+MID_FOOD_H_ChiliSalad	대량의 향신료를 사용한\n칠리소스를 뿌린 샐러드.\n정말 맵다.
+MID_FOOD_ChiliFruitStick	칠리 파우더를 뿌린 과일 꼬치
+MID_FOOD_H_ChiliFruitStick	생과일을 잘라 꼬치에 끼운 뒤,\n대량의 향신료 가루를 묻힌 음식.\n정말 맵다.
+MID_FOOD_ChiliIceCream	칠리소스를 뿌린 아이스크림
+MID_FOOD_H_ChiliIceCream	아이스크림에 칠리소스를 뿌린 음식.\n처음에는 달다가 갑자기 몸이\n후끈해질 만큼 정말 맵다.
+MID_FOOD_RedPepperPickles	고추 피클
+MID_FOOD_H_RedPepperPickles	고추를 그대로 식초에 절인 음식.\n정말 맵다.
+MID_FOOD_TomYumSoupWithChicken	치킨 톰얌쿵
+MID_FOOD_H_TomYumSoupWithChicken	치킨 수프에 다양한 향신료를 넣고 끓인 음식.\n복잡한 향과 산미, 그리고 매콤함이 특징.\n정말 맵다.
+MID_FOOD_BoiledChiliWithCheese	고추 치즈 찜
+MID_FOOD_H_BoiledChiliWithCheese	고추와 물, 치즈를 넣고 찐 뒤에\n토마토와 마늘 등을 넣고 추가로 쪄 낸 음식.\n정말 맵다.
+MID_FOOD_RedMaboTofu	붉은 마파두부
+MID_FOOD_H_RedMaboTofu	매운 향신료에 버무려 둔 다진 소고기를\n볶다가 두부를 넣어서 마무리하는 음식.\n정말 맵다.
+MID_FOOD_FriedPorkKimchi	돼지고기 김치 볶음
+MID_FOOD_H_FriedPorkKimchi	고추 등의 향신료로 만든 소스에 며칠 동안\n담가 둔 야채와 돼지고기를 함께 볶은 음식.\n정말 맵다.
+MID_FOODRANK_COND_ComeFromBrodia	브로디아 출신
+MID_FOODRANK_COND_ComeFromFilene	피레네 출신
+MID_FOODRANK_COND_ComeFromSolum	솔룸 출신
+MID_FOODRANK_COND_ComeFromIrcion	이르시온 출신
+MID_FOODRANK_COND_ComeFromLithos	리토스 출신
+MID_FOODRANK_COND_IsMale	남성
+MID_FOODRANK_COND_IsFemale	여성
+MID_FOODRANK_COND_IsAdult	어른
+MID_FOODRANK_COND_IsChild	아이
+MID_FOODRANK_COND_IsLueur	주인공

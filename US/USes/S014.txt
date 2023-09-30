@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nQué extraño... Esto se parece muchísimo\nal castillo de Altea...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\n¿Altea? ¿Un lugar de tu mundo?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06マルス\nAsí es. Me crie allí. Cuando cayó en manos\ndel enemigo, lo recuperé junto a mis aliados.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\n¿Perdiste tu hogar?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06マルス\nEl Imperio de Doluna, liderado por el Dragón\nde las Sombras Medeus, tomó nuestro castillo.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nLos guardias me protegieron para ayudarme\na escapar... Muchos murieron.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06マルス\nAquel día aprendí qué significa\nsentirse impotente.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nAliados como la princesa Shiida y Ogma,\nel mercenario, me ayudaron a liberar mi país.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06マルス\nMe llaman "Rey Heroico", pero los verdaderos\nhéroes son quienes lucharon a mi lado.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nLucho por aquellos que creyeron en mí.\nQuiero devolverles la confianza.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nEntiendo lo que dices...\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nDeseo un futuro de paz con mis amigos\ny aliados. Eso es lo que me motiva a darlo todo.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nTe has fortalecido en las batallas,\neres más que dign\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nY tus amigos te ayudarán a aliviar la carga.\nNo estás sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nMis amigos y mi familia son quienes\nme han traído hasta aquí. Les debo mucho.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06マルス\nSi mantienes esos sentimientos en tu corazón,\nsuperarás este desafío.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\n¿Desafío?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マルス\nSí, luchar contra mí.\nEsa es la prueba que debes afrontar.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06マルス\nGáname para fortalecer nuestro vínculo\ny absorber aún más de mis poderes.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nComencemos, pues. ¡Te demostraré\nque soy capaz de superar cualquier reto!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x16\x06マルス\x0CStatus\n\x0E\x03\x02\x08\x06マルス\nNo pienso permitir que me dejes en ridículo...\nTe advierto que no te lo pondré fácil.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nTe he estado esperando.\n¿Crees que podrás superarme?\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x18\x06マルス\x0EStandBy\n\x0E\x03\x02\x08\x06マルス\nHemos visto de todo: encuentros, despedidas...\nDime, ¿cómo te sientes ahora?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStatus\n\x0E\x03\x02\x0A\x08リュール\nNo encuentro palabras para expresarlo,\nasí que dejaré que hablen las armas.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\n¡Eso es justo lo que quería!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n¡Allá voy!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\n¿Marth? ¿Es necesario que luchemos?\nNo quiero herir a un amigo.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nNo te preocupes por mí...\nEsta lucha es para conquistarte a ti misma.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nConquistarme a mí misma... Ya lo entiendo.\n¡Debo recuperar a la Veyle de antes!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nAlza la cabeza; ya no estás sola.\n¡Recuérdalo y consigue la victoria!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nExcelente. Han probado su fuerza física\ny también la de sus sueños.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マルス\nMientras luchábamos,\nme he acordado de una vieja amiga.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06マルス\nConocí al Dragón Divino Tiki en mitad\nde una batalla como esta.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nEs increíble que en tu mundo\ntambién haya un Dragón Divino.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06マルス\nSí. Al igual que tú, luchó\ndel lado de los humanos.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nLa llevaron a un templo y la sumieron\nen un largo sueño para protegerla.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06マルス\nTras despertar, se sentía muy sola. Cuando\nla conocimos, quiso quedarse con nosotros.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nMe llamaba "Mar-Mar", como haría una hermana\npequeña. Humana o no, nos hicimos amigos.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nEn ese caso, tenemos algo en común\naparte de pertenecer a la misma especie: tú.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth, el héroe que lucha por quienes sufren.\nAl igual que ella, me alegra tenerte cerca.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06マルス\nDesde que te conocí\nhe sentido lo mismo por ti.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nTe estoy muy agradecid\x0E\x0A\x00\x08\x02o\x02a.\nMe he vuelto más fuerte gracias a ti.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nTener aliados es lo que hace que todo sea\nposible. No puedo lograr mi objetivo sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06マルス\nAsí se habla. Siempre estaremos a tu lado.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

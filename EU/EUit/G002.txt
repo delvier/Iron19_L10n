@@ -1,0 +1,67 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0E\x08ヘクトル\x023\n\x0E\x03\x02\x06\x04チキ\nGuarda, \x0E\x06\x03\x00! Lì c'è un altro dei miei\namici dei bracciali!\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nÈ vero. È il bracciale del Generale Audace?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04チキ\nSì! L'emblema sembra addormentato, proprio\ncome era successo a me. Pensi di riuscire a\nsvegliarlo?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nSì. Mi sono venute in mente le parole da usare\nnon appena ho posato lo sguardo sul bracciale.\nProviamo.\x0E\x04\x02\x00
+MID_OP1_#005	Dacci coraggio, emblema della Forza!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nAh, che sonno rinvigorente. Salve, sono Hector.\nSei stat\x0E\x0A\x00\x08\x02o\x02a tu a svegliarmi?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nSì, proprio io. Piacere, Hector. Io sono il Drago\nDivino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nPiacere mio. Non sai che sollievo potermi\nmuovere di nuovo!\x0E\x04\x02\x00
+MID_OP2_#004	Immagino ci sia una ragione, se sei venut\x0E\x0A\x00\x08\x02o\x02a a\ncercarmi.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nQuesto mondo è in preda a una guerra feroce,\na cui stiamo cercando di porre fine.\x0E\x04\x02\x00
+MID_OP2_#006	Speravamo che potessi darci una mano anche\ntu, prestandoci la tua forza.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08ヘクトル\nMmmh. Mi fai una buona impressione, devo\nammetterlo. Si direbbe che hai fegato da\nvendere, proprio come lui.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nDi chi stai parlando?\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08ヘクトル\nDi Eliwood, il mio migliore amico.\x0E\x04\x02\x00
+MID_OP2_#010	Nel mio mondo combatté per salvarci dalla\ncatastrofe, un po' come stai facendo tu.\x0E\x04\x02\x00
+MID_OP2_#011	Noi dovemmo affrontare un gruppo di farabutti\nchiamato Black Fang. Ci diedero parecchio filo\nda torcere...\x0E\x04\x02\x00
+MID_OP2_#012	Fu una lotta campale per me, Eliwood, Lyn\ne altri amici.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nI tuoi amici erano fortunati ad averti dalla loro\nparte.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nEhm, non amo i panegirici. Ma se hai bisogno\ndi aiuto, tanto basta. Conta pure su di me.\x0E\x04\x02\x00
+MID_OP2_#015	Prima, però, vorrei affrontarti in un duello\namichevole, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nIn che senso, scusa?\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08ヘクトル\nÈ trascorso del tempo dall'ultima volta che ho\nassistito a un po' di sana azione e mi piacerebbe\nvederti all'opera.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08リュール\nTutto chiaro. Se è quello che vuoi, sono pront\x0E\x0A\x00\x08\x02o\x02a\na mostrarti il mio valore.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08ヘクトル\nBenissimo. Quando vuoi, si comincia!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nAvanti, fatti sotto e non trattenerti!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nC'è una sostanza simile alla nebbia che proviene\nda laggiù... È meglio essere cauti.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nAttenzione! La nebbia sembra velenosa.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nRelax\n\x0E\x03\x02\x0A\x08ヘクトル\nÈ ora di darmi da fare.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x1C\x08ヘクトル\x10Surprise\n\x0E\x03\x02\x0A\x08ヘクトル\nGuarda chi si vede! Lyn, sono contento di\nritrovarti.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04リン\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nLo stesso vale per me, Hector. Allora, sei\npronto? Ti va di mettermi alla prova, in ricordo\ndei vecchi tempi?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nMai stato più pronto. E dato che siamo amici,\nnon tratterrò la mia forza. Sempre che tu sia\nd'accordo.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x03\x02\x06\x04リン\nOvvio, non accetterei che facessi altrimenti.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nMolto bene, \x0E\x06\x03\x00, fammi vedere\ndi cosa sei capace!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nDovrò dare il tutto per tutto, se voglio avere\nsperanza contro la tua ascia.\x0E\x04\x02\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\nSappi che non mi arrenderò. Sono qui per\nmostrarti il mio valore, avrai pane per i tuoi\ndenti!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x18\x08ヘクトル\x0CNormal\n\x0E\x03\x02\x0A\x08ヘクトル\nOttimo. Fatti sotto, allora!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nMi hai battuto! Chi l'avrebbe mai detto!\nComplimenti, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nAllora, sei soddisfatto di ciò che hai visto?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08ヘクトル\nCerto che lo sono! Mi è bastata un'occhiata\nper avere un saggio del tuo spirito combattivo.\x0E\x04\x02\x00
+MID_ED1_#004	Ho dovuto mettercela tutta per resistere contro\ndi te. Ce la faresti anche senza il mio aiuto,\na dire il vero.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nMa noi abbiamo bisogno di tutta la forza\npossibile, e tu ne hai molta da dare.\x0E\x04\x02\x00
+MID_ED1_#006	Senza i miei alleati, non sarei mai riuscit\x0E\x0A\x00\x08\x02o\x02a a\nsfondare le tue difese.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08ヘクトル\nFai tesoro di questa convinzione.\x0E\x04\x02\x00
+MID_ED1_#008	Un tempo credevo di poter proteggere i miei\ncari affidandomi solo alla mia forza.\x0E\x04\x02\x00
+MID_ED1_#009	Tuttavia, mi sbagliavo di grosso.\x0E\x04\x02\x00
+MID_ED1_#010	Se sopravvissi al Black Fang fu solo grazie\nall'aiuto dei miei fedeli amici e alleati.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nDa come ne parli, dovevano essere delle\npersone eccezionali.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08ヘクトル\nPuoi dirlo forte! Tuttora mi gonfio d'orgoglio\nanche solo a nominarli.\x0E\x04\x02\x00
+MID_ED1_#013	Apprezzo molto la tua determinazione e il\ntuo desiderio di fare progressi, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nQuindi ti unirai a noi?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08ヘクトル\nLa mia ascia è al tuo servizio, per tutto il tempo\nche vorrai.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\nTi ringrazio, emblema Hector. Non vedo l'ora\ndi vederti in azione sul campo di battaglia.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08ヘクトル\nNon potrei chiedere di meglio!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04リン\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nÈ stato un bello scontro, Lyn. Possiamo\nscambiare due parole?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x06\x04リン\nDimmi tutto. Una parte di me si aspetta che\ntu mi chieda la rivincita.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nVolevo solo assicurarmi che stessi bene.\nMi sono lasciato trasportare, poco fa.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x06\x04リン\nGrazie, apprezzo le tue preoccupazioni. Non\nci sei andato leggero, è vero, ma sto bene.\x0E\x04\x02\x00
+MID_ED2_#005	A dirla tutta, sono felice.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08ヘクトル\nFelice che ti abbia colpita con l'ascia?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x06\x04リン\nNo, quello no. Ma mi è tornato in mente il\ntempo trascorso insieme... Io, te e Eliwood.\x0E\x04\x02\x00
+MID_ED2_#008	Ci allenavamo con passione e combattevamo\ncon foga, eppure quei giorni sono carichi di\nricordi felici.\x0E\x04\x02\x00
+MID_ED2_#009	Quando prima ti ho visto combattere con tutta\nla forza che hai, mi sono ricordata di quei\nmomenti.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0A\x08ヘクトル\nNon posso darti torto.\x0E\x04\x02\x00
+MID_ED2_#011	Mi sento tranquillo a scendere in battaglia con\nte, perché so che sarai sempre lì a difendermi.\x0E\x04\x02\x00
+MID_ED2_#012	Sei una cara amica, mi fido ciecamente di te.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x06\x04リン\nMi fa piacere che tu lo ammetta. Spero che\nd'ora in avanti lascerai che ti protegga, invece\ndi lanciarti nella lotta da solo.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nNon temere, non ho intenzione di lasciarti\nindietro.\x0E\x04\x00\x00

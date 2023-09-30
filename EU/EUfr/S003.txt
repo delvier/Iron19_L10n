@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x0A\x08リュール\nQuel est cet endroit, Lucina ? Je ressens\nun pouvoir magique ici.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ルキナ\nOn dirait l'arène de Ferox. Voilà qui est\nfort étrange.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nFerox ? C'est quelque part dans votre monde ?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ルキナ\nOui. Ferox est un royaume divisé entre l'Est\net l'Ouest dont chaque moitié est gouvernée\npar un khan.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ルキナ\nRégulièrement, un tournoi a lieu pour\ndéterminer quel khan régnera sur tous.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06ルキナ\nJ'ai croisé le fer avec mon père dans l'arène\nde Ferox.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nIl vous a appris à manier l'épée, c'est ça ?\nÇa a dû être un duel intéressant, sinon féroce.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ルキナ\nOui, c'était un rude combat. Il ignorait qui\nj'étais et n'a pas retenu ses coups.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ルキナ\nIl m'a bien entraînée, mais ce combat m'a fait\ncomprendre à quel point mon père était fort.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ルキナ\nÇa doit être la raison pour laquelle cet endroit\na été choisi pour l'épreuve.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nL'épreuve ? Qu'est-ce que ça signifie ?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ルキナ\nVous avez dit ressentir un étrange pouvoir ici.\nPouvez-vous me le décrire ?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nC'est comme si je ressentais votre pouvoir...\nMais aussi comme si vous étiez loin de moi.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ルキナ\nDans ce cas, sortez votre arme et affrontez-moi.\nSi vous triomphez de cette épreuve,\nnos liens en seront renforcés.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06ルキナ\nAvec un lien plus étroit, vous pourrez tirer\ndavantage de mon pouvoir en tant qu'Emblème.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nJ'espère pouvoir en apprendre autant que vous\ndans cette arène.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06ルキナ\nCette motivation est rafraîchissante.\nCependant...\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06ルキナ\nIl vous faudra plus que de l'espoir pour\nremporter ce combat.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nVous allez être très surprise si vous\ncroyez que l'espoir est mon seul atout !\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06ルキナ\nTrès bien, \x0E\x06\x03\x00 !\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x18\x06ルキナ\x0EStandBy\n\x0E\x03\x02\x08\x06ルキナ\nNe retenez pas vos coups. Renforcez notre lien.\nDonnez tout ce que vous avez, \x0E\x06\x03\x00 !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x14\x06ルキナ\nAngry\n\x0E\x03\x02\x08\x06ルキナ\nQu'y a-t-il, \x0E\x06\x03\x00 ?\nVous ne gagnerez pas en restant les bras\nballants.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nVotre garde n'offre aucune ouverture.\nOù que je frappe, vous bloqueriez.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06ルキナ\nLe doute ne peut qu'émousser vos attaques.\nAyez confiance en vous. Attaquez-moi\nde toutes vos forces !\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nEntendu. J'arrive !\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nAlors comme ça, les khans combattaient\ndans cette arène pour le droit à régner ?\nC'est comme si le destin nous avait amenés ici.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x03\x02\x08\x06ルキナ\nLes khans ne se battaient pas. Ils recrutaient\ndes mercenaires pour cela.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStatus\n\x0E\x03\x02\x0E\x0Cアルフレッド\nFiou ! Heureusement que cet endroit n'est\npas la véritable arène, alors...\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x08\x06ルキナ\n\x0E\x05\x01\x16\x06ルキナ\x0CStatus\nHi hi hi ! Allez, attaquez-moi !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x08\x06ルキナ\nEh bien, j'ai perdu... Vos techniques de\ncombat se sont considérablement améliorées,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ルキナ\nVous êtes devenu\x0E\x0A\x00\x06
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nMerci. C'est en grande partie grâce à votre\naide, Lucina.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ルキナ\nC'est si aimable de votre part. Si j'ai pu vous\naider ne serait-ce qu'un peu, j'en suis comblée.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06ルキナ\nIl y a une leçon à tirer de tout cela.\nIl existe une limite à ce qu'une personne\npeut accomplir seule.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nJe suis d'accord. Je ne serais jamais allé\x0E\x0A\x00\x06
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nTout ce que j'ai accompli l'a été grâce à celles\net ceux qui ont combattu à mes côtés.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ルキナ\nJe suis soulagée d'entendre ça. Je ressens\ntoujours la présence de mes amis. Leur esprit\ndemeure en moi.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nLeur esprit demeure...\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルキナ\nLe pouvoir des liens qui m'unissent à eux nous\na permis de modifier un futur dénué d'espoir.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06ルキナ\nIl en va de même pour vous à présent,\navec vos propres alliés.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nVous faites partie de ces alliés, Lucina.\nN'est-ce pas ?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ルキナ\nBien sûr ! Je me battrai à vos côtés\njusqu'au bout.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nAlors nous ne pouvons pas perdre. Peu importe\nce que le monde nous réserve.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06ルキナ\nVous avez raison ! Nos liens sont bien plus forts\nque le destin !\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

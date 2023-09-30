@@ -1,0 +1,207 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThere's the castle.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08セリーヌ\nIt's so quiet... Where are our knights? Or the\nElusian soldiers, for that matter?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\nYou said they were marching toward the castle\nwhen you left.\x0E\x04\x02\x00
+MID_OP1_#004	They've probably made their way inside.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08セリーヌ\nBut then...what of the townsfolk? What\nof Mother?!\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nLet's hurry.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x00\x06\x04PP\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x021\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x02\x06\x04イヴ\n...\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x18\x16M005_Irc_ボス\nHate to break it to ya, Queenie, but our forces have taken\nthe castle. This is the part where you tell me where\nyou've got the ring stashed in here.\n\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x06\x04イヴ\nWho's to say?\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x18\x16M005_Irc_ボス\nIs it inside the castle? Out on the grounds?\nI'm asking all polite-like─c'mon!\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x06\x04イヴ\nI'm not in the habit of speaking to lowly vermin.\nThat's all that you are─the lot of you.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x18\x16M005_Irc_ボス\nThe mouth on this one. You think I won't gut\nya where you stand?!\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\nI'd recommend against it, darling.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x18\x16M005_Irc_ボス\nLady Zephia!\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x08\x06セピア\nAfter all, Her Majesty can't tell us much of value\nif she's dead. Now, I come bearing news.\x0E\x04\x02\x00
+MID_OP2_#010	One of our soldiers says he spotted the princess\nfleeing before we arrived. How curious.\x0E\x04\x02\x00
+MID_OP2_#011	Did you perhaps give that daughter of yours\nthe ring for safekeeping?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x06\x04イヴ\n...\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x08\x06セピア\nAw, well, isn't this tragic. We'd simply hate to resort\nto violence.\x0E\x04\x02\x00
+MID_OP2_#014	You leave us no choice. By virtue of your silence, we will\nnow kill every living soul in this castle, one by one.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x06\x04イヴ\nPlease, no!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nMother!\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0A\x08セリーヌ\nMother, we're here!\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x02\x06\x04イヴ\nAlfred! Céline!\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x00\x0C\x06セピア\x024\n\x0E\x03\x02\x08\x06セピア\nOh, look. The kids are home.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x01\x06\x04イヴ\n\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nYou Elusian scum! Get away from her!\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x00\x0C\x06セピア\x024\n\x0E\x03\x02\x08\x06セピア\nHm-hm. Who's going to make us?\x0E\x04\x02\x00
+MID_OP3_#007	I'm glad you've come. Now we can see for\nourselves if the princess has the ring.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x06\x04イヴ\nNo! Please, leave my children alone!\x0E\x04\x00\x00
+MID_OP3_#009	\x0E\x03\x02\x08\x06セピア\nOf course. As long as you tell me where the\nring is.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x06\x04イヴ\nI...\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x08\x06セピア\nAh. Young Céline does have it, doesn't she?\x0E\x04\x02\x00
+MID_OP3_#012	We'll have to kill her, then. The prince, too, for\ngood measure.\x0E\x04\x02\x00
+MID_OP3_#013	Take Her Majesty away. We'll continue our\nconversation later, if need be.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x06\x04イヴ\nUnhand me!\x0E\x04\x02\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nMother!\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLet her go!\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nAll right. Enough with the dramatics.\x0E\x04\x02\x00
+MID_OP4_#004	Huh? You... You look familiar.\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP4_#006	\x0E\x03\x02\x08\x06セピア\nNo. It couldn't be.\x0E\x04\x02\x00
+MID_OP4_#007	Who are you?\x0E\x04\x00\x00
+MID_OP4_#008	\x0E\x03\x02\x0A\x08リュール\nI am the Divine Dragon \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x02\x08\x06セピア\nSuch lies. Lumera is the last of her kind.\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x03\x02\x0E\x0Cアルフレッド\nShows what you know. The Divine One was\nasleep for a thousand years.\x0E\x04\x00\x00
+MID_OP4_#011	\x0E\x03\x02\x08\x06セピア\nReally? When did that beastly woman have\na child?\x0E\x04\x02\x00
+MID_OP4_#012	Hmph. Very well. Perhaps you can tell me what\nhappened to dear Lumera, then.\x0E\x04\x02\x00
+MID_OP4_#013	I've been so worried about her since that awful\nbattle at Lythos Castle.\x0E\x04\x00\x00
+MID_OP4_#014	\x0E\x03\x02\x0A\x08リュール\nHow do you know about that?\x0E\x04\x00\x00
+MID_OP4_#015	\x0E\x03\x02\x08\x06セピア\nHow, indeed.\x0E\x04\x00\x00
+MID_OP4_#016	\x0E\x03\x02\x0A\x08リュール\nYou stole the rings? You killed my mother?!\x0E\x04\x00\x00
+MID_OP4_#017	\x0E\x03\x02\x08\x06セピア\nShe died?! Oh, that poor dear.\x0E\x04\x00\x00
+MID_OP4_#018	\x0E\x03\x02\x0A\x08リュール\nMurderer! I will avenge her!\x0E\x04\x00\x00
+MID_OP4_#019	\x0E\x03\x02\x08\x06セピア\nWhy, I didn't kill her.\x0E\x04\x02\x00
+MID_OP4_#020	I will say, your coming here was quite helpful─\nassuming you are the beast's offspring.\x0E\x04\x02\x00
+MID_OP4_#021	Because that means you have them, don't you?\nThe rings of the Hero-King and the Holy Knight.\x0E\x04\x00\x00
+MID_OP4_#022	\x0E\x03\x02\x0A\x08リュール\nYou'll never take them. Never.\x0E\x04\x00\x00
+MID_OP4_#023	\x0E\x03\x02\x0E\x0Cアルフレッド\nYou were after our ring.\x0E\x04\x00\x00
+MID_OP4_#024	\x0E\x03\x02\x08\x06セピア\nI won't waste my breath on explanations.\nBut I will tell you this.\x0E\x04\x02\x00
+MID_OP4_#025	The kingdom of Elusia has freed Lord Sombron\nfrom his imprisonment.\x0E\x04\x00\x00
+MID_OP4_#026	\x0E\x03\x02\x0A\x08リュール\nThe Fell Dragon has returned?\x0E\x04\x00\x00
+MID_OP4_#027	\x0E\x03\x02\x0E\x0Cアルフレッド\nNo...\x0E\x04\x00\x00
+MID_OP4_#028	\x0E\x03\x02\x08\x06セピア\nOf course, even we couldn't have accounted\nfor...you.\x0E\x04\x02\x00
+MID_OP4_#029	His return must have awoken you. Show a\nlittle gratitude.\x0E\x04\x00\x00
+MID_OP4_#030	\x0E\x03\x02\x0A\x08リュール\nYou're wrong. I awoke because of my mother.\x0E\x04\x02\x00
+MID_OP4_#031	Because she waited for me, all these years...\x0E\x04\x00\x00
+MID_OP4_#032	\x0E\x03\x02\x08\x06セピア\nA touching tale, I'm sure.\x0E\x04\x02\x00
+MID_OP4_#033	Now, if you'll excuse me.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nWait!\x0E\x04\x00\x00
+MID_OP5_#002	\x0E\x04\x03\x04
+MID_OP5_#003	\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStrike\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWhat can we do?\x0E\x04\x00\x00
+MID_OP5_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nTo start, we defeat these soldiers and take\nback the castle.\x0E\x04\x02\x00
+MID_OP5_#005	I'm not going to let them hurt Queen Ève or\nanyone else.\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セピア\x02t\n\x0E\x05\x01\x14\x06セピア\nAngry\n\x0E\x03\x02\x08\x06セピア\nGet the rings. No prisoners.\x0E\x04\x00\x00
+MID_OP6_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nAngry\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nI was hopin' you'd say that.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nThe door's locked. What should we do?\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStrike\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThere's no time to find the key! Let's use brute\nforce to knock it down.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M005_シーフ\x02b\n\x0E\x05\x01\x1E\x10M005_シーフ\nSmile\n\x0E\x03\x02\x12\x10M005_シーフ\nOoo hoo hoo, the castle's under siege!\nMighty fine time to nab some treasure.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nThieves, here, now? That's the last thing we\nneed. We'd better stop them.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIt looks like we can break that wall. We could\ncatch the enemy by surprise if we do that.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nHah! That all you got?!\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nThis one's a tough opponent. He can keep on\nfighting, even after taking a fatal blow.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nSmile\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nThose shiny rings of yours are gonna be mine,\nmine, mine! Reward, here I come! \x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nYou invaded my castle and threatened my\nmother. I'll slay you where you stand!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nOh, the prince of Flowerland is threatening me!\nI'm real scared!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nSmile\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nLooky here, the runaway princess! I'll make you\nfly the coop again.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x16\x08セリーヌ\nAngry\n\x0E\x03\x02\x0A\x08セリーヌ\nI am not running this time. It will be you who\nflees for your life.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nI will show you no mercy. Prepare to die.\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nOoo, the Divine Dragon. If I kill you, I won't\nhave to lick her boots anymore!\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01"\x16M005_Irc_ボス\x08Pain\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nI'd better get outta here.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x024\n\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nAlfred, Mother is in the back room! She's OK.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\nOh, that's a relief.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x00\x0A\x04イヴ\x021\n\x0E\x03\x02\x06\x04イヴ\nThank you, all of you, for rescuing me.\x0E\x04\x02\x00
+MID_ED1_#004	My children, you're safe. What a relief.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0E\x0Cアルフレッド\nWe have a guest, Mother. Someone came all\nthe way from Lythos to see you.\x0E\x04\x02\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04イヴ\nThe Divine Dragon \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nQueen Ève, it's an honor to meet you. I'm so\nglad that you're all right.\x0E\x04\x02\x00
+MID_ED1_#008	I've come here by invitation of Prince Alfred.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x06\x04イヴ\nJust look at you. Awake at long last.\x0E\x04\x02\x00
+MID_ED1_#010	I am Ève, the queen of Firene. It is my absolute\npleasure to welcome you.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThe Divine Dragon has come to help our\ncountry, Mother.\x0E\x04\x02\x00
+MID_ED1_#012	We were just in time to rescue Céline.\x0E\x04\x02\x00
+MID_ED1_#013	And get this! The Divine One summoned\nEmblem Celica from our ring.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x06\x04イヴ\nThe legendary Emblem! Oh my,\nhow extraordinary.\x0E\x04\x02\x00
+MID_ED1_#015	Thank you, sincerely. You have my\ndeepest gratitude.\x0E\x04\x02\x00
+MID_ED1_#016	My family is safe because of you.\x0E\x04\x02\x00
+MID_ED1_#017	You are blessed with the same powers as\nyour mother. How is Queen Lumera?\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08リュール\nWell, she's...\x0E\x04\x02\x00
+MID_ED1_#019	She's gone. My mother passed away.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x06\x04イヴ\nNo...\x0E\x04\x02\x00
+MID_ED1_#021	That's awful. I'm so sorry.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08リュール\nSome intruders entered the castle. They tried\nto kill me, but...\x0E\x04\x02\x00
+MID_ED1_#023	She gave her life to protect mine.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x06\x04イヴ\nOh... How tragic...\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08リュール\nI'm glad that...that I could spare your children\nthe pain of losing their mother...\x0E\x04\x02\x00
+MID_ED1_#026	...\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x02\x06\x04イヴ\nMy heart goes out to you...\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0A\x08リュール\nForgive me. We've only just met and here I am,\nlaying my grief at your feet.\x0E\x04\x02\x00
+MID_ED1_#029	I just wish I could have saved her too.\x0E\x04\x02\x00
+MID_ED1_#030	\x0E\x03\x02\x06\x04イヴ\nDivine One...\x0E\x04\x02\x00
+MID_ED1_#031	While I cannot take away your sorrow, perhaps\nI can help you bear it.\x0E\x04\x02\x00
+MID_ED1_#032	To reunite with her, and then lose her so soon...\nI can only imagine how painful that was.\x0E\x04\x02\x00
+MID_ED1_#033	For now, allow yourself to grieve, knowing that\nI grieve with you.\x0E\x04\x00\x00
+MID_ED1_#034	\x0E\x03\x02\x0A\x08リュール\nThank you, Queen Ève.\x0E\x04\x02\x00
+MID_ED1_#035	Your warmth, your kindness... It's almost like\nshe's here with me.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04イヴ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x00\x0E\x08セリーヌ\x024\n\x0E\x03\x02\x06\x04イヴ\nHow are you feeling?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08リュール\nBetter. I'm sorry you had to see me like that.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\nNo, we shouldn't have dragged you into all\nthis...right now.\x0E\x04\x02\x00
+MID_ED2_#004	I'm sorry, Divine One.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08セリーヌ\nAs am I.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08リュール\nBut if I hadn't left when I did, what might have\nhappened to you, Céline? Or you, Queen Ève?\x0E\x04\x02\x00
+MID_ED2_#007	I'm proud to serve people in need, like my\nmother did.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x0E\x0Cアルフレッド\nThank you.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x0A\x08リュール\nNow, the Elusian leader... She said her kingdom\nreleased the Fell Dragon.\x0E\x04\x02\x00
+MID_ED2_#010	I take it that's why the Corrupted are appearing\nin Elyos again.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x0E\x0Cアルフレッド\nNow there's no question that the Fell Dragon's\nafter the rings.\x0E\x04\x02\x00
+MID_ED2_#012	Which means we need to hurry. Head them off\nbefore they can reach the next one.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x0A\x08リュール\nQueen Ève, your country's ring... May I take it?\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x06\x04イヴ\nOf course. The kingdom of Firene gives it with\nlove, trust, and gratitude.\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08リュール\nThank you very much.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x06\x04イヴ\nThere is something you should know, however...\x0E\x04\x02\x00
+MID_ED2_#017	My kingdom has another Emblem Ring in\nits possession.\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x02\x0E\x0Cアルフレッド\nWhat? Since when?\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0A\x08セリーヌ\nThere is another ring? Here, in Firene?\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x02\x06\x04イヴ\nIt was kept secret to avoid conflict.\x0E\x04\x02\x00
+MID_ED2_#021	For generations, knowledge of this ring has\nbeen confined to the monarchs of Firene.\x0E\x04\x02\x00
+MID_ED2_#022	However, now that the Fell Dragon has arisen,\nit is best to dispel the shroud of secrecy.\x0E\x04\x02\x00
+MID_ED2_#023	It is commonly thought that the Divine Dragon\ngave one ring to each country's leader.\x0E\x04\x02\x00
+MID_ED2_#024	However, Firene received a second.\x0E\x04\x02\x00
+MID_ED2_#025	The Ring of the Dawn Maiden.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x02\x0A\x08リュール\nI see...\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x02\x06\x04イヴ\nTo ensure that no one would find it, the ring\nwas hidden away far from the castle.\x0E\x04\x02\x00
+MID_ED2_#028	It rests in a shrine on the Brodian border.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nAh, I remember those old ruins.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0A\x08セリーヌ\nWhat? You do?\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x0E\x0Cアルフレッド\nYeah. Mother took me there after Father died.\x0E\x04\x02\x00
+MID_ED2_#032	She told me to keep the location in mind.\nAt the time, I didn't know why...\x0E\x04\x02\x00
+MID_ED2_#033	Now it makes sense.\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x02\x06\x04イヴ\nI was preparing you for the day you\nbecame king.\x0E\x04\x00\x00
+MID_ED2_#035	\x0E\x03\x02\x0E\x0Cアルフレッド\nI'll take everyone to the shrine. From there,\nI can continue on with the Divine Dragon.\x0E\x04\x00\x00
+MID_ED2_#036	\x0E\x03\x02\x06\x04イヴ\nSo you are leaving, Alfred.\x0E\x04\x00\x00
+MID_ED2_#037	\x0E\x03\x02\x0E\x0Cアルフレッド\nYes. I want to do my part to end this war.\x0E\x04\x02\x00
+MID_ED2_#038	With your blessing, Mother, I'm going to help\nthe Divine Dragon bring peace to Elyos.\x0E\x04\x00\x00
+MID_ED2_#039	\x0E\x03\x02\x0A\x08セリーヌ\nMother, I would like to join as well.\x0E\x04\x00\x00
+MID_ED2_#040	\x0E\x03\x02\x0A\x08リュール\nAlfred... Céline...\x0E\x04\x02\x00
+MID_ED2_#041	\x0E\x03\x02\x06\x04イヴ\nYou have my blessing. I know you will serve the\nDivine Dragon with honor.\x0E\x04\x02\x00
+MID_ED2_#042	On one condition. Swear to me that you will\ncome back alive.\x0E\x04\x00\x00
+MID_ED2_#043	\x0E\x03\x02\x0E\x0Cアルフレッド\nI swear it.\x0E\x04\x00\x00
+MID_ED2_#044	\x0E\x03\x02\x0A\x08セリーヌ\nI swear it.\x0E\x04\x00\x00
+MID_ED2_#045	\x0E\x03\x02\x0A\x08リュール\nThank you very much, Queen Ève.\x0E\x04\x00\x00
+MID_ED2_#046	\x0E\x03\x02\x06\x04イヴ\nI trust that you will take some time to rest prior\nto your departure.\x0E\x04\x02\x00
+MID_ED2_#047	The journey ahead will be arduous, but know\nthat you are all in my prayers.\x0E\x04\x02\x00
+MID_ED2_#048	May good fortune shine upon you.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06錬成屋\x021\n\x0E\x03\x00\x0E\x08アクセ屋\x023\n\x0E\x03\x02\x08\x06錬成屋\nHey there! You're the Divine Dragon, right?\nGot a second to talk?\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nWho might you be?\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x08\x06錬成屋\nMe, I'm a blacksmith. You can call me Calney.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x0A\x08アクセ屋\nAnd I am Pinet, a clothier. Pleased to meet you.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x08\x06錬成屋\nI'll cut right to it. Our friend Durthon wrote us\nand said he opened a shop at your base.\x0E\x04\x02\x00
+MID_ED3_#006	And, well... We'd like to go there too. We'll be a\nreal help! I can strengthen your weapons.\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x0A\x08アクセ屋\nMy clothes and accessories won't win you any\nbattles, but they will catch eyes and turn heads.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x0A\x08リュール\nIf Durthon vouches for you, that's good enough\nfor me. Please, come along to the Somniel.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x08\x06錬成屋\nReally? That's great! You'll be glad to have us\naround, I promise.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0A\x08アクセ屋\nIndeed. Thank you, Divine One.\x0E\x04\x00\x00
+MID_ED4C_#001	Ugh... OK. I think I lost 'em...
+MID_ED4C_#002	Really! You sure about that, darling?
+MID_ED4C_#003	AH!
+MID_ED4C_#004	You're shaking like a leaf. I take it you failed to\nobtain the ring.
+MID_ED4C_#005	Uh! Apologies, ma'am! Those guys were tougher\nthan they looked!
+MID_ED4C_#006	But I─ I can tell you things! Stuff that'll help you track it\ndown! Like the fact that Princess Céline ran off with it.
+MID_ED4C_#007	The Divine Dragon \x0E\x06\x03\x00 has it now.\nPretty good info, right? Heh...
+MID_ED4C_#008	Hmm...
+MID_ED4C_#009	Whaddaya say? How 'bout we call it even this\ntime around? I won't let you down again.
+MID_ED4C_#010	Oh, how naive you are.
+MID_ED4C_#010_2	After you fail me once, there is no second chance.
+MID_ED4C_#011	No! Please don't kill me! Please don't kill me!
+MID_ED4C_#012	AAH!
+MID_ED4C_#013	Hmph.
+MID_ED4C_#014	 
+MID_ED4C_#015	I am sorry, my lady. Apologies for the mess.\nAnd our failure to acquire the ring.
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x16\x10ヴェイル_フード\x021\n\x0E\x03\x00\x0C\x06セピア\x022\n\x0E\x03\x02\x12\x10ヴェイル_フード\nI was expecting to get at least one.\x0E\x04\x02\x00
+MID_ED4_#002	At least now we know that Lumera is dead.\x0E\x04\x00\x00
+MID_ED4_#003	\x0E\x03\x02\x08\x06セピア\nYes, but there's another Divine Dragon to take\nher place. I can't believe that beast had a child.\x0E\x04\x00\x00
+MID_ED4_#004	\x0E\x03\x02\x12\x10ヴェイル_フード\nIt does explain why she was so willing to\nsacrifice her life.\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x08\x06セピア\nWhat should we do?\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x02\x12\x10ヴェイル_フード\nThe battle at Lythos Castle took its toll. We're\nin no shape for another confrontation.\x0E\x04\x02\x00
+MID_ED4_#007	We best lie low for a spell. Leave them be.\nFor now.\x0E\x04\x00\x00
+MID_ED4_#008	\x0E\x03\x02\x08\x06セピア\nUnderstood.\x0E\x04\x00\x00

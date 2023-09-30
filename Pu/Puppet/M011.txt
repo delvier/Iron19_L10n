@@ -1,0 +1,147 @@
+MID_OP1_#001	
+MID_OP1_#002	
+MID_OP1_#003	
+MID_OP1_#004	
+MID_OP2_#001	
+MID_OP2_#002	
+MID_OP2_#003	
+MID_OP2_#004	
+MID_OP3_#001	
+MID_EV1_#001	
+MID_EV1_#002	
+MID_EV2_#001	
+MID_EV2_#002	
+MID_EV2_#003	
+MID_EV2_#004	
+MID_EV3_#001	
+MID_EV4_#001	
+MID_EV4_#002	
+MID_EV5_#001	
+MID_EV5_#002	
+MID_EV5_#003	
+MID_EV6_#001	
+MID_EV6_#002	
+MID_EV6_#003	
+MID_EV6_#004	
+MID_EV6_#005	
+MID_EV6_#006	
+MID_EV6_#007	
+MID_EV7_#001	背景(Map_Event_M011_01)\nライト(CharaLight_M011, 0, 0, 0)\n\nキャラ配置(PID_リュール, ME_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_アイビー, YOU_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_ゼルコバ, YOU_MID_B, [服装], Normal, IdleNormal,-10)\nキャラ配置(PID_カゲツ, YOU_MID_D, [服装], Normal, IdleNormal, 10)\n\nキャラ配置調整(PID_ゼルコバ, 0, 0, -0.15)\nキャラ配置調整(PID_カゲツ, 0, 0, -0.15)\n\nキャラ視線(PID_リュール, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アイビー, PID_リュール, PID_リュール)\nキャラ視線(PID_ゼルコバ, PID_リュール, PID_リュール)\nキャラ視線(PID_カゲツ, PID_リュール, PID_リュール)\n\nシーンカメラ(SceneCam_FrontYou_Center_Mid, cam_anim_zoom_out_normal)\n\nキャラモーション再生(PID_アイビー, Normal, RunIn)\nキャラモーション再生(PID_ゼルコバ, Normal, RunIn)\nキャラモーション再生(PID_カゲツ, Normal, RunIn)\n\nウェイト(0.3)\n\nフェードイン()
+MID_EV7_#002	キャラモーション再生(PID_リュール, Surprise, EmoTalk,, 0.8)\nキャラモーション再生(PID_アイビー, Normal, IdleNormal)\nキャラモーション再生(PID_ゼルコバ, Normal, IdleNormal)\nキャラモーション再生(PID_カゲツ, Normal, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_EV7_#003	キャラモーション再生(PID_アイビー, Sad, EmoRelax,, 0.8)\nキャラモーション再生(PID_リュール, Surprise, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_アイビー, cam_anim_zoom_in_slow)
+MID_EV7_#004	キャラモーション再生(PID_アイビー, Normal, EmoGive,, 0.8)
+MID_EV7_#005	キャラモーション再生(PID_アイビー, Normal, IdleNormal)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_normal)
+MID_EV7_#006	キャラモーション再生(PID_アイビー, Normal, EmoTalk,, 0.8)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_zoom_in_slow)
+MID_EV7_#007	キャラモーション再生(PID_リュール, Sad, EmoThink,, 0.8)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_EV7_#008	キャラモーション再生(PID_アイビー, Die)\n\nキャラカメラ(CharaCam_Shoulder_Right_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_EV7_#009	キャラモーション再生(PID_アイビー, Normal, EmoRelax,, 0.8)\nキャラモーション再生(PID_リュール, Sad, IdleNormal)\n\nシーンカメラ(SceneCam_FrontYou_Center_Mid, cam_anim_zoom_in_slow)
+MID_EV7_#010	\nキャラモーション再生(PID_アイビー, Sad, EmoTalk2,, 0.8)
+MID_EV7_#011	キャラモーション再生(PID_リュール, Smile, EmoRelax,, 0.8)\n\nキャラ表示切替(PID_カゲツ, False)\n\nキャラカメラ(CharaCam_Shoulder_Left_Top, PID_アイビー, cam_anim_zoom_in_normal)
+MID_EV7_#012	キャラモーション再生(PID_リュール, Normal, EmoTalk,, 0.8)
+MID_EV7_#013	キャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_out_slow)\nキャラモーション再生(PID_リュール, Die, EmoPray,, 0.8)\n\n*\n一枚絵表示(Tex_Event_Effect_White, picture_fade_in_slow)\n\n\nウェイト(1.8)\n\nフェードアウト()
+MID_EV8_#001	
+MID_EV9_#001	
+MID_EV10_#001	
+MID_EV10_#002	
+MID_EV10_#003	
+MID_EV10_#004	
+MID_EV10_#005	
+MID_EV10_#006	
+MID_EV10_#007	
+MID_EV11_#001	
+MID_EV11_#002	
+MID_EV11_#003	
+MID_EV11_#004	
+MID_EV11_#005	
+MID_EV12_#001	
+MID_EV12_#002	
+MID_EV13_#001	
+MID_EV13_#002	
+MID_EV14_#001	
+MID_EV15_#001	
+MID_BT1_#001	
+MID_BT2_#001	
+MID_BT3_#001	
+MID_BT4_#001	
+MID_BT5_#001	
+MID_BT6_#001	
+MID_BT7_#001	
+MID_BT8_#001	
+MID_BT9_#001	
+MID_BT10_#001	
+MID_BT11_#001	
+MID_BT12_#001	
+MID_BT13_#001	
+MID_BT14_#001	
+MID_BT15_#001	
+MID_ED1_#001	サウンドイベント(Env_Evt_Rain_Start)\n\nエフェクト表示(Effect01, Effects/Event/M011_MID_ED3/Prefabs/M011_MID_ED3_03)\n\n背景(Map_Event_M011_01)\nライト(CharaLight_M011, 0, 0, 0)\n\nキャラ配置(PID_リュール, ME_IN_CD, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_アルフレッド, ME_IN_AB, [服装], Sad, IdleNormal, 15)\nキャラ配置(PID_ディアマンド, ME_MID_B, [服装], Sad, IdleNormal, 7)\nキャラ配置(PID_スタルーク, ME_MID_C, [服装], Sad, IdleNormal, 0)\nキャラ配置(PID_アイビー, YOU_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_デモ用_視線設定用, YOU_MID_C, [服装], Normal, IdleNormal, 0)\n\nキャラ配置調整(PID_リュール, 0, 0, 0.2)\nキャラ配置調整(PID_アイビー, 0, 0, 0.3)\nキャラ配置調整(PID_アルフレッド, -0.2, 0, 0.3)\nキャラ配置調整(PID_ディアマンド, 0, 0, 0.2)\nキャラ配置調整(PID_スタルーク, 0, 0, 0.2)\nキャラ配置調整(PID_デモ用_視線設定用, -0.5, -1, 0)\n\nキャラ視線(PID_リュール, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アルフレッド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_ディアマンド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_スタルーク, PID_デモ用_視線設定用, PID_デモ用_視線設定用)\nキャラ視線(PID_アイビー, PID_リュール, PID_リュール)\n\nウェイト(0.6)\nキャラカメラ(CharaCam_Shoulder_Right_Mid, PID_リュール, cam_anim_track_r_normal)\n\nフェードイン()
+MID_ED1_#002	キャラモーション再生(PID_アイビー, Die, EmoThink,, 0.3)\n\nキャラカメラ(CharaCam_Side_Right2_Top, PID_アイビー, cam_anim_zoom_in_slow)
+MID_ED1_#003	 キャラモーション再生(PID_スタルーク, Sad)\nキャラモーション再生(PID_アイビー, Die, IdleNormal)\n\nキャラ表示切替(PID_リュール, False)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_スタルーク, cam_anim_track_r_slow)
+MID_ED1_#004	キャラモーション再生(PID_ディアマンド, Serious)
+MID_ED1_#005	キャラモーション再生(PID_アルフレッド, Sad, EmoSad2,, 0.5)\n\nキャラ視線(PID_ディアマンド, PID_アルフレッド, PID_アイビー)\nキャラ視線(PID_アルフレッド, PID_ディアマンド, PID_ディアマンド)\n\nキャラ表示切替(PID_リュール, True)\nキャラ配置調整(PID_リュール, 0.2, 0, 0)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_アルフレッド, cam_anim_pan_l_normal)
+MID_ED1_#006	キャラモーション再生(PID_アイビー, Normal, EmoTalk2,, 0.3)\n\nキャラ視線(PID_ディアマンド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アルフレッド, PID_アイビー, PID_ディアマンド)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_pan_l_normal)\n\n*\n\nキャラモーション再生(PID_アルフレッド, Sad, WalkOut,, 0.3)\nキャラモーション再生(PID_ディアマンド, Sad, WalkOut,, 0.3)\nキャラモーション再生(PID_スタルーク, Sad, WalkOut,, 0.3)\n\nキャラ視線(PID_スタルーク, PID_アイビー, PID_アイビー)
+MID_ED1_#007	キャラモーション再生(PID_リュール, Die)\n\nキャラカメラ(CharaCam_Front_Center_Top, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED1_#008	キャラモーション再生(PID_リュール, Serious, EmoRelax,, 0.3)\n\n*\n\nフェードアウト()
+MID_ED2_#001	背景(Map_Event_M011_02)\nライト(CharaLight_M011, 0, 0, 0)\n\nエフェクト表示(Effect01, Effects/Event/M011_MID_ED3/Prefabs/M011_MID_ED3_03)\n\nキャラ配置(PID_ヴェイル_白_悪, ME_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_ヴァンドレ, YOU_OUT_C, [服装], Normal, IdleNormal, 0)\n\nキャラ配置調整(PID_ヴァンドレ, 0, -1.5, 0, 0)\nキャラ表示切替(PID_ヴァンドレ,False)\n\nキャラカメラ(CharaCam_ShoulderLong_Right_Bot, PID_ヴェイル_白_悪, cam_anim_zoom_in_slow)\nキャラカメラ(CharaCam_FrontLong2_Left_Bot, PID_ヴェイル_白_悪, cam_anim_zoom_out_slow, 2.9)\nウェイト(0.2)\nフェードイン()\n\n*\nパペット会話中断()\nウェイト(3)\nキャラ表示切替(PID_ヴァンドレ,True)
+MID_ED2_#002	キャラカメラ(CharaCam_Side_Left2_Mid, PID_ヴェイル_白_悪, cam_anim_fix)\nキャラ視線(PID_ヴェイル_白_悪, PID_ヴァンドレ, PID_ヴァンドレ,0.6)\nキャラモーション再生(PID_ヴェイル_白_悪, Normal, EmoSad2,,0.8)\nキャラモーション再生(PID_ヴェイル_白_悪, Normal, WalkLoop,4,1)
+MID_ED2_#003	キャラ配置調整(PID_ヴァンドレ, 0, 1.5, 0, 0)\nキャラ視線(PID_ヴェイル_白_悪, PID_ヴァンドレ, PID_ヴァンドレ)
+MID_ED2_#004	キャラモーション再生(PID_ヴェイル_白_悪, Normal, WalkLoop,, 1.5)\n\nキャラカメラ(CharaCam_Front_Center_Top, PID_ヴェイル_白_悪, cam_anim_zoom_in_slow)
+MID_ED2_#005	キャラモーション再生(PID_ヴェイル_白_悪, Smile)\n\n*\n\nフェードアウト()
+MID_ED3_#001	背景(Map_Event_M011_03)\nライト(CharaLight_M011, 0, 0, 0)\n\nエフェクト表示(Effect01, Effects/Event/M011_MID_ED3/Prefabs/M011_MID_ED3_03)\n\nキャラ配置(PID_リュール, ME_IN_DE, [服装], Sad, IdleNormal, -5)\nキャラ配置(PID_アルフレッド, ME_IN_CD, [服装], Sad, IdleNormal, 0)\nキャラ配置(PID_ディアマンド, ME_IN_AB, [服装], Sad, IdleNormal, 45)\nキャラ配置(PID_スタルーク, ME_IN_BC, [服装], Sad, IdleNormal, 15)\n//キャラ配置(PID_セリーヌ, ME_MID_BC, [服装], Sad, IdleNormal, 12)\nキャラ配置(PID_アイビー, YOU_IN_D, [服装], Normal, IdleNormal, 0)\nキャラ配置(GID_リン, YOU_IN_C, [服装], Normal, IdleNormal, -12)\nキャラ配置(GID_ルキナ, YOU_IN_B, [服装], Normal, IdleNormal, -17)\n\nキャラ配置調整(PID_アルフレッド, 0, 0, -0.07)\nキャラ配置調整(PID_ディアマンド, -0.1, 0, 0)\nキャラ配置調整(PID_スタルーク, 0, 0, -0.1)\nキャラ配置調整(GID_リン, -0.35, 0, 0.5)\nキャラ配置調整(GID_ルキナ, -0.5, 0, 0.5)\n\nキャラ視線(PID_リュール, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アルフレッド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_ディアマンド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_スタルーク, PID_アイビー, PID_アイビー)\n//キャラ視線(PID_セリーヌ, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アイビー, PID_リュール, PID_リュール)\nキャラ視線(GID_リン, PID_リュール, PID_リュール)\nキャラ視線(GID_ルキナ, PID_リュール, PID_リュール)\n\nキャラ表示切替(GID_リン, False)\nキャラ表示切替(GID_ルキナ, False)\n\nウェイト(0.3)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_zoom_out_slow)\n\nキャラモーション再生(PID_アイビー, Normal, EmoTalk2,, 0.5)\n\nウェイト(0.3)\n\nフェードイン()
+MID_ED3_#002	キャラモーション再生(PID_リュール, Serious, EmoDenyu2,, 0.5)\nキャラモーション再生(PID_アイビー, Normal, IdleNormal)\n\nキャラ視線(PID_アルフレッド, PID_リュール, PID_リュール)\nキャラ視線(PID_ディアマンド, PID_リュール, PID_リュール)\nキャラ視線(PID_スタルーク, PID_リュール, PID_リュール)\n//キャラ視線(PID_セリーヌ, PID_リュール, PID_リュール)\n\n//キャラ表示切替(PID_セリーヌ, False)\n//キャラ配置調整(PID_セリーヌ, 0.2, 0, -0.2)\n\nキャラカメラ(CharaCam_Side_Right3_Top, PID_リュール, cam_anim_pan_d_slow)
+MID_ED3_#003	//キャラ表示切替(PID_セリーヌ, True)\n\n*\nパペット会話中断()\nウェイト(1)
+MID_ED3_#004	キャラモーション再生(PID_リュール, Sad, EmoRelax,, 0.5)\n\nキャラ視線(PID_リュール, PID_アルフレッド, PID_アルフレッド)\n\nキャラカメラ(CharaCam_Side_Left2_Mid, PID_リュール, cam_anim_pan_r_slow)
+MID_ED3_#005	キャラモーション再生(PID_アルフレッド, Sad, EmoDeny2,, 0.5)
+MID_ED3_#006	キャラモーション再生(PID_ディアマンド, Sad, EmoSad,, 0.5)\nキャラモーション再生(PID_リュール, Sad, IdleNormal)\nキャラモーション再生(PID_アルフレッド, Sad, IdleNormal)\n\nキャラカメラ(CharaCam_FrontLong_Left_Top, PID_ディアマンド, cam_anim_pan_l_slow)
+MID_ED3_#007	キャラモーション再生(PID_スタルーク, Sad, EmoRelax,, 0.5)
+MID_ED3_#008	キャラモーション再生(PID_アイビー, Die, EmoDeny2,, 0.5)\nキャラモーション再生(PID_ディアマンド, Sad, IdleNormal)\nキャラモーション再生(PID_スタルーク, Angry, IdleNormal)\n\nキャラ視線(PID_アイビー, PID_スタルーク, PID_スタルーク)\n\n//キャラ配置調整(PID_セリーヌ, 0.15, 0, 0)\n\nキャラカメラ(CharaCam_Side_Right2_Bot, PID_アイビー, cam_anim_zoom_in_normal)
+MID_ED3_#009	キャラモーション再生(PID_スタルーク, Surprise)\nキャラモーション再生(PID_スタルーク, Angry, EmoSurprise2, 1, 0.5)\nキャラモーション再生(PID_ディアマンド, Angry)\n\nキャラ視線(PID_ディアマンド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_スタルーク, PID_アイビー, PID_アイビー)\n//キャラ視線(PID_セリーヌ, PID_スタルーク, PID_スタルーク)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_スタルーク, cam_anim_zoom_out_normal)
+MID_ED3_#010	キャラモーション再生(PID_リュール, Sad, EmoTalk,, 0.5)\nキャラモーション再生(PID_スタルーク, Angry, IdleNormal)\n\nキャラ視線(PID_リュール, PID_スタルーク, PID_スタルーク)\nキャラ視線(PID_アルフレッド, PID_スタルーク, PID_スタルーク)\nキャラ視線(PID_ディアマンド, PID_スタルーク, PID_アイビー)\n\nキャラカメラ(CharaCam_Front_Center2_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED3_#011	キャラモーション再生(PID_スタルーク, Strike, EmoDeny2,, 0.5)\n\nキャラ視線(PID_スタルーク, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_スタルーク, cam_anim_pan_l_slow)
+MID_ED3_#012	キャラモーション再生(PID_スタルーク, Serious, EmoSad,, 1)\nキャラモーション再生(PID_リュール, Sad, IdleNormal)
+MID_ED3_#013	キャラ視線(PID_スタルーク, PID_ディアマンド, PID_ディアマンド)\n\nキャラモーション再生(PID_スタルーク, Die, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED3_#014	キャラモーション再生(PID_ディアマンド, Die)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_ディアマンド, cam_anim_zoom_in_slow)
+MID_ED3_#015	キャラモーション再生(PID_ディアマンド, Sad, EmoTalk,, 0.5)\n\nキャラ視線(PID_ディアマンド, PID_スタルーク, PID_スタルーク)
+MID_ED3_#016	キャラモーション再生(PID_スタルーク, Strike, EmoAngry,, 0.5)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_スタルーク, cam_anim_track2_l_normal)
+MID_ED3_#017	キャラモーション再生(PID_ディアマンド, Strike)
+MID_ED3_#018	キャラモーション再生(PID_ディアマンド, Serious)\nキャラモーション再生(PID_スタルーク, Serious, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_ディアマンド, cam_anim_zoom_in_normal)
+MID_ED3_#019	キャラモーション再生(PID_スタルーク, Sad)\nキャラモーション再生(PID_ディアマンド, Die, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_スタルーク, cam_anim_zoom_in_normal)
+MID_ED3_#020	キャラモーション再生(PID_リュール, Sad, EmoDeny2,, 0.5)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_pan_r_slow)
+MID_ED3_#021	キャラモーション再生(PID_ディアマンド, Sad, EmoDeny2,, 0.5)\n\nキャラ視線(PID_ディアマンド, PID_リュール, PID_リュール)\n\n*\nパペット会話中断()\nウェイト(1)
+MID_ED3_#022	キャラモーション再生(PID_ディアマンド, Normal, EmoRelax,, 0.5)\n\nキャラ視線リセット(PID_スタルーク)\nキャラ視線(PID_リュール, PID_アイビー, PID_アイビー)\nキャラ視線(PID_アルフレッド, PID_アイビー, PID_アイビー)\nキャラ視線(PID_ディアマンド, PID_アイビー, PID_アイビー)\n\nキャラカメラ(CharaCam_Side_Left2_Mid, PID_ディアマンド, cam_anim_track_r_normal)
+MID_ED3_#023	キャラモーション再生(PID_アイビー, Sad, EmoRelax,, 0.5)\n\nキャラカメラ(CharaCam_Side_Right2_Mid, PID_アイビー, cam_anim_track_l_normal)
+MID_ED3_#024	キャラモーション再生(PID_スタルーク, Sad, EmoDeny2,, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Top, PID_スタルーク, cam_anim_zoom_in_slow)
+MID_ED3_#025	キャラモーション再生(PID_スタルーク, Sad, EmoSad,, 1)
+MID_ED3_#026	キャラモーション再生(PID_ディアマンド, Sad)\n\nキャラ視線(PID_ディアマンド, PID_スタルーク, PID_スタルーク)\n\nキャラカメラ(CharaCam_Front_Left_Top, PID_ディアマンド, cam_anim_pan_l_normal)
+MID_ED3_#027	キャラモーション再生(PID_リュール, Die)\n\nキャラ視線(PID_アルフレッド, PID_リュール, PID_リュール)\nキャラ視線(PID_セリーヌ, PID_リュール, PID_リュール)\n\nライト(CharaLight_M011, 0, -20, 0)\nキャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_pan_r_slow)
+MID_ED3_#028	キャラモーション再生(PID_リュール, Angry, EmoDeny2,, 0.5)\n\nキャラ視線(PID_リュール, PID_アルフレッド, PID_アルフレッド)
+MID_ED3_#029	キャラモーション再生(PID_リュール, Angry)\nキャラ視線(PID_スタルーク, PID_リュール, PID_リュール)\nキャラ視線(PID_ディアマンド, PID_リュール, PID_リュール)\n\nライト(CharaLight_M011, 0, 0, 0)\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED3_#030	//キャラモーション再生(PID_セリーヌ, Smile)\n\n//キャラ表示切替(GID_リン, True)\n//キャラ表示切替(GID_ルキナ, True)\nキャラ視線(PID_アイビー, PID_ディアマンド, PID_スタルーク)\nキャラモーション再生(PID_アイビー, Normal)\n\nキャラ回転(PID_アイビー, -35, 0)\nキャラ視線(PID_アイビー, GID_リン, GID_リン)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_スタルーク, cam_anim_zoom_in_normal)\n\n*\nパペット会話中断()\nウェイト(0.5)
+MID_ED3_#031	キャラカメラ(CharaCam_FrontLong2_Right_Mid, GID_リン, cam_anim_track2_r_normal)\n\nキャラ視線(PID_リュール, GID_リン, GID_リン)\nキャラ視線(PID_アルフレッド, GID_リン, GID_リン)\nキャラ視線(PID_ディアマンド, GID_リン, GID_リン)\nキャラ視線(PID_スタルーク, GID_リン, GID_リン)\n//キャラ視線(PID_セリーヌ, GID_リン, GID_リン)\n\nキャラ表示切替(GID_リン, True)\nキャラモーション再生(GID_リン, Normal, WalkIn)\nエフェクト表示(Effect02, Effects/Event/M011_MID_ED3/Prefabs/M011_MID_ED3_01)\nキャラモーション再生(GID_リン, Normal, EmoTalk, 0.8, 0.5)\n\n\n*\nパペット会話中断()\nウェイト(0.5)
+MID_ED3_#032	キャラ表示切替(GID_ルキナ, True)\nキャラモーション再生(GID_ルキナ, Normal, WalkIn)\nエフェクト表示(Effect03, Effects/Event/M011_MID_ED3/Prefabs/M011_MID_ED3_02)\nキャラモーション再生(GID_ルキナ, Normal, EmoSad2, 0.8, 0.5)
+MID_ED3_#033	キャラモーション再生(PID_リュール, Normal)\nキャラモーション再生(PID_アルフレッド, Normal)\nキャラモーション再生(GID_リン, Normal, IdleNormal)\nキャラモーション再生(GID_ルキナ, Normal, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_out_normal)
+MID_ED3_#034	キャラモーション再生(GID_リン, Smile, EmoTalk2,, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Mid, GID_リン, cam_anim_zoom_in_normal)
+MID_ED3_#035	キャラモーション再生(GID_ルキナ, Normal, EmoNod,, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Mid, GID_ルキナ, cam_anim_zoom_in_normal)
+MID_ED3_#036	キャラモーション再生(PID_リュール, Die)\nキャラモーション再生(GID_リン, Smile, IdleNormal)\nキャラモーション再生(GID_ルキナ, Normal, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Top, PID_リュール, cam_anim_zoom_in_slow)
+MID_ED3_#037	キャラモーション再生(PID_リュール, Sad, EmoTalk,, 0.5)\n\nキャラ表示切替(PID_アイビー, False)
+MID_ED3_#038	キャラモーション再生(GID_リン, Normal, EmoDeny2,, 0.5)\nキャラモーション再生(PID_リュール, Sad, IdleNormal)\n\nキャラカメラ(CharaCam_Side_Right_Mid, GID_リン, cam_anim_track_l_slow)
+MID_ED3_#039	キャラモーション再生(PID_リュール, Die, EmoThink,, 0.5)\nキャラモーション再生(GID_リン, Normal, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED3_#040	キャラモーション再生(GID_リン, Die)\nキャラモーション再生(PID_リュール, Die, IdleNormal)\n\nキャラカメラ(CharaCam_Side_Right2_Mid, GID_リン, cam_anim_zoom_in_normal)
+MID_ED3_#041	キャラモーション再生(GID_リン, Normal)
+MID_ED3_#042	キャラモーション再生(GID_ルキナ, Normal, EmoTalk,, 0.5)\n\nキャラカメラ(CharaCam_Side_Right2_Mid, GID_ルキナ, cam_anim_zoom_in_normal)
+MID_ED3_#043	キャラモーション再生(GID_ルキナ, Sad)
+MID_ED3_#044	キャラモーション再生(PID_リュール, Sad, EmoRelax,, 0.5)\nキャラモーション再生(GID_ルキナ, Sad, IdleNormal)\n\nキャラカメラ(CharaCam_Front_Center_Top, PID_リュール, cam_anim_zoom_in_normal)
+MID_ED3_#045	キャラモーション再生(GID_ルキナ, Normal)\nキャラモーション再生(PID_リュール, Sad, IdleNormal)\n\nキャラ視線(PID_アルフレッド, PID_リュール, PID_リュール)\nキャラ視線(PID_ディアマンド, PID_リュール, PID_リュール)\nキャラ視線(PID_スタルーク, PID_リュール, PID_リュール)\n//キャラ視線(PID_セリーヌ, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_Front_Center_Mid, GID_ルキナ, cam_anim_zoom_in_normal)
+MID_ED3_#046	キャラモーション再生(PID_リュール, Die, EmoNod,, 0.5)\nキャラモーション再生(PID_ディアマンド, Normal)\nキャラモーション再生(PID_スタルーク, Normal)\n//キャラモーション再生(PID_セリーヌ, Normal)\nキャラモーション再生(PID_アイビー, Normal)\n\nキャラ視線(PID_アイビー, PID_リュール, PID_リュール)\n\nライト(CharaLight_M011, 0, -20, 0)\nキャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_track2_l_normal)\n\n*\nパペット会話中断()\nウェイト(2)
+MID_ED3_#047	キャラモーション再生(PID_リュール, Normal)
+MID_ED3_#048	キャラモーション再生(PID_リュール, Angry)\n\nライト(CharaLight_M011, 0, 0, 0)\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_slow)
+MID_ED3_#049	キャラモーション再生(PID_リュール, Angry)
+MID_ED3_#050	キャラモーション再生(PID_リュール, Angry, EmoJoy,, 0.5)\n\nキャラカメラ(CharaCam_Side_Right2_Bot, PID_リュール, cam_anim_zoom_out_slow)\n\n*\nパペット会話中断()\nウェイト(1)
+MID_ED3_#051	キャラモーション再生(PID_リュール, Angry, EmoTalk,, 1)\n\nキャラ視線(PID_リュール, PID_アルフレッド, PID_アルフレッド)\n\nキャラカメラ(CharaCam_Side_Left2_Mid, PID_リュール, cam_anim_pan_r_slow)\n\nキャラ回転(PID_アイビー, 35, 0)
+MID_ED3_#052	キャラモーション再生(PID_アルフレッド, Smile, EmoJoy,, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_アルフレッド, cam_anim_zoom_in_normal)
+MID_ED3_#053	//キャラモーション再生(PID_セリーヌ, Normal, EmoRelax)\n\n//キャラ表示切替(PID_アルフレッド, False)\n//キャラ表示切替(PID_アイビー, True)\n\n//キャラカメラ(CharaCam_Front_Center_Mid, PID_セリーヌ, cam_anim_zoom_in_normal)
+MID_ED3_#054	キャラモーション再生(PID_ディアマンド, Angry, EmoNod,, 0.5)\n\nキャラ表示切替(PID_アイビー, True)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_ディアマンド, cam_anim_zoom_in_normal)
+MID_ED3_#055	キャラモーション再生(PID_スタルーク, Sad, EmoRelax,, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_スタルーク, cam_anim_zoom_in_normal)
+MID_ED3_#056	キャラモーション再生(PID_アイビー, Normal, EmoTalk2,, 0.5)\nキャラモーション再生(GID_リン, Smile)\n\nキャラカメラ(CharaCam_Side_Right3_Mid, PID_アイビー, cam_anim_zoom_in_normal)
+MID_ED3_#057	キャラモーション再生(PID_リュール, Smile)\n\nキャラカメラ(CharaCam_Side_Right2_Mid, PID_リュール, cam_anim_zoom_in_slow)
+MID_ED3_#058	キャラモーション再生(PID_リュール, Angry, EmoNod,, 0.8)\n\n*\n\nフェードアウト()

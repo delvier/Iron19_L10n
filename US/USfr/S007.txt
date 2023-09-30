@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カムイ\x022\n\x0E\x03\x02\x08\x06カムイ\nEst-ce que ce serait... Non, c'est impossible.\nEt pourtant, les similarités sont telles...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nQue vous arrive-t-il, Corrin ?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06カムイ\nCet endroit ressemble en tout point à celui\noù j'ai dû choisir mon destin.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06カムイ\nTrois options se sont offertes à moi, ce jour-là.\nChacune impliquant de renoncer aux deux\nautres destins qui m'étaient proposés.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nQue voulez-vous dire ?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06カムイ\nDeux royaumes s'opposent, là d'où je viens.\nHoshido et Nohr...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06カムイ\nAprès ma naissance en Hoshido, toute mon\nenfance s'est déroulée en Nohr.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nVotre vie n'a pas dû être facile, si vous avez\ncréé des liens dans les deux camps...\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06カムイ\nEn effet. Hoshido et Nohr se sont retrouvés ici,\nface-à-face. C'est là que j'ai dû choisir de quel\ncôté me ranger.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06カムイ\nJ'avais des amis et de la famille aussi bien en\nHoshido qu'en Nohr. Je ne voulais abandonner\naucun d'entre eux.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06カムイ\nMais j'ai bien dû prendre une décision, si\npénible fût-elle.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06カムイ\nHoshido ou Nohr ? Ou bien aucun des deux,\nsi je décidais de me battre sans alliés. Aucune\noption n'était plus attirante qu'une autre.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nJ'ignore comment j'aurais fait, à votre place.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nMais j'imagine qu'un jour ou l'autre, je serai\nconfronté\x0E\x0A\x00\x06
+MID_OP1_#015	\x0E\x03\x02\x08\x06カムイ\nVous avez déjà pris une décision courageuse\nen choisissant d'affronter le Dragon déchu\npour garantir le salut du monde.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06カムイ\nÀ présent, voyons si vous êtes digne de votre\nchoix, \x0E\x06\x03\x00. Affrontez-moi.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06カムイ\nL'issue du combat influera sur mon prochain\nchoix, et notre lien s'en trouvera renforcé.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nJe comprends. Nous avons choisi un chemin\nvous et moi...\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nÀ présent qu'ils se sont croisés, voyons ce\nque le destin nous réserve.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x03\x02\x08\x06カムイ\nVous êtes prêt\x0E\x0A\x00\x06
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nCorrin est capable de modifier le terrain.\nJe ne dois pas me laisser surprendre\npar ses interventions.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x14\x06カムイ\nAngry\n\x0E\x03\x02\x08\x06カムイ\nJe sens une force sous la terre. C'est...\nune veine dragunaire. Je vais m'en servir\nà mon avantage.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x02\x08\x06カムイ\n\x0E\x05\x01\x14\x06カムイ\nRelax\nMais ne vous en faites pas, vous réussirez\ntrès certainement à vous en sortir !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x16\x06カムイ\x0CStatus\n\x0E\x03\x02\x08\x06カムイ\nJe me suis tenue ici... Je me souviens de\nce que je ressentais.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nC'est là que vous avez dû choisir votre destin,\nn'est-ce pas ? Je crois percevoir le déchirement\nque vous avez subi.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06カムイ\nAngry\n\x0E\x03\x02\x08\x06カムイ\nNe me frappez pas d'une main hésitante.\nVous devez réellement essayer de me tuer.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nComme vous voudrez, Corrin ! J'ai choisi mon\nchemin, et je le suivrai jusqu'au bout !\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x18\x08セアダス\x0CStrike\n\x0E\x03\x02\x0A\x08セアダス\nVous m'avez sauvé la vie. Je n'aurais jamais cru\navoir à me battre contre vous. Ce monde est\ndécidément plein de surprises...\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x1A\x06カムイ\x10Surprise\n\x0E\x03\x02\x08\x06カムイ\nLes événements auraient devancé le devin ?\nC'est ça qui me surprend, moi.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nMoquez-vous à votre guise. Je n'aime pas\nconnaître à l'avance l'issue d'un combat,\nce serait par trop ennuyeux.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06カムイ\nSmile\n\x0E\x03\x02\x08\x06カムイ\nL'avenir n'est pas écrit ou prévu d'avance.\nJe contrôle mon destin, tout comme vous !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カムイ\x022\n\x0E\x03\x02\x08\x06カムイ\nVous ne me décevez pas, \x0E\x06\x03\x00. Quel\nexcellent entraînement pour ma lame, Yato.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nQuelle épée magnifique !\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06カムイ\nC'est une épée divine. Elle a été forgée pour\nramener la paix dans le monde.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06カムイ\nLa première fois que j'ai vu Yato, c'est quand\nelle a jailli de sa cachette pour atterrir entre\nmes mains. Elle m'a choisie.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06カムイ\nCe jour-là, ma mère a péri en me protégeant...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nOh, vous... avez perdu votre mère,\nvous aussi ?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06カムイ\nLa peine qui m'a alors submergée aurait pu\nfacilement m'engloutir si je n'avais pas été\naidée.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06カムイ\nJ'ai eu la chance d'avoir des amis qui m'ont\nsoutenue et m'ont permis de retrouver mon\nchemin.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06カムイ\nComme eux, Yato m'a accompagnée tout le\nlong de ce chemin.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nJe comprends ce que vous ressentez.\nJe le comprends même très bien...\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06カムイ\nVous serez peut-être amené\x0E\x0A\x00\x06
+MID_ED1_#012	\x0E\x03\x02\x08\x06カムイ\nMais à travers la souffrance, n'oubliez pas que\nje suis à vos côtés, et que je vous aiderai à\nretrouver votre chemin.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nJe ne l'oublierai pas, même dans les moments\nles plus sombres. Je ne suis pas seul\x0E\x0A\x00\x06
+MID_ED1_#014	\x0E\x03\x02\x08\x06カムイ\nAlors, vous surmonterez tout.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nMerci, Corrin, de m'accompagner sur le chemin\nque j'ai choisi.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

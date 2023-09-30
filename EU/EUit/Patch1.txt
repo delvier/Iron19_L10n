@@ -1,0 +1,349 @@
+MID_SYS_EnchantEffect	Effetto incanto
+MID_DLC_News_Patch1_Title	Ver. 1.2.0
+MID_DLC_News_Patch1	Pass di espansione\n\n・ Sono stati aggiunti gli emblemi Hector, Soren e Camilla.\n　 Si uniranno al tuo gruppo quando avrai completato\n　 i rispettivi capitoli divini.\n\n・ È stato aggiunto il bonus 2 del pass di espansione.\n　 Se hai acquistato il pass di espansione, riceverai\n　 alcuni materiali, armi e abilità.\n\n・ Sono stati aggiunti nuovi accessori alla boutique.\n　 Questi includono il set spirito, la maschera spirito,\n　 le orecchie spirito, le orecchie da cane, le orecchie\n　 da coniglio e le orecchie da volpe.\n\nContenuto gratuito\n\n・ Sono stati aggiunti degli spazi ricreativi al Somniel.\n　 Usali per aumentare i punti sostegno con gli alleati.
+MID_MSG_GET_ITEM_DLC_Accessory2	Bonus 2 del pass di espansione ricevuto.
+MCID_G002_PREFIX	Capitolo divino
+MCID_G002	Il Generale Audace
+MCID_G002_PLACE	Antro del berserker
+MCID_G002_OUTLINE	Hai scoperto l'esistenza di un\nbracciale in una malsana caverna\npiena di miasma.
+MCID_G004_PREFIX	Capitolo divino
+MCID_G004	Lo Stratega
+MCID_G004_PLACE	Grotta lavica
+MCID_G004_OUTLINE	Hai scoperto l'esistenza di un\nbracciale in una caverna piena\ndi lava.
+MCID_G005_PREFIX	Capitolo divino
+MCID_G005	La Sorella Devota
+MCID_G005_PLACE	Passaggio sotterraneo
+MCID_G005_OUTLINE	Hai scoperto l'esistenza di un\nbracciale in alcune rovine\nsotterranee.
+MID_RULE_G002_WIN	Sconfiggi l'emblema Hector.
+MID_RULE_G004_WIN	Sconfiggi l'emblema Soren.
+MID_RULE_G005_WIN	Sconfiggi l'emblema Camilla.
+MTID_VolcanicBombTraces	Terra bruciata
+MTID_Fumarole	Fumarola
+MTID_Crater	Cratere
+MPID_Hector	Hector
+MPID_H_Hector	L'emblema della Forza. Giovane\neroico ed esuberante, che scoppia\ndi sicurezza in sé stesso.
+MPID_Senerio	Soren
+MPID_H_Senerio	L'emblema dell'Acume. Uno stratega\ndagli abiti scuri, riservato e di grande\ngiudizio.
+MPID_Camilla	Camilla
+MPID_H_Camilla	L'emblema della Rivelazione.\nCavalca una viverna ed è avvolta\nda un'aura ammaliante.
+MGID_Hector	Hector
+MGID_H_Hector	L'emblema della Forza. Sbaraglia\ni nemici con la sua ascia e mette a\nrischio la propria vita per gli amici.
+MGID_H_EnemyHector	Un emblema risvegliatosi dal\nbracciale del Generale Audace.
+MGID_Senerio	Soren
+MGID_H_Senerio	L'emblema dell'Acume. Eccelle\nnelle arti magiche e nell'uso di\npotenti tomi.
+MGID_H_EnemySenerio	Un emblema risvegliatosi dal\nbracciale dello Stratega.
+MGID_Camilla	Camilla
+MGID_H_Camilla	L'emblema della Rivelazione.\nVola e sbaraglia i nemici a suon di\nascia e tomi magici.
+MGID_H_EnemyCamilla	Un emblema risvegliatosi dal\nbracciale della Sorella Devota.
+MGEID_Hector	Forza
+MGEID_Senerio	Acume
+MGEID_Camilla	Rivelazione
+MJID_Enchant	Incantatore
+MJID_H_Enchant	Un guaritore che usa gli strumenti\nin combattimento. Ha accesso ai\nrifornimenti e supporta gli alleati.
+MIID_Hector_WolfBeil	Wolfbeil
+MIID_H_Hector_WolfBeil	Ascia dell'emblema Hector.\nEfficace contro le unità a cavallo\ne corazzate.
+MIID_Hector_Runesword	Spada runica
+MIID_H_Hector_Runesword	Spada dell'emblema Hector. Attacca\nda vicino e lontano. Ripristina PS\npari al 50% del danno inflitto.
+MIID_Hector_Armads	Fragore
+MIID_H_Hector_Armads	Ascia dell'emblema Hector col\npotere del lampo. Conferisce Dif +5.\nEfficace contro i draghi.
+MIID_Senerio_Thunderstorm	Tempesta
+MIID_H_Senerio_Thunderstorm	Magia del tuono a lungo raggio\ndell'emblema Soren. No attacco\ndoppio.
+MIID_Senerio_MagicShield	Scudo magico
+MIID_H_Senerio_MagicShield	Bastone dell'emblema Soren.\nIl 50% del danno magico subito dagli\nalleati nel raggio di 2 spazi viene\ninferto al nemico per 1 turno.
+MIID_Senerio_Rexcalibur	Rexcalibur
+MIID_H_Senerio_Rexcalibur	Potente magia del vento\ndell'emblema Soren.\nEfficace contro le unità volanti.
+MIID_Senerio_Disaster	Cataclisma
+MIID_H_Senerio_Disaster	Attacchi magici dell'emblema Soren\ncon fuoco, tuono e vento al 40% di\ndanno. Vento efficace contro volanti.
+MIID_Camilla_BoltAxe	Ascia lampo
+MIID_H_Camilla_BoltAxe	Ascia magica dell'emblema Camilla.\nAttacca da vicino e lontano.
+MIID_Camilla_Lightning	Lampo
+MIID_H_Camilla_Lightning	Magia dell'emblema Camilla.\nSe l'unità inizia lo scontro, attacca\ndue volte.
+MIID_Camilla_Camilla'sAxe	Ascia di Camilla
+MIID_H_Camilla_Camilla'sAxe	Ascia dell'emblema Camilla.\nConferisce Res +10 e infligge danno\nextra pari a Res meno Dif nemica.
+MIID_HE_Vulnerary	L'unità e gli alleati entro 2 spazi\nrecuperano 15 PS.
+MIID_HE_Antidote	L'unità e gli alleati adiacenti\nguariscono dalle alterazioni di stato.
+MIID_HE_Medicine	La barra unione dell'unità e degli\nalleati adiacenti si riempie di 2.
+MIID_HE_HolyWater	L'unità e gli alleati adiacenti\nottengono efficacia contro le\naberrazioni per 1 turno.
+MIID_HE_Torch	Unità e alleati adiacenti ottengono\n"Torcia" (illumina raggio di 7 spazi\nche si riduce di 1 spazio per turno).
+MIID_HE_HpTonic	PS max aumentano in base al livello\ne l'unità e gli alleati adiacenti non\nsubiscono danni dagli attacchi\nconcatenati per 1 turno.
+MIID_HE_StrTonic	Forz aumenta in base al livello e il\npeso dell'arma di unità e alleati\nadiacenti viene ridotto del 50% per\n1 turno.
+MIID_HE_TecTonic	Des aumenta in base al livello e\nl'unità e gli alleati adiacenti\nnon subiscono breccia per 1 turno.
+MIID_HE_SpdTonic	Vel aumenta in base al livello e\nl'unità e gli alleati adiacenti sono\nimmuni al congelamento per 1 turno.
+MIID_HE_LckTonic	L'unità e gli alleati adiacenti hanno\nil 30% di probabilità di rendere nullo\nl'attacco nemico per 1 turno.
+MIID_HE_DefTonic	Per 1 turno, se l'unità o gli alleati\nadiacenti subiscono danno fisico,\nil danno si applica anche al nemico.
+MIID_HE_MagTonic	Mag aumenta in base al livello e\nl'unità e gli alleati adiacenti non\nsubiscono stato di silenzio per 1\nturno.
+MIID_HE_MdefTonic	Per 1 turno, il danno magico subito\ndall'unità e dagli alleati adiacenti\nviene inflitto anche al nemico.
+MIID_HE_Bento	Un alleato adiacente ha la sicurezza\ndi sopravvivere con 1 PS, se\nall'inizio dello scontro ha 2 o più\nPS (1 volta sola).
+MIID_HE_WeaponAvo	Le armi con lo stesso nome\nottengono Scv +20 per la durata\ndella battaglia.
+MIID_HE_WeaponDef	Le armi con lo stesso nome\nottengono Dif/Res +5 per la durata\ndella battaglia.
+MIID_HE_WeaponCrit	Le armi con lo stesso nome\nottengono Trpl +20 per la durata\ndella battaglia.
+MIID_HE_WeaponAtk	Le armi con lo stesso nome\nottengono Pot +5 per la durata\ndella battaglia.
+MIID_HE_WeaponHit	Le armi con lo stesso nome\nottengono Clp +20 per la durata\ndella battaglia.
+MIID_HE_WeaponAvo_Short	Effetto incanto: conferisce Scv +20.
+MIID_HE_WeaponDef_Short	Effetto incanto: conferisce Dif/Res +5.
+MIID_HE_WeaponCrit_Short	Effetto incanto: conferisce Trpl +20.
+MIID_HE_WeaponAtk_Short	Effetto incanto: conferisce Pot +5.
+MIID_HE_WeaponHit_Short	Effetto incanto: conferisce Clp +20.
+MSID_QuickResponse	Reazione lesta
+MSID_H_QuickResponse	Quando è attaccata da un nemico,\nse l'unità ha i PS all'80% o più\nottiene attacco doppio (se l'arma\nlo consente).
+MSID_QuickResponse+	Reazione lesta+
+MSID_H_QuickResponse+	Quando è attaccata da un nemico,\nse l'unità ha i PS al 60% o più\nottiene attacco doppio (se l'arma\nlo consente).
+MSID_HeavyAttack	Attacco pesante
+MSID_H_HeavyAttack	Quando l'unità sferra un attacco\nfisico, se il peso di un'arma attiva\nsupera la costituzione dell'unità,\nil valore in eccesso si aggiunge\nal danno inflitto (max +5).
+MSID_GazeDiagonally	Sguardo assassino
+MSID_H_GazeDiagonally	Con i PS al massimo, usa il comando\nper consumare il 20% dei PS max e\nimpedire ai nemici di attraversare\ni 4 spazi adiacenti all'unità in\ndiagonale per 1 turno.
+MSID_H_GazeDiagonally_CMD	Preclude al nemico i 4 spazi\nadiacenti in diagonale.
+MSID_WARNING_GazeDiagonally_CMD	Solo con PS al massimo.
+MSID_Adaptability	Adattamento
+MSID_H_Adaptability	Se l'unità subisce un attacco nemico,\ndopo lo scontro ottiene Dif +2 se era\nun attacco fisico, Res +2 se era un\nattacco magico. Dura fino alla fine\ndella battaglia o alla riattivazione.
+MSID_Adaptability+	Adattamento+
+MSID_H_Adaptability+	Se l'unità subisce un attacco nemico,\ndopo lo scontro ottiene Dif +3 se era\nun attacco fisico, Res +3 se era un\nattacco magico. Dura fino alla fine\ndella battaglia o alla riattivazione.
+MSID_HectorEngage	Impenetrabile
+MSID_H_HectorEngage	Se l'unità subisce un attacco nemico,\nottiene Dif e Res +30%.
+MSID_H_HectorEngage_Dragon	Se l'unità subisce un attacco nemico,\nottiene Dif e Res +30%.\nDraghi: Elu +50%.
+MSID_H_HectorEngage_Horse	Se l'unità subisce un attacco nemico,\nottiene Dif e Res +30%.\nCavalleria: immunità allo stato di\ngelo.
+MSID_H_HectorEngage_Heavy	Se l'unità subisce un attacco nemico,\nottiene Dif e Res +30%.\nCorazzati: Dif +50% invece di +30%.
+MSID_H_HectorEngage_Fly	Se l'unità subisce un attacco nemico,\nottiene Dif e Res +30%.\nVolanti: Res +50% invece di +30%.
+MSID_HectorEngageAtk	Acqua cheta
+MSID_H_HectorEngageAtk	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità ha attacco\ndoppio. Dura 1 turno. Solo spada/\nascia.
+MSID_H_HectorEngageAtk_Dragon	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità ha attacco\ndoppio. Dura 1 turno. Solo spada/\nascia.\nDraghi: impedisce anche i colpi tripli.
+MSID_H_HectorEngageAtk_Coop	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità ha attacco\ndoppio. Dura 1 turno. Solo spada/\nascia.\nRinforzo: Trpl +20.
+MSID_H_HectorEngageAtk_Covert	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità ha attacco\ndoppio. Dura 1 turno. Solo spada/\nascia.\nFurtivi: Scv +30.
+MSID_H_HectorEngageAtk_CMD	L'unità ha attacco doppio,\nil nemico no.
+MSID_HectorEngageAtk+	Acqua cheta+
+MSID_H_HectorEngageAtk+	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità attacca per\nprima e ha attacco doppio. Dura 1\nturno. Solo spada/ascia.
+MSID_H_HectorEngageAtk+_Dragon	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità attacca per\nprima e ha attacco doppio. Dura 1\nturno. Solo spada/ascia.\nDraghi: impedisce anche i colpi tripli.
+MSID_H_HectorEngageAtk+_Coop	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità attacca per\nprima e ha attacco doppio. Dura 1\nturno. Solo spada/ascia.\nRinforzo: Trpl +20.
+MSID_H_HectorEngageAtk+_Covert	Impedisce al nemico di fare breccia\ne attacco doppio. L'unità attacca per\nprima e ha attacco doppio. Dura 1\nturno. Solo spada/ascia.\nFurtivi: Scv +30.
+MSID_H_HectorEngageAtk+_CMD	L'unità attacca per prima con\nattacco doppio, il nemico no.
+MSID_MagicOfLaw+	Focus della mente
+MSID_H_MagicOfLaw+	Se l'unità attacca con un tomo,\ninfligge Dif -3 col fuoco, Clp -20\ncol tuono, Mov -2 col vento per\n1 turno.
+MSID_KeenInsight	Gran efficacia
+MSID_H_KeenInsight	Se l'unità infligge danno con bonus\nefficacia, +5 al danno.
+MSID_KeenInsight+	Gran efficacia+
+MSID_H_KeenInsight+	Se l'unità infligge danno con bonus\nefficacia, +7 al danno.
+MSID_NominateDecoy	Assegna esca
+MSID_H_NominateDecoy	Usa il comando "Assegna esca" per\nrendere un alleato più facile da\nprendere di mira dal nemico per un\nturno. L'effetto termina dopo che\nl'alleato viene attaccato 3 volte.
+MSID_H_NominateDecoy_CMD	Rende un alleato più facile\nda prendere di mira.
+MSID_PreventionReturn	Blocca recupero
+MSID_H_PreventionReturn	Se l'unità attacca con un tomo un\nnemico in stato di breccia, il nemico\nresta in stato di breccia con una\nprobabilità che aumenta se Vel\ndell'unità supera quella del nemico.
+MSID_SenerioEngage	Fiammata
+MSID_H_SenerioEngage	Se l'unità attacca con un tomo,\ninfligge Res -20% e recupera\nin PS il 50% dei danni inflitti.
+MSID_H_SenerioEngage_Dragon	Se l'unità attacca con un tomo,\ninfligge Res -20% e recupera\nin PS il 50% dei danni inflitti.\nDraghi: la probabilità di colpo triplo\nraddoppia.
+MSID_H_SenerioEngage_Magic	Se l'unità attacca con un tomo,\ninfligge Res -20% e recupera\nin PS il 50% dei danni inflitti.\nMistici: -10% extra a Res del nemico.
+MSID_H_SenerioEngage_Prana	Se l'unità attacca con un tomo,\ninfligge Res -20% e recupera\nin PS il 50% dei danni inflitti.\nAdepti qi: l'unità recupera in PS il\n100% dei danni inflitti.
+MSID_SenerioEngageAtk	Cataclisma
+MSID_H_SenerioEngageAtk	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.
+MSID_H_SenerioEngageAtk_Dragon	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nDraghi: incendia il terreno.
+MSID_H_SenerioEngageAtk_Magic	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nMistici: danno +10%.
+MSID_H_SenerioEngageAtk_Prana	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nAdepti qi: 20% probabilità di breccia.
+MSID_H_SenerioEngageAtk_CMD	Attacca con magia di fuoco,\ntuono e vento.
+MSID_H_SenerioEngageAtk_G004	Attacca con magia di fuoco, tuono\ne vento al 30% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.
+MSID_SenerioEngageAtk+	Cataclisma+
+MSID_H_SenerioEngageAtk+	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.
+MSID_H_SenerioEngageAtk+_Dragon	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nDraghi: incendia il terreno.
+MSID_H_SenerioEngageAtk+_Magic	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nMistici: danno +10%.
+MSID_H_SenerioEngageAtk+_Prana	Attacca con magia di fuoco, tuono\ne vento al 40% di danno sui nemici\nin un'area. Vento efficace contro\nvolanti.\nAdepti qi: 20% probabilità di breccia.
+MSID_H_SenerioEngageAtk+_CMD	Attacca un'area con magia\ndi fuoco, tuono e vento.
+MSID_DragonPulse_other	Vena del drago
+MSID_H_DragonPulse_other	Conferisce un effetto speciale a certi\nspazi.
+MSID_H_DragonPulse_other_CMD	Conferisci effetti agli spazi.
+MSID_H_DragonPulse_other_Dragon	Usa il comando per conferire un\neffetto speciale a certi spazi.\nDraghi: qualsiasi effetto delle vene\ndel drago.
+MSID_DragonPulse_other_Coop	Vena di pietra
+MSID_H_DragonPulse_other_Coop_CMD	Crea pilastri di pietra che\nincrementano Dif/Res.
+MSID_H_DragonPulse_other_Coop	Conferisce un effetto speciale a certi\nspazi.\nRinforzo: crea pilastri di pietra\nche incrementano Dif/Res.
+MSID_DragonPulse_other_Horse	Vena d'acqua
+MSID_H_DragonPulse_other_Horse_CMD	Crea acqua che diminuisce\nla Scv.
+MSID_H_DragonPulse_other_Horse	Conferisce un effetto speciale a certi\nspazi.\nCavalleria: crea acqua che\ndiminuisce la Scv.
+MSID_DragonPulse_other_Covert	Vena di fumo
+MSID_H_DragonPulse_other_Covert_CMD	Crea fumo che diminuisce\nDif/Scv.
+MSID_H_DragonPulse_other_Covert	Conferisce un effetto speciale a certi\nspazi.\nFurtivi: crea fumo che diminuisce\nDif/Scv.
+MSID_DragonPulse_other_Heavy	Vena d'edera
+MSID_H_DragonPulse_other_Heavy_CMD	Crea edera che rende immuni\ndall'effetto breccia.
+MSID_H_DragonPulse_other_Heavy	Conferisce un effetto speciale a certi\nspazi.\nCorazzati: crea edera che rende\nimmuni dall'effetto breccia.
+MSID_DragonPulse_other_Fly	Vena d'ausilio
+MSID_H_DragonPulse_other_Fly_CMD	Crea un bagliore curativo che\nripristina i PS.
+MSID_H_DragonPulse_other_Fly	Conferisce un effetto speciale a certi\nspazi.\nVolanti: crea un bagliore curativo\nche ripristina i PS.
+MSID_DragonPulse_other_Magic	Vena di fiamma
+MSID_H_DragonPulse_other_Magic_CMD	Crea fiamme che infliggono\ndanni.
+MSID_H_DragonPulse_other_Magic	Conferisce un effetto speciale a certi\nspazi.\nMistici: crea fiamme che infliggono\ndanni.
+MSID_DragonPulse_other_Prana	Vena di gelo
+MSID_H_DragonPulse_other_Prana_CMD	Crea suolo gelato che\nincrementa il movimento.
+MSID_H_DragonPulse_other_Prana	Conferisce un effetto speciale a certi\nspazi.\nAdepti qi: crea suolo gelato che\nincrementa il movimento.
+MSID_EarthVeinAbsorption	Assorbivena
+MSID_H_EarthVeinAbsorption	Dopo che l'unità agisce o attende\nsu un terreno con effetto (fiamme,\nmiasma ecc.), l'effetto è annullato\ne l'unità recupera 10 PS.
+MSID_Detox	Disintossicante
+MSID_H_Detox	Cura l'avvelenamento all'inizio\ndella fase giocatore.
+MSID_CleanUp	Accanimento
+MSID_H_CleanUp	Se l'unità inizia lo scontro e sferra\nun colpo triplo, infligge 5 danni\nal nemico dopo lo scontro.
+MSID_CleanUp+	Accanimento+
+MSID_H_CleanUp+	Se l'unità inizia lo scontro e sferra\nun colpo triplo, infligge 10 danni\nal nemico dopo lo scontro.
+MSID_CamillaEngage	Sorvolo
+MSID_H_CamillaEngage	Mov +2. L'unità può passare sugli\nspazi inaccessibili come se volasse.
+MSID_H_CamillaEngage_Dragon	Mov +2. L'unità può passare sugli\nspazi inaccessibili come se volasse.\nDraghi: se l'unità inizia lo scontro,\ninfligge danni ai nemici entro 2 spazi\npari al 10% dei propri PS massimi.
+MSID_H_CamillaEngage_Horse	Mov +2. L'unità può passare sugli\nspazi inaccessibili come se volasse.\nCavalleria: +2 extra al Mov.
+MSID_H_CamillaEngage_Fly	Mov +2. L'unità può passare sugli\nspazi inaccessibili come se volasse.\nVolanti: +1 extra al Mov.
+MSID_CamillaEngageAtk	Inferno oscuro
+MSID_H_CamillaEngageAtk	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.
+MSID_H_CamillaEngageAtk_Dragon	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nDraghi: incrementa l'area d'effetto.
+MSID_H_CamillaEngageAtk_Magic	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nMistici: danno +20%.
+MSID_H_CamillaEngageAtk_Prana	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nAdepti qi: aggiunge "Bagliore" agli\nspazi adiacenti.
+MSID_H_CamillaEngageAtk_CMD	Attacca e incendia\ndeterminati spazi.
+MSID_CamillaEngageAtk+	Inferno oscuro+
+MSID_H_CamillaEngageAtk+	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.
+MSID_H_CamillaEngageAtk+_Dragon	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nDraghi: incrementa l'area d'effetto.
+MSID_H_CamillaEngageAtk+_Magic	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nMistici: danno +20%.
+MSID_H_CamillaEngageAtk+_Prana	Infligge danni ai nemici su\ndeterminati spazi intorno all'unità\ne incendia quegli spazi.\nAdepti qi: aggiunge "Bagliore" agli\nspazi adiacenti.
+MSID_H_CamillaEngageAtk+_CMD	Attacca e incendia\ndeterminati spazi.
+MSID_Str_Def_1	Forz/Dif +1
+MSID_H_Str_Def_1	Incrementa Forz e Dif di 1.
+MSID_Str_Def_2	Forz/Dif +2
+MSID_H_Str_Def_2	Incrementa Forz e Dif di 2.
+MSID_Str_Def_3	Forz/Dif +3
+MSID_H_Str_Def_3	Incrementa Forz e Dif di 3.
+MSID_Str_Def_4	Forz/Dif +4
+MSID_H_Str_Def_4	Incrementa Forz e Dif di 4.
+MSID_Str_Def_5	Forz/Dif +5
+MSID_H_Str_Def_5	Incrementa Forz e Dif di 5.
+MSID_Mag_Res_1	Mag/Res +1
+MSID_H_Mag_Res_1	Incrementa Mag e Res di 1.
+MSID_Mag_Res_2	Mag/Res +2
+MSID_H_Mag_Res_2	Incrementa Mag e Res di 2.
+MSID_Mag_Res_3	Mag/Res +3
+MSID_H_Mag_Res_3	Incrementa Mag e Res di 3.
+MSID_Mag_Res_4	Mag/Res +4
+MSID_H_Mag_Res_4	Incrementa Mag e Res di 4.
+MSID_Mag_Res_5	Mag/Res +5
+MSID_H_Mag_Res_5	Incrementa Mag e Res di 5.
+MSID_Spd_Res_1	Vel/Res +1
+MSID_H_Spd_Res_1	Incrementa Vel e Res di 1.
+MSID_Spd_Res_2	Vel/Res +2
+MSID_H_Spd_Res_2	Incrementa Vel e Res di 2.
+MSID_Spd_Res_3	Vel/Res +3
+MSID_H_Spd_Res_3	Incrementa Vel e Res di 3.
+MSID_Spd_Res_4	Vel/Res +4
+MSID_H_Spd_Res_4	Incrementa Vel e Res di 4.
+MSID_Spd_Res_5	Vel/Res +5
+MSID_H_Spd_Res_5	Incrementa Vel e Res di 5.
+MSID_AntiAxeArts_1	Para ascia 1
+MSID_H_AntiAxeArts_1	Se l'unità affronta un nemico armato\ndi ascia, subisce 1 danno in meno.
+MSID_AntiAxeArts_2	Para ascia 2
+MSID_H_AntiAxeArts_2	Se l'unità affronta un nemico armato\ndi ascia, subisce 2 danni in meno.
+MSID_AntiAxeArts_3	Para ascia 3
+MSID_H_AntiAxeArts_3	Se l'unità affronta un nemico armato\ndi ascia, subisce 3 danni in meno.
+MSID_AntiAxeArts_4	Para ascia 4
+MSID_H_AntiAxeArts_4	Se l'unità affronta un nemico armato\ndi ascia, subisce 4 danni in meno.
+MSID_AntiAxeArts_5	Para ascia 5
+MSID_H_AntiAxeArts_5	Se l'unità affronta un nemico armato\ndi ascia, subisce 5 danni in meno.
+MSID_AntiMagicArts_1	Para magia 1
+MSID_H_AntiMagicArts_1	Se l'unità affronta un nemico armato\ndi tomo, subisce 1 danno in meno.
+MSID_AntiMagicArts_2	Para magia 2
+MSID_H_AntiMagicArts_2	Se l'unità affronta un nemico armato\ndi tomo, subisce 2 danni in meno.
+MSID_AntiMagicArts_3	Para magia 3
+MSID_H_AntiMagicArts_3	Se l'unità affronta un nemico armato\ndi tomo, subisce 3 danni in meno.
+MSID_AntiMagicArts_4	Para magia 4
+MSID_H_AntiMagicArts_4	Se l'unità affronta un nemico armato\ndi tomo, subisce 4 danni in meno.
+MSID_AntiMagicArts_5	Para magia 5
+MSID_H_AntiMagicArts_5	Se l'unità affronta un nemico armato\ndi tomo, subisce 5 danni in meno.
+MSID_AntiLanceArts_1	Para lancia 1
+MSID_H_AntiLanceArts_1	Se l'unità affronta un nemico armato\ndi lancia, subisce 1 danno in meno.
+MSID_AntiLanceArts_2	Para lancia 2
+MSID_H_AntiLanceArts_2	Se l'unità affronta un nemico armato\ndi lancia, subisce 2 danni in meno.
+MSID_AntiLanceArts_3	Para lancia 3
+MSID_H_AntiLanceArts_3	Se l'unità affronta un nemico armato\ndi lancia, subisce 3 danni in meno.
+MSID_AntiLanceArts_4	Para lancia 4
+MSID_H_AntiLanceArts_4	Se l'unità affronta un nemico armato\ndi lancia, subisce 4 danni in meno.
+MSID_AntiLanceArts_5	Para lancia 5
+MSID_H_AntiLanceArts_5	Se l'unità affronta un nemico armato\ndi lancia, subisce 5 danni in meno.
+MSID_JobSkill_Enchant1	Incanto
+MSID_JobSkill_Enchant1_CMD1	Uso estremo
+MSID_H_JobSkill_Enchant1_CMD1	Consuma uno strumento per\npotenziare le unità.
+MSID_JobSkill_Enchant1_CMD2	Eco d'armi
+MSID_H_JobSkill_Enchant1_CMD2	Scegli un'arma per potenziare\nle armi con lo stesso nome.
+MSID_JobSkill_Enchant2	Rifornimenti
+MSID_H_JobSkill_Enchant2	Usa il comando per depositare\no recuperare armi e strumenti.
+MSID_H_Ent_AntiMorph_Short	Efficacia contro aberrazioni per 1 turno.
+MSID_H_Ent_ResistChain_Short	No attacco concatenato nemico, PS max +\x0E\x01\x00\x00 per 1 turno.
+MSID_H_Ent_WeightZero_Short	Peso arma -50%, Forz +\x0E\x01\x00\x00 per 1 turno.
+MSID_H_Ent_ResistBreak_Short	Immunità a breccia, Des +\x0E\x01\x00\x00 per 1 turno.
+MSID_H_Ent_ResistFreeze_Short	Immunità a stato gelo, Vel +\x0E\x01\x00\x00 per 1 turno.
+MSID_H_Ent_MayNoDamage_Short	30% probabilità di ignorare il danno per 1 turno.
+MSID_H_Ent_ReflectPhysic_Short	Riflette il danno fisico subito per 1 turno.
+MSID_H_Ent_ResistSilence_Short	Immunità a stato silenzio, Mag +\x0E\x01\x00\x00 per 1 turno.
+MSID_H_Ent_ReflectMagic_Short	Riflette il danno magico subito per 1 turno.
+MSID_H_Ent_HoldOutOnce_Short	Sopravvivenza sicura con 2 o più PS (1 volta).
+MSID_Ent_AntiMorph	Eff.: aberrazioni
+MSID_Ent_ResistChain	No att. concat.
+MSID_Ent_WeightZero	Peso arma 1/2
+MSID_Ent_ResistBreak	No breccia
+MSID_Ent_ResistFreeze	No stato gelo
+MSID_Ent_MayNoDamage	No danno
+MSID_Ent_ReflectPhysic	Danno fisico rifl.
+MSID_Ent_ResistSilence	No stato silenzio
+MSID_Ent_ReflectMagic	Magia riflessa
+MSID_Ent_HoldOutOnce	Sopravvivenza
+MAID_Mascot	Set spirito
+MAID_MascotM	Costume spirito
+MAID_H_MascotM	Un costume che richiama lo spirito guardiano del Somniel, con tutti\ni dettagli più teneri, dalle zampine blu alla coda morbidissima.
+MAID_MascotF	Costume spirito
+MAID_H_MascotF	Un costume che richiama lo spirito guardiano del Somniel, con tutti\ni dettagli più teneri, dalle zampine blu alla coda morbidissima.
+MAID_SolaHead	Maschera spirito
+MAID_H_SolaHead	Questa maschera perfetta ricrea l'imperscrutabile espressione dello spirito\ndel Somniel. Per chi vuole sentirsi uno spirito guardiano per un giorno.
+MAID_CatEar	Orecchie spirito
+MAID_H_CatEar	Un accessorio creato per somigliare nei minimi dettagli alle orecchie dello\nspirito guardiano del Somniel. Il completo non è completo senza di esse.
+MAID_DogEar	Orecchie da cane
+MAID_H_DogEar	Un accessorio creato per somigliare nei minimi dettagli alle orecchie del\ncane elusiano. Il modo migliore per mostrare affetto a questi cuccioli.
+MAID_RabbitEar	Orecchie da coniglio
+MAID_H_RabbitEar	Un accessorio creato per somigliare nei minimi dettagli alle orecchie di un\nconiglietto saltellante. Sono incredibilmente morbide.
+MAID_FoxEar	Orecchie da volpe
+MAID_H_FoxEar	Un accessorio creato per somigliare alle orecchie di una volpe rara.\nSi dice che chi le indossa si trasformi davvero in una volpe.
+MID_BONDSRING_Hector00	Un nobile di Ositia in Elibe,\nun continente di un altro mondo.
+MID_BONDSRING_Hector01	Con l'ascia tuono Fragore, combatté\ninsieme al suo amico Eliwood.
+MID_BONDSRING_Senerio00	Uno dei mercenari di Greil in Ozna,\nuna terra di un altro mondo.
+MID_BONDSRING_Senerio01	Abile stratega che ha spesso salvato\ni mercenari di Greil dal pericolo.
+MID_BONDSRING_Camilla00	La principessa primogenita del regno\ndi Nohr, un paese di un altro mondo.
+MID_BONDSRING_Camilla01	Dolce e gentile, ma spietata con\ni nemici.
+MGID_Ring_Hector	Bracciale del Generale Audace
+MGID_H_Ring_Hector	Bracciale in cui dorme Hector,\ngiovane eroico ed esuberante,\nche scoppia di fiducia in sé.
+MGID_Ring_Senerio	Bracciale dello Stratega
+MGID_H_Ring_Senerio	Bracciale in cui dorme Soren,\nstratega di buon senso e contegno,\nsempre vestito di nero.
+MGID_Ring_Camilla	Bracciale della Sorella Devota
+MGID_H_Ring_Camilla	Bracciale in cui dorme Camilla,\nche vola a cavallo di una viverna\ned emana un'aura affascinante.
+MGID_World_Hector	Mondo della Guerriera
+MGID_World_Senerio	Mondo dell'Eroe della Fiamma
+MGID_World_Camilla	Mondo della Mano del Fato
+MID_RELAY_Stamp_Hector_0	Puoi fidarti ancor più di me.
+MID_RELAY_Stamp_Senerio_0	Non male...
+MID_RELAY_Stamp_Camilla_0	Meriti una punizione...
+MID_Hub_Horse	Stalla
+MID_Hub_Fruit	Frutteto
+MID_Hub_Pool	Piscina
+MID_Hub_Refresh	Svago
+MID_Hub_Refresh_Help	Scegli due alleati.
+MID_Hub_Refresh_Entrust	Consiglio
+MID_Hub_Refresh_Entrust_Help	Viene scelto automaticamente\nun personaggio consigliato a cui\nfar guadagnare punti sostegno.
+MID_Hub_Refresh_RelianceLv	Sostegno
+MID_Hub_Refresh_Place	Struttura
+MID_Hub_Refresh_Unit	Alleati da far svagare:
+MID_Hub_Refresh_Used	Struttura già usata
+MID_Hub_Refresh_Attention	Non puoi usare di nuovo questa struttura\nfino a dopo la prossima battaglia.
+MID_Hub_Refresh_Confirmation	Vuoi iniziare l'attività di svago?
+MID_Hub_Refresh_Start	Inizia
+MID_Hub_Refresh_Result	Salta al risultato
+MID_Hub_Refresh_Stop	Annulla
+MID_Hub_Refresh_RelianceLvUP	Il sostegno tra \x0E\x01\x00\x00\ne \x0E\x01\x01\x00 è aumentato.
+MID_Hub_Refresh_Reliance_Occurrence	Nuova conversazione di sostegno\ntra \x0E\x01\x00\x00 e \x0E\x01\x01\x00.
+MID_Hub_Refresh_NoReliance_Occurrence	\x0E\x01\x00\x00 e \x0E\x01\x01\x00\nhanno terminato l'attività di svago\ne si sentono meglio.
+PCTMID_Hector	"Puoi fidarti di me."
+PCTMID_Senerio	"I fatti sono fatti."
+PCTMID_Camilla	"Che tenerezza."
+MID_Movie_K15	Emblema Hector
+MID_H_Movie_K15	Emblema Hector, evocato dall'interno\ndel bracciale del Generale Audace.
+MID_Movie_K16	Emblema Soren
+MID_H_Movie_K16	Emblema Soren, evocato dall'interno\ndel bracciale dello Stratega.
+MID_Movie_K17	Emblema Camilla
+MID_H_Movie_K17	Emblema Camilla, evocata dall'interno\ndel bracciale della Sorella Devota.
+MID_MAP_HIS_EngageWait	\x0E\x01\x00\x00 ha usato Acqua cheta.
+MID_MAP_HIS_EngageWaitPlus	\x0E\x01\x00\x00 ha usato Acqua cheta+.
+MID_MAP_HIS_Enchant	\x0E\x01\x00\x00 ha usato Uso estremo.
+MID_MAP_HIS_Enchant_Weapon	\x0E\x01\x00\x00 ha usato Eco d'armi.

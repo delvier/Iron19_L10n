@@ -1,0 +1,743 @@
+MID_TUT_CATEGORY_TITLE_Battle	Kämpfe
+MID_TUT_CATEGORY_TITLE_God	Embleme
+MID_TUT_CATEGORY_TITLE_Hub	Das Somniel
+MID_TUT_CATEGORY_TITLE_Kizuna	Erkunden
+MID_TUT_CATEGORY_TITLE_Challenge	Prüfungen
+MID_TUT_CATEGORY_TITLE_Local	Aktueller Kampf
+MID_TUT_BMAP_MOVE_TITLE	Einheiten bewegen
+MID_TUT_BMAP_MOVE_0	Wähle deine Einheit mit \x0E\x08\x02\x04\x02A aus. Bestimme dann\nmit \x0E\x08\x02\x0E\x0CStickL, wohin sie sich bewegen soll.
+MID_TUT_BMAP_MOVE_1	Die blauen Felder zeigen die Bewegungs-\nreichweite deiner Einheit an.
+MID_TUT_BMAP_MOVE_2	Durch erneutes Drücken von \x0E\x08\x02\x04\x02A zieht die\nEinheit auf das ausgewählte Feld.
+MID_TUT_BMAP_COMMAND_TITLE	Einheiten befehligen
+MID_TUT_BMAP_COMMAND_0	Im Anschluss an die Bewegung erscheint eine\nListe mit allen Befehlen, die diese Einheit\nausführen kann.
+MID_TUT_BMAP_COMMAND_1	Wähle „Warten“, wenn die Einheit keine Aktion\nausführen soll.
+MID_TUT_BMAP_CHANGE_TITLE	Phasen im Kampf
+MID_TUT_BMAP_CHANGE_0	Wenn alle Einheiten ihren Zug beendet haben,\ngilt die Spielerphase als abgeschlossen und die\nGegnerphase beginnt.
+MID_TUT_BMAP_CHANGE_1	Sind beide Phasen beendet, beginnt der nächste\nZug mit einer neuen Spielerphase.
+MID_TUT_BMAP_ATTACK_TITLE	Angreifen
+MID_TUT_BMAP_ATTACK_0	Bewege eine Einheit in die Nähe eines Gegners\nund wähle „Angreifen“ aus der Befehlsliste.
+MID_TUT_BMAP_ATTACK_1	Alternativ dazu kannst du den Cursor auf\neinen Gegner bewegen und mit \x0E\x08\x02\x04\x02A zum Angriff\nübergehen, sobald \x0E\x08\x02\x04\x02A Angreifen angezeigt wird.
+MID_TUT_BMAP_ENGAGE_TITLE	Bündnisse
+MID_TUT_BMAP_ENGAGE_0	Bei gefüllter Bündnisleiste wird der Befehl\n„Bündnis“ in der Liste anwählbar.
+MID_TUT_BMAP_ENGAGE_1	Das Bündnis verschmilzt eine Einheit mit einem\nEmblem und gewährt Zugriff auf spezielle\nBündniswaffen.
+MID_TUT_BMAP_ENGAGE_2	Zusätzlich werden Bündnis-Fähigkeiten\naktiviert.
+MID_TUT_BMAP_ENGAGE_3	Bündnisse bleiben drei Runden lang bestehen.
+MID_TUT_BMAP_ENGAGE_ATTACK_TITLE	Bündnis-Angriffe
+MID_TUT_BMAP_ENGAGE_ATTACK_0	Einheiten mit aktivem Bündnis erhalten Zugriff\nauf den sogenannten Bündnis-Angriff.
+MID_TUT_BMAP_ENGAGE_ATTACK_1	Dieser Angriff entfesselt mächtige Kräfte und\nkann nur einmal pro Bündnis eingesetzt werden.
+MID_TUT_BMAP_ENGAGE_ATTACK_2	Sternenlord-Blitz zum Beispiel fügt schweren\nSchaden zu. Wähle „Sternenlord-Blitz“ und\ndann eine Waffe, um ihn auszuführen.
+MID_TUT_BMAP_TERRAIN_TITLE	Geländeeffekte
+MID_TUT_BMAP_TERRAIN_0	Geländearten wirken sich auf das Kampfgesche-\nhen aus. So sind zum Beispiel Einheiten, die im\nGehölz stehen, schwerer zu treffen.
+MID_TUT_BMAP_TERRAIN_1	Gehölz-Felder schränken außerdem die\nBewegung von Bodeneinheiten ein.
+MID_TUT_BMAP_TERRAIN_2	Solche Geländeeffekte werden oben links im\nBildschirm angezeigt. Versuche, diese Effekte\nim Kampf zu deinem Vorteil zu nutzen.
+MID_TUT_BMAP_RECOVERY_TITLE	Heilen
+MID_TUT_BMAP_RECOVERY_0	Sobald die Kraftpunkte (KP) einer Einheit auf 0\nsinken, kann sie nicht mehr kämpfen. Heile sie\nalso rechtzeitig mit Items wie Heilmitteln.
+MID_TUT_BMAP_RECOVERY_1	Heilmittel können über das Item-Menü der\nBefehlsliste angewendet werden.
+MID_TUT_BMAP_SYNCHRO_TITLE	Mit Emblemen synchronisieren
+MID_TUT_BMAP_SYNCHRO_0	Eine Einheit kann Seite an Seite mit einem\nEmblem kämpfen. Dies nennt sich\n„synchronisiert“.
+MID_TUT_BMAP_SYNCHRO_1	Synchronisierte Einheiten sind besonders stark\nund erhalten Zugriff auf Synchro-Fähigkeiten.
+MID_TUT_BMAP_KIZUNA_LV_TITLE	Band-Level
+MID_TUT_BMAP_KIZUNA_LV_0	Wenn eine Einheit an der Seite eines Emblems\nkämpft, sammelt sie Band-Erfahrung und ihr\nBand-Level steigt.
+MID_TUT_BMAP_KIZUNA_LV_1	Mit steigendem Band-Level profitieren die\nBündnispartner von höheren Werten und neuen\nEffekten.
+MID_TUT_BMAP_RANGE_TITLE	Angriffsreichweite
+MID_TUT_BMAP_RANGE_0	Waffen haben unterschiedliche Reichweiten.\nBogen zum Beispiel treffen Ziele aus einer\nDistanz von 2 Feldern.
+MID_TUT_BMAP_RANGE_1	Waffen mit einer Reichweite von 1 können keine\nDistanzangriffe, Waffen mit einer Reichweite\nvon 2 keine Nahkampfangriffe kontern.
+MID_TUT_BMAP_BREAK_TITLE	Kampfhaltung brechen
+MID_TUT_BMAP_BREAK_0	Gegner können mit dem Statuseffekt „Bruch“\nbelegt werden, wenn sie einen Treffer von einer\nWaffe mit Waffenvorteil erleiden.
+MID_TUT_BMAP_BREAK_1	Einheiten mit gebrochener Kampfhaltung\nkönnen bis nach ihrem nächsten Kampf nicht\nkontern. Das ist deine Chance zum Angreifen!
+MID_TUT_BMAP_BREAK_2	Schwerter haben einen Vorteil gegen Äxte, Äxte\ngegen Lanzen und Lanzen gegen Schwerter.\nNahkampf gegen Bogen, Bücher und Messer.
+MID_TUT_BMAP_WAND_TITLE	Stäbe
+MID_TUT_BMAP_WAND_0	Stäbe können von gewissen Klassen wie Kampf-\nmönchen verwendet werden, um Verbündeten\nzu assistieren oder Gegner zu beeinträchtigen.
+MID_TUT_BMAP_WAND_1	So können beispielsweise Heilstäbe eingesetzt\nwerden, um die Kraftpunkte (KP) eines\nVerbündeten wiederherzustellen.
+MID_TUT_BMAP_WAND_2	Stäbe sind nützlich, sind jedoch nur begrenzt\noft einsetzbar.
+MID_TUT_STYLE_PRANA_TITLE	Qi-Adept-Einheiten
+MID_TUT_STYLE_PRANA_0	Qi-Adepten beherrschen eine Technik namens\nProtektion, mit der sie benachbarte Einheiten\nvor gegnerischen Angriffen beschützen können.
+MID_TUT_STYLE_PRANA_1	Mit Protektion erleidet der Verbündete keinen\nSchaden. Stattdessen erleidet der Qi-Adept\nSchaden in Höhe von 20 % seiner max. KP.
+MID_TUT_STYLE_PRANA_2	Die beschützte Einheit übersteht den Kampf\nunbeschadet. „Protektion“ kann nur eingesetzt\nwerden, solange der Qi-Adept volle KP hat.
+MID_TUT_BMAP_MAGIC_TITLE	Magie
+MID_TUT_BMAP_MAGIC_0	Magische Angriffe verfügen über eine hohe\nReichweite, können aber auch gegen unmittel-\nbar angrenzende Einheiten eingesetzt werden.
+MID_TUT_BMAP_MAGIC_1	Magie ist oft effektiv gegen Gegner mit starker\nphysischer Verteidigung.
+MID_TUT_STYLE_MAGIC_TITLE	Mystische Einheiten
+MID_TUT_STYLE_MAGIC_0	Magische Angriffe von mystischen Einheiten\nignorieren alle geländebedingten Boni auf\nAusweichen (Aw.) eines Gegners.
+MID_TUT_STYLE_MAGIC_1	Mystische Einheiten können auch über große\nEntfernungen und unter erschwerten Treff-\nbedingungen Treffer erzielen.
+MID_TUT_BMAP_GOD_ENERGY_TITLE	Emblem-Energie
+MID_TUT_BMAP_GOD_ENERGY_0	Es kann passieren, dass du auf vereinzelten\nFeldern Ansammlungen von Emblem-Energie\nvorfindest.
+MID_TUT_BMAP_GOD_ENERGY_1	Beendet eine synchronisierte Einheit ihren Zug\nauf einem Feld mit Emblem-Energie, wird ihre\nBündnisleiste vollständig aufgeladen.
+MID_TUT_OVERALLINFORMATION_TITLE	Gefahrenzone
+MID_TUT_OVERALLINFORMATION_0	Platzierst du den Cursor auf einen Gegner,\nsiehst du seine Bewegungs-/Angriffsreichweite.\nDrücke \x0E\x08\x02\x04\x02A, damit dies dauerhaft sichtbar bleibt.
+MID_TUT_OVERALLINFORMATION_1	Drücke \x0E\x08\x02\x06\x04ZL, um dir die Gefahrenzone für all deine\nGegner gleichzeitig anzeigen zu lassen.
+MID_TUT_BMAP_SPECIALATTACK_TITLE	Effektivität
+MID_TUT_BMAP_SPECIALATTACK_0	Die Symbole neben manchen Waffen zeigen an,\ngegen welche Gegnertypen sie besonders\nwirksam sind.
+MID_TUT_BMAP_SPECIALATTACK_1	Gegnern, die mit demselben Symbol markiert\nsind, fügen diese Waffen erhöhten Schaden zu.
+MID_TUT_STYLE_COOP_TITLE	Assistenten
+MID_TUT_STYLE_COOP_0	Assistenten bringen sich in den Kampf ein,\nindem sie Verbündete in der Offensive mit\neinem Koop-Schlag unterstützen.
+MID_TUT_STYLE_COOP_1	Greift ein Verbündeter einen Gegner an, der sich\nin Angriffsreichweite des Assistenten befindet,\nsetzt dieser einen Koop-Schlag hinzu.
+MID_TUT_STYLE_HORSE_TITLE	Berittene Einheiten
+MID_TUT_STYLE_HORSE_0	Reiter können weitere Strecken zurücklegen als\nandere Einheiten.
+MID_TUT_STYLE_HORSE_1	Sie eignen sich besonders, um rasche Erst-\nschläge zu landen oder schnell die Karte zu\nüberqueren, um Einheiten in Not zu retten.
+MID_TUT_STYLE_COVERT_TITLE	Verstohlene Einheiten
+MID_TUT_STYLE_COVERT_0	Verstohlene Einheiten erhalten doppelte Boni\nauf Ausweichen (Aw.) durch Geländeeffekte.
+MID_TUT_STYLE_COVERT_1	Sie eignen sich daher besonders für den Einsatz\nauf Karten mit viel Gehölz oder anderem\nvorteilhaften Gelände.
+MID_TUT_STYLE_HEAVY_TITLE	Gepanzerte Einheiten
+MID_TUT_STYLE_HEAVY_0	Gepanzerte Einheiten sind immun gegen den\nBruch-Effekt, wenn sie einen Treffer von einer\nWaffe mit Waffenvorteil erleiden.
+MID_TUT_STYLE_HEAVY_1	Ihre hohen KP und Ver.-Werte machen sie zu\nverlässlichen Fronteinheiten. Durch ihre geringe\nRes. sind sie jedoch anfällig gegen Magie.
+MID_TUT_STYLE_FLY_TITLE	Flugeinheiten
+MID_TUT_STYLE_FLY_0	Flugeinheiten sind nicht von Geländeeffekten\nbetroffen und fliegen auch über Felder, die von\nBodeneinheiten nicht betreten werden können.
+MID_TUT_STYLE_FLY_1	Sie bewegen sich sehr flexibel über das\nSchlachtfeld, sind jedoch schwach gegen\nBogenangriffe.
+MID_TUT_STYLE_DRAGON_TITLE	Dracheneinheiten
+MID_TUT_STYLE_DRAGON_0	Drachen ziehen oft zusätzliche Effekte aus\nBündnis-Fähigkeiten und Bündnis-Angriffen.
+MID_TUT_STYLE_DRAGON_1	Erhöhe ihren Band-Level mit unterschiedlichen\nEmblemen, um ihre einzigartigen Vorteile voll\nauszukosten.
+MID_TUT_STYLE_BATTLE_TITLE	Einheitentypen
+MID_TUT_STYLE_BATTLE_0	Es gibt verschiedene Einheitentypen, wie zum\nBeispiel Berittene, Qi-Adept und Mystische.\nJeder Typ hat andere Vorteile.
+MID_TUT_STYLE_BATTLE_1	Welchem Typ eine Einheit angehört, kannst du\nsehen, wenn du ihre Werte überprüfst.
+MID_TUT_BMAP_ITEMDROP_TITLE	Kampfbeute
+MID_TUT_BMAP_ITEMDROP_0	Item-Symbole auf Gegnern bedeuten, dass du\netwas bekommen kannst, wenn du sie besiegst.
+MID_TUT_BMAP_ITEMDROP_1	Items, die nach dem Kampf fallengelassen\nwerden, sind im Inventar des Gegners grün\neingefärbt.
+MID_TUT_BMAP_XHELP_TITLE	Hilfe
+MID_TUT_BMAP_XHELP_0	Wählst du eine Einheit mit \x0E\x08\x02\x04\x02X, öffnet sich\ndas Hilfe-Fenster.
+MID_TUT_BMAP_XHELP_1	Hier findest du nützliche Informationen zu ihren\nWaffen und Fähigkeiten.
+MID_TUT_BMAP_XHELP_2	Drücke \x0E\x08\x02\x04\x02B oder \x0E\x08\x02\x04\x02X, um zum Kampf\nzurückzukehren.
+MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE	Bande
+MID_TUT_BMAP_BONDSSUPPORTTALK_0	Wenn du den Band-Level zwischen Emblemen\nund Einheiten erhöhst, schaltest du besondere\nBand-Gespräche frei.
+MID_TUT_BMAP_BONDSSUPPORTTALK_1	Sieh dir diese Band-Gespräche im Somniel\noder beim Erkunden der Weltkarte an.
+MID_TUT_BMAP_BONDSSUPPORTTALK_2	Nachdem du dir ein Band-Gespräch angesehen\nhast, kannst du den Band-Level noch weiter\nerhöhen.
+MID_TUT_BMAP_SUPPORT_TITLE	Unterstützung
+MID_TUT_BMAP_SUPPORT_0	Wenn Einheiten nebeneinander kämpfen oder\neinander heilen, sammeln sie Unterstützungs-\npunkte.
+MID_TUT_BMAP_SUPPORT_1	Diese schalten Unterstützungsgespräche frei.\nSiehst du dir diese Gespräche an, erhöht sich\nder Unterstützungslevel der beiden Charaktere.
+MID_TUT_BMAP_SUPPORT_2	Mit steigendem Unterstützungslevel profitieren\ndie Einheiten von immer höheren Werteboni,\nwenn sie nebeneinander kämpfen.
+MID_TUT_BMAP_VISIT_TITLE	Besuche
+MID_TUT_BMAP_VISIT_0	Wenn du Häuser besuchst und die Bewohner\nvor Gefahr warnst, kannst du Gold oder Items\nals Belohnung erhalten.
+MID_TUT_BMAP_VISIT_1	Der Befehl „Besuch“ wird anwählbar, sobald\ndu eine Einheit auf eines der leuchtenden Felder\nvor einem Hauseingang bewegst.
+MID_TUT_BMAP_VISIT_2	Vorsicht! Gegner können versuchen, Häuser vor\ndir zu erreichen und sie zu zerstören.
+MID_TUT_BMAP_TIMECRYSTAL_TITLE	Der Drachenzeitkristall
+MID_TUT_BMAP_TIMECRYSTAL_0	Mit dem Drachenzeitkristall kannst du Aktionen,\ndie du im Kampf ausführst, rückgängig machen.
+MID_TUT_BMAP_TIMECRYSTAL_1	Wähle im Menü „Zeitkristall“, bestimme mit\n\x0E\x08\x02\x06\x04Up und \x0E\x08\x02\x0A\x08Down, wie weit du zurückspringen willst,\nund bestätige deine Wahl mit \x0E\x08\x02\x04\x02A.
+MID_TUT_BMAP_REINFORCEMENT_TITLE	Feindliche Verstärkung
+MID_TUT_BMAP_REINFORCEMENT_0	Gegner können mitten in einer Schlacht\nVerstärkung herbeirufen.
+MID_TUT_BMAP_REINFORCEMENT_1	Verstärkungstruppen erscheinen häufig auf\nFestungen oder an den Rändern der Karte.\nSei stets auf der Hut!
+MID_TUT_BMAP_TRANSPORTER_TITLE	Der Vorrat
+MID_TUT_BMAP_TRANSPORTER_0	Im Vorrat kannst du Items hinterlegen und bei\nBedarf wieder abholen.
+MID_TUT_BMAP_TRANSPORTER_1	Auf dem Schlachtfeld haben nur \x0E\x06\x03\x00\nund Verbündete auf angrenzenden Feldern\nZugriff auf den Vorrat.
+MID_TUT_BMAP_DEADSOUL_TITLE	Geister der Gefallenen
+MID_TUT_BMAP_DEADSOUL_0	Wenn du mit dem Internet verbunden bist,\nbegegnen dir im Kampf Geister von Einheiten,\ndie in Schlachten anderer Spieler gefallen sind.
+MID_TUT_BMAP_DEADSOUL_1	Wo viele Verbündete gefallen sind, erscheinen\ngelbe Geister. Wartest du auf ihren Feldern,\ngewinnst du Erfahrung und Band-Erfahrung.
+MID_TUT_BMAP_DEADSOUL_2	Auf Feldern, wo viele Gegner gefallen sind,\nerscheinen violette Geister. Wartest du auf ihren\nFeldern, erhältst du ihre Items.
+MID_TUT_BMAP_DOOR_TITLE	Türen
+MID_TUT_BMAP_DOOR_0	Du kannst Türen zerstören, indem du sie\nangreifst.
+MID_TUT_BMAP_DOOR_1	Diebe haben Zugriff auf den Befehl „Tür“ und\nkönnen damit die Tür öffnen, ohne sie zu\nzerstören.
+MID_TUT_BMAP_TREASUREBOX_TITLE	Schatztruhen
+MID_TUT_BMAP_TREASUREBOX_0	Steht eine Einheit neben einer Truhe, kannst du\nmit dem Befehl „Truhe“ die enthaltenen Items\nentnehmen.
+MID_TUT_BMAP_TREASUREBOX_1	Plündert ein Gegner die Truhe, kann der Schatz\nbeim Sieg über den gegnerischen Dieb zurück-\nerobert werden.
+MID_TUT_BMAP_BREAKINGWALL_TITLE	Hindernisse zerstören
+MID_TUT_BMAP_BREAKINGWALL_0	Als „Zerstörbar“ markiertes Gelände kann durch\nAngriffe zerstört werden.
+MID_TUT_BMAP_BREAKINGWALL_1	Zerstörtes Gelände eröffnet deinen Einheiten\nneue Wege.
+MID_TUT_BMAP_HPSTOCK_TITLE	Erweckungssteine
+MID_TUT_BMAP_HPSTOCK_0	Manche besonders starken Gegner tragen\nErweckungssteine bei sich.
+MID_TUT_BMAP_HPSTOCK_1	Mithilfe dieser Steine gelangen sie zu neuen\nKräften, sobald ihre KP auf 0 gefallen sind.
+MID_TUT_BMAP_HPSTOCK_2	Diese Gegner können erst dann endgültig\nunschädlich gemacht werden, wenn sie alle\nErweckungssteine aufgebraucht haben.
+MID_TUT_BMAP_INTERFERINGCANE_TITLE	Taktische Stäbe
+MID_TUT_BMAP_INTERFERINGCANE_0	Manche Stäbe können genutzt werden, um\nGegnern Hindernisse in den Weg zu stellen\noder sie anderweitig am Vormarsch zu hindern.
+MID_TUT_BMAP_SEARCH_TITLE	Dunkelheit
+MID_TUT_BMAP_SEARCH_0	An dunklen Orten sind nur Felder in unmittel-\nbarer Nähe von Verbündeten, Fackeln oder\nLeuchtfeuern sichtbar.
+MID_TUT_BMAP_SEARCH_1	Lass deine Einheiten nicht überstürzt vorrücken!\nIn der Dunkelheit könnten Gegner lauern.
+MID_TUT_BMAP_POISON_TITLE	Statuseffekt: Gift
+MID_TUT_BMAP_POISON_0	Manche Klassen, wie etwa Diebe, verwenden\nMesser, die Gegner beim Angriff vergiften.
+MID_TUT_BMAP_POISON_1	Vergiftete Gegner nehmen zusätzlichen\nSchaden.
+MID_TUT_BMAP_POISON_2	Wiederholte Angriffe mit einem Messer erhöhen\ndie Wirkung des Gifts.
+MID_TUT_BMAP_POISON_3	Vergiftete Einheiten bleiben so lange vergiftet,\nbis sie mit einem Erneuerungsstab oder einem\nAntidot geheilt werden.
+MID_TUT_BMAP_TORCH_TITLE	Leuchtfeuer
+MID_TUT_BMAP_TORCH_0	Bewege eine Einheit neben ein Leuchtfeuer\nund nutze den Befehl „Anzünden“, um es zu\nentfachen.
+MID_TUT_BMAP_TORCH_1	Bringe Licht ins Dunkel, um verborgene Gegner\nbesser sehen zu können.
+MID_TUT_BMAP_SMASH_TITLE	Schmetterwaffen
+MID_TUT_BMAP_SMASH_0	Mächtige Waffen wie Klingen oder Großlanzen\nfügen Gegnern Schmetterschaden zu und\nstoßen sie ein Feld zurück.
+MID_TUT_BMAP_SMASH_1	Du kannst Gegnern den Status „Bruch“ zufügen,\nindem du sie gegen Einheiten oder andere\nHindernisse wie Wände schmetterst.
+MID_TUT_BMAP_SMASH_2	Diese Waffen sind jedoch schwer. Mit ihnen ist\nkein Folgeangriff möglich und der Gegner greift\nzuerst an, wenn du den Kampf damit initiierst.
+MID_TUT_BMAP_DARKSYNCHRO_TITLE	Dunkle Synchros
+MID_TUT_BMAP_DARKSYNCHRO_0	Manche Gegner können Embleme im Kampf\neinsetzen.
+MID_TUT_BMAP_DARKSYNCHRO_1	Diese Dunklen Embleme gehen zwar kein\nBündnis mit ihnen ein, ermöglichen ihnen aber\nBündnis-Angriffe.
+MID_TUT_BMAP_DARKSYNCHRO_2	Ein Licht markiert Gegner, die einen Bündnis-\nAngriff ausführen können. Sei auf der Hut!
+MID_TUT_BMAP_BOWTURRET_TITLE	Ballistae
+MID_TUT_BMAP_BOWTURRET_0	Bewegt sich eine Bogen-Einheit auf das Feld\neiner Ballista, wird der Befehl „Abfeuern“\nanwählbar.
+MID_TUT_BMAP_BOWTURRET_1	Ballistae verfügen über eine hohe Reichweite\nund Angriffskraft und können Feinden enormen\nSchaden zufügen, bevor sie zu nahe kommen.
+MID_TUT_BMAP_BOWTURRET_2	Sie können jedoch nur eine begrenzte Anzahl\nvon Schüssen abfeuern, die sorgfältig geplant\nwerden sollten.
+MID_TUT_BMAP_CONVERSATION_TITLE	Gespräche
+MID_TUT_BMAP_CONVERSATION_0	Siehst du eine Einheit mit Sprechblase, bewege\ndich neben sie und wähle „Reden“.
+MID_TUT_BMAP_CONVERSATION_1	Solche Einheiten anzusprechen ist eine gute\nMöglichkeit, weitere Verbündete zu rekrutieren.
+MID_TUT_BMAP_CONVERSATION_2	In manchen Fällen sprechen diese Charaktere\nnur mit bestimmten Leuten.
+MID_TUT_BMAP_MAGICTURRET_TITLE	Magische Artillerie
+MID_TUT_BMAP_MAGICTURRET_0	Steht eine mit einem Buch ausgerüstete Einheit\nauf einem Feld mit magischer Artillerie, wird der\nBefehl „Abfeuern“ anwählbar.
+MID_TUT_BMAP_MAGICTURRET_1	Magische Artillerie feuert mächtige Angriffe\nüber große Distanzen.
+MID_TUT_BMAP_MAGICTURRET_2	Ebenso wie Ballistae kann auch magische\nArtillerie nur begrenzt oft eingesetzt werden.\nPlane ihren Einsatz also mit Bedacht.
+MID_TUT_BMAP_QUICKSAND_TITLE	Treibsand
+MID_TUT_BMAP_QUICKSAND_0	Treibsand ist eine Geländeart, die die Bewegung\nvon Einheiten erheblich beeinträchtigt, wenn sie\ndas entsprechende Feld verlassen.
+MID_TUT_BMAP_QUICKSAND_1	Versuche, Treibsand möglichst zu umgehen,\ndamit deine Beweglichkeit nicht beeinträchtigt\nwird.
+MID_TUT_BMAP_RECKLESS_TITLE	Tobsucht
+MID_TUT_BMAP_RECKLESS_0	Mit Dunklen Emblemen synchronisierte Gegner\nkönnen der Tobsucht verfallen, wenn sie\nErweckungssteine verwenden.
+MID_TUT_BMAP_RECKLESS_1	In diesem Zustand erzwingen sie zusätzliche,\nunkontrollierbare Kräfte von ihrem Dunklen\nEmblem und sind stärker denn je. Sieh dich vor!
+MID_TUT_BMAP_DANCE_TITLE	Tanzen
+MID_TUT_BMAP_DANCE_0	Tänzer können den Befehl „Tanzen“ einsetzen,\nwenn sie neben einer Einheit stehen, die in\ndiesem Zug bereits eine Aktion ausgeführt hat.
+MID_TUT_BMAP_DANCE_1	Tanzt der Tänzer für einen Verbündeten, kann\ndieser sich im selben Zug erneut bewegen und\neine weitere Aktion ausführen.
+MID_TUT_BMAP_FLAMETURRET_TITLE	Flammenkanonen
+MID_TUT_BMAP_FLAMETURRET_0	Betritt eine Einheit ein Flammenkanonen-Feld,\nerhält sie Zugriff auf den Befehl „Abfeuern“.
+MID_TUT_BMAP_FLAMETURRET_1	Feuergeschosse richten rund um ihren\nEinschlagsort Flächenschaden an und\nlassen das Gelände in Flammen aufgehen.
+MID_TUT_BMAP_FLAMETURRET_2	Beachte, dass Getroffene mit mindestens 1 KP\nüberleben und auch deine Verbündeten\ngetroffen werden können.
+MID_TUT_BMAP_PICKUPARING_TITLE	Ringe sammeln
+MID_TUT_BMAP_PICKUPARING_0	Beschwöre Embleme, indem du \x0E\x06\x03\x00\nneben einem am Boden liegenden Ring platzierst.
+MID_TUT_BMAP_LINKINGUP_TITLE	Im Kampf synchronisieren
+MID_TUT_BMAP_LINKINGUP_0	Verbündete ohne Ringe können sich neben ein\nbeschworenes Emblem bewegen und sich über\nden Befehl „Reden“ mit ihm synchronisieren.
+MID_TUT_BMAP_DRAGONCREST_TITLE	Dämonendrachensiegel
+MID_TUT_BMAP_DRAGONCREST_0	Um das Drachensiegel zu zerstören, musst du\ndie gegnerischen Kommandanten Zephia und\nGriss bezwingen.
+MID_TUT_BMAP_DRAGONCREST_1	Zephia und Griss nutzen die Kraft des Siegels,\num zerstörerische Vulkanbomben abzufeuern.
+MID_TUT_BMAP_VOLCANICBOMB_TITLE	Vulkanbomben
+MID_TUT_BMAP_VOLCANICBOMB_0	In dieser Schlacht schlagen in gewissen\nZeitabständen Vulkanbomben ein.
+MID_TUT_BMAP_VOLCANICBOMB_1	Diese Bomben zerschmettern Felsbrocken und\nfügen deinen Verbündeten erheblichen Schaden\nzu, wenn sie sie treffen.
+MID_TUT_BMAP_VOLCANICBOMB_2	Eine Warnung zeigt an, wo die Bomben landen.\nVersuche, die Einschlaggebiete zu umgehen, so\ngut du kannst.
+MID_TUT_BMAP_AVALANCHE_TITLE	Lawinen
+MID_TUT_BMAP_AVALANCHE_0	\x0E\x06\x03\x00 der Vergangenheit kann mithilfe\ndes Dämonendrachensiegels Lawinen auslösen.\nGetroffene Verbündete werden weggestoßen.
+MID_TUT_BMAP_AVALANCHE_1	Eine Warnung zeigt, wo Lawinen niedergehen\nwerden. Bleib wachsam und lass deine\nEinheiten vorsichtig voranrücken!
+MID_TUT_BMAP_AVALANCHE_2	Felsen und Gegner können verhindern, dass\nEinheiten zurückgedrängt werden.
+MID_TUT_BMAP_TURNLIMIT_TITLE	Zeitdruck
+MID_TUT_BMAP_TURNLIMIT_0	Bestimmte Schlachten müssen innerhalb einer\nfesten Anzahl von Zügen gewonnen werden.
+MID_TUT_BMAP_TURNLIMIT_1	Verstreichen die Züge, die in den Sieges-\nbedingungen festgelegt wurden, hat deine\nArmee den Kampf verloren.
+MID_TUT_BMAP_DRAGONBEAM_TITLE	Dämonendrachensiegel-Strahl
+MID_TUT_BMAP_DRAGONBEAM_0	Die Verzerrte Lumera nutzt die Kraft des\nDämonendrachensiegels, um mächtige Angriffe\nzu entfesseln.
+MID_TUT_BMAP_DRAGONBEAM_1	Eine Warnung zeigt die Reichweite des Strahls\nan. Bewege deine Einheiten aus dem Gefahren-\nbereich, um großen Schaden zu vermeiden.
+MID_TUT_BMAP_DARKHERALDIC_TITLE	Dunkle Embleme
+MID_TUT_BMAP_DARKHERALDIC_0	Dunkle Embleme sind anfällig für Angriffe von\nEinheiten, die mit einem Emblem aus derselben\nWelt synchronisiert oder im Bündnis sind.
+MID_TUT_BMAP_BARRIER_TITLE	Dunkler Wall
+MID_TUT_BMAP_BARRIER_0	Die Dunklen Embleme haben eine Barriere\nerrichtet, die bewirkt, dass der Dämon Sombron\nweniger Schaden nimmt.
+MID_TUT_BMAP_BARRIER_1	Besiege die Dunklen Embleme, um die Barriere\nzu schwächen.
+MID_TUT_BMAP_ENGAGERING_TITLE	Der Paktring
+MID_TUT_BMAP_ENGAGERING_0	Erreichst du Unterstützungslevel A mit einem\nVerbündeten, kannst du ihm den Paktring\nüberreichen und euer Band stärken.
+MID_TUT_BMAP_ENGAGERING_1	Den Ring findest du in der Kommode in deinem\nZimmer.
+MID_TUT_BMAP_ENGAGERING_2	Wenn der Verbündete deiner Wahl nirgendwo\nim Somniel aufzufinden ist, solltest du einmal\nversuchen, dich in deinem Bett auszuruhen.
+MID_TUT_GOD_MARTH_TITLE	Emblem Marth
+MID_TUT_GOD_MARTH_0	Emblem Marth ist ein flinker Angreifer, der Geg-\nner mit Anmut und Schnelligkeit überwältigt.
+MID_TUT_GOD_MARTH_1	Die Synchro-Fähigkeit „Aufmerksamkeit“ er-\nleichtert das Ausweichen bei Gegenangriffen.
+MID_TUT_GOD_MARTH_2	Die Bündniswaffe „Rapier“ fügt berittenen und\ngepanzerten Gegnern zusätzlichen Schaden zu.
+MID_TUT_GOD_MARTH_3	Die Bündnis-Fähigkeit „Göttliche Schnelle“ ge-\nwährt einen zusätzlichen, schwächeren Angriff.
+MID_TUT_GOD_MARTH_4	Der Bündnis-Angriff „Sternenlord-Blitz“ ist ein\nmächtiger und blitzschneller Hagel von\nSchlägen.
+MID_TUT_GOD_SIGLUD_TITLE	Emblem Sigurd
+MID_TUT_GOD_SIGLUD_0	Emblem Sigurd zeichnet sich durch heraus-\nragend hohe Beweglichkeit auf dem Schlacht-\nfeld aus.
+MID_TUT_GOD_SIGLUD_1	Die Synchro-Fähigkeit „Kanter“ gewährt der\nEinheit nach dem Angreifen eine weitere\nBewegung.
+MID_TUT_GOD_SIGLUD_2	Die Bündniswaffe „Rittertod“ kann berittenen\nGegnern zusätzlichen Schaden zufügen.
+MID_TUT_GOD_SIGLUD_3	Die Bündnis-Fähigkeit „Galopp“ erhöht\nBewegung (Bew.) um 5.
+MID_TUT_GOD_SIGLUD_4	Der Bündnis-Angriff „Überreiten“ ist ein\nAnsturm auf Gegner in einer Linie und fügt\nallen Gegnern im Weg Schaden zu.
+MID_TUT_GOD_CELICA_TITLE	Emblem Celica
+MID_TUT_GOD_CELICA_0	Emblem Celica beherrscht mächtige magische\nAngriffe. Sie ist sehr wertvoll im Kampf gegen\nVerzerrte.
+MID_TUT_GOD_CELICA_1	Die Synchro-Fähigkeit „Heilige Haltung“ wirft\nvon Verzerrten zugefügten Schaden teilweise\nauf den Angreifer zurück.
+MID_TUT_GOD_CELICA_2	Die Bündniswaffe „Seraphim“ fügt verzerrten\nGegnern zusätzlichen Schaden zu.
+MID_TUT_GOD_CELICA_3	Die Bündnis-Fähigkeit „Echo“ erlaubt einer\nEinheit den Einsatz zweier einzelner magischer\nAngriffe mit 50 % Schaden.
+MID_TUT_GOD_CELICA_4	Der Bündnis-Angriff „Teleport-Ragna“ tele-\nportiert den Anwender in die Nähe eines fernen\nGegners und greift mit mächtiger Magie an.
+MID_TUT_GOD_MICAIAH_TITLE	Emblem Micaiah
+MID_TUT_GOD_MICAIAH_0	Emblem Micaiahs unumstrittene Stärke ist ihre\nHeilmagie.
+MID_TUT_GOD_MICAIAH_1	Die Synchro-Fähigkeit „Geistliche“ erlaubt\neiner Einheit ungeachtet ihrer Klasse den\nEinsatz von Stäben.
+MID_TUT_GOD_MICAIAH_2	Die Bündniswaffe „Glanz“ greift an und\nerleuchtet die Umgebung.
+MID_TUT_GOD_MICAIAH_3	Die Bündnis-Fähigkeit „Weitung“ vergrößert die\nReichweite und Wirkung von Stäben.
+MID_TUT_GOD_MICAIAH_4	Der Bündnis-Angriff „Großes Opfer“ stellt die\nKP aller Verbündeten vollständig wieder her.\nDie KP des Anwenders sinken dafür auf 1.
+MID_TUT_GOD_ROY_TITLE	Emblem Roy
+MID_TUT_GOD_ROY_0	Emblem Roys ausgewogene offensive und\ndefensive Fähigkeiten machen ihn zu\neinem hervorragenden Frontkämpfer.
+MID_TUT_GOD_ROY_1	Die Synchro-Fähigkeit „Durchhalten“ erlaubt\neiner Einheit, die meisten Angriffe mit 1 KP\nzu überleben.
+MID_TUT_GOD_ROY_2	Die Bündniswaffe „Lanzenmeister“ ist, anders\nals die meisten Schwerter, stark gegen Lanzen\nund schwach gegen Äxte.
+MID_TUT_GOD_ROY_3	Die Bündnis-Fähigkeit „Hinauswachsen“ erhöht\nvorübergehend Level und Werte einer Einheit.
+MID_TUT_GOD_ROY_4	Der Bündnis-Angriff „Flammender Löwe“ trifft\nmehrere Felder in Blickrichtung des Anwenders\nund lässt das Gelände in Flammen aufgehen.
+MID_TUT_GOD_LEAF_TITLE	Emblem Leif
+MID_TUT_GOD_LEAF_0	Emblem Leifs versierter Umgang mit den\nunterschiedlichsten Waffen erlaubt es ihm, sich\nin Schlachten an jede Situation anzupassen.
+MID_TUT_GOD_LEAF_1	Die Synchro-Fähigkeit „Waffenschild“ reduziert\nden erlittenen Schaden, wenn der Anwender\nden Waffenvorteil genießt.
+MID_TUT_GOD_LEAF_2	Die Bündniswaffe „Meisteraxt“ landet häufig\nkritische Treffer.
+MID_TUT_GOD_LEAF_3	Die Bündnis-Fähigkeit „Anpassungsfähig“\nwechselt automatisch zur effektivsten Waffe,\nwenn der Anwender angegriffen wird.
+MID_TUT_GOD_LEAF_4	Der Bündnis-Angriff „Vierfachtreffer“ ist ein\nAngriff mit Schwert, Lanze, Axt und Bogen, der\ndie Chance auf Brechen des Gegners erhöht.
+MID_TUT_GOD_LIN_TITLE	Emblem Lyn
+MID_TUT_GOD_LIN_0	Emblem Lyn ist auf Angriffe spezialisiert, die\nden Gegnern keine Chance zum Kontern lassen.
+MID_TUT_GOD_LIN_1	Die Synchro-Fähigkeit „Vehemenz“ gewährt\nbesonders schnellen Einheiten einen\nFolgeangriff, bevor der Gegner kontern kann.
+MID_TUT_GOD_LIN_2	Die Bündniswaffe „Meisterbogen“ landet häufig\nkritische Treffer.
+MID_TUT_GOD_LIN_3	Die Bündnis-Fähigkeit „Doppelgängerruf“\nerschafft Doppelgänger des Anwenders, die an\nKoop-Schlägen teilnehmen können.
+MID_TUT_GOD_LIN_4	Der Bündnis-Angriff „Astrasturm“ feuert fünf\nBogenangriffe aus extremer Entfernung auf\neinen Gegner ab.
+MID_TUT_GOD_LUCINA_TITLE	Emblem Lucina
+MID_TUT_GOD_LUCINA_0	Emblem Lucinas Stärke ist Teamarbeit.\nIhr volles Potenzial entfaltet sie, wenn sie\nin der Nähe von Verbündeten kämpft.
+MID_TUT_GOD_LUCINA_1	Die Synchro-Fähigkeit „Doppelschlag“ befähigt\nden Anwender ungeachtet seines Einheitentyps\nzur Teilnahme an Koop-Schlägen.
+MID_TUT_GOD_LUCINA_2	Die Bündniswaffe „Adelsrapier“ fügt berittenen\nund gepanzerten Gegnern zusätzlichen Schaden\nzu.
+MID_TUT_GOD_LUCINA_3	Die Bündnis-Fähigkeit „Schildbund“ blockt mit\nhoher Wahrscheinlichkeit Angriffe auf\nbenachbarte Verbündete ab.
+MID_TUT_GOD_LUCINA_4	Der Bündnis-Angriff „Alle für einen“ ermutigt\nalle Verbündeten im Umkreis von 2 Feldern\nzur Teilnahme an einem Koop-Schlag.
+MID_TUT_GOD_IKE_TITLE	Emblem Ike
+MID_TUT_GOD_IKE_0	Emblem Ikes Ausdauervermögen und offensive\nStärke nehmen zu, wenn er Schaden erleidet.
+MID_TUT_GOD_IKE_1	Die Synchro-Fähigkeit „Kühnheit“ erhöht\nVerteidigung und Resistenz, wenn die KP\nabnehmen.
+MID_TUT_GOD_IKE_2	Die Bündniswaffe „Hammer“ kann Gegnern\nSchmetterschaden und gepanzerten Gegnern\nzusätzlichen Schaden zufügen.
+MID_TUT_GOD_IKE_3	Die Bündnis-Fähigkeit „Freund der Laguz“\nhalbiert den erlittenen Schaden. Im Gegenzug\nsinkt Ausweichen (Aw.) des Anwenders auf 0.
+MID_TUT_GOD_IKE_4	Der Bündnis-Angriff „Großer Aithir“ stärkt die\nVerteidigung der Einheit für eine Runde, greift\ndann einen Bereich an und stellt KP wieder her.
+MID_TUT_GOD_KAMUI_TITLE	Emblem Corrin
+MID_TUT_GOD_KAMUI_0	Emblem Corrin kann Gegnerbewegungen\neinschränken und Gelände erschaffen,\num so das Kampfgeschehen zu steuern.
+MID_TUT_GOD_KAMUI_1	Die Synchro-Fähigkeit „Drachenader“ fügt dem\nGelände je nach Bündnispartner-Typ Effekte\nhinzu und tilgt Flammen und Miasma.
+MID_TUT_GOD_KAMUI_2	Die Bündniswaffe „Doppelkatana“ ist, anders als\ndie meisten Schwerter, stark gegen Lanzen und\nschwach gegen Äxte.
+MID_TUT_GOD_KAMUI_3	Die Bündnis-Fähigkeit „Furchtbare Aura“ hindert\nein Ziel und dessen Nachbarn für 1 Zug am\nBewegen, wenn die Einheit den Kampf initiiert.
+MID_TUT_GOD_KAMUI_4	Der Bündnis-Angriff „Reißendes Gebrüll“ trifft\nGegner bis 3 Felder in Blickrichtung, tilgt Mia-\nasma und Flammen vom Gelände und flutet es.
+MID_TUT_GOD_BYLETH_TITLE	Emblem Byleth
+MID_TUT_GOD_BYLETH_0	Emblem Byleths durchdachte Anweisungen\nerhöhen die Werte seiner Verbündeten und\nführen sie zum Sieg.
+MID_TUT_GOD_BYLETH_1	Die Synchro-Fähigkeit „Göttlicher Puls“ sorgt\ndafür, dass Angriffe, die ihr Ziel verfehlen\nwürden, manchmal dennoch treffen.
+MID_TUT_GOD_BYLETH_2	Emblem Byleths erste Bündniswaffe ist ein\nHeroenrelikt – ein Item, das für jeden\nEinheitentyp anders ist.
+MID_TUT_GOD_BYLETH_3	Die Bündnis-Fähigkeit „Unterricht“ gewährt\nVerbündeten in der Umgebung einen\nWertebonus.
+MID_TUT_GOD_BYLETH_4	Der Bündnis-Angriff „Tanz der Göttin“ gewährt\nbenachbarten Verbündeten eine weitere Aktion\nund einen Wertebonus.
+MID_TUT_GOD_EIRIK_TITLE	Emblem Eirika
+MID_TUT_GOD_EIRIK_0	Emblem Eirika kann im Kampf ihren Zwillings-\nbruder Ephraim einwechseln und sich so\nunterschiedlichen Situationen anpassen.
+MID_TUT_GOD_EIRIK_1	Die Synchro-Fähigkeit „Luna-Band“ erhöht den\nzugefügten Schaden proportional zum\nVerteidigungswert des Gegners.
+MID_TUT_GOD_EIRIK_2	Die Bündniswaffe „Rapier“ fügt berittenen und\ngepanzerten Gegnern zusätzlichen Schaden zu.
+MID_TUT_GOD_EIRIK_3	Die Bündnis-Fähigkeit „Heilige Zwillinge“\nerlaubt der Einheit, Eirikas und Ephraims\nFähigkeiten gleichzeitig zu aktivieren.
+MID_TUT_GOD_EIRIK_4	Der Bündnis-Angriff „Zwillingsschlag“ trifft mit\nSchwert und Lanze. Er erhöht die Chance auf\n„Bruch“ und fügt Verzerrten Zusatzschaden zu.
+MID_TUT_GOD_LUEUR_TITLE	Emblem \x0E\x06\x03\x00
+MID_TUT_GOD_LUEUR_0	Emblem \x0E\x06\x03\x00 muss mit keiner Einheit\nsynchronisiert sein, um im Kampf Bündnis+\n(Bündnisstatus für beide Einheiten) zu nutzen.
+MID_TUT_GOD_LUEUR_1	Die Synchro-Fähigkeit „Bandeschmied“ erhöht\nTreffer (Trf.) und Ausweichen (Aw.) des Anwen-\nders und synchr. oder verbundener Verbündeter.
+MID_TUT_GOD_LUEUR_2	Die Bündniswaffe „Lyrátion“ füllt die Bündnis-\nleiste benachbarter Verb. um 1, wenn der Träger\nden Kampf initiiert und einen Gegner besiegt.
+MID_TUT_GOD_LUEUR_3	Die Bündnis-Fähigkeit „Eingespieltheit“ erhöht\ndie Werte des Bündnispartners erheblich, wenn\ner den Kampf initiiert und einen Gegner besiegt.
+MID_TUT_GOD_LUEUR_4	Der Bündnis-Angriff „Drachenschlag“ fügt mit\nSchwert und Magie selbst Gegnern mit hoher\nVer. und Res. erheblichen Schaden zu.
+MID_TUT_GOD_LUEUR_KL_TITLE	Band von Emblem \x0E\x06\x03\x00
+MID_TUT_GOD_LUEUR_KL_0	Der Band-Level von Emblem \x0E\x06\x03\x00 ist\nan den Unterstützungslevel statt an die\nBand-Erfahrung des Verbündeten geknüpft.
+MID_TUT_GOD_LUEUR_KL_1	Kein Unterstützungslevel ergibt Band-Level 1,\nC ergibt Band-Level 5, B ergibt Band-Level 10\nund A ergibt Band-Level 20.
+MID_TUT_ENGAGE_PLUS_TITLE	Bündnis+
+MID_TUT_ENGAGE_PLUS_0	Ist die Bündnisleiste von \x0E\x06\x03\x00 voll,\nwähle „Bündnis+“, um ein Bündnis mit einem\nbenachbarten Verbündeten einzugehen.
+MID_TUT_ENGAGE_PLUS_1	Emblem \x0E\x06\x03\x00 geht ein Bündnis mit\ndem Verbündeten ein und \x0E\x06\x03\x00 erhält\nebenfalls den Bündnisstatus.
+MID_TUT_ENGAGE_PLUS_2	Der Bündnispartner von Emblem \x0E\x06\x03\x00\nkann den mächtigen Bündnis-Angriff „Bündnis-\nschlag“ nutzen, solange beide benachbart sind.
+MID_TUT_BMAP_SORTIE_TITLE	Kampfvorbereitungen
+MID_TUT_BMAP_SORTIE_0	Vor Kämpfen kannst du wählen, welche deiner\nEinheiten im Kampf antreten sollen. Außerdem\nkannst du Emblem-Ringe und Items zuweisen.
+MID_TUT_BMAP_SORTIE_1	Starte den Kampf mit „Los!“, sobald deine\nVorbereitungen abgeschlossen sind.
+MID_TUT_BMAP_UNIT_SELECT_TITLE	Einheitenauswahl
+MID_TUT_BMAP_UNIT_SELECT_0	Wähle unter „Einheiten“, welche Verbündeten\ndich in den Kampf begleiten sollen. Mit \x0E\x08\x02\x04\x02A kannst\ndu \x0E\x08\x02\x16\x14IconSortie aktivieren oder deaktivieren.
+MID_TUT_BMAP_UNIT_SELECT_1	Verbündete, deren Namen in Grün hervorge-\nhoben sind, können nicht aus der Aufstellung\nentfernt werden.
+MID_TUT_BMAP_UNIT_SELECT_2	Auf jeder Karte gelten unterschiedliche Bestim-\nmungen für die maximale Größe deiner Armee.
+MID_TUT_BMAP_MAPVERIFICATION_TITLE	Positionen tauschen
+MID_TUT_BMAP_MAPVERIFICATION_0	Über den Befehl „Position ändern“ kannst du \ndie Aufstellung deiner Einheiten anpassen.
+MID_TUT_BMAP_MAPVERIFICATION_1	Wähle mit \x0E\x08\x02\x04\x02A den Verbündeten, den du versetzen\nmöchtest.
+MID_TUT_BMAP_MAPVERIFICATION_2	Wähle dann einen weiteren Verbündeten mit\n\x0E\x08\x02\x04\x02A aus, um ihre Positionen zu tauschen. Manche\nEinheiten können nicht versetzt werden.
+MID_TUT_BMAP_MAPVERIFICATION_3	Nutze diese Phase auch, um dir Gelände und\nGegner auf der Karte genau anzusehen.
+MID_TUT_BMAP_HERALDICCHOICE_TITLE	Emblem-Ringe
+MID_TUT_BMAP_HERALDICCHOICE_0	Unter „Emblem-Ringe“ kannst du Verbündeten\nRinge zuweisen, die es ihnen erlauben, sich im\nKampf mit einem Emblem zu synchronisieren.
+MID_TUT_BMAP_HERALDICCHOICE_1	Wähle zuerst einen Verbündeten und dann den\nEmblem-Ring, den er tragen soll.
+MID_TUT_BMAP_GETTINGDRESSED_TITLE	Inventar
+MID_TUT_BMAP_GETTINGDRESSED_0	Im Inventar kannst du Waffen und Items für\nden Kampf auswählen. Unter „Items verwalten“\nlegst du die Ausrüstung deiner Einheiten fest.
+MID_TUT_BMAP_GETTINGDRESSED_1	Über „Items tauschen“ können Einheiten unter-\neinander oder mit dem Vorrat Items tauschen.
+MID_TUT_BMAP_GETTINGDRESSED_2	Wenn du deine Einheiten automatisch mit Aus-\nrüstung aus dem Vorrat ausstatten möchtest,\nwähle „Ausrüstung optimieren“.
+MID_TUT_BMAP_GETTINGDRESSED_3	Mit „Alle lagern“ sendest du die Ausrüstung\nder entsprechenden Einheit in den Vorrat.
+MID_TUT_BMAP_EQUIP_SKILL_TITLE	Fähigkeiten verwalten
+MID_TUT_BMAP_EQUIP_SKILL_0	Über die Inventaroption „Fähigkeiten verwalten“\nkannst du die Fähigkeiten deiner Verbündeten\nsehen und geerbte Fähigkeiten ausrüsten.
+MID_TUT_BMAP_EQUIP_SKILL_1	Besuche die Ringkammer oder die Arena\nim Somniel, um Fähigkeiten von Emblemen\nan Verbündete zu vererben.
+MID_TUT_BMAP_CLASSCHANGE_TITLE	Klassenwechsel
+MID_TUT_BMAP_CLASSCHANGE_0	Einheiten ab Level 10 können mithilfe\neines Meistersiegels zu einer erfahrenen\nKlasse wechseln.
+MID_TUT_BMAP_CLASSCHANGE_1	Der Wechsel zu einer erfahrenen Klasse erhöht\ndie Werte sowie die Anzahl verwendbarer\nWaffen einer Einheit und macht sie mächtiger.
+MID_TUT_BMAP_CLASSCHANGE_2	Durch Verwendung eines Zweitsiegels kannst du\nin eine andere Klasse gleichen Rangs wechseln.
+MID_TUT_BMAP_CLASSCHANGE_3	Die Klasse eines Charakters kannst du über das\nInventar wechseln.
+MID_TUT_BMAP_APTITUDE_TITLE	Fertigkeiten
+MID_TUT_BMAP_APTITUDE_0	Einheiten benötigen Fertigkeiten (Fertgk.),\num in andere Klassen wechseln zu können.
+MID_TUT_BMAP_APTITUDE_1	Zu Anfang hat jede Einheit individuelle\nFertigkeiten auf Gebieten, auf denen sie\nbesonders talentiert ist.
+MID_TUT_BMAP_APTITUDE_2	Einheiten können sich auch Fertigkeiten von\nEmblemen zu eigen machen. Dadurch können\nsie zu einer beliebigen Klasse wechseln.
+MID_TUT_GMAP_BASIC_TITLE	Weltkarte
+MID_TUT_GMAP_BASIC_0	Auf der Weltkarte kannst du dein nächstes Ziel\noder das nächste Kapitel auswählen.
+MID_TUT_GMAP_BASIC_1	Bewege \x0E\x06\x03\x00 auf den gewünschten\nZielort und drücke \x0E\x08\x02\x04\x02A, um mit der Geschichte\nfortzufahren.
+MID_TUT_GMAP_BASIC_2	Im Menü kannst du dein Inventar verwalten\noder zum Somniel zurückkehren.
+MID_TUT_GMAP_SIDE_TITLE	Nebenquests
+MID_TUT_GMAP_SIDE_0	Nach dem Abschließen bestimmter Kapitel\nerscheinen Nebenquest-Karten auf der Welt-\nkarte.
+MID_TUT_GMAP_SIDE_1	Nebenquests sind optional, aber sie lohnen sich.\nVielleicht triffst du sogar neue Verbündete!
+MID_TUT_GMAP_ENCOUNT_TITLE	Gefechte
+MID_TUT_GMAP_ENCOUNT_0	Manchmal werden Reiseziele, die du bereits\nbesucht hast, von neuen Gegnern oder\nVerzerrten heimgesucht.
+MID_TUT_GMAP_ENCOUNT_1	Wenn du zu diesen Reisezielen zurückkehrst,\nkannst du optionale Gefechte bestreiten.
+MID_TUT_GMAP_ENCOUNT_2	Durch Abschließen von Gefechten kannst du\nErfahrung und andere Belohnungen wie Gold\noder Items verdienen.
+MID_TUT_GMAP_RANKING_TITLE	Ranglisten
+MID_TUT_GMAP_RANKING_0	Wenn du mit dem Internet verbunden bist, wird\ndir für jede Karte angezeigt, welche Einheiten\nweltweit am häufigsten eingesetzt wurden.
+MID_TUT_GMAP_RANKING_1	Nutze die Statistik als Inspiration, wenn du dir\nunsicher bist, wen du in deiner Armee aufstellen\nsollst.
+MID_TUT_KR_KIZUNARESULT_TITLE	Erkunden
+MID_TUT_KR_KIZUNARESULT_0	Hast du einen Kampf abgeschlossen, kannst du\ndie Karte frei erkunden und dich mit deinen\nVerbündeten unterhalten.
+MID_TUT_KR_KIZUNARESULT_1	Halte die Augen nach Fundstücken auf dem\nBoden offen.
+MID_TUT_KR_KIZUNARESULT_2	Wenn du deinen Erkundungsgang beenden\nwillst, begib dich zum Ausgang oder öffne mit\n\x0E\x08\x02\x0A\x08Plus das Menü und wähle dann „Aufbrechen“.
+MID_TUT_KR_KIZUNAPIECE_TITLE	Band-Fragmente
+MID_TUT_KR_KIZUNAPIECE_0	Auf Erkundungsgängen schenken manche\nVerbündeten dir Fragmente des Bandes, wenn\ndu dich mit ihnen unterhältst.
+MID_TUT_KR_KIZUNAPIECE_1	Diese Fragmente kannst du im Somniel zu\nRingen des Bandes weiterverarbeiten oder\nins Training deiner Embleme investieren.
+MID_TUT_KR_KIZUNAPIECE_2	Verpasste Fragmente erhältst du automatisch,\nwenn du das Erkunden vorzeitig beendest.
+MID_TUT_HUB_BASIC_TITLE	Das Somniel
+MID_TUT_HUB_BASIC_0	Das Somniel ist dein Hauptquartier. Hier kannst\ndu dich auf den nächsten Kampf vorbereiten\noder die Bande zu Verbündeten vertiefen.
+MID_TUT_HUB_BASIC_1	Parallel zu deinem Spielfortschritt werden\nmehr und mehr Bereiche und Optionen im\nSomniel freigeschaltet.
+MID_TUT_HUB_BASIC_2	Wenn du dein Abenteuer fortsetzen möchtest,\nöffne die Weltkarte über das Menü oder begib\ndich zum Ausgang auf dem zentralen Platz.
+MID_TUT_HUB_CENTRALLOBBY_OPEN	Das Café ist ab jetzt geöffnet.
+MID_TUT_HUB_CENTRALLOBBY_TITLE	Café
+MID_TUT_HUB_CENTRALLOBBY_0	Das Café ist ein Gemeinschaftsraum mit\nentspannter Atmosphäre und Zugang zu\nanderen Einrichtungen.
+MID_TUT_HUB_CENTRALLOBBY_1	Nutze die Musiktruhe, um die Hintergrundmusik\nim Somniel ändern.
+MID_TUT_HUB_CENTRALLOBBY_2	Die Pinnwand ist voller nützlicher Informationen.\nHier kannst du in Elyos investieren oder deine\nErfolge überprüfen.
+MID_TUT_HUB_INVESTMENT_TITLE	Spenden
+MID_TUT_HUB_INVESTMENT_0	Unterstütze die Länder von Elyos mit Spenden.\nEin Anstieg des Spendenlevels wird mit\nDankesgeschenken belohnt.
+MID_TUT_HUB_INVESTMENT_1	In Ländern mit hohen Spendenleveln gibt es\nmehr seltene Gegner, für deren Bezwingen du\nmehr Gold oder Erfahrung bekommst.
+MID_TUT_HUB_INVESTMENT_2	Höhere Spendenlevel bringen auch erhöhte\nMaterialfundraten und andere Vorteile mit sich.\nSpende also, wann immer du kannst!
+MID_TUT_HUB_INFORMATION_TITLE	Somniel-Karte
+MID_TUT_HUB_INFORMATION_0	Auf dieser Karte siehst du nicht nur die\nÖrtlichkeiten des Somniel, sondern auch\ndie Aufenthaltsorte deiner Verbündeten.
+MID_TUT_HUB_INFORMATION_1	Wähle einen Zielort, um dich per Schnellreise\nsofort dorthin zu begeben.
+MID_TUT_HUB_ACHIEVEMENT_TITLE	Erfolge
+MID_TUT_HUB_ACHIEVEMENT_0	Auf dem „Erfolge“-Bildschirm kannst du deine\nErrungenschaften überprüfen und Fragmente\ndes Bandes als Belohnung in Empfang nehmen.
+MID_TUT_HUB_ACHIEVEMENT_1	Du erhältst eine Mitteilung, wann immer du\neinen Erfolg erzielt hast und deine wohlver-\ndienten Fragmente des Bandes abholen kannst.
+MID_TUT_HUB_MYROOM_TITLE	Mein Zimmer
+MID_TUT_HUB_MYROOM_0	Dies ist der heilige Ort, an dem \x0E\x06\x03\x00\ntausend Jahre lang geschlafen hat.
+MID_TUT_HUB_MYROOM_1	Wähle „Ausruhen“, um ein Nickerchen zu\nmachen und die Zeit im Somniel vergehen\nzu lassen.
+MID_TUT_HUB_MYROOM_2	Vielleicht bekommst du im Schlaf ja einige\ninteressante Dinge zu hören... Kopfhörer\nbieten dabei das beste Hörerlebnis.
+MID_TUT_HUB_MYROOM_3	Wähle „Erinnerungen“, um dir vergangene\nUnterstützungsgespräche und Szenen erneut\nanzusehen.
+MID_TUT_HUB_MYROOM_4	Du kannst die Schwierigkeit des Spiels unter\n„Schwierigkeit“ verringern. Erhöhen lässt sich\ndie Schwierigkeit auf diese Weise jedoch nicht.
+MID_TUT_HUB_WEAPONSHOP_OPEN	Das Arsenal und der Laden haben geöffnet.
+MID_TUT_HUB_WEAPONSHOP_TITLE	Arsenal
+MID_TUT_HUB_WEAPONSHOP_0	Hier kannst du Waffen kaufen oder verkaufen.
+MID_TUT_HUB_WEAPONSHOP_1	Im Verlauf des Spiels treffen neue Waren ein\nund das Arsenal wird sein Sortiment erweitern.
+MID_TUT_HUB_ITEMSHOP_TITLE	Laden
+MID_TUT_HUB_ITEMSHOP_0	Hier kannst du im Kampf verwendbare Items\nwie Heilmittel und Stäbe kaufen oder verkau-\nfen.
+MID_TUT_HUB_ITEMSHOP_1	Im Verlauf des Spiels wird der Laden weitere\nItems ins Sortiment aufnehmen.
+MID_TUT_HUB_HERALDICSPACE_OPEN	Du hast nun Zutritt zur Ringkammer.
+MID_TUT_HUB_HERALDICSPACE_TITLE	Ringkammer
+MID_TUT_HUB_HERALDICSPACE_0	In der Ringkammer kannst du mit Emblemen\nund ihren Ringen interagieren. Hier können\nEmblem-Fähigkeiten vererbt werden.
+MID_TUT_HUB_HERALDICSPACE_1	Schmiede neue Ringe aus Fragmenten des\nBandes oder verschmelze bestehende Ringe\ndes Bandes zu einem stärkeren Exemplar.
+MID_TUT_HUB_HERALDICSPACE_2	Poliere Ringe nach einem Kampf, um die Bande\nzu den Emblemen zu stärken.
+MID_TUT_HUB_INHERITSKILL_TITLE	Fähigkeiten erben
+MID_TUT_HUB_INHERITSKILL_0	Bestimmte Fähigkeiten von Emblemen können\nan Verbündete vererbt werden.
+MID_TUT_HUB_INHERITSKILL_1	Kämpfen Einheiten mit synchronisierten\nEmblemen oder verwenden sie Ringe des\nBandes, verdienen sie Fähigkeitspunkte (FP).
+MID_TUT_HUB_INHERITSKILL_2	Zum Erben von Fähigkeiten werden FP und ein\ngenügend hoher Band-Level benötigt. Rüste\ngeerbte Fähigkeiten im Inventar aus.
+MID_TUT_HUB_INHERITSKILL_3	Du kannst nicht zweimal von derselben\nFähigkeit profitieren, versuche also\nÜberschneidungen zu vermeiden.
+MID_TUT_HUB_CREATE_RING_TITLE	Ringe des Bandes erstellen
+MID_TUT_HUB_CREATE_RING_0	Aus Fragmenten des Bandes können Ringe des\nBandes erstellt werden.
+MID_TUT_HUB_CREATE_RING_1	Ringe des Bandes erhöhen die Statuswerte und\nerlauben es Einheiten, FP zu erhalten, allerdings\nin geringerem Maße als Emblem-Ringe.
+MID_TUT_HUB_ENGWEAPON_REFINE_OPEN	Du kannst nun die Bündniswaffen deines\nEmblems in der Ringkammer verstärken.
+MID_TUT_HUB_ENGWEAPON_REFINE_TITLE	Bündniswaffen
+MID_TUT_HUB_ENGWEAPON_REFINE_0	Mit bestimmten Materialien kannst du Bündnis-\nwaffen verbessern. Kristalle erhöhen Werte und\nPein-Bücher fügen Effektivitäten hinzu.
+MID_TUT_HUB_ENGWEAPON_REFINE_1	Die Materialien für die Verstärkung von\nBündniswaffen kannst du in Sturmprüfungen\noder Staffelprüfungen verdienen.
+MID_TUT_HUB_ENGWEAPON_REFINE_2	Bündniswaffen haben nur beschränkte Kapazitä-\nten für Verstärkungen. Du kannst Bündniswaffen\nnicht über ihre Kapazität hinaus verstärken.
+MID_TUT_HUB_ENGWEAPON_REFINE_3	Durchgeführte Verstärkungen können zurückge-\nsetzt werden. Probiere unterschiedliche Effekt-\nkombinationen aus!
+MID_TUT_HUB_MASCOT_OPEN	Eine mysteriöse Aura erfüllt die Luft in der\nGrotte.
+MID_TUT_HUB_MASCOT_TITLE	\x0E\x06\x05\x00
+MID_TUT_HUB_MASCOT_0	Dieses geheimnisvolle Geschöpf wacht seit\nUrzeiten über das Somniel.
+MID_TUT_HUB_MASCOT_1	Wenn du dich gut um \x0E\x06\x05\x00 kümmerst,\npassiert vielleicht etwas ganz Wunderbares.
+MID_TUT_HUB_MUSCLEEXERCISES_OPEN	Du hast jetzt Zugang zum Krafttraining!
+MID_TUT_HUB_MUSCLEEXERCISES_TITLE	Krafttraining
+MID_TUT_HUB_MUSCLEEXERCISES_0	Im Krafttraining kannst du aus drei Übungen\nwählen, um die Werte von \x0E\x06\x03\x00\nvorübergehend zu verbessern.
+MID_TUT_HUB_MUSCLEEXERCISES_1	Steuerung und trainierte Werte unterscheiden\nsich von Übung zu Übung. Versuche, in allen\nÜbungen ein perfektes Ergebnis zu erzielen!
+MID_TUT_HUB_MUSCLEEXERCISES_2	Im späteren Spielverlauf werden für jede Übung\nzusätzliche Schwierigkeitsgrade freigeschaltet.
+MID_TUT_HUB_ME_PUSHUPS_TITLE	Liegestütze
+MID_TUT_HUB_ME_PUSHUPS_0	Bei dieser Übung ist Timing gefragt. Achte auf\ndie Linie und stoppe sie im richtigen Moment.\nNach drei Fehlversuchen ist Schluss.
+MID_TUT_HUB_ME_PUSHUPS_1	Wenn du die angegebene Anzahl Liegestütze\nabsolvierst, hast du die Übung geschafft. Aber\nVorsicht: die Linie wird immer schneller!
+MID_TUT_HUB_ME_PUSHUPS_2	Bring dich in Form!
+MID_TUT_HUB_ME_SITUP_TITLE	Klappmesser
+MID_TUT_HUB_ME_SITUP_0	Drücke den Knopf, so schnell du kannst, um die\nLinie anzuheben. Berührt sie den Boden, endet\ndas Training.
+MID_TUT_HUB_ME_SITUP_1	Mit jedem Klappmesser wird es schwerer, die\nLinie anzuheben. Je schneller du sie anhebst,\ndesto besser fällt deine Bewertung aus.
+MID_TUT_HUB_ME_SITUP_2	Bring dich in Form!
+MID_TUT_HUB_ME_SQUAT_TITLE	Kniebeugen
+MID_TUT_HUB_ME_SQUAT_0	Hier geht es um Rhythmusgefühl. Folge den\nAnweisungen mit \x0E\x08\x02\x0E\x0CStickL und \x0E\x08\x02\x0E\x0CStickR. Nach dem dritten\nFehlversuch endet die Übung.
+MID_TUT_HUB_ME_SQUAT_1	Richtiges Neigen und Drehen von \x0E\x08\x02\x0E\x0CStickL und \x0E\x08\x02\x0E\x0CStickR\nist der Schlüssel zum Erfolg.
+MID_TUT_HUB_ME_SQUAT_2	Bring dich in Form!
+MID_TUT_HUB_ARENA_OPEN	Die Türen zur Arena haben sich geöffnet.
+MID_TUT_HUB_ARENA_TITLE	Arena
+MID_TUT_HUB_ARENA_0	In der Arena kannst du Verbündete trainieren\nlassen, um Erfahrung zu sammeln und ihre\nBand-Level zu erhöhen.
+MID_TUT_HUB_ARENA_1	Im Standardtraining kämpft ein ausgewählter\nVerbündeter mit einem anderen Verbündeten.\nEs ist kostenlos, aber begrenzt.
+MID_TUT_HUB_ARENA_2	Das Emblemtraining stärkt die Bande zwischen\neinem Verbündeten und einem Emblem. Es kos-\ntet Fragmente des Bandes und ist unbegrenzt.
+MID_TUT_HUB_ANIMAL_OPEN	Du kannst jetzt Tiere aufnehmen.
+MID_TUT_HUB_ANIMAL_TITLE	Tiere
+MID_TUT_HUB_ANIMAL_0	Wenn du auf deinen Erkundungstouren Tieren\nbegegnest, kannst du sie aufnehmen und zum\nSomniel bringen.
+MID_TUT_HUB_ANIMAL_1	Nachdem du sie aufgenommen hast, finden sie\nauf dem Gehöft ein neues Zuhause. Vielleicht\nhinterlassen sie sogar nützliche Dinge für dich.
+MID_TUT_HUB_ANIMAL_2	Wenn du über die Pinnwand an Länder\nspendest, kannst du weitere Tiere aufnehmen.
+MID_TUT_HUB_AMIIBO_OPEN	Der amiibo-Pavillon steht jetzt zur Verfügung.
+MID_TUT_HUB_AMIIBO_TITLE	amiibo-Pavillon
+MID_TUT_HUB_AMIIBO_0	Lies amiibo ein und erhalte Items und\nBelohnungen.
+MID_TUT_HUB_AMIIBO_1	Liest du ein Fire Emblem-amiibo ein, winkt dir\neine besondere Belohnung.
+MID_TUT_HUB_DRILLINGSHOP_OPEN	Die Schmiede und die Boutique haben geöffnet.
+MID_TUT_HUB_DRILLINGSHOP_TITLE	Schmiede
+MID_TUT_HUB_DRILLINGSHOP_0	In der Schmiede kannst du deine Waffen im\nTausch gegen Gold und Materialien verstärken.
+MID_TUT_HUB_DRILLINGSHOP_1	Werte deine Waffen auf und entwickle sie\nweiter, indem du sie veredelst oder gravierst.
+MID_TUT_HUB_DRILLINGSHOP_2	Übertrage mit einer Gravur eine Emblem-Macht\nauf eine Waffe, wobei nie mehr als 1 Emblem\nzur gleichen Zeit verwendet werden kann.
+MID_TUT_HUB_DRILLINGSHOP_3	Tipp: Die zum Veredeln benötigten Materialien\nkannst du auch durch andere Materialien\nersetzen.
+MID_TUT_HUB_ACCESSORYSHOP_TITLE	Boutique
+MID_TUT_HUB_ACCESSORYSHOP_0	Hier kannst du im Tausch gegen Materialien\nund Gold Kleidung und Accessoires in Auftrag\ngeben, die du im Somniel tragen kannst.
+MID_TUT_HUB_ACCESSORYSHOP_1	Die meisten Accessoires, die du hier anfertigst,\nkönnen von allen Charakteren getragen werden.
+MID_TUT_HUB_ACCESSORYSHOP_2	Im Verlauf des Spiels erweitert sich das Angebot\nder Boutique.
+MID_TUT_HUB_COOK_OPEN	Im Café kannst du jetzt gemeinsam mit deinen\nFreunden Mahlzeiten zu dir nehmen.
+MID_TUT_HUB_COOK_TITLE	Gemeinsame Mahlzeiten
+MID_TUT_HUB_COOK_0	Bestelle Gerichte, um sie mit deinen\nVerbündeten zu essen.
+MID_TUT_HUB_COOK_1	Wenn das Gericht gut gelingt, erhalten deine\nVerbündeten einen Wertebonus im nächsten\nKampf.
+MID_TUT_HUB_COOK_2	Speise mit deinen Verbündeten, um\nUnterstützungspunkte zu erhalten.
+MID_TUT_HUB_COOK_3	Derjenige, der Küchendienst hat, kann dir Reste\neinpacken. Dieses Gericht kannst du als Item\nmit in den Kampf nehmen, um KP zu heilen.
+MID_TUT_HUB_CAPERIDGE_OPEN	Du hast nun Zugang zum Turm der Prüfungen.
+MID_TUT_HUB_CAPERIDGE_TITLE	Turm der Prüfungen
+MID_TUT_HUB_CAPERIDGE_0	In diesem Turm kannst du Belohnungen\nverdienen, indem du Prüfungen absolvierst.
+MID_TUT_HUB_CAPERIDGE_1	In der Sturmprüfung musst du mehrere Karten\nhintereinander bewältigen. Zu Beginn kannst du\ndie Schwierigkeit festlegen.
+MID_TUT_HUB_CAPERIDGE_2	In Staffelprüfungen spielst du online im Team\nmit anderen Spielern. Ihr kämpft abwechselnd\ngegen Gegner.
+MID_TUT_HUB_CAPERIDGE_3	In der Dimensionsprüfung trittst du online auf\nselbst gestalteten Karten gegen die Armeen\nanderer Spieler an.
+MID_TUT_HUB_FISHING_OPEN	Du kannst nun angeln!
+MID_TUT_HUB_FISHING_TITLE	Angeln
+MID_TUT_HUB_FISHING_0	Du kannst nun im Teich angeln. Wirf mit \x0E\x08\x02\x04\x02A den\nKöder aus, wo es dir gefällt! Achte besonders\nauf Wellen – sie weisen auf große Fische hin.
+MID_TUT_HUB_FISHING_1	Drücke \x0E\x08\x02\x04\x02A, wenn der Schwimmer vollständig\neingetaucht ist, damit der Fisch anbeißt.
+MID_TUT_HUB_FISHING_2	Wenn der Fisch an der Leine in eine bestimmte\nRichtung zerrt, neige \x0E\x08\x02\x0E\x0CStickL in die entgegengesetzte\nRichtung, um die Schnur einzuholen.
+MID_TUT_HUB_FISHING_3	Drücke wiederholt \x0E\x08\x02\x04\x02A, um die Ausdauer des\nFisches zu dezimieren, sobald du ihn nah genug\nherangezogen hast.
+MID_TUT_HUB_FISHING_4	Wenn seine Ausdauer auf 0 fällt, hast du den\nFisch gefangen. Mit neuen Angelruten kannst\ndu größere Fische fangen.
+MID_TUT_HUB_DRAGONRIDE_OPEN	Du kannst jetzt „Wyvernreiten“ spielen!
+MID_TUT_HUB_DRAGONRIDE_TITLE	Wyvernreiten
+MID_TUT_HUB_DRAGONRIDE_0	Beim Wyvernreiten fliegst du über eine\nRennstrecke und schießt auf fliegende Ziele.
+MID_TUT_HUB_DRAGONRIDE_1	Versuche, die Sonderziele zu treffen und eine\nhohe Punktzahl zu erreichen! Im späteren Spiel-\nverlauf werden weitere Strecken freigeschaltet.
+MID_TUT_HUB_FLEAMARKET_OPEN	Der Flohmarkt hat nun geöffnet.
+MID_TUT_HUB_FLEAMARKET_TITLE	Flohmarkt
+MID_TUT_HUB_FLEAMARKET_0	Auf dem Flohmarkt findest du Items, die es in\nnormalen Läden nicht zu kaufen gibt.
+MID_TUT_HUB_FLEAMARKET_1	Das Angebot ändert sich, schau also regelmäßig\nvorbei.
+MID_TUT_HUB_FORTUNE_OPEN	Der Wahrsager hat jetzt geöffnet.
+MID_TUT_HUB_FORTUNE_TITLE	Der Wahrsager
+MID_TUT_HUB_FORTUNE_0	Der Wahrsager Seadall betreibt sein Gewerbe\nmithilfe von Karten.
+MID_TUT_HUB_FORTUNE_1	Er stellt seine Dienste nur abends zur\nVerfügung. Besuche ihn nach Sonnenuntergang.
+MID_TUT_HUB_PROFILE_OPEN	Du kannst nun auf die Ruhmeshalle zugreifen.
+MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE	Kämpfe in Prüfungen
+MID_TUT_HUB_CAPERIDGE_DETAIL_0	Verbrauchte Items, gefallene Verbündete und\nerlittene Statusveränderungen werden nach\nEnde einer Prüfung zurückgesetzt.
+MID_TUT_HUB_CAPERIDGE_DETAIL_1	Am Ende der Prüfung erhältst du für\nabgeschlossene Kämpfe Erfahrung und\nandere Belohnungen.
+MID_TUT_HUB_CAPERIDGE_DETAIL_2	Da es keine bleibenden Änderungen an deiner\nArmee gibt, musst du dich nicht zurückhalten!
+MID_TUT_CHALLENGE_TITLE	Sturmprüfungen
+MID_TUT_CHALLENGE_0	Ziel einer Sturmprüfung ist es, mehrere Karten\nin Folge zu gewinnen.
+MID_TUT_CHALLENGE_1	Für jeden abgeschlossenen Kampf erhältst du\nMaterialien und Erfahrung für die Verbündeten,\ndie teilgenommen haben.
+MID_TUT_CHALLENGE_2	Die Schwierigkeit einer Prüfung kann bei der\nKartenauswahl festgelegt werden. Bei höherer\nSchwierigkeit gibt es bessere Belohnungen.
+MID_TUT_RELAY_TITLE	Staffelprüfungen
+MID_TUT_RELAY_0	In Staffelprüfungen wechselst du dich mit einem\nanderen Spieler ab, um Karten abzuschließen.
+MID_TUT_RELAY_1	Wähle „Neue Prüfung“, um ein Ticket einzulösen\nund eine neue Prüfung zu beginnen.
+MID_TUT_RELAY_2	Wähle „Übernahme“, um den Kampf dort\nfortzuführen, wo ein anderer Spieler aufgehört\nhat.
+MID_TUT_RELAY_3	Besteht einer der Spieler die Prüfung, erhalten\nalle eine Belohnung. Über „Ergebnisse“ kannst\ndu dir die Wiederholung einer Prüfung ansehen.
+MID_TUT_RELAY_ENTRY_PANEL_TITLE	Eingänge
+MID_TUT_RELAY_ENTRY_PANEL_0	Bis zu fünf Verbündete können an einem\nEingang und auf den vier angrenzenden Feldern\nplatziert werden.
+MID_TUT_RELAY_ENTRY_PANEL_1	Inaktive Eingänge kannst du aktivieren, indem\ndu einen Verbündeten dort warten lässt.
+MID_TUT_RELAY_ENTRY_PANEL_2	Sobald du einen Eingang aktivierst, können\nübernehmende Spieler ihn zum Entsenden\nnutzen. Aktiviere also so viele wie möglich!
+MID_TUT_RELAY_DATA_TAKEOVER_TITLE	Die Staffelübergabe
+MID_TUT_RELAY_DATA_TAKEOVER_0	Nach einer bestimmten Anzahl von Zügen gibst\ndu das Kommando über die Armee ab. Bei der\nÜbernahme gibt es zwei Optionen.
+MID_TUT_RELAY_DATA_TAKEOVER_1	Öffentlich: Jeder beliebige Spieler kann die\nStaffel übernehmen. Privat: Spieler müssen\nfür die Übernahme eine ID eingeben.
+MID_TUT_RELAY_DATA_TAKEOVER_2	Sobald jemand deine Prüfung übernimmt,\nkannst du über „Ergebnisse“ den weiteren\nVerlauf mitverfolgen.
+MID_TUT_RELAY_NEWDATA_TITLE	Eine neue Staffelprüfung starten
+MID_TUT_RELAY_NEWDATA_0	Wenn du eine neue Prüfung startest, bist du der\nerste Spieler, der Einheiten auf das Feld\nentsendet.
+MID_TUT_RELAY_NEWDATA_1	Wähle eine der verfügbaren Karten.
+MID_TUT_RELAY_NEWDATA_2	Sobald du eine Karte ausgewählt hast, beginnen\ndie Vorbereitungen. Wähle „Los!“, um ein Staf-\nfelticket einzulösen und die Prüfung zu starten.
+MID_TUT_RELAY_TAKEOVER_TITLE	Übernahme
+MID_TUT_RELAY_TAKEOVER_0	Du kannst von anderen Spielern begonnene\nPrüfungen übernehmen. Für die Übernahme\ngibt es zwei Optionen.
+MID_TUT_RELAY_TAKEOVER_1	Zufällig: Übernimm eine zufällig ausgewählte\nPrüfung.
+MID_TUT_RELAY_TAKEOVER_2	ID eingeben: Gib eine Übernahme-ID ein, um die\nPrüfung eines bestimmten Spielers zu\nübernehmen.
+MID_TUT_RELAY_TAKEOVER_3	Sobald du eine Prüfung ausgewählt hast, kannst\ndu mit „Los!“ den Kampf starten.
+MID_TUT_RELAY_FINISH_TITLE	Ergebnisse ansehen
+MID_TUT_RELAY_FINISH_0	Sieh dir die Ergebnisse deiner Staffelprüfungen\nan und hole nach Abschluss einer Prüfung\nBelohnungen ab.
+MID_TUT_RELAY_FINISH_1	Du kannst die Kämpfe anderer Spieler und deine\neigenen als Wiederholung sehen. Laufende\nKämpfe sind bis zum aktuellen Stand sichtbar.
+MID_TUT_RELAY_FINISH_2	Belohnungen gibt es auch, wenn du verlierst,\nSiege bringen jedoch bessere Preise ein.
+MID_TUT_MATCH_TITLE	Dimensionsprüfungen
+MID_TUT_MATCH_0	In der Dimensionsprüfung kämpfst du gegen Ar-\nmeen anderer Spieler auf Karten, die du selbst\nauswählst oder sogar selbst gestaltet hast.
+MID_TUT_MATCH_1	Im Schnellkampf wählst du eine Karte, die dir\ngefällt, und kannst dann sofort zum Kampf\nübergehen.
+MID_TUT_MATCH_2	Im Spezialkampf lädst du eine selbst erstellte\nKarte hoch, die du dann zu Kampfbeginn mit\nder Karte eines anderen Spielers verknüpfst.
+MID_TUT_MATCH_3	In beiden Spielmodi erhältst du Belohnungen\nam Ende des Kampfes.
+MID_TUT_MATCH_EASY_TITLE	Schnellkämpfe
+MID_TUT_MATCH_EASY_0	Wähle eine Karte, schicke eine Raubgruppe los\nund kämpfe gegen die Armee eines anderen\nSpielers. Die Gegnerwahl bietet diese Optionen:
+MID_TUT_MATCH_EASY_1	Zufällig: Tritt gegen eine zufällig ausgewählte\nArmee eines anderen Spielers an.
+MID_TUT_MATCH_EASY_2	Freund: Greife eine Karte an, die von einem\ndeiner Freunde hochgeladen wurde.
+MID_TUT_MATCH_EASY_3	ID eingeben: Wähle eine spezifische Karte aus,\nfür die du eine ID kennst.
+MID_TUT_MATCH_SERIOUS_TITLE	Spezialkämpfe
+MID_TUT_MATCH_SERIOUS_0	Erstelle eine Karte und lade sie hoch, oder\nverknüpfe deine Karte mit der eines anderen\nSpielers und greife an.
+MID_TUT_MATCH_SERIOUS_1	Wähle „Karte editieren“, um dein eigenes\nSchlachtfeld zu gestalten.
+MID_TUT_MATCH_EDIT_ATTACK_TITLE	Auf deiner Karte kämpfen
+MID_TUT_MATCH_EDIT_ATTACK_0	Sobald du eine eigene Karte fertiggestellt hast,\nkannst du sie für Kämpfe verwenden.
+MID_TUT_MATCH_EDIT_ATTACK_1	Wähle „Kampf starten“, um deine Karte mit der\neines anderen Spielers zu verbinden. Du entsen-\ndest deine Raubgruppe und der Kampf beginnt.
+MID_TUT_MATCH_EDIT_ATTACK_2	Wird deine Karte angegriffen, kannst du unter\n„Ergebnisse“ das Resultat und die Wiederholung\nsehen.
+MID_TUT_MATCH_EDIT_ATTACK_3	Teste mithilfe der Funktion „Übungskampf“,\nwie gut du deine Karte gestaltet hast.
+MID_TUT_MATCH_ATTACK_TITLE	Kampf starten
+MID_TUT_MATCH_ATTACK_0	Verbinde deine Karte mit der eines anderen\nSpielers. Entsende eine Raubgruppe und\nbeginne den Kampf.
+MID_TUT_MATCH_ATTACK_1	Zufällig: Kämpfe auf einer zufällig ausgewählten\nKarte eines anderen Spielers.
+MID_TUT_MATCH_ATTACK_2	Freund: Wähle aus den Karten, die deine\nFreunde hochgeladen haben.
+MID_TUT_MATCH_ATTACK_3	ID eingeben: Kämpfe auf der Karte eines\nbestimmten Spielers, indem du die passende ID\neingibst.
+MID_TUT_MATCH_EDIT_TITLE	Karten bearbeiten
+MID_TUT_MATCH_EDIT_0	Bedenke beim Erstellen deiner eigenen Karten,\nwie das platzierte Gelände sich auf den\nKampfverlauf auswirken wird.
+MID_TUT_MATCH_EDIT_1	Drücke \x0E\x08\x02\x04\x02X, um die Geländeliste zu öffnen. Du\nkannst Gelände mit \x0E\x08\x02\x04\x02A platzieren und mit \x0E\x08\x02\x04\x02L\nund \x0E\x08\x02\x04\x02R den ausgewählten Geländetyp ändern.
+MID_TUT_MATCH_EDIT_2	Behalte auch die Verteidigung deiner Karte im\nBlick. Sobald du sie hochgeladen hast, greifen\nGegner an. Gute Verteidigung ist das A und O.
+MID_TUT_MATCH_EDIT_3	Öffne das Menü mit \x0E\x08\x02\x0A\x08Plus, um dein Defensivteam\nfestzulegen. Dort kannst du auch deine Karte\nspeichern.
+MID_TUT_MATCH_EDIT_SAVE_TITLE	Defensivteams festlegen
+MID_TUT_MATCH_EDIT_SAVE_0	Du kannst Einstellungen, Platzierung und\nAusrüstung deines Defensivteams festlegen.
+MID_TUT_MATCH_EDIT_SAVE_1	Ändere den Bewegungstyp eines Verbündeten,\nindem du den Cursor auf ihn bewegst und\n\x0E\x08\x02\x04\x02A drückst.
+MID_TUT_MATCH_EDIT_SAVE_2	Einheiten, die in deinem Defensivteam sind,\nkönnen nicht in deiner Raubgruppe entsendet\nwerden – entscheide also mit Bedacht.
+MID_TUT_MATCH_EDIT_SAVE_3	Wenn du das Gelände und dein Defensivteam\nplatziert hast, wähle „Karte speichern“.
+MID_TUT_MATCH_EDIT_SAVE_4	Wähle „Fertigstellen“, wenn du fertig bist.
+MID_TUT_MATCH_REPLAY_TITLE	Ergebnisse
+MID_TUT_MATCH_REPLAY_0	Greift ein Spieler eine von dir hochgeladene\nKarte an, kommt dein Verteidigungsteam zum\nEinsatz.
+MID_TUT_MATCH_REPLAY_1	Wenn es zu einem dieser Verteidigungskämpfe\nkommt, kannst du dir ansehen, wie er\nausgegangen ist.
+MID_TUT_MATCH_REPLAY_2	Beobachte den Verlauf des Kampfes, indem du\ndir eine Wiederholung ansiehst.
+MID_TUT_MATCH_REPLAY_3	Du kannst sogar bei Niederlagen Belohnungen\nerhalten, Siege bringen jedoch größere Preise\nein.
+MID_TUT_MATCH_MOCKCOMBAT_TITLE	Übungskampf
+MID_TUT_MATCH_MOCKCOMBAT_0	Teste deine erstellten Karten, um zu sehen, wie\ngut sie für den Kampf geeignet sind.
+MID_TUT_MATCH_MOCKCOMBAT_1	Entsende eine Raubgruppe auf deine eigene\nKarte, um deine Verteidigung auf die Probe zu\nstellen.
+MID_TUT_MATCH_MOCKCOMBAT_2	Falls du Nachbesserungsbedarf siehst, kannst\ndu „Karte editieren“ wählen und Anpassungen\nvornehmen.
+MID_TUT_TIPS_Marth	Emblem Marth
+MID_TUT_TIPS_Siglud	Emblem Sigurd
+MID_TUT_TIPS_Celica	Emblem Celica
+MID_TUT_TIPS_Micaiah	Emblem Micaiah
+MID_TUT_TIPS_Roy	Emblem Roy
+MID_TUT_TIPS_Lin	Emblem Lyn
+MID_TUT_TIPS_Ike	Emblem Ike
+MID_TUT_TIPS_Lucina	Emblem Lucina
+MID_TUT_TIPS_Leaf	Emblem Leif
+MID_TUT_TIPS_Kamui	Emblem Corrin
+MID_TUT_TIPS_Eirik	Emblem Eirika
+MID_TUT_TIPS_Ephraim	Emblem Ephraim
+MID_TUT_TIPS_Byleth	Emblem Byleth
+MID_TUT_TIPS_TUTORIAL	Die Grundlagen
+MID_TUT_TIPS_ITEM	Items
+MID_TUT_TIPS_WEAPON	Waffen
+MID_TUT_TIPS_KIZUNA	Erkunden
+MID_TUT_TIPS_HUB	Das Somniel
+MID_TUT_TIPS_GMAP	Die Weltkarte
+MID_TUT_TIPS_ENCOUNTER	Gefechte
+MID_TUT_TIPS_UNIT_SKILL	 (Fähigkeit von \x0E\x01\x00\x00)
+MID_TUT_TIPS_GOD_SKILL	 (Emblem-Fähigkeit von \x0E\x01\x00\x00)
+MID_TUT_TIPS_UNIT_ITEM	 (Einzigartige Waffe von \x0E\x01\x00\x00)
+MID_TUT_TIPS_GOD_ITEM	 (Bündniswaffe von \x0E\x01\x00\x00)
+MID_TIPS_TUTORIAL_1	Tutorials können unter „System“ jederzeit erneut angesehen werden.
+MID_TIPS_TUTORIAL_2	Unter „System“ kannst du Kampfanimationen aktivieren oder deaktivieren.
+MID_TIPS_TUTORIAL_3	Mit \x0E\x08\x02\x06\x04ZL kannst du die Angriffsreichweite aller Gegner auf der Karte überprüfen.
+MID_TIPS_TUTORIAL_4	Bewege den Cursor auf einen Gegner und drücke \x0E\x08\x02\x04\x02A, um den Gefahrenbereich zu\nüberprüfen.
+MID_TIPS_TUTORIAL_5	Über den Menübefehl „Zug beenden“ kannst du die Spielerphase jederzeit beenden.
+MID_TIPS_TUTORIAL_6	Drücke und halte \x0E\x08\x02\x04\x02Y, um Dialoge schneller abzuspielen.
+MID_TIPS_TUTORIAL_7	Wenn ein Charakter 100 Erfahrungspunkte gesammelt hat, erhöhen sich sein Level und\nseine Grundwerte.
+MID_TIPS_TUTORIAL_8	Blende mit \x0E\x08\x02\x04\x02X Details zu ausgewählten Items oder Fähigkeiten ein.
+MID_TIPS_TUTORIAL_9	Bewege den Cursor auf eine Einheit und drücke \x0E\x08\x02\x0C\nMinus, um detaillierte Informationen\nüber sie zu erhalten.
+MID_TIPS_TUTORIAL_10	Halte in der Schlacht auf der Karte \x0E\x08\x02\x06\x04ZR gedrückt, um die Anzeige der Minikarte\noder die Einheiteninformationen zu ändern.
+MID_TIPS_TUTORIAL_50	Drücke auf einer Karte \x0E\x08\x02\x06\x04ZR, um zusätzliche Informationen über Einheiten anzuzeigen.
+MID_TIPS_TUTORIAL_11	Ist das Gewicht (Gew.) einer Waffe höher als der Figur-Wert (Fig.) einer Einheit,\nverringert sich ihre Geschwindigkeit (Ges.).
+MID_TIPS_TUTORIAL_12	Einheiten mit hohem Glück (Glk.) erleiden seltener kritische Treffer.
+MID_TIPS_TUTORIAL_13	Im Gehölz oder in einem Hain ist es leichter, gegnerischen Angriffen auszuweichen.
+MID_TIPS_ITEM_0	Verlorene KP können mithilfe eines Heilmittels oder durch die Verwendung von „Heilung“ wiederhergestellt werden.
+MID_TIPS_ITEM_1	Heilmittel und Stäbe können nur begrenzt oft angewendet werden und verschwinden,\nwenn ihre Anzahl auf 0 sinkt.
+MID_TIPS_TUTORIAL_14	Wähle „Auto-Kampf“, um eine Strategie zu wählen und die Einheiten selbstständig\nkämpfen zu lassen.
+MID_TIPS_TUTORIAL_15	Ein Waffenvorteil fügt Gegnern „Bruch“ zu: Schwerter gegen Äxte, Äxte gegen Lanzen\nund Lanzen gegen Schwerter.
+MID_TIPS_TUTORIAL_51	Nahkampftechniken brechen die Kampfhaltung von Gegnern, die Bogen, Bücher und\nMesser verwenden.
+MID_TIPS_TUTORIAL_16	Gegner mit „Bruch“ können bis nach ihrem nächsten Kampf keinen Gegenangriff\nausführen, sodass du sie gefahrlos angreifen kannst.
+MID_TIPS_TUTORIAL_17	Die Fähigkeit „Protektion“ ist gegen Bündnis-Angriffe wirkungslos.
+MID_TIPS_SKILL_0	Mit steigendem Band-Level stehen mehr Fähigkeiten zur Verfügung und die Werte einer\nsynchronisierten oder verbundenen Einheit werden erhöht.
+MID_TIPS_SKILL_1	Die Bündnisleiste füllt sich auf, wenn du kämpfst.
+MID_TIPS_SKILL_28	Eine Einheit kann ihre Bündnisleiste vollständig auffüllen, indem sie auf einem Feld mit\nEmblem-Energie wartet.
+MID_TIPS_SKILL_2	Mit Emblem Marths Bündnis-Angriff „Sternenlord-Blitz“ können Drachen zusätzliche\nAngriffe ausführen.
+MID_TIPS_ITEM_2	Wenn eine Nahkampftechnik ausgerüstet ist, wird der physische Angriff (Ph. Agr.) von\nzwei Grundwerten beeinflusst: Stärke (Stä.) und Magie (Mag.).
+MID_TIPS_TUTORIAL_18	Deine Verbündeten verfügen über einzigartige Fähigkeiten. Drücke \x0E\x08\x02\x04\x02X für Details.
+MID_TIPS_TUTORIAL_19	Unter „Einheiten“ kannst du dir Klassen und Level von Verbündeten ansehen.
+MID_TIPS_TUTORIAL_20	Deine Verbündeten erhalten Unterstützungspunkte, wenn sie nebeneinander kämpfen.
+MID_TIPS_TUTORIAL_21	Wechsle die Waffe eines ausgewählten Verbündeten mit \x0E\x08\x02\x04\x02L oder \x0E\x08\x02\x04\x02R.
+MID_TIPS_TUTORIAL_22	Gegner mit \x0E\x08\x02\x12\x10DropItem-Symbol hinterlassen ein Item, wenn sie besiegt werden.
+MID_TIPS_ITEM_3	Bogen sind effektiv gegen fliegende Einheiten.
+MID_TIPS_ITEM_4	Gepanzerte Einheiten haben hohe Verteidigung (Ver.), sind jedoch anfällig gegen\nmagische Angriffe.
+MID_TIPS_OTHER_33	Du kannst die Schwierigkeit des Spiels verringern, indem du bei deinem Bett die Option\n„Schwierigkeit“ wählst.
+MID_TIPS_TUTORIAL_24	Wenn du ein Haus besuchst, bevor ein Gegner es erreicht, bekommst du möglicherweise\nein Geschenk.
+MID_TIPS_TUTORIAL_25	Bei Einheiten, die auf Festungen oder Schutzfeldern warten, werden in jeder Runde\nKP wiederhergestellt. Sie erleiden keinen Bruch durch Waffenvorteil.
+MID_TIPS_TUTORIAL_27	Der Vorrat steht \x0E\x06\x03\x00 und benachbarten Verbündeten zur Verfügung, um\nwährend des Kampfes Items zu lagern und herauszunehmen.
+MID_TIPS_TUTORIAL_28	Verdiene Band-Erfahrung, um Gespräche mit Emblemen freizuschalten, die deinen\nBand-Level erhöhen.
+MID_TIPS_TUTORIAL_29	Verdiene Unterstützungspunkte, um Gespräche zwischen Verbündeten freizuschalten, die\nihren Unterstützungslevel erhöhen.
+MID_TIPS_TUTORIAL_30	Erhöht sich der Unterstützungslevel von Verbündeten, erhalten sie einen Wertebonus,\nwenn sie im Kampf nebeneinander stehen.
+MID_TIPS_TUTORIAL_32	Das \x0E\x08\x02\x18\x16EquipCancel-Symbol erscheint auf dem Waffensymbol eines Gegners, wenn du ihm mit deinem\nAngriff „Bruch“ zufügen kannst.
+MID_TIPS_TUTORIAL_33	Gegner mit \x0E\x08\x02 \x1EBalloonCritical-Symbol landen mit hoher Wahrscheinlichkeit kritische Treffer.
+MID_TIPS_TUTORIAL_34	Mache mit dem Drachenzeitkristall Aktionen rückgängig und ändere deine getroffenen\nEntscheidungen.
+MID_TIPS_ITEM_5	Weit entfernte Gegner kannst du nicht nur mit Bogen und Magie, sondern auch mit\nLangspeeren und Wurfbeilen angreifen.
+MID_TIPS_ITEM_6	Das Buch „Flut“ kann nur benachbarte Gegner angreifen, trifft jedoch garantiert.
+MID_TIPS_OTHER_0	Sammle Fragmente des Bandes, indem du mit Verbündeten sprichst, die sich im Kampf\ngut geschlagen haben.
+MID_TIPS_OTHER_1	Kristalle, die du findest, können zum Veredeln von Waffen verwendet werden.\nZutaten, die du findest, kannst du zum Kochen einsetzen.
+MID_TIPS_OTHER_2	In der Ringkammer kannst du Fragmente des Bandes verwenden, um Ringe des Bandes\nzu erstellen.
+MID_TIPS_OTHER_3	Drücke \x0E\x08\x02\x04\x02X für eine Schnellreise zu deinem Zielort.
+MID_TIPS_OTHER_4	Wenn du einem Verbündeten ein besonders passendes Geschenk überreichst, erhältst du\nzusätzliche Unterstützungspunkte.
+MID_TIPS_OTHER_6	Ändere die Hintergrundmusik mithilfe der Musiktruhe.
+MID_TIPS_OTHER_7	In deinem Zimmer kannst du Musik hören oder vergangene Gespräche und wichtige Ereignisse Revue passieren lassen.
+MID_TIPS_OTHER_8	Wenn du dich in deinem Zimmer ausruhst, kommt möglicherweise ein Verbündeter, um\ndich zu wecken.
+MID_TIPS_OTHER_9	Verwende FP oder Fragmente des Bandes in der Ringkammer, um Emblem-Fähigkeiten\nzu erben oder Ringe des Bandes zu erstellen.
+MID_TIPS_OTHER_10	Gerüchten zufolge erschafft das Schutzwesen des Somniel Fragmente des Bandes.\nWie das Wesen dies tut... Nun, das ist eine andere Geschichte.
+MID_TIPS_OTHER_11	Eine hohe Punktzahl im Wyvernreiten bringt dir zusätzliche Fragmente des Bandes ein.
+MID_TIPS_OTHER_12	Nach einer Runde Krafttraining werden die Werte von \x0E\x06\x03\x00 in der nächsten\nSchlacht leicht erhöht.
+MID_TIPS_OTHER_32	Mit \x0E\x08\x02\x06\x04ZR kannst du mehrere Items auswählen, um sie auf einmal zu verkaufen.
+MID_TIPS_TUTORIAL_35	Erreicht ein Gegner eine Schatztruhe vor dir, kannst du an den Inhalt gelangen, indem du\nihn besiegst.
+MID_TIPS_TUTORIAL_36	Um durch eine Tür zu gelangen, zerstöre sie oder nutze den Befehl „Tür“ eines Diebes.
+MID_TIPS_ITEM_8	Erhöhe die Werte eines Verbündeten im Kampf mit einem stärkenden Item wie\nbeispielsweise einem Trank der KP.
+MID_TIPS_ITEM_9	Die Waffe „Rittertod“ und Waffen wie Stabäxte sind effektiv gegen berittene Gegner.
+MID_TIPS_OTHER_13	Tiere, die im Somniel grasen, hinterlassen manchmal Items für dich.
+MID_TIPS_OTHER_15	In Gefechten und Trainingskämpfen, die von Zeit zu Zeit auf der Weltkarte erscheinen,\nkannst du Gold und Erfahrung verdienen.
+MID_TIPS_OTHER_16	Verdiene Erfahrung und stärke deine Bande, indem du in der Arena gegen Verbündete\nund Embleme antrittst.
+MID_TIPS_OTHER_17	Verbündete, die in Trainingskämpfen antreten, gewinnen nach deren Abschluss\nnoch mehr Erfahrung.
+MID_TIPS_TUTORIAL_39	Dracheneinheiten mit aktivem Bündnis erhalten oft zusätzliche Effekte.
+MID_TIPS_TUTORIAL_40	Assistenten unterstützen ihre Verbündeten mit Koop-Schlägen.
+MID_TIPS_TUTORIAL_41	Berittene Einheiten haben eine höhere Beweglichkeit.
+MID_TIPS_TUTORIAL_42	Magische Angriffe von mystischen Einheiten ignorieren alle geländebedingten Boni auf\nAusweichen (Aw.) eines Gegners.
+MID_TIPS_TUTORIAL_43	Qi-Adept-Einheiten können „Protektion“ verwenden, um benachbarte Verbündete zu\nschützen.
+MID_TIPS_TUTORIAL_44	Verstohlene Einheiten erhalten doppelte Boni auf Ausweichen (Aw.) durch\nGeländeeffekte.
+MID_TIPS_TUTORIAL_45	Flugeinheiten können sich bewegen, ohne von Geländeeffekten betroffen zu sein.
+MID_TIPS_TUTORIAL_46	Der Waffenvorteil kann nicht genutzt werden, um gepanzerten Einheiten „Bruch“\nzuzufügen.
+MID_TIPS_TUTORIAL_47	Erhöhe deinen Band-Level mit Emblemen, um dir Fertigkeiten anzueignen, die du für\nbestimmte Klassenwechsel benötigst.
+MID_TIPS_ITEM_10	Gegner mit Nahkampfwaffe können keinen Gegenangriff ausführen, wenn du sie aus der\nDistanz angreifst.
+MID_TIPS_ITEM_11	Angriffe mit Messern vergiften den Gegner.
+MID_TIPS_ITEM_12	Panzerbrecher und Hammer sind effektiv gegen gepanzerte Einheiten.
+MID_TIPS_OTHER_14	Nach dem Kochen geben dir manche Köche ein Gericht zum Mitnehmen mit,\ndas bei Verbrauch KP wiederherstellt.
+MID_TIPS_OTHER_19	Im Café kannst du Gerichte aufwerten, wenn du beim Kochen weitere Zutaten auswählst.
+MID_TIPS_OTHER_20	Im Obstgarten kannst du Kochzutaten ernten.
+MID_TIPS_OTHER_21	Verdiene Fragmente des Bandes, indem du die Erfolge an der Pinnwand abschließt.
+MID_TIPS_OTHER_22	Spende an der Pinnwand für die Regionen von Elyos. Großzügige Geschenke erhöhen\ndeinen Spendenlevel und können dir Belohnungen einbringen.
+MID_TIPS_OTHER_30	Seltene Gegner erscheinen häufiger bei Gefechten in Regionen mit einem hohen\nSpendenlevel.
+MID_TIPS_OTHER_31	Finde beim Erkunden mehr Materialien, indem du deinen Spendenlevel der jeweiligen\nRegion erhöhst.
+MID_TIPS_OTHER_23	In Gefechten auf Karten mit geringer Sichtweite halten Gegner oft viel Erfahrung und\ngroße Reichtümer bereit.
+MID_TIPS_SKILL_38	Die Trefferquote eines Stabs kann nur durch das Meistern von Stab-Fähigkeiten\ngesteigert werden.
+MID_TIPS_OTHER_34	Im Turm der Prüfungen können deine Freunde und du eure Visitenkarten austauschen.
+MID_TIPS_TUTORIAL_48	Nimm dich vor Gegnern mit Dunkel-Synchro in Acht, wenn ihre Bündnisleisten leuchten –\nes bedeutet, dass ihr Bündnis-Angriff bereit ist.
+MID_TIPS_TUTORIAL_52	Verbündete, die sich in einem Bündnis befinden, erleiden geringeren Schaden durch\ngegnerische Bündnis-Angriffe.
+MID_TIPS_TUTORIAL_49	Hat eine Einheit den maximalen Level erreicht, kann sie mithilfe des Zweitsiegels wieder\nauf Level 1 beginnen und du kannst sie weitertrainieren.
+MID_TIPS_ITEM_13	Wenn du eine Vergiftung nicht mit einem Antidot oder einem Erneuerungsstab heilst,\nhält der Effekt für die gesamte Dauer des Kampfes an.
+MID_TIPS_ITEM_14	Wenn Verbündete Level 10 erreichen, können sie durch Verwendung eines Meistersiegels\nzu einer höheren Klasse wechseln.
+MID_TIPS_ITEM_15	Waffen mit Schmettereffekt greifen immer zuletzt an.
+MID_TIPS_OTHER_24	Die Fische, die du im Teich fängst, sind leckere Zutaten zum Kochen.
+MID_TIPS_ITEM_16	Durch Verwendung eines Zweitsiegels können Verbündete in andere Klassen wechseln.
+MID_TIPS_ITEM_17	Mit den Waffen Schnitter, Meisterlanze und Meisteraxt landest du häufiger kritische\nTreffer.
+MID_TIPS_OTHER_37	Wechselt \x0E\x06\x03\x00 zur Klasse „Wyrmgott“, kannst du auf dem Trainingsplatz das\nWyvernreiten auswählen.
+MID_TIPS_OTHER_26	Auf dem Flohmarkt werden Items angeboten, die es sonst nirgendwo zu kaufen gibt.
+MID_TIPS_OTHER_27	Man sagt, es gäbe in ganz Elyos Orte der Prüfung, an denen man seine Bande mit\nEmblemen vertiefen kann.
+MID_TIPS_SKILL_29	Ikes Bündnis-Angriff, Großer Aithir, kann dort, wo er trifft, Effekte wie Flammen und\nMiasma beseitigen.
+MID_TIPS_SKILL_22	Byleths Bündniswaffe wechselt je nach Typ der verbundenen Einheit.
+MID_TIPS_SKILL_25	Corrins Fähigkeit „Drachenader“ verleiht dem Gelände besondere Effekte, die vorhandene\nEffekte ersetzen.
+MID_TIPS_OTHER_28	Der Wahrsager hat nur nachts geöffnet.
+MID_TIPS_OTHER_29	Kämpfe im Turm der Prüfungen, um besondere Materialien für das Verbessern von\nBündniswaffen zu verdienen.
+MID_TIPS_ITEM_18	Waffen wie Kriegerschwert oder Kriegerlanze führen zwei aufeinanderfolgende\nAngriffe aus, wenn du den Kampf initiierst.
+MID_TIPS_ITEM_19	Wenn du bereit bist, einem wichtigen Verbündeten den Paktring zu geben, findest du ihn\nin der Kommode in deinem Zimmer.
+MID_TIPS_GOD_0	Der Prinz von Altea, einem Land auf dem Kontinent Akaneia in einer anderen Welt.\nStammt aus derselben Blutlinie wie der Held Anri.
+MID_TIPS_GOD_1	Gemeinsam mit seinen Verbündeten bezwang er den Schattendrachen und wurde\nhiernach bekannt als der Heldenkönig.
+MID_TIPS_GOD_2	Der Sohn des Herzogs Chalphy aus einem Königreich namens Grannvale, das sich auf\ndem Kontinent Jugdral in einer anderen Welt befindet.
+MID_TIPS_GOD_3	Ein nobler Ritter, der als Nachfahre des Heiligen Ritters Baldo eine der Heiligen Waffen\nseiner Welt geerbt hat.
+MID_TIPS_GOD_4	Die Prinzessin von Zofia, einem wunderschönen Land, das sich auf dem Kontinent\nValentia in einer anderen Welt befindet.
+MID_TIPS_GOD_5	Sie kämpfte an der Seite des Helden Alm gegen den Dämonengott, welcher den Frieden\nihrer Welt zu zerstören drohte, und wurde berühmt für ihr fürsorgliches Herz.
+MID_TIPS_GOD_6	Mitglied einer Gruppe von Freiheitskämpfern auf dem Kontinent Tellius in einer anderen\nWelt.
+MID_TIPS_GOD_7	Mithilfe ihrer geheimnisvollen Kräfte kämpfte sie gegen eine Göttin, die ihre gesamte Welt\ndem Untergang geweiht hatte.
+MID_TIPS_GOD_8	Ein Adliger aus dem Hause Pherae, der auf dem Kontinent Elibe in einer anderen Welt\nlebte. Träger des Schwertes Binding Blade.
+MID_TIPS_GOD_9	Anstelle seines erkrankten Vaters agierte er als Anführer einer Armee und verteidigte\nsein Land gegen seine Feinde.
+MID_TIPS_GOD_10	Eine meisterhafte Schwertkämpferin aus Sacae, einer Region voller Grasebenen auf dem\nKontinent Elibe in einer anderen Welt.
+MID_TIPS_GOD_11	Sie wuchs als Nomadin auf, ohne etwas von ihrer adligen Abstammung zu ahnen.
+MID_TIPS_GOD_12	Der Anführer von Greils Söldnern vom Kontinent Tellius in einer anderen Welt.
+MID_TIPS_GOD_13	Sein beispielloses Geschick mit dem Schwert und sein ehrliches Herz machten aus\ndiesem einfachen Söldner einen weitbekannten Helden.
+MID_TIPS_GOD_14	Eine Prinzessin aus dem Königreich von Ylisse in einer anderen Welt. In ihrem linken\nAuge trägt sie das Mal der Erhabenen.
+MID_TIPS_GOD_15	Ihr starker Gerechtigkeitssinn gab ihr die Kraft, in die Vergangenheit zu reisen und dort\ngegen ihre finstere Zukunft anzukämpfen.
+MID_TIPS_GOD_16	Erbe des Hauses Leonster in der Region Thracia auf dem Kontinent Jugdral in einer\nanderen Welt.
+MID_TIPS_GOD_17	Er vollbrachte heldenhafte Taten, um Thracia aus den Klauen des Imperiums zu befreien.
+MID_TIPS_GOD_18	Tochter zweier Königshäuser und Länder in einer anderen Welt. Sie wurde in Hoshido\ngeboren und wuchs in Nohr auf.
+MID_TIPS_GOD_19	Sie ist mit der Macht der Ersten Drachen gesegnet, war jedoch gezwungen, eine schwere\nEntscheidung zu treffen, als ihre beiden Heimatländer gegeneinander in den Krieg zogen.
+MID_TIPS_GOD_20	Die Prinzessin von Renais, einem Land auf dem Kontinent Magvel in einer anderen Welt.\nSie ist die Hüterin von einem der Heiligen Steine.
+MID_TIPS_GOD_21	Der wagemutige Prinz von Renais, der an der Seite seiner Zwillingsschwester Eirika den\nDämonenkönig bezwang.
+MID_TIPS_GOD_22	Ein junger Söldner, der am Kloster Garreg Mach auf dem Kontinent Fódlan in einer\nanderen Welt als Magister diente.
+MID_TIPS_GOD_23	Er unterrichtete seine Studenten weise und führte sie durch ein Zeitalter des Krieges.
+MID_TUT_NAVI_M004_TIMECRYSTAL	Du kannst nun den Drachenzeitkristall\neinsetzen.
+MID_TUT_NAVI_M005_FUNDS	Du hast \x0E\x01\x00\x00\x0E\x01\x01\x00 G als Kriegskasse von Firene erhalten.
+MID_TUT_NAVI_VANDRE_FUNDS	Du hast \x0E\x01\x00\x00\x0E\x01\x01\x00 G als Kriegskasse von Vander erhalten.
+MID_TUT_NAVI_M008_FUNDS	Du hast \x0E\x01\x00\x00\x0E\x01\x01\x00 G als Kriegskasse von Brodia erhalten.
+MID_TUT_NAVI_M012_RESCUE	Rette die Leute, die von den Verzerrten\nbedroht werden.
+MID_TUT_NAVI_M014_FUNDS	Du hast \x0E\x01\x00\x00\x0E\x01\x01\x00 G als Kriegskasse von Solm erhalten.
+MID_TUT_NAVI_M015_ESCAPE	Beschütze Seadall und verhilf ihm zur Flucht!
+MID_TUT_NAVI_M020_FUNDS	Du hast \x0E\x01\x00\x00\x0E\x01\x01\x00 G als Kriegskasse von Elusia erhalten.
+MID_TUT_NAVI_M022_GET_Siglud	Du hast den Ring des Heiligen Ritters erhalten.
+MID_TUT_NAVI_M022_GET_Celica	Du hast den Ring der gütigen Prinzessin\nerhalten.
+MID_TUT_NAVI_M022_GET_Micaiah	Du hast den Ring der Tochter des Lichts\nerhalten.
+MID_TUT_NAVI_M022_GET_Roy	Du hast den Ring des jungen Löwen erhalten.
+MID_TUT_NAVI_M022_GET_Lin	Du hast den Ring der Dame der Ebene erhalten.
+MID_TUT_NAVI_M022_GET_Ike	Du hast den Ring des strahlenden Helden\nerhalten.
+MID_TUT_NAVI_M022_GET_Lucina	Du hast den Ring der Erhabenen erhalten.
+MID_TUT_NAVI_M022_GET_Leaf	Du hast den Ring des weisen Lords erhalten.
+MID_TUT_NAVI_M022_GET_Kamui	Du hast den Ring der Weltveränderin erhalten.
+MID_TUT_NAVI_M022_GET_Eirik	Du hast den Ring der azurblauen Zwillinge\nerhalten.
+MID_TUT_NAVI_M022_GET_Byleth	Du hast den Ring des Magisters erhalten.
+MID_TUT_NAVI_M024_WARNING1	In 2 Zügen wird eine Lawine den unteren\nBergpfad überrollen.
+MID_TUT_NAVI_M024_WARNING2	In 2 Zügen wird eine Lawine den mittleren\nBergpfad überrollen.
+MID_TUT_NAVI_M024_WARNING3	In 2 Zügen wird eine Lawine den oberen\nBergpfad überrollen.
+MID_TUT_NAVI_M026_ENGAGEBREAKE	Im nächsten Zug wird der Dämon\nSombron eine verheerende Attacke\nnamens „Bündnisbrecher“ einsetzen,\ndie die Bündnisse aller Einheiten löst.
+MID_TUT_NAVI_M026_BEAM_WARNING	Dämon Sombron wird in seinem nächsten Zug\nseinen „Heulstrahl“ einsetzen. Versuche außer\nReichweite zu gelangen, um ihm zu entgehen.
+MID_TUT_NAVI_S006_RULE	Halte Byleth davon ab, die Kristalle zu\nzerstören. Deine Belohnungen richten sich\ndanach, wie viele Kristalle du bewahren kannst.
+MID_TUT_NAVI_S006_BREAK	Ein Kristall wurde zerstört.
+MID_TUT_NAVI_S006_REWARD1	Hervorragende Leistung! Du hast erstaunlich\nviele Kristalle beschützen können. Du erhältst\neinen \x0E\x01\x00\x00 und ein \x0E\x01\x01\x00 von Byleth.
+MID_TUT_NAVI_S006_REWARD2	Gut gemacht! Du hast einen Großteil der\nKristalle beschützen können. Du erhältst\neinen \x0E\x01\x00\x00 von Byleth.
+MID_TUT_NAVI_S006_REWARD3	Du hast nicht besonders viele Kristalle\nbeschützen können und erhältst deshalb\nkeine Belohnung.
+MID_TUT_NAVI_S015_GET	Du hast den Ring wieder an dich genommen.
+MID_TUT_NAVI_S015_ENGAGERING	Den Paktring kannst du nur einem einzigen\nVerbündeten schenken. Überlege dir gut,\nwem du ihn überreichst.

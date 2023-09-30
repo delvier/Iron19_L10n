@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nOdd. This looks very similar to Altea Castle.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nAltea Castle. Is that a place in your world?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06マルス\nThat's right. It's where I grew up. After it fell\ninto enemy hands, my allies and I took it back.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nYou lost your home?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06マルス\nThe Dolhr Empire, led by the Shadow Dragon\nMedeus, attacked. His forces overran the castle.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nThe castle knights offered protection, and many\nsoldiers fell while aiding my escape.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06マルス\nOn that day, I learned the true meaning\nof powerlessness.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nAllies, like Princess Caeda and the mercenary\nOgma, helped me retake my homeland.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06マルス\nMy people call me the Hero-King, but I think the\nreal heroes are those who helped me to win.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nThat's why I fight─for all those who believed\nin me. I want to deliver on their hope.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nI...think I know what you mean.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nI want a future of peace with my friends and\nallies. That vision pushes me to be my best.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nYou have grown strong in your battles and are\nmore than worthy of their faith in you.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nNow they stand beside you, ready to share your\nburden. Your struggles are not yours alone.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nMy friends and family have brought me all this\nway. I owe them so much.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06マルス\nKeep those feelings close to your heart, and you\nare certain to overcome this trial.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nTrial?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マルス\nBattle me now, \x0E\x06\x03\x00. This is the trial\nbestowed upon you.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06マルス\nBest me in combat to strengthen our bond.\nWin, and you will draw more power from me.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nLet the battle begin. I'll show you I can\novercome this or any trial!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x16\x06マルス\x0CStatus\n\x0E\x03\x02\x08\x06マルス\nI'd hate to embarrass myself fighting you, so\ndon't expect this to be easy.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nI have been waiting for you. Do you believe\nyou can best me?\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x18\x06マルス\x0EStandBy\n\x0E\x03\x02\x08\x06マルス\nMuch has come to pass─meetings, farewells,\nand reunions alike. How are you faring?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStatus\n\x0E\x03\x02\x0A\x08リュール\nI could never put those feelings into words.\nSo...I'll answer you with my weapon.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nI would ask for nothing less!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHere I come!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nMarth? Do I really have to fight you? I...I don't\nwant to hurt any of my friends.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nI am of no consequence to you. This battle is\nabout conquering oneself.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nConquering oneself... Ah, I understand. I must\nconquer the Veyle I used to be!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nNow, raise your chin. You are not alone\nanymore. Remember that, and triumph!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nExcellent. I could sense the power of your hope\nand your strength as warriors.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マルス\nAs I fought, I was reminded of an old friend.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06マルス\nI first met the Divine Dragon Tiki in the midst\nof battle. Much like this.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nIt's incredible that your world has a Divine\nDragon in it too.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06マルス\nYes. Like you, she fought for us humans.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nTiki was placed into a very long sleep in a\ntemple where she would be kept safe.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06マルス\nShe woke and was incredibly lonely. Once we\nmet, she said she wanted to stay with us.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nShe called me "Mar-Mar," like a kid sister might.\nHuman or dragon, we became friends for life.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nThen she and I have something in common\nbesides our species─you.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth, who fights to end people's suffering.\nLike her, I'm happy to be close to such a hero.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06マルス\nSince our first meeting, I have felt the same.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nI'm grateful to you. I've become stronger\nbecause you are with me.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nHaving my friends by my side is what makes\neverything possible. I couldn't do this alone.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06マルス\nThen you understand. We will follow you\nalways.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

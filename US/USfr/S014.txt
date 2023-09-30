@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nC'est étrange. On dirait vraiment\nle château d'Altea.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nLe château d'Altea ? C'est un endroit de\nvotre monde ?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06マルス\nEn effet. C'est là que j'ai grandi. Après qu'il\nfut tombé aux mains ennemies, je me suis battu,\naidé de mes alliés, afin de le reprendre.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nVous avez perdu votre foyer ?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06マルス\nL'empire de Doluna, dirigé par le Dragon\nd'ombre, Medeus, nous a attaqués. Son\narmée a envahi le château.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nLes chevaliers du château m'ont protégé.\nBon nombre d'entre eux ont péri, tandis\nqu'ils m'aidaient à fuir.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06マルス\nCe jour-là, j'ai appris ce qu'était le sentiment\nd'impuissance.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nMes alliés, tels la princesse Shiida et\nle mercenaire Ogma, m'ont aidé à reconquérir\nle pays.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06マルス\nMon peuple m'a surnommé le Roi-Héros,\nmais les vrais héros sont ceux qui m'ont aidé\nà remporter la victoire.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nC'est la raison pour laquelle je me bats. Pour\nceux qui ont cru en moi. Je veux me montrer\ndigne de leurs espoirs.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nJe... crois comprendre.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nJe veux connaître un avenir dans la paix,\navec mes amis. Cette vision me pousse\nà devenir meilleur\x0E\x0A\x00\x06
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nLes batailles vous ont aguerri\x0E\x0A\x00\x06
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nVos compagnons sont avec vous, prêts à\npartager votre fardeau. Vous n'êtes pas seul\x0E\x0A\x00\x06
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nC'est grâce à mes amis et à ma famille si je suis\nparvenu\x0E\x0A\x00\x06
+MID_OP1_#016	\x0E\x03\x02\x08\x06マルス\nGardez ces sentiments dans votre cœur,\net vous serez sûr\x0E\x0A\x00\x06
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nCette épreuve ?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マルス\nAffrontez-moi, \x0E\x06\x03\x00.\nCe sera votre épreuve.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06マルス\nBattez-moi pour renforcer notre lien. Vous\npourrez alors en tirer davantage de pouvoir.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nTrès bien. Je vais vous montrer que je peux\nsurmonter n'importe quelle épreuve !\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x16\x06マルス\x0CStatus\n\x0E\x03\x02\x08\x06マルス\nJe ne compte pas me ridiculiser face à vous.\nNe vous attendez pas à un combat facile !\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nJe vous attendais. Croyez-vous pouvoir\nme battre ?\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x18\x06マルス\x0EStandBy\n\x0E\x03\x02\x08\x06マルス\nNous avons partagé bien des choses, réunions,\nconseils, adieux... Comment vous sentez-vous ?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStatus\n\x0E\x03\x02\x0A\x08リュール\nJe ne pourrais jamais le dire avec des mots.\nAlors... je répondrai avec mon arme.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nJe n'en demande pas moins.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJ'arrive !\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nMarth ? Dois-je vraiment vous combattre ?\nJ-Je ne veux pas faire de mal à mes amis.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nNe vous souciez pas de moi. Ce combat\na pour but de se vaincre soi-même.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nSe vaincre soi-même... Ah, j'ai compris.\nJe dois vaincre la Veyle que j'ai été !\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nMaintenant, gardez la tête haute. Vous n'êtes\nplus seule. Souvenez-vous-en, et triomphez !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nExcellent. J'ai senti la puissance de vos désirs\net votre force de combat.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マルス\nCette épreuve m'a rappelé une vieille amie.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06マルス\nIl s'agit de Tiki, un autre Dragon divin.\nJe l'ai rencontrée au beau milieu d'une bataille\nsemblable à celle-ci.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nC'est incroyable qu'il y ait également\nun Dragon divin dans votre monde.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06マルス\nOui. Comme vous, elle s'est battue pour\nles humains.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nElle a été plongée dans un long sommeil et\nplacée dans un temple pour être protégée.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06マルス\nÀ son réveil, elle se sentait terriblement seule.\nAprès nous avoir rencontrés, elle a déclaré\nvouloir rester avec nous.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nElle m'appelait Mar-Mar, comme le ferait une\npetite sœur. Alors quelle importance si c'était\nun dragon ? C'était mon amie.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nElle et moi avons quelque chose en commun\nmis à part notre espèce, vous.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth, qui fait tout pour que les gens ne\nsouffrent plus. Comme elle, je suis ravi\x0E\x0A\x00\x06
+MID_ED1_#011	\x0E\x03\x02\x08\x06マルス\nJe ressens la même chose depuis\nnotre première rencontre.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nJe vous suis reconnaissant\x0E\x0A\x00\x06
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nAvec mes amis à mes côtés, tout devient\npossible. Seul\x0E\x0A\x00\x06
+MID_ED1_#014	\x0E\x03\x02\x08\x06マルス\nVous avez parfaitement compris,\net nous serons toujours à vos côtés.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

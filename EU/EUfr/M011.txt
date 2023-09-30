@@ -1,0 +1,147 @@
+MID_OP1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x05\x01 \x12M011_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M011_ヴェイル\nVous n'avez aucun moyen de vous échapper,\n\x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_OP1_#002	\x0E\x05\x01"\x12M011_ヴェイル\x0CNormal\nEt aucun anneau pour vous protéger !\nEnfin, je peux laisser libre cours à ma haine.\x0E\x04\x02\x00
+MID_OP1_#003	Vos alliés et vous allez mourir...\x0E\x04\x02\x00
+MID_OP1_#004	\x0E\x05\x01\x1C\x12M011_ヴェイル\x06Shy\nTués par vos chers amis... les Emblèmes.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nNous devons nous battre ! Nous devons\nsecourir Marth et les autres !\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNon, Votre Divinité. Veyle dispose du cristal\ntemporel ainsi que des anneaux. Nous n'avons\naucune chance.\x0E\x04\x02\x00
+MID_OP2_#003	\x0E\x05\x01\x18\x0Cアルフレッド\x08Pain\nIl est inutile que je vous décrive la puissance\ndes Emblèmes.\x0E\x04\x02\x00
+MID_OP2_#004	\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\nMais nous n'allons pas mourir ici.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nSi nous parvenons à nous rendre là-bas,\nnous pourrons semer Veyle.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x05\x01"\x12M011_ヴェイル\x0CNormal\n\x0E\x03\x02\x14\x12M011_ヴェイル\nLes Aberrations ne suffisent pas.\x0E\x04\x02\x00
+MID_EV1_#002	\x0E\x05\x01$\x12M011_ヴェイル\x0EStandBy\nChacals, chargez-vous de cette vermine.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_モーヴ\x02t\n\x0E\x05\x01\x1E\x10M011_モーヴ\nAngry\n\x0E\x03\x02\x12\x10M011_モーヴ\nJe sais ce que j'ai à faire.\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x01\x12\x10M011_モーヴ\n\x0E\x03\x00\x16\x10M011_マロン\x02b\n\x0E\x05\x01\x1E\x10M011_マロン\nSmile\n\x0E\x03\x02\x12\x10M011_マロン\nHa ha ! Lequel de ces abrutis veut\nêtre ma première victime ?\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x03\x01\x12\x10M011_マロン\n\x0E\x03\x00\x14\x0EM011_グリ\x02b\n\x0E\x05\x01\x1C\x0EM011_グリ\nSmile\n\x0E\x03\x02\x10\x0EM011_グリ\nLes ordres sont les ordres. J'espère que\nmes adversaires seront au moins capables de\nme mettre une ou deux tartes comme il faut.\x0E\x04\x00\x00
+MID_EV2_#004	\x0E\x03\x01\x10\x0EM011_グリ\n\x0E\x03\x00\x16\x10M011_セピア\x02t\n\x0E\x05\x01"\x10M011_セピア\x0EStandBy\n\x0E\x03\x02\x12\x10M011_セピア\nNous ne les laisserons pas s'échapper,\nDame Veyle. Je vous en fais le serment.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nD'autres guerriers affluent. Nous ne pouvons\npas les laisser nous ralentir.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nIls nous barrent la route !\x0E\x04\x02\x00
+MID_EV4_#002	Que pouvons-nous faire ?\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nL'armée du Dragon divin ! Le ciel soit loué.\nJe craignais que nous arrivions trop tard.\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x0C\x06カゲツ\x02b\n\x0E\x05\x01\x14\x06カゲツ\nAngry\n\x0E\x03\x02\x08\x06カゲツ\nIl est encore trop tôt pour louer le ciel.\nIls sont traqués.\x0E\x04\x02\x00
+MID_EV5_#003	Et ils n'ont plus aucun Emblème.\nNous devons leur donner ces anneaux.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x02b\n\x0E\x05\x01\x16\x08ゼルコバ\nAngry\n\x0E\x03\x02\x0A\x08ゼルコバ\nJe suis de *retour*, Princesse Ivy.\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nZelkov, comment t'en es-tu sorti ?\x0E\x04\x00\x00
+MID_EV6_#003	\x0E\x03\x02\x0A\x08ゼルコバ\nJe n'ai pas *pu* récupérer les anneaux volés.\x0E\x04\x02\x00
+MID_EV6_#004	\x0E\x0B\x00n
+MID_EV6_#005	\x0E\x0B\x01>
+MID_EV6_#006	\x0E\x03\x02\x0A\x08ゼルコバ\nPeut-être qu'avec ces *cadeaux*,\nils parviendront à s'extirper de ce *guêpier*.\x0E\x04\x00\x00
+MID_EV6_#007	\x0E\x03\x01\x08\x06カゲツ\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x03\x02\x0A\x08アイビー\nNous ne pouvons que l'espérer.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02b\n\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nBonjour, Votre Divinité.\x0E\x04\x00\x00
+MID_EV7_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nPrincesse Ivy ! Que faites-vous ici ?\x0E\x04\x00\x00
+MID_EV7_#003	\x0E\x03\x02\x0A\x08アイビー\nJe souhaitais essayer, une dernière fois,\nde faire changer mon père d'avis. Mais je suis\narrivée trop tard.\x0E\x04\x02\x00
+MID_EV7_#004	\x0E\x0B\x00p
+MID_EV7_#005	\x0E\x03\x02\x0A\x08リュール\nVous en avez récupéré deux ?!\x0E\x04\x00\x00
+MID_EV7_#006	\x0E\x03\x02\x0A\x08アイビー\nOui. Les voici. L'Anneau de la Lady de Sacae\net celui de la Sainte-Lignée.\x0E\x04\x00\x00
+MID_EV7_#007	\x0E\x0B\x01@
+MID_EV7_#008	\x0E\x03\x02\x0A\x08アイビー\nÀ l'heure qu'il est, me retourner contre Elusia\nest le seul moyen de sauver mon royaume.\x0E\x04\x02\x00
+MID_EV7_#009	Pour son salut et en mémoire de mon père,\nc'est la seule chose à faire.\x0E\x04\x02\x00
+MID_EV7_#010	Je sais bien que cela ne suffira pas à me\nracheter, mais... Accepterez-vous de me\nfaire une place à vos côtés ?\x0E\x04\x00\x00
+MID_EV7_#011	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nÉvidemment. Je vous remercie.\x0E\x04\x02\x00
+MID_EV7_#012	L'Anneau de la Lady de Sacae vous revient,\npuisqu'il avait été confié à Elusia.\x0E\x04\x02\x00
+MID_EV7_#013	\x0E\x0B\x00\
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\n\x0E\x07\x00\x04
+MID_EV9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n\x0E\x0B\x00\
+MID_EV10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n\x0E\x07\x00\x04
+MID_EV10_#002	\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x03\x02\x08\x06ルキナ\nC'est moi, Lucina.\x0E\x04\x00\x00
+MID_EV10_#003	\x0E\x05\x01\x18\x08リュール\x0CNormal\n\x0E\x03\x02\x0A\x08リュール\nLucina !\x0E\x04\x00\x00
+MID_EV10_#004	\x0E\x05\x01\x18\x06ルキナ\x0ESerious\n\x0E\x03\x02\x08\x06ルキナ\nJe ne suis peut-être pas le Roi-héros,\net je ne saurais le remplacer...\x0E\x04\x02\x00
+MID_EV10_#005	Mais je peux vous venir en aide. Je m'efforce\nde représenter une lueur au fond des ténèbres\npour tous ceux qui luttent contre le désespoir.\x0E\x04\x02\x00
+MID_EV10_#006	\x0E\x05\x01\x18\x06ルキナ\x0EStandBy\nPour le moment, nous n'avons d'autre choix\nque de battre en retraite. Mais tant que nous\nne tombons pas, l'espoir subsiste.\x0E\x04\x02\x00
+MID_EV10_#007	\x0E\x05\x01\x16\x06ルキナ\x0CStatus\nFusionnez avec moi, maintenant.\x0E\x04\x00\x00
+MID_EV11_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x02b\n\x0E\x0B\x00n
+MID_EV11_#002	\x0E\x0B\x01>
+MID_EV11_#003	\x0E\x03\x02\x0A\x08ゼルコバ\nJe l'ai... *emprunté*. Ce n'est peut-être pas\nl'un des anneaux dérobés...\x0E\x04\x02\x00
+MID_EV11_#004	Mais il pourrait se révéler utile.\x0E\x04\x00\x00
+MID_EV11_#005	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMerci.\x0E\x04\x00\x00
+MID_EV12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nUn anneau ! C'est maintenant ou jamais !\x0E\x04\x00\x00
+MID_EV12_#002	\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x03\x02\x14\x12M011_ヴェイル\nNe comptez pas trop dessus.\x0E\x04\x00\x00
+MID_EV13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nVeyle !\x0E\x04\x00\x00
+MID_EV13_#002	\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x05\x01\x1C\x12M011_ヴェイル\x06Shy\n\x0E\x03\x02\x14\x12M011_ヴェイル\nHa ha ! Il est si amusant de vous voir\nvous débattre en vain.\x0E\x04\x00\x00
+MID_EV14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x05\x01"\x12M011_ヴェイル\x0CStrike\n\x0E\x03\x02\x14\x12M011_ヴェイル\nÀ l'attaque, Aberrations. Anéantissez jusqu'au\nplus mince de leurs espoirs.\x0E\x04\x00\x00
+MID_EV15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nVenez, les amis ! Nous devons partir d'ici.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_敵マルス\x02b\n\x0E\x03\x02\x14\x12M011_敵マルス\n...\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14M011_敵シグルド\x02b\n\x0E\x03\x02\x16\x14M011_敵シグルド\n...\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_敵セリカ\x02b\n\x0E\x03\x02\x14\x12M011_敵セリカ\n...\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_敵ミカヤ\x02b\n\x0E\x03\x02\x14\x12M011_敵ミカヤ\n...\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_敵リーフ\x02b\n\x0E\x03\x02\x14\x12M011_敵リーフ\n...\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_敵ロイ\x02b\n\x0E\x03\x02\x12\x10M011_敵ロイ\n...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M011_ヴェイル\x02b\n\x0E\x05\x01 \x12M011_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M011_ヴェイル\nVous comptez vous en prendre à moi ?\nQuel courage ! Et quelle folie, surtout.\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_セピア\x02b\n\x0E\x05\x01\x1E\x10M011_セピア\nSmile\n\x0E\x03\x02\x12\x10M011_セピア\nOh, l\x0E\x0A\x00\x08\x02e\x02a pauvre enfant. \x0E\x0A\x00\x10\x04Il\x08Elle a perdu ses petits\ncopains. Vous voulez que je vous console ?\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_セピア\x02b\n\x0E\x05\x01"\x10M011_セピア\x0EStandBy\n\x0E\x03\x02\x12\x10M011_セピア\nEt moi qui étais si gentille ! Quelle cruauté...\nJe ne manquerai pas de le dire à Dame Veyle.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM011_グリ\x02b\n\x0E\x05\x01\x1E\x0EM011_グリ\x0CStatus\n\x0E\x03\x02\x10\x0EM011_グリ\nJe saurai vous infliger une douleur\nsatisfaisante. Tâchez de me rendre\nla pareille, voulez-vous ?\x0E\x04\x00\x00
+MID_BT11_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM011_グリ\x02b\n\x0E\x05\x01\x1C\x0EM011_グリ\nSmile\n\x0E\x03\x02\x10\x0EM011_グリ\nC'était agréable... Mais pas renversant non plus.\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_マロン\x02b\n\x0E\x05\x01 \x10M011_マロン\x0CStrike\n\x0E\x03\x02\x12\x10M011_マロン\nPff, c'est tout ce que vous savez faire ?\nÇa va être du gâteau !\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_マロン\x02b\n\x0E\x05\x01\x1A\x10M011_マロン\x06Sad\n\x0E\x03\x02\x12\x10M011_マロン\nEh, vous êtes plus forts que vous en avez\nl'air. Je suis pas près d'oublier vos visages.\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_モーヴ\x02b\n\x0E\x05\x01\x1E\x10M011_モーヴ\nAngry\n\x0E\x03\x02\x12\x10M011_モーヴ\nUne victoire facile ne saurait me satisfaire.\nDéployez toute l'envergure de votre puissance.\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M011_モーヴ\x02b\n\x0E\x05\x01\x1C\x10M011_モーヴ\x08Pain\n\x0E\x03\x02\x12\x10M011_モーヴ\nJe vous ai sous-estimés. Si l'occasion\nse présente, nous combattrons encore.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08アイビー\nPar ici. Nous pouvons nous rendre en Solm\nen traversant cette forêt.\x0E\x04\x02\x00
+MID_ED1_#002	Il m'est odieux d'abandonner Hortensia, mais...\nje ne peux demeurer ici.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x00\x10\nスタルーク\x023\n\x0E\x03\x02\x0C\nスタルーク\nNous laissons tant de choses derrière nous.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nPère...\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nCe n'est pas facile, mais nous ne pouvons\nrebrousser chemin. Cela reviendrait à tout\nperdre.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08アイビー\nJe connais la route. Suivez-moi.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_ED1_#008	Je vous ai déçu, Marth. Je vous ai tous déçus.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x16\x10ヴェイル_白_悪\x022\n\x0E\x03\x02\x12\x10ヴェイル_白_悪\nAlors comme ça, Ivy complotait contre nous.\x0E\x04\x02\x00
+MID_ED2_#002	Dérober deux Emblèmes juste sous mon nez...\x0E\x04\x02\x00
+MID_ED2_#003	C'est fort contrariant. Cependant, je conserve\nl'avantage. Je possède tous les anneaux\nqu'ils ont réunis.\x0E\x04\x02\x00
+MID_ED2_#004	Je vous anéantirai tous. J'étriperai vos alliés,\nje mettrai vos royaumes à feu et à sang...\x0E\x04\x02\x00
+MID_ED2_#005	... Et je réduirai vos espoirs en cendres.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08アイビー\nNous sommes en sécurité, maintenant.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x0A\x08リュール\nVeyle est la fille de Sombron.\x0E\x04\x02\x00
+MID_ED3_#003	Et elle dispose de nos Anneaux d'Emblèmes.\x0E\x04\x02\x00
+MID_ED3_#004	Pardonnez-moi, mes amis. Je n'aurais jamais\ndû nous conduire à la cathédrale.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nCe n'est pas votre faute, Votre Divinité.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x02\x0E\x0Cディアマンド\nC'est moi qui devrais présenter des excuses.\nMoi qui ai demandé à combattre. Ce qu'ils\navaient fait m'avait plongé dans une telle furie...\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x00\x10\nスタルーク\x023\n\x0E\x03\x02\x0C\nスタルーク\nEt moi, alors ? C'est moi qui tenais absolument\nà ramener Père en Brodia.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08アイビー\x024\n\x0E\x03\x02\x0A\x08アイビー\nÇa n'avait en effet aucun sens.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x0C\nスタルーク\nPlaît-il ? Si vous vous étiez abstenue de\nvous dresser sur notre chemin...\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0A\x08リュール\nCalmez-vous. Nous sommes dans\nle même camp.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x0C\nスタルーク\nAh, ça, non ! Sans elle, nous aurions peut-être\neu le temps !\x0E\x04\x02\x00
+MID_ED3_#012	Nous aurions peut-être pu le sauver !\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x0A\x08リュール\nAlcryst...\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x0E\x0Cディアマンド\nC'est la princesse Ivy elle-même qui nous a\nparlé du rituel.\x0E\x04\x02\x00
+MID_ED3_#015	Sans son aide, Père errerait encore là-bas,\nparmi ces créatures.\x0E\x04\x00\x00
+MID_ED3_#016	\x0E\x03\x02\x0C\nスタルーク\nMais Diamant, elle a contribué à l'assassinat\nde notre père ! Comment peux-tu lui chercher\ndes excuses ?\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x02\x0E\x0Cディアマンド\nCe n'est pas de la faute de la princesse Ivy,\nmais de celle de son père. Et le Dragon déchu\nl'a assassiné.\x0E\x04\x02\x00
+MID_ED3_#018	Sans même laisser de cadavre.\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x0C\nスタルーク\n...\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x0A\x08リュール\nLes querelles ne nous mèneront nulle part.\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x0E\x0Cディアマンド\nPardonnez-moi, Votre Divinité.\x0E\x04\x02\x00
+MID_ED3_#022	Princesse Ivy, je vous prie d'excuser mon frère.\nIl ne sait pas ce qu'il dit.\x0E\x04\x00\x00
+MID_ED3_#023	\x0E\x03\x02\x0A\x08アイビー\nLaissez, c'est inutile. C'est moi qui suis\ndésolée de n'avoir pu interrompre le rituel.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x0C\nスタルーク\nJe... Je n'arrive pas à supporter l'idée de\nne plus jamais le revoir.\x0E\x04\x02\x00
+MID_ED3_#025	Et l'anneau qu'il a consacré sa vie à protéger ?\nEnvolé.\x0E\x04\x00\x00
+MID_ED3_#026	\x0E\x03\x02\x0E\x0Cディアマンド\n...\x0E\x04\x00\x00
+MID_ED3_#027	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nIl est vrai que nous déplorons bien des pertes.\x0E\x04\x02\x00
+MID_ED3_#028	Mais les Emblèmes ne sont pas morts.\nNous pouvons les récupérer.\x0E\x04\x02\x00
+MID_ED3_#029	Et nous les récupérerons.\nJe n'en doute pas un instant.\x0E\x04\x00\x00
+MID_ED3_#030	\x0E\x03\x02\x0C\nスタルーク\nVotre Divinité...\x0E\x04\x00\x00
+MID_ED3_#031	\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nCertains Emblèmes demeurent à vos côtés.\x0E\x04\x00\x00
+MID_ED3_#032	\x0E\x03\x00\x0C\x06ルキナ\x024\n\x0E\x03\x02\x08\x06ルキナ\nAbsolument. Ne nous oubliez pas.\x0E\x04\x00\x00
+MID_ED3_#033	\x0E\x03\x02\x0A\x08リュール\nLyn, Lucina...\x0E\x04\x00\x00
+MID_ED3_#034	\x0E\x03\x02\x06\x04リン\nTout n'est pas perdu. Nous pouvons offrir\nnos forces uniques d'Emblèmes.\x0E\x04\x00\x00
+MID_ED3_#035	\x0E\x03\x02\x08\x06ルキナ\nVous pouvez toujours affronter votre destin.\nVous battrez peut-être en retraite, mais ça\nne signifie pas que vous êtes vaincus.\x0E\x04\x00\x00
+MID_ED3_#036	\x0E\x03\x02\x0A\x08リュール\nJ'aurais voulu ne pas en arriver là.\x0E\x04\x02\x00
+MID_ED3_#037	Ma mère disait qu'un Dragon divin\nne prenait jamais la fuite.\x0E\x04\x00\x00
+MID_ED3_#038	\x0E\x03\x02\x06\x04リン\nNous n'avons pas pris la fuite. Ainsi que\nle dit Lucina, nous avons battu en retraite.\nCe n'est pas la même chose.\x0E\x04\x00\x00
+MID_ED3_#039	\x0E\x03\x02\x0A\x08リュール\nHmm...\x0E\x04\x00\x00
+MID_ED3_#040	\x0E\x03\x02\x06\x04リン\nNul besoin de prouver votre bravoure. Vous\nvous êtes dressé\x0E\x0A\x00\x06
+MID_ED3_#041	Mais refuser de partir maintenant... Ce ne serait\npas de la bravoure. Ce serait de la folie.\x0E\x04\x00\x00
+MID_ED3_#042	\x0E\x03\x02\x08\x06ルキナ\nEn effet, il ne faut pas confondre bravoure\net obstination. Votre Mère vous aurait enseigné\nla différence.\x0E\x04\x02\x00
+MID_ED3_#043	Hélas, vous avez profité de si peu de temps\nensemble qu'elle n'en a pas eu l'occasion.\x0E\x04\x00\x00
+MID_ED3_#044	\x0E\x03\x02\x0A\x08リュール\nC'est peut-être ce que Marth essayait\nde me dire, à l'extérieur de la cathédrale.\x0E\x04\x00\x00
+MID_ED3_#045	\x0E\x03\x02\x08\x06ルキナ\nSans aucun doute.\x0E\x04\x00\x00
+MID_ED3_#046	\x0E\x03\x02\x0A\x08リュール\nMaintenant, je crois que je le comprends enfin.\x0E\x04\x02\x00
+MID_ED3_#047	On ne fuit pas. On recule pour mieux sauter.\nPour rassembler nos forces et nous préparer\nà la prochaine bataille.\x0E\x04\x02\x00
+MID_ED3_#048	Je vais devenir un\x0E\x0A\x00\x06
+MID_ED3_#049	Je ferai en sorte que nul ne perde la vie\nsous mon commandement. Pas une\npersonne de plus.\x0E\x04\x02\x00
+MID_ED3_#050	Et je ramènerai auprès de nous nos amis\nles Emblèmes.\x0E\x04\x02\x00
+MID_ED3_#051	Qu'en dites-vous ? Qui est avec moi ?\x0E\x04\x00\x00
+MID_ED3_#052	\x0E\x03\x01\x06\x04リン\n\x0E\x03\x01\x08\x06ルキナ\n\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nVous savez que c'est mon cas.\nRetournons la situation en notre faveur.\x0E\x04\x00\x00
+MID_ED3_#053	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x04\x03\x04
+MID_ED3_#054	\x0E\x03\x00\x12\x0Cディアマンド\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nJe ne connaîtrai nul repos avant d'avoir\nrécupéré notre dû.\x0E\x04\x00\x00
+MID_ED3_#055	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x10\nスタルーク\x022\n\x0E\x03\x02\x0C\nスタルーク\nMême en ces circonstances, vous ne perdez pas\nespoir... Je resterai également à vos côtés,\nVotre Divinité.\x0E\x04\x00\x00
+MID_ED3_#056	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08アイビー\x022\n\x0E\x03\x02\x0A\x08アイビー\nJe vous aiderai également, si vous voulez\nbien de moi.\x0E\x04\x00\x00
+MID_ED3_#057	\x0E\x03\x02\x0A\x08リュール\nMerci, les amis.\x0E\x04\x02\x00
+MID_ED3_#058	Rendons-nous maintenant au royaume de Solm.\nDemeurez avec moi et je vous promets qu'il\nne vous arrivera rien.\x0E\x04\x00\x00

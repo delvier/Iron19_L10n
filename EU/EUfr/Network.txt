@@ -1,0 +1,383 @@
+MID_NET_SettingOn	Les fonctions en ligne\nsont actuellement désactivées.\nVoulez-vous les activer ?
+MID_NET_TowerNetwork_On	Les fonctions en ligne sont actuellement\ndésactivées. Voulez-vous les activer pour\nprofiter du jeu avec d'autres joueurs ?
+MID_NET_RANKING_On	Les fonctions en ligne sont actuellement\ndésactivées. Voulez-vous les activer pour\nvoir le classement des unités d'autres joueurs ?
+MID_NET_SettingOn_Yes	Oui
+MID_NET_Setting	La connexion n'a pas été activée\ndans les paramètres.
+MID_NET_Connecting	Connexion...
+MID_NET_Error_TROPE	Pas de connexion.
+MID_NET_Connecting_Error	Une erreur est survenue.\nRéessayez ultérieurement.
+MID_NET_Title_Help	Choisissez une épreuve.
+MID_NET_Notes_Terms	Les autres joueurs pourront voir votre surnom d'utilisateur Nintendo Switch dans les épreuves de Relais et du Multivers. Votre carte de profil sera également visible si vous choisissez de la rendre publique dans les paramètres de confidentialité. Les règles communautaires, consultables sur le site de Nintendo, s'appliquent au comportement en jeu et au contenu partagé. Traitez les autres joueurs avec respect.
+MID_NET_Notes_Report	Si votre comportement ou le contenu partagé\nenfreint les règles communautaires, vos données peuvent être supprimées du serveur\nou votre accès au jeu en ligne restreint.\nPour signaler du contenu inapproprié, utilisez\nl'option Signaler du menu Système.
+MID_MATCH_Title	Multivers
+MID_MATCH_Help	Affrontez en ligne les armées\nd'autres joueurs sur des cartes\nsélectionnées ou personnalisées.
+MID_MATCH_Title_Help	Sélectionnez un mode.
+MID_RELAY_Title	Relais
+MID_RELAY_Help	Faites équipe avec d'autres joueurs\nen ligne en mode Relais. Des\ntickets sont requis pour jouer.
+MID_RELAY_Title_Help	Comment débuter l'épreuve ?
+MID_CHALLENGE_Title	Tourmente
+MID_CHALLENGE_Help	Cette épreuve se déroule en\nplusieurs batailles consécutives.\nLes récompenses augmentent\navec le niveau de difficulté.
+MID_CHALLENGE_Closed_Dialog	L'épreuve de Tourmente devient accessible\nune fois le chapitre 11 terminé.
+MID_NETWORK_Map_Outline	Info carte
+MID_NETWORK_Map_Name	Carte
+MID_NETWORK_Map_Name_Content	\x0E\x01\x00\x00 (\x0E\x01\x01\x00)
+MID_NETWORK_LimitTurn_Content	\x0E\x01\x00\x00 (Joueurs : \x0E\x01\x01\x00)
+MID_NETWORK_Reward	Récompense
+MID_NETWORK_Degree	Titre
+MID_NETWORK_Clear_Reward	Récompenses de fin
+MID_NETWORK_Map_Select	Choix carte
+MID_NETWORK_BACK_CONFIRM	Retourner à l'écran de menu ?
+MID_NETWORK_BACK_CONFIRM_YES	Retour à l'écran de menu
+MID_NETWORK_H_BACK_CONFIRM	Retour à l'écran de menu
+MID_NET_Error	Une erreur est survenue.
+MID_NET_NFC_Error	La connexion à la manette pouvant\nlire les amiibo a été interrompue.
+MID_MATCH_Easy	Bataille rapide
+MID_MATCH_H_Easy	Choisissez une carte et affrontez\nl'armée d'un autre joueur.
+MID_MATCH_Easy_TitleHelp	Sélectionnez une carte.
+MID_V001	Jardin
+MID_V002	Cristaux
+MID_V003	Forteresse
+MID_V004	Trésor
+MID_V005	Colonnes
+MID_V006	Congère
+MID_MATCH_Search	Recherche d'adversaire
+MID_MATCH_Search_Help	Choisissez une méthode de sélection.
+MID_MATCH_Random	Aléatoire
+MID_MATCH_H_Random	Affrontez l'armée d'un autre\njoueur choisi aléatoirement.
+MID_MATCH_Serious_H_Random	La carte d'un autre joueur sera\nsélectionnée automatiquement.\nCette bataille affectera\nvotre classement.
+MID_MATCH_Matching	Adversaire trouvé : \x0E\x01\x00\x00
+MID_MATCH_Matching_Empty	Aucun adversaire trouvé.
+MID_MATCH_Matching_Verification	Affronter \x0E\x01\x00\x00 ?
+MID_MATCH_NoData	Aucune donnée détectée.
+MID_MATCH_Friend	Ami
+MID_MATCH_H_Friend	Choisissez un adversaire\nà affronter dans la liste\ndes armées de vos amis.
+MID_MATCH_Serious_H_Friend	Vous pouvez choisir une carte\ndans une liste répertoriant celles\nde vos amis. Cette bataille\nn'affectera pas votre classement.
+MID_MATCH_Friend_Select_Prompt	Sélectionnez un ami.
+MID_MATCH_Friend_Select	Sélectionner ami
+MID_MATCH_Friend_Corps	\x0E\x01\x00\x00
+MID_MATCH_Friend_Code	Saisir identifiant
+MID_MATCH_H_Friend_Code	Saisir un identifiant pour affronter\nl'armée d'un joueur en particulier.
+MID_MATCH_Serious_H_Friend_Code	Saisir un identifiant pour vous\nbattre sur la carte d'un joueur\nen particulier. Cette bataille\nn'affectera pas votre classement.
+MID_MATCH_Friend_Code_Input_Easy	Saisir l'identifiant d'un adversaire\npour la bataille rapide.
+MID_MATCH_Friend_ID	Chercher cet identifiant ?
+MID_MATCH_Friend_ID_Search	Utiliser cet identifiant
+MID_MATCH_My_ID_Attention	Vous ne pouvez pas saisir votre propre\nidentifiant de bataille.
+MID_MATCH_Profile	Cartes de profil
+MID_MATCH_H_Profile	Vous pouvez choisir parmi la liste des cartes\nd'autres joueurs en votre possession.
+MID_MATCH_Serious_H_Profile	Vous pouvez choisir parmi la liste des cartes\nd'autres joueurs en votre possession. Cette\nbataille n'affectera pas votre classement.
+MID_MATCH_Profile_Select_Prompt	Choisissez un joueur.
+MID_MATCH_Profile_Select	Joueurs
+MID_ProfileCard_Match_NoProfile	Vous n'avez aucune carte de profil\npouvant être utilisée pour la bataille.
+MID_MATCH_MAP_Error	La bataille a été suspendue en raison\nd'une erreur relative aux données.
+MID_MATCH_Serious	Bataille perso.
+MID_MATCH_H_Serious	Jouez sur une carte personnalisée\ncréée en liant une carte envoyée\nsur le serveur avec celle\nd'un autre joueur.
+MID_MATCH_H_Serious_Attention	Il vous faut au moins 2 unités de votre armée\npour participer à une bataille personnalisée.
+MID_MATCH_H_Serious_OldMap	La bataille ne peut pas commencer car les\ndonnées de carte envoyées sur le serveur sont\nplus anciennes que celles présentes sur la\nconsole. Sélectionnez Personnaliser carte et\nenvoyez les données de carte les plus récentes.
+MID_MATCH_Serious_Help	Choisissez une action.
+MID_MATCH_Friend_Code_Input_Serious	Saisissez l'identifiant d'un adversaire pour la bataille personnalisée.
+MID_MATCH_Battle_Start	Commencer
+MID_MATCH_H_Battle_Start	Affrontez l'armée d'un autre\njoueur en utilisant votre carte.
+MID_MATCH_Battle_Win	Vous avez gagné !
+MID_MATCH_H_Battle_Lose	Vous avez perdu...
+MID_MATCH_GET_PIECE	Obtenu : \x0E\x01\x01\x00 \x0E\x01\x00\x00 fragment(s) de lien.
+MID_MATCH_GET_GOLD	Obtenu : \x0E\x01\x00\x00\x0E\x01\x01\x00 É.
+MID_MATCH_GET_ITEM	Obtenu : \x0E\x01\x00\x00 \x0E\x01\x01\x00.
+MID_MATCH_GET_ITEM_PLURAL	Obtenu : \x0E\x01\x00\x00\x0E\x01\x01\x00 x\x0E\x01\x02\x00.
+MID_MATCH_Map_EditName	Préparatifs
+MID_MATCH_Map_Edit	Personnaliser carte
+MID_MATCH_H_Map_Edit	Créez une carte de bataille\net constituez une équipe\npour la défendre.
+MID_MATCH_Map_Reset	Réinitialiser
+MID_MATCH_H_Map_Reset	Réinitialisez le schéma de\ncarte actuel.
+MID_MATCH_H_Map_Reset_Confirmation	Réinitialiser le schéma de carte actuel ?
+MID_MATCH_Map_Save	Sauvegarder
+MID_MATCH_H_Map_Save	Sauvegardez votre carte\npersonnalisée.
+MID_MATCH_Map_Edit_Finish	Terminer
+MID_MATCH_H_Map_Edit_Finish	Terminer la personnalisation de la carte.
+MID_MATCH_Map_Edit_Finish_Confirmation	Terminer la personnalisation de la carte ?
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	Terminer la personnalisation\nsans sauvegarder ?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	Terminer
+MID_MATCH_Map_Edit_Finish_Confirmation_No	Continuer
+MID_MATCH_Map_HealPanel_Duplicated	Vous ne pouvez placer qu'une case de regain\nde PV ou de protection à la fois.
+MID_MATCH_Map_Cannon_Duplicated	Vous ne pouvez placer qu'une baliste,\nune artillerie magique ou un canon à la fois.
+MID_MATCH_Map_Save_Error	Impossible de sauvegarder la carte.\n\x0E\x01\x00\x00
+MID_MATCH_Map_Save_Error_NoUnit	Déployez au moins 1 unité.
+MID_MATCH_Map_Save_Error_AllUnit	Toutes les unités sont engagées\ndans des batailles défensives.
+MID_MATCH_Serious_Error_AllUnit	Vous n'avez aucune unité disponible\npour une armée. Choisissez Personnaliser\ncarte et réduisez le nombre d'alliés engagés\ndans votre équipe de défense.
+MID_MATCH_Map_Save_Error_BanAreaUnit	Au moins une unité se trouve\ndans un endroit inaccessible.
+MID_MATCH_Map_Save_Error_InvalidData	La sauvegarde des données a échoué.\nLes données sont peut-être corrompues.
+MID_MATCH_Map_Save_Success	Carte sauvegardée.
+MID_MATCH_Map_UpRoad	Envoyer la carte et l'utiliser dans des batailles\ndéfensives ? Vous ne pouvez avoir qu'une\ncarte par compte Nintendo. Les cartes\nprécédemment envoyées, y compris celles\ncréées avec d'autres données de sauvegarde,\nseront écrasées.
+MID_MATCH_Map_UpRoad_Yes	Envoyer
+MID_MATCH_Map_UpRoad_No	Annuler
+MID_MATCH_Map_UpRoad_Success	Envoi sur le réseau réussi.
+MID_MATCH_Map_UpRoad_Failure	Échec de l'envoi sur le réseau.
+MID_MATCH_Unit_Duplicate	L'unité \x0E\x01\x00\x00 est engagée\ndans une bataille défensive.
+MID_MATCH_Map_Edit_AI_NotMove	Maintien
+MID_MATCH_H_Map_Edit_AI_NotMove	Maintenir la position\nde départ.
+MID_MATCH_Map_Edit_AI_Defense	Défense
+MID_MATCH_H_Map_Edit_AI_Defense	Cibler les ennemis à portée.
+MID_MATCH_Map_Edit_AI_Rush	Attaque
+MID_MATCH_H_Map_Edit_AI_Rush	Poursuivre les ennemis à por-\ntée, du plus faible au plus fort.
+MID_MATCH_Map_Edit_AI_ResponseA	Groupe A
+MID_MATCH_H_Map_Edit_AI_ResponseA	Le groupe A agit quand\nles ennemis sont à portée.
+MID_MATCH_Map_Edit_AI_ResponseB	Groupe B
+MID_MATCH_H_Map_Edit_AI_ResponseB	Le groupe B agit quand\nles ennemis sont à portée.
+MID_MATCH_Map_Edit_AI_ResponseC	Groupe C
+MID_MATCH_H_Map_Edit_AI_ResponseC	Le groupe C agit quand\nles ennemis sont à portée.
+MID_MATCH_Map_Replay	Voir résultats
+MID_MATCH_H_Map_Replay	Consultez les résultats des\nbatailles défensives.
+MID_MATCH_History	Une bataille est survenue sur une carte\nque vous avez envoyée sur le réseau.\nVoulez-vous consulter les résultats ?
+MID_MATCH_NoHistory	Aucune bataille défensive n'a eu lieu\nsur les cartes que vous avez envoyées\nsur le réseau.
+MID_MATCH_MockCombat	Simulation
+MID_MATCH_H_MockCombat	Testez votre carte.
+MID_MATCH_Surrender	Capituler
+MID_MATCH_H_Surrender	Capituler et retourner\nau menu.
+MID_MATCH_Surrender_Attention	Concéder la défaite ?
+MID_MATCH_Surrender_Yes	Capituler
+MID_MATCH_MyRate	Classement
+MID_MATCH_ID	Id. de bat.
+MID_MATCH_Victory	VICTOIRE !
+MID_MATCH_Defeat	DÉFAITE
+MID_REPORT_TITLE	Signaler
+MID_REPORT_MAP_DELETE	Votre carte a été signalée, puis effacée\nsuite à l'examen du signalement.
+MID_REPORT_TITLE_HELP	Signaler une carte\ninappropriée.
+MID_REPORT_NOTES	Vous signalez une carte dont le contenu\nenfreint les règles communautaires de Nintendo.\n\nCe signalement sera envoyé à Nintendo, et non\nau joueur ayant envoyé la carte sur le réseau.
+MID_REPORT__CONFIRM_DIALOG	Signaler ce contenu ?
+MID_REPORT__CONFIRM_DIALOG_YES	Signaler
+MID_REPORT_CATEGORY_SELECT	Choisir le type de signalement.
+MID_REPORT_MAP	Signaler une carte
+MID_REPORT_CATEGORY	Type
+MID_REPORT_REASON	Motif
+MID_REPORT_REASON_INPUT	Saisir un motif de signalement.
+MID_REPORT_CATEGORY_PERSONAL	Atteinte à la vie privée
+MID_REPORT_CATEGORY_CRIMINAL	Comportement violent
+MID_REPORT_CATEGORY_IMMORAL	Harcèlement, intimidation
+MID_REPORT_CATEGORY_HARASSMENT	Haine ou discrimination
+MID_REPORT_CATEGORY_COMMERCIAL	Publicité ou spam
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	Contenu sexuel explicite
+MID_REPORT_CATEGORY_OTHER	Autre contenu inapproprié
+MID_REPORT_RESULT	Votre signalement a été envoyé et sera examiné.
+MID_RELAY_Ticket	Vous obtenez \x0E\x01\x00\x00 ticket(s) de Relais.
+MID_RELAY_Ticket_Stock	Tickets de Relais :
+MID_RELAY_NewData	Nouvelle épreuve
+MID_RELAY_H_NewData	Dépensez un ticket pour créer\ndes données et commencer\nune épreuve depuis le début.
+MID_RELAY_TakeOver_START_CONFIRM	Commencer la bataille ? Cela verrouillera\nle positionnement de vos unités.
+MID_RELAY_Unit_Select	Envoyez \x0E\x01\x00\x00 unités au combat. Utilisez Unités\npour en rajouter.
+MID_RELAY_Ticket_Lack	Il vous faut des tickets pour débuter\nune nouvelle épreuve.
+MID_RELAY_Unit_Lack	Vous n'avez pas suffisamment d'unités.
+MID_RELAY_TakeOver	Reprendre
+MID_RELAY_H_TakeOver	Reprendre les données\nd'une épreuve en cours\nd'un autre joueur.
+MID_RELAY_TakeOver_Outline	Épreuve
+MID_RELAY_TakeOver_Empty	Aucune donnée à reprendre.
+MID_RELAY_Joining_players	Participants
+MID_RELAY_TakeOver_Help	Choisissez une méthode de sélection.
+MID_RELAY_TakeOver_ID	Identifiant de reprise
+MID_RELAY_Random	Aléatoire
+MID_RELAY_H_Random	Reprendre une épreuve\nchoisie aléatoirement.
+MID_RELAY_ID_Search	Saisir identifiant
+MID_RELAY_H_ID_Search	Saisissez un identifiant pour\nreprendre les données d'épreuve\nd'un joueur en particulier.
+MID_RELAY_ID_Input	Saisissez un identifiant de reprise.
+MID_RELAY_ID_Search_Attention	Chercher cet identifiant de reprise ?\n\x0E\x01\x00\x00
+MID_RELAY_ID_Search_OK	Chercher
+MID_RELAY_Data_Error	Données introuvables.
+MID_RELAY_ID_Search_MyMap_Error	Impossible de reprendre une épreuve\nque vous avez commencée.
+MID_RELAY_ID_Search_Again_Error	Impossible de reprendre une épreuve\nà laquelle vous avez déjà pris part.
+MID_RELAY_ID_Search_Finish_Error	Impossible de reprendre une épreuve\nqui est déjà terminée.
+MID_RELAY_ID_Search_Other_Error	Impossible de reprendre une épreuve à laquelle\nquelqu'un est en train de prendre part. Attendez\nque les résultats soient envoyés sur le réseau\nou que 24 heures se soient écoulées.
+MID_RELAY_ID_Search_Error	Impossible de reprendre cette épreuve.
+MID_RELAY_ID_Search_NoData	Impossible d'obtenir les données.\nElles ont peut-être été supprimées\ndepuis la dernière mise à jour.
+MID_RELAY_Replay	Voir résultats
+MID_RELAY_H_Replay	Consultez les résultats des\nbatailles auxquelles vous avez pris\npart. Récupérez des récompenses\net visionnez les combats.
+MID_RELAY_Map_Select	Sélectionnez une carte.
+MID_RELAY_Replay_Select	Mes batailles
+MID_RELAY_Replay_Datetime	\x0E\x01\x02\x00/\x0E\x01\x01\x00/\x0E\x01\x00\x00 \x0E\x01\x03\x00:\x0E\x01\x04\x00
+MID_RELAY_Replay_Select_Prompt	Sélectionnez les données à visionner.
+MID_RELAY_Reselect	Quelqu'un d'autre a repris ces données, alors\nd'autres données seront sélectionnées.
+MID_RELAY_Replay_Empty	Aucune donnée disponible. (Les données sont\nsupprimées au bout d'un certain temps.)
+MID_RELAY_Replay_NotUpdate	Impossible de mettre à jour ces données, car\nelles ont été reprises par un autre joueur.
+MID_RELAY_Replay_NotSeeYet	Aucune donnée d'épreuve de Relais disponible.
+MID_RELAY_Replay_Beginning_NoFinish	Visionner partiellement ? (La bataille n'est pas\nencore terminée, mais vous pouvez la regarder\njusqu'au point actuel des combats.)
+MID_RELAY_Replay_Beginning_NoFinish_Yes	Visionner
+MID_RELAY_Replay_Beginning	Visionner ?
+MID_RELAY_Replay_Beginning_Yes	Visionner
+MID_RELAY_Replay_Beginning_No	Uniquement les résultats
+MID_RELAY_Replay_Reward_Received	Vous avez déjà récupéré la récompense\npour cette épreuve.
+MID_RELAY_UpdateContents_Attention	Choisissez un paramètre de données d'épreuve.\nPublique (tout le monde peut reprendre\nvotre épreuve)\nPrivée (un identifiant est requis pour reprendre\nvotre épreuve)
+MID_RELAY_UpdateContents_Yes	Publique
+MID_RELAY_UpdateContents_No	Privée
+MID_RELAY_MyMap_ID	L'identifiant de reprise pour cette épreuve est :\n\x0E\x01\x00\x00.\nDonnez cet identifiant aux joueurs à qui vous\nvoulez permettre de reprendre cette épreuve.
+MID_RELAY_Redo	Réessayer de se connecter ?
+MID_RELAY_PlayUser	Visionnage du tour de : \x0E\x01\x00\x00
+MID_RELAY_UserMessage	Message envoyé par \x0E\x01\x00\x00
+MID_RELAY_PlayerChange	CHANGEMENT DE JOUEUR !
+MID_RELAY_Win	Victoire
+MID_RELAY_Lose	Défaite
+MID_RELAY_FinalRecord	Résultats finaux
+MID_RELAY_UpRoad	Ces données seront envoyées sur le réseau.
+MID_RELAY_Failure	ÉCHEC
+MID_RELAY_OPEN_N006	Vous pouvez maintenant choisir Zone\nvolcanique dans les épreuves de Relais.
+MCID_N001_1	Plaine verdoyante
+MCID_N002_1	Champ fleuri
+MCID_N003_1	Pic montagneux
+MCID_N004_1	Forêt hivernale
+MCID_N005_1	Dunes du désert
+MCID_N006_1	Zone volcanique
+MID_RELAY_Award_All	Tous les participants
+MID_RELAY_Award_Regret	2e prix
+MID_RELAY_Award_Count_Kill	Le plus d'ennemis vaincus
+MID_RELAY_Award_Count_Damage	Le plus de dégâts subis
+MID_RELAY_Award_Count_Recovered	Le plus d'alliés soignés
+MID_RELAY_Award_Count_Break	Le plus de gardes brisées
+MID_RELAY_Award_Count_Engage	Le plus de fusions
+MID_RELAY_Award_Count_Item	Le plus d'objets utilisés
+MID_RELAY_Award_Count_Poison	Le plus d'empoisonnements
+MID_RELAY_Award_Count_LongWalk	La plus grande distance parcourue
+MID_RELAY_Award_Count_Skill	Le plus de techniques utilisées
+MID_RELAY_Award_Invisible	Aucun dégât subi
+MID_RELAY_Award_Count_Critical	Le plus de coups critiques
+MID_RELAY_Award_Count_SpecialAttack	Le plus de coups efficaces
+MID_RELAY_Award_Count_EngageAttack	Le plus d'attaques de fusion
+MID_RELAY_Award_Count_ChainGuard	Le plus de gardes enchaînées
+MID_RELAY_Award_Count_Smash	Le plus de repoussements
+MID_RELAY_Award_Count_Adjacent	Le plus d'attaques adjacentes
+MID_RELAY_Award_Count_Indirect	Le plus d'attaques à distance
+MID_RELAY_Award_Count_NoKill	Le plus d'attaques sans vaincre
+MID_RELAY_Award_Count_ChainAttack	Le plus d'attaques enchaînées
+MID_RELAY_Award_Sabotage_Comment	Le moins actif
+MID_RELAY_Award_MyPace	Le moins de distance parcourue
+MID_RELAY_Award_Strike	Le moins de dégâts infligés
+MID_RELAY_Award_Count_Standby	Le plus d'attentes
+MID_RELAY_Award_TroubleMaker	Le plus soigné par des alliés
+MID_RELAY_Award_Sabotage_Unlucky	Le plus de tech. ennemies activées
+MID_RELAY_Award_Kill	Pourfendeur
+MID_RELAY_Award_Damage	Survivant
+MID_RELAY_Award_Recovered	Maître guérisseur
+MID_RELAY_Award_Break	Briseur de garde
+MID_RELAY_Award_Engage	Maître de la fusion
+MID_RELAY_Award_Item	Maître des objets
+MID_RELAY_Award_Poison	Maître empoisonneur
+MID_RELAY_Award_LongWalk	Coureur
+MID_RELAY_Award_Skill	Maître des techniques
+MID_RELAY_Award_NoDamage	Intact
+MID_RELAY_Award_Critical	Maître des critiques
+MID_RELAY_Award_SpecialAttack	Maître du fléau
+MID_RELAY_Award_EngageAttack	Unis
+MID_RELAY_Award_ChainGuard	Gardien
+MID_RELAY_Award_Smash	Repousseur
+MID_RELAY_Award_Adjacent	Agresseur
+MID_RELAY_Award_Indirect	Tireur d'élite
+MID_RELAY_Award_NoKill	Assistant
+MID_RELAY_Award_ChainAttack	As des attaques enchaînées
+MID_RELAY_Award_Sabotage	Tempérant
+MID_RELAY_Award_EnergySaving	Traînard
+MID_RELAY_Award_Peace	Pacifiste
+MID_RELAY_Award_Standby	Attentiste
+MID_RELAY_Award_Protected	Increvable
+MID_RELAY_Award_SkillTarget	Cible maudite
+MID_RELAY_Stamp_Message	Messages laissés pour le joueur suivant.
+MID_RELAY_Stamp_Lueur_M_0	Je vous confie le reste.
+MID_RELAY_Stamp_Lueur_F_0	C'est un plaisir.
+MID_RELAY_Stamp_Vandre_0	Faites preuve de prudence.
+MID_RELAY_Stamp_Clan_0	J'ai bien failli m'évanouir...
+MID_RELAY_Stamp_Fram_0	J'espère un miracle !
+MID_RELAY_Stamp_Alfred_0	Voyez un peu mes résultats !
+MID_RELAY_Stamp_Boucheron_0	Je vais fondre en larmes.
+MID_RELAY_Stamp_Etie_0	On règle ça vite fait ?
+MID_RELAY_Stamp_Celine_0	J'ai besoin de votre force.
+MID_RELAY_Stamp_Louis_0	Je vous aurai à l'œil.
+MID_RELAY_Stamp_Chloe_0	Il y a tant de possibilités !
+MID_RELAY_Stamp_Diamand_0	Unissons nos forces.
+MID_RELAY_Stamp_Umber_0	Nous serons des légendes !
+MID_RELAY_Stamp_Jade_0	Ça devient intéressant.
+MID_RELAY_Stamp_Staluke_0	Quelle horreur... Désolé.
+MID_RELAY_Stamp_Lapis_0	Utilisons la force brute !
+MID_RELAY_Stamp_Citrinica_0	Vous avez tout mon soutien !
+MID_RELAY_Stamp_Ivy_0	J'ai foi en vous.
+MID_RELAY_Stamp_Zelkova_0	Que *penser* de cela ?
+MID_RELAY_Stamp_Kagetsu_0	Votre ami compte sur vous !
+MID_RELAY_Stamp_Hortensia_0	Revenez en un seul morceau.
+MID_RELAY_Stamp_Rosado_0	Hé hé, j'ai un peu abusé.
+MID_RELAY_Stamp_Goldmary_0	Pardon de vous infliger mon expertise.
+MID_RELAY_Stamp_Misutira_0	On va gagner facile !
+MID_RELAY_Stamp_Merin_0	J'ai la classe, je sais.
+MID_RELAY_Stamp_Panetone_0	À vous de lancer l'assaut !
+MID_RELAY_Stamp_Fogato_0	Je vous adore !
+MID_RELAY_Stamp_Pandoro_0	Ahouuuu !
+MID_RELAY_Stamp_Bonet_0	Vous allez vous régaler.
+MID_RELAY_Stamp_Anna_0	Cadeau de la maison !
+MID_RELAY_Stamp_Jean_0	Je compte sur vous.
+MID_RELAY_Stamp_Yunaka_0	Top moumoute ! À vous !
+MID_RELAY_Stamp_Seadas_0	La scène vous appartient.
+MID_RELAY_Stamp_Linden_0	Mon expérience a échoué...
+MID_RELAY_Stamp_Saphir_0	Travaillons nos tactiques...
+MID_RELAY_Stamp_Veyre_0	J'ai fait de mon mieux.
+MID_RELAY_Stamp_Mauve_0	Pardon. À vous de jouer.
+MID_RELAY_Stamp_Lumiere_0	Prudence, d'accord ?
+MID_RELAY_Stamp_Marth_0	Fusionnons !
+MID_RELAY_Stamp_Celica_0	Oh, je hais la violence...
+MID_RELAY_Stamp_Siglud_0	Je n'ai nul regret.
+MID_RELAY_Stamp_Leaf_0	Nous surmonterons tout.
+MID_RELAY_Stamp_Roy_0	Le vrai combat commence.
+MID_RELAY_Stamp_Lin_0	Puissent les vents vous bénir.
+MID_RELAY_Stamp_Eirik_0	Bonne chance au combat.
+MID_RELAY_Stamp_Ike_0	N'abandonnez pas vos alliés.
+MID_RELAY_Stamp_Micaiah_0	Ravie d'avoir pu vous aider.
+MID_RELAY_Stamp_Lucina_0	Défions notre destin !
+MID_RELAY_Stamp_Kamui_0	Vous pouvez y arriver.
+MID_RELAY_Stamp_Byleth_0	Faites comme je vous ai dit !
+MID_RANKING_Title	Classements
+MID_H_RANKING_Title	Affichez les unités les plus utilisées.
+MID_RANKING_First	\x0E\x01\x00\x00
+MID_RANKING_Second	\x0E\x01\x00\x00
+MID_RANKING_Third	\x0E\x01\x00\x00
+MID_RANKING_Other	\x0E\x01\x00\x00
+MID_RANKING_Fail	Échec de la récupération\ndes données de classement.
+MID_CHALLENGE_EXP_TITLE	EXP
+MID_CHALLENGE_MapSelect_Help	Quelle carte voulez-vous tenter ?
+MID_CHALLENGE_MapSelect_MenuCaption	Carte
+MID_CHALLENGE_MapInfo_N_Battles	\x0E\x01\x00\x00 bat.
+MID_CHALLENGE_MapInfo_BestRecort	Record
+MID_CHALLENGE_MapInfo_Turn	Tours
+MID_CHALLENGE_MapInfo_Materials	Matériaux bonus
+MID_CHALLENGE_DifficultyMenu_Help	Sélectionnez un niveau de difficulté.
+MID_CHALLENGE_DifficultyMenu_Recommended	Conseillé : \x0E\x01\x00\x00
+MID_CHALLENGE_DifficultyMenu_Difficulty	Difficulté
+MID_CHALLENGE_DifficultyMenu_Start	Combattre
+MID_CHALLENGE_Start_CONFIRM	Dépenser 1 ticket pour lancer la bataille ?\nNombre de tickets actuel : \x0E\x01\x00\x00.
+MID_CHALLENGE_GiveUp	Abandonner
+MID_CHALLENGE_H_GiveUp	Mettre fin à l'épreuve\net retourner au menu.
+MID_CHALLENGE_GiveUp_CONFIRM	Mettre fin à l'épreuve et retourner au menu ?\nVous ne recevrez pas les récompenses liées\nà son achèvement, mais vous obtiendrez de\nl'expérience pour les cartes terminées.
+MID_CHALLENGE_Confirm	Commencer « \x0E\x01\x00\x00 »\nau niveau de difficulté \x0E\x01\x01\x00 ?
+MID_CHALLENGE_MAP1	Première bataille
+MID_CHALLENGE_MAP2	Deuxième bataille
+MID_CHALLENGE_MAP3	Dernière bataille
+MID_CHALLENGE_Get_Item	-
+MID_CHALLENGE_Get_EXP	Exp reçue
+MID_CHALLENGE_Join_MAP1	Rejoindre bat. 1
+MID_CHALLENGE_Join_MAP2	Rejoindre bat. 2
+MID_CHALLENGE_Join_MAP3	Rejoindre bat. 3
+MID_CHALLENGE_Get_SP	Manuels obtenus
+MID_CHALLENGE_OPEN_LEVEL41	Les niveaux de difficulté 41\net supérieurs pour les épreuves\nde Relais sont maintenant débloqués.
+MID_CHALLENGE_C001_TITLE	Plaine verdoyante
+MID_CHALLENGE_C002_TITLE	Champ fleuri
+MID_CHALLENGE_C003_TITLE	Pic montagneux
+MID_CHALLENGE_C004_TITLE	Forêt hivernale
+MID_CHALLENGE_C005_TITLE	Dunes du désert
+MID_CHALLENGE_C006_TITLE	Zone volcanique
+MID_AMIIBO_Ticket_Music	\x0E\x08\x02\x18\x16SoundTicket Ticket de musique obtenu.
+MID_AMIIBO_Ticket_Accessories	\x0E\x08\x02\x14\x12AccTicket Ticket de mode obtenu.
+MID_AMIIBO_Touch_Count	Nombre de scans d'amiibo\nrestants : \x0E\x01\x00\x00 sur 5.
+MID_AMIIBO_Touch_Interval	Actualisation des scans d'amiibo\ndans \x0E\x01\x00\x00 h et \x0E\x01\x01\x00 min.
+MID_AMIIBO_Touch	Veuillez scanner votre amiibo.
+MID_AMIIBO_Accessories_Attention	Non utilisable pour cette unité
+MID_AMIIBO_Trade_Ticket	Échanger contre \x0E\x01\x00\x00 ?\n(Consomme 1 ticket. Nombre actuel\nde tickets : \x0E\x01\x01\x00.)
+MID_AMIIBO_Trade_Ticket_Use	Utiliser ticket
+MID_AMIIBO_Trade_Ticket_Have	Tickets actuels
+MID_AMIIBO_Trade_Music_Select	Choisissez la musique.
+MID_AMIIBO_Trade_Ticket_Music	Ticket de musique
+MID_AMIIBO_Music	Musique
+MID_AMIIBO_Trade_Accessories_Select	Choisissez une tenue.
+MID_AMIIBO_Trade_Ticket_Accessories	Ticket de mode
+MID_AMIIBO_Accessories	Mode
+MID_AMIIBO_Trade_Nothing	--
+MID_AMIIBO_Trade_Information	Tout a été obtenu dans la catégorie\n\x0E\x01\x00\x00. Vos tickets seront\néchangés contre des fragments de lien.\n

@@ -1,0 +1,260 @@
+MID_MSG_CC_DLC_JOB_OPEN	Le tue unità possono ora passare alle classi\n"incantatore" e "mago artigliere".\n(Per passare a ciascuna di queste classi\nè necessario uno strumento speciale.)
+MID_MSG_EVIL_COMPLETE_REWARD	Ricompense per aver completato\ni capitoli maligni.
+MID_DLC_News_Patch3_Title	Ver. 2.0.0
+MID_DLC_News_Patch3	Pass di espansione\n\n・ Sono stati aggiunti i capitoli maligni.\n　 Quando avrai completato questa nuova storia, nuovi alleati\n　 si uniranno al tuo gruppo e sarà possibile accedere alle classi\n　 speciali incantatore e mago artigliere.\n\nContenuto gratuito\n\n・ Riceverai materiali per affinare le armi unione quando\n　 entrerai nel Somniel dopo aver completato il capitolo 4.\n\n・ Ora puoi ottenere gratuitamente contenuti bonus\n　 dal Nintendo eShop.
+MID_MSG_GET_ITEM_Patch3	Bonus 2 dell'aggiornamento gratuito ricevuto.
+MID_SYS_EvilMap	Capitoli maligni
+MID_SysDialog_Move_EvilMap	Ai capitoli maligni
+MID_MSG_Encount_EvilMap	Scaramuccia nei capitoli maligni.
+MID_Hub_Well_GotoEvil	Ai capitoli maligni
+MID_Hub_Well_GotoEvil_Dialog_Message	Vuoi iniziare i capitoli maligni?
+MID_Hub_Well_GotoEvil_Dialog_Yes	Inizia
+MID_Hub_Well_GotoEvil_Dialog_Message_After	Vuoi passare ai capitoli maligni?
+MCID_E001_PREFIX	Capitolo maligno 1
+MCID_E001	Draghi lontani
+MCID_E001_PLACE	Altare del bracciale
+MCID_E002_PREFIX	Capitolo maligno 2
+MCID_E002	Semi di inquietudine
+MCID_E002_PLACE	Giardino verdeggiante
+MCID_E002_OUTLINE	Dopo aver sconfitto gli assassini,\nil Drago Divino va in Firene con\nNel e Nil per cercare un bracciale.
+MCID_E003_PREFIX	Capitolo maligno 3
+MCID_E003	Cammino di guerra
+MCID_E003_PLACE	Strada reale
+MCID_E003_OUTLINE	Il gruppo addormenta l'emblema\ndel Firene e parte per la Brodia\nin cerca di altri bracciali.
+MCID_E004_PREFIX	Capitolo maligno 4
+MCID_E004	Scontro tra regine
+MCID_E004_PLACE	Foresta gelida
+MCID_E004_OUTLINE	Il gruppo scopre intenzioni losche\nnel regno di Elusia. Restano tre\nbracciali.
+MCID_E005_PREFIX	Capitolo maligno 5
+MCID_E005	Sangue maligno
+MCID_E005_PLACE	Fortezza nel deserto
+MCID_E006_PREFIX	Capitolo maligno 6
+MCID_E006	I sette bracciali
+MCID_E006_PLACE	Somniel caduto
+MCID_E006_OUTLINE	Il Drago Divino ha perduto Nel e i\nbracciali e cerca Nil su un'isola che\nun tempo fluttuava nel cielo.
+MID_RULE_DLC_LOSE	Nel, Nil o \x0E\x06\x03\x00 perde.
+MID_RULE_DLC_LOSE2	Nel o \x0E\x06\x03\x00 perde.
+MID_RULE_E001_WIN	Sconfiggi ???.
+MID_RULE_E002_WIN	Sconfiggi Alfred e Céline.
+MID_RULE_E003_WIN	Sconfiggi Diamant e Alcryst.
+MID_RULE_E004_WIN	Sconfiggi Ivy e Timerra.
+MID_RULE_E005_WIN	Sconfiggi Nil.
+MID_RULE_E006_WIN	Sconfiggi Nil maligno.
+MTID_Cemetery	Cimitero
+MTID_Dragon	Sigillo maligno
+MPID_El	Nel
+MPID_H_El	Una dei due gemelli con il sangue\ndel Drago Maligno. Combatte con\ncoraggio insieme a suo fratello.
+MPID_Il	Nil
+MPID_H_Il	Uno dei due gemelli con il sangue\ndel Drago Maligno. Giovane dal buon\ncuore, che sostiene sua sorella.
+MPID_H_Il_E005	Uno dei due gemelli con il sangue\ndel Drago Maligno. Ha tradito sua\nsorella e il Drago Divino.
+MPID_Il_E006	Nil maligno
+MPID_H_Il_E006	Seguendo la volontà di Sombron,\nha usato i sette bracciali per\ntrasformarsi nel Gran Maligno.
+MPID_Rafale	Rafal
+MPID_H_Rafale	In lui scorre il sangue del Drago\nMaligno. Ha accettato l'invito del\nDrago Divino a combattere insieme.
+MPID_Selestia	Zelestia
+MPID_H_Selestia	Capo dei Quattro Venti. Un Drago\nMagico pieno d'amore e affetto\nper i suoi compagni d'avventura.
+MPID_Gregory	Gregory
+MPID_H_Gregory_E	Uno dei Quattro Venti. Amabile, un\npo' fifone e a volte troppo cauto.\nÈ in grado di usare la magia.
+MPID_H_Gregory	Vice dei Quattro Venti. Amabile,\nanche se a volte troppo cauto.\nÈ in grado di usare la magia.
+MPID_Madeline	Madeline
+MPID_H_Madeline	Una dei Quattro Venti. Cavaliera\ncorazzata di grande intelletto\ne forti convinzioni.
+MPID_MorphWolf	Lupo aberrante
+MPID_H_MorphWolf	Lupo aberrante allevato dal Drago\nMaligno. Si muove velocemente e\nattacca con artigli e zanne affilate.
+MPID_MorphWolfSilver	Lupo argentato
+MPID_H_MorphWolfSilver	Lupo aberrante in forma metallica.\nRaro, ma dà esperienza extra.
+MPID_MorphDragonF	Viverna aberrante
+MPID_H_MorphDragonF	Viverna gigante allevata dal Drago\nMaligno. Vola nel cielo sferrando\npotenti attacchi con il suo soffio.
+MPID_MorphDragonFGold	Viverna dorata
+MPID_H_MorphDragonFGold	Viverna aberrante in forma metallica.\nRara, ma dà tesori extra.
+MPID_ShadowSiblings	Fratelli maligni
+MPID_H_FogatoHide	Assassino non identificato in cerca\ndei bracciali degli emblemi.
+MPID_H_AlfredR	Re del Firene di un altro mondo.\nIrascibile e bellicoso, annienta\ni suoi nemici senza pietà.
+MPID_H_CelineR	Principessa del Firene di un altro\nmondo. Fredda e astuta, ha la mano\npesante con gli altri.
+MPID_H_DiamandR	Re della Brodia di un altro mondo.\nCodardo e pessimista, non ha la\nsicurezza per prendere le decisioni.
+MPID_H_StalukeR	Principe della Brodia di un altro\nmondo. Spaventosamente arrogante,\ndisprezza il suo debole fratello.
+MPID_H_IvyR	Regina dell'Elusia di un altro mondo.\nEbbra della sua nobiltà, disprezza\nsua sorella di umili origini.
+MPID_H_HortensiaR	Principessa dell'Elusia di un altro\nmondo. È devastata dalla morte di\nsuo padre.
+MPID_H_MisutiraR	Regina del Solm di un altro mondo.\nEccessivamente rigida e formale,\nnon ha spirito di adattamento.
+MPID_H_FogatoR	Principe del Solm di un altro mondo.\nGrande edonista, si lancia in\nbattaglia col sorriso sulle labbra.
+MPID_alias_El	Drago stoico
+MPID_alias_Rafale	Drago penitente
+MPID_alias_Selestia	Capo amabile
+MPID_alias_Gregory	Antica cicatrice
+MPID_alias_Madeline	Cuore alleviato
+MJID_ShadowPrincessR	Erede Maligno
+MJID_H_ShadowPrincessR	Erede del sangue del Drago Maligno.\nUsa la lancia e una pietra drago\nper trasformarsi in drago.
+MJID_ShadowLordR	Erede Maligno
+MJID_H_ShadowLordRE	Erede del sangue del Drago Maligno.\nNon è abile nel combattimento, ma\ncerca di darsi da fare con l'ascia.
+MJID_H_ShadowLordRE_E005	Erede del sangue del Drago Maligno.\nDopo aver rivelato la sua identità,\ncombatte ferocemente con l'ascia.
+MJID_H_ShadowLordR	Erede del sangue del Drago Maligno.\nCombatte con l'ascia e usa la pietra\ndrago per trasformarsi in drago.
+MJID_ShadowDragonR	Gran Maligno
+MJID_H_ShadowDragonR	Drago Maligno con il potere dei\nbracciali degli emblemi. Si scatena\nin battaglia con potenti attacchi.
+MJID_MorphWolf	Lupo aberrante
+MJID_H_MorphWolf	Al servizio del Drago Maligno per\nportare il mondo alla rovina. Attacca\ni nemici con zanne maledette.
+MJID_MorphFlyingDragon	Viverna aberrante
+MJID_H_MorphFlyingDragon	Al servizio del Drago Maligno per\nportare il mondo alla rovina.\nDistrugge tutto con il soffio malefico.
+MJID_AvenirR	Reale
+MJID_H_AvenirR	Belligerante che brama la guerra.\nSa cavalcare e usare la lancia.
+MJID_FleurageR	Reale
+MJID_H_FleurageR	Belligerante che brama la guerra.\nAbile con le arti magiche, sa usare\nanche la spada.
+MJID_SuccesseurR	Guardia
+MJID_H_SuccesseurR	Spadaccino che ha perso ogni\ndignità e abbandonato la via\ndella virtù cavalleresca.
+MJID_TirailleurR	Guardia
+MJID_H_TirailleurR	Arciere che ha perso ogni\ndignità e abbandonato la via\ndella virtù cavalleresca.
+MJID_LindwurmR	Piega bestie
+MJID_H_LindwurmR	Fedele al Drago Maligno. Piega la\nvolontà delle bestie. Cavalca una\nviverna e usa tomi e bastoni.
+MJID_SleipnirR	Piega bestie
+MJID_H_SleipnirR	Fedele al Drago Maligno. Piega la\nvolontà delle bestie. Cavalca un\npegaso e usa tomi e bastoni.
+MJID_PitchforkR	Vigilante
+MJID_H_PitchforkR	Annienta i suoi nemici sotto il fallace\npretesto della giustizia. Abile con la\nlancia.
+MJID_CupidoR	Vigilante
+MJID_H_CupidoR	Annienta i suoi nemici sotto il fallace\npretesto della giustizia. Combatte\na dorso di un destriero e usa l'arco.
+MIID_ElAttack	Favilla maligna
+MIID_H_ElAttack	Attacco che sfrutta il potere della\npietra maligna. Dimezza Dif/Res del\nnemico.
+MIID_ElAttack2	Favilla occulta
+MIID_H_ElAttack2	Attacco magico basato su Att fis.\nSfrutta il potere della pietra maligna.\nDimezza Dif/Res del nemico.
+MIID_Evilstone	Pietra maligna
+MIID_H_Evilstone	Una pietra drago in cui alberga il\npotere del Drago Maligno. Dimezza\nDif/Res del nemico.
+MIID_TrueEvilstone	Pietra della rovina
+MIID_H_TrueEvilstone	Una pietra drago con il potere del\nDrago Maligno. Dimezza Dif/Res del\nnemico. Attacca da vicino e lontano.
+MIID_Evilstone_Magic	Pietra occulta
+MIID_H_Evilstone_Magic	Pietra drago con il potere del Drago\nMaligno. Dimezza Dif/Res nemico.\nAttacco magico basato su Att fis.
+MIID_Evilstone_Slayer_Horse	Pietra del massacro
+MIID_H_Evilstone_Slayer_Horse	Una pietra drago in cui alberga il\npotere del Drago Maligno. Dimezza\nDif/Res del nemico. Eff.: cavalleria.
+MIID_Evilstone_Slayer_Fly	Pietra della caduta
+MIID_H_Evilstone_Slayer_Fly	Una pietra drago in cui alberga il\npotere del Drago Maligno. Dimezza\nDif/Res del nemico. Eff.: volanti.
+MIID_H_Liberation_E006	Solo Drago Divino. Att +15 contro\nNil maligno.
+MIID_H_Liberation_E006_Normal	Solo Drago Divino. Att +30 contro\nNil maligno.
+MIID_IlAttack	Assalto maligno
+MIID_H_IlAttack	Una serie di colossali attacchi\na lungo raggio.
+MIID_IlBeam	Raggio maligno
+MIID_H_IlBeam	Un raggio di oscurità che falcia\ni nemici su una vasta area. Ignora\nDif/Res e va sempre a segno.
+MIID_IlRush	Devastazione
+MIID_H_IlRush	Distrugge il terreno intorno all'unità,\nuccidendo alleati e nemici. Assorbe\npotere dalla forza vitale delle vittime.
+MIID_IlAbsorp	Succhia essenza
+MIID_H_IlAbsorp	Uccide all'istante tutte le unità\nnell'area, alleate e nemiche. Assorbe\npotere dalla forza vitale delle vittime.
+MIID_IlSummon	Vortice evocatore
+MIID_H_IlSummon	Crea vortici che evocano aberrazioni.
+MIID_MiasmaBreath	Alito di miasma
+MIID_H_MiasmaBreath	Attacco di miasma che ignora\nDif/Res del nemico. Applica miasma\nsullo spazio del nemico.
+MIID_MiasmaBall	Palla di miasma
+MIID_H_MiasmaBall	Attacco di miasma a distanza. Ignora\nDif/Res e applica miasma allo spazio\nnemico. Congela e silenzia il nemico.
+MIID_ElBento	Pasto di Nel
+MIID_H_ElBento	Avanzi impacchettati con efficienza\nda Nel. Ripristinano 20 PS.
+MIID_RafaleBento	Pasto di Rafal
+MIID_H_RafaleBento	Avanzi impacchettati con sicurezza\nda Rafal. Ripristinano 20 PS.
+MIID_SelestiaBento	Pasto di Zelestia
+MIID_H_SelestiaBento	Avanzi impacchettati con tenerezza\nda Zelestia. Ripristinano 20 PS.
+MIID_GregoryBento	Pasto di Gregory
+MIID_H_GregoryBento	Avanzi impacchettati con cautela\nda Gregory. Ripristinano 20 PS.
+MIID_MadelineBento	Pasto di Madeline
+MIID_H_MadelineBento	Avanzi impacchettati con fierezza\nda Madeline. Ripristinano 20 PS.
+MIID_EnchantSeal	Borsa mistica
+MIID_H_EnchantSeal	Serve a far passare un'unità\nalla classe "incantatore".
+MIID_MageCannonSeal	Cannone magico
+MIID_H_MageCannonSeal	Serve a far passare un'unità\nalla classe "mago artigliere".
+MSID_PrivateSkill_El	Protettivo
+MSID_H_PrivateSkill_El	Se Rafal subisce un attacco nemico,\nottiene Trpl +10 per 1 turno.
+MSID_H_PrivateSkill_El_E	Se Nil subisce un attacco nemico,\nottiene Trpl +10 per 1 turno.
+MSID_PrivateSkill_Rafale	Rivalità
+MSID_H_PrivateSkill_Rafale	Se un alleato nel raggio di 2 spazi\nsconfigge un nemico, l'unità ottiene\nTrpl +10 per 1 turno.
+MSID_PrivateSkill_Il	Orgoglio ferito
+MSID_H_PrivateSkill_Il	Se un alleato nel raggio di 2 spazi\nsconfigge un nemico, l'unità ottiene\nTrpl +10 per 1 turno.
+MSID_PrivateSkill_Selestia	Spinta amichevole
+MSID_H_PrivateSkill_Selestia	Se l'unità sconfigge un nemico,\ngli alleati entro 2 spazi ottengono\nClp +20 per 1 turno.
+MSID_PrivateSkill_Gregory	Piano disperato
+MSID_H_PrivateSkill_Gregory	Se ci sono più nemici che alleati\nnel raggio di 3 spazi, l'unità ottiene\nScv +20.
+MSID_PrivateSkill_Madeline	Codice cavalleresco
+MSID_H_PrivateSkill_Madeline	Se l'unità subisce un attacco nemico\ne c'è un alleato adiacente all'unità,\nquest'ultima subisce 2 danni in\nmeno.
+MSID_PrivateSkill_Alfred_E	Autodifesa
+MSID_PrivateSkill_Celine_E	Bocciolo feroce
+MSID_PrivateSkill_Diamand_E	Adesso basta
+MSID_PrivateSkill_Staluke_E	Arroganza
+MSID_PrivateSkill_Ivy_E	Ultima parola
+MSID_PrivateSkill_Hortensia_E	Aiuto segreto
+MSID_PrivateSkill_Misutira_E	Dignità solmica
+MSID_PrivateSkill_Fogato_E	Sfinimento
+MSID_JobSkill_MorphFlyingDragon	Dominio di miasma
+MSID_H_JobSkill_MorphFlyingDragon	All'inizio della fase giocatore,\napplica miasma al terreno nel\nraggio di 2 spazi dall'unità.
+MSID_JobSkill_ShadowPrincessR	Vincolo emblema
+MSID_H_JobSkill_ShadowPrincessR	Se l'unità viene attaccata con un\nattacco unione, subisce il 20% di\ndanni in meno.
+MSID_JobSkill_ShadowLordR	Sprone emblema
+MSID_H_JobSkill_ShadowLordR	All'inizio della fase giocatore,\nla barra unione degli alleati\nadiacenti si riempie di 1.
+MSID_DisplaySkill_DamageCut	Sigillo protettivo
+MSID_H_DisplaySkill_DamageCut	L'unità subisce 50 danni in meno e\nla probabilità del nemico di sferrare\nun attacco triplo si riduce del 50%.
+MSID_ChainAttackDamageWeaken+	Spezzalegame+
+MSID_H_ChainAttackDamageWeaken+	La precisione degli attacchi\nconcatenati nemici è sempre al 10%.\nIl danno subito è ridotto.
+MSID_H_SenerioEngage_DarkSide	Se l'unità attacca con un tomo,\nrecupera in PS il 50% del danno\ninflitto.
+MSID_H_SenerioEngageAtk_DarkSide	Attacca con magia di fuoco, tuono\ne vento i nemici in un'area. Vento\nefficace contro volanti.
+MAID_ElWear	Abito artistico
+MAID_H_ElWear	Abbigliamento quotidiano di Nel, discendente del Drago Maligno. Con gli\nanni e i numerosi ritocchi, si è sviluppato uno stile davvero unico.
+MAID_RafaleWear	Abito classico
+MAID_H_RafaleWear	Abbigliamento quotidiano di Rafal, discendente del Drago Maligno.\nLo stile semplice mette in risalto il pendente uguale a quello di Nel.
+MAID_SelestiaWear	Vestito elegante
+MAID_H_SelestiaWear	Abbigliamento quotidiano di Zelestia, capo dei Quattro Venti. Un abito\nraffinato per le giornate tranquille. La lunga chioma è spesso di impiccio.
+MAID_GregoryWear	Mantella maligna
+MAID_H_GregoryWear	Abbigliamento quotidiano di Gregory, vice dei Quattro Venti. I simboli del\nDrago Maligno rappresentano la sua devozione a Nel, Rafal e agli amici.
+MAID_MadelineWear	Plissé perfetto
+MAID_H_MadelineWear	Abbigliamento quotidiano di Madeline dei Quattro Venti. Lascia trasparire\nil suo amore per i fiocchi, ma riesce a mantenere un'aria matura.
+MID_LVUP_1_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x0E\x04エル\x06Die\n\x0E\x03\x02\x06\x04エル\nSperavo meglio.\x0E\x04\x00\x00
+MID_LVUP_2_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nSarà meglio accontentarsi.\x0E\x04\x00\x00
+MID_LVUP_3_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nSaranno gli altri a valutare il mio operato.\nIo mi concentro su ciò che mi attende.\x0E\x04\x00\x00
+MID_LVUP_4_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nSe ciò soddisfa il Drago Divino, allora sono\nsoddisfatta anche io.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nPuò bastare.\x0E\x04\x00\x00
+MID_LVUP_CC_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nSono onorata di ricevere una tale benedizione\ndal Drago Divino.\x0E\x04\x00\x00
+MID_LVUP_1_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x14\nラファール\x06Sad\n\x0E\x03\x02\x0C\nラファール\nNo... Non sarò un fallimento...\x0E\x04\x00\x00
+MID_LVUP_2_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nMa non finisce qui.\x0E\x04\x00\x00
+MID_LVUP_3_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0ESerious\n\x0E\x03\x02\x0C\nラファール\nCiò che mi aspettavo, ma posso ancora fare\ndi meglio.\x0E\x04\x00\x00
+MID_LVUP_4_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1A\nラファール\x0CStrike\n\x0E\x03\x02\x0C\nラファール\nSii testimone del mio potere, Drago Divino!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nSmile\n\x0E\x03\x02\x0C\nラファール\nOra sì che ho ottenuto il vero potere.\x0E\x04\x00\x00
+MID_LVUP_CC_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0EStandBy\n\x0E\x03\x02\x0C\nラファール\nContinuerò ad annientare i nostri nemici, in\nquesta o qualsiasi altra forma.\x0E\x04\x00\x00
+MID_LVUP_1_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x16\x0Cセレスティア\x06Sad\n\x0E\x03\x02\x0E\x0Cセレスティア\nChe strano, sono ancora giovane per essere\nun Drago Magico. Dovrei migliorare più\nvelocemente.\x0E\x04\x00\x00
+MID_LVUP_2_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nAnche i piccoli passi riempiono di gioia il mio\ncuore!\x0E\x04\x00\x00
+MID_LVUP_3_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nAngry\n\x0E\x03\x02\x0E\x0Cセレスティア\nVoglio ottenere una potenza che mi renda degna\ndel mio ruolo di capo dei Quattro Venti.\x0E\x04\x00\x00
+MID_LVUP_4_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nRelax\n\x0E\x03\x02\x0E\x0Cセレスティア\nSono sempre più abile. Ora sento di poter\naffrontare qualsiasi pericolo!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nSono diventata molto più forte di quanto non\nfossi nel mio mondo precedente... non c'è\nparagone!\x0E\x04\x00\x00
+MID_LVUP_CC_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nÈ divertente! Non mi sono mai dilettata a\nprovare costumi differenti. Mi dona, Drago\nDivino?\x0E\x04\x00\x00
+MID_LVUP_1_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Sad\n\x0E\x03\x02\x0C\nグレゴリー\nI cambiamenti fanno paura, ma anche il non\ncambiare affatto...\x0E\x04\x00\x00
+MID_LVUP_2_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Shy\n\x0E\x03\x02\x0C\nグレゴリー\nUhm... questo dovrebbe aiutarmi a evitare\nalmeno un po' di dolore, vero?\x0E\x04\x00\x00
+MID_LVUP_3_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\nUserò questo potere per aiutare a liberare\nil mondo dalla paura e dal dolore!\x0E\x04\x00\x00
+MID_LVUP_4_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1E\nグレゴリー\x10Surprise\n\x0E\x03\x02\x0C\nグレゴリー\nUn momento! Che mi è successo?\nDovrei rallegrarmi, vero?\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1A\nグレゴリー\x0CStatus\n\x0E\x03\x02\x0C\nグレゴリー\nNon so se potrei reggere un potere più\ngrande di questo.\x0E\x04\x00\x00
+MID_LVUP_CC_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nSmile\n\x0E\x03\x02\x0C\nグレゴリー\nCome sto? Spero che questo aspetto tenga\ni nemici ancora più lontani.\x0E\x04\x00\x00
+MID_LVUP_1_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Sad\n\x0E\x03\x02\x0C\nマデリーン\nChe vergogna. Farò meglio la prossima volta.\x0E\x04\x00\x00
+MID_LVUP_2_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x1C\nマデリーン\x0ESerious\n\x0E\x03\x02\x0C\nマデリーン\nUna prestazione appena adeguata da parte mia.\nDevo allenarmi più duramente!\x0E\x04\x00\x00
+MID_LVUP_3_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nSmile\n\x0E\x03\x02\x0C\nマデリーン\nVisto? Sono giovane, ma me la cavo bene!\x0E\x04\x00\x00
+MID_LVUP_4_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nPer una volta, solo per questa volta, forse mi\nmerito un complimento.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nNon ce l'avrei mai fatta senza tutti gli amici\ne gli alleati al mio fianco.\x0E\x04\x00\x00
+MID_LVUP_CC_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Shy\n\x0E\x03\x02\x0C\nマデリーン\nNon voglio fare la difficile, ma questo completo\nè un po' diverso da quello a cui sono abituata...\x0E\x04\x00\x00
+MID_RELAY_Stamp_El_0	Chiedo perdono.
+MID_RELAY_Stamp_Rafale_0	Non deludermi.
+MID_RELAY_Stamp_Selestia_0	Ci divertiremo!
+MID_RELAY_Stamp_Gregory_0	Spero che non faccia male.
+MID_RELAY_Stamp_Madeline_0	Non sono una bambina!
+MID_BGM_DLC_Evt_Twin_ST_Play	La speranza dei draghi gemelli
+MID_BGM_DLC_Evt_Twin_Exposed_ST_Play	Sogni irrealizzati
+MID_BGM_DLC_Sys_Gmap_ST_Play	Il viaggio del drago
+MID_BGM_DLC_Field_P14_Map_ST_Play	Salvezza e perdita
+MID_BGM_DLC_Field_P14_Combat_ST_Play	Salvezza e perdita (ribellione)
+MID_BGM_DLC_Field_P15_ST_Play	Unione specchiata
+MID_BGM_DLC_Boss_07_Pre_ST_Play	L'incostante
+MID_BGM_DLC_Boss_07_Start_ST_Play	L'incostante (furia)
+MID_BGM_DLC_Sys_ED2_ST_Play	La fine del viaggio
+MID_BGM_DLC_Mov_GOP_Full_ST_Play	Unione emblema! (ver. completa)
+MID_BGM_DLC_Field_P15_Pre_ST_Play	Risveglio dal breve sonno
+MID_BGM_DLC_Evt_Twin_Past_ST_Play	Ricordi
+MID_Hub_Well_Difficulty_Change	Difficoltà
+MID_Hub_Well_Difficulty_Change_Confirm	Vuoi cambiare la difficoltà dei capitoli maligni?\n(La difficoltà della storia principale non verrà\nmodificata. Puoi cambiare questa impostazione\nin qualunque momento.)
+MID_Hub_Well_Difficulty_Change_Before	Difficoltà attuale
+MID_Hub_Well_Difficulty_Change_Normal	Passa a "Normale"
+MID_Hub_Well_Difficulty_Change_Hard	Passa a "Difficile"
+MID_Hub_Well_Difficulty_Change_Lunatic	Passa a "Folle"
+MID_Hub_Well_Difficulty_Change_Cancel	Annulla
+MID_Hub_Well_Difficulty_Change_Dialog	Difficoltà dei capitoli maligni\nimpostata su "\x0E\x01\x00\x00".
+MID_FORTUNE_TROUBLE_El	Fa preoccupare tutti\nmangiando limoni interi.
+MID_FORTUNE_TROUBLE_Rafale	Quando mangia i dolci,\nsul suo volto appare\nun sorriso intontito.
+MID_FORTUNE_TROUBLE_Selestia	Gli uccellini spesso\nbeccano i suoi corni.
+MID_FORTUNE_TROUBLE_Gregory	Il suo pupazzo preferito\npare un po' consumato.
+MID_FORTUNE_TROUBLE_Madeline	Ama i fiocchi, ma\nnon sa legarli.
+MID_Movie_E07	Ricordi di un altro mondo
+MID_H_Movie_E07	Il Drago Divino è stato evocato in un\naltro Elyos da due Draghi Maligni gemelli\nper combattere per i sette bracciali.

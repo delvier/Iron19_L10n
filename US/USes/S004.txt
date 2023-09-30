@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nEsto me resulta muy familiar...\nMe recuerda a mi hogar.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\n¿A tu hogar? ¿Te refieres al mundo\ndel que provienes?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04リン\nSí. Este lugar es idéntico a las llanuras\nde Sacae, donde nací.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04リン\nRecuerdo bien su belleza.\nDe pequeña, me parecían infinitas.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nEs un paisaje realmente hermoso...\ny el viento es tan agradable.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x06\x04リン\nMe alegra que lo veas así,\naunque no sea mi verdadero hogar.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04リン\nNos levantábamos al alba, atendíamos\nel ganado, jugábamos y nos íbamos a dormir.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04リン\nAsí transcurrían los días en las llanuras,\npero no hay nada eterno...\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\n¿Puedes contarme qué ocurrió?\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04リン\nLa tribu Lorca, mi gente, fue atacada\npor unos bandidos. Mataron a muchos...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04リン\nEran unos cobardes. Envenenaron el agua\ny aprovecharon el caos para atacar.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nEs horrible...\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04リン\nSí, pero las llanuras de Sacae son nuestra tierra,\ny siempre nos han bendecido con abundancia.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04リン\nAunque sean el origen de muchos recuerdos\ndolorosos, siguen siendo mi hogar.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x06\x04リン\nBasta de lamentos.\n¡Ver estas llanuras me da ánimos!\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04リン\n¡Prepara tu espada! Te mostraré la destreza\nde una guerrera de la tribu Lorca.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nSerá un honor, aunque no me ganarás\ntan fácilmente.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nHe superado muchas dificultades en la vida,\ny esta no será la última.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x06\x04リン\nNuestro vínculo se fortalecerá con\neste combate, igual que mi poder.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x06\x04リン\n¡Así que emplea toda tu fuerza!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\n¿Estás list\x0E\x0A\x00\x08\x02o\x02a? ¡Pues ataca de una vez!\n¡No te contengas en absoluto!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nOigo voces de soldados enemigos\nen esas tiendas. Ataquemos cuanto antes.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nNo voy a quedarme de brazos cruzados.\n¡Yo también lucharé!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x0E\x04リン\x06Die\n\x0E\x03\x02\x06\x04リン\nLas llanuras, con sus praderas y su viento,\nme convirtieron en la guerrera que soy.\n¿Estás list\x0E\x0A\x00\x08\x02o\x02a para enfrentarte a mí?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nAún debo mejorar, pero me he hecho\nmás fuerte durante nuestro viaje.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x06\x04リン\nMe alegra oír que te sientes más fuerte,\n¡porque no pienso contenerme!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nSe me hace raro pelear contra ti.\nMe recuerda a mi padre y todo lo que ocurrió.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nPues a mí me hace feliz. Es todo un orgullo\nenfrentarse a alguien tan hábil como tú.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nOjalá mi padre me hubiera animado así.\nAdelante, comencemos.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nVerte me hace soñar con el regreso de mi padre,\npero no es así como funciona el mundo...\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x14\x04リン\x0CStatus\n\x0E\x03\x02\x06\x04リン\nPor desgracia, no puedo sustituir\na tu padre ni a su recuerdo.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x12\x04リン\nSmile\n\x0E\x03\x02\x06\x04リン\nTe has vuelto muy poderosa.\n¡Demuéstrame cuánto has mejorado!\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x1E\x0Cオルテンシア\x0EStandBy\n\x0E\x03\x02\x0E\x0Cオルテンシア\nNo solo soy fuerte, sino también encantadora.\n¡Mi padre estaría orgulloso de mí!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nVaya, me has ganado.\nEres muy fuerte.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nY tú tan diestra y poderosa como esperaba...\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nDe haber crecido en las llanuras,\n¿podría haber sido como tú?\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04リン\nQuizá. Aquí aprendí a luchar, pero Eliwood\ny Héctor me enseñaron mucho más.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x06\x04リン\nViajamos juntos mucho tiempo. A veces,\ncompetíamos entre nosotros, como ahora.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04リン\nMe mostraron lo que era la justicia y el valor,\ny me dieron fuerza para confiar en los demás.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04リン\nEsa fuerza es la que me ha convertido\nen lo que soy ahora.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nCuando desperté, no recordaba nada\ny no tenía a nadie en quien confiar.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nAhora, estoy rodead\x0E\x0A\x00\x08\x02o\x02a de amigos que me\nenseñan sobre el mundo y sobre mí mism\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nEspero que, al final de mi viaje,\nsea tan fuerte como ellos y como tú.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04リン\n¡Estoy convencida de que me superarás!\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04リン\n¡Siempre estaré dispuesta a ayudarte!\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nMuchas gracias, Lyn.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

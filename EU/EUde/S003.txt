@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x0A\x08リュール\nWas ist das für ein Ort, Lucina? Ich spüre hier\neine seltsame Kraft.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ルキナ\nDas sieht genauso aus wie die Feroxer Arena.\nWie merkwürdig.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nFerox? Ein Ort aus deiner Welt, nicht wahr?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ルキナ\nJa. Ferox ist ein Königreich, geteilt in einen\nWest- und einen Ostteil. Über jeden Teil\nherrscht ein militärischer Khan.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ルキナ\nAlle paar Jahre wird ein Kampfturnier\nveranstaltet, um festzulegen, welcher Khan\nregieren darf.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06ルキナ\nIn der Feroxer Arena habe ich mit meinem\nVater die Schwerter gekreuzt.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nEr hat dich den Schwertkampf gelehrt, nicht\nwahr? Es muss ein interessanter, wenngleich\nheftiger, Kampf gewesen sein.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ルキナ\nJa. Es war ein harter Kampf. Er wusste nicht,\nwer ich war, und hat sich nicht zurückgehalten.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ルキナ\nEr hat mich gut trainiert, doch erst in diesem\nKampf erkannte ich, wie stark mein Vater\nwirklich war.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ルキナ\nDas muss der Grund sein, aus dem dieser\nvertraute Platz als Prüfungsort gewählt wurde.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nPrüfungsort? Was soll das bedeuten?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ルキナ\nWir beide fühlen die außergewöhnliche Kraft\nhier. Sag mir, wie sie sich für dich anfühlt, ganz\ntief drin.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nEs ist fast, als würde ich deine Macht spüren...\nAber auch, als ob du weit weg wärst.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ルキナ\nIch verstehe. Dann zieh deine Waffe und kämpfe\ngegen mich. Bestehe die Prüfung, auf dass\nunsere Bande stärker werden.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06ルキナ\nMit stärkeren Banden erhältst du Zugriff auf\neinen größeren Teil meiner Emblemmacht.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nIch hoffe, ich kann in der Arena ebenso viel\nlernen wie du.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06ルキナ\nDas höre ich gern. Doch...\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06ルキナ\nDu wirst mehr brauchen als nur Hoffnung, um\ndiesen Kampf zu gewinnen.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nDu wirst überrascht sein, wenn du denkst, ich\nbringe nicht mehr als Hoffnung in diesen\nKampf mit.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06ルキナ\nSo will ich das hören, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x18\x06ルキナ\x0EStandBy\n\x0E\x03\x02\x08\x06ルキナ\nHalt dich nicht zurück. Stärke unsere Bande.\nKämpfe mit allem, was du hast, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x14\x06ルキナ\nAngry\n\x0E\x03\x02\x08\x06ルキナ\nWas ist los, \x0E\x06\x03\x00? Du wirst nicht\ngewinnen, indem du nur herumstehst.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDeine Haltung hat keine Öffnung. Ich weiß\nnicht, wie ich dich treffen soll, egal, wohin mein\nSchlag auch geführt wird.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06ルキナ\nDeine Zweifel vernebeln deine Angriffe. Hab\nVertrauen in dich und greif mich an, mit allem,\nwas du hast!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nVerstanden. Es geht los!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJunge, in dieser Arena haben die Khane um das\nRecht des Herrschens gekämpft? Es ist fast,\nals hätte uns das Schicksal hierhergebracht.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x03\x02\x08\x06ルキナ\nDie Khane selbst haben nicht gekämpft. Dafür\nhaben sie Stellvertreter ausgewählt.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStatus\n\x0E\x03\x02\x0E\x0Cアルフレッド\nPuh! In diesem Fall ist es unser Glück, dass es\nsich nicht um die echte Arena handelt.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x08\x06ルキナ\n\x0E\x05\x01\x16\x06ルキナ\x0CStatus\nHahaha, in der Tat. Und jetzt greif mich an!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x08\x06ルキナ\nIch habe verloren. Deine Kampffähigkeiten\nhaben sich enorm verbessert, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ルキナ\nIm Vergleich zu unserem ersten Treffen bist du\njetzt ein starker und überragender Gegner.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nDanke. Dazu hat in nicht unbedeutendem Maße\ndeine Führung beigetragen, Lucina.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ルキナ\nWelch freundliche Worte. Wenn ich dir über-\nhaupt irgendwie helfen konnte, dann macht\nmich das sehr glücklich.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06ルキナ\nDaraus können wir was lernen. Die Möglich-\nkeiten, die eine Person allein hat, sind begrenzt.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nDa stimme ich zu. Allein wäre ich niemals so\nweit gekommen.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nAlles, was ich erreicht habe, verdanke ich jenen,\ndie an meiner Seite kämpfen.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ルキナ\nIch bin froh, das zu hören. Ich fühle meine\nFreunde bei mir, selbst jetzt. Denn ihr Geist\nlebt in mir fort.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nIhr Geist lebt fort...\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルキナ\nDie Kraft meiner Bande mit ihnen half uns, eine\nhoffnungslose Zukunft zu verändern.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06ルキナ\nGenau so ist es jetzt bei dir und deinen\nVerbündeten.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nDu bist eine dieser Verbündeten, Lucina, nicht\nwahr?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ルキナ\nNatürlich. Ich kämpfe mit dir zusammen bis zum\nbitteren Ende.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nDann können wir gar nicht verlieren. Ganz egal,\nwas die Welt uns entgegensenden mag.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06ルキナ\nDa hast du recht. Unsere Bande sind weitaus\nstärker als das Schicksal!\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

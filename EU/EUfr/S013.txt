@@ -1,0 +1,48 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x0A\x08リュール\nCette île a quelque chose de particulier...\nOn dirait qu'une énergie magique en émane...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06セリカ\nLe sanctuaire marin se trouvait dans un lieu\ntrès similaire.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nDe quel genre d'endroit s'agissait-il ?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06セリカ\nIl se trouvait dans le détroit de Novis,\nau large de Zofia. Une grotte y abritait\nun autel dédié à la déesse Mila.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nJe me demande si cet endroit recèle également\nun autel.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06セリカ\nRevoir cette île me rappelle cette époque.\nJe commençais à peine à découvrir la vie.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06セリカ\nJ'étais tellement obstinée par mes propres\nidéaux que je n'ai pas su écouter mes alliés.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nÇa ne vous ressemble pas. Pas telle que\nje vous connais, en tout cas.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06セリカ\nÀ l'époque, je me rendais au temple de Mila\ndans l'espoir d'y découvrir le moyen de sauver\nma patrie.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06セリカ\nSur cette île, nous avons dû faire face à un\nnécrodragon. Il aurait pu tous nous tuer.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06セリカ\nNous venions tout juste d'affronter une bande\nde pirates... Quand j'y repense, je me rends\ncompte de notre inconscience.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nIl me semble que vous aidiez les gens\nau cours de vos pérégrinations.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06セリカ\nAuriez-vous donc fait les mêmes choix que moi,\n\x0E\x06\x03\x00 ?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nNaturellement. Il m'est impossible d'ignorer\nquelqu'un dans le besoin, peu importe le\ndanger de la situation.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06セリカ\nJe savais que vous répondriez ça. Vous êtes\nfort\x0E\x0A\x00\x06
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nJe ne suis pas sûr\x0E\x0A\x00\x06
+MID_OP1_#017	\x0E\x03\x02\x08\x06セリカ\nVotre épreuve est ici.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06セリカ\nBattez-moi en combat, et le lien qui nous unit\nn'en sera que plus solide.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06セリカ\nPrenez votre arme, et voyons jusqu'où votre\ncourage peut vous mener.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nJe comprends, et je vais gagner !\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nLes préparatifs pour le combat sont\nterminés. Commençons.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIl y a un invocateur. Il va falloir s'en occuper\nrapidement, sous peine de nous faire\nsubmerger.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x18\x06セリカ\x0ESerious\n\x0E\x03\x02\x08\x06セリカ\nVous êtes une personne bienveillante,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x10\x06セリカ\x06Sad\n\x0E\x03\x02\x08\x06セリカ\nMais la bienveillance ne suffit pas pour sauver\nle monde.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJ'ai appris que la force aussi était nécessaire.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nN'avoir que l'une de ces qualités est l'assurance\nde la défaite. Les deux sont indispensables.\nMontrez-moi que vous le comprenez.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nVous semblez d'excellente humeur, Alfred.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJe pensais à une chose... Vous êtes en Firene\ndepuis si longtemps, mais vous ne connaissez\npas l'étendue de notre force !\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nEh bien, vous êtes sûr de vous.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nQui ne le serait pas quand la victoire\nest acquise ?\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x16\x06セリカ\x0CStatus\n\x0E\x03\x02\x08\x06セリカ\nJe dois admettre que c'est assez étrange\nde nous retrouver face à face, Céline.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x12\x08セリーヌ\x06Sad\n\x0E\x03\x02\x0A\x08セリーヌ\nN'est-ce pas ? J'aurais préféré bavarder autour\nd'une tasse de thé. Mais comme il s'agit d'une\népreuve, cela devra attendre.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x18\x08セリーヌ\x0CStrike\n\x0E\x03\x02\x0A\x08セリーヌ\nAlors plutôt que de deviser poliment, je vais\ncombattre de toutes mes forces. Vous êtes\nd'accord ?\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\x06セリカ\x0EStandBy\n\x0E\x03\x02\x08\x06セリカ\nBien entendu. Attaquez-moi, vous devez faire\ntout votre possible pour remporter la victoire.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x08\x06セリカ\nLa victoire vous appartient. Je vous félicite,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nMerci, Celica.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06セリカ\nVous gagnez en puissance en même temps\nque vos liens gagnent en force.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06セリカ\nContinuez à entretenir de solides relations avec\nvos alliés tandis que vous menez cette guerre.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06セリカ\nAinsi, vous aurez en vous la force de sauver\nle monde.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nJe comprends, et je ferai de mon mieux pour\nrenforcer les liens que je partage tout en en\nnouant de nouveaux.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06セリカ\nQuand cette force vous aura permis de rétablir\nla paix, vous pourrez vous reposer sur votre\nbienveillance.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06セリカ\nC'est la bienveillance qui permet de bâtir un\nmonde où personne ne fait souffrir les autres\npar pur plaisir.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nPensez-vous vraiment que je puisse y arriver ?\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06セリカ\nOh, le chemin sera long et parfois traître, mais\nsi quelqu'un peut mener à bien un tel voyage,\nc'est bien vous.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nJ'espère que vous avez raison, Celica.\nJe n'ai guère d'autre choix que de m'y efforcer.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06セリカ\nDans ce cas, continuez à faire de votre mieux.\nNous ramènerons la bonté en ce monde,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nOui, nous y parviendrons !\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

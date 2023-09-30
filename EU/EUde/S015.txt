@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nOh! Trügen mich meine Augen?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06マルス\nWas für eine Überraschung. Hier sieht es aus\nwie im Schlosspark von Schloss Lythos.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nAlso bin ich nicht \x0E\x0A\x00\x10\x06der\x06die Einzige, \x0E\x0A\x00\x10\x06der\x06die das sieht?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06マルス\nEs sieht aus wie das Schloss, und es fühlt sich\nauch so an. Die Luft, der Geruch – alles.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nRecht habt Ihr. Ich habe viele Jahre im Schloss\ngedient und doch hat mich diese Vision\nzunächst genarrt.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nIch weiß, es ist nicht echt, und doch werden\nErinnerungen wach.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nMeine Mutter trainierte mit mir im Schlosspark.\nDie Blumen standen in voller Blüte – so wie\ndiese.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0C\nヴァンドレ\nIch erinnere mich gut. Doch nach dem Angriff\nblieben von dem Park nur Ruinen übrig.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nJa, so war es...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nSeht! Dort drüben! Ich sehe dort etwas\nschimmern. Seht Ihr es auch?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nIst das ein Altar? Und auf dem Altar... liegt ein\nRing!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nIch war der Meinung, wir hätten alle Emblem-\nRinge zusammen. Kann es denn wirklich noch\nweitere geben?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nVielleicht ein Emblem, von dem wir nichts\nwissen? Sehen wir uns das mal an!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nWartet. Ich fühle eine Präsenz... Feinde sind in\nder Nähe.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x024\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRRRAAAR...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x00\x1C\x16S015_異形兵_蛮族\x021\n\x0E\x03\x02\x18\x16S015_異形兵_蛮族\nGraaar...\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nVerzerrte?! Sie müssen es auf den Ring\nabgesehen haben!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nWir können nicht zulassen, dass sie den Ring\nnehmen. Er könnte einem weiteren Emblem\ngehören!\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0C\nヴァンドレ\nIch werde erneut an Eurer Seite kämpfen,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche!\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\nHm. Dieser Ring... Könnte es sein?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGRUAAAAR!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nVerstärkung?!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGRAAAAH!\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nOh nein... Sie haben den Ring genommen.\nWir haben versagt.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nGraaar...\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nGRAAAAAR!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nDies ist so wie damals, als ich gegen die\nSoldaten kämpfte, die meine Mutter für unseren\nÜbungskampf erschuf.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMutter ist fort, doch wo immer sie jetzt auch\nsein mag – ich werde ihr zeigen, wie stark ich\ngeworden bin!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nGraaar!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nWir konnten uns den Ring nehmen! Aber er\nscheint kein Emblem zu enthalten. Seltsam.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nヴァンドレ\nIst das einfach nur ein normaler Ring?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nSo scheint es, doch wenn ich den Ring halte,\nregt sich tief in mir eine Wärme.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06マルス\nGenau das habe ich geahnt.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nUnd was scheint Ihr zu ahnen?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nDas ist der „Paktring“. Er gehört der Wyrm-\ngottkönigin Lumera – und er besitzt ihre\nMacht.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nWas wisst Ihr noch über diesen Paktring,\nMarth?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nLumera sagte einst, dass die Wyrmgötter\ndemjenigen, dem sie wahrhaftig vertrauen,\neinen besonderen Ring schenken.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06マルス\nDer Ring stärkt das Band zwischen diesen\nbeiden und bringt sie einander näher.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06マルス\nDie Stärke dieses Rings verleiht sowohl \x0E\x0A\x00\x10\x06dem\x06der\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin als auch der verbundenen Person\nMacht.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nAlso gab Mutter diesen Ring einst jemandem,\ndem sie vertraute und mit dem sie in besonderer\nWeise verbunden war?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06マルス\nDas ist das, was ich ebenfalls vermutet hatte.\nAber sie verlor ihre Freunde und Verbündeten\nim Krieg.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06マルス\nDaher können wir nicht sagen, ob sie den Ring\nüberhaupt jemandem gegeben hat.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMutter...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06マルス\nAber wir wissen, dass Ihr die wichtigste Person\nin ihrem Leben gewesen seid.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06マルス\nIhr solltet den Ring erben, ich bin mir sicher.\nDann gebt ihn jener Person, der Ihr am meisten\nvertraut.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nIch werde lange und gut darüber nachdenken,\nbevor ich mich entscheide, wer seiner würdig\nist.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0C\nヴァンドレ\nDass wir nun an diesem Ort sind, muss Königin\nLumeras Werk sein.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nDas ist ein schöner Gedanke, dass Mutter über\nmich wacht. Aber der Kampf, der vor mir liegt,\nist mein Kampf. Ich muss stark sein.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nGehen wir. Ich möchte diesen Ort nicht\nverlassen, aber es gibt viel zu tun.\x0E\x04\x00\x00

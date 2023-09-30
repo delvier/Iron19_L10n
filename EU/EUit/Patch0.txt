@@ -1,0 +1,274 @@
+MID_SYS_Unknown	???
+MID_SYS_Arg_Bracelet	/Bracciale
+MID_SYS_Arg_Bracelets	/Bracciali
+MID_SYS_Arg_Bracelet_UNCAP	/bracciale
+MID_SYS_Arg_Bracelets_UNCAP	/bracciali
+MID_KEYHELP_MENU_TOGGLE	Scegli/Rimuovi
+MID_H_INFO_Emblem_GoodWeapon	\x0E\x01\x00\x00: \x0E\x01\x01\x00
+MID_MSG_DLC_NOT_FOUND	Impossibile caricare perché mancano\ni contenuti scaricabili. Se hai già acquistato\nquesti contenuti, scaricali di nuovo dal\nNintendo eShop.
+MID_MSG_PATCH_NOT_FOUND	Contenuto non disponibile al momento.
+MID_DLC_News_Patch0_Title	Ver. 1.1.0
+MID_DLC_News_Patch0	Pass di espansione\n\n・ È stato aggiunto l'emblema Edelgard (con Dimitri e Claude).\n　 Si uniranno al tuo gruppo quando attivi l'evento al belvedere\n　 nel Somniel.\n\n・ È stato aggiunto l'emblema Tiki.\n　 Si unirà al tuo gruppo quando avrai completato\n　 il suo capitolo divino.\n\n・ È stato aggiunto il bonus 1 del pass di espansione.\n　 Riceverai automaticamente degli oggetti per aumentare\n　 i parametri, inclusi gli stivali, se hai acquistato il pass\n　 di espansione.\n\n・ Sono stati aggiunti nuovi accessori alla boutique.\n　 Questi includono il set raro, la fascia increspata,\n　 il grande fiocco, l'orecchino singolo e le lenti rotonde.\n\nContenuto gratuito\n\n・ Riceverai materiali per affinare le armi quando\n　 entrerai nel Somniel dopo aver completato il capitolo 4.
+MID_MSG_GET_ITEM_DLC_Accessory1	Bonus 1 del pass di espansione ricevuto.
+MID_MSG_GET_ITEM_Patch0	Bonus 1 dell'aggiornamento gratuito ricevuto.
+MID_SYS_EncounterBattleMap	Scaramucce
+MID_SYS_WorldMap	Mappa del mondo
+MID_SYS_GodMap	Capitoli divini
+MID_SysDialog_Move_Title	Scegli la destinazione.
+MID_SysDialog_Move_Hub	Al Somniel
+MID_SysDialog_Move_WorldMap	Alla mappa
+MID_SysDialog_Move_GodMap	Ai capitoli divini
+MID_SysDialog_Move_Cancel	Annulla
+MID_MSG_Encount_WorldMap	Scaramuccia nella mappa del mondo.
+MID_MSG_Encount_GodMap	Scaramuccia nei capitoli divini.
+MID_SYS_LINK	COESIONE!
+MID_SYS_BondCombi4	Legame accademico
+MID_PLACE_God	Terra sconosciuta
+MCID_G001_PREFIX	Capitolo divino
+MCID_G001	L'Antenata
+MCID_G001_PLACE	Tempio del drago
+MCID_G001_OUTLINE	Hai scoperto l'esistenza di un\nbracciale nel gelido tempio di un\ndrago mistico.
+MID_RULE_G001_WIN	Sconfiggi l'emblema Tiki.
+MTID_MagicDoor	Porta magica
+MTID_IceBarrier	Barriera di ghiaccio
+MTID_Lake	Lago
+MTID_Unknown	???
+MTID_IceTile	Gelo
+MTID_Smoke	Fumo
+MPID_PhantomFlyingDragon	Creatura
+MPID_H_PhantomFlyingDragon	Viverna senza anima, creata con una\ntecnica segreta. Non ha volontà\npropria ed esegue soltanto gli ordini.
+MPID_Edelgard	Edelgard
+MPID_H_Edelgard	L'emblema dei Rivali. Raffinata e\nsignorile principessa imperiale\ndelle fiamme.
+MPID_Dimitri	Dimitri
+MPID_H_Dimitri	L'emblema dei Rivali. Saggio e\nvirtuoso principe di un regno\ndi cavalieri.
+MPID_Claude	Claude
+MPID_H_Claude	L'emblema dei Rivali. Enigmatico\ne calcolatore erede di un ducato.
+MPID_Tiki	Tiki
+MPID_H_Tiki	L'emblema dei Draghi. Giovane\ne ingenua ragazza in cui scorre\nil sangue dei Draghi Divini.
+MGID_Edelgard	Edelgard
+MGID_H_Edelgard	L'emblema dei Rivali. Abile con\nle asce, con le quali sbriciola ogni\nnemico.
+MGID_H_EnemyEdelgard	Un emblema risvegliatosi dal\nbracciale delle Tre Case.
+MGID_Dimitri	Dimitri
+MGID_H_Dimitri	L'emblema dei Rivali. La sua abilità\ncon le lance gli permette di attaccare\nper primo e giocare con i nemici.
+MGID_H_EnemyDimitri	Un emblema risvegliatosi dal\nbracciale delle Tre Case.
+MGID_Claude	Claude
+MGID_H_Claude	L'emblema dei Rivali. Abile con gli\narchi e ingegnoso stratega, riesce\nsempre a raggirare i nemici.
+MGID_H_EnemyClaude	Un emblema risvegliatosi dal\nbracciale delle Tre Case.
+MGID_Tiki	Tiki
+MGID_H_Tiki	L'emblema dei Draghi. Si trasforma\nin un drago che può decimare i\nnemici con il suo temibile soffio.
+MGID_H_EnemyTiki	Un emblema risvegliatosi dal\nbracciale dell'Antenata.
+MGEID_Edelgard	Rivali
+MGEID_Tiki	Draghi
+MJID_PhantomFlyingDragon	Viverna illusoria
+MJID_H_PhantomFlyingDragon	Viverna che sorvola liberamente\nil campo di battaglia e attacca con\nsoffi infuocati.
+MJID_H_EmblemB	Eroi provenienti da un altro mondo,\nrinchiusi in bracciali. Possiedono\npoteri inimmaginabili.
+MIID_IceBreath	Soffio ghiacciato
+MIID_H_IceBreath	Un attacco congelante che ignora\nDif/Res del nemico e lo congela.
+MIID_IceBall	Palla di ghiaccio
+MIID_H_IceBall	Un attacco congelante a lungo raggio\nche ignora Dif/Res del nemico e\nlo congela.
+MIID_Tiki_Claw	Artiglio eterno
+MIID_H_Tiki_Claw	Attacco dell'emblema Tiki.\nInfligge facilmente ferite fatali.
+MIID_Tiki_Tail	Schianto di coda
+MIID_H_Tiki_Tail	Attacco dell'emblema Tiki che\nschianta il nemico. Non ha attacco\ndoppio. Il nemico attacca per primo.
+MIID_Tiki_Breath	Alito igneo
+MIID_H_Tiki_Breath	Attacca area e dimezza Dif nemico.\nL'unità non ha attacco doppio e non\nattacca per prima. Incendia il terreno.
+MIID_Tiki_Breath_Dragon	Alito di nebbia
+MIID_H_Tiki_Breath_Dragon	Attacca area e dimezza Dif nemico.\nL'unità non ha attacco doppio e non\nattacca per prima. Copre il terreno di\nnebbia. Efficace contro i draghi.
+MIID_Tiki_Breath_Heavy	Alito ghiacciato
+MIID_H_Tiki_Breath_Heavy	Attacca area e dimezza Dif nemico.\nL'unità non ha attacco doppio e non\nattacca per prima. Congela il nemico.
+MIID_Tiki_Breath_Fly	Soffio infuocato
+MIID_H_Tiki_Breath_Fly	Attacca area con il 70% di danni e\ndimezza Dif del nemico. L'unità non\nha attacco doppio e non attacca per\nprima. Incendia il terreno.
+MIID_Tiki_Breath_Magic	Soffio oscuro
+MIID_H_Tiki_Breath_Magic	Attacco magico su area. Dimezza\nRes nemico. L'unità non ha attacco\ndoppio e non attacca per prima.
+MIID_Tiki_Blessing	Offerta divina
+MIID_Tiki_Blessing+	Offerta divina+
+MIID_Edelgard_Aymr	Aymr
+MIID_H_Edelgard_Aymr	Ascia dell'embl. Edelgard. Schianta\ni nemici, no attacco doppio. Nemico\nattacca per primo. Efficace: draghi.
+MIID_Edelgard_Areadbhar	Areadbhar
+MIID_H_Edelgard_Areadbhar	Lancia dell'emblema Dimitri.\nSe l'unità inizia lo scontro,\nPot +50%.
+MIID_Edelgard_Failnaught	Infallibile
+MIID_H_Edelgard_Failnaught	Arco dell'emblema Claude.\nSe l'unità inizia lo scontro, Scv +20.\nEfficace: unità volanti e draghi.
+MIID_SilverCard	Carta argento
+MIID_H_SilverCard	Riduce del 30% il costo degli\nstrumenti nell'armeria e all'emporio\n(basta averla con sé).
+MSID_FriendlyCompetition	Sana rivalità
+MSID_H_FriendlyCompetition	All'inizio della fase giocatore,\nl'emblema cambia in modo casuale\ntra Edelgard, Dimitri e Claude.
+MSID_Strategy	Stratagemma
+MSID_H_Strategy	L'effetto cambia in base\nall'emblema sincronizzato.
+MSID_Strategy_Disturbance	Adunata
+MSID_H_Strategy_Disturbance	Usa il comando per far indietreggiare\nl'unità di uno spazio dopo l'attacco\ne trascinare il nemico adiacente sul\nprecedente spazio dell'unità.
+MSID_H_Strategy_Disturbance_CMD	Unità e nemico si muovono\ndi uno spazio dopo scontro.
+MSID_Strategy_PowerfulFireAttack	Fiamme furiose
+MSID_H_Strategy_PowerfulFireAttack	Stratagemma. Usa il comando se\nl'unità è sincronizzata con Edelgard.\nDopo lo scontro incendia lo spazio\ndel nemico e gli spazi vicini.
+MSID_H_Strategy_PowerfulFireAttack_CMD	Incendia spazio del nemico e\nquelli vicini dopo lo scontro.
+MSID_Strategy_HolyShield	Scudo sacro
+MSID_H_Strategy_HolyShield	Stratagemma. Usa il comando se\nl'unità è sincronizzata con Dimitri.\nAnnulla i danni dei primi attacchi\na lungo raggio che l'unità subisce\nnella prossima fase nemici.
+MSID_H_Strategy_HolyShield_CMD	I primi attacchi a lungo raggio\nnon infliggono danni.
+MSID_Strategy_PoisonArrow	Frecce avvelenate
+MSID_H_Strategy_PoisonArrow	Stratagemma. Usa il comando se\nl'unità è sincronizzata con Claude.\nDopo lo scontro avvelena\nl'avversario e gli altri nemici nel\nraggio di 1 spazio da lui.
+MSID_H_Strategy_PoisonArrow_CMD	Avvelena nemico e suoi alleati\nadiacenti dopo lo scontro.
+MSID_WeaponSynchronized	Sincro arma
+MSID_H_WeaponSynchronized	Se l'unità inizia lo scontro con lo\nstesso tipo di arma dell'emblema\nsincronizzato, ottiene Att +5.\nDurante l'unione, ottiene Att +5\nindifferentemente dall'arma.
+MSID_WeaponSynchronized+	Sincro arma+
+MSID_H_WeaponSynchronized+	Se l'unità inizia lo scontro con lo\nstesso tipo di arma dell'emblema\nsincronizzato, ottiene Att +7.\nDurante l'unione, ottiene Att +7\nindifferentemente dall'arma.
+MSID_Pedigree	Lignaggio
+MSID_H_Pedigree	Conferisce Esp guadagnata ×1,2\nall'unità.
+MSID_ClassPresidentsEngage	Mosse speciali
+MSID_H_ClassPresidentsEngage	Permette di usare le mosse speciali\ndi Edelgard, Dimitri o Claude,\nconsumando alcuni turni rimanenti\ndell'unione.
+MSID_H_ClassPresidentsEngage_Dragon	Permette di usare le mosse speciali\ndi Edelgard, Dimitri o Claude,\nconsumando alcuni turni rimanenti\ndell'unione.\nDraghi: +10% di danno.
+MSID_H_ClassPresidentsEngage_Covert	Permette di usare le mosse speciali\ndi Edelgard, Dimitri o Claude,\nconsumando alcuni turni rimanenti\ndell'unione.\nFurtivi: Scv +20.
+MSID_H_ClassPresidentsEngage_CMD	Consuma turni dell'unione\nper un attacco speciale.
+MSID_ClassPresidentsEngage_MadStorm	Tempesta furiosa
+MSID_H_ClassPresidentsEngage_MadStorm_CMD	Dopo lo scontro, esegui\nazione extra (costa 3 turni).
+MSID_ClassPresidentsEngage_Miserable	Atrocità
+MSID_H_ClassPresidentsEngage_Miserable_CMD	Durante l'attacco, raddoppia\nPot dell'arma (costa 1 turno).
+MSID_ClassPresidentsEngage_FallingStarts	Astro caduto
+MSID_H_ClassPresidentsEngage_FallingStarts_CMD	Schiva attacco nemico nello\nscontro seguente (costa 1 turno).
+MSID_ClassPresidentsEngageAtk	Case unite
+MSID_H_ClassPresidentsEngageAtk	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.
+MSID_H_ClassPresidentsEngageAtk_Dragon	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.\nDraghi: +10% di danno.
+MSID_H_ClassPresidentsEngageAtk_Horse	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.\nCavalleria: +10% di danno con\nAreadbhar.
+MSID_H_ClassPresidentsEngageAtk_Covert	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.\nFurtivi: +10% di danno con\nl'Infallibile.
+MSID_H_ClassPresidentsEngageAtk_Heavy	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.\nCorazzati: +10% di danno con\nAymr.
+MSID_H_ClassPresidentsEngageAtk_Prana	Attacca con Aymr, Areadbhar e\nl'Infallibile con danno al 50%.\nAdepti qi: infligge breccia.
+MSID_H_ClassPresidentsEngageAtk_CMD	Attacca con ascia, lancia e\narco.
+MSID_ClassPresidentsEngageAtk+	Case unite+
+MSID_H_ClassPresidentsEngageAtk+	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.
+MSID_H_ClassPresidentsEngageAtk+_Dragon	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.\nDraghi: +10% di danno.
+MSID_H_ClassPresidentsEngageAtk+_Horse	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.\nCavalleria: +10% di danno con\nAreadbhar.
+MSID_H_ClassPresidentsEngageAtk+_Covert	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.\nFurtivi: +10% di danno con\nl'Infallibile.
+MSID_H_ClassPresidentsEngageAtk+_Heavy	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.\nCorazzati: +10% di danno con\nAymr.
+MSID_H_ClassPresidentsEngageAtk+_Prana	Attacca con Areadbhar, l'Infallibile\ne Aymr con danno al 50%.\nAzione extra dopo lo scontro.\nAdepti qi: infligge breccia.
+MSID_H_ClassPresidentsEngageAtk+_CMD	Attacca con lancia, arco e\nascia. Ottieni azione extra.
+MSID_BallsProtection_Light	Sfera di luce
+MSID_H_BallsProtection_Light	Se l'unità inizia lo scontro, la\nprobabilità di subire un colpo triplo\ndal nemico è dimezzata.
+MSID_BallsProtection_Star	Sfera stellare
+MSID_H_BallsProtection_Star	Quando l'unità passa a un nuovo\nlivello, i parametri di base crescono\npiù facilmente.
+MSID_BallsProtection_Life	Sfera di vita
+MSID_H_BallsProtection_Life	Se l'unità attende senza attaccare\no usare strumenti, recupera 20 PS\ne cura le alterazioni di stato.
+MSID_BallsProtection_Life+	Sfera di vita+
+MSID_H_BallsProtection_Life+	Se l'unità attende senza attaccare\no usare strumenti, recupera 30 PS\ne cura le alterazioni di stato.
+MSID_BallsProtection_Life++	Sfera di vita++
+MSID_H_BallsProtection_Life++	Se l'unità attende senza attaccare\no usare strumenti, recupera 40 PS\ne cura le alterazioni di stato.
+MSID_BallsProtection_Earth	Geosfera
+MSID_H_BallsProtection_Earth	All'inizio della fase giocatore, se ci\nsono alleati adiacenti all'unità, unità\ne alleati ottengono Dif/Res +3 per\n1 turno.
+MSID_BallsProtection_Earth+	Geosfera+
+MSID_H_BallsProtection_Earth+	All'inizio della fase giocatore, se ci\nsono alleati adiacenti all'unità, unità\ne alleati ottengono Dif/Res +5 per\n1 turno.
+MSID_TikiEngage	Forma draconica
+MSID_H_TikiEngage	Durante l'unione, l'unità si trasforma\ne combatte in forma di drago.\nPS max +10. Incrementa tutti\ni parametri base e Cost di 5.
+MSID_H_TikiEngage_Heavy	Durante l'unione, l'unità si trasforma\ne combatte in forma di drago.\nPS max +10. Incrementa tutti\ni parametri base e Cost di 5.\nCorazzati: annulla danni dal terreno.
+MSID_H_TikiEngage_Magic	Durante l'unione, l'unità si trasforma\ne combatte in forma di drago.\nPS max +10. Incrementa tutti\ni parametri base e Cost di 5.\nMistici: +5 extra alla Res.
+MSID_TikiEngageAtk	Offerta divina
+MSID_H_TikiEngageAtk	Conferisce una pietra vitale a un\nalleato.
+MSID_H_TikiEngageAtk_Dragon	Conferisce una pietra vitale a un\nalleato.\nDraghi: l'alleato recupera 20 PS.
+MSID_H_TikiEngageAtk_Prana	Conferisce una pietra vitale a un\nalleato.\nAdepti qi: cura l'alleato da stati\nalterati.
+MSID_H_TikiEngageAtk_CMD	Conferisce una pietra vitale\na un alleato.
+MSID_TikiEngageAtk+	Offerta divina+
+MSID_H_TikiEngageAtk+	Conferisce una pietra vitale a un\nalleato. Alleato non in sincro: tutti i\nPS recuperati. In sincro: barra unione\n+3. In unione: ripristina tutti i turni di\nunione.
+MSID_H_TikiEngageAtk+_Dragon	Conferisce una pietra vitale a un\nalleato. Alleato non in sincro: tutti i\nPS recuperati. In sincro: barra unione\n+3. In unione: ripristina tutti i turni di\nunione. Draghi: +20 PS per alleato.
+MSID_H_TikiEngageAtk+_Prana	Conferisce una pietra vitale a un\nalleato. Alleato non in sincro: tutti i\nPS recuperati. In sincro: barra unione\n+3. In unione: ripristina tutti i turni di\nunione. Adepti qi: cura stati alterati.
+MSID_H_TikiEngageAtk+_CMD	Conferisce una pietra vitale\ned effetti extra a un alleato.
+MSID_Str_Tec_1	Forz/Des +1
+MSID_H_Str_Tec_1	Incrementa Forz e Des di 1.
+MSID_Str_Tec_2	Forz/Des +2
+MSID_H_Str_Tec_2	Incrementa Forz e Des di 2.
+MSID_Str_Tec_3	Forz/Des +3
+MSID_H_Str_Tec_3	Incrementa Forz e Des di 3.
+MSID_Str_Tec_4	Forz/Des +4
+MSID_H_Str_Tec_4	Incrementa Forz e Des di 4.
+MSID_Str_Tec_5	Forz/Des +5
+MSID_H_Str_Tec_5	Incrementa Forz e Des di 5.
+MSID_Hp_Lck_2	PS/Fort +2
+MSID_H_Hp_Lck_2	Incrementa PS e Fort di 2.
+MSID_Hp_Lck_4	PS/Fort +4
+MSID_H_Hp_Lck_4	Incrementa PS e Fort di 4.
+MSID_Hp_Lck_6	PS/Fort +6
+MSID_H_Hp_Lck_6	Incrementa PS e Fort di 6.
+MSID_Hp_Lck_8	PS/Fort +8
+MSID_H_Hp_Lck_8	Incrementa PS e Fort di 8.
+MSID_Hp_Lck_10	PS/Fort +10
+MSID_H_Hp_Lck_10	Incrementa PS e Fort di 10.
+MSID_AntiBowArts_1	Para arco 1
+MSID_H_AntiBowArts_1	Se l'unità affronta un nemico armato\ndi arco, subisce 1 danno in meno.
+MSID_AntiBowArts_2	Para arco 2
+MSID_H_AntiBowArts_2	Se l'unità affronta un nemico armato\ndi arco, subisce 2 danni in meno.
+MSID_AntiBowArts_3	Para arco 3
+MSID_H_AntiBowArts_3	Se l'unità affronta un nemico armato\ndi arco, subisce 3 danni in meno.
+MSID_AntiBowArts_4	Para arco 4
+MSID_H_AntiBowArts_4	Se l'unità affronta un nemico armato\ndi arco, subisce 4 danni in meno.
+MSID_AntiBowArts_5	Para arco 5
+MSID_H_AntiBowArts_5	Se l'unità affronta un nemico armato\ndi arco, subisce 5 danni in meno.
+MSID_AntiSpecialArts_1	Para speciale 1
+MSID_H_AntiSpecialArts_1	Se l'unità affronta un nemico che\nusa un attacco speciale, subisce\n1 danno in meno.
+MSID_AntiSpecialArts_2	Para speciale 2
+MSID_H_AntiSpecialArts_2	Se l'unità affronta un nemico che\nusa un attacco speciale, subisce\n2 danni in meno.
+MSID_AntiSpecialArts_3	Para speciale 3
+MSID_H_AntiSpecialArts_3	Se l'unità affronta un nemico che\nusa un attacco speciale, subisce\n3 danni in meno.
+MSID_AntiSpecialArts_4	Para speciale 4
+MSID_H_AntiSpecialArts_4	Se l'unità affronta un nemico che\nusa un attacco speciale, subisce\n4 danni in meno.
+MSID_AntiSpecialArts_5	Para speciale 5
+MSID_H_AntiSpecialArts_5	Se l'unità affronta un nemico che\nusa un attacco speciale, subisce\n5 danni in meno.
+MSID_JobSkill_PhantomFlyingDragon	Dominio gelato
+MSID_H_JobSkill_PhantomFlyingDragon	All'inizio della fase giocatore,\ncrea suolo gelato nel raggio di 2\nspazi dall'unità.
+MAID_Kimono	Set raro
+MAID_KimonoM	Gilet raro
+MAID_H_KimonoM	Abbigliamento all'avanguardia che crea un nuovo stile. Confezionato\ncon materiali rari trovati dal mercante Pinet in un pozzo antico.
+MAID_KimonoF	Grembiule raro
+MAID_H_KimonoF	Le maniche sono strette con un laccio per facilitare i movimenti.\nConfezionato con materiali rari trovati da Pinet in un pozzo antico.
+MAID_JpHeadDress	Fascia increspata
+MAID_H_JpHeadDress	Una fascia con lacci e fiocchi. È molto carina e tiene i capelli a posto.\nPerfetta per quando si cucina o si fanno le pulizie.
+MAID_JpRibbon	Grande fiocco
+MAID_H_JpRibbon	Un fiocco molto grande per un look spavaldo. Nonostante le grosse\ndimensioni, è leggero e comodo. Divertente accessorio per qualsiasi stile.
+MAID_JpEarrings	Orecchino singolo
+MAID_H_JpEarrings	Un orecchino alla moda da portare spaiato per uno stile rilassato.\nOndeggia facilmente, creando brillanti effetti di luce.
+MAID_JpGlasses	Lenti rotonde
+MAID_H_JpGlasses	Occhiali con lenti rotonde, rivestiti da un appariscente strato argentato.\nPer chi cerca qualcosa di diverso dai soliti occhiali.
+MID_MAINMENU_DLC	Contenuti scaricabili
+MID_MENU_SELECT_BATTLE	Combatti!
+MID_MENU_SELECT_BATTLE_HELP	Inizia scaramuccia/ricorda\nbattaglia.
+MID_MENU_ENTER_RECOLLECTION_BATTLE	Ricorda battaglia
+MID_MENU_ENTER_RECOLLECTION_BATTLE_HELP	Ricorda la storia e combatti\ndi nuovo.
+MID_MENU_ENTER_RECOLLECTION_BATTLE_CONFIRM	Vuoi ricordare la battaglia?
+MID_MENU_ENTER_CHOOSE_BATTLE_CONFIRM	Quale battaglia vuoi iniziare?
+MID_MENU_ENTER_ENCOUNTER_YES	Inizia la scaramuccia
+MID_MENU_ENTER_RECOLLECTION_YES	Ricorda la battaglia
+MID_MENU_TO_OTHER	Spostamento
+MID_MENU_TO_OTHER_HELP	Raggiungi il Somniel o\nun altro luogo.
+MID_MENU_DEPARTURE	Partenza
+MID_MENU_DEPARTURE_HELP	Vai alla mappa del mondo\no in un altro luogo.
+MID_GMAP_MapDetails_Reference	Durata
+MID_GMAP_MapDetails_ReferenceTurn	Turni: circa \x0E\x01\x00\x00
+MGID_Ring_CharacterName_DLC	Bracciale di \x0E\x01\x00\x00
+MID_BONDSRING_Tiki00	Figlia di Naga, regina dei Draghi\nDivini di Akaneia in un altro mondo.
+MID_BONDSRING_Tiki01	Dopo un lungo sonno, si unì al\nprincipe Marth contro la Doluna.
+MID_BONDSRING_Edelgard00	Erede dell'impero Adrestiano\nin un altro mondo.
+MID_BONDSRING_Edelgard01	Combatté per i suoi ideali a capo\ndella casa dell'Aquila Nera.
+MID_BONDSRING_Dimitri00	Erede del Sacro Regno di Faerghus\nin un altro mondo.
+MID_BONDSRING_Dimitri01	Si batté per superare la crisi\na capo della casa del Leone Blu.
+MID_BONDSRING_Claude00	Erede dei Riegan. Capo dell'Alleanza\ndel Leicester in un altro mondo.
+MID_BONDSRING_Claude01	Riunì i suoi alleati combattendo a\ncapo della casa del Cervo Dorato.
+MGID_Ring_Tiki	Bracciale dell'Antenata
+MGID_H_Ring_Tiki	Bracciale in cui dorme Tiki,\ngiovane e ingenua ragazza con\nil sangue dei Draghi Divini.
+MGID_Ring_Edelgard	Bracciale delle Tre Case
+MGID_H_Ring_Edelgard	Bracciale in cui dorme Edelgard,\nraffinata e altera principessa\nimperiale delle fiamme.
+MGID_Ring_Dimitri	Bracciale delle Tre Case
+MGID_H_Ring_Dimitri	Bracciale in cui dorme Dimitri,\nsaggio e virtuoso principe di un\nregno di cavalieri.
+MGID_Ring_Claude	Bracciale delle Tre Case
+MGID_H_Ring_Claude	Bracciale in cui dorme Claude,\nenigmatico e calcolatore erede\ndi un ducato.
+MGID_World_Tiki	Mondo del Re Eroico
+MGID_World_Edelgard	Mondo del Mentore
+MGID_World_Dimitri	Mondo del Mentore
+MGID_World_Claude	Mondo del Mentore
+MID_RELAY_Stamp_Tiki_0	Staremo sempre insieme, eh?
+MID_RELAY_Stamp_Edelgard_0	Da soli non si arriva a nulla.
+MID_RELAY_Stamp_Dimitri_0	La mia marcia è inarrestabile.
+MID_RELAY_Stamp_Claude_0	Vuoi sentire una storiella?
+MID_Hub_ShopCard_Sale	-30%!
+MID_Hub_Portal	Portale
+PCTMID_Tiki	"Resteremo insieme."
+PCTMID_Edelgard	"A ogni costo..."
+PCTMID_Dimitri	"Non mi fermerò."
+PCTMID_Claude	"Volere è potere."
+MID_Movie_K14	Emblema Tiki
+MID_H_Movie_K14	Emblema Tiki, evocata dall'interno\ndel bracciale dell'Antenata.
+MID_Movie_K13	Emblema Edelgard
+MID_H_Movie_K13	Emblema Edelgard, emblema Dimitri ed\nemblema Claude, evocati dall'interno del\nbracciale delle Tre Case.

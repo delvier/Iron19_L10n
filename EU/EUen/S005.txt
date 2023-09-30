@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リュール\nWhere are we?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06アイク\nGebal Castle. At least, that's what it looks like.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nSomeplace you've been?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06アイク\nYeah. It's near the border between the nations\nof Crimea and Gallia.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06アイク\nInteresting that this place is where we will have\nour trial.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nTrial?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06アイク\nWe were pursued here by forces from the\nkingdom of Daein. They laid siege, trapping us.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06アイク\nOur escape was cut off. The strength of their\nforces was overwhelming.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06アイク\nMy father had died, and I'd taken up his role\nas leader of the Greil Mercenaries.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06アイク\nAnd this is where I met my first great trial.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nThat sounds rough. What did you do?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06アイク\nI fought─to protect my sister and the\nGreil Mercenaries.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06アイク\nIf you found yourself in the same situation,\nwhat would you do?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nI'd like to think I would also fight. I don't want\nanyone I care about to be harmed.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06アイク\nAnd I believe you would fight well.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06アイク\nSo show me how you would defend those near\nto you. No words now, only deeds.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nA trial? You want me to fight you?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06アイク\nIf you win this fight, our bond will become\neven stronger.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nUnderstood! I won't lose.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06アイク\nThat's the spirit. Now, let's begin!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nGive me your best!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nMy turn now!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\nI like that look in your eye. It's clear your\nfighting spirit is strong.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nI know the only way I'll beat you is to fight\nharder than you.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06アイク\nThen you understand what lies ahead.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nNow show me you can fight as well as you talk.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x14\nミスティラ\x06Shy\n\x0E\x03\x02\x0C\nミスティラ\nIt's kind of strange to face off against you.\nI mean, it was my duty to safeguard your ring.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\nIs it hard for you to see me as your opponent?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\nミスティラ\nRelax\n\x0E\x03\x02\x0C\nミスティラ\nNo! I mean, I want to show you how strong\nI am!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nGood answer. Now show me what you can do!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nSmile\n\x0E\x03\x02\x08\x06アイク\nThere's something different about you, Fogado.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nI decided since I was fighting you, I should\nbe extra serious.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nYou have no intention of losing, then. I see.\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\nフォガート\nRelax\n\x0E\x03\x02\x0C\nフォガート\nNever. If we're doing this, then I've got to win.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nGreat work, \x0E\x06\x03\x00! You overcame the\ntrial well.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nThank you, Ike.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06アイク\nYou should know that, going forward, the\nfighting's going to get more intense.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06アイク\nIt's important to remember that you're a leader,\nand you must not give in to the pressure.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06アイク\nIn this war, there can be no retreat.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nYou're right. If we run away, the world will be\ncovered in darkness.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nBut I worry that fighting this hard may be too\nmuch for everyone. Or...too much for me...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06アイク\nThere are people who need your help. Don't\nworry. You are more than capable.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06アイク\nAnd when it seems your spirit might break, it's\nthe bonds you've forged that will win the day.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nI'll hold your words in my heart.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06アイク\nDon't worry. If it looks like you've forgotten it,\nI'll be there to remind you.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nYou'll be by my side, always?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06アイク\nAlways.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nThank you, Ike. I'm glad to know you're here\nwith me.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

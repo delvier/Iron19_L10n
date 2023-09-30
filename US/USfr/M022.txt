@@ -1,0 +1,393 @@
+MID_MOVIE1_#001	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_MOVIE1_#002	\x0E\x03\x02\x0A\x08ソンブル\nArgh... Je suis votre père. Comment osez-vous\nretourner votre épée contre moi ?\x0E\x04\x02\x00
+MID_MOVIE1_#003	Vous souhaitez me vaincre ?\x0E\x04\x01\x00
+MID_MOVIE1_#003_2	Alors, allez-y !\x0E\x04\x01\x00
+MID_MOVIE1_#004	\x0E\x03\x02\x0A\x08ルミエル\nQue fais-tu tout\x0E\x0A\x00\x1C\n seul\x0Ee seule ici ?!\x0E\x04\x00\x00
+MID_MOVIE1_#005	\x0E\x03\x02\x0A\x08リュール\nLa guerre est terminée, Mère.\nNous n'avons plus rien à crain...\x0E\x04\x02\x00
+MID_MOVIE1_#006	Ah !\x0E\x04\x00\x00
+MID_MOVIE1_#007	\x0E\x03\x02\x0A\x08ソンブル\nMourez, maudite engeance...\x0E\x04\x00\x00
+MID_MOVIE1_#008	\x0E\x03\x02\x0A\x08ルミエル\nNon...\x0E\x04\x00\x00
+MID_MOVIE1_#009	\x0E\x03\x02\x0A\x08リュール\nLes Dragons déchus sont destinés à mourir.\nAlors je voulais être... un dragon vertueux.\x0E\x04\x00\x00
+MID_MOVIE1_#010	\x0E\x03\x02\x0A\x08ルミエル\nTu le seras. Un jour, tu renaîtras.\x0E\x04\x02\x00
+MID_MOVIE1_#010_2	\x0E\x03\x02\x0A\x08ルミエル\nSi jamais ce jour... finit par se lever...\x0E\x04\x02\x00
+MID_MOVIE1_#011	je te ferai un cadeau qui\nte conviendra à la perfection.\x0E\x04\x00\x00
+MID_MOVIE1_#012	\x0E\x03\x02\x0A\x08リュール\nMerci, Mère...\x0E\x04\x02\x00
+MID_MOVIE1_#013	Si je suis encore là...\x0E\x04\x02\x00
+MID_MOVIE1_#014	je reviendrai peut-être,\nvêtu\x0E\x0A\x00\x06
+MID_MOVIE1_#015	Un Dragon divin, comme vous...\nPrêt\x0E\x0A\x00\x06
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP1_#002	Ce n'était pas un rêve, mais un souvenir...\x0E\x04\x02\x00
+MID_OP1_#003	Où suis-je ?\x0E\x04\x02\x00
+MID_OP1_#004	Oh... J'ai dû mourir en protégeant Veyle.\x0E\x04\x02\x00
+MID_OP1_#005	Je ne vais pas me réveiller, cette fois.\x0E\x04\x02\x00
+MID_OP1_#006	J'avais rêvé que je serais un\x0E\x0A\x00\x06
+MID_OP1_#007	Je me demande si je parviendrai à trouver\nMère ici.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x06\x00$\x08ヴェイル\x18MPID_Unknown\n\x0E\x03\x02\x0A\x08ヴェイル\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nM-Mère...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x06\x00 \x08ヴェイル\x14MPID_Veyre\n\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nVeyle ? Que faites-vous ici ?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08ヴェイル\nPapa a utilisé les anneaux pour faire remonter\nGradlon à la surface.\x0E\x04\x02\x00
+MID_OP1_#013	Le casque s'est réactivé, j'ai eu des\nvertiges, puis... je me suis retrouvée ici.\x0E\x04\x02\x00
+MID_OP1_#014	Les choses ne se sont pas passées comme\nprévu. Et j'ai bien l'impression d'être morte.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08ヴェイル\nPapa a dit que vous étiez mon grand frère.\x0E\x04\x02\x00
+MID_OP1_#016_F	\x0E\x03\x02\x0A\x08ヴェイル\nPapa a dit que vous étiez ma grande sœur.\x0E\x04\x02\x00
+MID_OP1_#017	Vous vous êtes sacrifié\x0E\x0A\x00\x06
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nNe dites pas ça ! J'ai fait le bon choix.\x0E\x04\x02\x00
+MID_OP1_#019	Vous avez un lien avec le monde des vivants.\nIl y a encore un espoir pour vous.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08ヴェイル\nNon... Je n'en peux plus.\x0E\x04\x00\x00
+MID_OP1_#021	\x0E\x03\x02\x0A\x08リュール\nQuoi ?\x0E\x04\x00\x00
+MID_OP1_#022	\x0E\x03\x02\x0A\x08ヴェイル\nJ'ai tout essayé. Je voulais juste que Papa\nne voie plus une tare quand il pose les yeux\nsur moi.\x0E\x04\x02\x00
+MID_OP1_#023	Je voulais qu'il oublie les autres mondes\npour s'intéresser à moi.\x0E\x04\x02\x00
+MID_OP1_#024	Chaque fois, je me dis : « Si seulement j'avais\nfait plus d'efforts... »\x0E\x04\x02\x00
+MID_OP1_#025	Mais en dépit de tous mes efforts... J'échoue\nencore et encore...\x0E\x04\x02\x00
+MID_OP1_#026	Je suis tellement fatiguée... Et si je devais\nmourir à nouveau et échouer une fois encore...\x0E\x04\x02\x00
+MID_OP1_#027	Je préfère que tout s'arrête ici. Avec vous.\x0E\x04\x00\x00
+MID_OP1_#028	\x0E\x03\x02\x0A\x08リュール\nOh, Veyle...\x0E\x04\x00\x00
+MID_OP1_#029	\x0E\x03\x02\x0A\x08ヴェイル\nEt si nous nous endormions... ensemble ?\nLe monde prendra fin avec ou sans nous.\x0E\x04\x02\x00
+MID_OP1_#030	Et... je suis heureuse parce que je vous ai\nenfin retrouvé\x0E\x0A\x00\x06
+MID_OP1_#031	\x0E\x03\x02\x0A\x08リュール\nVous avez peut-être raison.\x0E\x04\x00\x00
+MID_OP1_#032	\x0E\x03\x02\x0A\x08ヴェイル\nBon, eh bien...\x0E\x04\x00\x00
+MID_OP1_#033	\x0E\x03\x02\x0A\x08リュール\nSauf que... je n'ai aucune envie d'abandonner.\nJe veux sauver notre monde et tous ceux que\nj'aime.\x0E\x04\x02\x00
+MID_OP1_#034	Veyle, vous avez traversé de nombreuses\népreuves, et je comprends ce que vous\nressentez.\x0E\x04\x02\x00
+MID_OP1_#035	Mais je vous en conjure, ne baissez pas les\nbras. Pas avant d'avoir vécu la vie que vous\nméritez.\x0E\x04\x00\x00
+MID_OP1_#036	\x0E\x03\x02\x0A\x08ヴェイル\nÇa ne me fait ni chaud ni froid, désormais.\nMême si je retournais là-bas et que je parvenais\nà survivre à tout cela...\x0E\x04\x02\x00
+MID_OP1_#037	Jamais je ne pourrais stopper Papa, car je suis\nincapable d'invoquer les Emblèmes.\x0E\x04\x02\x00
+MID_OP1_#038	Je peux seulement créer des Aberrations. Un\ntour de passe-passe digne des Dragons déchus.\x0E\x04\x00\x00
+MID_OP1_#039	\x0E\x03\x02\x0A\x08リュール\nDes Aberrations...\x0E\x04\x02\x00
+MID_OP1_#040	Veyle, il y a bien quelque chose que vous\npourriez faire.\x0E\x04\x00\x00
+MID_OP1_#041	\x0E\x03\x02\x0A\x08ヴェイル\nQuoi donc ?\x0E\x04\x00\x00
+MID_OP1_#042	\x0E\x03\x02\x0A\x08リュール\nRamenez-moi sous la forme d'une Aberration.\x0E\x04\x00\x00
+MID_OP1_#043	\x0E\x03\x02\x0A\x08ヴェイル\nQuoi ?!\x0E\x04\x00\x00
+MID_OP1_#044	\x0E\x03\x02\x0A\x08リュール\nVous l'avez fait au roi Hyacinth. C'était presque\ncomme s'il était revenu à la vie.\x0E\x04\x02\x00
+MID_OP1_#045	Peut-être pourrais-je retrouver le monde des\nvivants de la même manière.\x0E\x04\x00\x00
+MID_OP1_#046	\x0E\x03\x02\x0A\x08ヴェイル\nJe pourrais peut-être y arriver, mais vous\nne vous rendez pas compte de ce que\nvous demandez !\x0E\x04\x02\x00
+MID_OP1_#047	Vous détestez les Aberrations. Elles vous\nterrifient !\x0E\x04\x02\x00
+MID_OP1_#048	Et maintenant, vous voulez en devenir une ?\nVous ne pourriez plus jamais redevenir comme\navant !\x0E\x04\x02\x00
+MID_OP1_#049	Cette fois, vous avez du moins péri en étant\nvous-même. Voulez-vous vraiment finir vos\njours en étant un\x0E\x0A\x00\x06
+MID_OP1_#050	\x0E\x03\x02\x0A\x08リュール\nJe serais prêt\x0E\x0A\x00\x06
+MID_OP1_#051	Ma mort m'importe peu. Je veux seulement\nmettre fin à cette guerre. À tout prix.\x0E\x04\x00\x00
+MID_OP1_#052	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_OP1_#053	\x0E\x03\x02\x0A\x08リュール\nN'abandonnez pas, Veyle. Si nous n'essayons\npas, tout est perdu d'avance.\x0E\x04\x02\x00
+MID_OP1_#054	Pour moi, c'est la seule solution.\x0E\x04\x00\x00
+MID_OP1_#055	\x0E\x03\x02\x0A\x08ヴェイル\nMais...\x0E\x04\x00\x00
+MID_OP1_#056	\x0E\x03\x02\x0A\x08リュール\nVeyle... Avez-vous un rêve ?\x0E\x04\x00\x00
+MID_OP1_#057	\x0E\x03\x02\x0A\x08ヴェイル\nQue voulez-vous dire ?\x0E\x04\x00\x00
+MID_OP1_#058	\x0E\x03\x02\x0A\x08リュール\nMes amis disent que notre origine importe\npeu. Ce qui compte, ce sont nos actes.\x0E\x04\x02\x00
+MID_OP1_#059	Ce sont vos actions et la façon dont vous menez\nvotre vie qui déterminent votre avenir. Alors...\nqui souhaitez-vous devenir ?\x0E\x04\x00\x00
+MID_OP1_#060	\x0E\x03\x02\x0A\x08ヴェイル\nJe n'y avais jamais songé.\x0E\x04\x02\x00
+MID_OP1_#061	Mais si je pouvais changer, j'imagine que...\x0E\x04\x02\x00
+MID_OP1_#062	J'aimerais être comme vous. J'aimerais devenir\nun dragon qui sauve le monde.\x0E\x04\x00\x00
+MID_OP1_#063	\x0E\x03\x02\x0A\x08リュール\nPas de doute, nous sommes bien \x0E\x0A\x00(\x1Afrère et sœur\nsœurs.\x0E\x04\x00\x00
+MID_OP1_#064	\x0E\x03\x02\x0A\x08ヴェイル\nHum ?\x0E\x04\x00\x00
+MID_OP1_#065	\x0E\x03\x02\x0A\x08リュール\nJ'ai prononcé quelque chose de semblable\nil y a fort longtemps.\x0E\x04\x02\x00
+MID_OP1_#066	Retournons sauver notre monde. Ensemble.\x0E\x04\x00\x00
+MID_OP1_#067	\x0E\x03\x02\x0A\x08ヴェイル\nD'accord.\x0E\x04\x02\x00
+MID_OP1_#068	Je veux bien essayer une dernière fois.\nJ'espère vous revoir bientôt, mon frère.\x0E\x04\x00\x00
+MID_OP1_#068_F	Je veux bien essayer une dernière fois.\nJ'espère vous revoir bientôt, ma sœur.\x0E\x04\x00\x00
+MID_OP1_#069	\x0E\x03\x02\x0A\x08リュール\nVous êtes ma sœur bien-aimée, et ma confiance\nen vous est inébranlable.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x16\x10ヴェイル_黒_悪\x022\n\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nMouah ha ha !\x0E\x04\x02\x00
+MID_OP2_#002	Arrêtez le combat. Vous mourrez\nquoi qu'il arrive !\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x02\x08\x06モーヴ\nDame Veyle, revenez parmi nous,\nje vous en conjure !\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nOoh, elle vous manque, Mauvier ? Bien,\nalors je vais vous tuer le premier.\x0E\x04\x02\x00
+MID_OP2_#005	Peut-être que vous retrouverez ce que vous\ncherchez de l'autre côté !\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x08\x06モーヴ\n...\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nHein ?\x0E\x04\x02\x00
+MID_OP2_#008	...\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x01\x12\x10ヴェイル_黒_悪\n\x0E\x03\x02\x08\x06モーヴ\nDame Veyle ?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x00\x16\x10ヴェイル_黒_善\x022\n\x0E\x03\x02\x12\x10ヴェイル_黒_善\nTu ne sais jamais quand abandonner,\nje me trompe ?\x0E\x04\x02\x00
+MID_OP2_#011	Non... Pas question de mourir sans me battre !\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x01\x12\x10ヴェイル_黒_善\n\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nElle se parle à elle-même.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08アイビー\nPas à elle-même. Pas tout à fait.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x02\x08\x06モーヴ\nLa vraie Dame Veyle... Elle se bat.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nMon frère a cru en moi.\nAlors, je... je crois en moi !\x0E\x04\x02\x00
+MID_OP3_#001_F	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nMa sœur a cru en moi.\nAlors, je... je crois en moi !\x0E\x04\x02\x00
+MID_OP3_#002	Silence. Tu n'es qu'une tare !\x0E\x04\x02\x00
+MID_OP3_#002_2	Écoute-moi bien, la pleurnicheuse\npathétique ! Tu vas bientôt mourir !\x0E\x04\x02\x00
+MID_OP3_#003	Non... Jamais ! Ce n'est pas\ntoi qui décides, c'est moi !\x0E\x04\x02\x00
+MID_OP3_#004	Et plus jamais je ne porterai\ncette chose horrible !\x0E\x04\x02\x00
+MID_OP3_#005	Attends !\x0E\x04\x02\x00
+MID_OP3_#006	Il est déjà fissuré, alors je peux le briser.\x0E\x04\x02\x00
+MID_OP3_#006_2	Je serai à nouveau moi-même, et tu disparaîtras !\x0E\x04\x02\x00
+MID_OP3_#007	Arrête... Arrête tout de suite !\x0E\x04\x02\x00
+MID_OP3_#007_2	Je ne veux pas disparaître !\nÀ l'aide ! Père, je vous en prie !\x0E\x04\x02\x00
+MID_OP3_#008	Papa ne viendra pas. Il n'en a cure.\nL'heure a sonné.\x0E\x04\x02\x00
+MID_OP3_#008_2	L'heure de tes adieux a sonné.\x0E\x04\x02\x00
+MID_OP3_#009	Argh... Ah ! Aaaaah !\x0E\x04\x02\x00
+MID_OP3_#010	 \x0E\x04\x02\x00
+MID_OP3_#011	 \x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x02\x08\x06モーヴ\nDame Veyle !\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x0A\x08ヴェイル\nMauvier, tout va bien. J'ai recouvré mes esprits.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x08\x06モーヴ\nJ'aurais voulu... pouvoir faire quelque chose.\nJe suis vraiment désolé. Mais vous avez réussi.\x0E\x04\x00\x00
+MID_OP3_#015	\x0E\x03\x02\x0A\x08ヴェイル\nJe n'étais pas seule.\nMon frère m'a aidée.\x0E\x04\x00\x00
+MID_OP3_#015_F	\x0E\x03\x02\x0A\x08ヴェイル\nJe n'étais pas seule.\nMa sœur m'a aidée.\x0E\x04\x00\x00
+MID_OP3_#016	\x0E\x03\x02\x08\x06モーヴ\nLe Dragon divin ?\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x02\x0A\x08ヴェイル\nJe dois me hâter.\x0E\x04\x02\x00
+MID_OP3_#018	Gardiens des ombres, ignorez les lois\nqui régissent la vie et la mort...\x0E\x04\x02\x00
+MID_OP3_#018_2	et permettez à ce corps sans vie...\nde respirer à nouveau !\x0E\x04\x02\x00
+MID_OP3_#019	Debout ! \x0E\x06\x03\x00 !\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06モーヴ\nSa Divinité s'est changée en Aberration...\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nQu'est-ce qu'on est censés faire ? L'affronter ?\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nNon... C'est impossible.\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x0A\x08リュール\nJe vous en prie. Écoutez-moi.\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x02\x0E\x0Cディアマンド\nVous pouvez parler ?\x0E\x04\x00\x00
+MID_OP4_#006	\x0E\x03\x02\x0A\x08リュール\nN'ayez crainte. Je ne vous ferai aucun mal.\x0E\x04\x02\x00
+MID_OP4_#007	J'ai demandé à Veyle de faire de moi une\nAberration.\x0E\x04\x02\x00
+MID_OP4_#008	Vous devez me croire.\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nÊtes-vous vraiment... vous-même ?\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x03\x02\x0A\x08リュール\nOui. Je suis toujours cel\x0E\x0A\x00\x0C\x04ui\x04le qui a fait ce voyage\nà vos côtés... le Dragon divin.\x0E\x04\x02\x00
+MID_OP4_#011	Quelle que soit mon apparence, mon âme\nest toujours dans ce corps.\x0E\x04\x00\x00
+MID_OP4_#012	\x0E\x03\x02\x0E\x0Cアルフレッド\n...\x0E\x04\x00\x00
+MID_OP4_#013	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08ヴェイル\nMon frère, regardez ce que j'ai trouvé.\x0E\x04\x00\x00
+MID_OP4_#013_F	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08ヴェイル\nMa sœur, regardez ce que j'ai trouvé.\x0E\x04\x00\x00
+MID_OP4_#014	\x0E\x03\x02\x0A\x08リュール\nL'Anneau du Roi-héros !\x0E\x04\x00\x00
+MID_OP4_#015	\x0E\x03\x02\x0A\x08ヴェイル\nIl se trouvait près de vous... comme s'il\nvoulait demeurer à vos côtés.\x0E\x04\x02\x00
+MID_OP4_#016	Les Emblèmes des douze anneaux se sont\nacquittés de leur rôle. Ils ont dû perdre leurs\npouvoirs.\x0E\x04\x02\x00
+MID_OP4_#017	Pouvez-vous toujours les invoquer ?\x0E\x04\x00\x00
+MID_OP4_#018	\x0E\x03\x02\x0A\x08リュール\nVous avez fait énormément aujourd'hui.\nC'est mon tour, désormais.\x0E\x04\x00\x00
+MID_OP4_#019	\x0E\x03\x02\x0A\x08ヴェイル\nTrès bien !\x0E\x04\x00\x00
+MID_OP4_#020	\x0E\x03\x02\x0A\x08リュール\nMarth. Me revoilà. Je suis là pour vous.\nMontrez-vous, je vous en prie.\x0E\x04\x02\x00
+MID_OP4_#021	Resplendissez, Emblème du Commencement !\x0E\x04\x02\x00
+MID_OP4_#022	...\x0E\x04\x00\x00
+MID_OP4_#023	\x0E\x03\x02\x0A\x08ヴェイル\nIl ne s'est rien passé.\x0E\x04\x00\x00
+MID_OP4_#024	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP4_#025	Non. Il faut que cela fonctionne. Nous avons\ntant de choses à protéger.\x0E\x04\x02\x00
+MID_OP4_#026	Je vous en conjure, Marth. Joignez-vous à moi\nune fois encore !\x0E\x04\x02\x00
+MID_OP4_#027	Resplendissez, Emblème du Commencement !\x0E\x04\x02\x00
+MID_OP4_#028	\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x08\x06マルス\n...\x0E\x04\x02\x00
+MID_OP4_#029	\x0E\x03\x02\x0A\x08リュール\nMarth !\x0E\x04\x02\x00
+MID_OP4_#030	Je suis si content\x0E\x0A\x00\x06
+MID_OP4_#031	\x0E\x03\x02\x08\x06マルス\n...\x0E\x04\x02\x00
+MID_OP4_#032	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nMais... c'est la version du Dragon déchu.\x0E\x04\x00\x00
+MID_OP4_#033	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nJ'ai ressuscité mon frère à l'aide de mes\npouvoirs de Dragon déchu. Et il utilise ce même\npouvoir pour invoquer les Emblèmes.\x0E\x04\x00\x00
+MID_OP4_#033_F	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nJ'ai ressuscité ma sœur à l'aide de mes\npouvoirs de Dragon déchu. Et elle utilise ce\nmême pouvoir pour invoquer les Emblèmes.\x0E\x04\x00\x00
+MID_OP4_#034	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00$\x1EM022_異形兵_ウォーリアー\x023\n\x0E\x03\x02 \x1EM022_異形兵_ウォーリアー\nRAAARGH !\x0E\x04\x00\x00
+MID_OP4_#035	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nQu'est-ce qui s'est passé ? Est-ce qu'ils\nréagissent à l'Emblème ?\x0E\x04\x00\x00
+MID_OP4_#036	\x0E\x03\x02\x0A\x08リュール\nLe temps nous est compté. Je vais avoir besoin\nde votre aide pour invoquer tous les Emblèmes.\x0E\x04\x02\x00
+MID_OP4_#037	Vous n'avez pas à me croire sur parole, mais\nc'est le seul moyen.\x0E\x04\x02\x00
+MID_OP4_#038	Nous devons combattre ensemble !\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nRegardez. Les Anneaux d'Emblèmes sont\ndisséminés par terre.\x0E\x04\x02\x00
+MID_EV1_#002	Je vous en prie, mon frère. Approchez-vous\nd'un anneau et tentez d'invoquer son\nEmblème !\x0E\x04\x00\x00
+MID_EV1_#002_F	Je vous en prie, ma sœur. Approchez-vous\nd'un anneau et tentez d'invoquer son\nEmblème !\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNous les avons trouvés...\x0E\x04\x02\x00
+MID_EV2_#002	Enseignez-nous, Emblème de l'Académie.\nEmbrasez-nous, Emblème de l'Éveil.\x0E\x04\x02\x00
+MID_EV2_#003	Déchaînez-vous, Emblème des Flammes !\x0E\x04\x02\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLes voilà.\x0E\x04\x02\x00
+MID_EV3_#002	Emblème des Échos, veillez sur nous.\nSoignez-nous, Emblème de l'Aurore.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nAllons-y...\x0E\x04\x02\x00
+MID_EV4_#002	Combattez, Emblème du Rayonnement.\nOffrez-nous votre soutien, Emblème de\nla Guerre Sainte.\x0E\x04\x02\x00
+MID_EV4_#003	Restaurez la quiétude, Emblème du Sacré.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJe vous en prie, montrez-vous.\x0E\x04\x02\x00
+MID_EV5_#002	Dressez-vous, Emblème du Sceau.\nLibérez-nous, Emblème de la Généalogie.\x0E\x04\x02\x00
+MID_EV5_#003	Montrez vos griffes, Emblème des Destinées !\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nTous les anneaux sont là !\x0E\x04\x00\x00
+MID_TK_Siglud_#001	\x0E\x03\x00 \x1AM022_紋章士_シグルド\x02b\n\x0E\x03\x02\x1C\x1AM022_紋章士_シグルド\n...\x0E\x04\x00\x00
+MID_TK_Celica_#001	\x0E\x03\x00\x1E\x18M022_紋章士_セリカ\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_セリカ\n...\x0E\x04\x00\x00
+MID_TK_Micaiah_#001	\x0E\x03\x00\x1E\x18M022_紋章士_ミカヤ\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_ミカヤ\n...\x0E\x04\x00\x00
+MID_TK_Roy_#001	\x0E\x03\x00\x1C\x16M022_紋章士_ロイ\x02b\n\x0E\x03\x02\x18\x16M022_紋章士_ロイ\n...\x0E\x04\x00\x00
+MID_TK_Leaf_#001	\x0E\x03\x00\x1E\x18M022_紋章士_リーフ\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_リーフ\n...\x0E\x04\x00\x00
+MID_TK_Lucina_#001	\x0E\x03\x00\x1E\x18M022_紋章士_ルキナ\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_ルキナ\n...\x0E\x04\x00\x00
+MID_TK_Lin_#001	\x0E\x03\x00\x1C\x16M022_紋章士_リン\x02b\n\x0E\x03\x02\x18\x16M022_紋章士_リン\n...\x0E\x04\x00\x00
+MID_TK_Ike_#001	\x0E\x03\x00\x1E\x18M022_紋章士_アイク\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_アイク\n...\x0E\x04\x00\x00
+MID_TK_Byleth_#001	\x0E\x03\x00\x1E\x18M022_紋章士_ベレト\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_ベレト\n...\x0E\x04\x00\x00
+MID_TK_Kamui_#001	\x0E\x03\x00\x1E\x18M022_紋章士_カムイ\x02b\n\x0E\x03\x02\x1A\x18M022_紋章士_カムイ\n...\x0E\x04\x00\x00
+MID_TK_Eirik_#001	\x0E\x03\x00"\x1CM022_紋章士_エイリーク\x02b\n\x0E\x03\x02\x1E\x1CM022_紋章士_エイリーク\n...\x0E\x04\x00\x00
+MID_TK_Vandre1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nVenez à moi, je vous en prie,\nEmblème \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Clan1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x14\x06クラン\nAngry\n\x0E\x03\x02\x08\x06クラン\nRejoignez-moi, je vous en prie,\nEmblème \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Fram1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x14\x06フラン\nAngry\n\x0E\x03\x02\x08\x06フラン\nJe vous en prie, \x0E\x01\x00\x00, combattez\nà nouveau à mes côtés !\x0E\x04\x00\x00
+MID_TK_Alfred1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nVous voilà. J'espère que vous voulez bien\nm'offrir votre aide, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Etie1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエーティエ\x02t\n\x0E\x05\x01\x18\nエーティエ\nAngry\n\x0E\x03\x02\x0C\nエーティエ\nEt si nous dominions le champ de bataille\nensemble, \x0E\x01\x00\x00 ?\x0E\x04\x00\x00
+MID_TK_Boucheron1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nブシュロン\x02t\n\x0E\x05\x01\x18\nブシュロン\nAngry\n\x0E\x03\x02\x0C\nブシュロン\nVous aviez perdu vos repères, je connais ça.\nUnissons à nouveau nos forces, \x0E\x01\x00\x00 !\x0E\x04\x00\x00
+MID_TK_Celine1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x16\x08セリーヌ\nAngry\n\x0E\x03\x02\x0A\x08セリーヌ\nQue ferions-nous sans vous, \x0E\x01\x00\x00 ?\nVoulez-vous bien combattre une fois de plus\nà nos côtés ?\x0E\x04\x00\x00
+MID_TK_Chloe1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロエ\x02t\n\x0E\x05\x01\x14\x06クロエ\nSmile\n\x0E\x03\x02\x08\x06クロエ\nNous formons un duo si pittoresque, vous ne\ntrouvez pas, \x0E\x01\x00\x00 ?\x0E\x04\x00\x00
+MID_TK_Louis1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ルイ\x02t\n\x0E\x05\x01\x12\x04ルイ\nAngry\n\x0E\x03\x02\x06\x04ルイ\nJe comprends vos réserves, mais j'espère que\nvous vous joindrez à moi malgré tout,\n\x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Yunaka1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ユナカ\x02t\n\x0E\x05\x01\x14\x06ユナカ\nAngry\n\x0E\x03\x02\x08\x06ユナカ\nJe veille sur vous. Allez, \x0E\x01\x00\x00 !\nAllons-y !\x0E\x04\x00\x00
+MID_TK_Staluke1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x18\nスタルーク\nAngry\n\x0E\x03\x02\x0C\nスタルーク\nJe regrette que vous vous retrouviez avec une\npersonne aussi peu impressionnante que moi,\n\x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Citrinica1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x18\nシトリニカ\nAngry\n\x0E\x03\x02\x0C\nシトリニカ\nC'est plutôt soudain, mais... accepterez-vous\nde vous battre à mes côtés, \x0E\x01\x00\x00 ?\x0E\x04\x00\x00
+MID_TK_Lapis1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x14\x06ラピス\nAngry\n\x0E\x03\x02\x08\x06ラピス\nAidez-moi à me surpasser, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Diamand1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nExercez votre pouvoir et tenez-vous à mes\ncôtés, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Umber1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アンバー\x02t\n\x0E\x05\x01\x16\x08アンバー\nAngry\n\x0E\x03\x02\x0A\x08アンバー\nVous voilà ! N'ayez crainte. Plus jamais nous ne\nvous abandonnerons, \x0E\x01\x00\x00 !\x0E\x04\x00\x00
+MID_TK_Jade1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x02t\n\x0E\x05\x01\x16\x08ジェーデ\nAngry\n\x0E\x03\x02\x0A\x08ジェーデ\n« La guerrière disposait enfin d'un soutien\nprécieux... » Venez vous battre à mes côtés,\n\x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Ivy1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nJe sais comment m'occuper de vous,\n\x0E\x01\x00\x00. Suivez-moi.\x0E\x04\x00\x00
+MID_TK_Kagetsu1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カゲツ\x02t\n\x0E\x05\x01\x14\x06カゲツ\nAngry\n\x0E\x03\x02\x08\x06カゲツ\nCela fait bien trop longtemps, \x0E\x01\x00\x00.\nVenez, camarade !\x0E\x04\x00\x00
+MID_TK_Zelkova1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x02t\n\x0E\x05\x01\x16\x08ゼルコバ\nAngry\n\x0E\x03\x02\x0A\x08ゼルコバ\nOh. Vous voilà. *Joignez-vous* à moi,\n\x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Fogato1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nJe suis content d'être tombé sur vous.\nTâchons de ne plus nous séparer,\nd'accord, \x0E\x01\x00\x00 ?\x0E\x04\x00\x00
+MID_TK_Pandoro1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x16\x08パンドロ\nAngry\n\x0E\x03\x02\x0A\x08パンドロ\nVous avez bonne mine, \x0E\x01\x00\x00.\nVous prendrez soin de moi, n'est-ce pas ?\x0E\x04\x00\x00
+MID_TK_Bonet1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ボネ\x02t\n\x0E\x05\x01\x12\x04ボネ\nAngry\n\x0E\x03\x02\x06\x04ボネ\nTiens, vous avez changé de couleur par rapport\nà la dernière fois, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Misutira1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x18\nミスティラ\nAngry\n\x0E\x03\x02\x0C\nミスティラ\nQu'importe la situation, vous restez toujours\nfidèle à vous-même. Allez, on a un monde à\nsauver, \x0E\x01\x00\x00 !\x0E\x04\x00\x00
+MID_TK_Panetone1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パネトネ\x02t\n\x0E\x05\x01\x16\x08パネトネ\nAngry\n\x0E\x03\x02\x0A\x08パネトネ\nQuel soulagement de vous voir,\n\x0E\x01\x00\x00 ! Allons-y.\x0E\x04\x00\x00
+MID_TK_Merin1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06メリン\x02t\n\x0E\x05\x01\x14\x06メリン\nAngry\n\x0E\x03\x02\x08\x06メリン\nJe suis là pour vous, \x0E\x01\x00\x00. Toute aide\nde votre part sera la bienvenue.\x0E\x04\x00\x00
+MID_TK_Hortensia1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nVotre solitude vous pesait, \x0E\x01\x00\x00 ?\nBonne nouvelle : je suis là, maintenant.\x0E\x04\x00\x00
+MID_TK_Seadas1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nAngry\n\x0E\x03\x02\x0A\x08セアダス\nNotre rencontre est comme un signe... Venez,\n\x0E\x01\x00\x00, dansons ensemble.\x0E\x04\x00\x00
+MID_TK_Rosado1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ロサード\x02t\n\x0E\x05\x01\x16\x08ロサード\nSmile\n\x0E\x03\x02\x0A\x08ロサード\nMême si je préférerais saisir en quelques traits\nla beauté qui est la vôtre en ce moment, nous\ndevons y aller, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Goldmary1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x02t\n\x0E\x05\x01\x1A\x0Cゴルドマリー\nAngry\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nPardon de vous déranger après tout ce que\nvous avez traversé. Encore un petit effort,\n\x0E\x01\x00\x00...\x0E\x04\x00\x00
+MID_TK_Linden1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リンデン\x02t\n\x0E\x05\x01\x16\x08リンデン\nAngry\n\x0E\x03\x02\x0A\x08リンデン\nAh, vous voilà. Il est temps de revenir\nà nos côtés, \x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Sapir1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nザフィーア\x02t\n\x0E\x05\x01\x18\nザフィーア\nAngry\n\x0E\x03\x02\x0C\nザフィーア\nVous avez l'air en forme, \x0E\x01\x00\x00.\nVous voulez bien me faire un peu\nprofiter de votre force ?\x0E\x04\x00\x00
+MID_TK_Veyre1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nSi vous êtes d'accord, \x0E\x01\x00\x00,\nvous joindrez-vous à moi ?\x0E\x04\x00\x00
+MID_TK_Mauve1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nJ'aimerais que vous vous joigniez à moi,\n\x0E\x01\x00\x00.\x0E\x04\x00\x00
+MID_TK_Anna1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x14\x06アンナ\nAngry\n\x0E\x03\x02\x08\x06アンナ\nJoli ! L'anneau brille comme un sou neuf !\nFaisons équipe, \x0E\x01\x00\x00 !\x0E\x04\x00\x00
+MID_TK_Jean1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02t\n\x0E\x05\x01\x14\x06ジャン\nAngry\n\x0E\x03\x02\x08\x06ジャン\nVous faites un peu peur, mais je sais que c'est\ntoujours vous. Vous voulez bien m'aider,\n\x0E\x01\x00\x00 ?\x0E\x04\x00\x00
+MID_TK_Lueur2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJe travaille déjà avec un Emblème, donc je vais\ngarder cet anneau pour l'instant.\x0E\x04\x00\x00
+MID_TK_Vandre2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nJ'ai déjà obtenu le pouvoir d'un Emblème, mais\nje veillerai sur cet anneau comme sur la\nprunelle de mes yeux.\x0E\x04\x00\x00
+MID_TK_Clan2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x14\x06クラン\nAngry\n\x0E\x03\x02\x08\x06クラン\nJ'ai déjà un autre Emblème, mais je garderai\ncet anneau pour qu'on sache où il se trouve.\x0E\x04\x00\x00
+MID_TK_Fram2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x14\x06フラン\nAngry\n\x0E\x03\x02\x08\x06フラン\nIl y a tant d'anneaux, mais je garderai celui-ci\npour qu'il soit en sécurité !\x0E\x04\x00\x00
+MID_TK_Alfred2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJe ne pense pas pouvoir utiliser deux Emblèmes\nà la fois. Mais je veillerai sur cet anneau malgré\ntout !\x0E\x04\x00\x00
+MID_TK_Etie2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエーティエ\x02t\n\x0E\x05\x01\x18\nエーティエ\nAngry\n\x0E\x03\x02\x0C\nエーティエ\nJe n'ai pas la musculature pour fusionner avec\ndeux Emblèmes. Peut-être que quelqu'un\nd'autre voudra celui-là.\x0E\x04\x00\x00
+MID_TK_Boucheron2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nブシュロン\x02t\n\x0E\x05\x01\x18\nブシュロン\nAngry\n\x0E\x03\x02\x0C\nブシュロン\nJ'ai déjà fusionné avec un Emblème. Hmm...\nJe veillerai dessus, pas de problème.\x0E\x04\x00\x00
+MID_TK_Celine2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x16\x08セリーヌ\nAngry\n\x0E\x03\x02\x0A\x08セリーヌ\nJe suis déjà sous la protection d'un Emblème.\nMais si nécessaire, je peux veiller sur cet\nanneau.\x0E\x04\x00\x00
+MID_TK_Chloe2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロエ\x02t\n\x0E\x05\x01\x14\x06クロエ\nAngry\n\x0E\x03\x02\x08\x06クロエ\nDeux Emblèmes, c'est un véritable conte\nde fées, mais je pense que je devrais rendre\ncelui-ci à Sa Divinité.\x0E\x04\x00\x00
+MID_TK_Louis2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ルイ\x02t\n\x0E\x05\x01\x12\x04ルイ\nAngry\n\x0E\x03\x02\x06\x04ルイ\nJ'ai déjà toute l'aide nécessaire, mais je\nm'assurerai que cet anneau soit en sécurité.\x0E\x04\x00\x00
+MID_TK_Yunaka2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ユナカ\x02t\n\x0E\x05\x01\x14\x06ユナカ\nAngry\n\x0E\x03\x02\x08\x06ユナカ\nJe ne peux pas fusionner avec plusieurs\nEmblèmes. Mais je ne peux pas laisser\ncet anneau ici. Je veillerai sur lui !\x0E\x04\x00\x00
+MID_TK_Staluke2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\nJe suis désolé. Je n'ai pas le talent nécessaire\npour fusionner avec deux Emblèmes. J'espère\nque ma poche sera un sanctuaire acceptable...\x0E\x04\x00\x00
+MID_TK_Citrinica2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x18\nシトリニカ\nAngry\n\x0E\x03\x02\x0C\nシトリニカ\nJ'ai déjà fusionné, mais je veillerai sur vous\npour le moment.\x0E\x04\x00\x00
+MID_TK_Lapis2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x14\x06ラピス\nAngry\n\x0E\x03\x02\x08\x06ラピス\nJe ne suis pas assez forte pour fusionner avec\nplusieurs Emblèmes, mais je veillerai tout de\nmême sur cet anneau.\x0E\x04\x00\x00
+MID_TK_Diamand2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nJe ne mérite pas un tel pouvoir... Je vais\nm'assurer qu'il soit confié au Dragon divin.\x0E\x04\x00\x00
+MID_TK_Umber2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アンバー\x02t\n\x0E\x05\x01\x16\x08アンバー\nAngry\n\x0E\x03\x02\x0A\x08アンバー\nQuoi ?! On peut fusionner avec deux Emblèmes\nà la fois ? Probablement pas... Je vais juste\nveiller sur cet anneau, pour le moment.\x0E\x04\x00\x00
+MID_TK_Jade2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x02t\n\x0E\x05\x01\x16\x08ジェーデ\nAngry\n\x0E\x03\x02\x0A\x08ジェーデ\nAh, un second Emblème. Je vais veiller sur lui\npour l'instant.\x0E\x04\x00\x00
+MID_TK_Ivy2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nJ'ai déjà obtenu le pouvoir d'un Emblème.\nJe vais rendre celui-ci au Dragon divin.\x0E\x04\x00\x00
+MID_TK_Kagetsu2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カゲツ\x02t\n\x0E\x05\x01\x14\x06カゲツ\nAngry\n\x0E\x03\x02\x08\x06カゲツ\nQuelle heureuse découverte. Cependant, je suis\nincapable de fusionner deux fois. Je vais veiller\nsur vous.\x0E\x04\x00\x00
+MID_TK_Zelkova2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x02t\n\x0E\x05\x01\x16\x08ゼルコバ\nAngry\n\x0E\x03\x02\x0A\x08ゼルコバ\nUn Emblème. Mais je ne peux en utiliser plus\nd'un. Je vais aller l'apporter au Dragon divin.\x0E\x04\x00\x00
+MID_TK_Fogato2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nJe suis ravi que vous alliez bien. On ne peut\npas fusionner pour le moment, alors je vais\nsimplement veiller sur vous. Suivez-moi !\x0E\x04\x00\x00
+MID_TK_Pandoro2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x16\x08パンドロ\nAngry\n\x0E\x03\x02\x0A\x08パンドロ\nEt un autre ! Il pleut des Emblèmes, ma parole !\nJe vais ranger celui-ci dans ma manche.\x0E\x04\x00\x00
+MID_TK_Bonet2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ボネ\x02t\n\x0E\x05\x01\x12\x04ボネ\nAngry\n\x0E\x03\x02\x06\x04ボネ\nJe ne peux manger un gâteau qu'une seule fois,\net c'est pareil avec les Emblèmes. Je vais garder\ncet anneau pour plus tard.\x0E\x04\x00\x00
+MID_TK_Misutira2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x18\nミスティラ\nAngry\n\x0E\x03\x02\x0C\nミスティラ\nOn a jamais trop d'amis, mais je peux pas\nfusionner avec deux Emblèmes à la fois.\nJe vais veiller sur vous.\x0E\x04\x00\x00
+MID_TK_Panetone2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パネトネ\x02t\n\x0E\x05\x01\x16\x08パネトネ\nAngry\n\x0E\x03\x02\x0A\x08パネトネ\nPlusieurs ennemis, c'est une sinécure. Mais\nplusieurs fusions à la fois, c'est une gageure.\nJe me contenterai de vous emporter avec moi.\x0E\x04\x00\x00
+MID_TK_Merin2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06メリン\x02t\n\x0E\x05\x01\x14\x06メリン\nAngry\n\x0E\x03\x02\x08\x06メリン\nJe vois que vous n'avez pas encore fusionné,\nbien que ce soit mon cas. Je vous garderai avec\nplaisir dans ma poche.\x0E\x04\x00\x00
+MID_TK_Hortensia2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nJe ne peux vous laisser là, mais je ne peux\npas non plus fusionner à nouveau. Venez,\nje prendrai soin de vous.\x0E\x04\x00\x00
+MID_TK_Seadas2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nAngry\n\x0E\x03\x02\x0A\x08セアダス\nJe ne peux danser qu'avec un seul partenaire à\nla fois. Je vais vous garder avec moi jusqu'au\nmoment opportun.\x0E\x04\x00\x00
+MID_TK_Rosado2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ロサード\x02t\n\x0E\x05\x01\x12\x08ロサード\x06Shy\n\x0E\x03\x02\x0A\x08ロサード\nC'est merveilleux, mais j'ai déjà un Emblème.\nJe garderai cet anneau pour le protéger, si vous\nêtes d'accord.\x0E\x04\x00\x00
+MID_TK_Goldmary2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x02t\n\x0E\x05\x01\x1A\x0Cゴルドマリー\nAngry\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nDésolée, tout le monde se bat pour être avec\nmoi, alors j'ai déjà un Emblème, mais je ne\nvais pas vous abandonner ici.\x0E\x04\x00\x00
+MID_TK_Linden2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リンデン\x02t\n\x0E\x05\x01\x16\x08リンデン\nAngry\n\x0E\x03\x02\x0A\x08リンデン\nFusionner avec deux Emblèmes constituerait\nune expérience intéressante, mais... Je ferais\nmieux de mettre celui-ci de côté.\x0E\x04\x00\x00
+MID_TK_Sapir2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nザフィーア\x02t\n\x0E\x05\x01\x18\nザフィーア\nAngry\n\x0E\x03\x02\x0C\nザフィーア\nC'est dangereux ici. Même si j'ai déjà fusionné,\nje peux quand même vous emporter avec moi.\x0E\x04\x00\x00
+MID_TK_Veyre2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nJe regrette de ne pouvoir fusionner avec vous.\nVenez, tout ira bien. Je vous promets que c'est\nvrai, cette fois.\x0E\x04\x00\x00
+MID_TK_Mauve2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nJe détiens déjà le pouvoir d'un Emblème.\nMais je vous amènerai au Dragon divin.\x0E\x04\x00\x00
+MID_TK_Anna2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x14\x06アンナ\nAngry\n\x0E\x03\x02\x08\x06アンナ\nJ'ai trouvé un autre Emblème ! Alors il est à\nmoi ! Sauf si quelqu'un en a besoin, bien sûr.\x0E\x04\x00\x00
+MID_TK_Jean2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02t\n\x0E\x05\x01\x14\x06ジャン\nAngry\n\x0E\x03\x02\x08\x06ジャン\nJe ne peux pas vous utiliser, mais je ne peux pas\nnon plus vous laisser ici. Bon, suivez-moi.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x0A\x08リュール\nÇa y est. J'ai invoqué les Emblèmes, et nous\navons repoussé tous nos ennemis.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08ヴェイル\nQuel soulagement !\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJe vous présente mes excuses. À tou\x0E\x0A\x00\x08
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nPour quelle raison ?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0E\x0Cアルフレッド\nPour avoir douté de vous.\x0E\x04\x02\x00
+MID_ED1_#006	J'ai d'abord cru à une ruse de Sombron, une\ntentative de nous pousser à nous entretuer.\x0E\x04\x02\x00
+MID_ED1_#007	Mais quand nous avons combattu ensemble,\nj'ai vu que c'était bien vous. Notre allié\x0E\x0A\x00\x06
+MID_ED1_#008	\x0E\x03\x00\x0E\x08アイビー\x024\n\x0E\x03\x02\x0A\x08アイビー\nAberration ou non, je suis ravie de vous revoir.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nMerci à vous tous de m'avoir fait confiance.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x10\nミスティラ\x022\n\x0E\x03\x02\x0C\nミスティラ\nEt merci à Dame Veyle ! On aurait jamais\ngagné sans vous.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nOui. Vous avez repris le contrôle de vous-même,\nressuscité le Dragon divin... Le tout en une seule\njournée.\x0E\x04\x02\x00
+MID_ED1_#012	Sans vous, nous serions probablement tous\nmorts à l'heure qu'il est.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08ヴェイル\nMerci. J'ai fait de mon mieux.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nMaintenant, nous sommes à nouveau réunis...\x0E\x04\x02\x00
+MID_ED1_#015	...\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08ヴェイル\nQue se passe-t-il ?\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nJe ne peux plus bouger...\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08ヴェイル\nQuoi ? Non...\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nJe disparais.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08ヴェイル\nJe savais qu'il y avait un risque, mais je ne\npensais pas que ça se produirait aussi vite.\x0E\x04\x02\x00
+MID_ED1_#021	J'ai conféré à votre corps autant de puissance\nque possible. Ça aurait dû être suffisant.\x0E\x04\x02\x00
+MID_ED1_#022	Sauf si... Oh non. Le fait d'invoquer les\nEmblèmes... a dû vous épuiser.\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08リュール\nJe ne savais pas.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x0A\x08ヴェイル\nCe n'est pas grave. Je vais réessayer.\nTenez bon !\x0E\x04\x02\x00
+MID_ED1_#025	Oh, Gardiens des ombres, assouplissez\nles lois qui régissent la vie et la mort...\x0E\x04\x00\x00
+MID_ED1_#026	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x02\x0A\x08ヴェイル\nVotre corps rejette mon pouvoir !\nIl ne peut plus en absorber...\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0A\x08リュール\nMerci d'avoir essayé, Veyle. Mais il semble\nque ma dernière heure ait sonné.\x0E\x04\x00\x00
+MID_ED1_#029	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x02\x0A\x08リュール\nN'ayez crainte. Les douze Emblèmes sont là.\x0E\x04\x02\x00
+MID_ED1_#031	Avec leur aide, je sais que vous serez\nen mesure d'arrêter Sombron.\x0E\x04\x00\x00
+MID_ED1_#032	\x0E\x03\x02\x0A\x08ヴェイル\nNon ! Vous ne pouvez pas partir ! Vous aviez\ndit que nous sauverions le monde ensemble !\x0E\x04\x00\x00
+MID_ED1_#033	\x0E\x03\x02\x0A\x08リュール\nJe suis vraiment désolé\x0E\x0A\x00\x06
+MID_ED1_#034	Au moins, je me suis montré\x0E\x0A\x00\x06
+MID_ED1_#035	J'aurais tellement voulu me battre à vos côtés\njusqu'au bout, mes... amis...\x0E\x04\x00\x00
+MID_ED1_#036	\x0E\x03\x02\x0A\x08ヴェイル\nMon frère !\x0E\x04\x00\x00
+MID_ED1_#036_F	\x0E\x03\x02\x0A\x08ヴェイル\nMa sœur !\x0E\x04\x00\x00
+MID_ED1_#037	\x0E\x03\x02\x0A\x08リュール\nNous avons récupéré les anneaux...\nEt nous sommes tous réunis...\x0E\x04\x02\x00
+MID_ED1_#038	Si seulement j'avais pu mener à bien la mission\nque Mère m'avait confiée...\x0E\x04\x02\x00
+MID_ED1_#039	Je regrette de ne pouvoir voir le monde en\npaix... Tout ce que je vois, c'est...\x0E\x04\x02\x00
+MID_ED1_#040	\x0E\x03\x02\x0A\x08リュール\nDe la lumière ?\x0E\x04\x00\x00
+MID_ED1_#041	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0A\x04不明\x021\n\x0E\x03\x02\x06\x04不明\nEnfant dragon. Vous désirez pouvoir combattre,\njusqu'à la fin, aux côtés de nous tous.\x0E\x04\x00\x00
+MID_ED1_#042	\x0E\x03\x02\x0A\x08リュール\nMarth ?\x0E\x04\x00\x00
+MID_MOVIE_#001	Enfant dragon, vous qui avez combattu\navec courage, même après la mort...
+MID_MOVIE_#002	Souhaitez-vous vous relever une nouvelle fois ?
+MID_MOVIE_#003	Je veux me battre. Ça ne peut\npas se terminer ainsi.
+MID_MOVIE_#004	Qu'importent les difficultés, je dois continuer\njusqu'à ce que le monde soit en sécurité.
+MID_MOVIE_#005	Je dois combattre... comme\nl'ont fait les Emblèmes !
+MID_MOVIE_#006	J'ai entendu votre souhait.\nNotre pouvoir... vous appartient.
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nLes douze Emblèmes ont dû octroyer\nleur pouvoir...\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08ヴェイル\nC'est magnifique...\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08リュール\nComment est-ce que...\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x03\x02\x0A\x08ルミエル\nAvant que tu ne sombres dans le sommeil,\nje t'ai fait une promesse.\x0E\x04\x02\x00
+MID_ED2_#005	Je t'ai promis un cadeau d'anniversaire qui\nte conviendrait à la perfection.\x0E\x04\x02\x00
+MID_ED2_#006	J'ai toujours su que ce jour viendrait.\x0E\x04\x02\x00
+MID_ED2_#007	Joyeux anniversaire, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x01\x0A\x08ルミエル\n\x0E\x03\x02\x0A\x08リュール\nAlors, cet anneau...\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nC'est votre Anneau d'Emblème désormais,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0A\x08リュール\nMarth !\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x08\x06マルス\nCet anneau renfermait le pouvoir de Lumera.\nVous avez restauré le pouvoir du Dragon divin.\x0E\x04\x02\x00
+MID_ED2_#012	Elle savait que ce jour arriverait, le jour\nde votre renaissance.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x0A\x08リュール\nJ'étais mort\x0E\x0A\x00\x06
+MID_ED2_#014	\x0E\x03\x02\x08\x06マルス\nLe pouvoir combiné des douze anneaux vous a\nsauvé la vie et a fait de vous le treizième\nEmblème.\x0E\x04\x02\x00
+MID_ED2_#015	L'Emblème du Feu.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0A\x08リュール\nJe suis le treizième Emblème ?\nL'Emblème du Feu ?\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x0C\x06セリカ\x021\n\x0E\x03\x02\x08\x06セリカ\nOui, \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_ED2_#018	Et voici votre Anneau d'Emblème. Il est\nidentique à ceux qui abritent nos esprits.\x0E\x04\x02\x00
+MID_ED2_#019	\x0E\x03\x01\x08\x06セリカ\n\x0E\x03\x00\x0E\x08シグルド\x021\n\x0E\x03\x02\x0A\x08シグルド\nNous autres Emblèmes avons toujours été\ndes esprits. Mais vous, vous aviez une\nenveloppe charnelle...\x0E\x04\x02\x00
+MID_ED2_#020	C'est peut-être pour cette raison que vous êtes\naussi unique.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x0A\x08リュール\nEt c'est comme si je ne m'étais jamais\nchangé\x0E\x0A\x00\x06
+MID_ED2_#022	\x0E\x03\x01\x0A\x08シグルド\n\x0E\x03\x00\x0C\x06リーフ\x021\n\x0E\x03\x02\x08\x06リーフ\nVotre pouvoir d'Emblème réside dans l'anneau,\ntout comme les dragons abritent leur pouvoir\ndans des pierres.\x0E\x04\x02\x00
+MID_ED2_#023	Même si vous avez perdu la vie, vous voilà\nde retour comme Emblème avec un nouveau\ncorps.\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x0A\x08リュール\nMais... comment ?\x0E\x04\x02\x00
+MID_ED2_#025	Sombron a utilisé votre pouvoir. Je pensais\nque vous ne pouviez l'octroyer qu'une seule\nfois par millénaire.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x01\x08\x06リーフ\n\x0E\x03\x00\x0A\x04ロイ\x021\n\x0E\x03\x02\x06\x04ロイ\nLes douze anneaux possèdent un autre\npouvoir. Un pouvoir que nous avons\ntenu secret.\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x02\x0A\x08リュール\nEt quel est donc ce pouvoir ?\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x01\x06\x04ロイ\n\x0E\x03\x00\x0A\x04リン\x021\n\x0E\x03\x02\x06\x04リン\nComme vous êtes désormais un Emblème,\nj'imagine que je peux vous dire la vérité.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x01\x06\x04リン\n\x0E\x03\x00\x10\nエイリーク\x021\n\x0E\x03\x02\x0C\nエイリーク\nNous avons toujours pu utiliser le miracle des\nEmblèmes à tout moment.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x01\x0C\nエイリーク\n\x0E\x03\x00\x0C\x06アイク\x021\n\x0E\x03\x02\x08\x06アイク\nPour cela, nous devions tous être réunis\net décider à l'unanimité de la personne\nméritant le miracle.\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x0A\x08リュール\nAlors, ça signifie que je...\x0E\x04\x00\x00
+MID_ED2_#032	\x0E\x03\x01\x08\x06アイク\n\x0E\x03\x00\x0C\x06ミカヤ\x021\n\x0E\x03\x02\x08\x06ミカヤ\nOui. Nous avons tous décidé de combattre\nà vos côtés, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED2_#033	\x0E\x03\x01\x08\x06ミカヤ\n\x0E\x03\x00\x0C\x06ベレト\x021\n\x0E\x03\x02\x08\x06ベレト\nCe pouvoir ne peut être utilisé qu'une seule fois,\ncependant. Il ne pourra jamais être reproduit,\nmême après des millénaires.\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x01\x08\x06ベレト\n\x0E\x03\x00\x0C\x06ルキナ\x021\n\x0E\x03\x02\x08\x06ルキナ\nDe plus, ce sera le dernier présent que nous\nferons à ce monde.\x0E\x04\x02\x00
+MID_ED2_#035	\x0E\x03\x01\x08\x06ルキナ\n\x0E\x03\x00\x0C\x06カムイ\x021\n\x0E\x03\x02\x08\x06カムイ\nNous avons sacrifié tout notre futur pouvoir,\nmais cela valait la peine, car nous allons\ndésormais combattre à vos côtés.\x0E\x04\x02\x00
+MID_ED2_#036	\x0E\x03\x01\x08\x06カムイ\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nC'est la toute première fois que les Emblèmes\nfont le même souhait. Pour ceci, pour vous.\x0E\x04\x00\x00
+MID_ED2_#037	\x0E\x03\x02\x0A\x08リュール\nVous tous, vous...\x0E\x04\x00\x00
+MID_ED2_#038	\x0E\x03\x02\x08\x06マルス\nC'était la seule manière de vous sauver.\nPersonne n'échappe réellement à la mort.\x0E\x04\x02\x00
+MID_ED2_#039	Peut-être ne désiriez-vous pas devenir un\nEmblème. J'espère que nous avons pris la\nbonne décision.\x0E\x04\x00\x00
+MID_ED2_#040	\x0E\x03\x02\x0A\x08リュール\nJ'ai perdu la vie par deux fois. Je ne pensais\npas revenir. Alors, merci infiniment !\x0E\x04\x02\x00
+MID_ED2_#041	Mes amis et moi ferons tout notre possible\npour protéger ce monde. Je me montrerai\ndigne de ce que vous avez fait.\x0E\x04\x02\x00
+MID_ED2_#042	Oh, Marth...\x0E\x04\x02\x00
+MID_ED2_#043	Je suis si heureu\x0E\x0A\x00\x0A\x02x\x04se de vous revoir.\x0E\x04\x02\x00
+MID_ED2_#044	Je suis désolé\x0E\x0A\x00\x06
+MID_ED2_#045	\x0E\x03\x02\x08\x06マルス\nOh, ce n'était guère plus qu'un battement\nde cils, comparé à vos années de sommeil.\x0E\x04\x02\x00
+MID_ED2_#046	D'Emblème à Emblème, je peux vous confier\nque c'est un plaisir de vous revoir.\x0E\x04\x00\x00
+MID_ED2_#047	\x0E\x03\x02\x0A\x08リュール\nAh ! Oui. D'Emblème à Emblème.\x0E\x04\x00\x00
+MID_ED2_#048	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJe suis ravi de vous retrouver,\nVotre Divinité.\x0E\x04\x00\x00
+MID_ED2_#049	\x0E\x03\x00\x10\nミスティラ\x023\n\x0E\x03\x02\x0C\nミスティラ\nNe vous avisez plus jamais de mourir !\nVous m'entendez ?\x0E\x04\x00\x00
+MID_ED2_#050	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nJe n'y survivrais pas si je devais vous perdre\nune troisième fois.\x0E\x04\x00\x00
+MID_ED2_#051	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0A\x08アイビー\nJ'ai prié. Pour que nous soyons à nouveau\nréuni\x0E\x0A\x00\x06
+MID_ED2_#052	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x02\x0E\x0Cディアマンド\nEt vous êtes un Emblème. Il me tarde de voir\nde quoi vous êtes capable.\x0E\x04\x00\x00
+MID_ED2_#053	\x0E\x03\x02\x0A\x08リュール\nJe regrette de vous avoir inquiétés.\x0E\x04\x02\x00
+MID_ED2_#054	Je ne compte plus disparaître. Je suis avec vous\nmaintenant et jusqu'à la fin.\x0E\x04\x00\x00
+MID_ED2_#055	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nNous serons ensemble pour l'éternité,\ndésormais !\x0E\x04\x00\x00
+MID_ED2_#056	\x0E\x03\x02\x0A\x08リュール\nVeyle, sans vous, je ne serais pas là.\x0E\x04\x02\x00
+MID_ED2_#057	Merci.\x0E\x04\x00\x00
+MID_ED2_#058	\x0E\x03\x02\x0A\x08ヴェイル\nNon... Vous m'avez aussi sauvé la vie,\nl'auriez-vous oublié ?\x0E\x04\x02\x00
+MID_ED2_#059	C'est moi qui devrais vous remercier.\x0E\x04\x00\x00
+MID_ED2_#060	\x0E\x03\x02\x0A\x08リュール\nQu'est-ce que c'est ? Un tremblement de\nterre ?!\x0E\x04\x00\x00
+MID_ED2_#061	\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x08\x06マルス\nNon. Je sens quelque chose de différent. Une\nforce gigantesque est à l'œuvre.\x0E\x04\x02\x00
+MID_ED2_#062	Il se passe quelque chose en Gradlon.\x0E\x04\x00\x00
+MID_ED2_#063	\x0E\x03\x02\x0A\x08ヴェイル\nJetons un œil !\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06マルス\x024\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08リュール\nÇa alors ! Qu'est-ce que c'est que ça,\nau milieu de l'océan ?\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x0A\x08ヴェイル\nGradlon... est de retour...\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x08\x06マルス\nUn portail est en train de s'ouvrir dans le ciel.\nBientôt, Sombron pourra envahir d'autres\nmondes.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x0A\x08リュール\nNous devons l'arrêter.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x08\x06マルス\nHélas, une barrière nous bloque le chemin.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x0A\x08ヴェイル\nOui... Elle recouvre tout le continent.\nQuelle immense puissance elle a dû nécessiter...\x0E\x04\x02\x00
+MID_ED3_#007	Papa n'a aucune envie qu'on\ncontrarie ses plans.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x0A\x08リュール\nComment peut-on briser la barrière ?\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x08\x06マルス\nNous devrons briser les fragments de Dragon\ndéchu qui alimentent la barrière.\x0E\x04\x02\x00
+MID_ED3_#010	Mais je ne sais pas où les trouver.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x0A\x08ヴェイル\nJe peux vous aider.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x0A\x08リュール\nVraiment ?\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x0A\x08ヴェイル\nJe sens... une sorte de vortex constitué de\npouvoir de Dragon déchu se former en\nGradlon.\x0E\x04\x02\x00
+MID_ED3_#014	Je crois qu'il y en a deux... Non. Trois.\nSuivez-moi.\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x02\x0A\x08リュール\nNous briserons les fragments de\nDragon déchu ainsi que la barrière !\nTous en Gradlon !\x0E\x04\x00\x00

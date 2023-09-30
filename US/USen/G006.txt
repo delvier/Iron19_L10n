@@ -1,0 +1,89 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0C\x06クロム\x023\n\x0E\x03\x00\x0C\x06ルフレ\x024\n\x0E\x03\x02\x0A\x08リュール\nThis temple seems promising. Let's keep our\neyes peeled for another Emblem Bracelet.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nAh! I found it! Look, it's the Bracelet of the\nShepherd Exalt!\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nInteresting. There's an unusual presence inside\nthis one. Let's try the invocation...\x0E\x04\x02\x00
+MID_OP1_#004	Awaken, Emblem of Bonds!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06クロム\nAwake at last. I feel like I slept for quite a while.\x0E\x04\x02\x00
+MID_OP2_#002	Guess I can't tease you for those long naps\nof yours anymore.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nUm, hello?\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06クロム\nAh, sorry, we're just getting our bearings.\nNice to meet you. I'm Chrom.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x08\x06ルフレ\nHe's the leader of the Shepherds. I'm Robin,\nhis tactician.\x0E\x04\x02\x00
+MID_OP2_#006	If you're the one who awakened us, then you\nhave my thanks.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nYes. I'm the Divine Dragon \x0E\x06\x03\x00. So,\nyou're two Emblems in the same bracelet?\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x08\x06クロム\nRight, but it's not that surprising. Robin and I\nare bound by ties stronger than fate.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nWhat do you mean?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x08\x06ルフレ\nI swore an oath to Chrom when we lost his\nolder sister, the exalt Emmeryn.\x0E\x04\x02\x00
+MID_OP2_#011	Neither of us was half the person she was, but\ntogether we became something more.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x08\x06クロム\nFrom then on, we supported each other through\nthick and thin, no matter the danger.\x0E\x04\x02\x00
+MID_OP2_#013	My sister fought for a peaceful world. Together,\nRobin and I made that a reality.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nThat's a wonderful story. We're also fighting\nto make our world a peaceful one.\x0E\x04\x02\x00
+MID_OP2_#015	Would the two of you be willing to put your\nefforts toward another happy ending?\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x08\x06クロム\nOf course. We'd be honored.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08リュール\nHonored? But I haven't even told you\nwhat's happening!\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x08\x06クロム\nI knew I could trust you the moment I looked\ninto your eyes.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x08\x06ルフレ\nChrom follows his instincts. He trusted me right\naway too, even though I'd lost my memory.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0A\x08リュール\nWell, I appreciate the confidence.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x08\x06クロム\nBefore we join you, though, I think we'll have to\nsee for ourselves what you're made of.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x08\x06ルフレ\nAgreed. It takes strength and fortitude to win a\nfight. We should make sure you have both.\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x08\x06クロム\nDon't worry─it's not a formal test. Just show us\nwhat you've got, and trust it'll be enough.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x0A\x08リュール\nI understand. Let's get started!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nNo need to hesitate. Come at us with everything\nyou've got.\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0C\x06ルフレ\x02t\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nLet's see how you handle our strategy.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nThat barrier is in our way. We'll have to figure\nout how to break through it.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nDivine One, it looks like those crystals might be\ngenerating the barrier.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLet's try smashing one and see what happens.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHmm. The barrier is still standing...\x0E\x04\x00\x00
+MID_EV4_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIt looks like we'll need to destroy all the\ncrystals to get through.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWhat? The crystals reverted back...\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThen we can't waste any time. We better attack\nthem all before everyone's actions are finished.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x16\x06クロム\x0CStatus\n\x0E\x03\x02\x08\x06クロム\nTheir formation's disrupted. Is it time, Robin?\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x00\x0C\x06ルフレ\x02t\n\x0E\x05\x01\x16\x06ルフレ\x0CStrike\n\x0E\x03\x02\x08\x06ルフレ\nDefinitely. Let's move on to the next phase of\nthe plan.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nThe area is flooded! Is their plan to block\nour progress?\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nExcellent! We destroyed all the crystals!\x0E\x04\x00\x00
+MID_EV9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nThe barrier's down! Hurry, let's advance on\nthe Emblems!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02t\n\x0E\x05\x01\x14\x06ルキナ\nSmile\n\x0E\x03\x02\x08\x06ルキナ\nFather! I never expected to see you in this\nworld too.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nLucina! I wasn't expecting to see you either.\x0E\x04\x02\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06クロム\x0CStatus\nWe've got a lot of catching up to do, but let's\nsave it until after the battle.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x06ルキナ\x0CStatus\n\x0E\x03\x02\x08\x06ルキナ\nOf course! It has been a long time since we\nsparred. Let's both try not to break anything!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nI can tell by your form that you're no stranger\nto battle. You know what you're doing.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI've learned a lot along the way, but I still have\na goal to achieve.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06クロム\nSmile\n\x0E\x03\x02\x08\x06クロム\nYou've got as much determination as Robin\ndoes. I can see it in your eyes.\x0E\x04\x02\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06クロム\x0CStatus\nNow, let's get started. I'm ready when you are!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02t\n\x0E\x05\x01\x14\x06ルキナ\nSmile\n\x0E\x03\x02\x08\x06ルキナ\nRobin! You came along with Father, I see.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0C\x06ルフレ\x02b\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nThat's right. I never left Chrom's side.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x16\x06ルキナ\x0CStatus\n\x0E\x03\x02\x08\x06ルキナ\nI feel a bit self-conscious fighting my father's\nother half, but I will do the best I can!\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x16\x06ルフレ\x0CStrike\n\x0E\x03\x02\x08\x06ルフレ\nI understand how you feel, but don't hold\nanything back!\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルフレ\x02b\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nI'm curious to see what you've got. Show me\nthe leader we're joining forces with.\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHappy to, Emblem Robin.\x0E\x04\x02\x00
+MID_BT4_#003	Our strategies may not impress a tactician like\nyou, but the bonds among my allies are strong!\x0E\x04\x00\x00
+MID_BT4_#004	\x0E\x05\x01\x14\x06ルフレ\nSmile\n\x0E\x03\x02\x08\x06ルフレ\nI think Chrom was right. You do seem worthy\nof our trust.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06ルフレ\nWell, I think that settles it. I've got my answer.\nHow about you, Chrom?\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06クロム\nYes, indeed. We saw a tremendous display of\nstrength and resolve.\x0E\x04\x02\x00
+MID_ED1_#003	You are both bold in your actions and sincere in\nyour beliefs. I'm impressed.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nSo, you'll join us?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06クロム\nSorry for the trouble, but I wanted to be sure.\nYes, \x0E\x06\x03\x00, we'll help you.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06ルフレ\nLet's join forces and usher this world toward\nan era of peace.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nThank you, Emblem Chrom, Emblem Robin.\x0E\x04\x02\x00
+MID_ED1_#008	With you on our side, I've got more hope for\nour world than ever.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06クロム\nHope, yes! That's the key to your peaceful\nworld right there.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルフレ\nAnd it's up to us to spread that hope, so the\nworld doesn't fall to despair.\x0E\x04\x02\x00
+MID_ED1_#011	I think it's very important to breathe life into\nthat goal by speaking it aloud.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06クロム\nWell said. If our goal is to bring hope to the\nworld, we can't be half-hearted about it.\x0E\x04\x02\x00
+MID_ED1_#013	There have been times in my life when I've\nbeen close to despair.\x0E\x04\x02\x00
+MID_ED1_#014	In those moments, it was only thanks to Robin\nand our friends that I didn't give up.\x0E\x04\x02\x00
+MID_ED1_#015	Even when I was destined to die, we conquered\nfate by trusting and inspiring each other.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06ルフレ\nThat's right. And so long as you hold on to\nhope, you'll be capable of the same.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nI understand. I'll take those words to heart.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x08\x06クロム\nThat's the spirit! We look forward to joining you\nin the battles to come.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ルキナ\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06ルキナ\nFather! Robin! It's been too long.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x08\x06クロム\nLucina! I'm so happy to see you again.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x08\x06ルフレ\nYou look well. And you've become an Emblem,\njust like us? Incredible.\x0E\x04\x02\x00
+MID_ED2_#004	Chrom does almost nothing but worry about\nyou. It's a little tiresome, if I'm honest.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06クロム\nWe weren't going to discuss that in front of her.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x08\x06ルキナ\nYou really worry that much?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06クロム\nOf course I do. I'm your father.\x0E\x04\x02\x00
+MID_ED2_#008	But now that we're together again, I can finally\nrest easy.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06ルキナ\nIt does feel as if a huge weight has been lifted\noff my shoulders.\x0E\x04\x02\x00
+MID_ED2_#010	Now we can fight side by side again, like we did\nin Ylisse.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x08\x06クロム\nNothing would make me happier.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x08\x06ルフレ\nTogether, we'll make this world a better place.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x08\x06ルキナ\nTogether!\x0E\x04\x00\x00

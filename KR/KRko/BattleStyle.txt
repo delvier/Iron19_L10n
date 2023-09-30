@@ -1,0 +1,18 @@
+MBSID_None	없음
+MBSID_H_None	어떤 전투 스타일에도 속하지 않는다.
+MBSID_Cooperation	연계
+MBSID_H_Cooperation	전투 스타일 [연계]\n사정거리 내에서 발생한 아군의 전투에\n체인 어택으로 참가한다.
+MBSID_Horse	기마
+MBSID_H_Horse	전투 스타일 [기마]\n이동할 수 있는 범위가 넓다.
+MBSID_Covert	은밀
+MBSID_H_Covert	전투 스타일 [은밀]\n지형 효과로 얻는 회피 보정이 2배가 된다.
+MBSID_Heavy	중갑
+MBSID_H_Heavy	전투 스타일 [중갑]\n무기 상성에 의한 브레이크를 무효화한다.
+MBSID_Fly	비행
+MBSID_H_Fly	전투 스타일 [비행]\n지형 효과 및 지형 이동 영향을 받지 않는다.\n｢하늘｣ 등의 지형에도 통행 가능.
+MBSID_Magic	마도
+MBSID_H_Magic	전투 스타일 [마도]\n마법으로 공격했을 때, 상대의 지형 효과에\n따른 회피 보정을 무효화한다.
+MBSID_Prana	기공
+MBSID_H_Prana	전투 스타일 [기공]\n인접한 아군을 보호할 수 있는\n체인 가드 커맨드를 사용할 수 있다.
+MBSID_Dragon	용족
+MBSID_H_Dragon	전투 스타일 [용족]\n인게이지했을 때, 반드시 추가 효과를 얻는다.

@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nCe vent, cette odeur... Ça ressemble\ntellement à chez moi.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nChez vous ? Dans votre monde ?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04リン\nOui. On se croirait dans les plaines de Sacae.\nC'est là que je suis née.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04リン\nAhh... Je me souviens bien de leur beauté.\nQuand j'étais petite, ces plaines semblaient\ns'étendre à l'infini.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nC'est un paysage vraiment magnifique,\net cette brise est agréable.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x06\x04リン\nÇa me fait plaisir que vous disiez ça, même si\nce n'est pas réellement mon foyer.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04リン\nOn se levait à l'aube, on s'occupait des bêtes,\non attrapait du gibier, et on se couchait en\nmême temps que le soleil.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04リン\nChaque jour de mon enfance dans les plaines\nse déroulait ainsi. Mais cela n'a pas duré\néternellement.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nPouvez-vous me dire ce qui s'est passé ?\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04リン\nLa tribu des Lorca, mon peuple, a été attaquée\npar d'ignobles bandits. Il y a eu tellement\nde morts...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04リン\nCes bandits étaient lâches. Ils ont empoisonné\nnotre eau et attaqué dans le chaos qui s'en\nest suivi.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nC'est affreux...\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04リン\nOui, mais les plaines de Sacae sont notre\nmère patrie, et elles nous ont toujours bénis\nde leur abondance.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04リン\nMalgré ces douloureux souvenirs, c'est un\nendroit que je chéris.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x06\x04リン\nAssez de lamentations ! L'atmosphère de\ncet endroit me revitalise !\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04リン\nPréparez votre épée ! Je vais vous montrer\nles vraies capacités de la tribu guerrière des\nLorca !\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nJ'ai hâte de voir ça. Mais vous ne me battrez\npas si aisément.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nJ'ai surmonté tant d'épreuves dans ma vie.\nEt d'autres m'attendent, j'en suis sûr\x0E\x0A\x00\x06
+MID_OP1_#019	\x0E\x03\x02\x06\x04リン\nNotre lien sera toutefois renforcé par\nce combat, ainsi que ma puissance.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x06\x04リン\nAlors, quoi que vous fassiez, ne retenez pas\nvos coups !\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nVous êtes prêt\x0E\x0A\x00\x06
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJe peux entendre des voix ennemies provenant\nde ces tentes. Nous devrions les attaquer\nsans perdre de temps.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nJe ne vais pas rester à ne rien faire !\nMoi aussi je vais les affronter !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x0E\x04リン\x06Die\n\x0E\x03\x02\x06\x04リン\nCes plaines, ces étendues vertes, cette brise...\nElles m'ont nourrie et m'ont rendue forte.\nEt vous ?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJ'ai encore des progrès à faire, mais j'ai pris\ndes forces pendant notre voyage.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x06\x04リン\nJe suis contente que vous ayez repris\ndes forces, car je ne vous ferai pas de cadeau !\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nJ'ai une sensation étrange en vous affrontant.\nCela me rappelle mon père et tout ce qui\nest arrivé.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nVraiment ? Je suis plutôt optimiste face à ce\ncombat. Affronter quelqu'un d'aussi doué que\nvous me fait plaisir.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nSi seulement il avait été aussi encourageant.\nTrès bien, commençons.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nVous voir me donne l'impression que je pourrai\nun jour revoir mon père. Dommage qu'il n'en\nsoit pas ainsi.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x14\x04リン\x0CStatus\n\x0E\x03\x02\x06\x04リン\nMalheureusement, je ne suis ni un substitut\nà votre père, ni son souvenir.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x12\x04リン\nSmile\n\x0E\x03\x02\x06\x04リン\nJe dois noter que vous êtes devenue assez\npuissante. Montrez-moi l'étendue de vos\naméliorations !\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x1E\x0Cオルテンシア\x0EStandBy\n\x0E\x03\x02\x0E\x0Cオルテンシア\nJe me suis affinée en force et en charme !\nSi mon père était là, il serait ébloui par celle\nque je suis devenue !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nOuah. Vous m'avez battue à plates coutures.\nVous êtes très fort\x0E\x0A\x00\x06
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nEt vous étiez aussi douée que je l'attendais !\nEt très puissante aussi...\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nJe me demande si je vous ressemblerais.\nSi j'avais grandi dans les plaines, je veux dire.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04リン\nHa ha, peut-être. C'est ici que j'ai appris à me\nbattre, mais c'est avec Eliwood et Hector que\nj'ai le plus progressé.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x06\x04リン\nOn a voyagé ensemble par monts et par vaux.\nParfois, on se battait comme on vient de le\nfaire.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04リン\nIls m'ont aidée à apprendre la justice et le\ncourage et m'ont donné la force de savoir\nfaire confiance aux autres.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04リン\nC'est cette force qui a fait de moi la personne\nque je suis.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nQuand je me suis réveillé\x0E\x0A\x00\x06
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nMais à présent, je suis entouré\x0E\x0A\x00\x06
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nJ'espère qu'au bout de mon voyage, je serai\ndevenu\x0E\x0A\x00\x06
+MID_ED1_#011	\x0E\x03\x02\x06\x04リン\nVous serez même bien plus fort\x0E\x0A\x00\x06
+MID_ED1_#012	\x0E\x03\x02\x06\x04リン\nEt je vous y aiderai, bien sûr !\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nMerci, Lyn.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

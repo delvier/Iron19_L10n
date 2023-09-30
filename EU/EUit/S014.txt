@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nChe strano... sembra il castello di Altea.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nIl castello di Altea... Appartiene al tuo mondo?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06マルス\nSì. È dove sono cresciuto. E quando cadde in\nmano nemica, lo riconquistai con i miei alleati.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nQuindi perdesti la tua casa?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06マルス\nFummo attaccati dall'impero di Doluna,\nal seguito del Drago Ombra Medeus. Il castello\nnon resistette all'assalto.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nLe guardie del castello mi protessero e mi\naiutarono a fuggire. Purtroppo, però, caddero\nmolti soldati...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06マルス\nQuel giorno appresi fin troppo bene cosa\nsignificava sentirsi impotenti.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nI miei alleati, come la principessa Shiida\ne il mercenario Ogma, mi aiutarono a\nriconquistare la patria.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06マルス\nMi chiamano il "Re Eroico", ma secondo me\ni veri eroi sono coloro che mi aiutarono in\nquella guerra.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nÈ per loro che combatto. Per tutti coloro che\nhanno creduto in me. Voglio dimostrargli che\nla loro speranza era ben riposta.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nCredo di capirti.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nVoglio un futuro di pace per me e i miei alleati.\nÈ questa visione del futuro che tira fuori\nil meglio di me.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nTe la meriti, credimi. Diventi sempre più forte\na ogni battaglia.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nE non dimenticare che i tuoi alleati sono al\ntuo fianco per condividere il fardello che ti\nè toccato. Non sei sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nÈ grazie ai miei amici e alla mia famiglia se\nora sono qui. Devo tutto a loro.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06マルス\nTieni bene a mente questi sentimenti e vedrai\nche supererai questa sfida.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nSfida?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マルス\nDovrai batterti contro di me, \x0E\x06\x03\x00.\nQuesta è la prova a cui sei sottopost\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06マルス\nSe mi batterai, rafforzerai il nostro legame e\npotrai assorbire ancora più potere da me.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nChe lo scontro abbia inizio. Ti mostrerò che\nsono in grado di superare anche questa prova!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x16\x06マルス\x0CStatus\n\x0E\x03\x02\x08\x06マルス\nNon sopporterei di fare una brutta figura con te.\nQuindi non pensare che ci andrò leggero!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nTi stavo aspettando. Credi di potermi battere?\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x18\x06マルス\x0EStandBy\n\x0E\x03\x02\x08\x06マルス\nNe abbiamo passate di cose... Addii, ritrovi...\nCome ti senti ora?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStatus\n\x0E\x03\x02\x0A\x08リュール\nÈ difficile esprimerlo a parole, quindi lascerò\nparlare le armi.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nProprio ciò che volevo!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSono pront\x0E\x0A\x00\x08\x02o\x02a!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nMarth? Devo combattere con te? Ma io non\nvoglio fare del male a un mio amico.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nNon preoccuparti. Qui nessuno si fa del male.\nÈ solo una lotta per conquistare le tue\ndebolezze.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nAh, forse ho capito. Devo conquistare la Veyle\ndel passato!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nSii caparbia. Non sei più sola. Siine consapevole\ne il trionfo sarà tuo!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nMolto bene. Ho percepito la potenza della vostra\nsperanza e tutta la vostra forza di guerrieri.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マルス\nMi hai fatto tornare in mente una mia vecchia\namica.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06マルス\nLa prima volta ho incontrato il Drago Divino\nTiki nel bel mezzo di una battaglia, proprio\ncome questa.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nÈ incredibile che anche nel tuo mondo ci siano\ni Draghi Divini.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06マルス\nSì. E anche lei, come te, combatteva\nper proteggere l'umanità.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nTiki era stata messa a dormire un lungo sonno\nin un tempio per tenerla al sicuro.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06マルス\nDeve essersi sentita così sola al suo risveglio.\nQuando la incontrammo, decise di seguirci.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nMi chiamava "Mar-Mar", come se fossi stato\nsuo fratello. Non mi importava che fosse un\ndrago. Eravamo amici, prima di tutto.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nAllora io e lei abbiamo qualcosa in comune,\na parte essere dei draghi... cioè te.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth, colui che lotta per non far più soffrire\ngli altri. Come lei, sono felice di essere al fianco\ndi un eroe di tale calibro.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06マルス\nAnche io la penso così, fin da quando ci\nincontrammo la prima volta.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nTi ringrazio. Se sono diventat\x0E\x0A\x00\x08\x02o\x02a così forte, è\nperché ci sei tu con me.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nTutto è possibile ora che ho i miei amici al\nmio fianco... Senza di loro non ce la farei mai.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06マルス\nMi fa piacere che ti sia chiaro. Saremo sempre\nal tuo fianco.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

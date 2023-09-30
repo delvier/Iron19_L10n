@@ -1,0 +1,62 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x10\nヴェロニカ\x023\n\x0E\x03\x02\x0A\x08リュール\nUne autre île suspendue dans les cieux ?\nC'est incroyable.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nJe sens la présence d'un autre bracelet.\nIl est tout proche, j'en suis certaine.\x0E\x04\x02\x00
+MID_OP1_#003	Ah, le voilà ! Le Bracelet de l'Héritière Solitaire !\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nJ'espère que l'Emblème qu'il contient\nse montrera coopératif... Il n'y a qu'un\nseul moyen de le savoir.\x0E\x04\x02\x00
+MID_OP1_#005	Entendez notre appel, Emblème des Héros !\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\nJe suis Veronica, princesse impériale d'Embla.\nVeuillez décliner votre identité.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nJe vous salue, Emblème Veronica. Je suis\nle Dragon divin \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_OP2_#003	C'est un honneur.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x0C\nヴェロニカ\nUn honneur ? Quel mot incongru.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nC'est pourtant un honneur de rencontrer\nun illustre Emblème tel que vous, je ne\nvois rien d'incongru à cela.\x0E\x04\x02\x00
+MID_OP2_#006	Et il se trouve que nous avons besoin d'aide,\naujourd'hui plus que jamais. Seriez-vous prête\nà vous joindre à nous ?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0C\nヴェロニカ\nMe joindre à vous ? Devenir votre alliée ?\x0E\x04\x02\x00
+MID_OP2_#008	Vous vous trompez lourdement, c'est plutôt\nà vous qu'il revient de demander à intégrer\nles rangs de l'armée emblaine.\x0E\x04\x02\x00
+MID_OP2_#009	Enfin passons. J'accepte que vous rejoigniez\nles héros que j'ai invoqués ici depuis d'autres\nmondes.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\nVous possédez un tel pouvoir ?\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0C\nヴェロニカ\nOui. Là d'où je viens, cela fait partie\ndes prérogatives de celui qu'on\nnomme l'invocateur.\x0E\x04\x02\x00
+MID_OP2_#012	Lorsque je suis devenue un Emblème,\nj'ai développé des dons similaires.\x0E\x04\x02\x00
+MID_OP2_#013	Depuis, je fais appel à des héros d'autres\nmondes pour les rassembler ici et causer\nla chute du royaume d'Askr.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nJe n'ai jamais entendu parler d'un royaume\nrépondant au nom d'Askr...\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0C\nヴェロニカ\nCela est sans importance, vous ferez un pion\nidéal sur l'échiquier de mes ambitions.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nUne petite seconde...\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0C\nヴェロニカ\nLe temps nous est compté, vous devez\nrejoindre mon armée de héros avant que\nl'invocateur ne vous soustraie à moi.\x0E\x04\x02\x00
+MID_OP2_#018	Préparez-vous à combattre, les vainqueurs\nprendront le commandement des vaincus.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nAttendez ! Je ne souhaite pas vous affronter !\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0C\nヴェロニカ\nVous n'avez pas d'autre choix. Commençons.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\n\x0E\x03\x02\x0C\nヴェロニカ\nQuand je vous aurai vaincu\x0E\x0A\x00\x06
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nVotre Divinité... Je crains qu'il soit impossible\nd'atteindre l'Emblème Veronica, la physionomie\ndes lieux empêche toute progression...\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\nEmpruntez ces points de passage\npour arriver jusqu'à moi.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nNous devrions former deux groupes distincts\net nous diriger vers ces dalles magiques.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nHm... Une dalle isolée ne produit aucun\nrésultat, mais il me vient une idée : et si\nnous les utilisions en même temps ?\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nVotre Divinité, nous devrions tenter de poser\négalement le pied sur la dalle qui se trouve\nde l'autre côté.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\nQu'arrive-t-il ?! Les îles sont prises\nde secousses !\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nEh bien, il semblerait que nous nous soyons\nménagé un chemin... Nous allons pouvoir en\ndécoudre directement avec l'Emblème Veronica.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x18\nヴェロニカ\nRelax\n\x0E\x03\x02\x0C\nヴェロニカ\nVous avez dépassé mes attentes,\nje vous en félicite.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSi nous parvenons à vous vaincre, faites-vous\nla promesse de vous joindre à nous ?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nVous avez bien peu à y gagner.\x0E\x04\x02\x00
+MID_BT1_#004	\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\nAlors que moi, je pourrai m'arroger\nles services d'un\x0E\x0A\x00D\x1C nouveau héros$e nouvelle héroïne.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\nFerais-tu partie des Gardiens d'Askr ? Non,\ntu sembles un peu trop... petite pour cela.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x16\x06アンナ\x0CNormal\n\x0E\x03\x02\x08\x06アンナ\nLes Gardiens d'Askr ? Ça me dit rien, non...\nMais ça sonne bien ! Vous me confondez\npeut-être avec ma sœur !\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06アンナ\nJe pense que mes sœurs doivent aussi exister\ndans votre monde. Oh, je serais curieuse de\nsavoir ce qu'elles vendent à leurs clients !\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nTu es tout à fait... surprenante, tu dois avoir des\nhistoires de famille insolites à raconter.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\nPourquoi ? Pourquoi suis-je condamnée à\nsubir défaite après défaite ? C'est injuste...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nLes vainqueurs prennent le commandement\ndes vaincus, vous l'avez dit vous-même.\nAllez-vous bel et bien rejoindre nos rangs ?\x0E\x04\x02\x00
+MID_ED1_#003	Nous combattons au nom de la paix.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0C\nヴェロニカ\nLa cause que vous défendez ne m'importe\naucunement.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nVous étiez la princesse d'un empire,\nil vous est certainement arrivé d'avoir\nà vous battre pour vos sujets.\x0E\x04\x02\x00
+MID_ED1_#006	C'est ce que nous nous efforçons\nd'accomplir ici, et je sais que vous\nn'êtes pas indifférente à cela.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0C\nヴェロニカ\nIl est vrai que le devoir d'un souverain est\nenvers ses sujets, et j'ai déjà dû faire face\nà de telles responsabilités par le passé...\x0E\x04\x02\x00
+MID_ED1_#008	Mais malgré mes efforts acharnés, je n'ai\njamais pu triompher au nom d'Embla.\x0E\x04\x02\x00
+MID_ED1_#009	Vous possédez de nombreux alliés, ainsi\nque le pouvoir d'invoquer les Emblèmes...\x0E\x04\x02\x00
+MID_ED1_#010	N'est-ce pas suffisant à vos yeux ?\nVous possédez déjà tous les atouts\ndont vous pourriez rêver.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nToute aide est néanmoins la bienvenue, et je\nme sentirais personnellement rassuré\x0E\x0A\x00\x06
+MID_ED1_#012	\x0E\x03\x02\x0C\nヴェロニカ\nJe n'ai rien à vous offrir.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nC'est faux, vous êtes une commandante\nredoutable et fort capable, vous feriez\npour nous une alliée de poids.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0C\nヴェロニカ\nVous avez décidément le don de proférer\ndes inanités.\x0E\x04\x02\x00
+MID_ED1_#015	Je n'ai jamais recherché l'amitié d'autrui, mais\npeut-être est-ce préférable à la solitude ?\x0E\x04\x02\x00
+MID_ED1_#016	Soit, j'accepte de vous prêter assistance,\nne serait-ce qu'un temps.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nJe vous en remercie, Emblème Veronica.\x0E\x04\x02\x00
+MID_ED1_#018	Rentrons, vos nouveaux alliés seront\nheureux de faire votre connaissance.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0C\nヴェロニカ\nHm... Cela reste à déterminer.\x0E\x04\x02\x00
+MID_ED1_#020	Voilà bien longtemps que je n'ai pas paru en\nsociété, ce n'est plus dans mes habitudes.\x0E\x04\x02\x00
+MID_ED1_#021	Pourtant... cette perspective ne m'est point\ndésagréable. Je ferai donc connaissance\navec vos alliés.\x0E\x04\x00\x00

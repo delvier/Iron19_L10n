@@ -1,0 +1,304 @@
+MID_SYS_Difficulty_Normal	노멀
+MID_H_Difficulty_Normal	초보자, 중급자분들께
+MID_SYS_Difficulty_Hard	하드
+MID_H_Difficulty_Hard	상급자분들께
+MID_SYS_Difficulty_Lunatic	루나틱
+MID_H_Difficulty_Lunatic	최고의 난관을 찾는 분들께
+MID_SYS_Mode_Select	모드를 선택해 주십시오
+MID_SYS_Mode_Casual	캐주얼
+MID_H_Mode_Casual	쓰러진 동료가 다음 장에서 복귀하는 간편 모드
+MID_SYS_Mode_Classic	클래식
+MID_H_Mode_Classic	쓰러진 동료가 돌아오지 않는 심사숙고 모드
+MID_SYS_Grow_Random	랜덤
+MID_H_Grow_Random	레벨 업 시 유닛, 병과의 특성을 토대로\n능력이 랜덤하게 상승합니다
+MID_SYS_Grow_Fixed	고정
+MID_H_Grow_Fixed	레벨 업 시 유닛, 병과의 특성을 토대로\n능력이 고정적으로 상승합니다
+MID_Decision	결정
+MID_ToNext	다음
+MID_SYS_BattleRecord	전적
+MID_SYS_Time	타임
+MID_SYS_None	없음
+MID_SYS_Battle_Count	전
+MID_SYS_Win_Count	승
+MID_SYS_FoughtTogetherGod	가장 많이 함께 싸운 문장사
+MID_SYS_TypeSection	병과 구분
+MID_SYS_SeniorPosition	상급
+MID_SYS_BasicPosition	기본
+MID_SYS_SpecialPosition	특수
+MID_SYS_Position	\x0E\x01\x00\x00 병과
+MID_SYS_UseWeapon	사용 무기
+MID_SYS_TypeOfWepon_1	 중 1종
+MID_SYS_TypeOfWepon_2	 중 2종
+MID_SYS_Status	전투 능력
+MID_SYS_Capability	기본 능력
+MID_SYS_EquipedStatus	사용 시 능력
+MID_SYS_Spec	성능
+MID_SYS_Detail	상세
+MID_SYS_EngageWeapon	인게이지 무기
+MID_SYS_Class	병과
+MID_SYS_Item	소지품
+MID_SYS_Skill	스킬
+MID_SYS_SP	SP
+MID_H_INFO_SP	스킬 포인트.\n문장사로부터 스킬을 계승할 때 소비된다.
+MID_SYS_Rating	전투력
+MID_H_INFO_Rating	유닛의 종합적인 강함의 수치.
+MID_SYS_LV	Lv.
+MID_H_INFO_LV	얼마나 강해졌는가에 대한 수치.\n경험을 쌓으면 상승한다.\n다음 레벨까지 앞으로 \x0E\x01\x00\x00 EXP
+MID_H_INFO_LV_MAX	얼마나 강해졌는가에 대한 수치.\n경험을 쌓으면 상승한다.\n(최대 레벨)
+MID_H_INFO_LV_ENEMY	얼마나 강해졌는가에 대한 수치.\n경험을 쌓으면 상승한다.
+MID_H_INFO_BOND_LV	문장사와의 인연의 강함. 높을수록\n문장사의 능력을 많이 끌어낼 수 있다.
+MID_SYS_Exp	EXP
+MID_SYS_HP_MAX_UP	최대 HP
+MID_SYS_HP	HP
+MID_H_INFO_HP	유닛의 생명력.\n0이 되면 전투 불능이 된다.
+MID_H_COMBAT_INFO_HP	행동에 따른 HP 증감 예상.
+MID_SYS_Str	힘
+MID_H_INFO_Str	힘의 세기. 높을수록\n물리 공격 대미지가 증가한다.
+MID_SYS_Mag	마력
+MID_H_INFO_Mag	마력의 세기. 높을수록 마법 공격 대미지와\n지팡이의 회복량이 증가한다.
+MID_SYS_Tec	기술
+MID_H_INFO_Tec	기량. 높을수록\n명중과 필살이 상승한다.
+MID_SYS_Spd	속도
+MID_H_INFO_Spd	민첩함. 높을수록 회피가 상승한다.\n(적보다 5 이상 높으면 추격이 발생)
+MID_SYS_Lck	행운
+MID_H_INFO_Lck	운의 정도. 다양한 행동에 영향을 준다.\n(높을수록 필살의 일격을 받을 확률이 감소)
+MID_SYS_Def	수비
+MID_H_INFO_Def	수비력. 높을수록\n적의 물리 공격 대미지가 감소한다.
+MID_SYS_Res	마방
+MID_H_INFO_Res	마법 방어력. 높을수록\n적의 마법 공격 대미지가 감소한다.
+MID_SYS_Mov	이동
+MID_H_INFO_Mov	이동력. 높을수록\n많은 칸을 이동할 수 있다.
+MID_SYS_Phy	체격
+MID_H_INFO_Phy	몸의 크기. 높을수록 무거운 무기를\n장비했을 때의 속도 저하 수치가 감소한다.
+MID_SYS_Vis	시야
+MID_H_INFO_Vis	시야가 닿는 범위. 높을수록\n어두운 곳에서도 멀리까지 볼 수 있다.
+MID_SYS_Atk	공격
+MID_SYS_Dmg	공격
+MID_H_INFO_Atk	무기 및 마법을 통한 공격력.
+MID_H_COMBAT_INFO_Dmg	명중 시, 상대에게 입히는 대미지양.
+MID_SYS_Weapon_Attack	물공
+MID_SYS_H_Weapon_Attack	물리 공격력. 검 등의 무기를\n장비했을 때의 공격력.
+MID_SYS_Magic_Attack	마공
+MID_SYS_H_Magic_Attack	마법 공격력. 마도서나 마법 무기를\n장비했을 때의 공격력.
+MID_SYS_Special_Attack	특수
+MID_SYS_H_Special_Attack	특수한 공격의 공격력.\n(적의 수비와 마방의 영향을 받지 않음)
+MID_SYS_Hit	명중
+MID_H_INFO_Hit	공격을 명중시키는 능력.\n높을수록 공격이 명중할 확률이 상승한다.
+MID_H_COMBAT_INFO_Hit	｢공격｣ 또는 ｢회복｣의 명중률.
+MID_SYS_Avo	회피
+MID_H_INFO_Avo	공격을 피하는 능력.\n높을수록 적의 공격을 피할 확률이 상승한다.
+MID_SYS_Crit	필살
+MID_H_INFO_Crit	필살의 일격(대미지 3배)을 노리는 능력.\n높을수록 필살의 일격을 가할\n확률이 상승한다.
+MID_H_COMBAT_INFO_Crit	｢필살의 일격｣이 발생할 확률.
+MID_SYS_Secure	필살 회피
+MID_H_INFO_Secure	필살의 일격을 회피하는 능력. 높을수록\n적의 필살의 일격을 받을 확률이 내려간다.
+MID_COMBAT_INFO_Recovery	회복
+MID_H_COMBAT_INFO_Recovery	대상의 HP를 회복시키는 양.
+MID_H_INFO_WLV	사용할 수 있는 \x0E\x01\x00\x00의 레벨.
+MID_H_INFO_WLV_Special	특수 공격
+MID_H_INFO_WLV_Sword	검
+MID_H_INFO_WLV_Lance	창
+MID_H_INFO_WLV_Magic	마도서
+MID_H_INFO_WLV_Dagger	단검
+MID_H_INFO_WLV_Axe	도끼
+MID_H_INFO_WLV_Bow	활
+MID_H_INFO_WLV_Rod	지팡이
+MID_H_INFO_WLV_Fist	체술
+MID_SYS_BondCombi	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 \x0E\x01\x01\x00의 인연
+MID_SYS_BOND_LV	인연 Lv.
+MID_SYS_MAX	MAX
+MID_SYS_Infinity	∞
+MID_SYS_STYLE_BONUS	Style Bonus!
+MID_SYS_QUALITY_Sword	검의 소질
+MID_SYS_H_QUALITY_Sword	검의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Lance	창의 소질
+MID_SYS_H_QUALITY_Lance	창의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Magic	마법의 소질
+MID_SYS_H_QUALITY_Magic	마법의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Knife	단검의 소질
+MID_SYS_H_QUALITY_Knife	단검의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Axe	도끼의 소질
+MID_SYS_H_QUALITY_Axe	도끼의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Bow	활의 소질
+MID_SYS_H_QUALITY_Bow	활의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Rod	지팡이의 소질
+MID_SYS_H_QUALITY_Rod	지팡이의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_QUALITY_Fist	체술의 소질
+MID_SYS_H_QUALITY_Fist	체술의 소질.\n특정 병과로\n클래스 체인지할 수 있게 된다.
+MID_SYS_H_HPStock	부활의 돌.\nHP가 0이 되었을 때\n부서지면서 HP를 전부 회복시킨다.
+MID_SYS_ValueEmpty	--
+MID_SYS_Mt	위력
+MID_SYS_Rec	치유력
+MID_SYS_Eff	특효
+MID_SYS_Weight	무게
+MID_SYS_Rng	사정
+MID_SYS_WLV_Short	Lv.
+MID_H_SYS_Equip	E
+MID_SYS_Target	대상
+MID_SYS_Me	자신
+MID_H_INFO_DISABLE_ENGAGE	사용 불가: 인게이지 아이템
+MID_H_INFO_DISABLE_WEAPONLEVEL	사용 불가: 병과 제한
+MID_SYS_GodWeapon_LV	Lv.
+MID_SYS_ExpNext	앞으로
+MID_SYS_GOLD_COUNT	소지금
+MID_SYS_ABRIDGEMENT	…
+MID_H_INFO_Param_Base	기본치 
+MID_H_INFO_Param_Correction_Weight	무기의 무게
+MID_H_INFO_Param_Correction_God	문장사
+MID_H_INFO_Param_Correction_Support	지원
+MID_H_INFO_Param_Correction_Terrain	지형
+MID_H_INFO_Param_Correction_Effect	효과
+MID_H_INFO_Param_Correction_Hub	거점 행동
+MID_Material_Iron	철정석
+MID_Material_Steel	강정석
+MID_Material_Silver	은정석
+MID_PieceOfBonds	인연의 조각
+MID_B_INFO_DAMAGE	예상 대미지
+MID_MSG_GET	획득
+MID_MSG_COST	소비
+MID_MSG_JOIN_UNIT	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 동료가 되었다
+MID_MSG_JOIN_UNIT2	\x0E\x01\x00\x00, \x0E\x01\x01\x00\x0E\x0A\x04\x08\x02과\x02와 동료가 되었다
+MID_MSG_JOIN_UNIT3	\x0E\x01\x00\x00, \x0E\x01\x01\x00, \x0E\x01\x02\x00\x0E\x0A\x04\x08\x02과\x02와 동료가 되었다
+MID_MSG_GET_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 획득했다
+MID_MSG_GET_ALREADY	읽어 들이기 가능 횟수가 회복될 때까지\n이 amiibo는 읽어 들일 수 없습니다
+MID_MSG_GET_ITEM_PLURAL	\x0E\x01\x00\x00\x0E\x01\x01\x00×\x0E\x01\x02\x00\x0E\x0A\x04\x08\x02을\x02를 획득했다
+MID_MSG_GET_GOLD	\x0E\x01\x00\x00\x0E\x01\x01\x00G를 획득했다
+MID_MSG_GET_PIECE	\x0E\x01\x00\x00인연의 조각을 \x0E\x01\x01\x00개 획득했다
+MID_MSG_BREAK_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02이\x02가 부서졌다
+MID_MSG_DEPRIVED_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 빼앗겼다
+MID_MSG_LEARN_SKILL	병과 스킬 \x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 습득했다
+MID_MSG_SUPPORT_LEVEL_UP	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 \x0E\x01\x01\x00의\n지원 레벨이 \x0E\x01\x02\x00가 되었다
+MID_MSG_POPUP_RELIANCE_EXP_UP	지원도 UP!
+MID_MSG_POPUP_RELIANCE_ADDITION	지원 회화 발생!
+MID_MSG_TUTORIAL_NEW	｢\x0E\x01\x00\x00｣ 튜토리얼이 추가되었습니다
+MID_MSG_BOND_LV_CAP	아직 보지 않은 인연 회화가 있습니다
+MID_MSG_FRIENDLIST_NEWPAGE	동료 수첩에 \x0E\x01\x00\x00의 페이지가 추가되었습니다
+MID_MSG_BONDRING_NEWPAGE	반지\x0E\x01\x08\x00 도감에 정보가 추가되었습니다
+MID_MSG_BOND_LV_CAP_Talk_Attention	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 \x0E\x01\x01\x00의 인연 경험치가\n최대치가 되었습니다\n(거점 및 월드 맵에서 ｢인연 회화｣를 보면\n 인연 레벨을 더욱 올릴 수 있습니다)
+MID_MSG_BOND_LV_CAP_RELEASE	인연 레벨 한계 돌파!
+MID_MSG_BOND_LV_MAX_amiiboItem	많은 동료들이 문장사 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 인연 레벨이\n최대가 되어, 다음 특별 보상을 획득했습니다\n\x0E\x01\x01\x00｢\x0E\x01\x02\x00｣
+MID_MSG_POPUP_BOND_EXP_UP	인연 경험치 UP!
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION	｢용의 시간석｣을 사용하지 않으면\n패배하여 게임 오버 처리됩니다\n괜찮겠습니까?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK	｢용의 시간석｣을 사용하지 않으면\n패배하여 시련이 종료됩니다\n괜찮겠습니까?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES	예(게임 오버)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK	예(패배)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO	아니요(용의 시간석을 사용)
+MID_MSG_GAMEOVER_CONFIRM	맵의 처음부터 다시 시작하겠습니까?\n(전투에서 획득한 경험치 등을 유지한 채\n 맵을 다시 시작할 수 있습니다)
+MID_MSG_GAMEOVER_YES_EXP_ON	경험치를 유지하고 다시 시작하기
+MID_MSG_GAMEOVER_YES_EXP_OFF	경험치를 포기하고 다시 시작하기
+MID_MSG_GAMEOVER_NO	타이틀로 돌아가기
+MID_MSG_BGM_CHANGE	환경 설정에 ｢BGM 설정｣ 항목이 추가되었습니다\n스토리 맵 이외의 아군 페이즈와 적군 페이즈 BGM을\n각각 변경할 수 있습니다
+MID_MSG_ENGAGE_PLUS_ATTENTION	문장사 \x0E\x06\x03\x00의 ｢인게이지+｣는\n｢계전의 시련｣, ｢이계의 시련｣에서 사용할 수 없습니다
+MID_MSG_STORY_COMPLETE_REWARD	스토리 클리어 보상
+MID_MSG_PLAYER_PHASE	PLAYER PHASE
+MID_MSG_ENEMY_PHASE	ENEMY PHASE
+MID_MSG_ALLY_PHASE	ALLY PHASE
+MID_MSG_OFFENSE_PHASE	OFFENSE PHASE
+MID_MSG_DEFENSE_PHASE	DEFENSE PHASE
+MID_MSG_PHASE_TURN	앞으로 \x0E\x01\x00\x00턴
+MID_MSG_AUTO_TROPE	위임 중…
+MID_MSG_SKIP_TROPE	스킵 중…
+MID_MSG_LEVEL_UP	LEVEL UP!
+MID_MSG_CLASS_CHANGE	CLASS CHANGE!
+MID_MSG_STAGE_CLEAR	STAGE CLEAR!
+MID_MSG_GAME_OVER	GAME OVER
+MID_MSG_POPUP_CRITICAL	Critical!
+MID_MSG_POPUP_BREAK	Break!
+MID_MSG_POPUP_MISS	Miss!
+MID_MSG_POPUP_NO_DAMAGE	No Damage!
+MID_MSG_POPUP_SMASH	Smash!
+MID_MSG_POPUP_CHAINATTACK	Chain Attack!
+MID_MSG_POPUP_CHAINGUARD	Chain Guard!
+MID_MSG_POPUP_DUALGUARD	Dual Guard!
+MID_KEYHELP_MYFACE_SELECT	모습 변경
+MID_KEYHELP_BIRTHDAY_SELECT	월/일 전환
+MID_KEYHELP_MAP_HELP	상세 정보
+MID_KEYHELP_MINIGAME_OPERATION_HELP	조작 설명
+MID_KEYHELP_MAP_NOT_ACTION	유닛 변경
+MID_KEYHELP_MAP_UNIT_VIEWER	유닛 상세
+MID_KEYHELP_MAP_CANCEL_ORDERS	위임 해제
+MID_KEYHELP_MAP_SKIP	스킵
+MID_KEYHELP_GMAP_LOOK_OVER	지도
+MID_KEYHELP_GMAP_MOVE_NEWEST	최신 장으로
+MID_KEYHELP_GMAP_FREE_CAMERA	프리 카메라
+MID_KEYHELP_MAP_ACTION	맵 표시 변경
+MID_KEYHELP_DASH	대시
+MID_KEYHELP_MENU	메뉴
+MID_KEYHELP_MENU_ACTION	메뉴 변경
+MID_KEYHELP_CATEGORY_ACTION	카테고리 변경
+MID_KEYHELP_TALK_AUTOPLAY	자동 재생
+MID_KEYHELP_TALK_AUTOPLAY_CANCEL	자동 재생 종료
+MID_KEYHELP_TALK_LOG	로그
+MID_KEYHELP_TALK_LOG_VOICE	보이스 재생
+MID_KEYHELP_MENU_DECIDE	결정
+MID_KEYHELP_MENU_SELECT	선택
+MID_KEYHELP_MENU_RETURN	뒤로
+MID_KEYHELP_MENU_AUTO	일괄 정리
+MID_KEYHELP_MENU_TROOPLIST_CHANGE	표시 전환
+MID_KEYHELP_MENU_HELP	상세 정보
+MID_KEYHELP_MENU_ASSISTINFO_CHANGE	보조 정보
+MID_KEYHELP_MENU_WEAPON_CHANGE	무기 변경
+MID_KEYHELP_MENU_UNIT_CHANGE	유닛 변경
+MID_KEYHELP_MENU_CHARACTER_CHANGE	동료 변경
+MID_KEYHELP_MENU_GOD_CHANGE	문장사 변경
+MID_KEYHELP_MENU_HELP_CHANGE	표시 정보 변경
+MID_KEYHELP_MENU_ABILITY	능력 목록
+MID_KEYHELP_MENU_BATTLE_START	전투 개시
+MID_KEYHELP_MENU_TUTORIAL	튜토리얼
+MID_KEYHELP_MENU_COUNTRY_CHANGE	나라 변경
+MID_KEYHELP_MENU_ZOOM_PICTURE	사진 확대
+MID_KEYHELP_MENU_UNIT_SELECT	리스트
+MID_KEYHELP_MENU_LOOK_UNIT	자세히 보기
+MID_KEYHELP_MENU_CAMERA_CHANGE	카메라 시점 전환
+MID_KEYHELP_MENU_CAMERA_IN_OUT	카메라 상하
+MID_KEYHELP_MENU_CAMERA_OPERATION	카메라 조작
+MID_KEYHELP_MENU_BACK_CHANGE	배경 변경
+MID_KEYHELP_MENU_UI_HIDE	메뉴 ON/OFF
+MID_KEYHELP_MENU_EYES	시선 ON/OFF
+MID_KEYHELP_MENU_RESET	설정 초기화
+MID_KEYHELP_MENU_SORT	정렬
+MID_KEYHELP_MENU_FISHING_CAST	던지기
+MID_KEYHELP_MENU_FISHING_CAST_STOP	취소
+MID_KEYHELP_MENU_ACHIEVEMENT	달성 보상 획득
+MID_KEYHELP_MENU_ACHIEVEMENT_ALL	일괄 획득
+MID_KEYHELP_MOVIE_CAPTION	자막 ON/OFF
+MID_KEYHELP_EDIT_TURN	회전
+MID_KEYHELP_EDIT_PUT	배치
+MID_KEYHELP_EDIT_DELETE	삭제
+MID_KEYHELP_EDIT_TACTICS_CHANGE	전술 변경
+MID_KEYHELP_EDIT_LIST	지형 리스트
+MID_KEYHELP_EDIT_OBJCHANGE	지형 변경
+MID_KEYHELP_EDIT_UNDO	되돌리기
+MID_KEYHELP_NEXT	다음
+MID_KEYHELP_ANIMAL_VIEW	카메라 조작
+MID_KEYHELP_ANIMAL_ACTION	액션
+MID_KEYHELP_REWIND_TURN	다음 턴
+MID_KEYHELP_REWIND_ACTION	선택
+MID_WEAPON_NAME_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE	\x0E\x01\x00\x00\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00\x0E\x01\x02\x00
+MID_RING_RANK_S	S
+MID_RING_RANK_A	A
+MID_RING_RANK_B	B
+MID_RING_RANK_C	C
+MID_LOCALIZE_COLON	
+MID_LOCALIZE_HYPHEN	 
+MID_LOCALIZE_CN_THIRD_M	他
+MID_LOCALIZE_CN_THIRD_F	她
+MID_LOCALIZE_TW_THIRD_M	他
+MID_LOCALIZE_TW_THIRD_F	她
+MID_LANGUAGE_JP_JAPANESE	일본어
+MID_LANGUAGE_US_ENGLISH	영어(북아메리카)
+MID_LANGUAGE_US_FRENCH	프랑스어(캐나다)
+MID_LANGUAGE_US_SPANISH	스페인어(라틴 아메리카)
+MID_LANGUAGE_EU_ENGLISH	영어(유럽)
+MID_LANGUAGE_EU_FRENCH	프랑스어
+MID_LANGUAGE_EU_SPANISH	스페인어(유럽)
+MID_LANGUAGE_EU_GERMAN	독일어
+MID_LANGUAGE_EU_ITALIAN	이탈리아어
+MID_LANGUAGE_CN_TRADITIONAL	중국어(번체자)
+MID_LANGUAGE_CN_SIMPLIFIED	중국어(간체자)
+MID_LANGUAGE_KR_KOREAN	한국어
+MID_LANGUAGE_VOICE_JAPANESE	일본어
+MID_LANGUAGE_VOICE_ENGLISH	영어
+MID_MSG_GET_ITEM_FEH	특전을 받았습니다

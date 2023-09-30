@@ -1,0 +1,18 @@
+MBSID_None	Civil
+MBSID_H_None	Las unidades civiles no cuentan\ncon ventajas especiales en batalla.
+MBSID_Cooperation	Refuerzo
+MBSID_H_Cooperation	Estas unidades pueden encadenar\nataques con los de un aliado que\nluche dentro de su radio de acción.
+MBSID_Horse	Caballería
+MBSID_H_Horse	Las unidades a caballo tienen\nun rango de movimiento mayor\nque el de otras unidades.
+MBSID_Covert	Furtivo
+MBSID_H_Covert	Estas unidades doblan\nla bonificación de Esq\nde los efectos del terreno.
+MBSID_Heavy	Acorazado
+MBSID_H_Heavy	Las unidades acorazadas anulan\nel efecto ruptura que confiere\nla ventaja de arma.
+MBSID_Fly	Volador
+MBSID_H_Fly	Estas unidades se mueven ignorando\nlos efectos del terreno. Son capaces\nde atravesar las casillas sin suelo.
+MBSID_Magic	Místico
+MBSID_H_Magic	Al atacar con magia, estas unidades\nanulan la bonificación de Esq que\nel terreno le proporciona al enemigo.
+MBSID_Prana	Qigong
+MBSID_H_Prana	Con la habilidad Defensa en cadena,\natraen hacia sí mismos ataques\ndirigidos a aliados adyacentes.
+MBSID_Dragon	Dragón
+MBSID_H_Dragon	Las unidades dragón obtienen\nefectos adicionales mientras estén\nfusionadas con Emblemas.

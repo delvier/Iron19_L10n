@@ -1,0 +1,86 @@
+MID_RELIANCE_C_#001	キャラ配置(PID_セレスティア, ME_IN_C, [服装], Normal, IdleNormal)\nキャラ配置(PID_マデリーン, YOU_IN_C, [服装], Normal, IdleNormal)\nキャラ配置調整(PID_マデリーン,,, -0.2)\n\n背景(Map_Event_Hub_Solanel_04_Day)\nライト(CharaLight_Hub_Day, 0, 0, 0)\n\nキャラ視線(PID_セレスティア, PID_マデリーン, PID_マデリーン)\nキャラ視線(PID_マデリーン, PID_セレスティア, PID_セレスティア)\n\nウェイト(0.2)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)\n\nフェードイン()\n\nシーンカメラ(SceneCam_SideYou_Right_Mid, cam_anim_track3_l_normal)\n\n
+MID_RELIANCE_C_#002	キャラカメラ(CharaCam_SideLong_Right2_Mid, PID_マデリーン, cam_anim_pan_d_normal)\n\nキャラモーション再生(PID_マデリーン, Smile, EmoNod,,1)\nキャラモーション再生(PID_マデリーン,, EmoRelax, 3.5,1)\n\nキャラ表示切替(PID_セレスティア, False)\nキャラ配置調整(PID_セレスティア,,, 0.3)
+MID_RELIANCE_C_#003	キャラカメラ(CharaCam_Side_Left3_Mid, PID_セレスティア, cam_anim_track_r_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラ表示切替(PID_マデリーン, False)\nキャラモーション再生(PID_セレスティア, Smile,,,1)\nキャラモーション再生(PID_セレスティア, Smile, EmoJoy, 2,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal,,1)
+MID_RELIANCE_C_#004	キャラカメラ(CharaCam_FrontLong2_Right_Top, PID_マデリーン, cam_anim_track_l_normal)\n\nキャラ表示切替(PID_マデリーン, True)\nキャラモーション再生(PID_セレスティア, Smile, WalkIn2)\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk2, 3.5,0.5)\nキャラモーション再生(PID_マデリーン, Serious, EmoJoy, 3.5, 0.5)\n\n*\nパペット会話中断()\nウェイト(0.5)
+MID_RELIANCE_C_#005	キャラカメラ(CharaCam_Side_Right3_Top, PID_マデリーン, cam_anim_track_r_normal)\n\nキャラ表示切替(PID_セレスティア, False)\nキャラ配置調整(PID_セレスティア,,, -0.4)\n\nキャラモーション再生(PID_マデリーン, Angry, EmoDeny,,0.5)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_C_#006	キャラモーション再生(PID_マデリーン, Die, EmoRelax,,1)\nキャラモーション再生(PID_マデリーン, Normal,, 4,1)
+MID_RELIANCE_C_#007	キャラカメラ(CharaCam_Side_Left2_Mid, PID_セレスティア, cam_anim_track_r_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラ表示切替(PID_マデリーン, False)\nキャラモーション再生(PID_セレスティア, Smile, EmoThink,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)
+MID_RELIANCE_C_#008	キャラカメラ(CharaCam_FrontLong2_Right_Top, PID_マデリーン, cam_anim_track_l_normal)\n\nキャラ表示切替(PID_マデリーン, True)\nキャラモーション再生(PID_マデリーン, Die, EmoNod,,1)\nキャラモーション再生(PID_マデリーン, Smile, EmoJoy, 4,1)\n\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_C_#009	キャラモーション再生(PID_マデリーン, Normal, EmoTalk2,,1)
+MID_RELIANCE_C_#010	キャラカメラ(CharaCam_SideLong_Left2_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk2,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)
+MID_RELIANCE_C_#011	キャラカメラ(CharaCam_Side_Right_Mid, PID_マデリーン, cam_anim_pan_r_normal)\n\nキャラモーション再生(PID_マデリーン, Surprise,,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_C_#012	キャラカメラ(CharaCam_SideLong_Left2_Mid, PID_セレスティア, cam_anim_pan_d_normal)\n\nキャラモーション再生(PID_セレスティア, Sad,EmoSad,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)
+MID_RELIANCE_C_#013	キャラカメラ(CharaCam_Front_Center_Top, PID_マデリーン, cam_anim_pan_u_normal)\n\nキャラモーション再生(PID_マデリーン, Normal, EmoDeny2,,0.5)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_C_#014	キャラモーション再生(PID_マデリーン, Die, EmoThink,,1)\nキャラモーション再生(PID_マデリーン, Normal,, 3,1)
+MID_RELIANCE_C_#015	キャラモーション再生(PID_マデリーン, Normal, EmoRelax,,1)
+MID_RELIANCE_C_#016	キャラカメラ(CharaCam_LowFront_Left, PID_セレスティア, cam_anim_zoom_out_normal)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)
+MID_RELIANCE_C_#017	キャラカメラ(CharaCam_Side_Right3_Top, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Angry, EmoThink,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_C_#018	キャラモーション再生(PID_マデリーン, Surprise, IdleNormal,,0.3)\nキャラモーション再生(PID_マデリーン, Normal, EmoTalk2, 2,1)
+MID_RELIANCE_C_#019	キャラカメラ(CharaCam_FrontLong2_Right_Top, PID_マデリーン, cam_anim_zoom_in_normal)\n\n*\nパペット会話中断()\nキャラモーション待ち(PID_マデリーン)\n\nキャラ視線リセット(PID_マデリーン)\nキャラモーション再生(PID_マデリーン, Normal, TurnR,,1)\nキャラ回転(PID_マデリーン, 90, 1)\nキャラモーション再生(PID_マデリーン, Normal, WalkOut, 0.8,1)\nキャラ回転(PID_セレスティア, -30, 1, 0.5)\nウェイト(2)
+MID_RELIANCE_C_#020	キャラカメラ(CharaCam_FrontLong_Center_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\nキャラ表示切替(PID_マデリーン, False)\n\nキャラモーション再生(PID_セレスティア, Smile, EmoThink,,1)\n\n*\nフェードアウト()
+MID_RELIANCE_B_#001	キャラ配置(PID_セレスティア, ME_IN_C, [服装], Normal, IdleNormal)\nキャラ配置(PID_マデリーン, YOU_IN_C, [服装], Normal, IdleNormal)\n\n背景(Map_Event_Hub_Solanel_09_Day)\nライト(CharaLight_Hub_Day, 0, 0, 0)\n\nキャラ視線(PID_セレスティア, PID_マデリーン, PID_マデリーン)\nキャラ視線(PID_マデリーン, PID_セレスティア, PID_セレスティア)\n\nウェイト(0.2)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoRelax,,1)\n\nフェードイン()\n\nキャラカメラ(CharaCam_FrontLong2_Left_Mid, PID_セレスティア, cam_anim_track3_r_normal)\n\n
+MID_RELIANCE_B_#002	キャラモーション再生(PID_セレスティア, Normal, EmoThink, 2,1)
+MID_RELIANCE_B_#003	キャラカメラ(CharaCam_Side_Right2_Mid, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Sad, EmoPray,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#004	キャラモーション再生(PID_マデリーン, Serious, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Sad,, 4,1)\n\n
+MID_RELIANCE_B_#005	キャラカメラ(CharaCam_LowFront_Right, PID_マデリーン, cam_anim_pan_u_normal)\n\nキャラモーション再生(PID_マデリーン, Sad, EmoDEny2,,0.5)\nキャラモーション再生(PID_マデリーン, Sad, EmoPray, 4.5,1)\nキャラ表示切替(PID_セレスティア, False)\nキャラ回転(PID_セレスティア, 30)
+MID_RELIANCE_B_#006	キャラモーション再生(PID_マデリーン, Normal, EmoJoy,,1)\n
+MID_RELIANCE_B_#007	キャラカメラ(CharaCam_Side_Left4_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラモーション再生(PID_セレスティア, Smile, EmoNod,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#008	キャラカメラ(CharaCam_SideLong_Right2_Mid, PID_マデリーン, cam_anim_zoom_in_normal)\nキャラ表示切替(PID_セレスティア, False)\n\nキャラモーション再生(PID_マデリーン, Normal, EmoTalk,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#009	キャラモーション再生(PID_マデリーン, Die, EmoRelax,,1)\nキャラモーション再生(PID_マデリーン, Normal,, 4,1)
+MID_RELIANCE_B_#010	キャラモーション再生(PID_マデリーン, Smile,,,1)\nキャラモーション再生(PID_マデリーン,, EmoPray, 3.5,1)
+MID_RELIANCE_B_#011	キャラカメラ(CharaCam_Side_Left3_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#012	キャラモーション再生(PID_セレスティア, Sad,,,1)\nキャラモーション再生(PID_セレスティア,, EmoTalk2, 4,1)
+MID_RELIANCE_B_#013	シーンカメラ(SceneCam_Side_Right_Mid, cam_anim_track3_r_normal)\n\nキャラ回転(PID_マデリーン, -30, 1)\nキャラモーション再生(PID_マデリーン, Shy, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Die, EmoRelax, 4.8,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_B_#014	キャラモーション再生(PID_マデリーン, Shy,,,1)
+MID_RELIANCE_B_#015	キャラモーション再生(PID_セレスティア, Smile, EmoTalk,,1)
+MID_RELIANCE_B_#016	キャラカメラ(CharaCam_FrontLong2_Right_Mid, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Normal, EmoTalk,,0.5)\nキャラ回転(PID_マデリーン, 30, 1)\nキャラモーション再生(PID_マデリーン, Normal, EmoRelax, 5,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_B_#017	キャラモーション再生(PID_マデリーン, Normal, EmoThink,,1)\nキャラモーション再生(PID_マデリーン, Normal, EmoTalk2, 6,1)
+MID_RELIANCE_B_#018	キャラカメラ(CharaCam_Side_Right_Mid, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Die, EmoJoy,,1)\nキャラモーション再生(PID_マデリーン, Sad,, 4.8,1)\nキャラ回転(PID_セレスティア, -30)
+MID_RELIANCE_B_#019	キャラカメラ(CharaCam_Front_Center2_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_セレスティア, Sad,,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#020	キャラカメラ(CharaCam_Side_Right2_Top, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Serious, EmoDeny2,,1)\nキャラモーション再生(PID_マデリーン, Sad,, 4.2,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#021	キャラカメラ(CharaCam_LowFront_Left, PID_セレスティア, cam_anim_pan_u_normal)\n\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#022	キャラモーション再生(PID_セレスティア, Normal, EmoThink,,1)\nキャラモーション再生(PID_セレスティア, Smile, , 5,1)
+MID_RELIANCE_B_#023	キャラカメラ(CharaCam_Side_Right_Mid, PID_マデリーン, cam_anim_pan_r_normal)\n\nキャラモーション再生(PID_マデリーン, Surprise,,,1)\nキャラモーション再生(PID_マデリーン,, EmoSurprise, 3,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#024	キャラカメラ(CharaCam_Side_Left3_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoJoy,,1)\nキャラモーション再生(PID_セレスティア, Smile,, 4.3,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#025	キャラモーション再生(PID_セレスティア, Die, EmoRelax,,1)\nキャラモーション再生(PID_セレスティア, Smile,, 4,1)
+MID_RELIANCE_B_#026	キャラカメラ(CharaCam_Front_Center_Top, PID_マデリーン, cam_anim_zoom_out_normal)\n\nキャラモーション再生(PID_マデリーン, Surprise,,,1)\nキャラモーション再生(PID_マデリーン, Shy, EmoTalk2, 4,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#027	キャラモーション再生(PID_マデリーン, Die, EmoNod,,1)\nキャラモーション再生(PID_マデリーン, Smile, EmoRelax, 4,1)
+MID_RELIANCE_B_#028	キャラモーション再生(PID_マデリーン, Smile,,,1)
+MID_RELIANCE_B_#029	キャラカメラ(CharaCam_Side_Left2_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_B_#030	キャラカメラ(CharaCam_SideLong_Right2_Mid, PID_マデリーン, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_マデリーン, Angry, EmoJoy,,1)\nキャラ表示切替(PID_セレスティア, False)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_B_#031	キャラモーション再生(PID_マデリーン, Smile, EmoTalk,,1)\n\n*\nフェードアウト()
+MID_RELIANCE_A_#001	キャラ配置(PID_セレスティア, YOU_IN_C, [服装], Normal, IdleNormal, -30)\nキャラ配置(PID_マデリーン, ME_IN_C, [服装], Normal, IdleNormal, 30)\n\n背景(Map_Event_Hub_Solanel_05_Day)\nライト(CharaLight_Hub_Day, 0, 0, 0)\n\nキャラ視線(PID_セレスティア, PID_マデリーン, PID_マデリーン)\nキャラ視線(PID_マデリーン, PID_セレスティア, PID_セレスティア)\n\nウェイト(0.2)\n\nキャラモーション再生(PID_マデリーン, Normal, EmoRelax,,1)\n\nフェードイン()\n\nシーンカメラ(SceneCam_Side_Right_Mid, cam_anim_track3_l_normal)\n\n
+MID_RELIANCE_A_#002	キャラモーション再生(PID_セレスティア, Normal, EmoThink,,0.5)
+MID_RELIANCE_A_#003	キャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)
+MID_RELIANCE_A_#004	キャラカメラ(CharaCam_SideLong_Right2_Mid, PID_セレスティア, cam_anim_track_r_normal)\n\nキャラモーション再生(PID_セレスティア, Die, EmoPray,,1)\nキャラモーション再生(PID_セレスティア, Sad,, 4,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#005	キャラモーション再生(PID_セレスティア, Sad, EmoThink,,1)
+MID_RELIANCE_A_#006	キャラカメラ(CharaCam_Side_Left2_Mid, PID_マデリーン, cam_anim_pan_l_normal)\n\nキャラモーション再生(PID_マデリーン, Sad, EmoJoy,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#007	キャラカメラ(CharaCam_Side_Right3_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_セレスティア, Shy, EmoRelax,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#008	キャラモーション再生(PID_セレスティア, Die,,,1)\nキャラモーション再生(PID_セレスティア, Smile,, 5,1)
+MID_RELIANCE_A_#009	キャラモーション再生(PID_セレスティア, Normal, EmoTalk2,,1)\nキャラモーション再生(PID_セレスティア, Smile, EmoJoy, 6,1)
+MID_RELIANCE_A_#010	キャラカメラ(CharaCam_FrontLong2_Left_Mid, PID_マデリーン, cam_anim_track_r_normal)\n\nキャラモーション再生(PID_マデリーン, Die, EmoNod,,1)\nキャラモーション再生(PID_マデリーン, Normal,, 3,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_A_#011	キャラカメラ(CharaCam_FrontLong_Center_Mid, PID_セレスティア, cam_anim_track3_r_normal)\n\nキャラ回転(PID_セレスティア, 30, 1)\nキャラモーション再生(PID_セレスティア, Sad, EmoRelax,,1)\nキャラ表示切替(PID_マデリーン, False)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#012	キャラモーション再生(PID_セレスティア, Sad, EmoTalk,,1)\nキャラモーション再生(PID_セレスティア, Die,, 6,1)
+MID_RELIANCE_A_#013	キャラモーション再生(PID_セレスティア, Sad, EmoDeny2,,1)
+MID_RELIANCE_A_#014	キャラカメラ(CharaCam_Side_Left4_Mid, PID_マデリーン, cam_anim_pan_l_normal)\n\nキャラ表示切替(PID_マデリーン, True)\nキャラモーション再生(PID_マデリーン, Surprise,,,1)\nキャラモーション再生(PID_マデリーン, Normal, EmoTalk2, 2,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#015	キャラモーション再生(PID_マデリーン, Normal,,,1)\nキャラモーション再生(PID_マデリーン, Normal, EmoThink, 3,1)\nキャラ回転(PID_マデリーン, -30, 1)
+MID_RELIANCE_A_#016	キャラカメラ(CharaCam_FrontLong2_Right_Mid, PID_セレスティア, cam_anim_pan_d_normal)\n\nキャラモーション再生(PID_セレスティア, Die,,,1)\nキャラモーション再生(PID_セレスティア, Normal, EmoThink, 4,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal,,1)\n
+MID_RELIANCE_A_#017	キャラモーション再生(PID_セレスティア, Shy, EmoTalk2,,1)
+MID_RELIANCE_A_#018	キャラカメラ(CharaCam_Front_Center_Top, PID_マデリーン, cam_anim_zoom_in_fast)\n\nキャラモーション再生(PID_マデリーン, Surprise, EmoSurprise,,0.3)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#019	キャラカメラ(CharaCam_SideLong_Right2_Mid, PID_セレスティア, cam_anim_zoom_out_normal)\n\nキャラモーション再生(PID_セレスティア, Die, EmoSad,,1)\nキャラモーション再生(PID_セレスティア, Sad,, 4,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#020	キャラモーション再生(PID_セレスティア, Normal, EmoTalk,,1)
+MID_RELIANCE_A_#021	キャラカメラ(CharaCam_Side_Right_Mid, PID_セレスティア, cam_anim_pan_r_normal)\n\nキャラモーション再生(PID_セレスティア, Normal, EmoTalk2,,1)\nキャラモーション再生(PID_セレスティア, Die,, 6,1)
+MID_RELIANCE_A_#022	キャラカメラ(CharaCam_Side_Left_Mid, PID_マデリーン, cam_anim_pan_l_normal)\n\nキャラモーション再生(PID_マデリーン, Surprise,,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#023	キャラカメラ(CharaCam_Side_Right3_Mid, PID_セレスティア, cam_anim_track_r_normal)\n\nキャラモーション再生(PID_セレスティア, Shy, EmoJoy,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#024	キャラモーション再生(PID_セレスティア, Die, EmoThink,,1)\nキャラモーション再生(PID_セレスティア, Smile,, 5,1)
+MID_RELIANCE_A_#025	
+MID_RELIANCE_A_#026	キャラカメラ(CharaCam_Side_Left2_Mid, PID_マデリーン, cam_anim_pan_l_normal)\n\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#027	キャラカメラ(CharaCam_Front_Center_Mid, PID_セレスティア, cam_anim_zoom_in_normal)\n\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk2,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#028	キャラモーション再生(PID_セレスティア, Smile, EmoProud,,1)
+MID_RELIANCE_A_#029	キャラカメラ(CharaCam_FrontLong2_Left_Mid, PID_マデリーン, cam_anim_track_l_normal)\n\nキャラモーション再生(PID_マデリーン, Smile, EmoJoy,,1)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal,,1)
+MID_RELIANCE_A_#030	キャラモーション再生(PID_マデリーン, Normal, EmoNod,,1)\nキャラモーション再生(PID_マデリーン, Smile,, 5,1)
+MID_RELIANCE_A_#031	キャラカメラ(CharaCam_Side_Right3_Mid, PID_セレスティア, cam_anim_pan_l_normal)\n\nキャラモーション再生(PID_セレスティア, Die, EmoNod,,1)\nキャラモーション再生(PID_セレスティア, Smile,, 3,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n
+MID_RELIANCE_A_#032	キャラモーション再生(PID_セレスティア, Normal,,,1)\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk, 3,1)
+MID_RELIANCE_A_#033	キャラカメラ(CharaCam_SideLong_Left2_Mid, PID_マデリーン, cam_anim_pan_u_normal)\n\nキャラ表示切替(PID_セレスティア, False)\nキャラモーション再生(PID_マデリーン, Smile, EmoJoy,,1)\nキャラモーション再生(PID_マデリーン,, EmoTalk, 4.8,0.5)\nキャラモーション再生(PID_セレスティア, Normal, IdleNormal)
+MID_RELIANCE_A_#034	キャラモーション再生(PID_マデリーン, Smile, EmoRelax,,1)
+MID_RELIANCE_A_#035	キャラカメラ(CharaCam_Front_Center_Mid, PID_セレスティア, cam_anim_zoom_out_normal)\n\nキャラ表示切替(PID_セレスティア, True)\nキャラモーション再生(PID_セレスティア, Smile, EmoTalk,,1)\nキャラモーション再生(PID_マデリーン, Normal, IdleNormal)\n\n*\nフェードアウト()

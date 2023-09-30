@@ -1,0 +1,690 @@
+MID_BONDSRING_H_CommonTytle	 
+MID_BONDSRING_HELP	Un anneau conférant à son\nporteur le pouvoir d'un héros\nlié à l'Emblème \x0E\x01\x00\x00.
+MID_BONDSRING_HELP_Special	Un anneau conférant à son porteur\nle pouvoir d'un héros unique.
+MID_BONDSRING_Marth00	Prince d'Altea, un royaume\ndu continent d'Akaneia.
+MID_BONDSRING_Marth01	Il se fait nombre d'alliés en luttant\ncontre le Dragon d'ombre Medeus.
+MID_BONDSRING_Seeda	Shiida
+MID_BONDSRING_H_Seeda00	Princesse de Talys en Akaneia,\nun continent d'un autre monde.
+MID_BONDSRING_H_Seeda01	Chevalier pégase au caractère jovial,\nelle dégage un charme naturel.
+MID_BONDSRING_H_Seeda02	Rencontre Marth après qu'il a fui\nsa maison et devient sa fiancée.
+MID_BONDSRING_H_Seeda03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Tiki	Tiki
+MID_BONDSRING_H_Tiki00	Héroïne d'au-delà d'Elyos et\nprincesse des Dragons divins.
+MID_BONDSRING_H_Tiki01	Manakete qui scella son pouvoir\nde dragon et prit forme humaine.
+MID_BONDSRING_H_Tiki02	Devient l'alliée de Marth après qu'il\nl'a sauvée de l'emprise de Gharnef.
+MID_BONDSRING_H_Tiki03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Minerba	Minerva
+MID_BONDSRING_H_Minerba00	Princesse de Medon en Akaneia,\nun continent d'un autre monde.
+MID_BONDSRING_H_Minerba01	Femme fière et courageuse, on\nla surnomme le carabin rouge.
+MID_BONDSRING_H_Minerba02	Combat sa propre patrie pour\ntenter de la reformer.
+MID_BONDSRING_H_Minerba03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Nabarl	Nabarl
+MID_BONDSRING_H_Nabarl00	Héros d'au-delà d'Elyos surnommé\nl'épée taciturne.
+MID_BONDSRING_H_Nabarl01	Apparaît se battant pour des bandits\net armé d'une lame mortelle.
+MID_BONDSRING_H_Nabarl02	Il affirme que « jamais sa lame ne lui\nservira à frapper une femme ».
+MID_BONDSRING_H_Nabarl03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Oguma	Ogma
+MID_BONDSRING_H_Oguma00	Héros d'au-delà d'Elyos, il dirige\nune bande de mercenaires de Talys.
+MID_BONDSRING_H_Oguma01	Ancien gladiateur, c'est un vétéran\ndu combat extrêmement compétent.
+MID_BONDSRING_H_Oguma02	Admire Shiida depuis qu'elle l'a\nsauvé quand il était gladiateur.
+MID_BONDSRING_H_Oguma03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Katarina	Katarina
+MID_BONDSRING_H_Katarina00	Héroïne d'au-delà d'Elyos et jeune\napprentie stratège.
+MID_BONDSRING_H_Katarina01	Elle sert Marth au château d'Altea\net rejoint la 7e section avec Kris.
+MID_BONDSRING_H_Katarina02	D'un naturel calme et attentionné,\nelle porte en elle un terrible secret.
+MID_BONDSRING_H_Katarina03	Apparaît dans New Mystery\nof the Emblem
+MID_BONDSRING_Marich	Merric
+MID_BONDSRING_H_Marich00	Héros d'au-delà d'Elyos et mage\nprodige surnommé le joyeux mage.
+MID_BONDSRING_H_Marich01	A étudié la magie à Khadein et hérité\ndu tome de magie du vent Excalibur.
+MID_BONDSRING_H_Marich02	Membre de la noblesse d'Altea, c'est\nun ami d'enfance du prince Marth.
+MID_BONDSRING_H_Marich03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Rinda	Linde
+MID_BONDSRING_H_Rinda00	Héroïne d'au-delà d'Elyos douée\nde magie puissante.
+MID_BONDSRING_H_Rinda01	Fille du pontife Miloah d'Akaneia,\nelle a une grande force de caractère.
+MID_BONDSRING_H_Rinda02	Son père lui transmet la magie Aura\npour l'aider à combattre Gharnef.
+MID_BONDSRING_H_Rinda03	Apparaît dans Shadow Dragon\n& the Blade of Light et autres
+MID_BONDSRING_Kris	Kris
+MID_BONDSRING_H_Kris00	Membre de la garde royale de Marth\ndans un monde au-delà d'Elyos.
+MID_BONDSRING_H_Kris01	Originaire du royaume d'Altea,\ndevient chevalier de la 7e section.
+MID_BONDSRING_H_Kris02	Agit en coulisses pour protéger\nMarth dans ses combats.
+MID_BONDSRING_H_Kris03	Apparaît dans New Mystery\nof the Emblem
+MID_BONDSRING_Roro	Legion
+MID_BONDSRING_H_Roro00	Héros d'au-delà d'Elyos qui fut\nmembre d'un groupe d'assassins.
+MID_BONDSRING_H_Roro01	Connu pour son masque menaçant et\nson rire étrange au cœur du combat.
+MID_BONDSRING_H_Roro02	Œuvre avec ses nombreux « frères »\nidentiques pour atteindre ses cibles.
+MID_BONDSRING_H_Roro03	Apparaît dans New Mystery\nof the Emblem
+MID_BONDSRING_Siglud00	Fils du duc de Chalphy en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_Siglud01	Tué par les adeptes de l'Église de\nLoptr. Son fils poursuit son œuvre.
+MID_BONDSRING_Ira	Ayra
+MID_BONDSRING_H_Ira00	Princesse d'Isaach en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Ira01	Épéiste de talent, elle devient l'alliée\nde Sigurd et combat à ses côtés.
+MID_BONDSRING_H_Ira02	Descendante du croisé Od, elle\nmaîtrise la technique Stellaire.
+MID_BONDSRING_H_Ira03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Arden	Arden
+MID_BONDSRING_H_Arden00	Héros d'au-delà d'Elyos et chevalier\ncuirassé au service de Sigurd.
+MID_BONDSRING_H_Arden01	Membre de l'ordre des chevaliers\nde Chalphy.
+MID_BONDSRING_H_Arden02	Vu par ses alliés comme un chevalier\nrobuste, mais malheureusement lent.
+MID_BONDSRING_H_Arden03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Celice	Seliph
+MID_BONDSRING_H_Celice00	Héros d'au-delà d'Elyos surnommé\nle héros de la lumière.
+MID_BONDSRING_H_Celice01	Fils de Sigurd et de Deirdre, il est\nle descendant du croisé Baldr.
+MID_BONDSRING_H_Celice02	Sauve Jugdral à la tête de l'armée\nqui combat Grannvale.
+MID_BONDSRING_H_Celice03	Apparaît dans Genealogy\nof the Holy War et Thracia 776
+MID_BONDSRING_Levn	Lewyn
+MID_BONDSRING_H_Levn00	Prince de Silesse en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Levn01	Descendant du croisé Ced, il hérite\ndu tome du vent sacré Forseti.
+MID_BONDSRING_H_Levn02	Combat aux côtés de Sigurd, puis,\naprès sa mort, de son fils Seliph.
+MID_BONDSRING_H_Levn03	Apparaît dans Genealogy\nof the Holy War et Thracia 776
+MID_BONDSRING_Rackesis	Lachesis
+MID_BONDSRING_H_Rackesis00	Princesse de Nordion en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Rackesis01	Belle et noble sœur cadette du roi\nEldigan cœur de lion.
+MID_BONDSRING_H_Rackesis02	Reproche à ses prétendants de ne\npas être à la hauteur de son frère.
+MID_BONDSRING_H_Rackesis03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Cuan	Quan
+MID_BONDSRING_H_Cuan00	Prince de Leonster en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Cuan01	Descendant de la croisée Njörun,\nil hérite de la lance sainte Gáe Bolg.
+MID_BONDSRING_H_Cuan02	Ami de Sigurd depuis l'académie,\nils chérissent l'amitié et la justice.
+MID_BONDSRING_H_Cuan03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Diadora	Deirdre
+MID_BONDSRING_H_Diadora00	Héroïne d'au-delà d'Elyos et\nprêtresse de la forêt des esprits.
+MID_BONDSRING_H_Diadora01	Il lui est interdit d'avoir des contacts,\nmais elle rencontre et épouse Sigurd.
+MID_BONDSRING_H_Diadora02	Vivent heureux avec leur fils Seliph\njusqu'à l'intervention d'un culte noir.
+MID_BONDSRING_H_Diadora03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Ethlin	Ethlyn
+MID_BONDSRING_H_Ethlin00	Fille du duc de Chalphy en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Ethlin01	Jeune sœur du seigneur Sigurd,\nelle est fiable et attentionnée.
+MID_BONDSRING_H_Ethlin02	Épouse Quan, l'ami de son frère. Ils\ndonnent naissance à Altena et Leif.
+MID_BONDSRING_H_Ethlin03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Ferry	Erinys
+MID_BONDSRING_H_Ferry00	Héroïne d'au-delà d'Elyos et\nchevalier pégase de Silesse.
+MID_BONDSRING_H_Ferry01	Elle est l'une des quatre chevaliers\ncélestes et cherche le prince Lewyn.
+MID_BONDSRING_H_Ferry02	Très compétente, elle est aussi trop\nsérieuse et parfois un peu naïve.
+MID_BONDSRING_H_Ferry03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Azel	Azelle
+MID_BONDSRING_H_Azel00	Fils du duc de Velthomer en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Azel01	Mage de feu affable descendant de\nla croisée et mage de combat Fjalar.
+MID_BONDSRING_H_Azel02	Il combat pour secourir Edain,\nsa bien-aimée, qui a été enlevée.
+MID_BONDSRING_H_Azel03	Apparaît dans Genealogy\nof the Holy War
+MID_BONDSRING_Celica00	Seule survivante de la famille royale\nde Valentia, pays d'un autre monde.
+MID_BONDSRING_Celica01	Elle enquête sur d'étranges incidents\net combat le dieu Duma avec Alm.
+MID_BONDSRING_Alm	Alm
+MID_BONDSRING_H_Alm00	Héros d'au-delà d'Elyos et sauveur\ndu continent de Valentia.
+MID_BONDSRING_H_Alm01	La marque sur sa main gauche le\ndésigne comme élu d'une prophétie.
+MID_BONDSRING_H_Alm02	Combat avec Celica dans le combat\nfinal contre le dieu malveillant Duma.
+MID_BONDSRING_H_Alm03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Deute	Delthea
+MID_BONDSRING_H_Deute00	Héroïne d'au-delà d'Elyos et mage\nd'un caractère joyeux.
+MID_BONDSRING_H_Deute01	Libérée de l'emprise d'un ennemi\npar Alm, ils deviennent alliés.
+MID_BONDSRING_H_Deute02	Elle déteste son village natal et rêve\nd'une idylle dans la grande ville.
+MID_BONDSRING_H_Deute03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Effie	Faye
+MID_BONDSRING_H_Effie00	Héroïne d'au-delà d'Elyos follement\namoureuse d'Alm.
+MID_BONDSRING_H_Effie01	Amie d'enfance d'Alm du village\nde Ram.
+MID_BONDSRING_H_Effie02	Elle aime Alm depuis son enfance\net espère vivre avec lui un jour.
+MID_BONDSRING_H_Effie03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Genny	Genny
+MID_BONDSRING_H_Genny00	Héroïne d'au-delà d'Elyos et\nprêtresse décontractée.
+MID_BONDSRING_H_Genny01	Affectée au prieuré de l'île de Novis,\nelle voyage ensuite avec Celica.
+MID_BONDSRING_H_Genny02	Elle vit sans souci et aime lire et\nécrire des histoires chez elle.
+MID_BONDSRING_H_Genny03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Lukas	Lukas
+MID_BONDSRING_H_Lukas00	Héros d'au-delà d'Elyos et soldat de\nla Délivrance visant à libérer Zofia.
+MID_BONDSRING_H_Lukas01	Jeune homme affable, il pousse Alm\nà rejoindre l'armée de la Délivrance.
+MID_BONDSRING_H_Lukas02	Né noble, il respecte tout un chacun,\nquelles que soient ses origines.
+MID_BONDSRING_H_Lukas03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Conrad	Conrad
+MID_BONDSRING_H_Conrad00	Héros d'au-delà d'Elyos et\nénigmatique chevalier masqué.
+MID_BONDSRING_H_Conrad01	Il apparaît quand Celica est en\ndanger et la sauve plusieurs fois.
+MID_BONDSRING_H_Conrad02	Le masque blanc qui cache son\nvisage l'enveloppe de mystère.
+MID_BONDSRING_H_Conrad03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Saber	Saber
+MID_BONDSRING_H_Saber00	Mercenaire fort et aguerri\net héros d'au-delà d'Elyos.
+MID_BONDSRING_H_Saber01	Celica l'a engagé pour l'escorter sur\nune mer infestée de pirates.
+MID_BONDSRING_H_Saber02	Voyou de bonne nature, il a su\nconseiller et protéger Celica.
+MID_BONDSRING_H_Saber03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Silque	Silque
+MID_BONDSRING_H_Silque00	Héroïne d'au-delà d'Elyos et\nprêtresse servant la déesse Mila.
+MID_BONDSRING_H_Silque01	Capturée par des bandits puis sauvée\npar Alm, elle devient son alliée.
+MID_BONDSRING_H_Silque02	Elle espère que les enseignements de\nMila soulageront ceux qui souffrent.
+MID_BONDSRING_H_Silque03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Mae	Mae
+MID_BONDSRING_H_Mae00	Héroïne d'au-delà d'Elyos et mage\nespiègle et optimiste.
+MID_BONDSRING_H_Mae01	Mage de l'île de Novis, elle voyage\navec Celica jusqu'au temple de Mila.
+MID_BONDSRING_H_Mae02	Elle apporte son soutien à Celica à la\nfois comme servante et comme amie.
+MID_BONDSRING_H_Mae03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Valbar	Valbar
+MID_BONDSRING_H_Valbar00	Héros d'au-delà d'Elyos et fier\nguerrier.
+MID_BONDSRING_H_Valbar01	Combat pour venger les membres\nde sa famille, tués par des pirates.
+MID_BONDSRING_H_Valbar02	Ouvert d'esprit et toujours prêt à\naider, il est apprécié de tous.
+MID_BONDSRING_H_Valbar03	Apparaît dans Shadows of Valentia
+MID_BONDSRING_Micaiah00	Membre de la Brigade de l'Aube en\nTellius, continent d'un autre monde.
+MID_BONDSRING_Micaiah01	Elle se bat contre le jugement de la\ndéesse Ashera pour sauver sa patrie.
+MID_BONDSRING_Nephenee	Nephenie
+MID_BONDSRING_H_Nephenee00	Héroïne d'au-delà d'Elyos et soldate\nde Crimea.
+MID_BONDSRING_H_Nephenee01	Elle rejoint volontairement l'armée\npour sauver sa patrie.
+MID_BONDSRING_H_Nephenee02	Peu expansive, elle n'en porte pas\nmoins un grand amour à son pays.
+MID_BONDSRING_H_Nephenee03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_BlackKnight	Chevalier Noir
+MID_BONDSRING_H_BlackKnight00	Héros d'au-delà d'Elyos et plus\npuissant général de Daein.
+MID_BONDSRING_H_BlackKnight01	L'un des redoutés Quatre Cavaliers.\nTrès fort, il porte une armure noire.
+MID_BONDSRING_H_BlackKnight02	Il tue Greil puis affronte son fils Ike\ndans des escarmouches mortelles.
+MID_BONDSRING_H_BlackKnight03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Sothe	Sothe
+MID_BONDSRING_H_Sothe00	Héros d'au-delà d'Elyos que Micaiah\nadopte comme un petit frère.
+MID_BONDSRING_H_Sothe01	Membre de la Brigade de l'Aube, ce\njeune résistant se bat pour la liberté.
+MID_BONDSRING_H_Sothe02	Bien que sans lien de parenté avec\nMicaiah, il l'aime comme une sœur.
+MID_BONDSRING_H_Sothe03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Erincia	Elincia
+MID_BONDSRING_H_Erincia00	Reine de Crimea en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Erincia01	Dotée d'un cœur pur, elle aime son\npays et est adorée par son peuple.
+MID_BONDSRING_H_Erincia02	Elle hait les conflits, déposant même\nses propres armes en combat.
+MID_BONDSRING_H_Erincia03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Tibarn	Tibarn
+MID_BONDSRING_H_Tibarn00	Roi de Phoenicis en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Tibarn01	Chef de la tribu des Laguz capables\nde se changer en faucons.
+MID_BONDSRING_H_Tibarn02	Le roi faucon rallie ses alliés par son\ncharisme et ses actions décisives.
+MID_BONDSRING_H_Tibarn03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Sanaki	Sanaki
+MID_BONDSRING_H_Sanaki00	Impératrice de Begnion en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Sanaki01	37e impératrice et apôtre, on dit\nqu'elle entend la voix de la déesse.
+MID_BONDSRING_H_Sanaki02	Elle est jeune, mais déterminée et\nvertueuse dans son commandement.
+MID_BONDSRING_H_Sanaki03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Nike	Nailah
+MID_BONDSRING_H_Nike00	Reine d'Hatary en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Nike01	Laguz, elle peut se transformer en\nloup blanc et pétrifier ses ennemis.
+MID_BONDSRING_H_Nike02	Trouve le prince Rafiel évanoui dans\nle désert et en tombe amoureuse.
+MID_BONDSRING_H_Nike03	Apparaît dans Radiant Dawn
+MID_BONDSRING_Naesala	Naesala
+MID_BONDSRING_H_Naesala00	Roi de Kilvas en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Naesala01	Chef de la tribu des Laguz capables\nde se changer en corbeaux.
+MID_BONDSRING_H_Naesala02	Rusé et calculateur, il fait passer\nsa nation avant tout le reste.
+MID_BONDSRING_H_Naesala03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Caineghis	Caineghis
+MID_BONDSRING_H_Caineghis00	Roi de Gallia en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Caineghis01	Chef de la tribu des Laguz capables\nde se changer en lions.
+MID_BONDSRING_H_Caineghis02	Il consacre sa force à la paix entre\nles Laguz et les humains.
+MID_BONDSRING_H_Caineghis03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Learne	Leanne
+MID_BONDSRING_H_Learne00	Princesse de Serenes en Tellius,\nun continent d'un autre monde.
+MID_BONDSRING_H_Learne01	Réchappe miraculeusement indemne\nde la destruction de sa patrie.
+MID_BONDSRING_H_Learne02	Pure de cœur, elle soulage la fatigue\ndes alliés en entonnant ses galdrar.
+MID_BONDSRING_H_Learne03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Roy00	Vient de Pherae à Lycia, une région\nd'Elibe, continent d'un autre monde.
+MID_BONDSRING_Roy01	Il s'oppose à Biran et affronte le\ndragon démon ressuscité Idunn.
+MID_BONDSRING_Lilina	Lilina
+MID_BONDSRING_H_Lilina00	Noble d'Ositia à Lycia, une région\nd'Elibe, continent d'un autre monde.
+MID_BONDSRING_H_Lilina01	Amie d'enfance de Roy et mage\nparticulièrement douée.
+MID_BONDSRING_H_Lilina02	Fille d'Hector, son aspect innocent\ncache une vaillance à toute épreuve.
+MID_BONDSRING_H_Lilina03	Apparaît dans The Binding Blade\net The Blazing Blade
+MID_BONDSRING_Sofiya	Sophia
+MID_BONDSRING_H_Sofiya00	Héroïne d'au-delà d'Elyos et shaman\naux airs mystiques.
+MID_BONDSRING_H_Sofiya01	Ses pouvoirs spéciaux lui permettent\nnotamment de prédire l'avenir.
+MID_BONDSRING_H_Sofiya02	Guide Roy dans un village caché où\nhumains et dragons coexistent.
+MID_BONDSRING_H_Sofiya03	Apparaît dans The Binding Blade\net The Blazing Blade
+MID_BONDSRING_Rutger	Rutger
+MID_BONDSRING_H_Rutger00	Héros d'au-delà d'Elyos et épéiste\nsolitaire et laconique.
+MID_BONDSRING_H_Rutger01	Il cherche à sa venger après que les\nforces de Biran ont détruit son foyer.
+MID_BONDSRING_H_Rutger02	Change de camp pour rejoindre Roy\nquand il apprend qu'il combat Biran.
+MID_BONDSRING_H_Rutger03	Apparaît dans The Binding Blade
+MID_BONDSRING_Fir	Fir
+MID_BONDSRING_H_Fir00	Héroïne d'au-delà d'Elyos qui ne\nvit que pour les arts de l'épée.
+MID_BONDSRING_H_Fir01	S'entraîne pour ressembler à sa\nmère, la Princesse des Lames.
+MID_BONDSRING_H_Fir02	Un peu crédule, elle se retrouve à\ntravailler à son insu pour des pirates.
+MID_BONDSRING_H_Fir03	Apparaît dans The Binding Blade
+MID_BONDSRING_Fa	Fae
+MID_BONDSRING_H_Fa00	Héroïne d'au-delà d'Elyos. Dernière\nsurvivante des Dragons divins.
+MID_BONDSRING_H_Fa01	Manakete vivant dans un village\ncaché dans le désert de Nabata.
+MID_BONDSRING_H_Fa02	Malgré son apparence enfantine,\nelle est âgée de plusieurs siècles.
+MID_BONDSRING_H_Fa03	Apparaît dans The Binding Blade\net The Blazing Blade
+MID_BONDSRING_Dieck	Dieck
+MID_BONDSRING_H_Dieck00	Héros d'au-delà d'Elyos, mercenaire\nengagé par la maison Pherae.
+MID_BONDSRING_H_Dieck01	En tant que chef, il a la confiance\nindéfectible de ses camarades.
+MID_BONDSRING_H_Dieck02	Autrefois gladiateur, il a su se faire\nun nom dans l'arène.
+MID_BONDSRING_H_Dieck03	Apparaît dans The Binding Blade
+MID_BONDSRING_Lugh	Lugh
+MID_BONDSRING_H_Lugh00	Héros d'au-delà d'Elyos et jeune\nhomme au courage inébranlable.
+MID_BONDSRING_H_Lugh01	Ainé de deux orphelins jumeaux,\nc'est un expert de la magie anima.
+MID_BONDSRING_H_Lugh02	Il a un cœur sensible mais n'hésite\npas à protéger ceux qu'il aime.
+MID_BONDSRING_H_Lugh03	Apparaît dans The Binding Blade
+MID_BONDSRING_Wolt	Wolt
+MID_BONDSRING_H_Wolt00	Héros d'au-delà d'Elyos et archer\nau service de Roy.
+MID_BONDSRING_H_Wolt01	Gai et enjoué, il s'applique à se\nmontrer digne de son rôle de vassal.
+MID_BONDSRING_H_Wolt02	Sa mère étant la nourrice de Roy,\nils sont pour ainsi dire frères.
+MID_BONDSRING_H_Wolt03	Apparaît dans The Binding Blade
+MID_BONDSRING_Lleu	Raigh
+MID_BONDSRING_H_Lleu00	Héros d'au-delà d'Elyos d'une\ngrande maturité pour son âge.
+MID_BONDSRING_H_Lleu01	Cadet de deux orphelins jumeaux,\nc'est un expert de la magie noire.
+MID_BONDSRING_H_Lleu02	Il a la langue acérée mais se dévoue\ncorps et âme à sa famille.
+MID_BONDSRING_H_Lleu03	Apparaît dans The Binding Blade
+MID_BONDSRING_Cecilia	Cecilia
+MID_BONDSRING_H_Cecilia00	Héroïne d'au-delà d'Elyos et\nancienne générale d'Etruria.
+MID_BONDSRING_H_Cecilia01	L'un des trois généraux de sa nation,\nen charge de la section des mages.
+MID_BONDSRING_H_Cecilia02	Femme d'une grande sagesse,\nelle apprend à Roy à se battre.
+MID_BONDSRING_H_Cecilia03	Apparaît dans The Binding Blade
+MID_BONDSRING_Leaf00	Prince de Leonster en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_Leaf01	Il combat Veld, Évêque Noir\net manipulateur de l'Église de Loptr.
+MID_BONDSRING_Fin	Finn
+MID_BONDSRING_H_Fin00	Héros d'au-delà d'Elyos et chevalier\nau service de Leif.
+MID_BONDSRING_H_Fin01	Vassal loyal de Leonster qui a servi\ndeux générations de princes.
+MID_BONDSRING_H_Fin02	À la chute du château de Leonster,\nil s'enfuit avec Leif, puis l'élève.
+MID_BONDSRING_H_Fin03	Apparaît dans Genealogy\nof the Holy War et Thracia 776
+MID_BONDSRING_Olwen	Olwen
+MID_BONDSRING_H_Olwen00	Héroïne d'au-delà d'Elyos et\nchevalier mage pleine de sérieux.
+MID_BONDSRING_H_Olwen01	Jeune sœur de Reinhardt, un soldat\nau service de la maison Friege.
+MID_BONDSRING_H_Olwen02	Elle a des principes et quitte l'armée\nà cause de ses pratiques cruelles.
+MID_BONDSRING_H_Olwen03	Apparaît dans Thracia 776
+MID_BONDSRING_Mareeta	Mareeta
+MID_BONDSRING_H_Mareeta00	Héroïne d'au-delà d'Elyos et\népéiste des Affranchis de Fiana.
+MID_BONDSRING_H_Mareeta01	Fille adoptive d'Eyvel, elle est à la\ntête des Affranchis de Fiana.
+MID_BONDSRING_H_Mareeta02	Descendante du croisé Od, maîtresse\ndes techniques Lunaire et Stellaire.
+MID_BONDSRING_H_Mareeta03	Apparaît dans Thracia 776
+MID_BONDSRING_Nanna	Nanna
+MID_BONDSRING_H_Nanna00	Héroïne d'au-delà d'Elyos et fille\nde la princesse Lachesis.
+MID_BONDSRING_H_Nanna01	Élevée par Finn, un chevalier de\nLeonster, aux côtés du prince Leif.
+MID_BONDSRING_H_Nanna02	Elle se bat pour libérer Thracia avec\nle même esprit noble que sa mère.
+MID_BONDSRING_H_Nanna03	Apparaît dans Genealogy\nof the Holy War et Thracia 776
+MID_BONDSRING_Sety	Ced
+MID_BONDSRING_H_Sety00	Prince de Silesse en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Sety01	Fils de Lewyn, il hérite du tome\nde vent sacré Forseti.
+MID_BONDSRING_H_Sety02	Surnommé le Héros du vent, il forme\nl'escouade de résistants Magi.
+MID_BONDSRING_H_Sety03	Apparaît dans Genealogy\nof the Holy War et Thracia 776
+MID_BONDSRING_Sara	Sara
+MID_BONDSRING_H_Sara00	Héroïne d'au-delà d'Elyos et\nprêtresse au pouvoir mystérieux.
+MID_BONDSRING_H_Sara01	Répond à l'appel de Leif et devient\nson alliée pour lui apporter son aide.
+MID_BONDSRING_H_Sara02	Elle déteste son grand-père Manfroy,\ngrand prêtre de l'Église de Loptr.
+MID_BONDSRING_H_Sara03	Apparaît dans Thracia 776
+MID_BONDSRING_Asvel	Asbel
+MID_BONDSRING_H_Asvel00	Héros d'au-delà d'Elyos et mage\ndoué pour la magie du vent.
+MID_BONDSRING_H_Asvel01	Il apprend beaucoup en étant l'élève\nde Ced, le chef de l'escouade Magi.
+MID_BONDSRING_H_Asvel02	Il connait Leif depuis l'enfance, tous\ndeux ont juré de reprendre Thracia.
+MID_BONDSRING_H_Asvel03	Apparaît dans Thracia 776
+MID_BONDSRING_Othin	Osian
+MID_BONDSRING_H_Othin00	Héros d'au-delà d'Elyos qui s'est\nbattu avec les Affranchis de Fiana.
+MID_BONDSRING_H_Othin01	D'un tempérament bouillonnant,\nil manie la hache de lancer Vouge.
+MID_BONDSRING_H_Othin02	Insolent mais enthousiaste, sa\nprésence est source de motivation.
+MID_BONDSRING_H_Othin03	Apparaît dans Thracia 776
+MID_BONDSRING_Shiva	Shiva
+MID_BONDSRING_H_Shiva00	Héros d'au-delà d'Elyos et épéiste\nitinérant.
+MID_BONDSRING_H_Shiva01	Entièrement vêtu de noir, il manie\nl'épée avec une habileté mortelle.
+MID_BONDSRING_H_Shiva02	Froid mais bienveillant, il déteste\nqu'une vie soit gâchée.
+MID_BONDSRING_H_Shiva03	Apparaît dans Thracia 776
+MID_BONDSRING_Linoan	Linoan
+MID_BONDSRING_H_Linoan00	Duchesse de Tarrah en Jugdral,\nun continent d'un autre monde.
+MID_BONDSRING_H_Linoan01	Dirigeante sage et bienveillante,\nelle succède à son père décédé.
+MID_BONDSRING_H_Linoan02	Descendante de Saint Heim, elle\nrejoint Leif qui s'oppose à l'Empire.
+MID_BONDSRING_H_Linoan03	Apparaît dans Thracia 776
+MID_BONDSRING_Lucina00	Héroïne d'au-delà d'Elyos et fille\nde Chrom venue du futur.
+MID_BONDSRING_Lucina01	Elle voyage dans le passé pour\naffronter Grima et sauver l'avenir.
+MID_BONDSRING_Sallya	Tharja
+MID_BONDSRING_H_Sallya00	Héroïne d'au-delà d'Elyos et mage\nnoire de Plegia.
+MID_BONDSRING_H_Sallya01	Pleine de malice et de jalousie, elle\nlance fréquemment des malédictions.
+MID_BONDSRING_H_Sallya02	Elle est très attachée à Daraen,\nqu'elle suit comme son ombre.
+MID_BONDSRING_H_Sallya03	Apparaît dans Awakening
+MID_BONDSRING_Chrom	Chrom
+MID_BONDSRING_H_Chrom00	Prince du Saint-Royaume d'Ylisse,\nun pays d'un autre monde.
+MID_BONDSRING_H_Chrom01	Descendant du Roi-Héros, il\nprotège Ylisse à la tête des Veilleurs.
+MID_BONDSRING_H_Chrom02	Aux côtés de sa fille et de Daraen,\nil combat Grima, le Dragon déchu.
+MID_BONDSRING_H_Chrom03	Apparaît dans Awakening
+MID_BONDSRING_Tiamo	Cordelia
+MID_BONDSRING_H_Tiamo00	Héroïne d'au-delà d'Elyos et\nchevalier pégase d'Ylisse.
+MID_BONDSRING_H_Tiamo01	Belle et talentueuse, elle mène\ntoujours ses tâches à bien.
+MID_BONDSRING_H_Tiamo02	Ses sentiments inavoués pour Chrom\nla font fréquemment soupirer.
+MID_BONDSRING_H_Tiamo03	Apparaît dans Awakening
+MID_BONDSRING_Marc	Linfan
+MID_BONDSRING_H_Marc00	Héroïque enfant de Daraen\nqui vient d'au-delà d'Elyos.
+MID_BONDSRING_H_Marc01	Voyage dans le temps et aspire à\négaler le génie tactique de Daraen.
+MID_BONDSRING_H_Marc02	Souffre d'amnésie mais garde son\nnaturel énergique, enjoué et motivé.
+MID_BONDSRING_H_Marc03	Apparaît dans Awakening
+MID_BONDSRING_Nono	Nowi
+MID_BONDSRING_H_Nono00	Héroïne d'au-delà d'Elyos et jeune\ndragon pleine d'innocence.
+MID_BONDSRING_H_Nono01	Manakete sous forme humaine, elle\nest bien plus âgée qu'il n'y paraît.
+MID_BONDSRING_H_Nono02	Elle adore s'amuser en bonne\ncompagnie et faire la grasse matinée.
+MID_BONDSRING_H_Nono03	Apparaît dans Awakening
+MID_BONDSRING_Azul	Íñigo
+MID_BONDSRING_H_Azul00	Héros d'au-delà d'Elyos et fils\nd'Olivia.
+MID_BONDSRING_H_Azul01	Jeune homme chaleureux, c'est\nun des enfants venant du futur.
+MID_BONDSRING_H_Azul02	Séducteur invétéré, il passe ses nuits\nà se promener dans le camp.
+MID_BONDSRING_H_Azul03	Apparaît dans Awakening
+MID_BONDSRING_Serena	Severa
+MID_BONDSRING_H_Serena00	Héroïne d'au-delà d'Elyos et fille\nde Cordelia.
+MID_BONDSRING_H_Serena01	Arrogante et sarcastique, c'est\nun des enfants venant du futur.
+MID_BONDSRING_H_Serena02	En plus d'être sournoise, c'est\nun vrai panier percé.
+MID_BONDSRING_H_Serena03	Apparaît dans Awakening
+MID_BONDSRING_Gaius	Gaius
+MID_BONDSRING_H_Gaius00	Héros d'au-delà d'Elyos et voleur\ndu Saint-Royaume d'Ylisse.
+MID_BONDSRING_H_Gaius01	Calme et malin, il accepte n'importe\nquel travail si on y met le prix.
+MID_BONDSRING_H_Gaius02	Il aime les bonbons et en dissimule\ndans ses vêtements.
+MID_BONDSRING_H_Gaius03	Apparaît dans Awakening
+MID_BONDSRING_Oud	Owain
+MID_BONDSRING_H_Oud00	Héros d'au-delà d'Elyos et fils\nde Lissa.
+MID_BONDSRING_H_Oud01	Porteur de la marque de la Sainte-\nLignée, il vient du futur.
+MID_BONDSRING_H_Oud02	Poseur, il est très soupe au lait\nsous ses airs décontractés.
+MID_BONDSRING_H_Oud03	Apparaît dans Awakening
+MID_BONDSRING_Lissa	Lissa
+MID_BONDSRING_H_Lissa00	Princesse du Saint-Royaume\nd'Ylisse, un pays d'un autre monde.
+MID_BONDSRING_H_Lissa01	Membre charitable des Veilleurs,\nelle traite chacun de la même façon.
+MID_BONDSRING_H_Lissa02	Débordante d'énergie, elle aide à\nentretenir le moral des Veilleurs.
+MID_BONDSRING_H_Lissa03	Apparaît dans Awakening
+MID_BONDSRING_Lin00	Noble de Caelin élevée en Sacae,\nun pays d'un autre monde.
+MID_BONDSRING_Lin01	Avec ses amis Eliwood et Hector,\nelle combat le maléfique Nergal.
+MID_BONDSRING_Hector	Hector
+MID_BONDSRING_H_Hector00	Noble d'Ositia à Lycia, une région\nd'Elibe, continent d'un autre monde.
+MID_BONDSRING_H_Hector01	Jeune homme fort et désinvolte, il a\nappris lui-même à manier la hache.
+MID_BONDSRING_H_Hector02	Lui et Eliwood ont fait un serment\nd'amitié quand ils étaient enfants.
+MID_BONDSRING_H_Hector03	Apparaît dans The Binding Blade\net The Blazing Blade
+MID_BONDSRING_Dorcas	Dorcas
+MID_BONDSRING_H_Dorcas00	Héros d'au-delà d'Elyos et guerrier\nvenant d'un village isolé.
+MID_BONDSRING_H_Dorcas01	Il loue ses services à des bandits\nafin de payer les soins de sa femme.
+MID_BONDSRING_H_Dorcas02	Réservé et dévoué à sa famille, il\nrejoint Lyn après qu'elle l'a sauvé.
+MID_BONDSRING_H_Dorcas03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Eliwod	Eliwood
+MID_BONDSRING_H_Eliwod00	Noble de la maison Pherae en Elibe,\nun continent d'un autre monde.
+MID_BONDSRING_H_Eliwod01	Sincère et franc, il voyage à la\nrecherche de son père disparu.
+MID_BONDSRING_H_Eliwod02	Dupé par Nergal, il finit par le\nvaincre avec l'aide de ses amis.
+MID_BONDSRING_H_Eliwod03	Apparaît dans The Binding Blade\net The Blazing Blade
+MID_BONDSRING_Nino	Nino
+MID_BONDSRING_H_Nino00	Héroïne d'au-delà d'Elyos et\napprentie mage au grand cœur.
+MID_BONDSRING_H_Nino01	Fille adoptive et délaissée du chef du\nBlack Fang, un clan d'assassins.
+MID_BONDSRING_H_Nino02	Elle considère les membres de\nson clan comme sa famille.
+MID_BONDSRING_H_Nino03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Flolina	Florina
+MID_BONDSRING_H_Flolina00	Héroïne d'au-delà d'Elyos et\nchevalier pégase d'Ilia en formation.
+MID_BONDSRING_H_Flolina01	Jeune femme discrète et pleine de\ncompassion, elle adore les animaux.
+MID_BONDSRING_H_Flolina02	Bien que timide et impressionnable,\nelle soutient Lyn dans son aventure.
+MID_BONDSRING_H_Flolina03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Jaffar	Jaffar
+MID_BONDSRING_H_Jaffar00	Héros d'au-delà d'Elyos et membre\ndu clan d'assassins du Black Fang.
+MID_BONDSRING_H_Jaffar01	Appelé l'Ange de la Mort, c'est un\ndes Quatre Fangs, assassins d'élite.
+MID_BONDSRING_H_Jaffar02	Très réservé, il finit par sortir de sa\ncarapace à force de fréquenter Nino.
+MID_BONDSRING_H_Jaffar03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Matthew	Matthew
+MID_BONDSRING_H_Matthew00	Héros d'au-delà d'Elyos et espion\nau service de la maison Ositia.
+MID_BONDSRING_H_Matthew01	Espiègle et optimiste, il n'a aucune\ndifficulté à nouer des relations.
+MID_BONDSRING_H_Matthew02	Bien qu'il semble tête en l'air, il\nmène toujours ses missions à bien.
+MID_BONDSRING_H_Matthew03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Ninian	Ninian
+MID_BONDSRING_H_Ninian00	Héroïne d'au-delà d'Elyos et\ndanseuse itinérante.
+MID_BONDSRING_H_Ninian01	Se lie d'amitié avec Eliwood et Lyn\naprès avoir été sauvée de bandits.
+MID_BONDSRING_H_Ninian02	Fille fragile dont le secret pourrait\nébranler le monde.
+MID_BONDSRING_H_Ninian03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Rebacca	Rebecca
+MID_BONDSRING_H_Rebacca00	Héroïne d'au-delà d'Elyos et fille du\nchef d'un village de Pherae.
+MID_BONDSRING_H_Rebacca01	Devient l'alliée d'Eliwood pour le\nremercier d'avoir sauvé son village.
+MID_BONDSRING_H_Rebacca02	Pleine de bonté et de joie, elle a\nappris à manier l'arc en chassant.
+MID_BONDSRING_H_Rebacca03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Serra	Serra
+MID_BONDSRING_H_Serra00	Héroïne d'au-delà d'Elyos et\nprêtresse au service d'Ositia.
+MID_BONDSRING_H_Serra01	Intelligente, elle rejoint Lyn afin de\ns'adjoindre une puissante alliée.
+MID_BONDSRING_H_Serra02	Très appréciée malgré sa tendance\nà n'obéir qu'à elle-même.
+MID_BONDSRING_H_Serra03	Apparaît dans The Blazing Blade
+MID_BONDSRING_Ike00	Chef des mercenaires de Greil en\nCrimea, un pays d'un autre monde.
+MID_BONDSRING_Ike01	Il combat le roi fou de Daein qui veut\nramener un dieu maléfique à la vie.
+MID_BONDSRING_Senerio	Soren
+MID_BONDSRING_H_Senerio00	Héros d'au-delà d'Elyos et mage qui\na rejoint les mercenaires de Greil.
+MID_BONDSRING_H_Senerio01	Bon conseiller, perspicace, et doué\npour la collecte de renseignements.
+MID_BONDSRING_H_Senerio02	Il n'est pas à l'aise avec les gens,\nà l'exception d'Ike.
+MID_BONDSRING_H_Senerio03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Wayu	Mia
+MID_BONDSRING_H_Wayu00	Héroïne d'au-delà d'Elyos et\nmembre des mercenaires de Greil.
+MID_BONDSRING_H_Wayu01	Directe et pleine d'entrain, elle\nn'hésite pas à dire ce qu'elle pense.
+MID_BONDSRING_H_Wayu02	Elle cherche toujours des adversaires\npour parfaire ses techniques.
+MID_BONDSRING_H_Wayu03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Tiamat	Titania
+MID_BONDSRING_H_Tiamat00	Héroïne d'au-delà d'Elyos et cheffe\nen second des mercenaires de Greil.
+MID_BONDSRING_H_Tiamat01	Chevalier lancier aguerri et ancien\nchevalier royal de Crimea.
+MID_BONDSRING_H_Tiamat02	C'est une véritable mère poule pour\nIke et les autres membres du groupe.
+MID_BONDSRING_H_Tiamat03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Elaice	Ilyana
+MID_BONDSRING_H_Elaice00	Héroïne d'au-delà d'Elyos et\nmage maniant la magie de foudre.
+MID_BONDSRING_H_Elaice01	Rejoint Ike après s'être retrouvée\nmalgré elle dans un combat.
+MID_BONDSRING_H_Elaice02	Malgré ses airs fragiles, son appétit\nest insatiable et elle a toujours faim.
+MID_BONDSRING_H_Elaice03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Lethe	Lethe
+MID_BONDSRING_H_Lethe00	Héroïne d'au-delà d'Elyos et\nguerrière laguz de Gallia.
+MID_BONDSRING_H_Lethe01	Métamorphe laguz qui peut se\ntransformer en chat colossal.
+MID_BONDSRING_H_Lethe02	Par ordre du roi, elle coopère avec\nles Beorc malgré ses réticences.
+MID_BONDSRING_H_Lethe03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Mist	Mist
+MID_BONDSRING_H_Mist00	Héroïne d'au-delà d'Elyos maniant\nle bâton et mercenaire de Greil.
+MID_BONDSRING_H_Mist01	Petite sœur d'Ike, elle a le cœur pur\net est pleine de compassion.
+MID_BONDSRING_H_Mist02	Elle est toujours à l'affût d'un\nmoyen de se rendre utile.
+MID_BONDSRING_H_Mist03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Chinon	Shinon
+MID_BONDSRING_H_Chinon00	Héros d'au-delà d'Elyos et archer\ndes mercenaires de Greil.
+MID_BONDSRING_H_Chinon01	Maître archer, il ne manque jamais\nsa cible.
+MID_BONDSRING_H_Chinon02	Il peut se montrer cynique mais c'est\npour dissimuler son côté attentionné.
+MID_BONDSRING_H_Chinon03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Greil	Greil
+MID_BONDSRING_H_Greil00	Héros d'au-delà d'Elyos et fondateur\ndes mercenaires de Greil.
+MID_BONDSRING_H_Greil01	Mercenaire de premier ordre,\nil accumule les prouesses au combat.
+MID_BONDSRING_H_Greil02	Père d'Ike et de Mist, il considère\nles mercenaires comme sa famille.
+MID_BONDSRING_H_Greil03	Apparaît dans Path of Radiance
+MID_BONDSRING_Lay	Ranulf
+MID_BONDSRING_H_Lay00	Héros d'au-delà d'Elyos et guerrier\nlaguz de Gallia.
+MID_BONDSRING_H_Lay01	Métamorphe laguz décontracté qui\npeut se transformer en chat colossal.
+MID_BONDSRING_H_Lay02	Il arbore un air détendu et ne connaît\npas la peur sur le champ de bataille.
+MID_BONDSRING_H_Lay03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Gatrie	Gatorie
+MID_BONDSRING_H_Gatrie00	Héros d'au-delà d'Elyos et membre\ndes mercenaires de Greil.
+MID_BONDSRING_H_Gatrie01	Adorable pitre et frère de cœur de\nShinon, un mercenaire plus âgé.
+MID_BONDSRING_H_Gatrie02	Il a un cœur d'artichaut et ne se\ndécourage jamais s'il est repoussé.
+MID_BONDSRING_H_Gatrie03	Apparaît dans Path of Radiance\net Radiant Dawn
+MID_BONDSRING_Byleth00	Originaire du continent de Fódlan, il\na trouvé sa voie avec l'enseignement.
+MID_BONDSRING_Byleth01	Brandissant l'Épée du Créateur,\nil mène ses élèves au combat.
+MID_BONDSRING_Edelgard	Edelgard
+MID_BONDSRING_H_Edelgard00	Princesse de l'Empire d'Adrestia,\nun pays d'un autre monde.
+MID_BONDSRING_H_Edelgard01	Chef de la maison de l'Aigle de jais\nau monastère de Garreg Mach.
+MID_BONDSRING_H_Edelgard02	Femme noble et déterminée, elle\nest décidée à changer le monde.
+MID_BONDSRING_H_Edelgard03	Apparaît dans Three Houses
+MID_BONDSRING_Dimitri	Dimitri
+MID_BONDSRING_H_Dimitri00	Prince héritier du Saint Royaume de\nFaerghus, un pays d'un autre monde.
+MID_BONDSRING_H_Dimitri01	Chef de la maison du Lion de saphir\nau monastère de Garreg Mach.
+MID_BONDSRING_H_Dimitri02	Courtois et sincère, il cache pourtant\nune certaine noirceur dans son cœur.
+MID_BONDSRING_H_Dimitri03	Apparaît dans Three Houses
+MID_BONDSRING_Claude	Claude
+MID_BONDSRING_H_Claude00	Héritier de la maison Riegan de\nl'Alliance, dans un autre monde.
+MID_BONDSRING_H_Claude01	Chef de la maison du Cerf d'or\nau monastère de Garreg Mach.
+MID_BONDSRING_H_Claude02	Sous un air décontracté et amical,\nil est capable des pires complots.
+MID_BONDSRING_H_Claude03	Apparaît dans Three Houses
+MID_BONDSRING_Lysithea	Lysithea
+MID_BONDSRING_H_Lysithea00	Héroïne d'au-delà d'Elyos et fille\naînée de la maison Ordelia.
+MID_BONDSRING_H_Lysithea01	Cerf d'or appliquée, elle possède\nun grand talent pour la magie.
+MID_BONDSRING_H_Lysithea02	Aime les bonbons, hait les fantômes\net être traitée comme une enfant.
+MID_BONDSRING_H_Lysithea03	Apparaît dans Three Houses
+MID_BONDSRING_Bernadetta	Bernadetta
+MID_BONDSRING_H_Bernadetta00	Héroïne d'au-delà d'Elyos et fille\nunique de la maison Varley.
+MID_BONDSRING_H_Bernadetta01	Aigle de jais, elle a extrêmement\npeur des étrangers.
+MID_BONDSRING_H_Bernadetta02	Jeune femme solitaire, elle ne quitte\nsa chambre que pour aller en cours.
+MID_BONDSRING_H_Bernadetta03	Apparaît dans Three Houses
+MID_BONDSRING_Felix	Felix
+MID_BONDSRING_H_Felix00	Héros d'au-delà d'Elyos et héritier\nde la maison Fraldarius.
+MID_BONDSRING_H_Felix01	Lion de saphir, c'est également l'ami\nd'enfance de Dimitri.
+MID_BONDSRING_H_Felix02	Il ne songe qu'à affronter d'autres\népéistes dignes de son talent.
+MID_BONDSRING_H_Felix03	Apparaît dans Three Houses
+MID_BONDSRING_Ferdinand	Ferdinand
+MID_BONDSRING_H_Ferdinand00	Héros d'au-delà d'Elyos et héritier\nde la maison Aegir.
+MID_BONDSRING_H_Ferdinand01	Aigle de jais, il est fier d'être\nd'ascendance noble.
+MID_BONDSRING_H_Ferdinand02	Tend à rivaliser avec Edelgard, jaloux\nde son titre de princesse impériale.
+MID_BONDSRING_H_Ferdinand03	Apparaît dans Three Houses
+MID_BONDSRING_Ingrid	Ingrid
+MID_BONDSRING_H_Ingrid00	Héroïne d'au-delà d'Elyos et fille\nunique de la maison Galatea.
+MID_BONDSRING_H_Ingrid01	Membre des Lions de saphir, elle est\nsérieuse et a la tête sur les épaules.
+MID_BONDSRING_H_Ingrid02	Elle admire les chevaliers issus de la\nnoblesse et rêve d'en devenir un.
+MID_BONDSRING_H_Ingrid03	Apparaît dans Three Houses
+MID_BONDSRING_Raphael	Raphael
+MID_BONDSRING_H_Raphael00	Héros d'au-delà d'Elyos et fils d'un\nmarchand de l'Alliance de Leicester.
+MID_BONDSRING_H_Raphael01	Cerf d'or doté d'un appétit féroce\net d'une robuste carrure.
+MID_BONDSRING_H_Raphael02	Compense par l'entraînement sa\nréticence à l'apprentissage livresque.
+MID_BONDSRING_H_Raphael03	Apparaît dans Three Houses
+MID_BONDSRING_Flayn	Flayn
+MID_BONDSRING_H_Flayn00	Héroïne d'au-delà d'Elyos et jeune\nsœur de Seteth.
+MID_BONDSRING_H_Flayn01	Elle vit au monastère de Garreg\nMach sous la protection de son frère.
+MID_BONDSRING_H_Flayn02	Comme elle vit recluse, tout ce qui\nse passe en ville l'intéresse.
+MID_BONDSRING_H_Flayn03	Apparaît dans Three Houses
+MID_BONDSRING_Kamui00	Héroïne née en Hoshido qui fut\nenlevée et élevée en Nohr.
+MID_BONDSRING_Kamui01	Elle combat Anankos qui cherche\nà mener le monde à sa perte.
+MID_BONDSRING_Camilla	Camilla
+MID_BONDSRING_H_Camilla00	Princesse aînée de Nohr, un pays\nd'un autre monde.
+MID_BONDSRING_H_Camilla01	Belle et envoûtante, elle chevauche\nune wyverne.
+MID_BONDSRING_H_Camilla02	Elle apprécie les filles qui allient\nforce et beauté et adore Corrin.
+MID_BONDSRING_H_Camilla03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Aqua	Azura
+MID_BONDSRING_H_Aqua00	Héroïne d'au-delà d'Elyos enlevée\net élevée en Hoshido.
+MID_BONDSRING_H_Aqua01	Elle dégage une aura fragile et\nmystérieuse et cache ses émotions.
+MID_BONDSRING_H_Aqua02	Chanteuse, elle utilise ses danses\nainsi que des lances pour se battre.
+MID_BONDSRING_H_Aqua03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Takumi	Takumi
+MID_BONDSRING_H_Takumi00	Prince d'Hoshido, un pays d'un\nautre monde.
+MID_BONDSRING_H_Takumi01	Archer hors pair, il manie l'arc divin\nYumi Fujin.
+MID_BONDSRING_H_Takumi02	Il méprise Nohr et éprouve des\nsentiments complexes envers Corrin.
+MID_BONDSRING_H_Takumi03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Leon	Leo
+MID_BONDSRING_H_Leon00	Prince de Nohr, un pays d'un autre\nmonde.
+MID_BONDSRING_H_Leon01	Mage noir d'élite qui manie le tome\ndivin Brynhildr.
+MID_BONDSRING_H_Leon02	Prodige au talent inné dans son\ndomaine, il est parfois tête en l'air.
+MID_BONDSRING_H_Leon03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Elise	Elise
+MID_BONDSRING_H_Elise00	Princesse de Nohr, un pays d'un\nautre monde.
+MID_BONDSRING_H_Elise01	Benjamine de la famille royale de\nNohr, pleine de candeur et de gaieté.
+MID_BONDSRING_H_Elise02	Elle adore ses frères et sœurs et\nadmire Corrin.
+MID_BONDSRING_H_Elise03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Sakura	Sakura
+MID_BONDSRING_H_Sakura00	Princesse d'Hoshido, un pays d'un\nautre monde.
+MID_BONDSRING_H_Sakura01	Benjamine de la famille royale\nd'Hoshido, élégante et sensible.
+MID_BONDSRING_H_Sakura02	Elle est polie mais timide et\nfacilement troublée.
+MID_BONDSRING_H_Sakura03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Marks	Xander
+MID_BONDSRING_H_Marks00	Prince aîné de Nohr, un pays d'un\nautre monde.
+MID_BONDSRING_H_Marks01	Prince héritier, il a reçu l'épée divine\nSiegfried.
+MID_BONDSRING_H_Marks02	Chevalier plein de noblesse, il sait\nse montrer sévère ou bienveillant.
+MID_BONDSRING_H_Marks03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Joker	Jakob
+MID_BONDSRING_H_Joker00	Héros d'au-delà d'Elyos et\nmajordome de Corrin.
+MID_BONDSRING_H_Joker01	Vif d'esprit et polyvalent, il est aussi\nbon domestique que combattant.
+MID_BONDSRING_H_Joker02	Sa loyauté envers Corrin est absolue\net il traite les autres avec dédain.
+MID_BONDSRING_H_Joker03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Ryoma	Ryoma
+MID_BONDSRING_H_Ryoma00	Prince aîné d'Hoshido, un pays\nd'un autre monde.
+MID_BONDSRING_H_Ryoma01	Prince héritier, il a reçu l'épée divine\nRaijinto.
+MID_BONDSRING_H_Ryoma02	Samouraï à la volonté inébranlable\nprêt à surmonter toutes les épreuves.
+MID_BONDSRING_H_Ryoma03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Hinoka	Hinoka
+MID_BONDSRING_H_Hinoka00	Princesse aînée d'Hoshido, un pays\nd'un autre monde.
+MID_BONDSRING_H_Hinoka01	Elle n'a peur de rien et charge\nl'ennemi en chevauchant un pégase.
+MID_BONDSRING_H_Hinoka02	Elle a rejoint les chevaliers célestes\nen espérant arracher Corrin de Nohr.
+MID_BONDSRING_H_Hinoka03	Apparaît dans Héritage, Conquête\net autres
+MID_BONDSRING_Eirik00	Princesse de Renais, sur le continent\nde Magvel, au-delà d'Elyos.
+MID_BONDSRING_Eirik01	Avec son frère jumeau Ephraim,\nelle combat Fomortiis, le Roi-démon.
+MID_BONDSRING_Lute	Lute
+MID_BONDSRING_H_Lute00	Héroïne d'au-delà d'Elyos et mage\nprodigieusement douée.
+MID_BONDSRING_H_Lute01	Mage très sûre d'elle, elle mentionne\nsouvent sa supériorité.
+MID_BONDSRING_H_Lute02	Avec ses manières excentriques,\nil est dur de savoir si elle plaisante.
+MID_BONDSRING_H_Lute03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Jhosua	Joshua
+MID_BONDSRING_H_Jhosua00	Héros d'au-delà d'Elyos et épéiste\ndécontracté.
+MID_BONDSRING_H_Jhosua01	Joueur invétéré, il prend toutes les\ndécisions importantes à pile ou face.
+MID_BONDSRING_H_Jhosua02	Il décide de trahir l'empire de Grado\nen tirant à pile ou face.
+MID_BONDSRING_H_Jhosua03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Marica	Marisa
+MID_BONDSRING_H_Marica00	Héroïne d'au-delà d'Elyos et\nmembre des mercenaires de Gerik.
+MID_BONDSRING_H_Marica01	Surnommée l'Éclair écarlate, c'est\nune épéiste redoutée.
+MID_BONDSRING_H_Marica02	Taciturne, elle fait entièrement\nconfiance au commandant Gerik.
+MID_BONDSRING_H_Marica03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Seth	Seth
+MID_BONDSRING_H_Seth00	Héros d'au-delà d'Elyos et chevalier\nservant la famille royale de Renais.
+MID_BONDSRING_H_Seth01	Jeune général que beaucoup\nsurnomment le Chevalier d'argent.
+MID_BONDSRING_H_Seth02	Il protège et aide Eirika lors d'une\ninvasion menée par Grado.
+MID_BONDSRING_H_Seth03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Amelia	Amelia
+MID_BONDSRING_H_Amelia00	Héroïne d'au-delà d'Elyos. Jeune\nrecrue de l'empire de Grado.
+MID_BONDSRING_H_Amelia01	Naïve mais enjouée, honnête et\nincroyablement consciencieuse.
+MID_BONDSRING_H_Amelia02	Elle combat Eirika et Ephraim car\nelle les croit malveillants.
+MID_BONDSRING_H_Amelia03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Turner	Tana
+MID_BONDSRING_H_Turner00	Princesse de Frelia en Magvel,\nun continent d'un autre monde.
+MID_BONDSRING_H_Turner01	Chevalier pégase armé d'une lance,\nassez turbulente malgré sa noblesse.
+MID_BONDSRING_H_Turner02	Elle fuit le château pour aider son\namie Eirika.
+MID_BONDSRING_H_Turner03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Larchel	L'Arachel
+MID_BONDSRING_H_Larchel00	Héroïne d'au-delà d'Elyos prompte\nà défendre les autres.
+MID_BONDSRING_H_Larchel01	Elle traverse Magvel pour éliminer\nles monstres qu'elle rencontre.
+MID_BONDSRING_H_Larchel02	En tant que princesse de Rausten,\nelle combat avec deux domestiques.
+MID_BONDSRING_H_Larchel03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Ross	Ross
+MID_BONDSRING_H_Ross00	Héros d'au-delà d'Elyos et fils\ndu guerrier Garcia.
+MID_BONDSRING_H_Ross01	Jeune guerrier de Renais sans\nexpérience, il déborde d'énergie.
+MID_BONDSRING_H_Ross02	Il s'entraîne avec ferveur pour\nressembler à son père.
+MID_BONDSRING_H_Ross03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Heanius	Innes
+MID_BONDSRING_H_Heanius00	Prince de Frelia en Magvel, un\ncontinent d'un autre monde.
+MID_BONDSRING_H_Heanius01	Fier et sage, c'est un archer\naccompli.
+MID_BONDSRING_H_Heanius02	Sous ses dehors froids et distants,\nc'est quelqu'un de bien.
+MID_BONDSRING_H_Heanius03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Xyst	Gerik
+MID_BONDSRING_H_Xyst00	Héros d'au-delà d'Elyos et fondateur\ndes mercenaires de Gerik.
+MID_BONDSRING_H_Xyst01	Vétéran puissant et célèbre, il est\nsurnommé le Tigre du désert.
+MID_BONDSRING_H_Xyst02	Empathique et attaché à l'honneur,\nil a la confiance de ses alliés.
+MID_BONDSRING_H_Xyst03	Apparaît dans The Sacred Stones
+MID_BONDSRING_Alfonse	Alfonse
+MID_BONDSRING_H_Alfonse00	Prince d'Askr, un pays d'un autre\nmonde.
+MID_BONDSRING_H_Alfonse01	Jeune homme bon et sincère,\nmembre des Gardiens d'Askr.
+MID_BONDSRING_H_Alfonse02	Il est décidé à relever tous les défis\nqui le séparent de la victoire.
+MID_BONDSRING_H_Alfonse03	Apparaît dans Heroes
+MID_BONDSRING_Sharena	Sharena
+MID_BONDSRING_H_Sharena00	Princesse d'Askr, un pays d'un autre\nmonde.
+MID_BONDSRING_H_Sharena01	Jeune femme vive et énergique,\nmembre des Gardiens d'Askr.
+MID_BONDSRING_H_Sharena02	Elle souhaite se lier d'amitié avec\ndes héros d'autres mondes.
+MID_BONDSRING_H_Sharena03	Apparaît dans Heroes
+MID_BONDSRING_Anna	Anna
+MID_BONDSRING_H_Anna00	Guerrière d'Askr, un pays d'un autre\nmonde.
+MID_BONDSRING_H_Anna01	Combattante expérimentée, elle\ncommande les Gardiens d'Askr.
+MID_BONDSRING_H_Anna02	Aimable et fiable, elle peut perdre sa\ncontenance quand on parle d'argent.
+MID_BONDSRING_H_Anna03	Apparaît dans Heroes
+MID_BONDSRING_Lueur00	Après être mort\x0E\x0A\x00\x06
+MID_BONDSRING_Lueur01	Combat avec le pouvoir unique\nd'un Emblème à la forme corporelle.
+MGID_Ring_Marth	Anneau du Roi-Héros
+MGID_H_Ring_Marth	L'anneau où sommeille Marth,\nhéros parmi les héros, débordant\nde charisme et de noblesse.
+MGID_Ring_Siglud	Anneau du Chevalier Sacré
+MGID_H_Ring_Siglud	L'anneau où sommeille Sigurd,\nnoble chevalier à l'impressionnante\nlignée.
+MGID_Ring_Celica	Anneau de la Tendre Princesse
+MGID_H_Ring_Celica	L'anneau où sommeille Celica,\nprincesse d'un pays plein de vie\net prêtresse guerrière.
+MGID_Ring_Micaiah	Anneau de la Fille de l'Aube
+MGID_H_Ring_Micaiah	L'anneau où sommeille Micaiah,\ndétentrice d'énigmatiques pouvoirs\nde guérison et de clairvoyance.
+MGID_Ring_Roy	Anneau du Jeune Lion
+MGID_H_Ring_Roy	L'anneau où sommeille Roy,\nnoble et général de renom reconnu\npour sa bravoure et son intelligence.
+MGID_Ring_Lin	Anneau de la Lady de Sacae
+MGID_H_Ring_Lin	L'anneau où sommeille Lyn,\népéiste virtuose élevée dans une\ntribu de nomades des plaines.
+MGID_Ring_Ike	Anneau du Héros de l'Aube
+MGID_H_Ring_Ike	L'anneau où sommeille Ike,\ncélèbre chef de mercenaires aux\ncapacités guerrières inégalées.
+MGID_Ring_Lucina	Anneau de la Sainte-Lignée
+MGID_H_Ring_Lucina	L'anneau où sommeille Lucina,\nhéritière royale qui sait que le destin\nn'est pas figé et ne désespère jamais.
+MGID_Ring_Leaf	Anneau du Souverain Éclairé
+MGID_H_Ring_Leaf	L'anneau où sommeille Leif,\nprince courageux dans les veines\nduquel coule le sang de deux croisés.
+MGID_Ring_Kamui	Anneau de la Main du Destin
+MGID_H_Ring_Kamui	L'anneau où sommeille Corrin,\nprincesse à la volonté de fer\net au sang des premiers dragons.
+MGID_Ring_Eirik	Anneau des Jumeaux Célestes
+MGID_H_Ring_Eirik	L'anneau où sommeille Eirika, une\nprincesse pleine d'empathie qui\ncroise le fer pour instaurer la paix.
+MGID_Ring_Byleth	Anneau de l'Instructeur
+MGID_H_Ring_Byleth	L'anneau où sommeille Byleth,\nun mercenaire devenu enseignant.
+MGID_Ring_Lueur	Anneau de la Cohésion
+MGID_Ring_CharacterName	anneau (\x0E\x01\x00\x00)
+MGID_Ring_God_Category	Anneaux de lien (\x0E\x01\x00\x00)
+MGID_Ring_Special_Category	Anneaux de lien spéciaux
+MID_BondsRing_RankS	Niveau S
+MID_BondsRing_RankA	Niveau A
+MID_BondsRing_RankB	Niveau B
+MID_BondsRing_RankC	Niveau C
+MGID_World_Marth	Monde du Roi-Héros
+MGID_World_Siglud	Monde du Chevalier Sacré
+MGID_World_Celica	Monde de la Tendre Princesse
+MGID_World_Micaiah	Monde de la Fille de l'Aube
+MGID_World_Roy	Monde du Jeune Lion
+MGID_World_Lin	Monde de la Lady de Sacae
+MGID_World_Ike	Monde du Héros de l'Aube
+MGID_World_Lucina	Monde de la Sainte-Lignée
+MGID_World_Leaf	Monde du Souverain Éclairé
+MGID_World_Kamui	Monde de la Main du Destin
+MGID_World_Eirik	Monde des Jumeaux Célestes
+MGID_World_Byleth	Monde de l'Instructeur
+MGID_World_Special	Myriade de mondes
+MGID_World_Lueur	Monde de la Cohésion

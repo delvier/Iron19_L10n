@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\n¿¡Qué!? ¿Acaso me engañan mis ojos?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06マルス\nQué curioso, este sitio es idéntico\na los jardines del castillo de Lythos.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿A vosotros también os lo parece?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06マルス\nSí, todo resulta idéntico. Desde su aspecto\nexterior hasta el olor de la brisa...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nCierto. Serví durante años en el castillo\ny, a primera vista, no sabría diferenciarlos.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nAunque no sea real,\nme produce cierta nostalgia...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nMi madre me entrenó en estos jardines.\nLas flores ya habían madurado... como ahora.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0C\nヴァンドレ\nLo recuerdo. Por desgracia, de ese jardín\nno quedan ya más que ruinas.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nAsí es...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\n¡Mirad allí! Hay algo que brilla.\n¿Lo veis?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Es un altar? Y encima... ¡Hay un anillo!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nCreí que habíamos reunido todos los anillos\nEmblema. ¿Puede ser que hubiera más?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\n¿Será un Emblema que desconocemos?\n¡Echemos un vistazo!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nAlto, siento una presencia...\nHay enemigos cerca.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x024\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGrrr...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x00\x1C\x16S015_異形兵_蛮族\x021\n\x0E\x03\x02\x18\x16S015_異形兵_蛮族\nGrrr...\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\n¿¡Son aberraciones!?\nHabrán venido a por el anillo.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\n¡No podemos permitir que se lo lleven!\n¡Quizá pertenezca a otro Emblema!\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0C\nヴァンドレ\n¡Lucharé con vos una vez más, Divinidad!\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\nEse anillo... ¿Se tratará de...?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\n¡Uaaarg!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¡Refuerzos enemigos!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\n¡Uaaarg!\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nOh, no... Se han llevado el anillo.\nHemos fracasado.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\n¡Uaaarg!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\n¡Uaaarg!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nEs como cuando luché contra los soldados\nque creó mi madre en aquel simulacro.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nYa no está conmigo, pero, allá donde se haya\nido, haré que se sienta orgullosa de mí.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\n¡Uaaarg!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\n¡Hemos recuperado el anillo! Aunque no parece\nque contenga ningún Emblema. Qué raro...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nヴァンドレ\n¿Se trata de un anillo normal y corriente?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nEso parece, pero, cuando lo sujeto,\nmi corazón se acelera.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06マルス\nEs lo que sospechaba.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\n¿De qué estás hablando?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nEs el Anillo del Pacto. Alberga el poder\ndel Dragón Divino Lumera, a quien perteneció.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\n¿Hay algo más que nos puedas contar?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nLumera me dijo que es un anillo especial que\nel Dragón Divino da a alguien de su confianza.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06マルス\nDe algún modo, refuerza la relación y el vínculo\nentre quien lo entrega y quien lo recibe.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06マルス\nEn otras palabras: concede poder tanto\nal Dragón Divino como a la otra persona.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Mi madre dio este anillo a alguien en quien\nconfiaba? ¿Tenía un vínculo con esa persona?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06マルス\nEso creo, aunque perdió a todos sus amigos\ny aliados durante la guerra.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06マルス\nAsí que es imposible saber a quién se lo entregó\no si realmente llegó a ofrecérselo a alguien.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMadre...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06マルス\nLo que sí sabemos es que la persona\nmás importante de su vida fuiste tú.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06マルス\nDeberías heredar el anillo y dárselo\nal aliado en quien más confíes.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nLo pensaré largo y tendido antes de decidir\nquién merece llevarlo.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0C\nヴァンドレ\nQue hayamos descubierto este lugar,\ndebe de ser obra de la reina Lumera.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nMe gusta pensar que mi madre nos observa,\npero esta lucha es solo mía. Debo ser fuerte.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nOjalá pudiera quedarme un poco más.\nLástima que tengamos cosas que hacer.\x0E\x04\x00\x00

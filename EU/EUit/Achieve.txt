@@ -1,0 +1,118 @@
+MID_ACHIEVE_RELIANCE_FIRST	Completa una conversazione di sostegno con \x0E\x01\x00\x00.
+MID_ACHIEVE_RELIANCE_B_FIRST	Raggiungi il sostegno B con un alleato.
+MID_ACHIEVE_RELIANCE_B_COUNT	Raggiungi il sostegno B con \x0E\x01\x00\x00 alleati.
+MID_ACHIEVE_RELIANCE_A_FIRST	Raggiungi il sostegno A con un alleato.
+MID_ACHIEVE_RELIANCE_A_COUNT	Raggiungi il sostegno A con \x0E\x01\x00\x00 alleati.
+MID_ACHIEVE_RELIANCE_ENGAGE	Vedi una conversazione \x0E\x08\x02\x1A\x18RelianceRing.
+MID_ACHIEVE_PLAY_TIME	Gioca per \x0E\x01\x00\x00 ore.
+MID_ACHIEVE_CHAPTER_CLEAR	Completa: \x0E\x01\x00\x00, "\x0E\x01\x01\x00"
+MID_ACHIEVE_ENCOUNT_BATTLE_FIRST	Combatti in una scaramuccia.
+MID_ACHIEVE_ENCOUNT_BATTLE_COUNT	Combatti in \x0E\x01\x00\x00 scaramucce.
+MID_ACHIEVE_BATTLE_COUNT	Affronta \x0E\x01\x00\x00 scontri singoli.
+MID_ACHIEVE_SOLDIER_DEFEAT_FIRST	Sconfiggi un soldato nemico.
+MID_ACHIEVE_SOLDIER_DEFEAT_COUNT	Sconfiggi \x0E\x01\x00\x00 soldati nemici.
+MID_ACHIEVE_MORPH_DEFEAT_FIRST	Sconfiggi un'aberrazione.
+MID_ACHIEVE_MORPH_DEFEAT_COUNT	Sconfiggi \x0E\x01\x00\x00 aberrazioni.
+MID_ACHIEVE_BANDITS_DEFEAT_FIRST	Sconfiggi un ladro.
+MID_ACHIEVE_BANDITS_DEFEAT_COUNT	Sconfiggi \x0E\x01\x00\x00 ladri.
+MID_ACHIEVE_CANE_COUNT	Usa i bastoni \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_SORTIE_COUNT	Schiera \x0E\x01\x00\x00 \x0E\x01\x01\x00 volte.
+MID_ACHIEVE_CRITICAL_FIRST	Effettua un colpo triplo.
+MID_ACHIEVE_CRITICAL_COUNT	Effettua \x0E\x01\x00\x00 colpi tripli.
+MID_ACHIEVE_ENGAGE_FIRST	Unisciti a un emblema.
+MID_ACHIEVE_ENGAGE_COUNT	Unisciti \x0E\x01\x00\x00 volte agli emblemi.
+MID_ACHIEVE_ENGAGEATTACK_FIRST	Usa un attacco unione.
+MID_ACHIEVE_ENGAGEATTACK_COUNT	Usa \x0E\x01\x00\x00 attacchi unione.
+MID_ACHIEVE_AVOIDANCE_FIRST	Schiva un attacco.
+MID_ACHIEVE_AVOIDANCE_COUNT	Schiva \x0E\x01\x00\x00 attacchi.
+MID_ACHIEVE_DEGENSE_FIRST	Blocca un attacco.
+MID_ACHIEVE_DEGENSE_COUNT	Blocca \x0E\x01\x00\x00 attacchi.
+MID_ACHIEVE_CHAIN_FIRST	Usa un attacco concatenato.
+MID_ACHIEVE_CHAIN_COUNT	Usa \x0E\x01\x00\x00 attacchi concatenati.
+MID_ACHIEVE_CHAIN_UNIT_COUNT	Usa un attacco concatenato con \x0E\x01\x00\x00 unità.
+MID_ACHIEVE_BREAK_FIRST	Infliggi l'effetto breccia a un nemico.
+MID_ACHIEVE_BREAK_COUNT	Infliggi l'effetto breccia a \x0E\x01\x00\x00 nemici.
+MID_ACHIEVE_SMASH_FIRST	Infliggi l'effetto schianto a un nemico.
+MID_ACHIEVE_SMASH_COUNT	Infliggi l'effetto schianto \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_MINIGAME_FIRST	Partecipa a un'attività.
+MID_ACHIEVE_MINIGAME_COUNT	Partecipa alle attività \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_RING_FORM_FIRST	Crea un anello del legame.
+MID_ACHIEVE_RING_FORM_COUNT	Crea \x0E\x01\x00\x00 anelli del legame.
+MID_ACHIEVE_RING_MIX_FIRST	Fondi per la prima volta gli anelli del legame.
+MID_ACHIEVE_RING_MIX_COUNT	Fondi gli anelli del legame \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_BONDSRING_C_COUNT	Ottieni \x0E\x01\x00\x00 anelli del legame di livello C.
+MID_ACHIEVE_BONDSRING_B_COUNT	Ottieni \x0E\x01\x00\x00 anelli del legame di livello B.
+MID_ACHIEVE_BONDSRING_A_COUNT	Ottieni \x0E\x01\x00\x00 anelli del legame di livello A.
+MID_ACHIEVE_BONDSRING_S_FIRST	Ottieni un anello del legame di livello S.
+MID_ACHIEVE_BONDSRING_S_COUNT	Ottieni \x0E\x01\x00\x00 anelli del legame di livello S.
+MID_ACHIEVE_RING_CLEANING_FIRST	Lucida un anello\x0E\x01\x0A\x00 per la prima volta.
+MID_ACHIEVE_RING_CLEANING_COUNT	Lucida gli anelli\x0E\x01\x0B\x00 \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_INVESTMENT_FILENE	Fai una donazione al Firene.
+MID_ACHIEVE_INVESTMENT_BRODIA	Fai una donazione alla Brodia.
+MID_ACHIEVE_INVESTMENT_IRCION	Fai una donazione all'Elusia.
+MID_ACHIEVE_INVESTMENT_SOLUM	Fai una donazione al Solm.
+MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT	Porta il Firene al livello donazioni \x0E\x01\x00\x00.
+MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT	Porta la Brodia al livello donazioni \x0E\x01\x00\x00.
+MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT	Porta l'Elusia al livello donazioni \x0E\x01\x00\x00.
+MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT	Porta il Solm al livello donazioni \x0E\x01\x00\x00.
+MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX	Porta tutti i regni al livello donazioni massimo.
+MID_ACHIEVE_INVESTMENT_MONEY_COUNT	Dona un totale di \x0E\x01\x00\x00 M.
+MID_ACHIEVE_COOK_FIRST	Cucina per la prima volta.
+MID_ACHIEVE_COOK_COUNT	Cucina \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_COOK_RANK_FIRST	Prepara un piatto di qualità \x0E\x01\x00\x00.
+MID_ACHIEVE_COOK_RANK_COUNT	Prepara \x0E\x01\x01\x00 piatti di qualità \x0E\x01\x00\x00.
+MID_ACHIEVE_SLEEP_FIRST	Fatti svegliare per la prima volta.
+MID_ACHIEVE_SLEEP_COUNT	Fatti svegliare \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_WAKEUP_EVENT_C_COUNT	Fatti svegliare da \x0E\x01\x00\x00 alleati con sostegno C.
+MID_ACHIEVE_WAKEUP_EVENT_B_COUNT	Fatti svegliare da \x0E\x01\x00\x00 alleati con sostegno B.
+MID_ACHIEVE_WAKEUP_EVENT_A_COUNT	Fatti svegliare da \x0E\x01\x00\x00 alleati con sostegno A.
+MID_ACHIEVE_WAKEUP_EVENT_S	Fatti svegliare dall'alleato con sostegno \x0E\x08\x02\x1A\x18RelianceRing.
+MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST	Sfida un alleato nell'arena.
+MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT	Sfida un alleato nell'arena \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_ARENA_UNIT_WIN_FIRST	Sconfiggi un alleato nell'arena.
+MID_ACHIEVE_ARENA_UNIT_WIN_COUNT	Sconfiggi un alleato nell'arena \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST	Sfida un emblema nell'arena.
+MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT	Sfida un emblema nell'arena \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_ARENA_GOD_WIN_FIRST	Sconfiggi un emblema nell'arena.
+MID_ACHIEVE_ARENA_GOD_WIN_COUNT	Sconfiggi un emblema nell'arena \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_WEAPON_BUY_FIRST	Acquista un'arma.
+MID_ACHIEVE_WEAPON_BUY_COUNT	Acquista \x0E\x01\x00\x00 armi.
+MID_ACHIEVE_SWORD_BUY_COUNT	Acquista \x0E\x01\x00\x00 spade.
+MID_ACHIEVE_LANCE_BUY_COUNT	Acquista \x0E\x01\x00\x00 lance.
+MID_ACHIEVE_AXE_BUY_COUNT	Acquista \x0E\x01\x00\x00 asce.
+MID_ACHIEVE_BOW_BUY_COUNT	Acquista \x0E\x01\x00\x00 archi.
+MID_ACHIEVE_KNIFE_BUY_COUNT	Acquista \x0E\x01\x00\x00 coltelli.
+MID_ACHIEVE_MAGIC_BUY_COUNT	Acquista \x0E\x01\x00\x00 tomi.
+MID_ACHIEVE_FIST_BUY_COUNT	Acquista \x0E\x01\x00\x00 pergamene delle arti.
+MID_ACHIEVE_WEAPON_SELL_FIRST	Vendi un'arma.
+MID_ACHIEVE_WEAPON_SELL_COUNT	Vendi \x0E\x01\x00\x00 armi.
+MID_ACHIEVE_ITEM_BUY_FIRST	Acquista uno strumento.
+MID_ACHIEVE_ITEM_BUY_COUNT	Acquista \x0E\x01\x00\x00 strumenti.
+MID_ACHIEVE_ROD_BUY_COUNT	Acquista \x0E\x01\x00\x00 bastoni.
+MID_ACHIEVE_ITEM_SELL_FIRST	Vendi uno strumento.
+MID_ACHIEVE_ITEM_SELL_COUNT	Vendi \x0E\x01\x00\x00 strumenti.
+MID_ACHIEVE_ACCESSORIES_BUY_FIRST	Fai un acquisto alla boutique degli accessori.
+MID_ACHIEVE_ACCESSORIES_BUY_COUNT	Compra \x0E\x01\x00\x00 costumi o accessori alla boutique.
+MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST	Cambia costumi o accessori per la prima volta.
+MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT	Cambia costumi o accessori \x0E\x01\x00\x00 volte.
+MID_ACHIEVE_WEAPON_FORGING_FIRST	Affina un'arma.
+MID_ACHIEVE_WEAPON_FORGING_COUNT	Affina \x0E\x01\x00\x00 armi.
+MID_ACHIEVE_SWORD_FORGING_COUNT	Affina \x0E\x01\x00\x00 spade.
+MID_ACHIEVE_LANCE_FORGING_COUNT	Affina \x0E\x01\x00\x00 lance.
+MID_ACHIEVE_AXE_FORGING_COUNT	Affina \x0E\x01\x00\x00 asce.
+MID_ACHIEVE_BOW_FORGING_COUNT	Affina \x0E\x01\x00\x00 archi.
+MID_ACHIEVE_KNIFE_FORGING_COUNT	Affina \x0E\x01\x00\x00 coltelli.
+MID_ACHIEVE_MAGIC_FORGING_COUNT	Affina \x0E\x01\x00\x00 tomi.
+MID_ACHIEVE_FIST_FORGING_COUNT	Affina \x0E\x01\x00\x00 pergamene delle arti.
+MID_ACHIEVE_ENGRAVE_FIRST	Incidi un'arma.
+MID_ACHIEVE_ENGRAVE_COUNT	Incidi \x0E\x01\x00\x00 armi.
+MID_ACHIEVE_NETMATCH_FIRST	Affronta una prova Altrotempo.
+MID_ACHIEVE_NETMATCH_COUNT	Affronta \x0E\x01\x00\x00 prove Altrotempo.
+MID_ACHIEVE_NETMATCH_WIN_FIRST	Vinci una prova Altrotempo.
+MID_ACHIEVE_NETMATCH_WIN_COUNT	Vinci \x0E\x01\x00\x00 prove Altrotempo.
+MID_ACHIEVE_RELAYBATTLE_FIRST	Affronta una prova Staffetta.
+MID_ACHIEVE_RELAYBATTLE_COUNT	Affronta \x0E\x01\x00\x00 prove Staffetta.
+MID_ACHIEVE_RELAYBATTLE_WIN_FIRST	Vinci una prova Staffetta.
+MID_ACHIEVE_RELAYBATTLE_WIN_COUNT	Vinci \x0E\x01\x00\x00 prove Staffetta.
+MID_ACHIEVE_SERIESBATTLE_RANK1	Completa la prova Tempesta \x0E\x01\x00\x00 a qualsiasi difficoltà.
+MID_ACHIEVE_SERIESBATTLE_RANK	Completa la prova Tempesta \x0E\x01\x00\x00 a difficoltà \x0E\x01\x01\x00.

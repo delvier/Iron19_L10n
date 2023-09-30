@@ -1,0 +1,47 @@
+MID_OP1_#001	キャラ配置(PID_リュール, ME_IN_BC, [服装], Normal, IdleNormal, 10)\nキャラ配置(GID_リン, ME_IN_CD, [服装], Normal, IdleNormal, 340)\nキャラ配置(PID_アルフレッド, YOU_IN_BC, [服装], Normal, IdleNormal, 0)\n\nキャラ視線(PID_リュール, GID_リン, GID_リン)\n\n背景(Map_Event_S004_01)\nライト(CharaLight_S004, 0, -20, 0)\n\n章タイトル(CID_S004)\n\nサウンドイベント(BGM_Evt_Ring)\n\nウェイト(2)\nフェードアウト()\n\nキャラカメラ(CharaCam_SideLong_Left_Mid, GID_リン, cam_anim_track_r_slow)\nキャラモーション再生(PID_リュール, Normal, WalkIn)\nキャラモーション再生(GID_リン, Smile, EmoLook)\n\nキャラ表示切替(PID_アルフレッド,False)\n\nフェードイン()\n\n*\nパペット会話中断()\nキャラモーション待ち(PID_リュール)
+MID_OP1_#002	キャラモーション再生(PID_リュール, Normal, EmoTalk, 0.5, 0.5)
+MID_OP1_#003	キャラモーション再生(GID_リン, Die, EmoPray, 0.5, 0.5)
+MID_OP1_#004	キャラモーション再生(GID_リン, Smile)\nキャラモーション再生(PID_リュール, Smile)
+MID_OP1_#005	キャラ表示切替(PID_アルフレッド,True)\n\nキャラ視線(PID_リュール, PID_アルフレッド, PID_アルフレッド)\n\nキャラモーション再生(PID_リュール, Smile, EmoNod, 0.5, 0.5)
+MID_OP1_#006	キャラ視線(GID_リン, PID_リュール, PID_リュール)\n\nライト(CharaLight_S004, 0, 0, 0)\nキャラカメラ(CharaCam_Front_Center_Mid, GID_リン, cam_anim_fix)
+MID_OP1_#007	キャラ視線(GID_リン, PID_アルフレッド, PID_アルフレッド)\n\nキャラモーション再生(GID_リン, Die, EmoPray, 5, 0.5)
+MID_OP1_#008	キャラ表示切替(PID_アルフレッド,False)\n\nキャラ視線リセット(GID_リン)\n\nキャラモーション再生(PID_リュール, Normal)\nキャラモーション再生(GID_リン, Normal, WalkIn2)\n\nキャラ配置調整(GID_リン, 0, 0, 1.5)\n\nキャラ視線(PID_リュール, GID_リン, GID_リン)\n\nキャラカメラ(CharaCam_Shoulder_Right_Mid, PID_リュール, cam_anim_track_l_slow)
+MID_OP1_#009	キャラモーション再生(PID_リュール, Normal, EmoTalk, 0.5, 0.5)
+MID_OP1_#010	キャラモーション再生(GID_リン, StandBy, TurnL, 0, 0.5)\n\nキャラ回転(GID_リン, -15, 0.15)\n\nキャラ視線(GID_リン, PID_リュール, PID_リュール)
+MID_OP1_#011	キャラモーション再生(GID_リン, Die, EmoSad2, 0.5, 0.5)
+MID_OP1_#012	キャラ削除(GID_リン)\nキャラモーション再生(PID_リュール, Surprise)\n\nキャラ視線リセット(PID_リュール)\n\nライト(CharaLight_S004, 0, -20, 0)\nキャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_zoom_out_slow)
+MID_OP1_#013	キャラ配置(GID_リン, YOU_IN_BC, [服装], Normal, IdleNormal, 0)\nキャラモーション再生(GID_リン, Normal, EmoNod )\n\nキャラ視線リセット(GID_リン)\n\nライト(CharaLight_S004, 0, 0, 0)\nキャラカメラ(CharaCam_Shoulder_Right_Mid, PID_リュール, cam_anim_ track2 _r_normal, 1)
+MID_OP1_#014	キャラ視線(PID_リュール, GID_リン, GID_リン)
+MID_OP1_#015	キャラモーション再生(GID_リン, Smile, EmoLook, 0.5, 0.5)
+MID_OP1_#016	
+MID_OP1_#017	キャラモーション再生(PID_リュール, Smile, EmoRelax)\n\nキャラカメラ(CharaCam_Side_Left2_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_OP1_#018	キャラモーション再生(GID_リン, Die )
+MID_OP1_#019	キャラモーション再生(GID_リン, Smile, IdleNormal, 3, 0.5 )\n\nキャラカメラ(CharaCam_Front_Center_Mid, GID_リン, cam_anim_zoom_in_slow)
+MID_OP1_#020	キャラモーション再生(GID_リン, Normal, EmoJoy, 0.5, 0.5)\n\n*\nフェードアウト()
+MID_EV1_#001	
+MID_EV2_#001	
+MID_EV3_#001	
+MID_BT1_#001	
+MID_BT1_#002	
+MID_BT1_#003	
+MID_BT2_#001	
+MID_BT2_#002	
+MID_BT2_#003	
+MID_BT3_#001	
+MID_BT3_#002	
+MID_BT3_#003	
+MID_BT3_#004	
+MID_ED1_#001	キャラ配置(PID_リュール, ME_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(GID_リン, YOU_IN_C, [服装], Normal, IdleNormal, 0)\n\n背景(Map_Event_S004_01)\nライト(CharaLight_S004, 0, 0, 0)\n\nシーンカメラ(SceneCam_SideYou_Right_Mid, cam_anim_track_r_slow)\nキャラモーション再生(GID_リン, Smile, EmoTalk2)\nキャラモーション再生(PID_リュール, Relax, EmoRelax, 3.5, 0.5 )\n\nキャラ視線(GID_リン, PID_リュール, PID_リュール)\n\nサウンドイベント(BGM_Evt_Brave)\nフェードイン()
+MID_ED1_#002	キャラモーション再生(PID_リュール, Relax, EmoNod, 0.5, 0.5 )\n\nライト(CharaLight_S004, 0, -20, 0)\nキャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_ED1_#003	キャラモーション再生(PID_リュール, Relax, EmoLook, 0.5, 0.5)
+MID_ED1_#004	キャラ視線(PID_リュール, GID_リン, GID_リン)\nキャラモーション再生(GID_リン, Smile, IdleNormal, 3, 0.5)\n\nライト(CharaLight_S004, 0, 0, 0)\nキャラカメラ(CharaCam_SideLong_Right_Mid, GID_リン, cam_anim_track_l_slow)
+MID_ED1_#005	キャラモーション再生(GID_リン, Relax, EmoProud, 5, 0.5)
+MID_ED1_#006	キャラモーション再生(GID_リン, Serious, EmoNod, 5, 0.5)
+MID_ED1_#007	キャラモーション再生(GID_リン, Die, EmoPray, 0.5 0.5)\nキャラモーション再生(PID_リュール, Die, EmoThinkIn, 1, 0.5)\n\nキャラ視線(GID_リン, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_Shoulder_Left_Bot, GID_リン, cam_anim_pan_r_slow)
+MID_ED1_#008	キャラモーション再生(PID_リュール, Normal, EmoThinkOut, 1, 0.5)
+MID_ED1_#009	キャラモーション再生(PID_リュール, Smile, EmoPray, 1, 0.5)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_ED1_#010	キャラモーション再生(GID_リン, Normal, EmoNod)
+MID_ED1_#011	キャラモーション再生(GID_リン, Smile, EmoNod, 1.5, 0.5)\n\nキャラカメラ(CharaCam_Front_Center_Mid, GID_リン, cam_anim_zoom_in_slow)
+MID_ED1_#012	
+MID_ED1_#013	キャラモーション再生(PID_リュール, Smile, EmoJoy)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_リュール, cam_anim_zoom_in_normal)\n\n*\nフェードアウト()
+MID_LC1_#001	キャラ配置(PID_リュール, ME_IN_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(GID_リン, YOU_IN_C, [服装], Smile, IdleNormal, 0)\n\n背景(Map_Event_S004_01)\nライト(CharaLight_S004, 0, 0, 0)\n\nキャラ配置調整(PID_リュール, 0.8, 0.0, 0.0)\n\nキャラモーション再生(GID_リン, Smile, EmoJoy, 1.0, 1.0)\nキャラ視線(GID_リン, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_SideLong_Right_Mid, GID_リン, cam_anim_track_l_normal)\n\n*\nパペット会話中断()\n白フェードイン(1.0)\nウェイト(1.3)\nテロップエフェクト表示(LevelCap)\nウェイト(0.8)\nフェードアウト()

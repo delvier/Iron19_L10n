@@ -1,0 +1,102 @@
+MID_WU_C_1_IN_#001	Ai-je... vraiment le droit d'entrer ici ?\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#001	Oh, bien. Vous êtes déjà réveillé\x0E\x0A\x00\x06
+MID_WU_C_1_SOON_#002	Bonjour, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#001	C'est vraiment une jolie chambre.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#002	Il ne faudrait pas que\nje fasse tomber cette potion...\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#003	Ça ferait une tache et je sais\npas ce que je... Ah !\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#001	Oh ! J'ai failli vous éclabousser\navec cette potion !\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#002	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#003	Je suis vraiment désolé de\nvous avoir réveillé\x0E\x0A\x00\x06
+MID_WU_C_2_IN_#001	J'ai entendu dire que le Dragon\ndivin ne se réveillait pas...\x0E\x04\x00\x00
+MID_WU_C_2_IN_#002	Dormir autant peut indiquer\nun problème médical.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#002	Vous semblez en bonne santé.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#003	J'étais un peu inquiet,\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#004	mais je suis vraiment désolé de vous avoir\nréveillé\x0E\x0A\x00\x06
+MID_WU_C_2_WAKEUP_#001	Hum, aucun signe apparent\nde blessure ou de maladie...\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#002	Mais la plupart des maladies\nne sont pas visibles de l'extérieur.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#003	Le Dragon divin est si important.\nC'est normal de s'inquiéter.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#001	Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_C_2_HELLO_#002	Vous vous sentez bien ?\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#003	Tant mieux.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#004	Si vous vous sentez mal,\nappelez-moi immédiatement.\x0E\x04\x00\x00
+MID_WU_B_1_IN_#001	Réveiller le Dragon divin...\x0E\x04\x00\x00
+MID_WU_B_1_IN_#002	va me permettre de l'ausculter.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#001	Vous vous réveillez vite ce matin.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#002	Bonne coloration, regard vif,\ncoiffure correcte. Parfait !\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#003	Tant que vous allez bien, je suis heureux.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#001	Votre Divinité ?\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#002	Hum... \x0E\x0A\x00\x10\x04Il\x08Elle met du temps à se réveiller.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#003	\x0E\x0A\x00\x10\x04Il\x08Elle doit être épuisé\x0E\x0A\x00\x06
+MID_WU_B_1_WAKEUP_#004	Je vais préparer du thé pour \x0E\x0A\x00\x0C\x04le\x04la requinquer.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#001	Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_B_1_HELLO_#002	Vous avez travaillé dur, comme toujours.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#003	Je vais vous préparer un délicieux thé,\nune spécialité de chez moi...\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#004	alors détendez-vous en attendant.\x0E\x04\x00\x00
+MID_WU_B_2_IN_#001	J'ai fait une belle récolte\nd'herbes médicinales ce matin...\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#001	Désolé pour ce réveil tardif,\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#002	mais les herbes sont plus efficaces\nsi on les cueille à l'aube,\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#003	alors je voulais sortir en collecter.\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#004	Est-ce que vous en voulez\nquelques-unes ?\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#001	Herbes bonnes pour la vue, herbes antidouleur,\nherbes pour des cheveux plus colorés...\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#002	Il y en a même qui aident à mieux dormir...\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#003	Hum... Que se passerait-il si\nje les administrais au Dragon divin ?\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#001	J'ai rien fait ! Juré !\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#002	Bonjour, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#003	Oh, nous avons un magnifique\ntemps, hein ? Euh... enfin bref !\x0E\x04\x00\x00
+MID_WU_A_1_IN_#001	Votre Divinité, je voudrais vous toucher deux\nmots à propos des herbes. Oh, vous dormez ?\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#001	Désolé pour ce réveil.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#002	Je partais me procurer un nouveau remède,\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#003	donc je voulais vous demander...\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#004	si vous aviez besoin de quoi\nque ce soit en mon absence.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#001	Cette nouvelle potion se\ndécline en cinq saveurs.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#002	Sucré, aigre, amer, sucré-salé...\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#003	Et la dernière, c'est... salé. Pourquoi salé ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#001	Bonjour, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#002	Quelle saveur voudriez-vous\npour ma prochaine potion ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#003	Je préfère le sucré, alors\nje me suis dit que vous...\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#004	Oh... Salé ? Vraiment ?\x0E\x04\x00\x00
+MID_WU_A_2_IN_#001	Votre Divinité, comment va votre blessure ?\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#001	Je viens examiner la blessure\nque vous vous êtes faite\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#002	en ramassant des herbes pour moi.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#003	Elle semble se guérir correctement. Bien.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#004	Merci beaucoup de m'avoir aidé.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#001	Vous n'avez même pas de cicatrice...\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#002	Ouf ! Mais je dois quand même m'assurer\nque vous n'en fassiez pas trop.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#003	Je vais voir ce que je peux faire.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#001	Vous vous rappelez les herbes\nque vous avez cueillies ?\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#002	Mes parents m'ont dit qu'elles\nétaient très utiles au village.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#003	Ils vous remercient également.\x0E\x04\x00\x00
+MID_WU_S_1_IN_#001	Votre Divinité, c'est le matin.\x0E\x04\x00\x00
+MID_WU_S_1_IN_#002	Merci pour votre foi en moi\net de compter sur mon aide.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#001	Bonjour. Venir vous réveiller ici...\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#002	ne me fait plus le même effet.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#003	J'ai été très heureux que vous\nm'offriez l'Anneau du Pacte.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#004	J'y pense tout le temps.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#001	L'Anneau du Pacte... Je suis\nvraiment heureux de l'avoir.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#002	Placer toute cette confiance en moi,\nalors que je suis encore si jeune.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#003	me donne envie de vous montrer\nce que je peux accomplir.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#004	Je deviendrai médecin, sauverai des vies et...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#005	m'assurerai que vos proches...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#006	vivent une centaine d'années.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#001	Vous m'avez entendu ?\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#002	Bien sûr, je compte vivre plus de cent ans.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#003	Donc j'espère que nous\nnous verrons toujours...\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#004	même quand je serai très vieux.\x0E\x04\x00\x00
+MID_WU_S_2_IN_#001	J'ai entendu dire que vous étiez\nblessé\x0E\x0A\x00\x06
+MID_WU_S_2_SOON_#001	Oh, je vois.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#002	Je suis content que vous n'ayez rien.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#003	J'ai apporté différents remèdes, juste au cas où.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#004	Mais ne pas devoir les utiliser sur vous,\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#005	c'est un immense soulagement.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#001	Ah, vous vous êtes rapidement endormi\x0E\x0A\x00\x06
+MID_WU_S_2_WAKEUP_#002	Ouf, heureusement que ce n'est\nqu'un malentendu.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#003	Mais c'est une bonne chose qu'on vienne\nme voir au sujet de la santé du Dragon divin.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#004	Oh... Je me demande si ça signifie que\nles gens savent pour l'Anneau du Pacte ?\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#005	Je ne m'en suis jamais vanté...\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#006	Mais c'est bon de savoir qu'on remarque\nce que je fais pour le Dragon divin.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#001	Bonjour. Vous avez bien dormi ?\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#002	Ah, c'est bien.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#003	Tant que vous récupérez bien la nuit...\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#004	et que vous restez en bonne santé...\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#005	je serai ravi.\x0E\x04\x00\x00

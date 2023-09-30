@@ -1,0 +1,124 @@
+MID_SORTIE_START	Los!
+MID_SORTIE_START_HELP	Vorbereitungen beenden und\nSchlacht beginnen.
+MID_SORTIE_START_CONFIRM	Bereit?
+MID_SORTIE_START_CONFIRM_YES	Beginnen
+MID_SORTIE_BACK	Zurück
+MID_SORTIE_SELECT_UNIT	Einheiten
+MID_SORTIE_SELECT_UNIT_SELECT	Eine Einheit auswählen.
+MID_SORTIE_SELECT_UNIT_HELP	Einheiten für diese Schlacht\nauswählen.
+MID_SORTIE_EQUIP_GOD	Embleme
+MID_SORTIE_EQUIP_GOD_HELP	Emblem-Ringe den Einheiten zuweisen.
+MID_SORTIE_INVENTORY	Inventar
+MID_SORTIE_INVENTORY_HELP	Ausrüstung und Fähigkeiten\nverwalten.
+MID_SORTIE_CHANGE_POSITION	Position ändern
+MID_SORTIE_CHANGE_POSITION_HELP	Einheiten auf der Karte\npositionieren.
+MID_SORTIE_SHOP	Marktplatz
+MID_SORTIE_SHOP_HELP	Waffen und Items kaufen.
+MID_SORTIE_WEAPON_SHOP	Arsenal
+MID_SORTIE_H_WEAPON_SHOP	Waffen kaufen.
+MID_SORTIE_ITEM_SHOP	Laden
+MID_SORTIE_H_ITEM_SHOP	Items kaufen.
+MID_SORTIE_RELIANCE	Unterstützung
+MID_SORTIE_RELIANCE_UNIT_SELECT	Einen Verbündeten wählen.
+MID_SORTIE_RELIANCE_NONE	Keine Unterstützung.
+MID_SORTIE_BONDS_RELIANCE	Bande
+MID_SORTIE_BONDS_RELIANCE_NONE	Keine Embleme.
+MID_SORTIE_RELIANCE_ATTENTION	Du kannst Band- und Unterstützungsgespräche\nim Somniel und auf der Weltkarte führen.
+MID_SORTIE_SAVE	Speichern
+MID_SORTIE_SAVE_HELP	Deinen Fortschritt speichern.
+MID_SORTIE_BACK_CONFIRM_HELP	Zur Weltkarte zurückkehren.
+MID_SORTIE_BACK_CONFIRM	Zur Weltkarte zurückkehren?
+MID_SORTIE_BACK_CONFIRM_HELP_M026	Zum Somniel zurückkehren.
+MID_SORTIE_BACK_CONFIRM_M026	Zum Somniel zurückkehren?
+MID_SORTIE_CONTINUEBATTLE_NOSELECT	Während einer Serie von\nSchlachten nicht möglich.
+MID_SORTIE_COMMON_TRADE	Tausch
+MID_SORTIE_UNIT_ITEM	Items verwalten
+MID_SORTIE_UNIT_ITEM_LIST	Items
+MID_SORTIE_UNIT_TRADE	Items tauschen
+MID_SORTIE_UNIT_ENTRUST	Ausrüstung optimieren
+MID_SORTIE_UNIT_ENTRUST_WARNING1	Nicht genügend Items im Vorrat, um diese\nEinheit ordentlich auszurüsten.
+MID_SORTIE_UNIT_ENTRUST_WARNING2	Zu wenig freier Platz im Vorrat. Die Ausrüstung\nkonnte nicht optimiert werden.
+MID_SORTIE_UNIT_STORE	Lagern
+MID_SORTIE_UNIT_STORE_ALL	Alle lagern
+MID_SORTIE_UNIT_STORE_ALL_WARNING	Entweder ist nicht genügend Platz im Vorrat\noder es gab Items, die nicht gelagert werden\nkönnen.
+MID_SORTIE_UNIT_SKILL_OPEN	Du kannst jetzt deine Fähigkeiten verwalten.
+MID_SORTIE_UNIT_SKILL	Fähigkeiten
+MID_SORTIE_UNIT_CLASSCHANGE	Klassenwechsel
+MID_SORTIE_ALL_UNITS_ENTRUST	Alle optimieren
+MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM	Die Ausrüstung deiner Kampfeinheiten\noptimieren? (Items passiver Einheiten\nwerden in den Vorrat geschickt.)
+MID_SORTIE_ALL_UNITS_ENTRUST_ERROR	Du kannst „Alle optimieren“ nutzen, nachdem\ndu in den Kampfvorbereitungen deine\nkämpfenden Einheiten ausgewählt hast.
+MID_SORTIE_ALL_UNITS_ENTRUST_Yes	Optimieren
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1	Du hast nicht genügend Items im Vorrat, um alle\nKampfeinheiten ordentlich auszurüsten.
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2	Zu wenig freier Platz im Vorrat. Die Ausrüstung\nkonnte nicht optimiert werden.
+MID_SORTIE_ALL_UNITS_STORE_ALL	Alle lagern
+MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM	Alle Items im Vorrat lagern?
+MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING	Zu wenig freier Platz im Vorrat. Es konnten\nnicht alle Items aller Einheiten gelagert werden.
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD	Alle optimieren
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM	Die Ringe deiner Kampfeinheiten optimieren?
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes	Optimieren
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No	Abbrechen
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD	Alle entfernen
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM	Die Ringe von allen Einheiten entfernen?
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes	Entfernen
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No	Abbrechen
+MID_SORTIE_UNIT_NONE	Keine Einheiten vorhanden.
+MID_TROOPLIST_PAGETITLE_BASIC	Stand
+MID_TROOPLIST_PAGETITLE_STATUS	Statuswerte
+MID_TROOPLIST_PAGETITLE_BATTLE	Kampfwerte
+MID_SORTIE_INVENTORY_STORE	Lagern
+MID_SORTIE_INVENTORY_RECEIVE	Nehmen
+MID_SORTIE_INVENTORY_EQUIP	Ausrüsten
+MID_SORTIE_INVENTORY_REMOVE	Entfernen
+MID_SORTIE_INVENTORY_ARRANGE	Sortieren
+MID_SORTIE_INVENTORY_USE	Verwenden
+MID_SORTIE_INVENTORY_DISCARD	Wegwerfen
+MID_SORTIE_INVENTORY_EMPTY	(Keine Items)
+MID_SORTIE_SKILL_CATEGORY_PERSON	Individuell
+MID_SORTIE_SKILL_CATEGORY_JOB	Klasse
+MID_SORTIE_SKILL_CATEGORY_INHERITANCE	Geerbt
+MID_SORTIE_SKILL_CATEGORY_GOD	Synchronisiert
+MID_SORTIE_SKILL_CATEGORY_ENGAGE	Bündnis
+MID_SORTIE_SKILL_CATEGORY_BONDS	Band
+MID_SORTIE_SKILL_CATEGORY_EQUIPED	Ausgerüstet
+MID_SORTIE_SKILL_OVERLAPPING	Unvereinbar
+MID_SORTIE_SKILL_SUPPLEMENT_HELP	Unvereinbar mit aktuellen Fähigkeiten.
+MID_SORTIE_SKILL_POOL_NONE	(Keine)
+MID_SORTIE_SKILL_POOL_TITLE	Geerbte Fähigkeiten
+MID_SORTIE_CLASSCHANGE_NEED_LV	Nötiger Lv.
+MID_SORTIE_CLASSCHANGE_NEED_APTITUDE	Nötige Fertgk.
+MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE	Fertigkeit
+MID_SORTIE_CLASSCHANGE_NEED_ITEM	Nötige Items
+MID_SORTIE_CLASSCHANGE_SKILL_LEVEL	Mit Lv. \x0E\x01\x00\x00 gelernt
+MID_SORTIE_CLASSCHANGE_NONE	Derzeit kein Klassenwechsel möglich.
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG	Zur Klasse \x0E\x01\x00\x00 wechseln?
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES	Klasse wechseln
+MID_SORTIE_CLASSCHANGE_NEED_JOB	\x0E\x01\x00\x00 Lv. \x0E\x01\x01\x00
+MID_SORTIE_CLASSCHANGE_BASIC_ARMOR	Schwert-/Lanzen-/Axtritter
+MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT	Schwert-/Lanzen-/Axtkavalier
+MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS	Schwert-/Lanzen-/Axtflieger
+MID_SELECTRING_TITLE_GOD	Emblem-Ringe
+MID_SELECTRING_REMOVE	\x0E\x01\x00\x00 ablegen?
+MID_SELECTRING_CHANGE	\x0E\x01\x00\x00 ablegen\nund \x0E\x01\x01\x00 anlegen?
+MID_SELECTRING_CHANGE_REMOVE	\x0E\x01\x00\x00 ablegen und \x0E\x01\x01\x00 anlegen? (Wird momentan von \x0E\x01\x02\x00 getragen.)
+MID_SELECTRING_SET	\x0E\x01\x00\x00 anlegen?
+MID_SELECTRING_SET_REMOVE	\x0E\x01\x00\x00 anlegen?\n(Wird momentan von \x0E\x01\x01\x00 getragen.)
+MID_SELECTRING_REMOVE_CONFIRM	Entfernen
+MID_SELECTRING_SET_CONFIRM	Anlegen
+MID_SELECTRING_GOD_CHANGE_YES	Wechseln
+MID_SELECTRING_GOD_EMPTY	Keine Emblem-Ringe.
+MID_SELECTRING_COMMON_EMPTY	Keine Ringe des Bandes.
+MID_SELECTRING_LUEUR_NOTES	Emblem \x0E\x06\x03\x00 kann\nmit Bündnis+ im Kampf\nein Bündnis eingehen.
+MID_SORTIE_TITLE_UNIT_SELECT	Einheiten
+MID_SORTIE_TITLE_UNIT_SELECT_ITEM	Inventar
+MID_SORTIE_TITLE_RING_SELECT	Emblem-Ringe
+MID_SORTIE_TITLE_INVENTORY	Items verwalten
+MID_SORTIE_TITLE_TRADE	Items tauschen
+MID_SORTIE_TITLE_SKILL	Fähigkeiten verwalten
+MID_SORTIE_TITLE_CLASSCHANGE	Klassenwechsel
+MID_SORTIE_TITLEHELP_UNIT_SELECT	Wählen, welche Verbündeten kämpfen.
+MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM	Einheiten wählen.
+MID_SORTIE_TITLEHELP_RING_SELECT	Emblem-Ringe wählen.
+MID_SORTIE_TITLEHELP_INVENTORY	Items wählen.
+MID_SORTIE_TITLEHELP_TRADE	Items zum Tauschen wählen.
+MID_SORTIE_TITLEHELP_SKILL	Fähigkeiten ausrüsten.
+MID_SORTIE_TITLEHELP_CLASSCHANGE	Klasse wählen.

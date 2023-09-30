@@ -1,0 +1,51 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x0A\x08リュール\nWhere are we? I don't recognize it.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04ロイ\nIt looks like... No, it couldn't be.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nRoy? Do you know this place?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04ロイ\nI may be seeing what I want to see, instead of\nwhat's truly there, but it's very similar...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x06\x04ロイ\nto a place where I once fought an important\nbattle.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nOh. Do you mean in the world you're from?\nCould you tell me about it?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04ロイ\nI stood there, my allies at my side, facing down\nthe armies of the kingdom of Bern.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04ロイ\nThe enemy's commander was Murdock, who\nwas especially strong─tactically and physically.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x06\x04ロイ\nHis battle axe... The power and weight of its\nblows are etched forever in my memory.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04ロイ\nIt was a battle so grueling, I can hardly believe\nthat I, or anyone else, managed to survive.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04ロイ\nBut bitter as it was, I hold fond memories of\nthat day as well.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nIt must be an important point in time for you.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04ロイ\nYes, you could say that. I admit I feel a bit\nenergized standing here. \x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04ロイ\n\x0E\x06\x03\x00, would you grant me an odd\nrequest? Battle me here, in this place.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nBattle you? But why?\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04ロイ\nThis place is from my memory, but I believe it\nis a trial meant for you.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x06\x04ロイ\nAchieve a glorious victory against me, and our\nbond will grow deeper still.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x06\x04ロイ\nMy power will grow, and yours will too.\nAre you interested?\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nAll right, I'll fight you. And I'll win.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\nI'm looking forward to seeing how you\napproach this battle.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIs that the sound of huge wings?! It sounds\nlike wyverns...\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nThey might be reinforcements for Roy's troops.\nI should advance with caution.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nYou seem much more focused─more intense\nthan usual.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x0E\x04ロイ\x06Die\n\x0E\x03\x02\x06\x04ロイ\nMy sword, the Binding Blade, was kept in this\nland for centuries.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nMy memory of retrieving it must be granting me\nadditional power.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nIf a memory can grant power, then I'll give you\na fight we'll both remember!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\nOh, you're to be my opponent? Well then,\nI'd best not relax. \x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1C\x0Cディアマンド\x0CStrike\n\x0E\x03\x02\x0E\x0Cディアマンド\nIt pleases me that you would say so─I feel\nthe same.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nIt is my duty to show the Emblem entrusted\nto Brodia a spectacular fight!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nThis will be quite the battle then. Come on,\nDiamant. Fight!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\nL-Lord Roy? Is there not someone more, um,\nadequate you should be fighting?\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nSmile\n\x0E\x03\x02\x06\x04ロイ\nWhy are you talking nonsense, Alcryst?\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nYou are the prince of Brodia─the land I was\nentrusted to. Who better could I face?\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x16\x04ロイ\x0EStandBy\n\x0E\x03\x02\x06\x04ロイ\nCome. Let our battle begin!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x06\x04ロイ\nThank you for entertaining my wish to fight.\nYou're impressive.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nYou would have won if I'd slipped up even once.\nI never want to have you as an enemy again.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x06\x04ロイ\nPlease, you're embarrassing me.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04ロイ\n...\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nWhat's wrong, Roy? You're staring.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04ロイ\nOh... It's just that you remind me of somebody\nI once knew. Her name was Idunn.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04ロイ\nShe was a Demon Dragon, and King Zephiel of\nBern wished to use her to destroy humanity.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nA Demon Dragon?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x06\x04ロイ\nLike you, each of her eyes was of a different\ncolor. And she carried herself a bit like you too.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nI never knew there was such a person... Did you\nbattle this Demon Dragon?\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04ロイ\nWell, I had a choice: kill her and wipe out the\ndragons, or save her...the enemy of mankind.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04ロイ\nCan you guess which I chose?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nWhich was it?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x06\x04ロイ\nI'll tell you the whole tale once this war is over\nand your world is at peace.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nAww... OK, then. But you have to promise me\nyou'll tell. I'm looking forward to the story.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x06\x04ロイ\nI promise, \x0E\x06\x03\x00. Until that day comes,\nI think we'll enjoy our time together.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

@@ -1,0 +1,65 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14S002_蛮族_お頭\x021\n\x0E\x03\x00"\x1CS002_蛮族_モンク_中央\x022\n\x0E\x03\x00*$S002_蛮族_アクスアーマー_中央\x023\n\x0E\x03\x02\x16\x14S002_蛮族_お頭\nNgh, you still haven't found her?!\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x1E\x1CS002_蛮族_モンク_中央\nSorry, boss! The thief was too quick for us.\nWe lost track of where she went!\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nWe're supposed to be the thieves, you bums!\nWe steal─we don't get stolen from!\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nWell, she can't have left this fortress yet.\nGo catch her! No excuses!\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x1E\x1CS002_蛮族_モンク_中央\nYes, boss!\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02&$S002_蛮族_アクスアーマー_中央\nBoss! Bad news!\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nAm I about to hear an excuse?!\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02&$S002_蛮族_アクスアーマー_中央\nThere's a tough-looking bunch headed right\nfor us. They're armed too!\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nTypical. How much worse can today get?\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nWhatever, this won't stop us either. Battle\nsquads, in position and ready to move!\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nI want our thieves in the treasury now. Once\nthe treasure is secure, get to a safe place.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x1E\x1CS002_蛮族_モンク_中央\nGot it, boss!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x14\x06アンナ\nSmile\n\x0E\x03\x02\x08\x06アンナ\nOoo! A whole room full of treasure! I'm sure no\none will mind if I help myself.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x05\x01\x14\x06アンナ\nAngry\n\x0E\x03\x02\x08\x06アンナ\nHey, is someone talking? Sounds panicked,\nwhoever they are.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x00 \x1AS002_蛮族_アーチャー\x02b\n\x0E\x05\x01*\x1AS002_蛮族_アーチャー\x0CStrike\n\x0E\x03\x02\x1C\x1AS002_蛮族_アーチャー\nMove your butts and get in position!\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06アンナ\nIs there about to be a fight? I'd better find\nsomeplace to hide!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x12\x06アンナ\x08Pain\n\x0E\x03\x02\x08\x06アンナ\nI guess this is my best option...\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$S002_蛮族_アクスアーマー_中央\x02b\n\x0E\x03\x02&$S002_蛮族_アクスアーマー_中央\nCan you believe the luck we're having today?\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x00"\x1CS002_蛮族_モンク_中央\x02t\n\x0E\x05\x01*\x1CS002_蛮族_モンク_中央\nAngry\n\x0E\x03\x02\x1E\x1CS002_蛮族_モンク_中央\nLess talking, more stalking. Make sure your\ngear is ready before things kick off!\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x12\x06アンナ\x08Pain\n\x0E\x03\x02\x08\x06アンナ\nUh-oh. This is way too many bandits to make\na clean getaway.\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHmm... The townsfolk told us about a bandit\nbase, and I'd say we've found it.\x0E\x04\x00\x00
+MID_OP6_#002	\x0E\x03\x02\x0A\x08リュール\nI feel sorry for all those poor villagers who had\ntheir valuables stolen.\x0E\x04\x00\x00
+MID_OP6_#003	\x0E\x03\x02\x0A\x08リュール\nPrecious keepsakes, family heirlooms... Let's\nsee if we can put them back in the right hands.\x0E\x04\x00\x00
+MID_OP6_#004	\x0E\x03\x02\x0A\x08リュール\nThough it looks like we're in for a fight before\nthat can happen.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S002_蛮族_シーフ\x02b\n\x0E\x05\x01$\x16S002_蛮族_シーフ\nAngry\n\x0E\x03\x02\x18\x16S002_蛮族_シーフ\nHm? Did that treasure chest just...move?\nSo that's where the thief went!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x1A\x06アンナ\x10Surprise\n\x0E\x03\x02\x08\x06アンナ\nAh! I've been found out!\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x02\x18\x16S002_蛮族_シーフ\nIt won't open... Hey, thief! Let go of the lid!\nDon't make me work up a sweat!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x12\x06アンナ\x08Pain\n\x0E\x03\x02\x08\x06アンナ\nDang...you found me.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x03\x03\x0C\x06アンナ\x02b\n\x0E\x05\x01\x14\x06アンナ\nAngry\n\x0E\x03\x02\x08\x06アンナ\nOnly one thing to do now if I wanna get out of\nthis. Time to show my skills!\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nThere was a child in there?! We have to hurry\nand rescue her from these bandits!\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x03\x01\x08\x06アンナ\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWhat's a little girl doing here? This is a bandit\nfort. It's no place for children!\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x0C\x06アンナ\x02b\n\x0E\x05\x01\x14\x06アンナ\nSmile\n\x0E\x03\x02\x08\x06アンナ\nBut you're not a bandit, right? So why don't\nyou keep me safe?\x0E\x04\x00\x00
+MID_EV5_#003	\x0E\x03\x02\x0A\x08リュール\nWell... I mean, I could, but─\x0E\x04\x00\x00
+MID_EV5_#004	\x0E\x05\x01\x14\x06アンナ\nRelax\n\x0E\x03\x02\x08\x06アンナ\nIt's a deal! Thanks a million.\x0E\x04\x00\x00
+MID_EV5_#005	\x0E\x03\x02\x08\x06アンナ\nYou might not think so, but I'm pretty handy in\na fight. Let me help you help me!\x0E\x04\x00\x00
+MID_EV5_INIT_#001	\x0E\x02\x01\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x14\x06アンナ\nSmile\n\x0E\x03\x02\x08\x06アンナ\nThe battle's over, huh? Good thing nobody\never found me in there.\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x02\x08\x06アンナ\nNow the treasure's mine for the taking!\x0E\x04\x00\x00
+MID_EV6_#003	\x0E\x05\x01\x14\x06アンナ\nRelax\n\x0E\x03\x02\x08\x06アンナ\nAlthough...those others seem pretty strong.\nThey really wiped the floor with those bandits.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$S002_蛮族_アクスアーマー_中央\x02b\n\x0E\x03\x02&$S002_蛮族_アクスアーマー_中央\nThere's the thief! Get her!\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x14\x06アンナ\nRelax\n\x0E\x03\x02\x08\x06アンナ\nHahaha! If you think you're gonna catch me that\neasily, think again!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14S002_蛮族_お頭\x02b\n\x0E\x05\x01&\x14S002_蛮族_お頭\x0EStandBy\n\x0E\x03\x02\x16\x14S002_蛮族_お頭\nDamn you for playing us for fools! You'll never\nget your hands on that treasure!\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14S002_蛮族_お頭\x02b\n\x0E\x03\x02\x16\x14S002_蛮族_お頭\nWell, well, well. So the thief turned out to be\njust some brat.\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x02\x16\x14S002_蛮族_お頭\nWhat do you say, boys? I bet we could get a\npretty penny in ransom out of her parents.\x0E\x04\x00\x00
+MID_BT4_#003	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x10\x06アンナ\x06Shy\n\x0E\x03\x02\x08\x06アンナ\nMy parents have no idea where I am, so that's\na pretty weak threat if you ask me.\x0E\x04\x00\x00
+MID_BT4_#004	\x0E\x05\x01&\x14S002_蛮族_お頭\x0EStandBy\n\x0E\x03\x02\x16\x14S002_蛮族_お頭\nYeah, well I didn't ask you! We'll figure that\nout later!\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14S002_蛮族_お頭\x02b\n\x0E\x05\x01 \x14S002_蛮族_お頭\x08Pain\n\x0E\x03\x02\x16\x14S002_蛮族_お頭\nI guess...today could get worse after all...\x0E\x04\x00\x00
+MID_DIE_LOCAL_Anna_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02b\n\x0E\x05\x01\x12\x06アンナ\x08Pain\n\x0E\x03\x02\x08\x06アンナ\nI guess...it's over for me. Too bad I'll never see\nmy sisters again...\x0E\x04\x00\x00
+MID_DIE_CASUAL_LOCAL_Anna_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02b\n\x0E\x05\x01\x12\x06アンナ\x08Pain\n\x0E\x03\x02\x08\x06アンナ\nAh, I'd better retreat. Dying will put me out of\nbusiness for good...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x04\x03\x04
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nHere's hoping the local authorities will keep\nthese bandits from causing any more trouble.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x02\x08\x06アンナ\nYou guys are really strong, huh? Do you have\nroom on your team for me?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nYou want to join us? I should warn you, our\nbattles will be much more grueling than that.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08リュール\nYou'd be placing yourself in danger.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x08\x06アンナ\nI know I'm small, but I pack a punch! I can take\ncare of myself, guaranteed.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06アンナ\nBesides, I've got nothing better to do. Not until\nI figure out where my family went.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08リュール\nYou lost your family...\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06アンナ\nIt gets lonely on the road. Maybe if I travel with\nyou folks, our paths will cross someday.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x0A\x08リュール\nWell, if that's what you want, I have\nno objections.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x0A\x08リュール\nI'm \x0E\x06\x03\x00, the Divine Dragon.\nLooking forward to working with you.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x08\x06アンナ\nHang on, what?! You're the Divine Dragon?!\nMy sales...they're gonna go through the roof!\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x08\x06アンナ\nOh, and the name's Anna. But you can call me\nLady Anna. Pleasure to be in business with you!\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nI just wish we could have protected the girl.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x0A\x08リュール\nWhat was a little girl doing in a bandit's fortress\nin the first place?\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x0A\x08リュール\nI suppose we'll never get the chance to ask.\x0E\x04\x00\x00

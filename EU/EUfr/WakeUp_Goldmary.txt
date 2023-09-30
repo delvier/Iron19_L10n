@@ -1,0 +1,108 @@
+MID_WU_C_1_IN_#001	Je suis ici pour vous réveiller,\nsi cela vous convient.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#001	Oh, vous vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_C_1_SOON_#002	Je suis désolée.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#003	Je suis peut-être un peu trop douée pour ça.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#001	Vous dormez toujours ? Ma voix est\npeut-être un peu trop apaisante.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#002	Ce n'est pas grave. N'hésitez pas à\nprolonger encore votre repos.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#003	Réveillez-vous à votre guise.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#002	Ma vue vous fait-elle plaisir ?\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#003	Évidemment que oui.\x0E\x04\x00\x00
+MID_WU_C_2_IN_#001	Me voici, fraîchement sorti d'un bain matinal.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#001	Bonjour. Êtes-vous prêt\x0E\x0A\x00\x06
+MID_WU_C_2_SOON_#002	Vous devriez commencer\npar un bain rafraîchissant.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#003	Il n'y a rien de mieux pour vous apaiser.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#001	Il n'y a qu'un problème\navec ma routine matinale.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#002	Une fois que je suis dans le bain,\nje ne veux plus en sortir.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#003	Le reste du monde est froid et sale...\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#002	Vous savez...\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#003	je me suis mis en quatre pour vous\naider à commencer votre journée.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#004	Cela mérite votre reconnaissance.\x0E\x04\x00\x00
+MID_WU_B_1_IN_#001	Je m'excuse, mais vous devez\nvous réveiller immédiatement.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#001	Surprise ! Vous avez dormi jusqu'à midi.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#002	Vous sentez-vous revigoré\x0E\x0A\x00\x06
+MID_WU_B_1_SOON_#003	Je pensais que vous aviez besoin de repos...\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#004	donc j'ai décidé de vous laisser\ndormir. Inutile de me remercier.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#001	Oh ! Je n'en reviens pas\nd'avoir dormi aussi tard.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#002	Pourquoi mes amis ne viennent-ils\npas me réveiller le matin ?\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#003	Je suppose qu'ils ne veulent pas me déranger...\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#001	Désolée...\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#002	Cela n'a pas été facile de vous réveiller...\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#003	et il est déjà midi.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#004	Pardon ? Vous pouvez répéter ?\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#005	Est-ce que vous insinuez que c'est moi\nqui ai eu une panne d'oreiller ?\x0E\x04\x00\x00
+MID_WU_B_2_IN_#001	Je me demande comment les\nautres font pour vous réveiller...\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#001	Ah. Vous êtes déjà debout.\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#002	J'imagine que mes talents sont superflus ici...\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#003	sauf si vous voulez retourner\nvous coucher, bien sûr.\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#004	Il est encore tôt, vous savez.\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#001	Je pensais pouvoir facilement\nmener les gens par le bout du nez...\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#002	Pourquoi le Dragon divin est-il\ninsensible à mes charmes ?\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#003	Que dois-je faire différemment ?\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#001	Ah. Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_B_2_HELLO_#002	Vous le pensiez quand vous disiez que j'étais\ncharmante ? Pourriez-vous me rendre service ?\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#003	Pourriez-vous le répéter ?\x0E\x04\x00\x00
+MID_WU_A_1_IN_#001	Mon idée est parfaite.\x0E\x04\x00\x00
+MID_WU_A_1_IN_#002	Personne d'autre n'y aura pensé, j'en suis sûr.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#001	Vous êtes debout.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#002	Je comprends que vous ayez hâte de me voir...\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#003	mais je n'ai même pas pu utiliser\nma nouvelle technique de réveil.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#004	Pourriez-vous être plus\nattenti\x0E\x0A\x00\x0A\x02f\x04ve à mes besoins ?\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#001	Je vous ai préparé une petite surprise.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#002	La manière la plus apaisante de se réveiller.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#003	Écoutez l'eau couler et\nlaissez-vous transporter.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#004	N'est-ce pas apaisant ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#002	Comment était-ce ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#003	Relaxant ? Revitalisant ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#004	Ce n'est pas la peine de me remercier...\nmais faites-le quand même.\x0E\x04\x00\x00
+MID_WU_A_2_IN_#001	La personne la plus populaire\nau monde est ici pour vous réveiller.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#001	Vous vous êtes levé\x0E\x0A\x00\x06
+MID_WU_A_2_SOON_#002	Ne me dites pas que vous aviez\nhâte de voir qui allait venir.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#003	Vous saviez que ça ne pouvait être que moi.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#001	Enfin... La deuxième plus populaire.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#002	Vous êtes manifestement plus\npopulaire que moi... mais ça me va.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#003	Je me contenterai d'Elusia...\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#004	et vous pourrez avoir le reste du monde.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#002	Je voulais vous remercier encore de m'avoir\ndit que vous me trouviez charmante.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#003	J'ai retrouvé confiance en moi...\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#004	et c'est grâce à vous.\x0E\x04\x00\x00
+MID_WU_S_1_IN_#001	Votre compagne parfaite\nest ici pour vous réveiller...\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#002	Êtes-vous aussi heureu\x0E\x0A\x00\x0A\x02x\x04se à ma vue\nque je le suis à la vôtre ?\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#003	Quelle chance j'ai de vous\navoir rien que pour moi.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#004	Le reste du monde rate quelque chose.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#001	Ma voix ne suffit pas à vous réveiller ?\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#002	Vous devez être épuisé\x0E\x0A\x00\x06
+MID_WU_S_1_WAKEUP_#003	Vous êtes la personne la plus\ntravailleuse que je connaisse.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#004	J'admire vraiment ça.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#005	Je n'ai pourtant pas l'habitude de flatter\nqui que ce soit, mais pour vous...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#006	Je vais faire une exception.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#007	C'est l'un des avantages d'être \x0E\x0A\x00\x0E\x06mon\x04ma partenaire.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#008	L'autre, c'est que je vous aime.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#002	Est-ce que me voir vous remplit de joie ?\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#003	Ah bon ? C'est vraiment le cas ?\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#004	Je vous taquinais juste, vous savez...\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#005	Votre sincérité me déstabilise.\x0E\x04\x00\x00
+MID_WU_S_2_IN_#001	Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_S_2_IN_#002	Dans les deux cas, je suis ici pour vous voir.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#002	Comme vous êtes déjà debout...\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#003	nous pourrions passer\nun peu de temps ensemble ?\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#004	Je savoure chaque moment\nque nous passons seuls.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#005	C'est justement là que je me\nsens le plus proche de vous.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#001	Vous rêvez trop profondément\nde moi pour vous réveiller ?\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#002	Ha ! Je m'étais juré d'arrêter de faire ça.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#003	Au lieu de faire semblant de\nconnaître vos sentiments...\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#004	Je vais vous dire les miens.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#005	Réveillé\x0E\x0A\x00\x06
+MID_WU_S_2_WAKEUP_#006	Vous savez déjà pourquoi,\nmais je vais vous le répéter.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#007	C'est parce que je vous aime.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#001	Êtes-vous heureu\x0E\x0A\x00\x0A\x02x\x04se de vous faire réveiller\npar votre compagne parfaite ?\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#002	Désolée...\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#003	mais la plus heureuse au monde,\nc'est moi, en réalité.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#004	C'est parce que j'ai reçu\nun magnifique anneau...\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#005	de l'amour de ma vie.\x0E\x04\x00\x00

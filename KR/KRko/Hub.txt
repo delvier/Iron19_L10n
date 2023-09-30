@@ -1,0 +1,510 @@
+MID_Hub_ThisTime	현재 시간
+MID_Hub_Time_Morning	\x0E\x08\x02\x10\x0EMorning아침
+MID_Hub_Time_Noon	\x0E\x08\x02\x08\x06Day낮
+MID_Hub_Time_Evening	\x0E\x08\x02\x10\x0EEvening저녁
+MID_Hub_Time_Night	\x0E\x08\x02\x0C\nNight밤
+MID_Hub_Move	이동
+MID_Hub_Enter	들어가기
+MID_Hub_Talk	대화하기
+MID_Hub_Check	조사하기
+MID_Hub_Ring_Cleaning_Brush	닦기
+MID_Hub_Ring_Cleaning_BrushStrong	힘껏 닦기
+MID_Hub_Ring_Cleaning_Stop	그만두기
+MID_Hub_Unknown	???
+MID_Hub_WeaponShop	무기점
+MID_Hub_ItemShop	도구점
+MID_Hub_Blacksmith	연성점
+MID_Hub_AccessoryShop	액세서리점
+MID_Hub_Mascot	수수께끼의 제단
+MID_Hub_Mascot_After	\x0E\x06\x05\x00의 제단
+MID_Hub_FortuneStore	점쟁이 오두막
+MID_Hub_FreeMarket	벼룩시장
+MID_Hub_Photoshop	활동 기록관
+MID_Hub_amiibo	amiibo 스폿
+MID_H_Hub_amiibo	행동을 선택해 주십시오
+MID_Hub_amiibo_Read	읽어 들이기
+MID_Hub_amiibo_Accessory_Trade	의상 교환
+MID_Hub_amiibo_Music_Trade	음악 교환
+MID_Hub_Animal	동물 축사
+MID_Hub_Here_Unit	근처에 있는 인물
+MID_Hub_Area_List	구역 목록
+MID_Hub_Area_News	알림
+MID_Hub_Area_News_Nothing	알림이 없습니다
+MID_Hub_Area_Open	NEW
+MID_Hub_Area_NewItem	신상품 입고
+MID_Hub_Area_NewSystem	기능 개방
+MID_Hub_Area_NewLevel	난이도 추가
+MID_Hub_Area_Count	앞으로 \x0E\x01\x00\x00회
+MID_Hub_Area_NewStage	연전 맵 추가
+MID_Hub_Next	다음으로 넘어가기
+MID_Hub_Next_Move	이동하기
+MID_Hub_Next_Confirm	다음으로 넘어가겠습니까?
+MID_Hub_Next_Confirm_Where	어디로 이동하겠습니까?
+MID_Hub_Next_Confirm_Solanel	솔라넬로 이동
+MID_Hub_Next_Confirm_Gmap	월드 맵으로 이동
+MID_Hub_Next_Go	넘어가기
+MID_Hub_Confirm_Cancel	이곳에 더 머물기
+MID_Hub_Gmap	월드 맵으로
+MID_Hub_Gmap_Confirm	월드 맵으로 이동하겠습니까?
+MID_Hub_M026	최종 결전으로
+MID_Hub_Solanel	솔라넬
+MID_Hub_OtherWorld_Confirm	｢이계의 문｣으로 이동하겠습니까?
+MID_Hub_OtherWorld_Go	이동하기
+MID_Hub_MyRoom	마이 룸
+MID_H_Hub_MyRoom	신룡을 위한 침실.\n추억을 되새기거나, 잠시 휴식을 취할 수 있다.
+MID_Hub_GodRoom	문장사의 방
+MID_H_Hub_GodRoom	그동안 모은 문장사의 반지\x0E\x01\x08\x00를 보관하는 방.\n문장사의 스킬을 계승하거나, 인연의 반지를 정제할 수 있다.
+MID_Hub_Cafe	카페테라스
+MID_H_Hub_Cafe	식당이 있는 공동 휴식 공간.\n식사 당번에게 요리를 주문하면 원하는 동료들과 식사를 할 수 있다.
+MID_Hub_Arena	단련의 방
+MID_H_Hub_Arena	외부와 단절된 이세계의 공간.\n동료, 문장사와 전투 훈련을 통해 경험치를 획득할 수 있다.
+MID_Hub_Arena_Closed	굳게 닫혀 있다
+MID_Hub_Tower	시련의 별채
+MID_H_Hub_Tower	돌출된 부분에 위치한 작은 별채.\n잠깐 동안 시공을 초월해 다양한 시련에 도전할 수 있다.
+MID_Hub_CentralStores	엔트런스
+MID_H_Hub_CentralStores	솔라넬에 드나들 수 있는 출입구.\n다양한 상점이 늘어서 있는 중앙 광장.
+MID_Hub_Poolside	풀사이드
+MID_H_Hub_Poolside	우아한 개인 풀장.\n동료들과 모여 휴식을 취하는 쉼터.
+MID_Hub_Orchard	과수원
+MID_H_Hub_Orchard	작은 농장.\n카페테라스에서 조리할 때 쓰는 식재료를 획득할 수 있다.
+MID_Hub_Pond	용수의 연못
+MID_H_Hub_Pond	신비한 연못.\n다양한 물고기와 생물들이 서식하고 있다.
+MID_Hub_TrainingSpot	뒤뜰
+MID_H_Hub_TrainingSpot	변두리에 있는 조용한 뜰.\n동료들의 특훈 및 취미 활동에 활용되고 있다.
+MID_Hub_Farm	목장
+MID_H_Hub_Farm	개방되어 있어 방목이 가능한 광장.\n엘레오스 대륙에서 발견한 동물을 관리할 수 있는 시설.
+MID_Hub_GoodViewSpot	전망대
+MID_H_Hub_GoodViewSpot	하늘을 내려다볼 수 있는 경치 좋은 전망대.\n매우 조용해서 마음이 차분해지는 공간.
+MID_Hub_Cave	종유굴
+MID_H_Hub_Cave	솔라넬 지하를 관통하는 신비한 동굴.\n시원하며, 뭔가를 기리는 제단이 설치되어 있다.
+MID_Hub_MyRoom_Chest	마이 체스트
+MID_Hub_H_MyRoom_Chest_Nothing	소중한 것이 들어 있는 것 같다
+MID_Hub_H_MyRoom_Chest_Ring_PickUp	체스트에 ｢약속의 반지｣가 들어 있습니다\n꺼내겠습니까?
+MID_Hub_MyRoom_Chest_Ring_PickUp	(마이 베드에서 휴식을 취하면\n 솔라넬에서 만날 수 있는 동료가 변화합니다\n 반지를 건네고 싶은 상대가 없을 때 시도해 봅시다)
+MID_Hub_H_MyRoom_Chest_Ring_PickUp_Yes	반지 꺼내기
+MID_Hub_H_MyRoom_Chest_Ring_Return	체스트에 반지를 넣겠습니까?
+MID_Hub_H_MyRoom_Chest_Ring_Return_Yes	반지 넣기
+MID_Hub_MyRoom_Bed	마이 베드
+MID_Hub_MyRoom_Bed_TitleHelp	행동을 선택해 주십시오
+MID_Hub_MyRoom_MovieChoice	재생할 무비를 선택해 주십시오
+MID_Hub_MyRoom_SoundChoice	재생할 음악을 선택해 주십시오
+MID_Hub_MyRoom_SoundChoice_Stopping	정지 중
+MID_Hub_MyRoom_SoundChoice_Playing	재생 중: \x0E\x01\x00\x00
+MID_Hub_Bed_Sleep	휴식
+MID_Hub_Bed_Sleep_CameHere	누군가 온 것 같다
+MID_Hub_Bed_Sleep_Guide	침대에서 잠시 쉬겠습니까?\n(솔라넬의 시간이 잠시 흐릅니다)
+MID_Hub_Bed_Sleep_Yes	휴식하기
+MID_Hub_Bed_Recall	추억
+MID_Hub_Bed_Recall_Wakeup	기상 회화
+MID_Hub_Bed_Recall_Wakeup_List	기상 회화 목록
+MID_Hub_Bed_Recall_Movie	무비 감상
+MID_Hub_Bed_Recall_MovieList	무비 목록
+MID_Hub_Bed_Recall_Music	음악 감상
+MID_Hub_Bed_Difficulty_Change	난이도 변경
+MID_Hub_Bed_Difficulty_Change_Confirm	게임의 난이도를 변경하겠습니까?\n(낮은 난이도로만 변경할 수 있습니다\n 변경 후에는 원래대로 되돌릴 수 없습니다)
+MID_Hub_Bed_Difficulty_Change_Before	현재 난이도
+MID_Hub_Bed_Difficulty_Change_After	변경 후 난이도
+MID_Hub_Bed_Difficulty_Change_Yes	변경하기
+MID_Hub_Bed_Difficulty_Change_Dialog	난이도를 ｢\x0E\x01\x00\x00\x0E\x0A\x05\x0E\x06｣으로\x04｣로 변경했습니다
+MID_Hub_Bed_Difficulty_Change_NG	난이도 노멀에서는 변경할 수 없습니다
+MID_Hub_MyRoom_Piano	마이 피아노
+MID_Hub_MyRoom_Piano_Release	거점의 마이 룸에 있는\n마이 피아노를 이용할 수 있게 되었습니다!
+MID_Hub_MyRoom_Piano_Confirmation	스태프 크레디트를 볼 수 있습니다
+MID_Hub_MyRoom_Piano_Confirmation_Yes	보기
+MID_Hub_Talk_Gift	선물
+MID_Hub_Talk_PromisedRing	약속의 반지
+MID_Hub_Talk_Fishing	낚시
+MID_Hub_Talk_DragonRide	드래곤 슈터
+MID_Hub_Talk_MuscleExercises	근육 체조
+MID_Hub_Talk_Gift_PickUp	선물을 선택해 주십시오
+MID_Hub_Talk_Gift_Confirmation	｢\x0E\x01\x00\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를 건네겠습니까?
+MID_Hub_Talk_Gift_Yes	건네기
+MID_Hub_Mascot_Where	무언가의 제단이 있다…
+MID_Hub_Mascot_Spot	\x0E\x06\x05\x00
+MID_Hub_H_Mascot_Spot	돌봐 줄 내용을 선택해 주십시오
+MID_Hub_Mascot_Name	솔라넬 수호신의 이름을 정해 주십시오
+MID_Hub_Mascot_Feeding	먹이 주기
+MID_Hub_Mascot_FoodChoice	줄 먹이를 선택해 주십시오
+MID_Hub_Mascot_FoodChoice_Nothing	가진 것이 없습니다
+MID_Hub_Mascot_Gift_Confirmation	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02을\x02를 주겠습니까?
+MID_Hub_Mascot_Stroking	쓰다듬기
+MID_Hub_Mascot_Accessories	갈아입히기
+MID_Hub_Mascot_Accessories_Help	변경 대상을 선택해 주십시오
+MID_Hub_Mascot_Accessories_Choice	착용할 액세서리를 선택해 주십시오
+MID_Hub_Mascot_Accessories_Parts	액세서리
+MID_Hub_Mascot_Accessories_Head	머리
+MID_Hub_Mascot_Accessories_Tail	꼬리
+MID_Hub_Mascot_Accessories_Color	색 변경
+MID_Hub_Mascot_Accessories_Color_Choice	스카프 색을 선택해 주십시오
+MID_Hub_Mascot_Accessories_None	장비 없음
+MID_Hub_Pedestal	대좌
+MID_Hub_Skill_Inheritance	스킬 계승
+MID_Hub_Ring_Gacha	인연의 반지 정제
+MID_Hub_Ring_Merge	인연의 반지 합성
+MID_Hub_Ring_Cleaning	반지\x0E\x01\x08\x00 닦기
+MID_Hub_RefineGodWeapon	인게이지 무기 강화
+MID_Hub_Inheritance_End	계승 완료
+MID_Hub_Inheritance_Level	Lv.\x0E\x01\x00\x00에 개방
+MID_Hub_Inheritance_Invalid	문장사 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 싱크로 중에는\n장비해도 효과가 중복되지 않는다
+MID_Hub_Inheritance_Skill	계승 스킬
+MID_Hub_Inheritance_Skill_HELP	계승할 스킬을 선택해 주십시오
+MID_Hub_Inheritance_LevelHelp	인연 Lv.\x0E\x01\x00\x00에 계승 가능
+MID_Hub_GodBodLevel	문장사와의 인연 레벨
+MID_Hub_Inheritance_Skill_Confirmation	스킬을 계승하겠습니까?
+MID_Hub_Inheritance_Skill_Yes	계승하기
+MID_Hub_Inheritance_Skill_Finish	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 계승했습니다
+MID_Hub_Ring_Common_God_Empty	반지\x0E\x01\x08\x00가 없습니다
+MID_Hub_H_Ring_Gacha	반지를 정제할 문장사를 선택해 주십시오
+MID_Hub_Ring_Gacha_TotalRefinedCount	지금까지 정제한 수
+MID_Hub_Ring_Gacha_RingList	획득한 적 있는 인연의 반지
+MID_Hub_Ring_Gacha_1_Time_TitleHelp	한 번에 정제할 수를 선택해 주십시오
+MID_Hub_Ring_Gacha_1_Time	1회 정제하기
+MID_Hub_Ring_Gacha_10_Times	10회 정제하기
+MID_Hub_Ring_Gacha_New	NEW!
+MID_Hub_Ring_Merge_Help	합성에 사용할 인연의 반지를 선택해 주십시오
+MID_Hub_Ring_Merge_Empty	인연의 반지가 없습니다
+MID_Hub_Ring_Merge_Needed_Count	필요 수
+MID_Hub_Ring_Merge_Failed_Full	합성하려는 인연의 반지는 더 이상 소지할 수 없습니다
+MID_Hub_Ring_Merge_Confirm	｢인연의 반지｣를 합성하겠습니까?
+MID_Hub_Ring_Merge_Yes	합성하기
+MID_Hub_Ring_Cleaning_GodSelect	닦을 반지\x0E\x01\x08\x00를 선택해 주십시오
+MID_Hub_Ring_Cleaning_Help	반지\x0E\x01\x08\x00를 닦을 사람을 선택해 주십시오
+MID_Hub_Ring_Cleaning_Confirm	｢\x0E\x01\x00\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를\n｢\x0E\x01\x01\x00\x0E\x0A\x04\x0C\x04｣이\x04｣가 닦겠습니까?
+MID_Hub_Ring_Cleaning_Yes	닦기
+MID_Hub_Ring_Cleaning_Finish	Cleanup
+MID_Hub_Ring_Cleaning_Finish_Confirm	닦는 작업을 종료하겠습니까?
+MID_Hub_RefineGodWeapon_Refine	강화
+MID_Hub_RefineGodWeapon_Refine_Help	강화할 인게이지 무기를 선택해 주십시오
+MID_Hub_RefineGodWeapon_RefineCapacity	강화 한계치
+MID_Hub_RefineGodWeapon_RefineStatus	강화 상태
+MID_Hub_RefineGodWeapon_Empty	인게이지 무기가 없습니다
+MID_Hub_RefineGodWeapon_Nothing	아무것도 강화되지 않았습니다
+MID_Hub_RefineGodWeapon_SelectParam_Help	강화할 항목을 선택해 주십시오
+MID_Hub_RefineGodWeapon_Comfirm	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를 강화하겠습니까?
+MID_Hub_RefineGodWeapon_Contents	강화 항목
+MID_Hub_RefineGodWeapon_Comfirm_Skill	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00｣에\n특효를 부여하겠습니까?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Yes	부여하기
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00｣의\n특효를 교체하겠습니까?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change_Yes	교체하기
+MID_Hub_RefineGodWeapon_Comfirm_Yes	강화하기
+MID_Hub_RefineGodWeapon_Comfirm2	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를\n｢\x0E\x01\x02\x00 Lv.\x0E\x01\x03\x00\x0E\x0A\x05\x0E\x06｣으로\x04｣로 강화했습니다
+MID_Hub_RefineGodWeapon_Comfirm2_Skill	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00｣에\n｢\x0E\x01\x02\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를 부여했습니다
+MID_Hub_RefineGodWeapon_PowerUpValue	강화치
+MID_Hub_RefineGodWeapon_Reset	리셋
+MID_Hub_RefineGodWeapon_Reset_Help	리셋할 인게이지 무기를 선택해 주십시오
+MID_Hub_RefineGodWeapon_ResetParam_Help	리셋할 항목을 선택해 주십시오
+MID_Hub_RefineGodWeapon_Reset_Comfirm	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를\n｢\x0E\x01\x02\x00 Lv.\x0E\x01\x03\x00\x0E\x0A\x05\x0E\x06｣으로\x04｣로 리셋하겠습니까?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Skill	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00｣에 부여된\n｢\x0E\x01\x02\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를 리셋하겠습니까?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Yes	리셋하기
+MID_Hub_RefineGodWeapon_Reset_Comfirm2	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를\n｢\x0E\x01\x02\x00 Lv.\x0E\x01\x03\x00\x0E\x0A\x05\x0E\x06｣으로\x04｣로 리셋했습니다
+MID_Hub_RefineGodWeapon_Reset_Comfirm2_Skill	｢\x0E\x01\x00\x00의 \x0E\x01\x01\x00｣에 부여된\n｢\x0E\x01\x02\x00\x0E\x0A\x04\x0C\x04｣을\x04｣를 리셋했습니다
+MID_Hub_Arena_Gate	단련의 불꽃
+MID_Hub_Arena_Limit	남은 횟수
+MID_Hub_Arena_Lv_MAX	인연 레벨이 최대입니다
+MID_Hub_Arena_Lv_Cap	인연 회화를 보면 인연 레벨을\n추가로 상승시킬 수 있습니다
+MID_Hub_Arena_Lv_Cap_Look	인연 회화를 본다
+MID_Hub_Arena_Lv_Once	한 번에 상승시킬 수 있는\n인연 레벨은 최대 5입니다.
+MID_Hub_Arena_Help	행동을 선택해 주십시오
+MID_Hub_Arena_Start	일반 단련
+MID_Hub_Arena_Start_Help	단련할 유닛을 선택해 주십시오
+MID_Hub_Arena_GodRelianceUp_Start	특별 지명 단련
+MID_Hub_Arena_GodRelianceUp_Start_Got_Select_Help	상대 문장사를 선택해 주십시오
+MID_Hub_Arena_GodRelianceUp_Lv_Select	인연 레벨을 선택해 주십시오
+MID_Hub_Arena_GodRelianceUp_Help	임의의 유닛과 문장사의\n인연 레벨이 상승합니다\n목표에 따라 ｢인연의 조각｣의\n소비량이 달라집니다
+MID_Hub_Arena_GodRelianceUp_Start_Confirm	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 \x0E\x01\x01\x00의 지명 단련을 시작하겠습니까?
+MID_Hub_Arena_NoWeapon	장비 가능한 무기가 없어\n단련을 시작할 수 없습니다
+MID_Hub_Arena_Start_Confirm	\x0E\x01\x00\x00의 단련을 시작하겠습니까?
+MID_Hub_Arena_Win	WIN
+MID_Hub_Arena_Lose	LOSE
+MID_Hub_Arena_Draw	DRAW
+MID_Hub_Arena_BattleStart	VS
+MID_Hub_Level_Choice	난이도를 선택해 주십시오
+MID_Hub_NewLevel_Open	스토리를 진행하면 개방됩니다
+MID_Hub_MiniGame_Expert	엑스퍼트
+MID_Hub_MiniGame_Start	START!
+MID_Hub_MiniGame_Finish	FINISH!
+MID_Hub_MiniGame_Stop	STOP!
+MID_Hub_Mascot_Take_MuscleExercises	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 함께 체조하겠습니까?\n(｢친밀도｣가 높으면 서포트해 줍니다)
+MID_Hub_Mascot_Take_MuscleExercises_Yes	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 체조하기
+MID_Hub_Mascot_NoTake_MuscleExercises	혼자서 체조하기
+MID_Hub_Mascot_Take_Fishing	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 함께 낚시하겠습니까?\n(｢친밀도｣가 높으면 서포트해 줍니다)
+MID_Hub_Mascot_Take_Fishing_Yes	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 낚시하기
+MID_Hub_Mascot_NoTake_Fishing	혼자서 낚시하기
+MID_Hub_Mascot_Take_DragonRide	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 함께 타겠습니까?\n(｢친밀도｣가 높으면 서포트해 줍니다)
+MID_Hub_Mascot_Take_DragonRide_Yes	\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02과\x02와 타기
+MID_Hub_Mascot_NoTake_DragonRide	혼자 타기
+MID_Hub_MiniGame_AddDifficulty	\x0E\x01\x00\x00 난이도가 추가되었습니다
+MID_Hub_MiniGame_AddDifficulty_Muscle	머슬 난이도가 추가되었습니다\n(기록의 한계에 도전하기 위한 난이도입니다\n 능력 상승 및 보수는 발생하지 않습니다)
+MID_Hub_MiniGame_MascotHelp	도와주기
+MID_Hub_MiniGame_MascotHelp_Count	도와준 횟수
+MID_Hub_MiniGame_ThisTimeScore	스코어
+MID_Hub_MiniGame_BestScore	베스트 스코어
+MID_Hub_MiniGame_NoScore	기록 없음
+MID_Hub_MiniGame_TryResult	도전 결과
+MID_Hub_MiniGame_DifficultyTipe	난이도: \x0E\x01\x00\x00
+MID_Hub_MiniGame_NewRecord	기록 경신!
+MID_Hub_MiniGame_Result_SSS	SSS
+MID_Hub_MiniGame_Result_SS	SS
+MID_Hub_MiniGame_Result_S	S
+MID_Hub_MiniGame_Result_A	A
+MID_Hub_MiniGame_Result_B	B
+MID_Hub_MiniGame_Result_C	C
+MID_Hub_MiniGame_Result_D	D
+MID_Hub_MiniGame_Result_E	E
+MID_Hub_MiniGame_Result_F	F
+MID_Hub_MuscleExercises_Menu_Choice	종목을 선택해 주십시오
+MID_Hub_MuscleExercises_Rule	규칙
+MID_Hub_MuscleExercises_Effect	효과
+MID_Hub_MuscleExercises_Continuity	추가 효과 및 보상은 발생하지 않습니다만\n근육 체조를 계속해서 진행하겠습니까?
+MID_Hub_MuscleExercises_Continuity_Unacquired	근육 체조를 계속해서 진행하겠습니까?
+MID_Hub_MuscleExercises_Continuity_Yes	도전하기
+MID_Hub_MuscleExercises_Muscle	머슬
+MID_Hub_MuscleExercises_Perfect	Perfect
+MID_Hub_MuscleExercises_Good	Good
+MID_Hub_MuscleExercises_Bad	Bad
+MID_Hub_MuscleExercises_Assist	Assist
+MID_Hub_MuscleExercises_SpeedUp	Speed Up!!
+MID_Hub_MuscleExercises_Record	현재 기록
+MID_Hub_MuscleExercises_SuccessCount	성공 횟수
+MID_Hub_MuscleExercises_ErrorCount	실패 횟수
+MID_Hub_MuscleExercises_Result	성적
+MID_Hub_MuscleExercises_StatusUp	다음 출격 중에 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02이\x02가 \x0E\x01\x01\x00 상승합니다
+MID_Hub_MuscleExercises_PushUps	팔 굽혀 펴기
+MID_Hub_MuscleExercises_PushUps_Rule_0	바를 최적의 위치에서 멈추자!\n타이밍이 생명인 근육 체조!
+MID_Hub_MuscleExercises_PushUps_Rule_1	속도와 판정이 서서히 어려워진다\n세 번 실패하면 즉시 종료
+MID_Hub_MuscleExercises_PushUps_Rule_2	결과에 따라 다음 출격 중\n\x0E\x06\x03\x00의 힘이 상승!
+MID_Hub_MuscleExercises_Ads	복근 트레이닝
+MID_Hub_MuscleExercises_Ads_Rule_0	버튼을 연타해 게이지를 모으자!\n체력이 생명인 근육 체조!
+MID_Hub_MuscleExercises_Ads_Rule_1	게이지를 빠르게 채울수록 고득점\n바닥나 버리면 즉시 종료
+MID_Hub_MuscleExercises_Ads_Rule_2	결과에 따라 다음 출격 중\n\x0E\x06\x03\x00의 HP가 상승!
+MID_Hub_MuscleExercises_Squat	스쿼트
+MID_Hub_MuscleExercises_Squat_Rule_0	좌우 양쪽 스틱을 조작!\n리듬감이 생명인 근육 체조!
+MID_Hub_MuscleExercises_Squat_Rule_1	나오는 지시에 맞춰서 입력\n세 번 실패하면 즉시 종료
+MID_Hub_MuscleExercises_Squat_Rule_2	결과에 따라 다음 출격 중\n\x0E\x06\x03\x00의 기술이 상승!
+MID_Hub_Fishing_Continue_RodSelect	낚싯대를 선택해 주십시오
+MID_Hub_Fishing_Continue	낚시를 계속하겠습니까?
+MID_Hub_Fish_Pcture_Book	낚시 도감
+MID_Hub_Fishing_BonusFish	보너스 대상
+MID_Hub_Fishing_Rod	낚싯대
+MID_Hub_Fishing_Fish	낚이는 물고기
+MID_Hub_Fishing_Limit	낚시 가능 횟수
+MID_Hub_Fishing_Count	낚아 올린 횟수
+MID_Hub_Fishing_Success	Success
+MID_Hub_Fishing_Perfect	Perfect
+MID_Hub_Fishing_Escaped_Fast	너무 빨리 당긴 모양이다…
+MID_Hub_Fishing_Escaped_Late	너무 늦게 당긴 모양이다…
+MID_Hub_Fishing_Escaped	도망쳐 버렸다…
+MID_Hub_Fishing_BestSize	최고 기록
+MID_Hub_Fishing_Centimeter	cm
+MID_Hub_Fishing_Size	크기
+MID_Hub_Fishing_TinySize	타이니 사이즈
+MID_Hub_Fishing_SmallSize	스몰 사이즈
+MID_Hub_Fishing_MiddleSize	미들 사이즈
+MID_Hub_Fishing_LargeSize	라지 사이즈
+MID_Hub_Fishing_BigSize	빅 사이즈
+MID_Hub_Fishing_GiantSize	자이언트 사이즈
+MID_Hub_Fishing_Shadow_Small	작은 그림자
+MID_Hub_Fishing_Shadow_Big	큰 그림자
+MID_Hub_Fishing_Shadow_Giant	거대 그림자
+MID_Hub_Fishing_GetItem	획득 아이템
+MID_Hub_Fishing_Conditions	낚기 위한 조건
+MID_Hub_Fishing_TimeZone	시간대
+MID_Hub_Fishing_TimeZone_Night	\x0E\x08\x02\x10\x0EEvening저녁/\x0E\x08\x02\x0C\nNight밤
+MID_Hub_Fishing_FishType	낚아 올린 물고기 종류
+MID_Hub_Fishing_Continue_Yes	계속하기
+MID_Hub_Fishing_End	그만두기
+MID_Hub_Fishing_Bonus	BONUS!
+MID_Hub_Fishing_Hit	HIT!
+MID_Hub_Fishing_UnicornChar	외뿔 곤들매기
+MID_Hub_H_Fishing_UnicornChar	머리에 있는 커다란 뿔은\n낚을 때 충격으로 부러지기도 한다.\n잔뼈가 많아 대부분 다져서 사용한다.
+MID_Hub_Fishing_PonYamame	방울 산천어
+MID_Hub_H_Fishing_PonYamame	방울방울 몸 측면에 도드라진\n둥근 모양은 성장하면서 점차 연해진다.\n담백한 맛의 어육으로 만들 수 있다.
+MID_Hub_Fishing_HellKoi	헤루루 잉어
+MID_Hub_H_Fishing_HellKoi	뭐든 먹는 물고기로 선명한 색채를\n지닌 것도 있어 관상용으로도 인기 있다.\n영양가가 풍부해 튀김류에 적합하다.
+MID_Hub_Fishing_RavanaTrout	라바나 송어
+MID_Hub_H_Fishing_RavanaTrout	요령만 알면 간단하게 낚을 수 있다.\n이르시온 왕국에서는 양식도 하고 있으며\n일반적으로 건어물을 만드는 데 쓰인다.
+MID_Hub_Fishing_SlitFinSalmon	슬릿핀 연어
+MID_Hub_H_Fishing_SlitFinSalmon	브로디아에서 가장 많이 잡히는 물고기.\n하늘거리는 지느러미가 특이하고 예쁘다.\n흰 살은 먹이에 의해 붉게 변하기도 한다.
+MID_Hub_Fishing_MandCobbBass	만드 혹 농어
+MID_Hub_H_Fishing_MandCobbBass	낚시 실력을 시험하는 중량급 몬스터.\n솔룸에서는 농어 낚시 대회도 열린다.\n잘 손질하면 풍미 있는 횟감이 된다.
+MID_Hub_Fishing_BanganHerring	방간 청어
+MID_Hub_H_Fishing_BanganHerring	시기에 따라 무리 지어 행동하기 때문에\n너무 많이 낚여 골칫거리가 되기도 한다.\n담백한 맛은 다양한 식재료에 어울린다.
+MID_Hub_Fishing_TeoteSquid	테오테 오징어
+MID_Hub_H_Fishing_TeoteSquid	반짝이는 작은 것을 먹이로 착각해\n달려드는 습성을 이용해 낚기도 한다.\n으깨서 다양한 요리에 사용할 수 있다.
+MID_Hub_Fishing_BlosEel	브로스 장어
+MID_Hub_H_Fishing_BlosEel	몸이 미끈거려 잡기 힘들기 때문에\n낚싯바늘을 제거할 때 주의해야 한다.\n맛이 응축돼 있으며 잔뼈도 먹을 수 있다.
+MID_Hub_Fishing_LogerOctopus	로거 문어
+MID_Hub_H_Fishing_LogerOctopus	다리의 빨판으로 바위 등에 달라붙기\n전에 힘껏 낚아 올리는 것이 중요하다.\n통째로 으깨서 사용할 수 있다.
+MID_Hub_Fishing_HegeBeardCatfish	헨지 수염 매기
+MID_Hub_H_Fishing_HegeBeardCatfish	수염처럼 보이는 길고 두꺼운 피부로\n주위를 더듬으며 상황을 파악한다.\n삶고, 굽는 것 외에 말려서 먹기도 한다.
+MID_Hub_Fishing_SarriaDogMorayEel	사리아 개 곰치
+MID_Hub_H_Fishing_SarriaDogMorayEel	흉포하고 거칠어서 위험한 물고기로\n예리한 이빨에 물리면 큰일 난다.\n기름지고 농후한 맛의 회를 뜰 수 있다.
+MID_Hub_Fishing_OmemeSardine	큰 눈 정어리
+MID_Hub_H_Fishing_OmemeSardine	피레네에서 잘 낚이며 눈이 특이하다.\n몸을 보호하기 위해 무리 지어 다닌다.\n손으로도 간단하게 손질할 수 있다.
+MID_Hub_Fishing_AvidCrab	아비도 게
+MID_Hub_H_Fishing_AvidCrab	낮에는 모래에 숨어 지내고 있어\n행동이 활발해지는 새벽에 낚기 쉽다.\n껍질째로 으깨서 게살로 가공할 수 있다.
+MID_Hub_Fishing_MunonTailHorseMackerel	멤논 꼬리 전갱이
+MID_Hub_H_Fishing_MunonTailHorseMackerel	낚시의 재미를 느끼는 데 최적인 물고기.\n크기가 적당해서 손질 연습에 적합하다.\n건어물로 많은 사람에게 사랑받고 있다.
+MID_Hub_Fishing_DosmaRay	도스마 가오리
+MID_Hub_H_Fishing_DosmaRay	배 부분이 웃는 얼굴처럼 보여서\n귀엽다고 하지만 꼬리 끝에 독이 있다.\n말리면 배 부분이 무섭게 일그러진다.
+MID_Hub_Fishing_DemonFangCod	왕엄니 대구
+MID_Hub_H_Fishing_DemonFangCod	피레네, 브로디아에서 인기인 고급 생선.\n추운 지역에서는 내장도 식재료로 쓰며\n모든 부위를 식용으로 이용할 수 있다.
+MID_Hub_Fishing_TephraSkipjack	테프라 가다랑어
+MID_Hub_H_Fishing_TephraSkipjack	엄청난 근육으로 헤엄치며 난폭하다.\n계절을 타지 않는 고급 붉은 살 물고기로\n촉촉한 살은 횟감으로 인기를 끌고 있다.
+MID_Hub_Fishing_RainbowTrout	칠색 송어
+MID_Hub_H_Fishing_RainbowTrout	일곱 빛깔 무늬를 지닌 라바나 송어의\n친척으로 상당히 희귀하다. 두껍고\n기름진 살이 일품인 환상의 물고기.
+MID_Hub_Fishing_EnchantSkipjack	인챈트 가다랑어
+MID_Hub_H_Fishing_EnchantSkipjack	특정 조건에서는 어느 정도 낚아 볼 만한\n테프라 가다랑어의 별종이지만 까다로운\n난이도로 환상의 물고기라 불리고 있다.
+MID_Hub_DragonRide_NowScore	현재 스코어
+MID_Hub_DragonRide_BreakTarget	파괴한 표적
+MID_Hub_DragonRide_Target_Pattern	표적 종류
+MID_Hub_DragonRide_Target_Normals	노멀
+MID_Hub_DragonRide_Target_Normals_Help	일반적인 표적으로\n신룡파가 명중하면 파괴됩니다
+MID_Hub_DragonRide_Target_Big	빅
+MID_Hub_DragonRide_Target_Big_Help	표적에 명중하면\n주변 표적도 함께 파괴됩니다
+MID_Hub_DragonRide_Target_Link	링크
+MID_Hub_DragonRide_Target_Link_Help	표적에 명중하면 주변 표적도\n연쇄적으로 파괴됩니다
+MID_Hub_DragonRide_Target_Special	스페셜
+MID_Hub_DragonRide_Target_Special_Help	표적에 명중하면 일정 시간\n신룡파의 파워가 상승합니다
+MID_Hub_DragonRide_Target_Rroulette	룰렛
+MID_Hub_DragonRide_Target_Rroulette_Help	모든 표적이 순차로 교체되며\n파괴할 때 표적이 확정됩니다
+MID_Hub_DragonRide_Operation	조작 방법
+MID_Hub_DragonRide_Operation_Title_Stick	조작 방법: 스틱
+MID_Hub_DragonRide_Operation_Title_Gyro	조작 방법: 자이로
+MID_Hub_DragonRide_Operation_To_Stick	스틱 조작으로 변경
+MID_Hub_DragonRide_Operation_To_Gyro	자이로 조작으로 변경
+MID_Hub_DragonRide_Operation_Plus	일시 정지/재개
+MID_Hub_DragonRide_Operation_A	신룡파를 쏜다
+MID_Hub_DragonRide_Operation_Y	조준 고속 조작
+MID_Hub_DragonRide_Operation_StickLR	조준 조작
+MID_Hub_DragonRide_Operation_StickLR_Push	조준 리셋
+MID_Hub_DragonRide_Operation_StickLR_Push_Sub	누른 쪽의\n자이로 센서가\n활성화됩니다
+MID_Hub_DragonRide_Operation_ZLZR	신룡파를 쏜다
+MID_Hub_DragonRide_Operation_LR	조준 고속 조작
+MID_Hub_DragonRide_Operation_Gyro0	컨트롤러의 기울기: 
+MID_Hub_DragonRide_Operation_Gyro1	조준 조작
+MID_Hub_DragonRide_Operation_Suspension	드래곤 슈터를 그만둔다
+MID_Hub_CafeTerrace_Jukebox	사운드박스
+MID_Hub_CafeTerrace_H_Jukebox	솔라넬에서 흐르는 음악을 변경할 수 있다
+MID_Hub_CafeTerrace_Board	게시판
+MID_Hub_CafeTerrace_Cook	요리
+MID_Hub_CafeTerrace_Cook_Choice_Unit	식사할 상대를 2명 선택해 주십시오
+MID_Hub_CafeTerrace_Cook_Choice_Menu	요리를 선택해 주십시오
+MID_Hub_CafeTerrace_Cook_Choice_Foods	추가할 식재료를 선택해 주십시오
+MID_Hub_CafeTerrace_Cook_Specialty	마스터
+MID_Hub_CafeTerrace_Cook_StrongPoint	특기
+MID_Hub_CafeTerrace_Cook_Experienced	경험 있음
+MID_Hub_CafeTerrace_Cook_Challenging	도전
+MID_Hub_CafeTerrace_Cook_BasicEffect	기본 효과
+MID_Hub_CafeTerrace_Cook_Favorite	요리 취향
+MID_Hub_CafeTerrace_Cook_Favorite_Good	선호
+MID_Hub_CafeTerrace_Cook_Favorite_Normal	보통
+MID_Hub_CafeTerrace_Cook_Favorite_Bad	불호
+MID_Hub_CafeTerrace_Cook_Chef	식사 당번
+MID_Hub_CafeTerrace_Friend	같이 식사할 동료
+MID_Hub_CafeTerrace_CookMenu	만들 요리
+MID_Hub_CafeTerrace_Cook_CallFriend	같이 식사할 동료
+MID_Hub_CafeTerrace_Cook_RelianceStatus	지원 레벨
+MID_Hub_CafeTerrace_Cook_AddFood	추가 식재료
+MID_Hub_CafeTerrace_Cook_AddFood_Nothing	없음
+MID_Hub_CafeTerrace_Cook_CanAddFood	추가 가능한 식재료
+MID_Hub_CafeTerrace_Cook_Confirmation	요리를 시작하겠습니까?
+MID_Hub_CafeTerrace_Cook_Everyone	아군 유닛 모두
+MID_Hub_CafeTerrace_Cook_Effect_Nothing	능력 변화 없음
+MID_Hub_CafeTerrace_Cook_Also	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02은\x02는 추가로
+MID_Hub_CafeTerrace_Cook_Workmanship	완성도
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS	SS
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S	S
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A	A
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B	B
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C	C
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D	D
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E	E
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F	F
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G	G
+MID_Hub_CafeTerrace_Bento_Get	남은 요리로 도시락을 만들었다
+MID_Hub_CafeTerrace_Bento_Discard	오래된 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02을\x02를 처분했다
+MID_MENU_NOTICE_BOARD_TITLE	게시판
+MID_MENU_NOTICE_BOARD_HELP	확인할 정보를 선택해 주십시오
+MID_MENU_NOTICE_BOARD_INVESTMENT	왕국 투자
+MID_MENU_NOTICE_BOARD_INVESTMENT_HELP	투자할 왕국을 선택해 주십시오
+MID_MENU_NOTICE_SOLANEL_INFO	거점 정보
+MID_MENU_NOTICE_ACHIEVEMENT	실적
+MID_MENU_INVESTMENT_AmountOfMoney	얼마를 투자하겠습니까?
+MID_MENU_INVESTMENT_G	\x0E\x01\x00\x00\x0E\x01\x01\x00G
+MID_MENU_INVESTMENT_NEXT_LEVEL	다음 레벨까지
+MID_MENU_INVESTMENT_TOTAL	지금까지 투자한 금액
+MID_MENU_INVESTMENT_LEVEL_EFFECT	레벨 업에 따른 효과
+MID_MENU_INVESTMENT_LEVEL_BONUS	레벨 업 보상
+MID_MENU_INVESTMENT_RESULT	산책
+MID_MENU_INVESTMENT_LEVEL_EFFECT_MAX	레벨 상한 도달
+MID_MENU_INVESTMENT_COMPLETE	COMPLETE!
+MID_MENU_INVESTMENT_COMPLETE_INFO	최대 레벨까지 투자했습니다
+MID_MENU_INVESTMENT_COMPLETE_HELP	\x0E\x08\x02\x04\x02X상세 정보로 내용 확인이 가능합니다
+MID_MENU_INVESTMENT_GOLD_ENEMY	금의 이형병 출현율
+MID_MENU_INVESTMENT_EXP_ENEMY	은의 이형병 출현율
+MID_MENU_INVESTMENT_ANIMAL_ENABLE	사육 방법 습득
+MID_MENU_NATIONDATA_TITLE	\x0E\x01\x00\x00에서 획득 가능한 것
+MID_MENU_NATIONDATA_REFINE_ITEM	광물
+MID_MENU_NATIONDATA_FOOD	식재료
+MID_MENU_NATIONDATA_ANIMAL	동물
+MID_MENU_INVESTMENT_BONUS_FILENE_1	대수확 팩
+MID_MENU_INVESTMENT_BONUS_BRODIA_1	대발굴 팩
+MID_MENU_INVESTMENT_BONUS_IRCION_1	회복 팩
+MID_MENU_INVESTMENT_BONUS_SOLUM_1	노점상 팩
+MID_MENU_INVESTMENT_BONUS_2	민족 의상 팩
+MID_MENU_INVESTMENT_BONUS_3	친구 팩
+MID_MENU_INVESTMENT_BONUS_4	전통 의상 팩
+MID_MENU_INVESTMENT_BONUS_Get	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02을\x02를 받았습니다
+MID_MENU_INVESTMENT_DIALOG_NEXT_ITEM	다음 레벨까지(\x0E\x01\x00\x00)
+MID_MENU_SOLANEL_INFO_TITLE	거점 정보
+MID_MENU_SOLANEL_INFO_COMMENT	이동하려는 곳을 선택해 주십시오
+MID_MENU_SOLANEL_INFO_CONFIRM_TEXT	｢\x0E\x01\x00\x00\x0E\x0A\x05\x0E\x06｣으로\x04｣로 이동하겠습니까?
+MID_MENU_SOLANEL_INFO_CONFIRM_YES	이동하기
+MID_MENU_ACHIEVEMENT_TITLE	실적
+MID_MENU_ACHIEVEMENT_COUNT_TITLE	달성 수
+MID_MENU_ACHIEVEMENT_COUNT_UNIT	동료
+MID_MENU_ACHIEVEMENT_COUNT_BATTLE	전투
+MID_MENU_ACHIEVEMENT_COUNT_SOLANEL	솔라넬
+MID_MENU_ACHIEVEMENT_COUNT_SHOP	숍
+MID_MENU_ACHIEVEMENT_COUNT_SYSTEM	시스템
+MID_MENU_ACHIEVEMENT_COUNT_TOTAL	합계
+MID_MENU_ACHIEVEMENT_NOW	현재: 
+MID_MENU_ACHIEVEMENT_BONUS	보상: 
+MID_MENU_ACHIEVEMENT_CLEAR	CLEAR!
+MID_MENU_ACHIEVEMENT_COMPLETE	COMPLETE
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE	다음 실적의 달성 보상을 받았습니다\n｢\x0E\x01\x00\x00｣
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL	실적 달성 보상을 모두 받겠습니까?
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALLGET	실적 달성 보상을 모두 받았습니다
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL_YES	받기
+MID_MENU_ACHIEVEMENT_UNIT_HUMAN	명
+MID_MENU_ACHIEVEMENT_UNIT_ITEM	개
+MID_MENU_ACHIEVEMENT_UNIT_COUNT	회
+MID_MENU_ACHIEVEMENT_UNIT_TIME	시간
+MID_MENU_ACHIEVEMENT_UNIT_ENEMY	회
+MID_MENU_ACHIEVEMENT_Clear_Nothing	달성한 실적이 없습니다
+MID_Hub_AnimalCoop_Nothing	아직 동물이 없는 것 같다…
+MID_Hub_AnimalCoop_Choice	방목할 동물을 선택해 주십시오
+MID_Hub_AnimalCoop_Trade	바꾸기
+MID_Hub_AnimalCoop_FreeAnimal	방목할 동물
+MID_Hub_AnimalCoop_InAnimal	사육 중인 동물
+MID_Hub_AnimalCoop_Number	사육 수
+MID_Hub_AnimalCoop_Entrust	위탁
+MID_Hub_AnimalCoop_Contact	바라보기
+MID_TUT_HUB_RECORD_HALL_TITLE	활동 기록관
+MID_TUT_HUB_RECORD_HALL_0	활동 기록관에서는\n｢신룡 전적 카드｣의 열람과 편집을 할 수 있습니다
+MID_TUT_HUB_RECORD_HALL_1	거점 메뉴의 ｢동료｣ 항목을 통해서도\n동일한 행동을 할 수 있습니다\n(풍경 인화는 솔라넬 야외에서만 가능합니다)
+MID_TUT_HUB_PROFILE_TITLE	신룡 전적 카드
+MID_TUT_HUB_PROFILE_0	지금까지 했던 게임 플레이와\n자신의 간단한 프로필을 기록할 수 있는 카드입니다
+MID_TUT_HUB_PROFILE_1	통신 기능을 사용하면\n다른 플레이어에게 카드를 공개하거나\n다른 플레이어의 카드를 받을 수 있습니다
+MID_TUT_HUB_PROFILE_EDIT_TITLE	전적 카드 편집
+MID_TUT_HUB_PROFILE_EDIT_0	｢마이 카드｣에서 자신의 전적 카드를 편집할 수 있습니다
+MID_TUT_HUB_PROFILE_EDIT_1	게임 플레이를 계속해서 조건을 달성하면\n선택할 수 있는 표현과 소재가 늘어납니다
+MID_TUT_HUB_PROFILE_PHOTO_TITLE	풍경 인화
+MID_TUT_HUB_PROFILE_PHOTO_0	전적 카드에 표시할 사진을 인화(촬영)할 수 있습니다
+MID_TUT_HUB_PROFILE_PHOTO_1	좋아하는 장소, 동료, 액세서리, 포즈를 선택합니다
+MID_TUT_HUB_PROFILE_PHOTO_2	모든 선택이 완료됐으면 \x0E\x08\x02\x0A\x08Plus로\n인화 모드에 들어가고 \x0E\x08\x02\x04\x02L\x0E\x08\x02\x04\x02R을 눌러 인화합니다
+MID_TUT_HUB_PROFILE_TRADE_TITLE	전적 카드 교환
+MID_TUT_HUB_PROFILE_TRADE_0	계전의 시련과 이계의 시련을 플레이하면\n마이 카드가 업로드되고\n다른 플레이어의 카드를 받을 수 있습니다
+MID_TUT_HUB_PROFILE_TRADE_1	공개 설정을 ｢비공개｣로 할 경우\n업로드한 마이 카드를\n다른 플레이어는 받을 수 없게 됩니다
+MID_TUT_HUB_PROFILE_TRADE_2	받은 카드는 메뉴에서 열람, 삭제할 수 있습니다

@@ -1,0 +1,60 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0C\x06カミラ\x023\n\x0E\x03\x02\x06\x04チキ\nEste sitio es muy oscuro...\n¿No te da miedo, \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nAunque el brazalete esté aquí,\nserá difícil encontrarlo.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04チキ\n¡Espera, creo que es eso de ahí!\n¡Sí! ¡Es el Brazalete de la Hermana Protectora!\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nMuy bien. Invocaré a su Emblema.\x0E\x04\x02\x00
+MID_OP1_#005	¡Vuela alto, Emblema de la Revelación!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カミラ\x022\n\x0E\x03\x02\x08\x06カミラ\nSiento como si hubiera estado durmiendo\ndurante años. Gracias por despertarme.\x0E\x04\x02\x00
+MID_OP2_#002	Soy Camilla, princesa de Nohr.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nEmblema Camilla, venimos a pedirte auxilio.\nSoy el Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06カミラ\nMe resulta casi irresistible una petición\nde ayuda tan sincera. Casi.\x0E\x04\x02\x00
+MID_OP2_#005	Pero tendría que pensármelo, cosa\nque pienso hacer si me demuestras tu valía.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08リュール\nEntiendo que quieres ponerme a prueba.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x08\x06カミラ\n¿Es que no te gusta luchar?\nEres tan amable como Corrin.\x0E\x04\x02\x00
+MID_OP2_#008	Claro está, podría ser preferible llegar\na un acuerdo dialogando.\x0E\x04\x02\x00
+MID_OP2_#009	Pero a veces no es posible.\nEn ocasiones, es preciso luchar.\x0E\x04\x02\x00
+MID_OP2_#010	Incluso si te enfrentas a tu propia familia.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\n¿A qué te refieres con eso?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x08\x06カミラ\nMi hermana se debatía entre su familia adoptiva\ny su familia biológica.\x0E\x04\x02\x00
+MID_OP2_#013	Se vio en medio del conflicto entre Nohr\ny Hoshido, pero hizo prueba de gran arrojo.\x0E\x04\x02\x00
+MID_OP2_#014	Luchó por la paz y forjó su propia senda,\naunque no todos entendieron sus actos.\x0E\x04\x02\x00
+MID_OP2_#015	¿Tienes tanto coraje como ella?\nNo me conformaré con menos.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nNo me comparo con nadie,\npero no me falta determinación.\x0E\x04\x02\x00
+MID_OP2_#017	Si es lo que deseas, te lo demostraré.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x08\x06カミラ\nVaya... ¿Significa eso que aceptas mi desafío?\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nAsí es.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x08\x06カミラ\nVeo que no titubeas. Me gusta.\n¿Empezamos ya?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カミラ\x02b\n\x0E\x05\x01\x14\x06カミラ\nSmile\n\x0E\x03\x02\x08\x06カミラ\n¿Vamos allá? Permite que te muestre\nel poder de la Vena de dragón.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nEste nuevo terreno favorece a las unidades\nvoladoras. Será mejor tener precaución.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カミラ\x02b\n\x0E\x05\x01\x14\x06カミラ\nSmile\n\x0E\x03\x02\x08\x06カミラ\n¡Corrin! ¡Cuánto me alegra volver a verte!\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0C\x06カムイ\x02t\n\x0E\x05\x01\x10\x06カムイ\x06Shy\n\x0E\x03\x02\x08\x06カムイ\nLo mismo digo, Camilla. Por desgracia,\nparece que estamos en bandos enfrentados.\x0E\x04\x02\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06カムイ\nRelax\nNo me agrada enfrentarme a ti, pero, una vez\nque te venzamos, ¡volveremos a estar juntas!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x10\x06カミラ\x06Shy\n\x0E\x03\x02\x08\x06カミラ\nOírte decir eso casi hace que quiera perder...\nPero nada de eso: pienso emplearme a fondo.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カミラ\x02b\n\x0E\x05\x01\x14\x06カミラ\nRelax\n\x0E\x03\x02\x08\x06カミラ\nSe me ha olvidado comentarte\nque no se me da nada bien contenerme.\x0E\x04\x02\x00
+MID_BT2_#002	\x0E\x05\x01\x14\x06カミラ\nAngry\nSi no luchas con todas tus fuerzas,\nquizá acabe quitándote la vida.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSoy consciente de que subestimarte\nsería un craso error, Emblema Camilla.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06カミラ\nRelax\n\x0E\x03\x02\x08\x06カミラ\nBien, así no tendré que preocuparme.\nEn ese caso, no frenaré mi mano.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カミラ\x022\n\x0E\x03\x02\x0A\x08リュール\n¿Es suficiente, Camilla?\n¿Hace falta que sigamos luchando?\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06カミラ\nNo. Creo que has demostrado con creces\nque posees una gran fuerza de voluntad.\x0E\x04\x02\x00
+MID_ED1_#003	De buen grado me uno a tus filas.\nSerá un placer luchar a tu lado, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nGracias.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06カミラ\nNo hay de qué. Aprecio tu sinceridad.\x0E\x04\x02\x00
+MID_ED1_#006	Quizá logres arrojar algo de luz\na la oscuridad de este mundo.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nPor suerte, no tengo que intentarlo yo \x0E\x0A\x00\x14\x08solo\x08sola.\x0E\x04\x02\x00
+MID_ED1_#008	Con tu ayuda y la del resto de nuestros aliados\ny amigos, creo que lo conseguiremos.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06カミラ\nQué gran verdad. Resulta muy difícil\nlograr grandes cambios en solitario.\x0E\x04\x02\x00
+MID_ED1_#010	Yo sola ni siquiera habría soñado\ncon derrotar a mi padre.\x0E\x04\x02\x00
+MID_ED1_#011	Y mucho menos sellar la paz con Hoshido.\x0E\x04\x02\x00
+MID_ED1_#012	Gracias a Corrin, nuestra familia y amigos,\nfuimos capaces de salvar el mundo.\x0E\x04\x02\x00
+MID_ED1_#013	Espero que siempre tengas en gran estima\na quienes te rodean, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nClaro. Y yo espero que sigas compartiendo\nconmigo tus experiencias.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06カミラ\nPor supuesto, cariño.\nSerá un verdadero placer.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カムイ\x021\n\x0E\x03\x00\x0C\x06カミラ\x022\n\x0E\x03\x02\x08\x06カミラ\nCorrin... ¡Oh, Corrin!\n¡Cuánto me alegra que estés bien!\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x08\x06カムイ\n¡Camilla! Qué feliz estoy de verte.\x0E\x04\x02\x00
+MID_ED2_#003	Es un alivio tenerte de nuestro lado.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x08\x06カミラ\nPor fin volvemos a estar juntas.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06カムイ\nEspero que esta vez sea para siempre.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x08\x06カミラ\nRecuperaremos el tiempo perdido.\n¿Quieres celebrarlo en los baños termales?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06カムイ\nPor favor, Camilla.\nLos Emblemas no pueden bañarse.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x08\x06カミラ\n¿No? En ese caso, ¿por qué no descansas\nla cabeza en mi regazo, como solías hacer?\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06カムイ\nCreo que ya somos mayorcitas para eso...\nNunca cambiarás, ¿eh?\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x08\x06カミラ\nTanto si lo hago como si no,\nsiempre te protegeré, Corrin.\x0E\x04\x00\x00

@@ -1,0 +1,383 @@
+MID_NET_SettingOn	Le funzioni online sono attualmente disattivate.\nVuoi attivarle?
+MID_NET_TowerNetwork_On	Le funzioni online sono attualmente disattivate.\nVuoi attivarle e poter così giocare con gli altri\ngiocatori?
+MID_NET_RANKING_On	Le funzioni online sono attualmente disattivate.\nVuoi attivarle e poter così vedere la classifica\ndelle unità degli altri giocatori?
+MID_NET_SettingOn_Yes	Sì
+MID_NET_Setting	Connessione non attivata nelle impostazioni.
+MID_NET_Connecting	Connessione in corso...
+MID_NET_Error_TROPE	Nessuna connessione.
+MID_NET_Connecting_Error	Si è verificato un errore.\nRiprova più tardi.
+MID_NET_Title_Help	Scegli la prova da affrontare.
+MID_NET_Notes_Terms	Il nickname in uso sulla tua console Nintendo Switch sarà visibile agli altri giocatori nelle prove Staffetta e nelle prove Altrotempo. Anche la tua carta profilo sarà visibile se imposti la privacy della tua carta come pubblica. Le linee guida relative alla community si applicano al comportamento in gioco e ai contenuti condivisi e possono essere consultate sul sito Nintendo. Rispetta gli altri giocatori.
+MID_NET_Notes_Report	Se i tuoi comportamenti o contenuti violano le linee guida relative alla community, i tuoi dati potrebbero essere eliminati dal server e il tuo accesso al gioco online limitato. I contenuti non appropriati si segnalano dal menu Segnalazione.
+MID_MATCH_Title	Prove Altrotempo
+MID_MATCH_Help	Combatti online le armate di altri\ngiocatori, su mappe normali o\npersonalizzate.
+MID_MATCH_Title_Help	Scegli una modalità.
+MID_RELAY_Title	Prove Staffetta
+MID_RELAY_Help	Collabora online con altri giocatori\nsu una mappa in modalità staffetta.\nPer giocare servono coupon.
+MID_RELAY_Title_Help	Scegli come iniziare la prova.
+MID_CHALLENGE_Title	Prove Tempesta
+MID_CHALLENGE_Help	Affronta diverse battaglie di fila.\nPiù il livello di difficoltà è alto,\nmigliori saranno le ricompense.
+MID_CHALLENGE_Closed_Dialog	Le prove Tempesta saranno disponibili\ndopo aver completato il capitolo 11.
+MID_NETWORK_Map_Outline	Info mappa
+MID_NETWORK_Map_Name	Mappa
+MID_NETWORK_Map_Name_Content	\x0E\x01\x00\x00 (\x0E\x01\x01\x00)
+MID_NETWORK_LimitTurn_Content	\x0E\x01\x00\x00 (Giocatori: \x0E\x01\x01\x00)
+MID_NETWORK_Reward	Ricompensa
+MID_NETWORK_Degree	Titolo
+MID_NETWORK_Clear_Reward	Ricompense vittoria
+MID_NETWORK_Map_Select	Scegli mappa
+MID_NETWORK_BACK_CONFIRM	Tornare al menu?
+MID_NETWORK_BACK_CONFIRM_YES	Sì
+MID_NETWORK_H_BACK_CONFIRM	Torna al menu.
+MID_NET_Error	Si è verificato un errore.
+MID_NET_NFC_Error	La connessione con il controller in grado di\nleggere gli amiibo è stata interrotta.
+MID_MATCH_Easy	Battaglia rapida
+MID_MATCH_H_Easy	Scegli una mappa e affronta\nl'esercito di un altro giocatore.
+MID_MATCH_Easy_TitleHelp	Scegli una mappa.
+MID_V001	Giardino
+MID_V002	Cristalli
+MID_V003	Fortezza
+MID_V004	Tesoro
+MID_V005	Colonne
+MID_V006	Neve
+MID_MATCH_Search	Cerca un avversario
+MID_MATCH_Search_Help	Scegli un metodo di selezione.
+MID_MATCH_Random	Casuale
+MID_MATCH_H_Random	Affronta l'esercito di un altro\ngiocatore scelto casualmente.
+MID_MATCH_Serious_H_Random	Verrà selezionata in automatico\nuna mappa di un altro giocatore.\nLa battaglia influenzerà la tua\nclassifica.
+MID_MATCH_Matching	Avversario trovato: \x0E\x01\x00\x00
+MID_MATCH_Matching_Empty	Nessun avversario trovato.
+MID_MATCH_Matching_Verification	Vuoi affrontare \x0E\x01\x00\x00?
+MID_MATCH_NoData	Dati non trovati.
+MID_MATCH_Friend	Amico
+MID_MATCH_H_Friend	Scegli un esercito da affrontare tra\nquelli dei tuoi amici.
+MID_MATCH_Serious_H_Friend	Puoi scegliere una mappa tra quelle\nche appartengono ai tuoi amici.\nLa battaglia non influenzerà la tua\nclassifica.
+MID_MATCH_Friend_Select_Prompt	Scegli un amico.
+MID_MATCH_Friend_Select	Scegli amico
+MID_MATCH_Friend_Corps	\x0E\x01\x00\x00
+MID_MATCH_Friend_Code	Inserisci ID
+MID_MATCH_H_Friend_Code	Inserisci un ID per affrontare\nl'esercito di un giocatore specifico.
+MID_MATCH_Serious_H_Friend_Code	Inserisci un ID per combattere sulla\nmappa di un giocatore specifico.\nLa battaglia non influenzerà la tua\nclassifica.
+MID_MATCH_Friend_Code_Input_Easy	Inserisci ID avversario per la battaglia rapida.
+MID_MATCH_Friend_ID	Vuoi cercare questo ID?
+MID_MATCH_Friend_ID_Search	Usa questo ID
+MID_MATCH_My_ID_Attention	Non puoi inserire il tuo ID battaglia.
+MID_MATCH_Profile	Carte profilo
+MID_MATCH_H_Profile	Puoi scegliere da una lista di carte altrui\nattualmente in tuo possesso.
+MID_MATCH_Serious_H_Profile	Puoi scegliere da una lista di carte altrui\nattualmente in tuo possesso.\n(La battaglia non influenzerà la tua classifica.)
+MID_MATCH_Profile_Select_Prompt	Seleziona un giocatore.
+MID_MATCH_Profile_Select	Lista giocatori
+MID_ProfileCard_Match_NoProfile	Non possiedi carte profilo utilizzabili\nper la battaglia.
+MID_MATCH_MAP_Error	La battaglia è stata sospesa a causa\ndi un errore nei dati.
+MID_MATCH_Serious	Battaglia personalizzata
+MID_MATCH_H_Serious	Lotta in una mappa personalizzata,\ncreata collegando la mappa che\nhai pubblicato a quella di un altro\ngiocatore.
+MID_MATCH_H_Serious_Attention	Ti servono almeno 2 unità dal tuo esercito\nper partecipare a una battaglia personalizzata.
+MID_MATCH_H_Serious_OldMap	Impossibile iniziare la battaglia, poiché i dati\ndella mappa pubblicati sul server sono\nprecedenti a quelli presenti sulla console.\nSeleziona "Crea mappa" e pubblica i dati\npiù recenti per continuare.
+MID_MATCH_Serious_Help	Scegli un'azione.
+MID_MATCH_Friend_Code_Input_Serious	Inserisci ID avversario per la battaglia personalizzata.
+MID_MATCH_Battle_Start	Inizia battaglia
+MID_MATCH_H_Battle_Start	Affronta l'armata di un altro\ngiocatore usando la tua mappa.
+MID_MATCH_Battle_Win	Hai vinto!
+MID_MATCH_H_Battle_Lose	Hai perso...
+MID_MATCH_GET_PIECE	Hai ottenuto: \x0E\x01\x00\x00 frammenti di legame ×\x0E\x01\x01\x00.
+MID_MATCH_GET_GOLD	Hai ottenuto: \x0E\x01\x00\x00 \x0E\x01\x01\x00 M.
+MID_MATCH_GET_ITEM	Hai ottenuto: \x0E\x01\x00\x00 \x0E\x01\x01\x00.
+MID_MATCH_GET_ITEM_PLURAL	Hai ottenuto: \x0E\x01\x00\x00\x0E\x01\x01\x00 ×\x0E\x01\x02\x00.
+MID_MATCH_Map_EditName	Preparativi
+MID_MATCH_Map_Edit	Crea mappa
+MID_MATCH_H_Map_Edit	Crea una mappa e prepara\nuna squadra per difenderla.
+MID_MATCH_Map_Reset	Azzera mappa
+MID_MATCH_H_Map_Reset	Azzera la disposizione\ndella mappa.
+MID_MATCH_H_Map_Reset_Confirmation	Vuoi azzerare l'attuale disposizione\ndella mappa?
+MID_MATCH_Map_Save	Salva mappa
+MID_MATCH_H_Map_Save	Salva la tua mappa\npersonalizzata.
+MID_MATCH_Map_Edit_Finish	Termina
+MID_MATCH_H_Map_Edit_Finish	Termina il processo di\ncreazione della mappa.
+MID_MATCH_Map_Edit_Finish_Confirmation	Vuoi terminare la creazione della mappa?
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	Vuoi terminare la creazione della mappa senza\nsalvare?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	Termina
+MID_MATCH_Map_Edit_Finish_Confirmation_No	Continua
+MID_MATCH_Map_HealPanel_Duplicated	Puoi posizionare solo 1 suolo cura o protettivo\nalla volta.
+MID_MATCH_Map_Cannon_Duplicated	Puoi posizionare solo 1 balista, artiglieria\nmagica o cannone igneo alla volta.
+MID_MATCH_Map_Save_Error	Impossibile salvare la mappa.\n\x0E\x01\x00\x00
+MID_MATCH_Map_Save_Error_NoUnit	Schiera almeno 1 unità.
+MID_MATCH_Map_Save_Error_AllUnit	Tutte le unità sono schierate in difesa.
+MID_MATCH_Serious_Error_AllUnit	Non hai unità da schierare in una squadra\noffensiva. Seleziona "Crea mappa" e riduci\nil numero di alleati assegnati alla squadra\ndifensiva.
+MID_MATCH_Map_Save_Error_BanAreaUnit	C'è almeno un'unità in una posizione\ninaccessibile.
+MID_MATCH_Map_Save_Error_InvalidData	Salvataggio non riuscito.\nI dati potrebbero essere danneggiati.
+MID_MATCH_Map_Save_Success	Mappa salvata.
+MID_MATCH_Map_UpRoad	Vuoi pubblicare la tua mappa per usarla nelle\nbattaglie difensive? Puoi avere solo una mappa\npubblicata per account Nintendo. Le mappe\npubblicate in precedenza, incluse quelle create\ncon altri dati di salvataggio, saranno sovrascritte.
+MID_MATCH_Map_UpRoad_Yes	Pubblica
+MID_MATCH_Map_UpRoad_No	Annulla
+MID_MATCH_Map_UpRoad_Success	Pubblicazione riuscita.
+MID_MATCH_Map_UpRoad_Failure	Pubblicazione fallita.
+MID_MATCH_Unit_Duplicate	\x0E\x01\x00\x00 è già in difesa.
+MID_MATCH_Map_Edit_AI_NotMove	Attesa
+MID_MATCH_H_Map_Edit_AI_NotMove	Mantenere la posizione iniziale.
+MID_MATCH_Map_Edit_AI_Defense	Difesa
+MID_MATCH_H_Map_Edit_AI_Defense	Attaccare i nemici che si\navvicinano.
+MID_MATCH_Map_Edit_AI_Rush	Attacco
+MID_MATCH_H_Map_Edit_AI_Rush	Attaccare i nemici nel raggio\na partire dal più debole.
+MID_MATCH_Map_Edit_AI_ResponseA	Gruppo A
+MID_MATCH_H_Map_Edit_AI_ResponseA	Il gruppo A agisce quando\ni nemici entrano nel raggio.
+MID_MATCH_Map_Edit_AI_ResponseB	Gruppo B
+MID_MATCH_H_Map_Edit_AI_ResponseB	Il gruppo B agisce quando\ni nemici entrano nel raggio.
+MID_MATCH_Map_Edit_AI_ResponseC	Gruppo C
+MID_MATCH_H_Map_Edit_AI_ResponseC	Il gruppo C agisce quando\ni nemici entrano nel raggio.
+MID_MATCH_Map_Replay	Vedi risultati
+MID_MATCH_H_Map_Replay	Vedi i risultati delle battaglie\ndifensive.
+MID_MATCH_History	Una battaglia ha avuto luogo in una mappa da\nte pubblicata.\nVuoi vederne i risultati?
+MID_MATCH_NoHistory	Non ci sono state battaglie difensive nelle\nmappe che hai pubblicato.
+MID_MATCH_MockCombat	Simulazione
+MID_MATCH_H_MockCombat	Metti alla prova la tua mappa.
+MID_MATCH_Surrender	Resa
+MID_MATCH_H_Surrender	Arrenditi e torna al menu.
+MID_MATCH_Surrender_Attention	Vuoi arrenderti?
+MID_MATCH_Surrender_Yes	Arrenditi
+MID_MATCH_MyRate	Classifica
+MID_MATCH_ID	ID battaglia
+MID_MATCH_Victory	VITTORIA!
+MID_MATCH_Defeat	SCONFITTA
+MID_REPORT_TITLE	Segnalazione
+MID_REPORT_MAP_DELETE	La tua mappa è stata segnalata e, in seguito\nalla verifica, è stata cancellata.
+MID_REPORT_TITLE_HELP	Segnala una mappa con\ncontenuto non appropriato.
+MID_REPORT_NOTES	Stai segnalando una mappa perché presenta\ncontenuti che violano le linee guida relative alla\ncommunity di Nintendo.\nQuesta segnalazione verrà inviata a Nintendo e\nnon all'utente che ha pubblicato la mappa.
+MID_REPORT__CONFIRM_DIALOG	Vuoi segnalare questo contenuto?
+MID_REPORT__CONFIRM_DIALOG_YES	Segnala
+MID_REPORT_CATEGORY_SELECT	Scegli il tipo di segnalazione che vuoi inviare.
+MID_REPORT_MAP	Segnala mappa
+MID_REPORT_CATEGORY	Tipo
+MID_REPORT_REASON	Motivo
+MID_REPORT_REASON_INPUT	Inserisci il motivo della segnalazione.
+MID_REPORT_CATEGORY_PERSONAL	Violazione della privacy
+MID_REPORT_CATEGORY_CRIMINAL	Violenza/minacce fisiche
+MID_REPORT_CATEGORY_IMMORAL	Abuso/molestie/intimidazioni
+MID_REPORT_CATEGORY_HARASSMENT	Discriminazione/offese
+MID_REPORT_CATEGORY_COMMERCIAL	Pubblicità/spam
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	Sfondo sessuale
+MID_REPORT_CATEGORY_OTHER	Altri contenuti inappropriati
+MID_REPORT_RESULT	La tua segnalazione è stata inviata\ne verrà esaminata.
+MID_RELAY_Ticket	Hai ottenuto \x0E\x01\x00\x00 coupon Staffetta.
+MID_RELAY_Ticket_Stock	Coupon Staffetta:
+MID_RELAY_NewData	Nuova prova
+MID_RELAY_H_NewData	Usa un coupon per creare dati\ne iniziare una nuova prova.
+MID_RELAY_TakeOver_START_CONFIRM	Vuoi iniziare la battaglia?\nLa posizione delle unità sarà confermata.
+MID_RELAY_Unit_Select	Fai combattere \x0E\x01\x00\x00 unità. Usa "Formazione" per\nscegliere unità aggiuntive.
+MID_RELAY_Ticket_Lack	Ti serve un coupon per iniziare\nuna nuova prova.
+MID_RELAY_Unit_Lack	Non hai abbastanza unità.
+MID_RELAY_TakeOver	Subentra
+MID_RELAY_H_TakeOver	Subentra in una prova di un altro\ngiocatore continuando con i suoi\ndati.
+MID_RELAY_TakeOver_Outline	Prova
+MID_RELAY_TakeOver_Empty	Non ci sono dati disponibili.
+MID_RELAY_Joining_players	Partecipanti
+MID_RELAY_TakeOver_Help	Scegli un metodo di selezione.
+MID_RELAY_TakeOver_ID	ID subentro
+MID_RELAY_Random	Casuale
+MID_RELAY_H_Random	Subentra in una prova scelta\ncasualmente.
+MID_RELAY_ID_Search	Inserisci ID
+MID_RELAY_H_ID_Search	Inserisci un ID per subentrare in\nuna prova di un giocatore\nspecifico.
+MID_RELAY_ID_Input	Inserisci un ID subentro.
+MID_RELAY_ID_Search_Attention	Vuoi cercare questo ID subentro?\n\x0E\x01\x00\x00
+MID_RELAY_ID_Search_OK	Cerca
+MID_RELAY_Data_Error	Dati non trovati.
+MID_RELAY_ID_Search_MyMap_Error	Non puoi subentrare in una prova iniziata da te.
+MID_RELAY_ID_Search_Again_Error	Non puoi subentrare in una prova a cui hai già\npreso parte.
+MID_RELAY_ID_Search_Finish_Error	Non puoi subentrare in una prova che è finita.
+MID_RELAY_ID_Search_Other_Error	Non puoi subentrare in una prova a cui sta\ngiocando un altro giocatore. Aspetta che\nvengano caricati i risultati o che siano passate\n24 ore.
+MID_RELAY_ID_Search_Error	Non puoi subentrare in questa prova.
+MID_RELAY_ID_Search_NoData	Impossibile ottenere i dati. Potrebbero essere\nstati eliminati dopo l'ultimo aggiornamento.
+MID_RELAY_Replay	Vedi risultati
+MID_RELAY_H_Replay	Vedi i risultati delle battaglie a cui\nhai partecipato. Ottieni ricompense\ne guarda replay parziali o completi.
+MID_RELAY_Map_Select	Scegli una mappa.
+MID_RELAY_Replay_Select	Mie battaglie
+MID_RELAY_Replay_Datetime	\x0E\x01\x02\x00/\x0E\x01\x01\x00/\x0E\x01\x00\x00 \x0E\x01\x03\x00:\x0E\x01\x04\x00
+MID_RELAY_Replay_Select_Prompt	Scegli cosa rivedere.
+MID_RELAY_Reselect	È subentrato un altro giocatore.\nVerranno selezionati altri dati.
+MID_RELAY_Replay_Empty	Non ci sono dati disponibili. (I dati vengono\neliminati dopo un certo periodo di tempo.)
+MID_RELAY_Replay_NotUpdate	Questi dati non possono essere aggiornati\nperché è subentrato un altro giocatore.
+MID_RELAY_Replay_NotSeeYet	Non ci sono dati disponibili di prove Staffetta.
+MID_RELAY_Replay_Beginning_NoFinish	Vuoi rivedere un replay parziale?\n(La battaglia è in corso, ma puoi guardare\ncosa è successo finora.)
+MID_RELAY_Replay_Beginning_NoFinish_Yes	Sì
+MID_RELAY_Replay_Beginning	Vuoi vedere il replay?
+MID_RELAY_Replay_Beginning_Yes	Sì
+MID_RELAY_Replay_Beginning_No	Solo risultati
+MID_RELAY_Replay_Reward_Received	Hai già ottenuto la ricompensa per questa prova.
+MID_RELAY_UpdateContents_Attention	Imposta il profilo dei tuoi dati:\nPubblico (può subentrare chiunque)\nPrivato (serve l'ID per subentrare)
+MID_RELAY_UpdateContents_Yes	Pubblico
+MID_RELAY_UpdateContents_No	Privato
+MID_RELAY_MyMap_ID	L'ID subentro per questa prova è:\n\x0E\x01\x00\x00\nCondividilo con i giocatori a cui vuoi dare\nla possibilità di subentrare in questa prova.
+MID_RELAY_Redo	Vuoi riprovare a collegarti?
+MID_RELAY_PlayUser	Replay dei turni di \x0E\x01\x00\x00...
+MID_RELAY_UserMessage	Messaggio da \x0E\x01\x00\x00
+MID_RELAY_PlayerChange	CAMBIO GIOCATORE!
+MID_RELAY_Win	Vittoria
+MID_RELAY_Lose	Sconfitta
+MID_RELAY_FinalRecord	Risultati finali
+MID_RELAY_UpRoad	Questi dati verranno pubblicati.
+MID_RELAY_Failure	PROVA FALLITA
+MID_RELAY_OPEN_N006	Ora puoi selezionare "Vulcano" nelle prove\nStaffetta.
+MCID_N001_1	Prato verde
+MCID_N002_1	Campo di fiori
+MCID_N003_1	Cima del monte
+MCID_N004_1	Bosco innevato
+MCID_N005_1	Dune di sabbia
+MCID_N006_1	Vulcano
+MID_RELAY_Award_All	Tutti i partecipanti
+MID_RELAY_Award_Regret	Secondo posto
+MID_RELAY_Award_Count_Kill	Più uccisioni
+MID_RELAY_Award_Count_Damage	Più danni subiti
+MID_RELAY_Award_Count_Recovered	Più guarigioni effettuate
+MID_RELAY_Award_Count_Break	Più brecce
+MID_RELAY_Award_Count_Engage	Più unioni
+MID_RELAY_Award_Count_Item	Più strumenti usati
+MID_RELAY_Award_Count_Poison	Più avvelenamenti
+MID_RELAY_Award_Count_LongWalk	Più passi fatti
+MID_RELAY_Award_Count_Skill	Più abilità usate
+MID_RELAY_Award_Invisible	Zero danni subiti
+MID_RELAY_Award_Count_Critical	Più colpi tripli
+MID_RELAY_Award_Count_SpecialAttack	Più colpi efficaci
+MID_RELAY_Award_Count_EngageAttack	Più attacchi unione
+MID_RELAY_Award_Count_ChainGuard	Più parate concatenate
+MID_RELAY_Award_Count_Smash	Più schianti
+MID_RELAY_Award_Count_Adjacent	Più attacchi adiacenti
+MID_RELAY_Award_Count_Indirect	Più attacchi non adiacenti
+MID_RELAY_Award_Count_NoKill	Più attacchi senza battere il nemico
+MID_RELAY_Award_Count_ChainAttack	Più attacchi concatenati
+MID_RELAY_Award_Sabotage_Comment	Meno partecipe
+MID_RELAY_Award_MyPace	Meno passi fatti
+MID_RELAY_Award_Strike	Meno danni inflitti
+MID_RELAY_Award_Count_Standby	Più "Attendi" usati
+MID_RELAY_Award_TroubleMaker	Più guarigioni ricevute
+MID_RELAY_Award_Sabotage_Unlucky	Più abilità nemiche attivate
+MID_RELAY_Award_Kill	Asso del massacro
+MID_RELAY_Award_Damage	Superstite
+MID_RELAY_Award_Recovered	Asso delle guarigioni
+MID_RELAY_Award_Break	Asso della breccia
+MID_RELAY_Award_Engage	Asso delle unioni
+MID_RELAY_Award_Item	Asso degli strumenti
+MID_RELAY_Award_Poison	Asso del veleno
+MID_RELAY_Award_LongWalk	Maratoneta
+MID_RELAY_Award_Skill	Asso delle abilità
+MID_RELAY_Award_NoDamage	Intoccabile
+MID_RELAY_Award_Critical	Asso dei colpi tripli
+MID_RELAY_Award_SpecialAttack	Castigo
+MID_RELAY_Award_EngageAttack	Un solo cuore
+MID_RELAY_Award_ChainGuard	Asso delle parate concatenate
+MID_RELAY_Award_Smash	Asso dello schianto
+MID_RELAY_Award_Adjacent	Attaccabrighe
+MID_RELAY_Award_Indirect	Distante ma efficace
+MID_RELAY_Award_NoKill	Assistente
+MID_RELAY_Award_ChainAttack	Asso degli attacchi concatenati
+MID_RELAY_Award_Sabotage	Prudente
+MID_RELAY_Award_EnergySaving	Bradipo
+MID_RELAY_Award_Peace	Pacifista
+MID_RELAY_Award_Standby	Temporeggiante
+MID_RELAY_Award_Protected	Imprudente
+MID_RELAY_Award_SkillTarget	Bersaglio ambulante
+MID_RELAY_Stamp_Message	Messaggi per il prossimo giocatore
+MID_RELAY_Stamp_Lueur_M_0	Lascio il resto a te.
+MID_RELAY_Stamp_Lueur_F_0	Sarà un vero piacere.
+MID_RELAY_Stamp_Vandre_0	Procedete con cautela.
+MID_RELAY_Stamp_Clan_0	È stata dura, quasi svengo!
+MID_RELAY_Stamp_Fram_0	Spero in un miracolo!
+MID_RELAY_Stamp_Alfred_0	Guarda che risultati!
+MID_RELAY_Stamp_Boucheron_0	Quasi mi commuovo...
+MID_RELAY_Stamp_Etie_0	Ci siamo?
+MID_RELAY_Stamp_Celine_0	Ho bisogno della tua forza.
+MID_RELAY_Stamp_Louis_0	Ti terrò d'occhio.
+MID_RELAY_Stamp_Chloe_0	Così tante possibilità!
+MID_RELAY_Stamp_Diamand_0	Insieme ce la faremo.
+MID_RELAY_Stamp_Umber_0	Saremo delle leggende!
+MID_RELAY_Stamp_Jade_0	La situazione si fa intrigante.
+MID_RELAY_Stamp_Staluke_0	È terribile. Mi dispiace...
+MID_RELAY_Stamp_Lapis_0	È la forza che ci vuole.
+MID_RELAY_Stamp_Citrinica_0	Hai il mio pieno appoggio.
+MID_RELAY_Stamp_Ivy_0	Credo in te.
+MID_RELAY_Stamp_Zelkova_0	Cosa ne *pensi*?
+MID_RELAY_Stamp_Kagetsu_0	Conto su di te! Siamo amici!
+MID_RELAY_Stamp_Hortensia_0	Porta a casa la pelle!
+MID_RELAY_Stamp_Rosado_0	Penso di aver esagerato.
+MID_RELAY_Stamp_Goldmary_0	È dura reggere il confronto.
+MID_RELAY_Stamp_Misutira_0	Sarà una vittoria facile!
+MID_RELAY_Stamp_Merin_0	Ho i miei assi nella manica.
+MID_RELAY_Stamp_Panetone_0	A voi l'attacco, di grazia!
+MID_RELAY_Stamp_Fogato_0	Sei incredibile!
+MID_RELAY_Stamp_Pandoro_0	Auuuh!
+MID_RELAY_Stamp_Bonet_0	Sarà una vittoria gustosa.
+MID_RELAY_Stamp_Anna_0	Omaggio della casa!
+MID_RELAY_Stamp_Jean_0	Mi fido di te.
+MID_RELAY_Stamp_Yunaka_0	Yurrà! Ora tocca a voi!
+MID_RELAY_Stamp_Seadas_0	Il palcoscenico è tutto tuo.
+MID_RELAY_Stamp_Linden_0	Il mio esperimento è fallito...
+MID_RELAY_Stamp_Saphir_0	Ci servono tattiche migliori...
+MID_RELAY_Stamp_Veyre_0	Ho fatto del mio meglio.
+MID_RELAY_Stamp_Mauve_0	Scusa. Il resto è in mano tua.
+MID_RELAY_Stamp_Lumiere_0	Fai attenzione, va bene?
+MID_RELAY_Stamp_Marth_0	Unione!
+MID_RELAY_Stamp_Celica_0	Oh, odio la violenza...
+MID_RELAY_Stamp_Siglud_0	Non ho rimpianti.
+MID_RELAY_Stamp_Leaf_0	Supereremo ogni ostacolo.
+MID_RELAY_Stamp_Roy_0	Ora il gioco si fa duro.
+MID_RELAY_Stamp_Lin_0	Che il vento soffi dalla tua.
+MID_RELAY_Stamp_Eirik_0	Ti auguro buona fortuna.
+MID_RELAY_Stamp_Ike_0	Non deludere i tuoi amici.
+MID_RELAY_Stamp_Micaiah_0	È un piacere lavorare con te.
+MID_RELAY_Stamp_Lucina_0	Sfideremo la sorte!
+MID_RELAY_Stamp_Kamui_0	So che puoi farcela.
+MID_RELAY_Stamp_Byleth_0	Ricorda ciò che hai imparato.
+MID_RANKING_Title	Classifiche
+MID_H_RANKING_Title	Le classifiche per quest'area.
+MID_RANKING_First	\x0E\x01\x00\x00
+MID_RANKING_Second	\x0E\x01\x00\x00
+MID_RANKING_Third	\x0E\x01\x00\x00
+MID_RANKING_Other	\x0E\x01\x00\x00
+MID_RANKING_Fail	Impossibile recuperare i dati delle classifiche.
+MID_CHALLENGE_EXP_TITLE	ESP
+MID_CHALLENGE_MapSelect_Help	Scegli una mappa da affrontare.
+MID_CHALLENGE_MapSelect_MenuCaption	Prove
+MID_CHALLENGE_MapInfo_N_Battles	\x0E\x01\x00\x00 battaglie
+MID_CHALLENGE_MapInfo_BestRecort	Record
+MID_CHALLENGE_MapInfo_Turn	Turni
+MID_CHALLENGE_MapInfo_Materials	Materiali bonus
+MID_CHALLENGE_DifficultyMenu_Help	Imposta la difficoltà.
+MID_CHALLENGE_DifficultyMenu_Recommended	Consigliata: \x0E\x01\x00\x00
+MID_CHALLENGE_DifficultyMenu_Difficulty	Difficoltà
+MID_CHALLENGE_DifficultyMenu_Start	Combatti!
+MID_CHALLENGE_Start_CONFIRM	Vuoi usare 1 coupon per iniziare la battaglia?\nHai \x0E\x01\x00\x00 coupon.
+MID_CHALLENGE_GiveUp	Resa
+MID_CHALLENGE_H_GiveUp	Termina la prova e torna\nal menu.
+MID_CHALLENGE_GiveUp_CONFIRM	Vuoi terminare la prova e tornare al menu?\nNon riceverai i premi per il superamento della\nprova, ma otterrai esperienza per le mappe\nche hai completato.
+MID_CHALLENGE_Confirm	Vuoi iniziare "\x0E\x01\x00\x00"\nalla difficoltà \x0E\x01\x01\x00?
+MID_CHALLENGE_MAP1	Prima battaglia
+MID_CHALLENGE_MAP2	Seconda battaglia
+MID_CHALLENGE_MAP3	Battaglia finale
+MID_CHALLENGE_Get_Item	-
+MID_CHALLENGE_Get_EXP	Esp ottenuta
+MID_CHALLENGE_Join_MAP1	Partec. batt. 1
+MID_CHALLENGE_Join_MAP2	Partec. batt. 2
+MID_CHALLENGE_Join_MAP3	Partec. batt. 3
+MID_CHALLENGE_Get_SP	Manuali ottenuti
+MID_CHALLENGE_OPEN_LEVEL41	Sono ora disponibili i livelli di difficoltà dal\n41 in su per le prove Staffetta.
+MID_CHALLENGE_C001_TITLE	Prato verde
+MID_CHALLENGE_C002_TITLE	Campo di fiori
+MID_CHALLENGE_C003_TITLE	Cima del monte
+MID_CHALLENGE_C004_TITLE	Bosco innevato
+MID_CHALLENGE_C005_TITLE	Dune di sabbia
+MID_CHALLENGE_C006_TITLE	Vulcano
+MID_AMIIBO_Ticket_Music	\x0E\x08\x02\x18\x16SoundTicket Hai ottenuto un coupon musica.
+MID_AMIIBO_Ticket_Accessories	\x0E\x08\x02\x14\x12AccTicket Hai ottenuto un coupon moda.
+MID_AMIIBO_Touch_Count	Letture disponibili: \x0E\x01\x00\x00/5
+MID_AMIIBO_Touch_Interval	Potrai leggere di nuovo un amiibo tra\n\x0E\x01\x00\x00 h \x0E\x01\x01\x00 m.
+MID_AMIIBO_Touch	Leggi l'amiibo.
+MID_AMIIBO_Accessories_Attention	Non disponibile per questa unità.
+MID_AMIIBO_Trade_Ticket	Vuoi usarlo per ottenere "\x0E\x01\x00\x00"?\n(Spenderai 1 coupon. Ne hai \x0E\x01\x01\x00 in totale.)
+MID_AMIIBO_Trade_Ticket_Use	Usa coupon
+MID_AMIIBO_Trade_Ticket_Have	Coupon in possesso
+MID_AMIIBO_Trade_Music_Select	Seleziona un brano.
+MID_AMIIBO_Trade_Ticket_Music	Coupon musica
+MID_AMIIBO_Music	Musica
+MID_AMIIBO_Trade_Accessories_Select	Scegli un completo.
+MID_AMIIBO_Trade_Ticket_Accessories	Coupon moda
+MID_AMIIBO_Accessories	Moda
+MID_AMIIBO_Trade_Nothing	Niente
+MID_AMIIBO_Trade_Information	Hai ottenuto tutto ciò che era disponibile.\nI tuoi coupon verranno convertiti in frammenti\ndi legame.

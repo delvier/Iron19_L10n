@@ -1,0 +1,118 @@
+MID_ACHIEVE_RELIANCE_FIRST	Finir un dialogue de soutien avec \x0E\x01\x00\x00.
+MID_ACHIEVE_RELIANCE_B_FIRST	Atteindre le niveau de soutien B avec un allié.
+MID_ACHIEVE_RELIANCE_B_COUNT	Atteindre le niveau de soutien B avec \x0E\x01\x00\x00 alliés.
+MID_ACHIEVE_RELIANCE_A_FIRST	Atteindre le niveau de soutien A avec un allié.
+MID_ACHIEVE_RELIANCE_A_COUNT	Atteindre le niveau de soutien A avec \x0E\x01\x00\x00 alliés.
+MID_ACHIEVE_RELIANCE_ENGAGE	Voir une conversation de niveau \x0E\x08\x02\x1A\x18RelianceRing.
+MID_ACHIEVE_PLAY_TIME	Jouer \x0E\x01\x00\x00 heures.
+MID_ACHIEVE_CHAPTER_CLEAR	Terminer : « \x0E\x01\x00\x00 », « \x0E\x01\x01\x00 ».
+MID_ACHIEVE_ENCOUNT_BATTLE_FIRST	Participer à une escarmouche.
+MID_ACHIEVE_ENCOUNT_BATTLE_COUNT	Participer à \x0E\x01\x00\x00 escarmouches.
+MID_ACHIEVE_BATTLE_COUNT	Participer à \x0E\x01\x00\x00 combats individuels.
+MID_ACHIEVE_SOLDIER_DEFEAT_FIRST	Vaincre un soldat ennemi.
+MID_ACHIEVE_SOLDIER_DEFEAT_COUNT	Vaincre \x0E\x01\x00\x00 soldats ennemis.
+MID_ACHIEVE_MORPH_DEFEAT_FIRST	Vaincre une Aberration.
+MID_ACHIEVE_MORPH_DEFEAT_COUNT	Vaincre \x0E\x01\x00\x00 Aberrations.
+MID_ACHIEVE_BANDITS_DEFEAT_FIRST	Vaincre un voleur.
+MID_ACHIEVE_BANDITS_DEFEAT_COUNT	Vaincre \x0E\x01\x00\x00 voleurs.
+MID_ACHIEVE_CANE_COUNT	Utiliser des bâtons \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_SORTIE_COUNT	Déployer \x0E\x01\x00\x00 \x0E\x01\x01\x00 fois.
+MID_ACHIEVE_CRITICAL_FIRST	Porter un coup critique.
+MID_ACHIEVE_CRITICAL_COUNT	Porter un coup critique \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ENGAGE_FIRST	Fusionner avec un Emblème.
+MID_ACHIEVE_ENGAGE_COUNT	Fusionner avec un Emblème \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ENGAGEATTACK_FIRST	Utiliser une attaque de fusion.
+MID_ACHIEVE_ENGAGEATTACK_COUNT	Utiliser une attaque de fusion \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_AVOIDANCE_FIRST	Esquiver une attaque.
+MID_ACHIEVE_AVOIDANCE_COUNT	Esquiver une attaque \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_DEGENSE_FIRST	Bloquer une attaque.
+MID_ACHIEVE_DEGENSE_COUNT	Bloquer une attaque \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_CHAIN_FIRST	Utiliser une attaque enchaînée.
+MID_ACHIEVE_CHAIN_COUNT	Utiliser une attaque enchaînée \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_CHAIN_UNIT_COUNT	Réaliser une attaque enchaînée avec \x0E\x01\x00\x00 unités.
+MID_ACHIEVE_BREAK_FIRST	Briser la garde d'un ennemi.
+MID_ACHIEVE_BREAK_COUNT	Briser la garde d'ennemis \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_SMASH_FIRST	Utiliser le repoussement au combat.
+MID_ACHIEVE_SMASH_COUNT	Utiliser le repoussement \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_MINIGAME_FIRST	Participer à une activité.
+MID_ACHIEVE_MINIGAME_COUNT	Participer aux activités \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_RING_FORM_FIRST	Créer un anneau de lien.
+MID_ACHIEVE_RING_FORM_COUNT	Créer \x0E\x01\x00\x00 anneaux de lien.
+MID_ACHIEVE_RING_MIX_FIRST	Unir des anneaux de lien pour la 1re fois.
+MID_ACHIEVE_RING_MIX_COUNT	Unir des anneaux de lien \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_BONDSRING_C_COUNT	Obtenir \x0E\x01\x00\x00 anneaux de lien de rang C.
+MID_ACHIEVE_BONDSRING_B_COUNT	Obtenir \x0E\x01\x00\x00 anneaux de lien de rang B.
+MID_ACHIEVE_BONDSRING_A_COUNT	Obtenir \x0E\x01\x00\x00 anneaux de lien de rang A.
+MID_ACHIEVE_BONDSRING_S_FIRST	Obtenir un anneau de lien de rang S.
+MID_ACHIEVE_BONDSRING_S_COUNT	Obtenir \x0E\x01\x00\x00 anneaux de lien de rang S.
+MID_ACHIEVE_RING_CLEANING_FIRST	Polir un anneau\x0E\x01\x0A\x00.
+MID_ACHIEVE_RING_CLEANING_COUNT	Polir des anneaux\x0E\x01\x0B\x00 \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_INVESTMENT_FILENE	Faire un don à Firene.
+MID_ACHIEVE_INVESTMENT_BRODIA	Faire un don à Brodia.
+MID_ACHIEVE_INVESTMENT_IRCION	Faire un don à Elusia.
+MID_ACHIEVE_INVESTMENT_SOLUM	Faire un don à Solm.
+MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT	Atteindre le niveau de dons \x0E\x01\x00\x00 (Firene).
+MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT	Atteindre le niveau de dons \x0E\x01\x00\x00 (Brodia).
+MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT	Atteindre le niveau de dons \x0E\x01\x00\x00 (Elusia).
+MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT	Atteindre le niveau de dons \x0E\x01\x00\x00 (Solm).
+MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX	Atteindre partout le niveau de dons max.
+MID_ACHIEVE_INVESTMENT_MONEY_COUNT	Faire un don total de \x0E\x01\x00\x00.
+MID_ACHIEVE_COOK_FIRST	Cuisiner un plat.
+MID_ACHIEVE_COOK_COUNT	Cuisiner \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_COOK_RANK_FIRST	Préparer un repas de rang \x0E\x01\x00\x00.
+MID_ACHIEVE_COOK_RANK_COUNT	Préparer un repas de rang \x0E\x01\x00\x00 \x0E\x01\x01\x00 fois.
+MID_ACHIEVE_SLEEP_FIRST	Se faire réveiller par un allié.
+MID_ACHIEVE_SLEEP_COUNT	Se faire réveiller par un allié \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_WAKEUP_EVENT_C_COUNT	Se réveiller avec \x0E\x01\x00\x00 alliés de soutien C.
+MID_ACHIEVE_WAKEUP_EVENT_B_COUNT	Se réveiller avec \x0E\x01\x00\x00 alliés de soutien B.
+MID_ACHIEVE_WAKEUP_EVENT_A_COUNT	Se réveiller avec \x0E\x01\x00\x00 alliés de soutien A.
+MID_ACHIEVE_WAKEUP_EVENT_S	Se réveiller avec l'allié de soutien \x0E\x08\x02\x1A\x18RelianceRing.
+MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST	Affronter un allié dans l'arène.
+MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT	Affronter un allié dans l'arène \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ARENA_UNIT_WIN_FIRST	Vaincre un allié dans l'arène.
+MID_ACHIEVE_ARENA_UNIT_WIN_COUNT	Vaincre un allié dans l'arène \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST	Affronter un Emblème dans l'arène.
+MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT	Affronter un Emblème dans l'arène \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ARENA_GOD_WIN_FIRST	Vaincre un Emblème dans l'arène.
+MID_ACHIEVE_ARENA_GOD_WIN_COUNT	Vaincre un Emblème dans l'arène \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_WEAPON_BUY_FIRST	Acheter une arme.
+MID_ACHIEVE_WEAPON_BUY_COUNT	Acheter \x0E\x01\x00\x00 armes.
+MID_ACHIEVE_SWORD_BUY_COUNT	Acheter \x0E\x01\x00\x00 épées.
+MID_ACHIEVE_LANCE_BUY_COUNT	Acheter \x0E\x01\x00\x00 lances.
+MID_ACHIEVE_AXE_BUY_COUNT	Acheter \x0E\x01\x00\x00 haches.
+MID_ACHIEVE_BOW_BUY_COUNT	Acheter \x0E\x01\x00\x00 arcs.
+MID_ACHIEVE_KNIFE_BUY_COUNT	Acheter \x0E\x01\x00\x00 dagues.
+MID_ACHIEVE_MAGIC_BUY_COUNT	Acheter \x0E\x01\x00\x00 tomes.
+MID_ACHIEVE_FIST_BUY_COUNT	Acheter \x0E\x01\x00\x00 parchemins.
+MID_ACHIEVE_WEAPON_SELL_FIRST	Vendre une arme.
+MID_ACHIEVE_WEAPON_SELL_COUNT	Vendre \x0E\x01\x00\x00 armes.
+MID_ACHIEVE_ITEM_BUY_FIRST	Acheter un objet.
+MID_ACHIEVE_ITEM_BUY_COUNT	Acheter \x0E\x01\x00\x00 objets.
+MID_ACHIEVE_ROD_BUY_COUNT	Acheter \x0E\x01\x00\x00 bâtons.
+MID_ACHIEVE_ITEM_SELL_FIRST	Vendre un objet.
+MID_ACHIEVE_ITEM_SELL_COUNT	Vendre \x0E\x01\x00\x00 objets.
+MID_ACHIEVE_ACCESSORIES_BUY_FIRST	Acheter une tenue/un accessoire à la boutique.
+MID_ACHIEVE_ACCESSORIES_BUY_COUNT	Acheter \x0E\x01\x00\x00 tenues/accessoires à la boutique.
+MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST	Changer de tenue/d'accessoire.
+MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT	Changer de tenue/d'accessoire \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_WEAPON_FORGING_FIRST	Améliorer une arme.
+MID_ACHIEVE_WEAPON_FORGING_COUNT	Améliorer \x0E\x01\x00\x00 armes.
+MID_ACHIEVE_SWORD_FORGING_COUNT	Améliorer des épées \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_LANCE_FORGING_COUNT	Améliorer des lances \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_AXE_FORGING_COUNT	Améliorer des haches \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_BOW_FORGING_COUNT	Améliorer des arcs \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_KNIFE_FORGING_COUNT	Améliorer des dagues \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_MAGIC_FORGING_COUNT	Améliorer des tomes \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_FIST_FORGING_COUNT	Améliorer des parchemins \x0E\x01\x00\x00 fois.
+MID_ACHIEVE_ENGRAVE_FIRST	Graver une arme.
+MID_ACHIEVE_ENGRAVE_COUNT	Graver \x0E\x01\x00\x00 armes.
+MID_ACHIEVE_NETMATCH_FIRST	Participer à une épreuve du Multivers.
+MID_ACHIEVE_NETMATCH_COUNT	Participer à \x0E\x01\x00\x00 épreuves du Multivers.
+MID_ACHIEVE_NETMATCH_WIN_FIRST	Gagner une épreuve du Multivers.
+MID_ACHIEVE_NETMATCH_WIN_COUNT	Gagner \x0E\x01\x00\x00 épreuves du Multivers.
+MID_ACHIEVE_RELAYBATTLE_FIRST	Participer à une épreuve de Relais.
+MID_ACHIEVE_RELAYBATTLE_COUNT	Participer à \x0E\x01\x00\x00 épreuves de Relais.
+MID_ACHIEVE_RELAYBATTLE_WIN_FIRST	Gagner une épreuve de Relais.
+MID_ACHIEVE_RELAYBATTLE_WIN_COUNT	Gagner \x0E\x01\x00\x00 épreuves de Relais.
+MID_ACHIEVE_SERIESBATTLE_RANK1	Finir la carte de Tourmente \x0E\x01\x00\x00.
+MID_ACHIEVE_SERIESBATTLE_RANK	Finir la carte de Tourmente \x0E\x01\x00\x00 (diff. \x0E\x01\x01\x00).

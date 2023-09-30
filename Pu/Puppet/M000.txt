@@ -1,0 +1,32 @@
+MID_OP1_#001	
+MID_OP1_#002	
+MID_OP1_#003	
+MID_OP1_#004	
+MID_OP1_#004_2	
+MID_OP1_#005	
+MID_OP1_#006	
+MID_OP1_#007	
+MID_OP2_#001	
+MID_OP2_#002	
+MID_OP2_#003	
+MID_OP3_#001	
+MID_OP3_#002	
+MID_EV1_#001	
+MID_EV2_#001	
+MID_EV3_#001	
+MID_EV4_#001	
+MID_EV4_#002	
+MID_EV5_#001	
+MID_EV6_#001	
+MID_EV7_#001	
+MID_BT1_#001	
+MID_BT2_#001	
+MID_BT2_#002	
+MID_MOVIE1_#001	
+MID_MOVIE1_#002	
+MID_MOVIE1_#003	
+MID_ED1_#001	背景(Map_Event_M000_01)\nライト(CharaLight_M000, 0, 0, 0)\nキャラ配置(GID_M000_マルス, YOU_IN_C, [服装], Normal)\nキャラ配置(PID_デモ用_視線設定用, ME_IN_C, [服装], Normal)\nキャラ配置(PID_デモ用_視線設定用2, ME_MID_C, [服装], Normal)\n\nキャラ視線(GID_M000_マルス,PID_デモ用_視線設定用,PID_デモ用_視線設定用)\n\nキャラカメラ(CharaCam_FrontLong _Center_Mid, GID_M000_マルス, cam_anim_pan_d_slow)\nフェードイン()\nウェイト(0.8)
+MID_ED1_#002	キャラモーション再生(GID_M000_マルス, Die,, 4, 0.8)\n*\nパペット会話中断()\nウェイト(0.6)\nキャラカメラ(CharaCam_Back_Center_Bot, PID_デモ用_視線設定用, cam_anim_zoom_in_slow)\nキャラ配置調整(PID_デモ用_視線設定用, -0.02, 0.05, 0.95)\nキャラ配置調整(PID_デモ用_視線設定用2, 0, -0.35, 0)\nキャラ視線(GID_M000_マルス,PID_デモ用_視線設定用2,PID_デモ用_視線設定用2)\nキャラモーション再生(GID_M000_マルス, Normal)\nウェイト(1)
+MID_ED1_#003	*\nパペット会話中断()\nウェイト(1)
+MID_ED1_#004	
+MID_ED1_#005	\n*\nパペット会話中断()\nウェイト(1.2)\nフェードアウト()

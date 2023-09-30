@@ -1,0 +1,31 @@
+MID_MAP_HIS_PhaseBegin_Player	Spielerphase
+MID_MAP_HIS_PhaseBegin_Enemy	Gegnerphase
+MID_MAP_HIS_PhaseBegin_Ally	Verbündetenphase
+MID_MAP_HIS_Fixed	\x0E\x01\x00\x00 wartete.
+MID_MAP_HIS_Talk	\x0E\x01\x00\x00 sprach jemanden an.
+MID_MAP_HIS_Attack	\x0E\x01\x00\x00 griff an.
+MID_MAP_HIS_Rod	\x0E\x01\x00\x00 verwendete einen Stab.
+MID_MAP_HIS_EngageCharge	\x0E\x01\x00\x00 verwendete „Großer Aithir“.
+MID_MAP_HIS_Destroy	\x0E\x01\x00\x00 zerstörte etwas.
+MID_MAP_HIS_ItemUse	\x0E\x01\x00\x00 verwendete ein Item.
+MID_MAP_HIS_Trade	\x0E\x01\x00\x00 tauschte Items.
+MID_MAP_HIS_PutOff	\x0E\x01\x00\x00 warf Items weg.
+MID_MAP_HIS_Visit	\x0E\x01\x00\x00 besuchte jemanden.
+MID_MAP_HIS_Breakdown	\x0E\x01\x00\x00 besetzte etwas.
+MID_MAP_HIS_Escape	\x0E\x01\x00\x00 floh.
+MID_MAP_HIS_Door	\x0E\x01\x00\x00 öffnete eine Tür.
+MID_MAP_HIS_Torch_Off	\x0E\x01\x00\x00 löschte ein Leuchtfeuer.
+MID_MAP_HIS_Torch_On	\x0E\x01\x00\x00 entzündete ein Leuchtfeuer.
+MID_MAP_HIS_TreasureBox	\x0E\x01\x00\x00 öffnete eine Truhe.
+MID_MAP_HIS_Transporter	\x0E\x01\x00\x00 verwendete den Vorrat.
+MID_MAP_HIS_Dance	\x0E\x01\x00\x00 tanzte.
+MID_MAP_HIS_Guard	\x0E\x01\x00\x00 verwendete „Protektion“.
+MID_MAP_HIS_LucinaEngage	\x0E\x01\x00\x00 verwendete „Schildbund“.
+MID_MAP_HIS_OverlapSkill	\x0E\x01\x00\x00 nutzte eine Drachenader.
+MID_MAP_HIS_CommandSkill	\x0E\x01\x00\x00 verwendete „\x0E\x01\x01\x00“.
+MID_MAP_HIS_VisionCreate	\x0E\x01\x00\x00 rief Doppelgänger.
+MID_MAP_HIS_VisionDelete	\x0E\x01\x00\x00 verbannte Doppelgänger.
+MID_MAP_HIS_DestroyVillage	\x0E\x01\x00\x00 zerstörte ein Haus.
+MID_MAP_HIS_EngageBreak	\x0E\x01\x00\x00 verwendete „Bündnisbrecher“.
+MID_MAP_HIS_EngageAttack	\x0E\x01\x00\x00 verwendete „\x0E\x01\x01\x00“.
+MID_MAP_HIS_PickUp	\x0E\x01\x00\x00 führte eine Aktion aus.

@@ -1,0 +1,383 @@
+MID_NET_SettingOn	통신 기능을 사용하겠습니까?\n(네트워크에 접속합니다)
+MID_NET_TowerNetwork_On	다른 플레이어와 함께 게임을 플레이할 수 있습니다\n통신 기능을 사용하겠습니까?\n(네트워크에 접속합니다)
+MID_NET_RANKING_On	이 맵에서 다른 플레이어가 사용한\n유닛의 랭킹을 확인할 수 있습니다\n통신 기능을 사용하겠습니까?\n(네트워크에 접속합니다)
+MID_NET_SettingOn_Yes	사용하기
+MID_NET_Setting	환경 설정의 통신이 유효한 상태가 아닙니다
+MID_NET_Connecting	통신 중
+MID_NET_Error_TROPE	통신에 실패했습니다
+MID_NET_Connecting_Error	에러가 발생했습니다\n잠시 후에 다시 시도해 주십시오
+MID_NET_Title_Help	도전할 시련을 선택해 주십시오
+MID_NET_Notes_Terms	｢계전의 시련｣, ｢이계의 시련｣에서는\n다른 플레이어에게 유저의 닉네임이 공개됩니다\n또한, 신룡 전적 카드의 공개 설정을 ｢공개｣로\n설정하면 마이 카드가 상대에게 전송됩니다\n다른 플레이어에게 불쾌감을 주는 행위 및\n부정행위는 하지 말아 주십시오\n공유된 콘텐츠 및 게임 중의 행위에는\n｢닌텐도 어카운트 이용 약관｣이 적용됩니다\n약관에 따라, 다른 플레이어를 배려하는\n플레이를 해 주시기를 부탁드립니다
+MID_NET_Notes_Report	｢닌텐도 어카운트 이용 약관｣에 위반되는\n콘텐츠 및 행위가 발견되었을 경우에는\n서버의 데이터를 삭제하거나\n온라인 플레이의 접속을 제한할 수 있습니다\n부적절한 콘텐츠 및 행위에 대해서는\n출격 전에 한하여 ｢시스템｣에서 ｢신고｣할 수 있습니다
+MID_MATCH_Title	이계의 시련
+MID_MATCH_Help	선택한 맵이나 편집한 맵으로 다른\n플레이어의 부대와 대전하는 시련입니다\n(네트워크를 이용합니다)
+MID_MATCH_Title_Help	모드를 선택해 주십시오
+MID_RELAY_Title	계전의 시련
+MID_RELAY_Help	다른 플레이어와 협력해 하나의 맵을\n릴레이로 플레이하는 시련입니다\n플레이하려면 티켓이 필요합니다\n(네트워크를 이용합니다)
+MID_RELAY_Title_Help	시련의 시작 방법을 선택해 주십시오
+MID_CHALLENGE_Title	연전의 시련
+MID_CHALLENGE_Help	연속으로 맵을 클리어하는 시련입니다\n전투 난이도를 선택할 수 있으며 난이도가\n높을수록 더 좋은 보상을 받을 수 있습니다
+MID_CHALLENGE_Closed_Dialog	｢연전의 시련｣은 제11장을 클리어하면\n플레이할 수 있습니다
+MID_NETWORK_Map_Outline	맵 정보
+MID_NETWORK_Map_Name	지명
+MID_NETWORK_Map_Name_Content	\x0E\x01\x00\x00(\x0E\x01\x01\x00)
+MID_NETWORK_LimitTurn_Content	\x0E\x01\x00\x00턴×\x0E\x01\x01\x00명
+MID_NETWORK_Reward	보상
+MID_NETWORK_Degree	칭호
+MID_NETWORK_Clear_Reward	클리어 보상
+MID_NETWORK_Map_Select	맵 선택
+MID_NETWORK_BACK_CONFIRM	메뉴로 돌아가겠습니까?
+MID_NETWORK_BACK_CONFIRM_YES	메뉴로 돌아가기
+MID_NETWORK_H_BACK_CONFIRM	메뉴로 돌아간다
+MID_NET_Error	에러가 발생했습니다
+MID_NET_NFC_Error	amiibo를 읽어 들일 수 있는 컨트롤러와의\n통신이 끊어졌습니다
+MID_MATCH_Easy	간편 대전
+MID_MATCH_H_Easy	원하는 맵을 선택해\n다른 플레이어의 부대와 대전을 치릅니다
+MID_MATCH_Easy_TitleHelp	사용할 맵을 선택해 주십시오
+MID_V001	심록과 물의 공간
+MID_V002	수정과 화염의 공간
+MID_V003	포대와 요새의 공간
+MID_V004	장벽과 금의 공간
+MID_V005	수호신과 기둥의 공간
+MID_V006	눈덩이와 얼음의 공간
+MID_MATCH_Search	상대 검색
+MID_MATCH_Search_Help	대전 상대 선정법을 선택해 주십시오
+MID_MATCH_Random	랜덤
+MID_MATCH_H_Random	다른 플레이어의 부대가 자동으로\n선택되어 대전을 치릅니다
+MID_MATCH_Serious_H_Random	다른 플레이어의 맵이 자동으로\n선택되어 대전을 치릅니다\n(승패에 따라 등급이 변동됩니다)
+MID_MATCH_Matching	대전 상대(\x0E\x01\x00\x00)를 찾았습니다
+MID_MATCH_Matching_Empty	대전 상대를 찾지 못했습니다
+MID_MATCH_Matching_Verification	대전 상대(\x0E\x01\x00\x00)와 대전하겠습니까?
+MID_MATCH_NoData	데이터를 찾지 못했습니다
+MID_MATCH_Friend	친구
+MID_MATCH_H_Friend	친구 등록한 플레이어의 부대가 표시되며\n그중, 대전할 부대를 선택할 수 있습니다
+MID_MATCH_Serious_H_Friend	친구 등록한 플레이어의 맵이 표시되며\n그중, 대전할 맵을 선택할 수 있습니다\n(승패와 관계없이 등급이 유지됩니다)
+MID_MATCH_Friend_Select_Prompt	친구를 선택해 주십시오
+MID_MATCH_Friend_Select	친구 선택
+MID_MATCH_Friend_Corps	\x0E\x01\x00\x00
+MID_MATCH_Friend_Code	ID 입력
+MID_MATCH_H_Friend_Code	ID를 입력해 특정 플레이어의 부대와\n대전할 수 있습니다
+MID_MATCH_Serious_H_Friend_Code	ID를 입력해 특정 플레이어의 맵에서\n대전할 수 있습니다\n(승패와 관계없이 등급이 유지됩니다)
+MID_MATCH_Friend_Code_Input_Easy	간편 대전 상대의 ID를 입력해 주십시오
+MID_MATCH_Friend_ID	이 ID로 검색하겠습니까?
+MID_MATCH_Friend_ID_Search	이 ID로 검색하기
+MID_MATCH_My_ID_Attention	자신의 대전 ID는 입력할 수 없습니다
+MID_MATCH_Profile	전적 카드
+MID_MATCH_H_Profile	현재 소지하고 있는 이계의 전적 카드 목록에서\n선택할 수 있습니다
+MID_MATCH_Serious_H_Profile	현재 소지하고 있는 이계의 전적 카드 목록에서\n선택할 수 있습니다\n(승패와 관계없이 등급이 유지됩니다)
+MID_MATCH_Profile_Select_Prompt	플레이어를 선택해 주십시오
+MID_MATCH_Profile_Select	플레이어 선택
+MID_ProfileCard_Match_NoProfile	대전 가능한 전적 카드가 없습니다
+MID_MATCH_MAP_Error	다운로드한 데이터에서 에러가 검출되어\n대전을 중단했습니다
+MID_MATCH_Serious	본격 대전
+MID_MATCH_H_Serious	맵을 편집해 공개하거나\n자신의 맵을 다른 플레이어가 공개한\n맵과 연결해서 대전을 치릅니다
+MID_MATCH_H_Serious_Attention	본격 대전을 플레이하기 위해서는\n아군 유닛이 2명 이상 필요합니다
+MID_MATCH_H_Serious_OldMap	현재 서버에 업로드되어 있는 맵 데이터는\n최신 데이터가 아니므로 대전을 시작할 수 없습니다\n｢맵 편집｣에서 본체의 최신 맵 데이터를 업로드해 주십시오
+MID_MATCH_Serious_Help	행동을 선택해 주십시오
+MID_MATCH_Friend_Code_Input_Serious	본격 대전 상대의 ID를 입력해 주십시오
+MID_MATCH_Battle_Start	대전 개시
+MID_MATCH_H_Battle_Start	편집한 맵을 사용해\n다른 플레이어와 대전을 치릅니다
+MID_MATCH_Battle_Win	당신의 승리입니다!
+MID_MATCH_H_Battle_Lose	당신의 패배입니다…
+MID_MATCH_GET_PIECE	\x0E\x01\x00\x00인연의 조각을 \x0E\x01\x01\x00개 획득했습니다
+MID_MATCH_GET_GOLD	\x0E\x01\x00\x00\x0E\x01\x01\x00G를 획득했습니다
+MID_MATCH_GET_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 획득했습니다
+MID_MATCH_GET_ITEM_PLURAL	\x0E\x01\x00\x00\x0E\x01\x01\x00×\x0E\x01\x02\x00\x0E\x0A\x04\x08\x02을\x02를 획득했습니다
+MID_MATCH_Map_EditName	방어 준비
+MID_MATCH_Map_Edit	맵 편집
+MID_MATCH_H_Map_Edit	대전에 사용할 맵을 만들어서\n방어 부대를 설정합니다
+MID_MATCH_Map_Reset	맵 리셋
+MID_MATCH_H_Map_Reset	지금까지 배치한 정보를 리셋한다
+MID_MATCH_H_Map_Reset_Confirmation	지금까지 배치한 정보를 리셋하겠습니까?
+MID_MATCH_Map_Save	맵 저장
+MID_MATCH_H_Map_Save	편집한 맵을 저장한다
+MID_MATCH_Map_Edit_Finish	편집 종료
+MID_MATCH_H_Map_Edit_Finish	맵 편집을 종료한다
+MID_MATCH_Map_Edit_Finish_Confirmation	이대로 편집을 종료하겠습니까?
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	맵을 저장하지 않고 편집을 종료하겠습니까?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	종료하기
+MID_MATCH_Map_Edit_Finish_Confirmation_No	계속하기
+MID_MATCH_Map_HealPanel_Duplicated	회복 바닥과 방어 바닥은\n종류 상관없이 1개만 설치할 수 있습니다
+MID_MATCH_Map_Cannon_Duplicated	활 포대, 마법 포대, 화염 포대는\n종류 상관없이 1개만 설치할 수 있습니다
+MID_MATCH_Map_Save_Error	편집한 맵을 저장할 수 없습니다\n\x0E\x01\x00\x00
+MID_MATCH_Map_Save_Error_NoUnit	최소 1명을 출격 유닛으로 배치해 주십시오
+MID_MATCH_Map_Save_Error_AllUnit	모든 유닛이 방어전에 배치되어 있어\n출격할 수 있는 유닛이 없습니다
+MID_MATCH_Serious_Error_AllUnit	공격 부대에 편성할 수 있는 아군이 없습니다\n맵 편집으로 방어 부대에 편성한\n아군의 인원수를 줄여 주십시오
+MID_MATCH_Map_Save_Error_BanAreaUnit	도달할 수 없는 곳에 유닛이 배치되어 있습니다
+MID_MATCH_Map_Save_Error_InvalidData	비정상적인 데이터일 가능성이 있어\n저장하지 못했습니다
+MID_MATCH_Map_Save_Success	편집한 맵을 저장했습니다
+MID_MATCH_Map_UpRoad	이 맵을 다른 플레이어에게 공개하여\n방어전에 사용하기 위해 서버에 업로드하겠습니까?\n\n(이미 업로드한 맵이 있을 경우에는 덮어쓰게 됩니다)\n(다수의 저장 데이터를 사용하고 있는 경우에도\n 서버에 업로드할 수 있는 맵은\n 닌텐도 어카운트당 하나입니다)
+MID_MATCH_Map_UpRoad_Yes	업로드하기
+MID_MATCH_Map_UpRoad_No	그만두기
+MID_MATCH_Map_UpRoad_Success	업로드를 성공했습니다
+MID_MATCH_Map_UpRoad_Failure	업로드를 실패했습니다
+MID_MATCH_Unit_Duplicate	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02은\x02는 방어전에 배치되어 있습니다
+MID_MATCH_Map_Edit_AI_NotMove	대기 전술
+MID_MATCH_H_Map_Edit_AI_NotMove	초기 위치에서 움직이지 않는다
+MID_MATCH_Map_Edit_AI_Defense	방어 전술
+MID_MATCH_H_Map_Edit_AI_Defense	공격 범위에 들어온 적과 싸운다
+MID_MATCH_Map_Edit_AI_Rush	돌격 전술
+MID_MATCH_H_Map_Edit_AI_Rush	돌격하여 범위 내의 약한 적부터 공격
+MID_MATCH_Map_Edit_AI_ResponseA	연계 전술 A
+MID_MATCH_H_Map_Edit_AI_ResponseA	집단 A의 공격 범위에 적이 들어오면 행동
+MID_MATCH_Map_Edit_AI_ResponseB	연계 전술 B
+MID_MATCH_H_Map_Edit_AI_ResponseB	집단 B의 공격 범위에 적이 들어오면 행동
+MID_MATCH_Map_Edit_AI_ResponseC	연계 전술 C
+MID_MATCH_H_Map_Edit_AI_ResponseC	집단 C의 공격 범위에 적이 들어오면 행동
+MID_MATCH_Map_Replay	결과 확인
+MID_MATCH_H_Map_Replay	방어전 결과를 확인하거나\n리플레이를 볼 수 있습니다
+MID_MATCH_History	당신이 공개한 맵이 공격받아 방어전이 치러졌습니다\n방어전의 리플레이와 결과를 확인하겠습니까?
+MID_MATCH_NoHistory	당신이 공개한 맵에서 치러진 방어전은 없습니다
+MID_MATCH_MockCombat	모의전
+MID_MATCH_H_MockCombat	자신이 편집한 맵을 테스트 플레이해\n내용을 확인할 수 있습니다
+MID_MATCH_Surrender	항복
+MID_MATCH_H_Surrender	항복하고 메뉴로 돌아간다
+MID_MATCH_Surrender_Attention	항복하겠습니까?\n(패배 처리됩니다)
+MID_MATCH_Surrender_Yes	항복하기
+MID_MATCH_MyRate	자신의 등급
+MID_MATCH_ID	대전 ID
+MID_MATCH_Victory	VICTORY!
+MID_MATCH_Defeat	DEFEAT
+MID_REPORT_TITLE	신고
+MID_REPORT_MAP_DELETE	업로드한 맵이\n신고를 받아 삭제되었습니다
+MID_REPORT_TITLE_HELP	부적절한 맵을 신고한다
+MID_REPORT_NOTES	｢닌텐도 어카운트 이용 약관｣에\n위반하는 내용을 포함한 맵을 신고합니다\n\n이 신고는 맵을 공개한 사람이 아닌 닌텐도로 송신됩니다
+MID_REPORT__CONFIRM_DIALOG	이 내용으로 신고하겠습니까?
+MID_REPORT__CONFIRM_DIALOG_YES	신고하기
+MID_REPORT_CATEGORY_SELECT	신고 종류를 선택해 주십시오
+MID_REPORT_MAP	신고할 맵
+MID_REPORT_CATEGORY	신고 종류
+MID_REPORT_REASON	신고 이유
+MID_REPORT_REASON_INPUT	신고 이유를 입력해 주십시오
+MID_REPORT_CATEGORY_PERSONAL	개인 정보 요구 및 만남 요청
+MID_REPORT_CATEGORY_CRIMINAL	폭력적인 내용
+MID_REPORT_CATEGORY_IMMORAL	미풍양속을 해치는 내용
+MID_REPORT_CATEGORY_HARASSMENT	타인에 대한 괴롭힘, 욕설
+MID_REPORT_CATEGORY_COMMERCIAL	영리 선전 목적
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	외설적인 내용
+MID_REPORT_CATEGORY_OTHER	그 밖의 부적절한 내용
+MID_REPORT_RESULT	신고가 완료되었습니다\n신고 내용은 확인될 예정입니다
+MID_RELAY_Ticket	｢계전 개시 티켓｣을 \x0E\x01\x00\x00장 획득했습니다
+MID_RELAY_Ticket_Stock	계전 개시 티켓
+MID_RELAY_NewData	새로 시작
+MID_RELAY_H_NewData	티켓으로 새로운 데이터를 작성해\n시련을 처음부터 시작합니다
+MID_RELAY_TakeOver_START_CONFIRM	전투를 개시하겠습니까?\n(아군 배치도 결정됩니다)
+MID_RELAY_Unit_Select	출격 유닛이 \x0E\x01\x00\x00명이 되도록 편성해 주십시오\n(｢유닛 편성｣에서 당신의 유닛을\n 추가 선택하여 출격시킬 수 있습니다)
+MID_RELAY_Ticket_Lack	티켓이 없어 새로 시작할 수 없습니다
+MID_RELAY_Unit_Lack	유닛 수가 부족해 플레이할 수 없습니다
+MID_RELAY_TakeOver	계승하기
+MID_RELAY_H_TakeOver	누군가의 데이터를 계승해\n시련을 도중부터 플레이합니다
+MID_RELAY_TakeOver_Outline	계승 내용
+MID_RELAY_TakeOver_Empty	계승할 데이터가 없습니다
+MID_RELAY_Joining_players	참가 플레이어
+MID_RELAY_TakeOver_Help	데이터 검색 방법을 선택해 주십시오
+MID_RELAY_TakeOver_ID	계승 ID
+MID_RELAY_Random	랜덤
+MID_RELAY_H_Random	자동으로 선택된 다른 플레이어의\n데이터를 계승해 플레이합니다
+MID_RELAY_ID_Search	ID 입력
+MID_RELAY_H_ID_Search	ID를 입력한 특정 플레이어의\n데이터를 계승해 플레이합니다
+MID_RELAY_ID_Input	계승 ID를 입력해 주십시오
+MID_RELAY_ID_Search_Attention	다음 계승 ID로 검색하겠습니까?\n｢\x0E\x01\x00\x00｣
+MID_RELAY_ID_Search_OK	검색하기
+MID_RELAY_Data_Error	데이터를 찾지 못했습니다
+MID_RELAY_ID_Search_MyMap_Error	자신이 시작한 맵은 계승할 수 없습니다
+MID_RELAY_ID_Search_Again_Error	이미 플레이했기 때문에 계승할 수 없습니다
+MID_RELAY_ID_Search_Finish_Error	이미 종료됐기 때문에 계승할 수 없습니다
+MID_RELAY_ID_Search_Other_Error	다른 플레이어가 플레이 중이므로 계승할 수 없습니다\n(플레이 결과가 업로드되거나\n 24시간이 경과하면 계승할 수 있게 됩니다)
+MID_RELAY_ID_Search_Error	그 데이터는 계승할 수 없습니다
+MID_RELAY_ID_Search_NoData	데이터 취득에 실패했습니다\n최종 데이터 갱신으로부터 일정 시간이 경과해\n데이터가 삭제되었을 가능성이 있습니다
+MID_RELAY_Replay	결과 확인
+MID_RELAY_H_Replay	참가한 데이터의 플레이 결과를 확인해\n보상 획득, 리플레이 시청이 가능합니다\n(진행 중일 때는 일부만 볼 수 있습니다)
+MID_RELAY_Map_Select	도전할 맵을 선택해 주십시오
+MID_RELAY_Replay_Select	참가한 전투
+MID_RELAY_Replay_Datetime	\x0E\x01\x00\x00/\x0E\x01\x01\x00/\x0E\x01\x02\x00 \x0E\x01\x03\x00:\x0E\x01\x04\x00
+MID_RELAY_Replay_Select_Prompt	확인하고 싶은 데이터를 선택해 주십시오
+MID_RELAY_Reselect	다른 플레이어가 계승해 버렸으므로\n다른 데이터를 재선택합니다
+MID_RELAY_Replay_Empty	리플레이를 볼 수 있는 데이터가 없습니다\n(일정 시간이 경과한 데이터는 삭제됩니다)
+MID_RELAY_Replay_NotUpdate	다른 플레이어의 플레이로 갱신되어 있어\n갱신할 수 없었습니다
+MID_RELAY_Replay_NotSeeYet	참가한 계전의 시련의 데이터가 없습니다
+MID_RELAY_Replay_Beginning_NoFinish	현재 시점까지의 리플레이를 확인하겠습니까?\n(결과가 확정되지 않아 도중에 종료됩니다)
+MID_RELAY_Replay_Beginning_NoFinish_Yes	확인
+MID_RELAY_Replay_Beginning	리플레이를 확인하겠습니까?
+MID_RELAY_Replay_Beginning_Yes	확인
+MID_RELAY_Replay_Beginning_No	결과만 확인
+MID_RELAY_Replay_Reward_Received	이 계전의 보상은 이미 획득했습니다
+MID_RELAY_UpdateContents_Attention	플레이한 데이터의 공개 설정을 해 주십시오\n｢공개｣ 누구나 이 데이터를 계승할 수 있습니다\n｢비공개｣ ID를 입력해야 계승할 수 있습니다
+MID_RELAY_UpdateContents_Yes	데이터 공개
+MID_RELAY_UpdateContents_No	데이터 비공개
+MID_RELAY_MyMap_ID	｢\x0E\x01\x00\x00｣\n이 데이터의 계승 ID입니다\n특정 플레이어가 계승하길 바라는 경우에는\n이 ID를 알려 주십시오
+MID_RELAY_Redo	통신 처리를 다시 하겠습니까?
+MID_RELAY_PlayUser	\x0E\x01\x00\x00 님이 플레이 중…
+MID_RELAY_UserMessage	\x0E\x01\x00\x00 님으로부터의 메시지
+MID_RELAY_PlayerChange	PLAYER CHANGE!!
+MID_RELAY_Win	승리
+MID_RELAY_Lose	패배
+MID_RELAY_FinalRecord	최종 결과
+MID_RELAY_UpRoad	이 정보를 업로드합니다
+MID_RELAY_Failure	TRIAL FAILURE
+MID_RELAY_OPEN_N006	계전의 시련에서\n｢용암 지대｣를 선택할 수 있게 되었습니다
+MCID_N001_1	초원 지대
+MCID_N002_1	화원 지대
+MCID_N003_1	산맥 지대
+MCID_N004_1	설림 지대
+MCID_N005_1	사막 지대
+MCID_N006_1	용암 지대
+MID_RELAY_Award_All	참가자 전원
+MID_RELAY_Award_Regret	장려상
+MID_RELAY_Award_Count_Kill	가장 많이 적을 격파했다
+MID_RELAY_Award_Count_Damage	가장 많이 대미지를 받았다
+MID_RELAY_Award_Count_Recovered	가장 많이 아군을 회복시켰다
+MID_RELAY_Award_Count_Break	가장 많이 적을 ｢브레이크｣시켰다
+MID_RELAY_Award_Count_Engage	가장 많이 ｢인게이지｣를 했다
+MID_RELAY_Award_Count_Item	가장 많이 도구를 사용했다
+MID_RELAY_Award_Count_Poison	가장 많이 적에게 독을 걸었다
+MID_RELAY_Award_Count_LongWalk	가장 먼 거리를 이동했다
+MID_RELAY_Award_Count_Skill	가장 많이 스킬을 발동했다
+MID_RELAY_Award_Invisible	한 번도 대미지를 받지 않았다
+MID_RELAY_Award_Count_Critical	가장 많이 ｢필살의 일격｣을 발동했다
+MID_RELAY_Award_Count_SpecialAttack	가장 많이 ｢특효｣를 발생시켰다
+MID_RELAY_Award_Count_EngageAttack	가장 많이 ｢인게이지 기술｣을 발동했다
+MID_RELAY_Award_Count_ChainGuard	가장 많이 ｢체인 가드｣를 발동했다
+MID_RELAY_Award_Count_Smash	가장 많이 ｢스매시｣를 발동했다
+MID_RELAY_Award_Count_Adjacent	가장 많이 적에게 근접 공격을 시도했다
+MID_RELAY_Award_Count_Indirect	가장 많이 적에게 간접 공격을 시도했다
+MID_RELAY_Award_Count_NoKill	격파는 적지만, 가장 많이 적을 공격했다
+MID_RELAY_Award_Count_ChainAttack	가장 많이 ｢체인 어택｣을 발동했다
+MID_RELAY_Award_Sabotage_Comment	불필요한 행동을 거의 하지 않았다
+MID_RELAY_Award_MyPace	이동한 거리가 가장 적다
+MID_RELAY_Award_Strike	적에게 준 대미지가 가장 적다
+MID_RELAY_Award_Count_Standby	가장 많이 ｢대기｣를 선택했다
+MID_RELAY_Award_TroubleMaker	가장 많이 아군에게 회복받았다
+MID_RELAY_Award_Sabotage_Unlucky	가장 많이 적의 ｢스킬｣ 발동 대상이 되었다
+MID_RELAY_Award_Kill	슬레이어
+MID_RELAY_Award_Damage	서바이버
+MID_RELAY_Award_Recovered	힐 마스터
+MID_RELAY_Award_Break	브레이크 마스터
+MID_RELAY_Award_Engage	인게이지 마스터
+MID_RELAY_Award_Item	아이템 마스터
+MID_RELAY_Award_Poison	포이즌 마스터
+MID_RELAY_Award_LongWalk	러너
+MID_RELAY_Award_Skill	스킬 마스터
+MID_RELAY_Award_NoDamage	인비저블
+MID_RELAY_Award_Critical	크리티컬 마스터
+MID_RELAY_Award_SpecialAttack	위크 헌터
+MID_RELAY_Award_EngageAttack	원 하트
+MID_RELAY_Award_ChainGuard	가디언
+MID_RELAY_Award_Smash	스매셔
+MID_RELAY_Award_Adjacent	어그레시브
+MID_RELAY_Award_Indirect	엘리건트
+MID_RELAY_Award_NoKill	어시스트 마스터
+MID_RELAY_Award_ChainAttack	체인 어태커
+MID_RELAY_Award_Sabotage	파워 세이브
+MID_RELAY_Award_EnergySaving	마이 페이스
+MID_RELAY_Award_Peace	피스풀
+MID_RELAY_Award_Standby	원더러
+MID_RELAY_Award_Protected	이모틀
+MID_RELAY_Award_SkillTarget	언럭키
+MID_RELAY_Stamp_Message	다음 플레이어에게 남길 메시지
+MID_RELAY_Stamp_Lueur_M_0	뒤를 부탁드립니다
+MID_RELAY_Stamp_Lueur_F_0	함께 싸울 수 있어서 기쁘네요
+MID_RELAY_Stamp_Vandre_0	부디, 신중하게 진군하시길
+MID_RELAY_Stamp_Clan_0	어려워서 기절할 거 같아요…
+MID_RELAY_Stamp_Fram_0	찬란한 위업을 기대할게요!
+MID_RELAY_Stamp_Alfred_0	단련의 성과를 보여 줄 때군!
+MID_RELAY_Stamp_Boucheron_0	눈물이 다 나네…
+MID_RELAY_Stamp_Etie_0	함께 극복하죠!
+MID_RELAY_Stamp_Celine_0	당신의 힘이 필요해
+MID_RELAY_Stamp_Louis_0	계속 지켜보고 있겠습니다
+MID_RELAY_Stamp_Chloe_0	어떤 조합으로 갈 거야?
+MID_RELAY_Stamp_Diamand_0	힘을 합쳐서 돌파하자
+MID_RELAY_Stamp_Umber_0	우리가 전설이 되는 거야!
+MID_RELAY_Stamp_Jade_0	…재미있을 것 같은데
+MID_RELAY_Stamp_Staluke_0	이럴 수가… 죄송합니다, 사라질게요
+MID_RELAY_Stamp_Lapis_0	힘으로 단번에 나아가죠!
+MID_RELAY_Stamp_Citrinica_0	성대하게 응원할게
+MID_RELAY_Stamp_Ivy_0	당신이라면 할 수 있어…
+MID_RELAY_Stamp_Zelkova_0	｢이걸｣ 어떻게 ｢풀 셈이지｣?
+MID_RELAY_Stamp_Kagetsu_0	오늘부터 친구이외다! 잘 부탁하겠소
+MID_RELAY_Stamp_Hortensia_0	무사히 돌아와야 해!
+MID_RELAY_Stamp_Rosado_0	아, 저질러 버렸나~
+MID_RELAY_Stamp_Goldmary_0	훌륭한 지휘를 선보여서 죄송해요…
+MID_RELAY_Stamp_Misutira_0	우리한테 이 정돈 간단하지!
+MID_RELAY_Stamp_Merin_0	멋진 활약에 취해도 돼
+MID_RELAY_Stamp_Panetone_0	쳐들어갈 때입니다예요
+MID_RELAY_Stamp_Fogato_0	네가 정말 좋아!
+MID_RELAY_Stamp_Pandoro_0	예이~~~~!
+MID_RELAY_Stamp_Bonet_0	먹음직스럽군…
+MID_RELAY_Stamp_Anna_0	서비스해 버렸네!
+MID_RELAY_Stamp_Jean_0	잘 부탁합니더
+MID_RELAY_Stamp_Yunaka_0	제가 추천하니, 잘 부탁드립니다요삐!
+MID_RELAY_Stamp_Seadas_0	여기서부턴 네 무대야
+MID_RELAY_Stamp_Linden_0	실험이 실패했구먼!!
+MID_RELAY_Stamp_Saphir_0	편성에 실패했나
+MID_RELAY_Stamp_Veyre_0	나, 열심히 했어
+MID_RELAY_Stamp_Mauve_0	미안하다… 뒷일은 부탁하지
+MID_RELAY_Stamp_Lumiere_0	조심해서 다녀오렴
+MID_RELAY_Stamp_Marth_0	인게이지해 줘!
+MID_RELAY_Stamp_Celica_0	싸움은 좋아하지 않지만…
+MID_RELAY_Stamp_Siglud_0	이 지휘에 후회는 없다
+MID_RELAY_Stamp_Leaf_0	어떤 난관도 극복할 수 있을 거야
+MID_RELAY_Stamp_Roy_0	진정한 싸움은 지금부터야
+MID_RELAY_Stamp_Lin_0	좋은 바람이 불어오길
+MID_RELAY_Stamp_Eirik_0	무운을 빌겠습니다
+MID_RELAY_Stamp_Ike_0	그 누구도 죽게 두지 마라!
+MID_RELAY_Stamp_Micaiah_0	너와 협력할 수 있어서 기뻐
+MID_RELAY_Stamp_Lucina_0	운명을 바꿔 주세요!
+MID_RELAY_Stamp_Kamui_0	당신을 믿고 있습니다
+MID_RELAY_Stamp_Byleth_0	배운 것들을 살리는 거다
+MID_RANKING_Title	출격 랭킹
+MID_H_RANKING_Title	이 맵의 출격 랭킹을 확인한다
+MID_RANKING_First	\x0E\x01\x00\x00위
+MID_RANKING_Second	\x0E\x01\x00\x00위
+MID_RANKING_Third	\x0E\x01\x00\x00위
+MID_RANKING_Other	\x0E\x01\x00\x00위
+MID_RANKING_Fail	랭킹 데이터를 올바르게 취득하지 못했습니다
+MID_CHALLENGE_EXP_TITLE	참가 경험치
+MID_CHALLENGE_MapSelect_Help	도전할 연전 맵을 선택해 주십시오
+MID_CHALLENGE_MapSelect_MenuCaption	시련 종류
+MID_CHALLENGE_MapInfo_N_Battles	\x0E\x01\x00\x00연전
+MID_CHALLENGE_MapInfo_BestRecort	최고 클리어 기록
+MID_CHALLENGE_MapInfo_Turn	턴
+MID_CHALLENGE_MapInfo_Materials	획득하기 쉬운 소재
+MID_CHALLENGE_DifficultyMenu_Help	도전할 난이도를 선택해 주십시오
+MID_CHALLENGE_DifficultyMenu_Recommended	추천 난이도: \x0E\x01\x00\x00
+MID_CHALLENGE_DifficultyMenu_Difficulty	난이도
+MID_CHALLENGE_DifficultyMenu_Start	전투 개시
+MID_CHALLENGE_Start_CONFIRM	전투를 개시하겠습니까?\n(티켓을 1장 소비합니다. 현재 보유 수: \x0E\x01\x00\x00)
+MID_CHALLENGE_GiveUp	포기하기
+MID_CHALLENGE_H_GiveUp	시련을 종료하고 메뉴로 돌아간다
+MID_CHALLENGE_GiveUp_CONFIRM	연전의 시련을 종료하고 메뉴로 돌아가겠습니까?\n(패배 처리되어 클리어 보상은 받을 수 없습니다만\n 맵의 클리어 수에 따른 경험치를 받을 수 있습니다)
+MID_CHALLENGE_Confirm	｢\x0E\x01\x00\x00｣ 맵을\n｢\x0E\x01\x01\x00 난이도｣로 시작하겠습니까?
+MID_CHALLENGE_MAP1	1회전
+MID_CHALLENGE_MAP2	2회전
+MID_CHALLENGE_MAP3	최종전
+MID_CHALLENGE_Get_Item	~
+MID_CHALLENGE_Get_EXP	참가 경험치
+MID_CHALLENGE_Join_MAP1	1전 참가
+MID_CHALLENGE_Join_MAP2	2전 참가
+MID_CHALLENGE_Join_MAP3	3전 참가
+MID_CHALLENGE_Get_SP	스킬의 책 획득 수
+MID_CHALLENGE_OPEN_LEVEL41	연전의 시련의\n난이도 41 이상이 개방되었습니다
+MID_CHALLENGE_C001_TITLE	초원의 연전
+MID_CHALLENGE_C002_TITLE	화원의 연전
+MID_CHALLENGE_C003_TITLE	산맥의 연전
+MID_CHALLENGE_C004_TITLE	설림의 연전
+MID_CHALLENGE_C005_TITLE	사막의 연전
+MID_CHALLENGE_C006_TITLE	용암의 연전
+MID_AMIIBO_Ticket_Music	\x0E\x08\x02\x18\x16SoundTicket｢음악 교환 티켓｣을 획득했습니다
+MID_AMIIBO_Ticket_Accessories	\x0E\x08\x02\x14\x12AccTicket｢의상 교환 티켓｣을 획득했습니다
+MID_AMIIBO_Touch_Count	읽어 들이기 가능 횟수 \x0E\x01\x00\x00/5
+MID_AMIIBO_Touch_Interval	앞으로 \x0E\x01\x00\x00시간 \x0E\x01\x01\x00분 경과 후 회복
+MID_AMIIBO_Touch	amiibo를 터치해 주십시오
+MID_AMIIBO_Accessories_Attention	사용 불가: 유닛 제한
+MID_AMIIBO_Trade_Ticket	｢\x0E\x01\x00\x00｣\n위 품목을 티켓 1장과 교환하겠습니까?\n(현재 티켓 소지 수: \x0E\x01\x01\x00)
+MID_AMIIBO_Trade_Ticket_Use	소비 티켓
+MID_AMIIBO_Trade_Ticket_Have	티켓 소지 수
+MID_AMIIBO_Trade_Music_Select	음악을 선택해 주십시오
+MID_AMIIBO_Trade_Ticket_Music	음악 교환 티켓
+MID_AMIIBO_Music	음악
+MID_AMIIBO_Trade_Accessories_Select	의상을 선택해 주십시오
+MID_AMIIBO_Trade_Ticket_Accessories	의상 교환 티켓
+MID_AMIIBO_Accessories	의상
+MID_AMIIBO_Trade_Nothing	아무것도 없습니다
+MID_AMIIBO_Trade_Information	모든 \x0E\x01\x00\x00의 교환이 완료되어\n티켓을 인연의 조각으로 교환했습니다

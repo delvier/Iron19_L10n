@@ -1,0 +1,207 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEccoci finalmente al castello!\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08セリーヌ\nÈ stranamente tranquillo... dove sono le\nguardie? E dove sono finiti i soldati elusiani?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\nHai detto che stavano marciando verso\nil castello quando te ne sei andata.\x0E\x04\x02\x00
+MID_OP1_#004	Ma, probabilmente, ora sono proprio dentro\nal castello.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08セリーヌ\nOh, no... E gli abitanti del borgo? E nostra\nmadre?!\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nPresto!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x00\x06\x04PP\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x021\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x02\x06\x04イヴ\n...\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x18\x16M005_Irc_ボス\nBeh, reginetta? Abbiamo conquistato il castello!\nOra vuoi dirmi dov'è nascosto l'anello?\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x06\x04イヴ\nChissà...\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x18\x16M005_Irc_ボス\nÈ dentro al castello? O fuori?\nCoraggio, te lo sto chiedendo gentilmente.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x06\x04イヴ\nNon sono avvezza a parlare con disgustose\ncarogne come voi.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x18\x16M005_Irc_ボス\nEhi, bada a come parli! Pensi che non ho\nil coraggio di ucciderti?!\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\nStiamo calmi.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x18\x16M005_Irc_ボス\nLady Zephia!\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x08\x06セピア\nSua Maestà non ci sarebbe di alcun aiuto da\nmorta. Ma ho una bella notizia.\x0E\x04\x02\x00
+MID_OP2_#010	Uno dei nostri soldati ha visto la principessa\nfuggire prima del nostro arrivo. Strano, eh?\x0E\x04\x02\x00
+MID_OP2_#011	Per caso avete dato l'anello a vostra figlia\naffinché lo portasse al sicuro?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x06\x04イヴ\n...\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x08\x06セピア\nMi mettete in difficoltà. Non ho alcuna voglia\ndi ricorrere alla violenza.\x0E\x04\x02\x00
+MID_OP2_#014	Ma non mi lasciate altra scelta. Se non parlate,\nuccideremo ogni singolo abitante del castello.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x06\x04イヴ\nNo, ti prego!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nMadre!\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0A\x08セリーヌ\nMadre, siamo qui!\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x02\x06\x04イヴ\nAlfred! Céline!\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x00\x0C\x06セピア\x024\n\x0E\x03\x02\x08\x06セピア\nMa guarda un po'... i bambini sono a casa.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x01\x06\x04イヴ\n\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIntrusi elusiani! Giù le mani da mia madre!\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0A\x04イヴ\x022\n\x0E\x03\x00\x0C\x06セピア\x024\n\x0E\x03\x02\x08\x06セピア\nEheh... E chi lo dice, tu?\x0E\x04\x02\x00
+MID_OP3_#007	Sono contenta che siate qui, così possiamo\nverificare se la principessa è in possesso\ndell'anello.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x06\x04イヴ\nNo! Ti prego, lascia stare i miei figli!\x0E\x04\x00\x00
+MID_OP3_#009	\x0E\x03\x02\x08\x06セピア\nAllora dovrete dirmi dove si trova l'anello.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x06\x04イヴ\nMa...\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x08\x06セピア\nCapisco. Ce l'ha la piccola Céline, o sbaglio?\x0E\x04\x02\x00
+MID_OP3_#012	Non ci resta che farla fuori... insieme a suo\nfratello.\x0E\x04\x02\x00
+MID_OP3_#013	Portate via Sua Maestà. Continueremo dopo\nil nostro discorso, se necessario.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x06\x04イヴ\nLasciatemi!\x0E\x04\x02\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nMadre!\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLasciala stare!\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nPer carità, basta con i drammi.\x0E\x04\x02\x00
+MID_OP4_#004	Un momento, ma io ti conosco...\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP4_#006	\x0E\x03\x02\x08\x06セピア\nNo, non può essere.\x0E\x04\x02\x00
+MID_OP4_#007	Chi diavolo sei?\x0E\x04\x00\x00
+MID_OP4_#008	\x0E\x03\x02\x0A\x08リュール\nSono il Drago Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x02\x08\x06セピア\nMenzogne. Non esistono altri Draghi Divini\noltre a Lumera.\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x03\x02\x0E\x0Cアルフレッド\nCosa vuoi saperne tu? Il Drago Divino ha\ndormito per mille anni.\x0E\x04\x00\x00
+MID_OP4_#011	\x0E\x03\x02\x08\x06セピア\nSul serio? E così quella donna ha dato alla luce\n\x0E\x0A\x00*\x12un figlio\x14una figlia?\x0E\x04\x02\x00
+MID_OP4_#012	Mpf... allora forse puoi dirmi cosa è successo\nalla mia cara Lumera.\x0E\x04\x02\x00
+MID_OP4_#013	Ero così preoccupata per lei dopo quella\nbattaglia al castello di Lythos.\x0E\x04\x00\x00
+MID_OP4_#014	\x0E\x03\x02\x0A\x08リュール\nCome fai a sapere della battaglia?\x0E\x04\x00\x00
+MID_OP4_#015	\x0E\x03\x02\x08\x06セピア\nChissà come...\x0E\x04\x00\x00
+MID_OP4_#016	\x0E\x03\x02\x0A\x08リュール\nSei stata tu a rubare gli anelli? Sei stata tu\na uccidere mia madre?!\x0E\x04\x00\x00
+MID_OP4_#017	\x0E\x03\x02\x08\x06セピア\nAllora è morta! Oooh, poverina.\x0E\x04\x00\x00
+MID_OP4_#018	\x0E\x03\x02\x0A\x08リュール\nAssassina! La vendicherò!\x0E\x04\x00\x00
+MID_OP4_#019	\x0E\x03\x02\x08\x06セピア\nTsk... Non l'ho uccisa io, no.\x0E\x04\x02\x00
+MID_OP4_#020	Comunque capiti proprio al momento giusto,\nse sei davvero \x0E\x0A\x00\x0C\x04il\x04la figli\x0E\x0A\x00\x08\x02o\x02a di quella donna.\x0E\x04\x02\x00
+MID_OP4_#021	Perché vuol dire che l'anello del Re Eroico\ne l'anello del Sacro Cavaliere sono nelle tue\nmani, vero?\x0E\x04\x00\x00
+MID_OP4_#022	\x0E\x03\x02\x0A\x08リュール\nNon li avrai mai. Mai.\x0E\x04\x00\x00
+MID_OP4_#023	\x0E\x03\x02\x0E\x0Cアルフレッド\nEcco cosa volevi... gli anelli.\x0E\x04\x00\x00
+MID_OP4_#024	\x0E\x03\x02\x08\x06セピア\nNon sprecherò il mio fiato in inutili spiegazioni.\nMa, se proprio insisti, ti dirò una cosa.\x0E\x04\x02\x00
+MID_OP4_#025	Il regno di Elusia ha liberato lord Sombron dal\nsuo imprigionamento.\x0E\x04\x00\x00
+MID_OP4_#026	\x0E\x03\x02\x0A\x08リュール\nSombron il Drago Maligno... è tornato?\x0E\x04\x00\x00
+MID_OP4_#027	\x0E\x03\x02\x0E\x0Cアルフレッド\nNo...\x0E\x04\x00\x00
+MID_OP4_#028	\x0E\x03\x02\x08\x06セピア\nEppure il piccolo dettaglio della tua esistenza...\nera sfuggito anche a noi.\x0E\x04\x02\x00
+MID_OP4_#029	Forse ti sei svegliat\x0E\x0A\x00\x08\x02o\x02a proprio grazie al suo\nritorno. Dovresti esserci grat\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP4_#030	\x0E\x03\x02\x0A\x08リュール\nTi sbagli. Mi sono svegliat\x0E\x0A\x00\x08\x02o\x02a grazie a mia madre.\x0E\x04\x02\x00
+MID_OP4_#031	Perché ha atteso il mio risveglio, per tutti\nquesti anni...\x0E\x04\x00\x00
+MID_OP4_#032	\x0E\x03\x02\x08\x06セピア\nChe storia commovente.\x0E\x04\x02\x00
+MID_OP4_#033	Ora, se volete scusarmi...\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nFerma!\x0E\x04\x00\x00
+MID_OP5_#002	\x0E\x04\x03\x04
+MID_OP5_#003	\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStrike\n\x0E\x03\x02\x0E\x0Cアルフレッド\nChe facciamo?\x0E\x04\x00\x00
+MID_OP5_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nPrima di tutto liberiamoci di questi nemici\ne riprendiamo il controllo del castello.\x0E\x04\x02\x00
+MID_OP5_#005	Non permetterò che facciano del male alla\nregina Ève né a nessun altro.\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セピア\x02t\n\x0E\x05\x01\x14\x06セピア\nAngry\n\x0E\x03\x02\x08\x06セピア\nPrendete i loro anelli. Non fate prigionieri.\x0E\x04\x00\x00
+MID_OP6_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nAngry\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nAgli ordini.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nLa porta è chiusa. Che facciamo?\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStrike\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNon c'è tempo per cercare la chiave.\nSfondiamola e andiamo avanti.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M005_シーフ\x02b\n\x0E\x05\x01\x1E\x10M005_シーフ\nSmile\n\x0E\x03\x02\x12\x10M005_シーフ\nEheh, con il castello sotto attacco, è\nun'occasione d'oro per recuperare qualche\ntesoro.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nCi mancavano solo i ladri! Dobbiamo fermarli\nprima che saccheggino il castello.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nForse possiamo buttare giù questo muro e\ncogliere i nemici di sorpresa.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nMpf... tutto qua?\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nChe guerriero temibile. Continua a combattere\nanche dopo aver subito un colpo fatale.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nSmile\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nAgguanterò tutti quegli anelli luccicanti e mi\nprenderò tutto il merito! Vedo già una bella\nricompensa in arrivo per me!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nCome osate invadere il mio castello e\nminacciare mia madre? Vi farò a fette!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nChe paura che mi fa il principe del regno dei\nfiorellini!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01$\x16M005_Irc_ボス\nSmile\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nGuarda chi c'è! La principessa fuggitiva...\nappena in tempo per essere cacciata di nuovo.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x16\x08セリーヌ\nAngry\n\x0E\x03\x02\x0A\x08セリーヌ\nNon scapperò più, no. Sarai tu a dover fuggire\nse vuoi salva la vita.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nNon avrò alcuna pietà. Preparati a morire.\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01&\x16M005_Irc_ボス\x0CStatus\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nIl Drago Divino! Se riesco ad ammazzarti,\nnon dovrò più leccare i piedi a quella là.\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M005_Irc_ボス\x02b\n\x0E\x05\x01"\x16M005_Irc_ボス\x08Pain\n\x0E\x03\x02\x18\x16M005_Irc_ボス\nFarò meglio ad andarmene.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x024\n\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nAlfred, nostra madre è nella camera interna.\nÈ sana e salva.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\nChe sollievo.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x00\x0A\x04イヴ\x021\n\x0E\x03\x02\x06\x04イヴ\nGrazie a tutti per avermi salvata.\x0E\x04\x02\x00
+MID_ED1_#004	Figli miei, sono così contenta di vedervi\nentrambi incolumi.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0E\x0Cアルフレッド\nMadre, c'è un ospite per te. Qualcuno giunto\ndal lontano Lythos per vederti.\x0E\x04\x02\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04イヴ\nIl Drago Divino \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08セリーヌ\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nVostra Maestà, sono liet\x0E\x0A\x00\x08\x02o\x02a di vedere che state\nbene. È un piacere fare la vostra conoscenza.\x0E\x04\x02\x00
+MID_ED1_#008	Sono giunt\x0E\x0A\x00\x08\x02o\x02a qui su invito del principe Alfred.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x06\x04イヴ\nÈ incredibile... vi siete finalmente risvegliat\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x02\x00
+MID_ED1_#010	Io sono Ève, regina di Firene. Incontrarvi è per\nme una gioia infinita.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIl Drago Divino è venuto qui per aiutare il nostro\nregno, madre.\x0E\x04\x02\x00
+MID_ED1_#012	È stat\x0E\x0A\x00\x08\x02o\x02a determinante per salvare Céline.\x0E\x04\x02\x00
+MID_ED1_#013	E, inoltre, ha evocato l'emblema Celica dal\nnostro anello.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x06\x04イヴ\nIl leggendario emblema... oh cielo, sono senza\nparole.\x0E\x04\x02\x00
+MID_ED1_#015	Grazie dal profondo del mio cuore, vi sono\ninfinitamente riconoscente.\x0E\x04\x02\x00
+MID_ED1_#016	È grazie a voi se la mia famiglia è salva.\x0E\x04\x02\x00
+MID_ED1_#017	È evidente che possedete immensi poteri\ndivini proprio come vostra madre. A proposito,\ncome sta la regina Lumera?\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08リュール\nAh... mia madre è...\x0E\x04\x02\x00
+MID_ED1_#019	Lei non c'è più.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x06\x04イヴ\nNo...\x0E\x04\x02\x00
+MID_ED1_#021	È terribile... Sono costernata.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08リュール\nDegli intrusi hanno attaccato il castello e hanno\nprovato a uccidermi, ma...\x0E\x04\x02\x00
+MID_ED1_#023	... lei si è sacrificata per proteggermi.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x06\x04イヴ\nChe tragedia...\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08リュール\nMa sono liet\x0E\x0A\x00\x08\x02o\x02a di aver risparmiato ai vostri figli\nil dolore di perdere la loro madre.\x0E\x04\x02\x00
+MID_ED1_#026	...\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x02\x06\x04イヴ\nMi dispiace tanto...\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0A\x08リュール\nScusate, ci siamo appena incontrat\x0E\x0A\x00\x08\x02i\x02e, e già vi sto\nangustiando con il mio dolore.\x0E\x04\x02\x00
+MID_ED1_#029	Se solo fossi riuscit\x0E\x0A\x00\x08\x02o\x02a a salvarla come ho fatto\ncon voi...\x0E\x04\x02\x00
+MID_ED1_#030	\x0E\x03\x02\x06\x04イヴ\nDrago Divino...\x0E\x04\x02\x00
+MID_ED1_#031	Non posso togliervi questo dolore, ma farò\nqualsiasi cosa per aiutarvi a sopportarlo.\x0E\x04\x02\x00
+MID_ED1_#032	Dopo esservi risvegliat\x0E\x0A\x00\x08\x02o\x02a e averla rincontrata,\nl'avete persa così presto. Deve essere stato\nmolto doloroso.\x0E\x04\x02\x00
+MID_ED1_#033	Per ora, concedetevi di soffrire,\nsapendo che io soffro con voi.\x0E\x04\x00\x00
+MID_ED1_#034	\x0E\x03\x02\x0A\x08リュール\nGrazie, Vostra Maestà.\x0E\x04\x02\x00
+MID_ED1_#035	Sentendo il vostro calore, è come se lei fosse\nqui con me...\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04イヴ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x00\x0E\x08セリーヌ\x024\n\x0E\x03\x02\x06\x04イヴ\nCome vi sentite?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08リュール\nMeglio... mi dispiace avervi fatta preoccupare.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\nSiamo noi a doverci scusare. Ti abbiamo\ntrascinat\x0E\x0A\x00\x08\x02o\x02a in questa situazione in un momento\ncosì delicato per te.\x0E\x04\x02\x00
+MID_ED2_#004	Mi dispiace, Drago Divino.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08セリーヌ\nAnche a me.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08リュール\nMa se non fossimo partiti subito cosa sarebbe\nsuccesso a te, Céline, e a voi, regina Ève?\x0E\x04\x02\x00
+MID_ED2_#007	Sono orgoglios\x0E\x0A\x00\x08\x02o\x02a di aiutare chi ha bisogno, come\nlo era mia madre.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x0E\x0Cアルフレッド\nGrazie.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x0A\x08リュール\nComunque, quella donna ha detto che\nil regno di Elusia ha liberato il Drago Maligno.\x0E\x04\x02\x00
+MID_ED2_#010	Forse è per quello che stanno apparendo le\naberrazioni in giro per l'Elyos.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x0E\x0Cアルフレッド\nAllora non c'è dubbio... il Drago Maligno sta\ncercando gli anelli.\x0E\x04\x02\x00
+MID_ED2_#012	Il che significa che dobbiamo sbrigarci e\nraggiungere il prossimo anello prima di loro.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x0A\x08リュール\nRegina Ève, potete consegnarmi l'anello\nche custodite nel vostro regno?\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x06\x04イヴ\nMa certo, è vostro. Il regno di Firene ve lo\noffre con amore, fiducia e gratitudine.\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08リュール\nVi ringrazio.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x06\x04イヴ\nMa c'è qualcosa che devo dirvi.\x0E\x04\x02\x00
+MID_ED2_#017	In realtà in Firene custodiamo un altro\nanello dell'emblema.\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x02\x0E\x0Cアルフレッド\nCosa? E da quando?\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0A\x08セリーヌ\nC'è un altro anello in Firene?\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x02\x06\x04イヴ\nMantenere il segreto era l'unico modo per\nevitare qualsiasi conflitto.\x0E\x04\x02\x00
+MID_ED2_#021	Per generazioni, il segreto di questo anello\nè stato tramandato dai sovrani del Firene.\x0E\x04\x02\x00
+MID_ED2_#022	Tuttavia, ora che il Drago Maligno è tornato,\nè giunto il momento di riportarlo alla luce.\x0E\x04\x02\x00
+MID_ED2_#023	È risaputo che il Drago Divino affidò un anello\na ciascuna famiglia regnante.\x0E\x04\x02\x00
+MID_ED2_#024	Ma il Firene ne ricevette uno in più.\x0E\x04\x02\x00
+MID_ED2_#025	L'anello della Fanciulla della Luce.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x02\x0A\x08リュール\nAh...\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x02\x06\x04イヴ\nPer tenerlo ancor più al sicuro, viene\ncustodito al di fuori del castello di Firene.\x0E\x04\x02\x00
+MID_ED2_#028	Si trova in un santuario al confine con la Brodia.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nAh, mi ricordo di quelle vecchie rovine.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0A\x08セリーヌ\nE tu che ne sai, Alfred?\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x0E\x0Cアルフレッド\nDopo la morte di nostro padre, nostra madre\nmi ci portò una volta.\x0E\x04\x02\x00
+MID_ED2_#032	Mi disse di ricordarmi dove si trovava, anche\nse all'epoca non capii il perché.\x0E\x04\x02\x00
+MID_ED2_#033	Ora lo so.\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x02\x06\x04イヴ\nTi stavo preparando al giorno in cui saresti\nstato incoronato.\x0E\x04\x00\x00
+MID_ED2_#035	\x0E\x03\x02\x0E\x0Cアルフレッド\nVi condurrò tutti al santuario.\nResterò al fianco del Drago Divino.\x0E\x04\x00\x00
+MID_ED2_#036	\x0E\x03\x02\x06\x04イヴ\nDunque hai deciso di partire, Alfred.\x0E\x04\x00\x00
+MID_ED2_#037	\x0E\x03\x02\x0E\x0Cアルフレッド\nSì, voglio fare qualcosa per porre fine alla\nguerra.\x0E\x04\x02\x00
+MID_ED2_#038	Spero di avere la tua benedizione, madre,\nper continuare a combattere per la pace\nal fianco del Drago Divino.\x0E\x04\x00\x00
+MID_ED2_#039	\x0E\x03\x02\x0A\x08セリーヌ\nMadre, voglio prendere parte anche io alla\nmissione.\x0E\x04\x00\x00
+MID_ED2_#040	\x0E\x03\x02\x0A\x08リュール\nAlfred, Céline...\x0E\x04\x02\x00
+MID_ED2_#041	\x0E\x03\x02\x06\x04イヴ\nAvete la mia benedizione. So che servirete il\nDrago Divino con onore.\x0E\x04\x02\x00
+MID_ED2_#042	Ma a una condizione. Dovete promettermi\ndi tornare a casa sani e salvi.\x0E\x04\x00\x00
+MID_ED2_#043	\x0E\x03\x02\x0E\x0Cアルフレッド\nLo prometto.\x0E\x04\x00\x00
+MID_ED2_#044	\x0E\x03\x02\x0A\x08セリーヌ\nLo prometto.\x0E\x04\x00\x00
+MID_ED2_#045	\x0E\x03\x02\x0A\x08リュール\nVi ringrazio, regina Ève.\x0E\x04\x00\x00
+MID_ED2_#046	\x0E\x03\x02\x06\x04イヴ\nMa spero che prima della partenza vorrete\nriposarvi un po'.\x0E\x04\x02\x00
+MID_ED2_#047	Il vostro viaggio sarà lungo e pericoloso, ma\nsappiate che io sarò sempre qui a pregare per\nla vostra incolumità.\x0E\x04\x02\x00
+MID_ED2_#048	Che la buona sorte risplenda su di voi.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06錬成屋\x021\n\x0E\x03\x00\x0E\x08アクセ屋\x023\n\x0E\x03\x02\x08\x06錬成屋\nScusate il disturbo, Drago Divino. Possiamo\nparlarvi?\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nChi siete?\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x08\x06錬成屋\nIo... sono una fabbra, e mi chiamo Calney.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x0A\x08アクセ屋\nE io sono Pinet, un commerciante di stoffe.\nPiacere di conoscervi.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x08\x06錬成屋\nIl nostro amico Durthon ci ha scritto di aver\nmesso su un negozio alla vostra base.\x0E\x04\x02\x00
+MID_ED3_#006	C'è posto per altri due negozi? Vi saremmo di\ngrande aiuto! Io posso potenziare le vostre armi.\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x0A\x08アクセ屋\nI miei vestiti e accessori non vi saranno utili in\nbattaglia, ma attireranno gli sguardi di tutti.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x0A\x08リュール\nSe avete la fiducia di Durthon, avete anche la\nmia. Vi prego, venite con noi al Somniel.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x08\x06錬成屋\nDavvero?! Vi assicuro che non ve ne pentirete.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0A\x08アクセ屋\nGrazie mille, Drago Divino.\x0E\x04\x00\x00
+MID_ED4C_#001	Anf... anf... Li ho seminati...
+MID_ED4C_#002	Ma davvero? Ne sei proprio sicuro?
+MID_ED4C_#003	Argh!
+MID_ED4C_#004	Tremi come una foglia... deduco che tu non sia\nriuscito a recuperare l'anello.
+MID_ED4C_#005	Ehm... Chiedo perdono, signora! Quelli erano\npiù forti di quanto sembrasse!
+MID_ED4C_#006	P-Però posso aiutarvi a ritrovare l'anello!\nLa principessa Céline è fuggita portandolo con sé!
+MID_ED4C_#007	E ora è nelle mani del Drago Divino\n\x0E\x06\x03\x00. Sono stato utile, eh?
+MID_ED4C_#008	Uhm...
+MID_ED4C_#009	Allora... che ne dite, sono perdonato per\nstavolta? Non vi deluderò mai più.
+MID_ED4C_#010	Oh, che ingenuo.
+MID_ED4C_#010_2	Non concedo mai una seconda possibilità.
+MID_ED4C_#011	No! Non uccidetemi! Vi supplico!
+MID_ED4C_#012	Aaaaaargh!
+MID_ED4C_#013	Mpf.
+MID_ED4C_#014	 
+MID_ED4C_#015	Mi spiace, mia signora. Mi scuso per l'imprevisto\ne il mancato recupero dell'anello.
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x16\x10ヴェイル_フード\x021\n\x0E\x03\x00\x0C\x06セピア\x022\n\x0E\x03\x02\x12\x10ヴェイル_フード\nPeccato. Speravo di ottenerne almeno uno.\x0E\x04\x02\x00
+MID_ED4_#002	Almeno abbiamo la certezza che Lumera\nsia morta.\x0E\x04\x00\x00
+MID_ED4_#003	\x0E\x03\x02\x08\x06セピア\nTuttavia, ora è spuntato fuori un altro Drago\nDivino al suo posto. Non riesco a credere che\nquella donna avesse un\x0E\x0A\x00\x06
+MID_ED4_#004	\x0E\x03\x02\x12\x10ヴェイル_フード\nOra, capisco perché Lumera abbia sacrificato\nla propria vita.\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x08\x06セピア\nChe cosa facciamo ora?\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x02\x12\x10ヴェイル_フード\nLa battaglia al castello di Lythos è stata dura.\nNon siamo in grado di sostenere un altro\nscontro ora come ora.\x0E\x04\x02\x00
+MID_ED4_#007	Quindi è meglio recuperare le forze e lasciarli\nin pace. Per ora.\x0E\x04\x00\x00
+MID_ED4_#008	\x0E\x03\x02\x08\x06セピア\nAgli ordini.\x0E\x04\x00\x00

@@ -1,0 +1,51 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x0A\x08リュール\nQuesto posto non mi dice niente. Dove siamo?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04ロイ\nSiamo... No, non ci credo.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nLo conosci?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04ロイ\nForse mi sbaglio, anzi, sicuramente...\nEppure mi sembra...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x06\x04ロイ\n... il luogo in cui ho combattuto una battaglia\nimportante.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nNel tuo mondo? Ti andrebbe di raccontarmi?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04ロイ\nProprio lì, insieme ai miei alleati, affrontai\nl'esercito del regno di Biran.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04ロイ\nMurdock, il comandante nemico, era\nincredibilmente forte, sia nel fisico sia\ndal punto di vista tattico.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x06\x04ロイ\nRicordo ancora la potenza distruttiva della sua\nascia da guerra...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04ロイ\nFu una battaglia a dir poco cruenta.\nNon so come facemmo a sopravvivere.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04ロイ\nEppure questo ricordo, seppur nella sua\namarezza, mi è caro.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nSarà sicuramente perché è un momento\nfondamentale della tua vita.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04ロイ\nSì, hai ragione. Devo ammettere che mi sento\npieno di energia a stare qui...\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04ロイ\nSenti, \x0E\x06\x03\x00. Ascolteresti la mia\nrichiesta? So che è strano... ma sfidiamoci qui.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nVuoi combattere contro di me? Perché?\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04ロイ\nQuesto luogo proviene dal mio passato, ma\ncredo che la sfida sia diretta a te.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x06\x04ロイ\nSe ne uscirai vincit\x0E\x0A\x00\x12\x06ore\x08rice, il nostro legame\nsarà ancora più profondo.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x06\x04ロイ\nE solo allora potrai attingere appieno ai miei\npoteri. Accetti la sfida?\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nVa bene... combatterò contro di te.\nE vincerò.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\nNon vedo l'ora di vederti all'opera.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSono delle ali che sbattono queste? Parrebbero\ndelle viverne...\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nSembra che abbiano chiamato i rinforzi.\nProcediamo con cautela.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMi sembri più concentrato e più potente del\nsolito.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x0E\x04ロイ\x06Die\n\x0E\x03\x02\x06\x04ロイ\nLa mia arma, la Spada dei sigilli, è stata\ncustodita in questa terra per secoli.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nForse il ricordo della mia spada mi sta dando\nulteriore forza.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nSe i ricordi possono dare energia... vedrò di\noffrirti una battaglia indimenticabile!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\nTu? Dovrò fare attenzione allora.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1C\x0Cディアマンド\x0CStrike\n\x0E\x03\x02\x0E\x0Cディアマンド\nMi fa piacere che la pensi così. Allora siamo\nin due.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nDarò il massimo contro di te, non voglio fare\nbrutte figure davanti all'emblema affidato\nalla Brodia!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nSi prospetta una bella lotta. Vieni, Diamant.\nCombattiamo!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\nL-Lord Roy? Siete sicuro di volervi battere\nproprio contro di me?\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nSmile\n\x0E\x03\x02\x06\x04ロイ\nPerché dici così, Alcryst?\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nSono stato affidato al regno di cui tu sei\nprincipe. Potrei forse desiderare un avversario\nmigliore?\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x16\x04ロイ\x0EStandBy\n\x0E\x03\x02\x06\x04ロイ\nForza. Non indugiamo!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x06\x04ロイ\nBella lotta, \x0E\x06\x03\x00.\nGrazie per avere accettato la sfida.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nSe mi fossi distratt\x0E\x0A\x00\x08\x02o\x02a anche solo un attimo, sono\ncert\x0E\x0A\x00\x08\x02o\x02a che avrei perso. Spero di non incontrarti\nmai più come avversario.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x06\x04ロイ\nTroppi complimenti, non devi.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04ロイ\n...\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nChe c'è, Roy? Perché mi guardi così?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04ロイ\nOh... Niente. Mi ricordi una ragazza\nche conoscevo. Si chiamava Idunn.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04ロイ\nEra... un Drago Diabolico, che seguiva gli ordini\ndi Zephiel, re di Biran. Il suo compito era\ndistruggere l'umanità.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nDrago Diabolico?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x06\x04ロイ\nAnche i suoi occhi avevano colori diversi.\nE tu me la ricordi anche nell'atteggiamento.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nNon ne avevo mai sentito parlare...\nQuindi tu dovesti affrontarla?\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04ロイ\nMi trovai davanti a una scelta. Sconfiggere lei\ne tutta la sua stirpe, o risparmiare una nemica\ndell'umanità.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04ロイ\nSecondo te, cosa scelsi?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nNon so...\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x06\x04ロイ\nTe lo dirò un'altra volta. Quando avremo\nun po' più di tempo.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nOh... D'accordo, ma è una promessa, spero.\nSono curios\x0E\x0A\x00\x08\x02o\x02a di sapere come andò a finire.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x06\x04ロイ\nFinirò il racconto, promesso. Nel frattempo\ngodiamoci il tempo che ci è dato di trascorrere\ninsieme, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

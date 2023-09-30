@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リュール\n¿Dónde estamos?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06アイク\nEn el castillo de Gebal, o eso parece.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Un lugar en el que has estado?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06アイク\nSí. Está cerca de la frontera entre las naciones\nde Crimea y Gallia.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06アイク\nEs interesante que este sea el lugar\ndonde te pondré a prueba.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\n¿A prueba?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06アイク\nLas fuerzas del Reino de Daein nos persiguieron\nhasta aquí. Iniciaron un asedio y nos atraparon.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06アイク\nBloquearon cualquier vía de escape. El poder\nde su ejército era muy superior al nuestro.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06アイク\nMi padre fue asesinado y yo tomé el mando\ncomo líder de los mercenarios de Greil.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06アイク\nAsí es como me enfrenté\na mi primera gran prueba.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nSuena bastante duro...\n¿Qué hiciste?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06アイク\nLuché para proteger a mi hermana\ny al resto de mercenarios.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06アイク\nSi te encontraras en una situación\nparecida, ¿qué habrías hecho tú?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nSupongo que lo mismo. No querría que\nla gente que me importa sufriera algún daño.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06アイク\nEstoy convencido de que te habrías batido bien.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06アイク\nMuéstrame cómo protegerías a tu gente.\nSin palabras, solo con hechos.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\n¿Quieres que luche contra ti?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06アイク\nSi ganas, nuestro vínculo será aún más fuerte.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\n¡Entendido! No voy a perder.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06アイク\nAsí se habla. ¡Adelante!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\n¡Da lo mejor de ti!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\n¡Ahora me toca a mí!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\nMe gusta esa mirada. Noto que tu espíritu\nde lucha es poderoso.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nSé que la única forma de vencerte\nes pelear con más determinación que tú.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06アイク\nEntonces entiendes lo que está en juego.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nAhora demuéstrame que sabes luchar\ntan bien como hablas.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x14\nミスティラ\x06Shy\n\x0E\x03\x02\x0C\nミスティラ\nMe resulta extraño enfrentarme a ti.\nMi deber era proteger tu anillo, al fin y al cabo.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\n¿Te cuesta verme como un oponente?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\nミスティラ\nRelax\n\x0E\x03\x02\x0C\nミスティラ\n¡No! Es decir, quiero mostrarte lo mucho\nque he mejorado.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nBuena respuesta. ¡A ver qué sabes hacer!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nSmile\n\x0E\x03\x02\x08\x06アイク\nTe noto distinto, Fogado.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nHe decidido que, ya que debo enfrentarme\na ti, voy a tomármelo en serio.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nNo tienes intención de perder,\npor lo que veo.\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\nフォガート\nRelax\n\x0E\x03\x02\x0C\nフォガート\n¡Jamás! ¡Te venceré para que esto salga bien!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\n¡Buen trabajo, \x0E\x06\x03\x00!\nHas superado la prueba.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nGracias, Ike.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06アイク\nDebes saber que, a partir de ahora,\nla lucha será mucho más intensa.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06アイク\nRecuerda que, como líder,\nno debes sucumbir a la presión.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06アイク\nNo podemos escapar a esta guerra.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nLo sé. Si huimos, el mundo será\nengullido por la oscuridad.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nAunque no sé cuánto tiempo\npodremos seguir luchando así.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06アイク\nHay gente que necesita tu ayuda.\nNo te preocupes, eres muy capaz.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06アイク\nCuando sientas que te flaquean las fuerzas,\nlos vínculos que has forjado te ayudarán.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nGuardaré esas palabras en mi corazón.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06アイク\nSi alguna vez se te olvida,\nyo estaré aquí para recordártelo.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\n¿Estarás siempre a mi lado?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06アイク\nSiempre.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nGracias, Ike, me alegra mucho saberlo.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

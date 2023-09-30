@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nSogno o son dest\x0E\x0A\x00\x08\x02o\x02a?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06マルス\nChe sorpresa. Sembrano i giardini del castello\ndi Lythos.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nLo pensi anche tu?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06マルス\nSembra proprio di essere al castello.\nAnche l'aria e i profumi sono gli stessi.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nBen detto. Ho lavorato al castello per molti\nanni e vi dirò che questa visione inganna pure\nme.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nSo che non è reale, ma non posso fare a meno\ndi provare un po' di nostalgia.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nIo e mia madre ci siamo allenati in un giardino\nfiorito... proprio come questo.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0C\nヴァンドレ\nCome potrei non ricordarmelo? Ma ora quel\ngiardino è in rovina, distrutto dalla furia nemica.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nGià...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nGuardate! C'è qualcosa che luccica, laggiù.\nLo vedete anche voi?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nQuello è un altare? E sopra c'è un anello!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nCredevo che avessimo già raccolto tutti\ngli anelli degli emblemi... Che ce ne siano\nsfuggiti altri?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nForse c'è un emblema di cui non eravamo a\nconoscenza? Andiamo a vedere!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nUn momento. Sento una presenza... Ci sono\ndei nemici nelle vicinanze.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x024\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGroar...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x00\x1C\x16S015_異形兵_蛮族\x021\n\x0E\x03\x02\x18\x16S015_異形兵_蛮族\nGrrr...\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nAberrazioni?! Saranno sicuramente qui per\nl'anello!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nNon possiamo permettere che lo prendano!\nDi sicuro quell'anello appartiene a un emblema!\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0C\nヴァンドレ\nCombatterò al vostro fianco, Drago Divino!\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\nUhm. Che si tratti di...?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGroooar!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nStanno arrivando dei rinforzi!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nGrrroar!\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nOh, no... Hanno preso l'anello. Siamo perduti.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nUaaaargh!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nGrrrrr!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nMi ricorda quando ho combattuto contro\ni soldati che mia madre aveva creato per\nil nostro allenamento.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLei ora non c'è più, ma ovunque sia, spero che\nveda come sono diventat\x0E\x0A\x00\x08\x02o\x02a forte!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nGrrr!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nL'anello è al sicuro! Ma non sembra contenere\nnessun emblema... Strano...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nヴァンドレ\nÈ un anello normale?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nCosì parrebbe. Eppure, quando lo tengo in\nmano, sento una forte energia dentro di me...\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06マルス\nCome sospettavo.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nCosa sospettavate di preciso?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nQuesto è l'anello del patto. Apparteneva\nalla regina Lumera e ne contiene il potere.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nChe altro ci puoi dire di questo anello, Marth?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nLumera una volta disse che i Draghi Divini\ndonano un anello speciale a qualcuno di cui\nsi fidano ciecamente.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06マルス\nL'anello crea un legame ancora più forte con\nquesta persona.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06マルス\nE la forza di quel legame dà dei poteri sia al\nDrago Divino, sia al suo compagno.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nQuindi mia madre diede questo anello\na qualcuno e creò un legame con questa\npersona?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06マルス\nPotrebbe essere così, sì. Ma lei perse tutti i suoi\namici e alleati nella guerra.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06マルス\nQuindi non abbiamo modo di sapere a chi\nlo diede... se mai lo diede a qualcuno.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMadre...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06マルス\nQuel che è certo è che, finché era in vita,\nla persona più importante per lei eri tu.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06マルス\nQuesto anello spetta a te. Ne sono sicuro.\nQuando e se vorrai, potrai darlo a qualcuno\ndi cui ti fidi.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nCi penserò molto bene prima di darlo\na qualcuno. Voglio essere sicur\x0E\x0A\x00\x08\x02o\x02a che\nsia la persona giusta.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0C\nヴァンドレ\nAh! Forse è stata proprio la regina Lumera\na condurci qui.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nSarebbe bello se mia madre vegliasse su di me.\nMa la battaglia che mi attende è solo mia. Devo\nessere forte.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nAndiamocene. Non vorrei... ma ci sono troppe\ncose da fare e non possono attendere.\x0E\x04\x00\x00

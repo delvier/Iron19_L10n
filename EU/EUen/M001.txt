@@ -1,0 +1,214 @@
+MID_OP1_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP1_#002	Where am I?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x02\x08\x06フラン\nHuh?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06クラン\nWhoa. Tell me you're seeing this!\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nHello there. And you are?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06フラン\nYou're awake!\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nHuh?\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06フラン\nYou're really awake, yeah?\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06クラン\nYou're the Divine Dragon \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nUh...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06フラン\nNo way!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06クラン\nNo way!\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06クラン\nThe Divine Dragon is finally awake!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x02\x0A\x08リュール\nHey, hold on!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nCalm down, calm down, you two. What's all of\nthis ruckus about?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nUh... Huh?\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0C\nヴァンドレ\nDivine Dragon \x0E\x06\x03\x00!\x0E\x04\x02\x00
+MID_OP2_#004	It's a miracle. An utter miracle. The Divine One,\nawake at long last...\x0E\x04\x02\x00
+MID_OP2_#005	That I might live to see you standing before me.\nWhat an honor.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08リュール\nUm, not to be rude, but...who are you?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0C\nヴァンドレ\nAh! Apologies. I lost myself for a moment there.\x0E\x04\x02\x00
+MID_OP2_#008	My name is Vander. I am the 32nd Steward of\nthe Dragon.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nHello, Sir Vander.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0C\nヴァンドレ\nOh my, Divine One! There is no need to address\nme as such. Simply "Vander" will do.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x00\x0C\x06クラン\x024\n\x0E\x03\x02\x08\x06フラン\nSee! I told you the Divine Dragon was awake!\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x08\x06クラン\nYeah! We were telling the truth!\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nYou two. I don't believe I got your names.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x08\x06クラン\nOh, sorry! We were so excited we forgot to\nintroduce ourselves.\x0E\x04\x02\x00
+MID_OP2_#015	We're the 33rd Stewards of the Dragon!\nMy name's Clanne. Pleased to meet you.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x08\x06フラン\nAnd I'm Framme! We're twins.\x0E\x04\x02\x00
+MID_OP2_#017	We've been waiting forever for you to wake up!\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0C\nヴァンドレ\nAs Stewards of the Dragon, our mission is to\nprotect and provide for you.\x0E\x04\x02\x00
+MID_OP2_#019	Generation after generation of our predecessors\nwaited for you to rise from your slumber.\x0E\x04\x02\x00
+MID_OP2_#020	I'll admit, I am astonished to see it has\nfinally happened.\x0E\x04\x02\x00
+MID_OP2_#021	You see, a thousand years have passed since\nthe first steward took their post.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x0A\x08リュール\nA thousand years? That's how long I've\nbeen asleep?\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x0C\nヴァンドレ\nIndeed. Your mother─Lumera, the Divine\nDragon Monarch─has long awaited this day.\x0E\x04\x02\x00
+MID_OP2_#024	Finally you, a Divine Dragon yourself, have\nawakened. This surely signifies great things.\x0E\x04\x00\x00
+MID_OP2_#025	\x0E\x03\x02\x0A\x08リュール\nSlow down. This monarch you mentioned─\nshe's my mother?\x0E\x04\x02\x00
+MID_OP2_#026	And I'm a "Divine Dragon," you called it?\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x0C\nヴァンドレ\nOh dear. Is your memory hazy, Divine One?\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x0A\x08リュール\nI know my name, but...that's about it.\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x08\x06クラン\nYou can't remember anything else?\x0E\x04\x00\x00
+MID_OP2_#030	\x0E\x03\x02\x08\x06フラン\nMaybe you're just feeling groggy 'cause of\nall that sleep?\x0E\x04\x00\x00
+MID_OP2_#031	\x0E\x03\x02\x0A\x08リュール\nBut I don't even know who I am.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x0C\nヴァンドレ\nFret not. Such lapses in memory are to be\nexpected after sleeping for so long.\x0E\x04\x02\x00
+MID_OP2_#033	If I may... You are a Divine Dragon, a member of\na royal family of dragons revered as deities.\x0E\x04\x02\x00
+MID_OP2_#034	Queen Lumera, the Divine Dragon Monarch,\nrules over the Holy Land of Lythos.\x0E\x04\x02\x00
+MID_OP2_#035	In the war a thousand years ago, she defeated\nand imprisoned the wicked Fell Dragon.\x0E\x04\x02\x00
+MID_OP2_#036	You, Divine One, are her only child.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x0A\x08リュール\nThe war, the Fell Dragon... I feel like I can\nalmost remember, but...\x0E\x04\x00\x00
+MID_OP2_#038	\x0E\x03\x02\x0C\nヴァンドレ\nPlease, do not trouble yourself trying to bring it\nall back at once.\x0E\x04\x02\x00
+MID_OP2_#039	Your memories will return in time. You are\na being of immense power─a deity, no less.\x0E\x04\x02\x00
+MID_OP2_#040	I have heard many a tale of your kindness,\nnobility, and bravery. Your unflinching heroism.\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x02\x0A\x08リュール\nThat's a lot to live up to.\x0E\x04\x00\x00
+MID_OP2_#042	\x0E\x03\x02\x0C\nヴァンドレ\nFor now, let us head to Lythos Castle. Queen\nLumera will be thrilled to see you.\x0E\x04\x02\x00
+MID_OP2_#043	Perhaps the reunion will help stir\nyour memories.\x0E\x04\x00\x00
+MID_OP2_#044	\x0E\x03\x02\x0A\x08リュール\nI hope so.\x0E\x04\x00\x00
+MID_OP2_#045	\x0E\x03\x02\x08\x06クラン\nOK, then! Onward and downward!\x0E\x04\x00\x00
+MID_OP2_#046	\x0E\x03\x02\x08\x06フラン\nTo Lythos Castle!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06クラン\x023\n\x0E\x03\x00\x0C\x06フラン\x024\n\x0E\x03\x02\x0A\x08リュール\nAll this time, I've been sleeping in the sky?\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0C\nヴァンドレ\nYou have, yes. The place where you slumbered\nis known as the Somniel.\x0E\x04\x02\x00
+MID_OP3_#003	A fortress built upon an airborne island to\nensure your safety.\x0E\x04\x02\x00
+MID_OP3_#004	It is perhaps the most secure place in all of\nElyos. Only a select few can set foot there.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x0A\x08リュール\nI see. And you three live there with me?\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x02\x08\x06フラン\nYup! As stewards, we spend our time caring for\nyou and managing things around the Somniel.\x0E\x04\x02\x00
+MID_OP3_#007	It's a sacred place, so we work as hard as we\ncan to keep it shipshape!\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x08\x06クラン\nRoyal family members visit us all the time!\nWell, visit you, really.\x0E\x04\x02\x00
+MID_OP3_#009	The prince and princess of Firene─a deeply\nreligious country─visit especially often.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x08\x06フラン\nThey pray next to you, like this. Then they just...\ntalk for a while, like they're chatting to a friend.\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x0A\x08リュール\nI see. Thanks for filling me in, Framme.\nYou too, Clanne.\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x08\x06フラン\nAh! The Divine One said our names! And\nthanked us!\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x08\x06クラン\nI think I'm going to faint...unless I already did.\nAm I dreaming?\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x0C\nヴァンドレ\nNeed I remind you that you are in the presence\nof the Divine Dragon!\x0E\x04\x02\x00
+MID_OP3_#015	How many times must I tell you to behave in a\nmanner befitting your station?\x0E\x04\x02\x00
+MID_OP3_#016	Divine One, please forgive this embarrassing\nbreach of decorum.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x0A\x08リュール\nBreach of decorum? Haha, I'm actually enjoying\ntheir enthusiasm.\x0E\x04\x00\x00
+MID_OP3_#018	\x0E\x03\x02\x08\x06フラン\nHehe! You're just as kindhearted as I always\nimagined!\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x08\x06クラン\nOh, look, there it is!\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x0A\x08リュール\nLythos Castle. The...Divine Dragon Monarch is\nthere, you said?\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x0C\nヴァンドレ\nYes. I suppose a thousand years have passed\nsince you've been home.\x0E\x04\x00\x00
+MID_OP3_#022	\x0E\x03\x02\x08\x06フラン\nDon't worry. We'll be right there with you.\x0E\x04\x00\x00
+MID_OP3_#023	\x0E\x03\x02\x08\x06クラン\nYou can hold my hand if you like.\x0E\x04\x00\x00
+MID_OP3_#024	\x0E\x03\x02\x0A\x08リュール\nThank you.\x0E\x04\x02\x00
+MID_OP3_#025	Hm?\x0E\x04\x02\x00
+MID_OP3_#026	How long have I been wearing this ring? Since\nbefore I fell asleep?\x0E\x04\x02\x00
+MID_OP3_#027	That blue stone... It reminds me of something...\x0E\x04\x00\x00
+MID_OP3C_#001	Raaargh!
+MID_OP3C_#002	Huh?!
+MID_OP3C_#003	Wh-what are those horrible things?!
+MID_OP3C_#004	Vander! Are creatures like that common\naround here?
+MID_OP3C_#005	They're not. I've never seen them.
+MID_OP3C_#006	Nor have I heard of such monsters appearing in\nLythos before. This is a land of peace.
+MID_OP3C_#007	Understood. Well...
+MID_OP3C_#008	Shall we fight them?
+MID_OP3C_#008_2	As you wish, Divine One! You whose bravery\nknows no equal.
+MID_OP3C_#009	No. Let's run.
+MID_OP3C_#010	Huh?
+MID_OP3C_#011	We haven't the slightest idea who they are.
+MID_OP3C_#011_2	And we don't know how they came to be here.
+MID_OP3C_#012	Also... They worry me for some reason.
+MID_OP3C_#012_2	So, we run!
+MID_OP3C_#013	I, er, well... Did the Divine Dragon really\ncommand me to retreat?
+MID_OP3C_#014	OK! Get to safety!
+MID_OP3C_#015	We'll keep them distracted for you!
+MID_OP3C_#016	What the─ Come back! Come back this instant!
+MID_OP3C_#017	Raaargh!
+MID_OP3C_#018	Ah! Oh no!
+MID_OP3C_#019	Uh, this isn't looking good...
+MID_OP3C_#020	Clanne! Framme!
+MID_OP3C_#021	Hold on! We shall come to you!
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nVander!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\nDivine One! Stay back─it's too dangerous!\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x02\x0A\x08リュール\nClanne and Framme were trying to protect me.\nI have to help them.\x0E\x04\x02\x00
+MID_EV1_#004	I take back what I said─this is no time to run.\nPlease, let me fight.\x0E\x04\x00\x00
+MID_EV1_#005	\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nAll right... But stay on your guard.\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x03\x02\x0A\x08リュール\nI will.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nWhat are these creatures doing in Lythos?\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nWe had best use the foliage to take cover.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nAre you wounded, Divine One? Please use\na vulnerary.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nThese enemies are formidable indeed...\x0E\x04\x02\x00
+MID_EV5_#002	Divine One, please use a vulnerary if you\nare wounded!\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x16\x06フラン\x0CStrike\n\x0E\x03\x02\x08\x06フラン\nThere are too many of them... Divine One,\nget outta here!\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02b\n\x0E\x05\x01\x12\x06フラン\x08Pain\n\x0E\x03\x02\x08\x06フラン\n...\x0E\x04\x00\x00
+MID_EV7_#002	\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x18\x06クラン\x0EStandBy\n\x0E\x03\x02\x08\x06クラン\nFramme, are you all right?!\x0E\x04\x00\x00
+MID_EV7_#003	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x00\x10\nヴァンドレ\x02b\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nClanne, Framme, it's not safe for you here!\nRetreat to the castle!\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x18\x06クラン\x0EStandBy\n\x0E\x03\x02\x08\x06クラン\nI gotta protect Framme... You rotten monsters\ndon't scare me!\x0E\x04\x00\x00
+MID_EV9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02b\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nMore enemies!\x0E\x04\x00\x00
+MID_EV9_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nThey just keep coming.\x0E\x04\x02\x00
+MID_EV9_#003	\x0E\x05\x01\x12\x08リュール\x06Sad\nYou're all trying to protect me.\x0E\x04\x02\x00
+MID_EV9_#004	I should be protecting you! If only I could...\nsomehow.\x0E\x04\x00\x00
+MID_EV9_#005	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x16\x10M000_マルス\x02b\n\x0E\x05\x01"\x10M000_マルス\x0EStandBy\n\x0E\x03\x04\x12\x10M000_マルス\n\x0E\x03\x02\x12\x10M000_マルス\n\x0E\x06\x03\x00...\x0E\x04\x00\x00
+MID_EV9_#006	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nHuh?\x0E\x04\x00\x00
+MID_EV9_#007	\x0E\x03\x04\x12\x10M000_マルス\n\x0E\x03\x02\x12\x10M000_マルス\nYou must remember, \x0E\x06\x03\x00...\x0E\x04\x00\x00
+MID_EV9_#008	\x0E\x03\x02\x0A\x08リュール\nWho... Who said that?\x0E\x04\x00\x00
+MID_EV10_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール
+MID_EV10_#002	The ring...\x0E\x04\x00\x00
+MID_EV10_#003	\x0E\x03\x00\x16\x10M000_マルス\x020\n\x0E\x03\x02\x12\x10M000_マルス\nKnow that my strength can be yours.\x0E\x04\x00\x00
+MID_EV10_#004	\x0E\x03\x02\x0A\x08リュール\nI know that voice.\x0E\x04\x00\x00
+MID_EV10_#005	\x0E\x03\x02\x12\x10M000_マルス\nIf ever we cross paths again, I hope you will\nremember me.\x0E\x04\x02\x00
+MID_EV10_#006	Indeed, that you will remember all of us who\ntook up arms to fight by your side.\x0E\x04\x00\x00
+MID_EV10_#007	\x0E\x03\x01\x12\x10M000_マルス\n\x0E\x03\x02\x0A\x08リュール\nThe 12 Emblems...\x0E\x04\x00\x00
+MID_EV10_#008	\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nDivine One?\x0E\x04\x00\x00
+MID_EV10_#009	\x0E\x03\x02\x0A\x08リュール
+MID_EV10_#010	\x0E\x03\x02\x0C\nヴァンドレ\nDivine One! You mustn't do this alone!\x0E\x04\x00\x00
+MID_EV10_#011	\x0E\x03\x02\x0A\x08リュール\nDon't worry! Please! I'm not alone!\x0E\x04\x02\x00
+MID_EV10_#012	Help me. Lend me your strength in this fight!\x0E\x04\x02\x00
+MID_EV10_#013	Shine on, Emblem of Beginnings!\x0E\x04\x00\x00
+MID_MOVIE1_#001	\x0E\x03\x02\x08\x06マルス\nI am known as Marth. Emblem Marth, to be clear.\x0E\x04\x00\x00
+MID_EV11_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06フラン\x022\n\x0E\x03\x02\x08\x06フラン\nThat was amazing!\x0E\x04\x00\x00
+MID_EV11_#002	\x0E\x03\x02\x08\x06クラン\nCool!\x0E\x04\x00\x00
+MID_EV11_#003	\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nWe did it!\x0E\x04\x02\x00
+MID_EV11_#004	Thanks for your help, Marth, truly!\x0E\x04\x00\x00
+MID_EV11_#005	\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nOf course. It is good to see you.\x0E\x04\x02\x00
+MID_EV11_#006	I was able to answer your call, because you\nremembered me.\x0E\x04\x00\x00
+MID_EV11_#007	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nDo my eyes deceive me...or is that an Emblem\nof legend?\x0E\x04\x00\x00
+MID_EV11_#008	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x0A\x08リュール\nClanne! Framme! Get to safety, now!\x0E\x04\x00\x00
+MID_EV11_#009	\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x02\x08\x06クラン\nUh, right!\x0E\x04\x00\x00
+MID_EV12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nWith your help, Marth, we might just make it.\nWill you join us?\x0E\x04\x00\x00
+MID_EV12_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nRelax\n\x0E\x03\x02\x08\x06マルス\nOf course. I will fight alongside you from here\nforward─your ally, until the very end.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06クラン\x024\n\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x08\x06フラン\nDivine One! Vander! Thanks for saving us.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06クラン\nYeah. And, uh...sorry. This all happened because\nwe ran ahead.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nI'm the one who should apologize. You put\nyourselves in danger trying to protect me.\x0E\x04\x02\x00
+MID_ED1_#004	It's such a relief you're both safe now...\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nDivine One, I hear more enemies approaching.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nMore? I thought we'd gotten them all.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0C\nヴァンドレ\nEvidently not.\x0E\x04\x02\x00
+MID_ED1_#008	These creatures... Will there be no end to them?\x0E\x04\x00\x00
+MID_MOVIE2_#001	\x0E\x03\x02\x0A\x08リュール\nThere's more?\x0E\x04\x00\x00
+MID_MOVIE2_#002	\x0E\x03\x02\x0A\x08リュール\nAnd they've got a dragon?!\x0E\x04\x00\x00
+MID_MOVIE2_#003	\x0E\x03\x02\x0A\x08リュール\nAH!\x0E\x04\x00\x00
+MID_MOVIE2_#004	\x0E\x03\x02\x0A\x08ルミエル\nAt last. You are awake.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08ルミエル\nIs it really you, \x0E\x06\x03\x00?\x0E\x04\x02\x00
+MID_ED3_#002	\x0E\x03\x02\x0A\x08リュール\nYes, it's me. Thank you for saving us.\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x0A\x08ルミエル\nWhat a joy it is to see you, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x0A\x08リュール\nHuh?\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x0A\x08ルミエル\nI've waited for so long!\x0E\x04\x02\x00
+MID_ED3_#006	\x0E\x03\x02\x0A\x08リュール\nOh!\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x0A\x08ルミエル\nWhen I sensed you had awoken, I flew here as\nfast as my wings would carry me.\x0E\x04\x02\x00
+MID_ED3_#008	I hope you're not hurt.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x0A\x08リュール\nI'm... I'm fine.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0A\x08ルミエル\nWhat a relief! You cannot understand how I've\nmissed you, my dear child.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x0A\x08リュール\nOh! You're...my mother.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x0A\x08ルミエル\nWhat's the matter? Don't tell me...\x0E\x04\x02\x00
+MID_ED3_#013	\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0C\nヴァンドレ\nSince awakening, the Divine One's memory\nis clouded.\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x0A\x08ルミエル\nOh! I see.\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x02\x0A\x08リュール\nI'm sorry. I'm sure you weren't expecting this.\x0E\x04\x00\x00
+MID_ED3_#016	\x0E\x03\x02\x0A\x08ルミエル\nNo, I must apologize. I was so overcome\nwith joy, I hugged you as hard as I could.\x0E\x04\x02\x00
+MID_ED3_#017	I take this to mean you've forgotten...everything.\x0E\x04\x02\x00
+MID_ED3_#018	I suppose it's to be expected. A thousand years\nis a very long time.\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x0A\x08リュール\nVander explained that I've been sleeping since...\nsince some war that happened back then.\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x0A\x08ルミエル\nYes. You suffered a terrible wound. And...\nand because of that...\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x0A\x08リュール\nA wound? I don't remember that. Or this world,\nor anything.\x0E\x04\x00\x00
+MID_ED3_#022	\x0E\x03\x02\x0A\x08ルミエル\nDon't fret, young one. I will speak to you of all\nyou've forgotten.\x0E\x04\x02\x00
+MID_ED3_#023	Regardless of what you remember, I'm simply\nglad to have you back, my dear child.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x0A\x08リュール\nStill...this isn't the reunion you hoped for.\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x02\x0A\x08ルミエル\nOh, don't worry about me. It's solace enough\njust to hear that sweet voice of yours!\x0E\x04\x02\x00
+MID_ED3_#026	And to gaze once more into your eyes.\nWhat lovely colors they are, \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_ED4_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x0B\x00f
+MID_MOVIE3_#001	\x0E\x03\x02\x0A\x08ルミエル\nWe live on the continent of Elyos. Four realms\nsurrounding a holy land at its center.\x0E\x04\x02\x00
+MID_MOVIE3_#002	Firene, Kingdom of Abundance.\x0E\x04\x02\x00
+MID_MOVIE3_#002_2	Brodia, Kingdom of Might.\x0E\x04\x02\x00
+MID_MOVIE3_#002_3	Elusia, Kingdom of Knowledge.\x0E\x04\x02\x00
+MID_MOVIE3_#002_4	Solm, Queendom of Freedom.\x0E\x04\x02\x00
+MID_MOVIE3_#003	The Land of Lythos, home of Divine Dragons.\x0E\x04\x02\x00
+MID_MOVIE3_#003_2	And Gradlon, domain of the Fell Dragon. Fallen to ruin.\x0E\x04\x02\x00
+MID_MOVIE3_#004	A thousand years ago, our lands endured a\nvicious war with the Fell Dragon.\x0E\x04\x02\x00
+MID_MOVIE3_#005	We called upon heroes from other worlds to\naid us. Heroes known as Emblems.\x0E\x04\x02\x00
+MID_MOVIE3_#006	With them, the warriors of our nations fought as one.\x0E\x04\x02\x00
+MID_MOVIE3_#007	In the end, we were victorious in defeating\nand imprisoning the Fell Dragon.\x0E\x04\x02\x00
+MID_MOVIE3_#008	In the years since, our world has been safe.\x0E\x04\x02\x00
+MID_MOVIE3_#008_2	But now, I sense a resurrection. The binding weakens.\x0E\x04\x02\x00
+MID_MOVIE3_#009	If his shadow stretches across the land again, then\nwe must fight him anew, as we did in ages past.\x0E\x04\x02\x00
+MID_MOVIE3_#010	Fell Dragon Sombron must be stopped.\x0E\x04\x02\x00

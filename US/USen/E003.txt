@@ -1,0 +1,337 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04グリ\x021\n\x0E\x03\x02\x06\x04グリ\nIn the deepest darkness of solitude, would you\ndesire to make the light your own?\x0E\x04\x02\x00
+MID_OP1_#002	Would you answer the stranger calling for you\nfrom beyond a closed door?\x0E\x04\x02\x00
+MID_OP1_#003	Their voice is despairing; their message, bleak.\nNews of gleaming ore turned dark as night.\x0E\x04\x02\x00
+MID_OP1_#004	But what does it matter? One knows the truth.\x0E\x04\x02\x00
+MID_OP1_#005	In this world, there is no compassion. My pain\ndoes not exist here.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE003_イル\x022\n\x0E\x03\x00\x14\x0EE003_エル\x023\n\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x10\x0EE003_イル\nWe've walked quite a long way now.\nIs everyone feeling all right?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x18\x16E003_セレスティア\nNaturally. Though no doubt it would be easier if\nI were riding my wyvern.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nWe're going to Brodia, right? Why aren't we\ntaking the road?\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x10\x0EE003_エル\nBrodia is widely known for its hatred of war.\nWe would not be permitted to cross the border.\x0E\x04\x02\x00
+MID_OP2_#005	And their border security is tighter than that of\nany other nation. So we must enter covertly.\x0E\x04\x02\x00
+MID_OP2_#006	But more to the point, we are no longer going\nto Brodia. We are already there.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nHuh?\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x10\x0EE003_エル\nWe crossed into Brodia already. We have been\nwithin its borders for some time.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nAnd you didn't think to mention that sooner?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x10\x0EE003_エル\nI was unaware it was so important. I hope you\ncan still reschedule the parade.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\nI'm just saying that allies should keep each\nother informed.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x18\x16E003_セレスティア\nShhh. Quiet, you two. Someone's here.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x10\x0EE003_エル\nWe cannot have been discovered already.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nThere they are!\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x10\x0EE003_イル\nWait, Divine One!\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x06\x000\x14E003_グレゴリー\x18MPID_Unknown\n\x0E\x03\x02\x16\x14E003_グレゴリー\nStop, please! Don't hurt me!\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nGregory!\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08リュール\nYou...know each other?\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x18\x16E003_セレスティア\nIndeed. Gregory is one of the Four Winds,\nlike me.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0A\x08リュール\nI'm not familiar.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x18\x16E003_セレスティア\nWe are a small band of knights established after\nthe war to protect Lady Nel and Lord Nil.\x0E\x04\x02\x00
+MID_OP2_#022	As the name implies, the "Four Winds" is\ncomposed of four members.\x0E\x04\x02\x00
+MID_OP2_#023	Gregory here included.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x10\x0EE003_エル\nI directed him to gather information for us,\nsame as Zelestia.\x0E\x04\x02\x00
+MID_OP2_#025	Thank you for your dutiful work, Gregory. But\nwe did plan to meet some distance from here.\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x06\x000\x14E003_グレゴリー\x18MPID_Gregory\n\x0E\x03\x02\x16\x14E003_グレゴリー\nRight, about that... I got turned around and\ndidn't think I could find our spot.\x0E\x04\x02\x00
+MID_OP2_#027	Wasn't sure what to do, so I headed back to\nthe border. I'm so grateful I found you.\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x10\x0EE003_エル\nBefore you give us your report, there is\nsomething that you should know.\x0E\x04\x02\x00
+MID_OP2_#029	This individual here is─\x0E\x04\x00\x00
+MID_OP2_#030	\x0E\x03\x02\x16\x14E003_グレゴリー\nNot the Divine Dragon we know. Right?\x0E\x04\x00\x00
+MID_OP2_#031	\x0E\x03\x02\x10\x0EE003_エル\nCorrect.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x16\x14E003_グレゴリー\nSo I'm guessing the ritual worked, and you\nsummoned this one from elsewhere.\x0E\x04\x00\x00
+MID_OP2_#033	\x0E\x03\x02\x10\x0EE003_エル\nIndeed. That spares me the work of explanation.\x0E\x04\x00\x00
+MID_OP2_#034	\x0E\x03\x02\x10\x0EE003_イル\nAmazing, Gregory! How did you figure all of\nthat out?\x0E\x04\x00\x00
+MID_OP2_#035	\x0E\x03\x02\x16\x14E003_グレゴリー\nNot sure, exactly. Something about this one\nseems...scary, I guess.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x0A\x08リュール\nProbably the fact I almost attacked you.\nSorry about that.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x16\x14E003_グレゴリー\nNo, that's not it. You're just different from the\nDivine Dragon I knew.\x0E\x04\x02\x00
+MID_OP2_#038	I'm not talking appearances, either. It's like your\nessence is...off. I'm not making any sense, am I?\x0E\x04\x00\x00
+MID_OP2_#039	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nGregory's sense of caution is sharp. He may be\nattuned to differences others don't notice.\x0E\x04\x00\x00
+MID_OP2_#040	\x0E\x03\x02\x0A\x08リュール\nI see...\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nThat's OK. So long as you aren't a threat,\nI'm sure I'll get used to you.\x0E\x04\x02\x00
+MID_OP2_#042	Oh, and sorry if I'm not addressing you formally\nenough. Always been bad at that etiquette stuff.\x0E\x04\x00\x00
+MID_OP2_#043	\x0E\x03\x02\x0A\x08リュール\nI don't mind. Please, feel free to speak casually.\x0E\x04\x00\x00
+MID_OP2_#044	\x0E\x03\x02\x10\x0EE003_イル\nIt's all right, Gregory. The Divine Dragon has\nproven to be a good person, full of kindness.\x0E\x04\x02\x00
+MID_OP2_#045	That's right, Divine One. I quite like you.\x0E\x04\x00\x00
+MID_OP2_#046	\x0E\x03\x02\x0A\x08リュール\nThanks, Nil. I like you too.\x0E\x04\x00\x00
+MID_OP2_#047	\x0E\x03\x02\x10\x0EE003_エル\n...\x0E\x04\x00\x00
+MID_OP2_#048	\x0E\x03\x02\x0A\x08リュール\nYou said the Four Winds were four knights.\nWhere are the other two, then?\x0E\x04\x00\x00
+MID_OP2_#049	\x0E\x03\x02\x10\x0EE003_エル\nThey are embedded in the remaining nations,\ngathering intelligence there.\x0E\x04\x02\x00
+MID_OP2_#050	As Zelestia took Firene, and Gregory Brodia,\nthe other two are assigned to Elusia and Solm.\x0E\x04\x00\x00
+MID_OP2_#051	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nI'm the leader of our little group.\x0E\x04\x02\x00
+MID_OP2_#052	I'll admit it, the name Zelestia of the Four Winds\ncarries weight. I'm a fairly renowned general.\x0E\x04\x00\x00
+MID_OP2_#053	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nEither that, or you're so loud that people have\nno choice but to know your name.\x0E\x04\x00\x00
+MID_OP2_#054	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nWhat did you say?!\x0E\x04\x00\x00
+MID_OP2_#055	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nJust joking! C'mon, no need for violence!\x0E\x04\x00\x00
+MID_OP2_#056	\x0E\x03\x02\x0A\x08リュール\nWhat was that?!\x0E\x04\x00\x00
+MID_OP2_#057	\x0E\x03\x02\x10\x0EE003_イル\nAre we under attack?!\x0E\x04\x00\x00
+MID_OP2_#058	\x0E\x03\x02\x16\x14E003_グレゴリー\nHaha, looks like my pursuers found us... Sorry,\nI really thought I'd lost them.\x0E\x04\x00\x00
+MID_OP2_#059	\x0E\x03\x02\x10\x0EE003_エル\nExplain, Gregory.\x0E\x04\x00\x00
+MID_OP2_#060	\x0E\x03\x02\x16\x14E003_グレゴリー\nOh, um...I was spotted? While scouting? I ran\nfor my life, but, hah...I guess they followed.\x0E\x04\x00\x00
+MID_OP2_#061	\x0E\x03\x02\x10\x0EE003_イル\nOne, two, three─ Ugh, no use counting. The\nenemy outnumbers us, and easily.\x0E\x04\x02\x00
+MID_OP2_#062	We should run.\x0E\x04\x00\x00
+MID_OP2_#063	\x0E\x03\x02\x0A\x08リュール\nBut wait. Why not fight them off?\x0E\x04\x00\x00
+MID_OP2_#064	\x0E\x03\x02\x10\x0EE003_エル\nIf they are pursuing us, then they are border\nguards or knights. They will not have a bracelet.\x0E\x04\x02\x00
+MID_OP2_#065	A fight will exhaust us without any gain.\x0E\x04\x00\x00
+MID_OP2_#066	\x0E\x03\x02\x16\x14E003_グレゴリー\nYou wanna run? I'm your man. This way,\neveryone. Follow me!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE003_イル\x022\n\x0E\x03\x00\x14\x0EE003_エル\x023\n\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nWe should be safe here. Let's just hide out\nfor a bit.\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x10\x0EE003_イル\nAh... That reminds me, Divine One...\x0E\x04\x02\x00
+MID_OP3_#003	While I see that you prefer to fight, we are\naccustomed to being on the defensive.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x0A\x08リュール\nI noticed. You choose your battles.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x16\x14E003_グレゴリー\nOf course. How do you think we managed to\nsurvive this long?\x0E\x04\x02\x00
+MID_OP3_#006	Not by fighting bravely every time someone\ncomes after us, but by running away.\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x02\x10\x0EE003_エル\nBeyond operations to place the Emblems into\nslumber, we are in no position to attack anyone.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nPerhaps if the Four Winds were equal to other\nnations' knightly orders, it would be different.\x0E\x04\x02\x00
+MID_OP3_#009	But alas, we're not. I fear we are something of\na disappointment.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x10\x0EE003_イル\nNonsense. The Four Winds have saved our lives\ntime and time again.\x0E\x04\x02\x00
+MID_OP3_#011	My sister and I are very proud of you.\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x18\x16E003_セレスティア\nKind words, Lord Nil. I thank you.\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x10\x0EE003_エル\nThe foe has abandoned chase. Gregory, give us\nyour report.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nSomething's happening in Brodia. They've\nstarted sending soldiers out of the country.\x0E\x04\x00\x00
+MID_OP3_#015	\x0E\x03\x02\x10\x0EE003_エル\nI would not have expected them to be plotting\nan invasion. Where?\x0E\x04\x00\x00
+MID_OP3_#016	\x0E\x03\x02\x16\x14E003_グレゴリー\nThat I don't know. Wherever it is, they've done\na good job keeping it secret.\x0E\x04\x02\x00
+MID_OP3_#017	But judging by the intel I got, I think they want\nto take the seven bracelets.\x0E\x04\x00\x00
+MID_OP3_#018	\x0E\x03\x02\x0A\x08リュール\nInteresting. Maybe Brodia's doing what we are─\nkeeping them away from our unknown enemy.\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x16\x14E003_グレゴリー\nI don't think that's their goal. It seems like they\nwant the bracelets' power for themselves.\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x0A\x08リュール\nWhat would a peaceful nation want with\nmore power?\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x10\x0EE003_イル\nThe boon granted by the Emblem Bracelets\nwhen they are gathered varies by circumstance.\x0E\x04\x02\x00
+MID_OP3_#022	With all seven gathered in an awakened state,\nthe result, as you know, is enormous power.\x0E\x04\x02\x00
+MID_OP3_#023	But gather all seven when they are asleep...\x0E\x04\x00\x00
+MID_OP3_#024	\x0E\x03\x02\x10\x0EE003_エル\nAnd the bracelets can render you immune to\nall harm.\x0E\x04\x00\x00
+MID_OP3_#025	\x0E\x03\x02\x0A\x08リュール\nImmune? They make you invincible?\x0E\x04\x00\x00
+MID_OP3_#026	\x0E\x03\x02\x16\x14E003_グレゴリー\nThat's right. It's the ultimate defense.\x0E\x04\x02\x00
+MID_OP3_#027	For a country that hates war, I can't think of\nanything more valuable.\x0E\x04\x00\x00
+MID_OP3_#028	\x0E\x03\x02\x10\x0EE003_イル\nIf that is so, then they would need the Emblems\nto be asleep. They would require Nel.\x0E\x04\x02\x00
+MID_OP3_#029	Perhaps the "assassins" sent to Lythos Castle\nwere actually kidnappers from Brodia?\x0E\x04\x00\x00
+MID_OP3_#030	\x0E\x03\x02\x10\x0EE003_エル\nThat is possible.\x0E\x04\x00\x00
+MID_OP3_#031	\x0E\x03\x02\x16\x14E003_グレゴリー\nWell, we don't know any of that for sure. But\nthere's one thing we do know...\x0E\x04\x02\x00
+MID_OP3_#032	Brodia's going to raise an army, and soon.\x0E\x04\x00\x00
+MID_OP3_#033	\x0E\x03\x00\x0A\x04不明\x024\n\x0E\x03\x02\x06\x04不明\nYou figured it all out! Well done. Though, I'm\nafraid this means we can't let you leave.\x0E\x04\x00\x00
+MID_OP3_#034	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP3_#035	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nImpossible! I didn't sense anyone approaching.\x0E\x04\x00\x00
+MID_OP3_#036	\x0E\x03\x02\x10\x0EE003_イル\nIt seems these are no average soldiers.\x0E\x04\x00\x00
+MID_OP3_#037	\x0E\x03\x02\x10\x0EE003_エル\nThey are Brodian royals.\x0E\x04\x00\x00
+MID_OP3_#038	\x0E\x03\x00\x18\x12E003_Hide\x024\n\x0E\x03\x02\x14\x12E003_Hide\nLook, Diamant. Here they are.\x0E\x04\x02\x00
+MID_OP3_#039	Now finish them off. Or must I do everything\nfor you, my pathetic excuse for a brother?\x0E\x04\x00\x00
+MID_OP3_#040	\x0E\x03\x00\x18\x12E003_Boss\x021\x0E\x03\x02\x14\x12E003_Boss\nI was planning to take them by surprise, Alcryst.\nYou shouldn't have revealed our position.\x0E\x04\x00\x00
+MID_OP3_#041	\x0E\x03\x02\x14\x12E003_Hide\nOh... Thanks for telling me the plan.\x0E\x04\x00\x00
+MID_OP3_#042	\x0E\x03\x02\x14\x12E003_Boss\nNel, Nil, I take no pleasure in this. I hoped our\nnext meeting would be friendly.\x0E\x04\x02\x00
+MID_OP3_#043	Sadly, it seems now that bloodshed\nis unavoidable.\x0E\x04\x00\x00
+MID_OP3_#044	\x0E\x03\x02\x10\x0EE003_エル\nYou must be angry indeed to discard the\npeaceful principles of your nation.\x0E\x04\x00\x00
+MID_OP3_#045	\x0E\x03\x02\x10\x0EE003_イル\nLook, Nel. He is wearing one of the bracelets.\x0E\x04\x00\x00
+MID_OP3_#046	\x0E\x03\x02\x14\x12E003_Hide\nYou're seeking the bracelets, hm? What a\ncoincidence! As your spy deduced, so are we.\x0E\x04\x02\x00
+MID_OP3_#047	It seems our goals align. What do you say?\nShould we join forces once more?\x0E\x04\x00\x00
+MID_OP3_#048	\x0E\x03\x02\x10\x0EE003_エル\nYou cannot be serious.\x0E\x04\x00\x00
+MID_OP3_#049	\x0E\x03\x02\x14\x12E003_Hide\nYou're right, I'm not. What gave it away?\x0E\x04\x00\x00
+MID_OP3_#050	\x0E\x03\x02\x14\x12E003_Boss\nWar must be torn out at the root before its\ntendrils spread.\x0E\x04\x02\x00
+MID_OP3_#051	As much as it pains me to kill former allies,\nI have no other choice.\x0E\x04\x02\x00
+MID_OP3_#052	Soldiers, to battle! Capture Lady Nel alive─\nshow the rest no mercy.\x0E\x04\x00\x00
+MID_OP3_#053	\x0E\x03\x02\x10\x0EE003_エル\nCircumstances now demand we fight.\x0E\x04\x00\x00
+MID_OP3_#054	\x0E\x03\x02\x10\x0EE003_イル\nZelestia. Gregory. Prepare for battle.\x0E\x04\x00\x00
+MID_OP3_#055	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nGladly.\x0E\x04\x00\x00
+MID_OP3_#056	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nI'm gonna focus on not getting hurt...\x0E\x04\x00\x00
+MID_OP3_#057	\x0E\x03\x02\x10\x0EE003_エル\nReady yourself, Divine One. I expect no less\nfrom you than before.\x0E\x04\x00\x00
+MID_OP3_#058	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nThat goes without saying.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01 \x12E003_Boss\nAngry\n\x0E\x03\x02\x14\x12E003_Boss\nIt is unfortunate that we have to fight each\nother, but I suppose we should get started.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EE003_エル\x02t\n\x0E\x05\x01\x1C\x0EE003_エル\nAngry\n\x0E\x03\x02\x10\x0EE003_エル\nBeware the magical artillery of Brodia. They can\nstrike from quite a distance.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EE003_エル\x02t\n\x0E\x05\x01\x1C\x0EE003_エル\nAngry\n\x0E\x03\x02\x10\x0EE003_エル\nThat soldier is poised to let fly a massive salvo.\nThe attack will cover a wide area. Be ready.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01 \x12E003_Boss\nAngry\n\x0E\x03\x02\x14\x12E003_Boss\nEmblem Veronica, I will be borrowing your\npower to establish contracts with Heroes.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01 \x12E003_Boss\nAngry\n\x0E\x03\x02\x14\x12E003_Boss\nOur Emblem has considerable power. Now is\nthe time to yield, before it is too late.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\n\x0E\x03\x02\x14\x12E003_Boss\nWe were all going to die anyway. We never\nshould have tried...\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01 \x12E003_Hide\nSmile\n\x0E\x03\x02\x14\x12E003_Hide\nBe grateful it's me you're fighting and not my\nincompetent brother. I'll end this cleanly.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01\x1E\x12E003_Hide\x08Pain\n\x0E\x03\x02\x14\x12E003_Hide\nIt wouldn't have come to this...if I were king...\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\n\x0E\x03\x02\x14\x12E003_Boss\nI never wanted to face myself on the battlefield.\nIt seems the time has come.\x0E\x04\x00\x00
+MID_BT5_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nWith an attitude like that, how can you expect\nto ever be victorious?\x0E\x04\x00\x00
+MID_BT5_#003	\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\n\x0E\x03\x02\x14\x12E003_Boss\nEven if I won, nothing would change. I have\nno idea how to be a good king.\x0E\x04\x00\x00
+MID_BT5_#004	\x0E\x05\x01&\x12E003_Boss\x10Surprise\n\x0E\x05\x01\x1C\x0Cディアマンド\x0CStrike\n\x0E\x03\x02\x0E\x0Cディアマンド\nThen lay down your weapon. If you can't, you\nmust still believe you have something to defend!\x0E\x04\x02\x00
+MID_BT5_#005	If you are truly king, show me a worthy battle!\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\n\x0E\x03\x02\x14\x12E003_Boss\nAlcryst? You want to fight me? I knew it. You\nnever accepted me as king.\x0E\x04\x02\x00
+MID_BT6_#002	\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\nI suspected you were plotting my assassination\nall along. Now's the time, is it?\x0E\x04\x00\x00
+MID_BT6_#003	\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x16\nスタルーク\x08Pain\n\x0E\x03\x02\x0C\nスタルーク\nAssassination?! You're my brother, Diamant.\nI respect and admire you─I would never!\x0E\x04\x00\x00
+MID_BT6_#004	\x0E\x03\x02\x14\x12E003_Boss\nThen lay down your arms.\x0E\x04\x00\x00
+MID_BT6_#005	\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\nI can't. You may be my big brother, but you're\nstill the enemy.\x0E\x04\x02\x00
+MID_BT6_#006	\x0E\x05\x01\x16\nスタルーク\x08Pain\nWait, you're certain to misunderstand that!\nHold on a minute, let me clarify...\x0E\x04\x02\x00
+MID_BT6_#007	I'm sorry, my words aren't coming out right!\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x14\nシトリニカ\x06Sad\n\x0E\x03\x02\x0C\nシトリニカ\nI am not happy about meeting you here. Now\nwe will have to fight.\x0E\x04\x00\x00
+MID_BT7_#002	\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01&\x12E003_Boss\x10Surprise\n\x0E\x03\x02\x14\x12E003_Boss\nCitrinne! What are you doing here?! You were\nprotecting Alcryst when you...\x0E\x04\x00\x00
+MID_BT7_#003	\x0E\x05\x01\x18\nシトリニカ\nRelax\n\x0E\x03\x02\x0C\nシトリニカ\nIt seems that the "me" of this world acquitted\nherself valiantly. I wish I had time to hear more.\x0E\x04\x02\x00
+MID_BT7_#004	\x0E\x05\x01\x18\nシトリニカ\nAngry\nBut this version of me is your enemy. Think of\nme as an apparition if you like.\x0E\x04\x00\x00
+MID_BT7_#005	\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\n\x0E\x03\x02\x14\x12E003_Boss\nOf course. If you're to be an apparition, there is\nno point in talking about your other self.\x0E\x04\x02\x00
+MID_BT7_#006	\x0E\x05\x01\x1C\x12E003_Boss\x06Shy\nAlthough, speaking to you like this reminds me\nof that one ball. We all had so much fun...\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01&\x12E003_Boss\x10Surprise\n\x0E\x03\x02\x14\x12E003_Boss\nDivine Dragon? Have you returned to us?!\x0E\x04\x00\x00
+MID_BT8_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI'm not who you think I am. Please, think of me\nas a stranger when we fight.\x0E\x04\x00\x00
+MID_BT8_#003	\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\n\x0E\x03\x02\x14\x12E003_Boss\nI cannot fight you. I won't risk losing you again.\nIt has been awful here since you died.\x0E\x04\x02\x00
+MID_BT8_#004	I believed all along that the nations should stop\nsquabbling and go back to the way we were!\x0E\x04\x02\x00
+MID_BT8_#005	I beg you, please, guide us to unity once more.\x0E\x04\x00\x00
+MID_BT8_#006	\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nI'm sorry. Only the Divine Dragon of this world\ncould have done that, but...\x0E\x04\x02\x00
+MID_BT8_#007	\x0E\x05\x01\x16\x08リュール\nAngry\nI can still take on the burden of stopping this\nconflict through the battle you wish to avoid.\x0E\x04\x02\x00
+MID_BT8_#008	Forgive me for fighting you!\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01&\x12E003_Boss\x10Surprise\n\x0E\x03\x02\x14\x12E003_Boss\nAmber? Is this a mirage? Maybe I'm losing my\ngrasp on reality...\x0E\x04\x02\x00
+MID_BT9_#002	\x0E\x05\x01\x1C\x12E003_Boss\x06Shy\nNo matter how hard I look, I still see you\nstanding before me. Haha... Hahaha!\x0E\x04\x00\x00
+MID_BT9_#003	\x0E\x03\x00\x0E\x08アンバー\x02t\n\x0E\x05\x01\x1C\x08アンバー\x10Surprise\n\x0E\x03\x02\x0A\x08アンバー\nUm, Prince Diamant? Am I doing something you\nfind funny?\x0E\x04\x00\x00
+MID_BT9_#004	\x0E\x03\x02\x14\x12E003_Boss\nI laugh because I don't know what else to do.\nYou died defending me. Now I must fight you?\x0E\x04\x02\x00
+MID_BT9_#005	\x0E\x05\x01\x12\x08アンバー\x06Sad\n\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\nAre you an illusion? One of the Corrupted? No\nmatter. We meet in battle, so I have to kill you.\x0E\x04\x02\x00
+MID_BT9_#006	\x0E\x05\x01\x1C\x12E003_Boss\x06Shy\nAre you enjoying yourself now, as you always\ndid before? How I have missed that.\x0E\x04\x00\x00
+MID_BT9_#007	\x0E\x03\x02\x0A\x08アンバー\nSo the "me" of this world is gone.\x0E\x04\x02\x00
+MID_BT9_#008	Prince Diamant... Forgive me. I did not mean to\nmake you sad.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01\x1C\x12E003_Boss\x06Shy\n\x0E\x03\x02\x14\x12E003_Boss\nJade? Why are you here? It's like a scene out of\none of your comedies.\x0E\x04\x02\x00
+MID_BT10_#002	Remember? An old man, thought dead, wakes\nup with a giant yawn. That was a masterpiece.\x0E\x04\x02\x00
+MID_BT10_#003	\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\nWhen you died, I waited for you to wake. We\ncould have laughed together. But you didn't.\x0E\x04\x00\x00
+MID_BT10_#004	\x0E\x03\x00\x0E\x08ジェーデ\x02t\n\x0E\x05\x01\x12\x08ジェーデ\x06Sad\n\x0E\x03\x02\x0A\x08ジェーデ\nPrince Diamant...\x0E\x04\x00\x00
+MID_BT10_#005	\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\n\x0E\x03\x02\x14\x12E003_Boss\nWhy didn't you wake up?! Why didn't you\nappear before me right then?!\x0E\x04\x02\x00
+MID_BT10_#006	Just when I thought the wound was healing, you\ncome to remind me of those happier times.\x0E\x04\x00\x00
+MID_BT10_#007	\x0E\x03\x02\x0A\x08ジェーデ\nForgive me for opening up an old wound, but I\nam not the Jade you knew.\x0E\x04\x02\x00
+MID_BT10_#008	I am only a stranger with a familiar face, and I\nmust defeat you.\x0E\x04\x00\x00
+MID_BT11_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Boss\x02b\n\x0E\x05\x01&\x12E003_Boss\x10Surprise\n\x0E\x03\x02\x14\x12E003_Boss\nSaphir! What are you doing on their side? Your\nallegiance is with us!\x0E\x04\x00\x00
+MID_BT11_#002	\x0E\x03\x00\x10\nザフィーア\x02t\n\x0E\x05\x01\x1E\nザフィーア\x10Surprise\n\x0E\x03\x02\x0C\nザフィーア\nPrince Diamant? I'm not...\x0E\x04\x00\x00
+MID_BT11_#003	\x0E\x03\x02\x14\x12E003_Boss\nAh! You are merely a stranger who looks like\nher, yes?\x0E\x04\x02\x00
+MID_BT11_#004	\x0E\x05\x01\x14\nザフィーア\x06Sad\n\x0E\x05\x01\x1E\x12E003_Boss\x08Pain\nThat's right. Saphir died long ago, didn't she?\x0E\x04\x02\x00
+MID_BT11_#005	\x0E\x05\x01\x1C\x12E003_Boss\x06Sad\nAnd yet, whenever I stand on the battlefield,\nI still imagine her there.\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01&\x12E003_Hide\x10Surprise\n\x0E\x03\x02\x14\x12E003_Hide\nHold on! You... You're me!\x0E\x04\x00\x00
+MID_BT12_#002	\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x16\nスタルーク\x08Pain\n\x0E\x03\x02\x0C\nスタルーク\nUgh, I'm sorry. I know our faces are the same,\nbut I'm sure you're much more accomplished.\x0E\x04\x00\x00
+MID_BT12_#003	\x0E\x05\x01"\x12E003_Hide\x0CStatus\n\x0E\x03\x02\x14\x12E003_Hide\nHow servile. Are you an illusion? Projecting\nyour weakness upon me won't make me falter.\x0E\x04\x02\x00
+MID_BT12_#004	I will triumph, even against myself. You'll see.\x0E\x04\x00\x00
+MID_BT12_#005	\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\nWow. How cool! It's like you're me yet so full\nof confidence.\x0E\x04\x02\x00
+MID_BT12_#006	I wish I was like that too.\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01 \x12E003_Hide\nAngry\n\x0E\x03\x02\x14\x12E003_Hide\nHuh? Brother, I'm not the enemy. Or are you\ntrying to get rid of me in the confusion of battle.\x0E\x04\x02\x00
+MID_BT13_#002	\x0E\x05\x01$\x12E003_Hide\x0EStandBy\nIf that is your aim, I will accept your challenge.\x0E\x04\x00\x00
+MID_BT13_#003	\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x16\x0Cディアマンド\x06Sad\n\x0E\x03\x02\x0E\x0Cディアマンド\nI get the impression our relationship is much\nless cordial in this world.\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01 \x12E003_Hide\nAngry\n\x0E\x03\x02\x14\x12E003_Hide\nYou. Who are you really?\x0E\x04\x02\x00
+MID_BT14_#002	It's been bothering me for a while. Why have\nyou assumed the form of the Divine Dragon?\x0E\x04\x00\x00
+MID_BT14_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1A\x08リュール\x0EStandBy\n\x0E\x03\x02\x0A\x08リュール\nI haven't assumed this form. Would you believe\nme if I said I came from another world?\x0E\x04\x00\x00
+MID_BT14_#004	\x0E\x05\x01$\x12E003_Hide\x0EStandBy\n\x0E\x03\x02\x14\x12E003_Hide\nSo, you'll continue this farce, pretending to be\nthe Divine One. How intriguingly brazen of you.\x0E\x04\x02\x00
+MID_BT14_#005	\x0E\x05\x01 \x12E003_Hide\nSmile\nUntil I behead you and ascertain your true\nidentity, you may go on entertaining me.\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01&\x12E003_Hide\x10Surprise\n\x0E\x03\x02\x14\x12E003_Hide\nI can hardly believe I'm seeing you here.\x0E\x04\x02\x00
+MID_BT15_#002	\x0E\x05\x01\x1E\x12E003_Hide\x08Pain\nYou must have appeared because you hate me.\nFor saying I would protect you, when I couldn't.\x0E\x04\x00\x00
+MID_BT15_#003	\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x1A\x06ラピス\x10Surprise\n\x0E\x03\x02\x08\x06ラピス\nYou're talking nonsense. I could never hate you.\x0E\x04\x02\x00
+MID_BT15_#004	\x0E\x05\x01\x14\x06ラピス\nSmile\nIf the "me" of this world managed to keep you\nsafe, then I'm sure she was satisfied.\x0E\x04\x02\x00
+MID_BT15_#005	So please, don't be upset.\x0E\x04\x00\x00
+MID_BT15_#006	\x0E\x05\x01\x1C\x12E003_Hide\x06Sad\n\x0E\x03\x02\x14\x12E003_Hide\nYou're a hallucination. If I allow this to dull my\nwits, I'll only be playing into enemy hands.\x0E\x04\x02\x00
+MID_BT15_#007	\x0E\x05\x01$\x12E003_Hide\x0ESerious\nAnd yet... If only you could have seen me, Lapis,\nascended to the throne.\x0E\x04\x00\x00
+MID_BT15_#008	\x0E\x05\x01\x10\x06ラピス\x06Sad\n\x0E\x03\x02\x08\x06ラピス\nNo matter where you end up, you will always be\nwonderful just the way you are.\x0E\x04\x00\x00
+MID_BT16_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01\x1E\x12E003_Hide\x08Pain\n\x0E\x03\x02\x14\x12E003_Hide\nCitrinne? It hurts to see you now, knowing I\nfailed to keep you safe.\x0E\x04\x02\x00
+MID_BT16_#002	Everyone in your noble house died too. They\nwere like family. Each death...\x0E\x04\x00\x00
+MID_BT16_#003	\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x14\nシトリニカ\x06Sad\n\x0E\x03\x02\x0C\nシトリニカ\nI half expected it, but...here we are. I feel such\nsorrow every time you look at me that way.\x0E\x04\x00\x00
+MID_BT16_#004	\x0E\x05\x01\x1C\x12E003_Hide\x06Sad\n\x0E\x03\x02\x14\x12E003_Hide\nNo matter your wealth, life itself remains\nirreplaceable. The cause of so much suffering.\x0E\x04\x02\x00
+MID_BT16_#005	\x0E\x05\x01\x1E\x12E003_Hide\x08Pain\nI should have died that day. I wanted you to\nlive. I wanted everyone to live!\x0E\x04\x00\x00
+MID_BT16_#006	\x0E\x05\x01\x14\nシトリニカ\x06Shy\n\x0E\x03\x02\x0C\nシトリニカ\nThe Alcryst of this world looks so confident,\nyet at heart, you're just like the one I know.\x0E\x04\x02\x00
+MID_BT16_#007	I'm sure you did your best. As painful as it was,\nI'm glad that I was the one to go first.\x0E\x04\x00\x00
+MID_BT17_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nザフィーア\x02t\n\x0E\x05\x01\x18\nザフィーア\nRelax\n\x0E\x03\x02\x0C\nザフィーア\nIt's weird seeing you so confident, Prince\nAlcryst. I could get used to it though.\x0E\x04\x00\x00
+MID_BT17_#002	\x0E\x03\x00\x18\x12E003_Hide\x02b\n\x0E\x05\x01&\x12E003_Hide\x10Surprise\n\x0E\x03\x02\x14\x12E003_Hide\nIs this another illusion? Saphir?! I know you\ndied protecting Father.\x0E\x04\x00\x00
+MID_BT17_#003	\x0E\x05\x01\x1E\nザフィーア\x10Surprise\n\x0E\x03\x02\x0C\nザフィーア\nDid I? Huh. Well, if I had to go, I'm glad I went\ndown defending King Morion.\x0E\x04\x02\x00
+MID_BT17_#004	\x0E\x05\x01\x18\nザフィーア\nRelax\nOn that note, Prince Alcryst, let's get down to\nbusiness. Give me all you've got!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x18\x12E003_Boss\x021\n\x0E\x03\x00\x18\x12E003_Hide\x022\n\x0E\x03\x00\x14\x0EE003_エル\x023\n\x0E\x03\x00\x14\x0EE003_イル\x024\n\x0E\x03\x02\x14\x12E003_Boss\nIt is over. We withdraw.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x14\x12E003_Hide\nDiamant, no! We can't surrender! Not after\nthey took our bracelet!\x0E\x04\x02\x00
+MID_ED1_#003	We must get it back! Come on! Round two!\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x14\x12E003_Boss\nYou have a plan, then? An idea that will turn\nthe tide? Please, share it.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x14\x12E003_Hide\nArgh...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x14\x12E003_Boss\nNel, Nil, we are removing ourselves from the\ngame board.\x0E\x04\x02\x00
+MID_ED1_#007	We won't interfere any longer. The bracelet is\nin your hands, as is Brodia's fate.\x0E\x04\x02\x00
+MID_ED1_#008	Please... Guide the world to peace.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x10\x0EE003_エル\nThis is the Bracelet of the Lonely Heir, without\na doubt.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nWith this, we now have four bracelets.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x10\x0EE003_エル\nEmblem Veronica dwells within. She has the\npower to call upon soldiers from other worlds.\x0E\x04\x02\x00
+MID_ED1_#012	But she is tainted by evil, the same as Firene's\nEmblem. We should assume they all will be.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x00\x1C\x16E003_敵ヴェロニカ\x022\n\x0E\x06\x004\x16E003_敵ヴェロニカ\x1AMPID_Veronica\n\x0E\x03\x02\x18\x16E003_敵ヴェロニカ\nAm I...with you now?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nYes, Emblem Veronica.\x0E\x04\x02\x00
+MID_ED1_#015	But we won't make you fight for us. You can\nrest for now.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x18\x16E003_敵ヴェロニカ\nI see... I am grateful for the reprieve. But I am\nalso a bit lonely.\x0E\x04\x02\x00
+MID_ED1_#017	When I awaken, I hope you will be at my side,\neven without a contract binding us together.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08リュール\nDon't worry. You'll remain with us during our\njourney. And someday, we will see you again.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x10\x0EE003_イル\nI suppose that settles things here.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x00\x1A\x14E003_グレゴリー\x022\n\x0E\x03\x02\x16\x14E003_グレゴリー\nI'm not used to fighting my own battles,\nlet alone winning them.\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x10\x0EE003_エル\nYes. Fleeing comes more naturally to us all,\nthe Divine Dragon excluded.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nThere may be some truth to that. Each of us has\nrun away from one thing or another.\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08リュール\nWhat do you mean?\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x18\x16E003_セレスティア\nDuring the war a thousand years ago, when\nSombron burned my village, I fled to Lythos.\x0E\x04\x02\x00
+MID_ED1_#025	Other Mage Dragons possessed powerful magic,\nbut mine has never been that strong.\x0E\x04\x02\x00
+MID_ED1_#026	That's why Sombron couldn't find me while my\nfamily and friends, all brilliant mages, perished.\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x02\x0A\x08リュール\nAh...\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x18\x16E003_セレスティア\nSombron planned to force the Mage Dragons to\nfight for him, but we refused to submit.\x0E\x04\x02\x00
+MID_ED1_#029	And now, I'm the last of my kind.\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x02\x16\x14E003_グレゴリー\nI used to live in Elusia as a follower of Sombron.\nBut I couldn't act like the others.\x0E\x04\x02\x00
+MID_ED1_#031	The Fell Dragon craved pain and blood, and his\ndisciples were only happy to oblige.\x0E\x04\x02\x00
+MID_ED1_#032	I just couldn't join their fervor. So I faked it.\nAnd when a priest found out...\x0E\x04\x02\x00
+MID_ED1_#033	I had no choice but to run. Run, or give up my\nlife to the Fell Dragon.\x0E\x04\x00\x00
+MID_ED1_#034	\x0E\x03\x02\x18\x16E003_セレスティア\nI welcomed Gregory into Lythos. He selflessly\nrushed to my aid in a vicious battle in Elusia.\x0E\x04\x00\x00
+MID_ED1_#035	\x0E\x03\x02\x16\x14E003_グレゴリー\nYou say it like I'm some kind of hero. You were\nsurrounded by the Corrupted, so I went to help.\x0E\x04\x00\x00
+MID_ED1_#036	\x0E\x03\x00\x14\x0EE003_イル\x022\n\x0E\x03\x02\x10\x0EE003_イル\nAnd I, as you know, am a failure.\x0E\x04\x02\x00
+MID_ED1_#037	I am only alive because Nel and I fled from\nSombron together.\x0E\x04\x00\x00
+MID_ED1_#038	\x0E\x03\x02\x10\x0EE003_エル\nI have said it before, and I will say it again.\nYou are not a failure, Nil.\x0E\x04\x00\x00
+MID_ED1_#039	\x0E\x03\x02\x10\x0EE003_イル\nI'm sorry. I know it upsets you when I speak\nthat way.\x0E\x04\x02\x00
+MID_ED1_#040	But Nel is much stronger than I am. She could\nface any opponent...if not for me.\x0E\x04\x02\x00
+MID_ED1_#041	So I suppose she is also one who is comfortable\ntaking a stand.\x0E\x04\x00\x00
+MID_ED1_#042	\x0E\x03\x02\x10\x0EE003_エル\nNo. I have done as much fleeing as the rest\nof you.\x0E\x04\x00\x00
+MID_ED1_#043	\x0E\x03\x02\x10\x0EE003_イル\nThat's not true. I've never seen you run away\nfrom anything.\x0E\x04\x00\x00
+MID_ED1_#044	\x0E\x03\x02\x10\x0EE003_エル\nI fled my responsibility.\x0E\x04\x02\x00
+MID_ED1_#045	I should have stopped the royals of the four\nnations from taking their respective bracelets.\x0E\x04\x00\x00
+MID_ED1_#046	\x0E\x03\x02\x10\x0EE003_イル\nYou were only respecting their wishes. You even\nsaid that's what the Divine Dragon would want.\x0E\x04\x00\x00
+MID_ED1_#047	\x0E\x03\x02\x10\x0EE003_エル\nI said that to mask my fear.\x0E\x04\x02\x00
+MID_ED1_#048	I was afraid that my plea would be rejected.\nThat I would lose our allies.\x0E\x04\x02\x00
+MID_ED1_#049	And that I would be forced to fight them in\nLythos Castle.\x0E\x04\x00\x00
+MID_ED1_#050	\x0E\x03\x02\x10\x0EE003_イル\nI had no idea...\x0E\x04\x00\x00
+MID_ED1_#051	\x0E\x03\x02\x10\x0EE003_エル\nSo I, too, have fled when I should have made a\nstand. I could have stopped all of this.\x0E\x04\x02\x00
+MID_ED1_#052	That knowledge prevented me from leaving the\nland of Lythos until our savior arrived.\x0E\x04\x02\x00
+MID_ED1_#053	And because of that, I am perhaps to blame\nfor the current state of the world.\x0E\x04\x00\x00
+MID_ED1_#054	\x0E\x03\x02\x10\x0EE003_イル\nAbsolutely not. You have done nothing wrong.\x0E\x04\x00\x00
+MID_ED1_#055	\x0E\x03\x02\x18\x16E003_セレスティア\nI agree. Our unknown opponent should carry\nthe blame, not you.\x0E\x04\x00\x00
+MID_ED1_#056	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nI never would've thought you were running\naway too, Lady Nel. You always seem so strong.\x0E\x04\x02\x00
+MID_ED1_#057	We may be a collection of weaklings, but we're\nstill alive. That has to count for something.\x0E\x04\x00\x00
+MID_ED1_#058	\x0E\x03\x02\x10\x0EE003_エル\nThe Divine Dragon was strong. And the\nDivine Dragon died.\x0E\x04\x00\x00
+MID_ED1_#059	\x0E\x03\x02\x0A\x08リュール\nNel...\x0E\x04\x00\x00
+MID_ED1_#060	\x0E\x03\x02\x10\x0EE003_イル\nAll right, that's enough doom and gloom!\nWe're making this Divine Dragon worry!\x0E\x04\x02\x00
+MID_ED1_#061	Things are different now. Each of us has proven\nwe can handle ourselves in battle.\x0E\x04\x02\x00
+MID_ED1_#062	That is in no small part thanks to you.\nYour guidance has been a blessing.\x0E\x04\x00\x00
+MID_ED1_#063	\x0E\x03\x00\x1C\x16E003_セレスティア\x024\n\x0E\x03\x02\x18\x16E003_セレスティア\nIt's true.\x0E\x04\x00\x00
+MID_ED1_#064	\x0E\x03\x00\x1A\x14E003_グレゴリー\x024\n\x0E\x03\x02\x16\x14E003_グレゴリー\nYeah, you've been a big help.\x0E\x04\x00\x00
+MID_ED1_#065	\x0E\x03\x02\x10\x0EE003_エル\nI am also grateful for your assistance.\x0E\x04\x02\x00
+MID_ED1_#066	Such as it has been thus far.\x0E\x04\x00\x00
+MID_ED1_#067	\x0E\x03\x02\x0A\x08リュール\nHa... I should have guessed a qualifier\nwas coming.\x0E\x04\x02\x00
+MID_ED1_#068	But I know you mean well, so thank you.\nAnd I'm glad to be of help.\x0E\x04\x00\x00
+MID_ED1_#069	\x0E\x03\x02\x10\x0EE003_イル\nWell, there is still much to be done. Let us keep\nup our momentum.\x0E\x04\x00\x00
+MID_ED1_#070	\x0E\x03\x02\x0A\x08リュール\nWhere are we going next?\x0E\x04\x00\x00
+MID_ED1_#071	\x0E\x03\x02\x10\x0EE003_エル\nTo the kingdom of knowledge, in the west.\nThe kingdom of Elusia.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x09\x00\n\x0E\x03\x00\x1E\x18デモ用_邪竜のきょうだい\x021\n\x0E\x03\x00\x0A\x04エル\x022\n\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nHey look, it's Nel. The pride of the brood.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nNot only can she transform, but she can also\nput Emblems to sleep. Isn't that right, Nel?\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nMust be rough for you, though, having that\nfailure for a twin.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x06\x04エル\nAre you talking about Nil?\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nOh, is that this failure's name?\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nI don't usually bother to remember them.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nDon't you worry about his weakness rubbing\noff on you?\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nWe could just get rid of him. Wouldn't be\na problem.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nAll he's doing is holding you back.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nWouldn't you agree, Nel?\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nWhat do you say?\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x06\x04エル\n...\x0E\x04\x02\x00
+MID_ED2_#013	You must not be serious.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x1A\x18デモ用_邪竜のきょうだい\nWhat?\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x06\x04エル\nI said surely you must not be serious.\x0E\x04\x02\x00
+MID_ED2_#016	If you truly intended to kill my brother, I would\nhave to...\x0E\x04\x02\x00
+MID_ED2_#017	I would have to...\x0E\x04\x02\x00
+MID_ED2_#018	...\x0E\x04\x02\x00
+MID_ED2_#019	What... What happened?\x0E\x04\x02\x00
+MID_ED2_#020	Was all of this...my doing?\x0E\x04\x02\x00
+MID_ED2_#021	What have I done?\x0E\x04\x00\x00
+MID_ED2_#022	\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08ソンブル\nCulled the weak.\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x06\x04エル\n...\x0E\x04\x02\x00
+MID_ED2_#024	Father, forgive me. I did not intend to...\x0E\x04\x00\x00
+MID_ED2_#025	\x0E\x03\x02\x0A\x08ソンブル\nThere is nothing to forgive.\x0E\x04\x02\x00
+MID_ED2_#026	Please, continue. I did not mean to interrupt\nthe killing.\x0E\x04\x02\x00
+MID_ED2_#027	I believe you will make a suitable heir.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x06\x04エル\nI...\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE003_エル\x021\n\x0E\x03\x00\x18\x12E003_Boss\x022\n\x0E\x03\x00\x18\x12E003_Hide\x023\n\x0E\x03\x02\x14\x12E003_Hide\nYou!\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x14\x12E003_Boss\nI told you Brodia would avoid conflict. What\nmore do you need?\x0E\x04\x02\x00
+MID_ED3_#003	And why did the guards let you in?\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x10\x0EE003_エル\nI killed them.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x14\x12E003_Boss\n...\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x10\x0EE003_エル\nEntrusting your safety to them was a grievous\nlapse in judgment.\x0E\x04\x02\x00
+MID_ED3_#007	Now, I would like to know whether the attack\non Lythos Castle was your doing. Answer.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x14\x12E003_Boss\nWhat are you talking about? An attack\non Lythos?\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x14\x12E003_Hide\nWhich country would dare start hostilities?\nFirene? No... Elusia, surely.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x10\x0EE003_エル\nYou truly seem to know nothing of the matter.\nSo be it.\x0E\x04\x02\x00
+MID_ED3_#011	I have no further use for you.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x14\x12E003_Hide\n...\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x14\x12E003_Boss\nAlcryst... Alcryst! You monster! You filthy snake!\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x14\x12E003_Boss\nUgh!\x0E\x04\x02\x00
+MID_ED3_#015	I don't understand... We gave you what\nyou wanted...\x0E\x04\x02\x00
+MID_ED3_#016	You had no reason...to do this...\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x02\x10\x0EE003_エル\nIn fact I do have a reason, King Diamant.\x0E\x04\x02\x00
+MID_ED3_#018	I would not ordinarily come for you by stealth,\nbut I could not ignore this opportunity.\x0E\x04\x02\x00
+MID_ED3_#019	Now, I must return before dawn. It would not do\nfor the others to become suspicious.\x0E\x04\x02\x00
+MID_ED3_#020	...\x0E\x04\x02\x00
+MID_ED3_#021	King Alfred and Princess Céline hardly put up a\nfight either...\x0E\x04\x00\x00

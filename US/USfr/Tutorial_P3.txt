@@ -1,0 +1,50 @@
+MID_TUT_BMAP_EVIL_RULE_TITLE	Déploiement dans les xénologues déchus
+MID_TUT_BMAP_EVIL_RULE_0	Dans les combats des xénologues déchus, la\nclasse et le niveau de vos alliés sont prédéfinis.
+MID_TUT_BMAP_EVIL_RULE_1	Leurs inventaires sont également prédéfinis,\nmais vous pouvez échanger des objets entre\nvos unités normalement.
+MID_TUT_BMAP_EVIL_RULE_2	Les alliés vaincus reviennent à la fin du combat,\nquel que soit le niveau de difficulté choisi.
+MID_TUT_BMAP_EVIL_GUEST_TITLE	Alliés invités
+MID_TUT_BMAP_EVIL_GUEST_0	Dans les xénologues déchus, des alliés uniques\nse joindront à vous en tant qu'invités lors de\nchaque bataille.
+MID_TUT_BMAP_EVIL_GUEST_1	Nel est un puissant dragon. Nil peut fournir un\nsoutien non négligeable à l'aide des Emblèmes,\nbien que sa place ne soit pas en première ligne.
+MID_TUT_BMAP_EVIL_GUEST_2	Perdre Nel ou Nil lors d'un combat comptera\ncomme une défaite, alors manœuvrez ces unités\navec prudence.
+MID_TUT_BMAP_EVIL_FANG_CURSE_TITLE	Altération d'état : morsure maudite
+MID_TUT_BMAP_EVIL_FANG_CURSE_0	La morsure d'un loup corrompu inflige\nl'altération d'état morsure maudite.
+MID_TUT_BMAP_EVIL_FANG_CURSE_1	Chaque application de morsure maudite\ninflige PV max -5 à la cible.
+MID_TUT_BMAP_EVIL_FANG_CURSE_2	Les effets sont cumulables et durent jusqu'à la\nfin de la bataille, à moins que vous ne leviez la\nmalédiction à l'aide d'un bâton Vitalis.
+MID_TUT_BMAP_EVIL_MELEE_TITLE	Guerre ouverte
+MID_TUT_BMAP_EVIL_MELEE_0	Durant ce combat, certaines unités apparaissent\nen jaune.
+MID_TUT_BMAP_EVIL_MELEE_1	Il s'agit d'unités ennemies, mais elles\ns'opposent également aux autres\nennemis apparaissant en rouge.
+MID_TUT_BMAP_EVIL_MELEE_2	Essayez de profiter de la situation en\nlaissant ces deux groupes s'affronter.
+MID_TUT_BMAP_EVIL_POW_TITLE	\x0E\x06\x03\x00 entravé\x0E\x0A\x00\x06
+MID_TUT_BMAP_EVIL_POW_0	Lorsqu'\x0E\x0A\x00\x10\x04il\x08elle est entravé\x0E\x0A\x00\x06
+MID_TUT_BMAP_EVIL_POW_1	Soignez-vous autant que nécessaire\npour éviter la défaite !
+MID_TUT_BMAP_EVIL_SUMMON_TITLE	Vortex d'invocation
+MID_TUT_BMAP_EVIL_SUMMON_0	Des renforts ennemis surgiront de ces vortex\nau début de la phase joueur suivante.
+MID_TUT_BMAP_EVIL_SUMMON_1	L'apparition des ennemis s'interrompt quand\nune unité est positionnée sur la case du vortex.
+MID_TUT_BMAP_EVIL_RUSHMOVE_TITLE	Dévastation
+MID_TUT_BMAP_EVIL_RUSHMOVE_0	Un sceau déchu qui se met à scintiller indique\nque Nil déchu se déplacera à cet endroit\naprès avoir détruit la zone où il se trouve.
+MID_TUT_BMAP_EVIL_RUSHMOVE_1	La déflagration a lieu lors de la phase ennemis\nsuivante. Toutes les unités alliées ou ennemies\nse trouvant dans la zone seront alors éliminées.
+MID_TUT_BMAP_EVIL_RUSHMOVE_2	Chaque unité éliminée de cette manière\nrenforce la puissance de Nil déchu.
+MID_TUT_DLG_E006_ADVICE	Les alliés vaincus dans les xénologues déchus\nreviennent à la fin de la bataille, alors vous\npouvez viser la victoire sans peur de les perdre !
+MID_TUT_BMAP_EVIL_ENCHANT_TITLE	Nouvelle classe : enchanteur
+MID_TUT_BMAP_EVIL_ENCHANT_0	Les enchanteurs utilisent armes et objets pour\nrenforcer leurs alliés et eux-mêmes. Une besace\nmystique est requise pour passer à cette classe.
+MID_TUT_BMAP_EVIL_ENCHANT_1	Vague d'objet consomme un objet pour conférer\ndivers effets spéciaux aux alliés en fonction\nde l'objet utilisé.
+MID_TUT_BMAP_EVIL_ENCHANT_2	Vague d'arme utilise une arme de l'inventaire\npour renforcer les armes du même nom pour\nles alliés et les ennemis lors de la bataille.
+MID_TUT_BMAP_EVIL_MAGECANON_TITLE	Nouvelle classe : mage-canonnier
+MID_TUT_BMAP_EVIL_MAGECANON_0	Les mages-canonniers bombardent les ennemis\nà l'aide de projectiles à longue portée. Un canon\nmagique est requis pour passer à cette classe.
+MID_TUT_BMAP_EVIL_MAGECANON_1	La puissance des mages-canonniers dépend de\nleur technique. Leur précision augmente avec la\nforce, la constitution et la proximité de la cible.
+MID_TUT_BMAP_EVIL_MAGECANON_2	Bordée utilise tous les boulets équipés pour\nlancer une puissante frappe d'artillerie qui\ns'abattra sur la zone visée au tour suivant.
+MID_TUT_BMAP_EVIL_MAGECANON_3	Le rayon de danger des mages-canonniers a\nune apparence différente des autres classes.
+MID_TUT_GMAP_EVIL_TITLE	Carte du monde (xénologues déchus)
+MID_TUT_GMAP_EVIL_0	Les xénologues déchus ont leur propre carte,\nque vous parcourrez au fil de l'histoire.
+MID_TUT_GMAP_EVIL_1	Utilisez le menu de la carte du monde pour\nretourner à Somniel ou sur la carte du monde\nde l'histoire principale.
+MID_TUT_GMAP_EVIL_2	Vous pouvez également participer aux\nescarmouches qui apparaissent dans\nles zones que vous avez déjà terminées.
+MID_TUT_HUB_EVIL_START_TITLE	Xénologues déchus
+MID_TUT_HUB_EVIL_START_0	Vous pouvez accéder aux xénologues déchus\ndepuis le puits ancien.
+MID_TUT_HUB_EVIL_START_1	Vous pouvez les terminer à votre guise,\net retourner à l'histoire principale entre\ndeux chapitres si vous le souhaitez.
+MID_TUT_HUB_EVIL_START_2	Le niveau de difficulté des xénologues déchus\nest distinct de celui du jeu principal.
+MID_TUT_HUB_EVIL_START_NOTICE	Il y a quelque chose d'étrange au sujet du\npuits ancien...
+MID_TUT_NAVI_E004_ADVICE_START	En raison du grand nombre d'ennemis sur cette\ncarte, les options Animations de combat et\nAnimations bâtons / danses seront définies\nsur Unités alliées. Vous pouvez les modifier\nà tout moment depuis le menu Paramètres.
+MID_TUT_NAVI_E004_ADVICE_END	Les modifications apportées aux options\nAnimations de combat et Animations\nbâtons / danses au début de ce combat\nvont être réinitialisées.
+MID_TIPS_JOB_02	Vague d'arme renforce également toutes les armes du même nom\nstockées dans votre convoi.
+MID_TIPS_JOB_03	L'effet de Vague d'arme prend fin si vous utilisez de nouveau cette technique\nsur une arme différente.
+MID_TIPS_ITEM_21	La technique Bordée du mage-canonnier inflige à coup sûr une altération d'état\naux ennemis, à l'exception des plus puissants.

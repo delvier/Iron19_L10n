@@ -1,0 +1,43 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x0A\x08リュール\nSomething about this place is really off...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06リーフ\nIt appears to be the River Thracia. Quite similar,\nat least.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nIs this someplace in your world?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06リーフ\nIn looks, it is quite close enough to a stretch of\nground where I once stood.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06リーフ\nThe River Thracia was a beautiful, broad river.\nAnd it was the site of much bloodshed.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nI can't imagine someplace as serene as this\nturning into a battlefield.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06リーフ\nThis is where I faced the genius tactician Saias.\nSome thought him a hero.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06リーフ\nReinhardt, a powerful man said to be the\ncrusader Thrud reborn, was there as well.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06リーフ\nIt was a difficult battle. Many were the moments\nwhen I thought defeat was at hand.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nSo why does this place look like that?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06リーフ\nI do not know for certain.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06リーフ\nI sense a mighty force emanating from here.\nThis must be the trial appointed to you.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nA...trial?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00. I want you to fight me here.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06リーフ\nIf you overcome that trial, our bond will\ngrow stronger.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06リーフ\nThat bond will bring with it power we cannot do\nwithout if we are to survive the battles ahead.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nWinning a battle against you is my trial?\nUnderstood.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06リーフ\nGood. Victory is your only way forward.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nI will stand my ground. No running. No hiding.\nNow, come at me!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x18\x06リーフ\x0EStandBy\n\x0E\x03\x02\x08\x06リーフ\nNow! Destroy the bridge!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nRelax\n\x0E\x03\x02\x08\x06リーフ\nI have been waiting, \x0E\x06\x03\x00.\nAre you prepared?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nOf course, Leif! I will face you anywhere,\nat any time.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06リーフ\x0CStrike\n\x0E\x03\x02\x08\x06リーフ\nThen let us begin. A fair battle between equals.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nBe honest with yourself. What do you want?\nWhat do you hope for, deep in your heart?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nBut I... What if I fail again?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06リーフ\nSmile\n\x0E\x03\x02\x08\x06リーフ\nLife is not a simple path, and mistakes are only\nmistakes. Set them right by making amends.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06リーフ\x0CNormal\n\x0E\x03\x02\x08\x06リーフ\nYou have faced your own weaknesses before.\nDo so again and you will only grow stronger.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x08\x06リーフ\nYou have become stronger since first we met,\nmy friend \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nI feel like I still got a long way to go.\nI appreciate your guidance.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06リーフ\nGuidance? An interesting word choice.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06リーフ\nI believe I understand now why the trial was\nlocated here.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nOh? Why?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06リーフ\nI was a young prince, inexperienced in leading\nan army. My errors were many. Some fatal.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06リーフ\nOn the day of this battle, I was told something\nI have kept in my thoughts ever since...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06リーフ\nOnce blood is spilled, it cannot return to its\nsource. Make that sacrifice worth something.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00. Life is a series of choices.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06リーフ\nThere is no way for one to know if their past\nchoices were correct or a mistake.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06リーフ\nAll we can do is make the future into something\ngood and righteous. We must strive for that.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06リーフ\nSuch is the responsibility of a guide. And it is\nwhat I learned in the place so like this one.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nThank you, Leif, for sharing your story with me.\nI feel like I understand more than before.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nI will work to build a good future. And you'll be\nbeside me until the end of this war?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06リーフ\nHere, on the shores of this beautiful river,\nI swear my service to you, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

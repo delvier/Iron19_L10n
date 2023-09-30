@@ -1,0 +1,71 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴァンドレ\x022\n\x0E\x03\x00\x0A\x04チキ\x023\n\x0E\x03\x02\x0A\x08リュール\nEccoci qui... nell'arcipelago a sud del Firene.\nSento la presenza di un emblema, senza ombra\ndi dubbio.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0C\nヴァンドレ\nQuello laggiù sembra un altare.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nE sopra c'è un bracciale. L'emblema che\npercepisco dev'essere al suo interno.\x0E\x04\x02\x00
+MID_OP1_#004	Sì, ora sono cert\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nCosa succede, Drago Divino?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nMi è appena venuto in mente un sortilegio.\x0E\x04\x02\x00
+MID_OP1_#007	Proverò a evocare l'emblema.\x0E\x04\x02\x00
+MID_OP1_#008	Sogna, emblema dei Draghi!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴァンドレ\x022\n\x0E\x03\x00\x0A\x04チキ\x023\n\x0E\x03\x02\x06\x04チキ\nMar-Mar? Ah, no... Scusa, ma tu chi sei?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nSono il Drago Divino \x0E\x06\x03\x00. Siamo\nqui perché ho percepito la tua presenza.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x06\x04チキ\nSei un Drago Divino? Che coincidenza, anch'io!\nIo sono l'emblema Tiki.\x0E\x04\x02\x00
+MID_OP2_#004	Ti ringrazio di avermi svegliata. Devo aver\ndormito per moltissimo tempo.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nSo bene cosa significhi, Tiki. Hai dei ricordi\nprecedenti al tuo lungo sonno?\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x06\x04チキ\nUhm... Io e gli altri miei amici dei bracciali\neravamo in un luogo lontano lontano.\x0E\x04\x02\x00
+MID_OP2_#007	Combattemmo tante battaglie, ma non ricordo\ncome finirono.\x0E\x04\x02\x00
+MID_OP2_#008	Ricordo solo una persona gentile, che mi mise\na dormire. Chissà chi era, però...\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nUna persona gentile, eh? Mmmh...\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x06\x04チキ\nAnche nel mondo da cui provengo mi avevano\naddormentata per proteggermi, ma fu comunque\npauroso.\x0E\x04\x02\x00
+MID_OP2_#011	Poi, Mar-Mar fece in modo che io non avessi\npiù bisogno di dormire!\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0A\x08リュール\nParli di Marth? Gli avvenimenti di cui parli\nrisalgono all'epoca del Re Eroico?\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x06\x04チキ\nLo conosci?\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nSì. L'emblema Marth è un guardiano dell'Elyos\nda molto tempo.\x0E\x04\x02\x00
+MID_OP2_#015	Se vorrai lottare al suo fianco per difendere\nquesto mondo, te ne saremo infinitamente grati.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x06\x04チキ\nCerto, mi piacerebbe far parte del vostro\ngruppo. Sembra divertente viaggiare assieme\na tanti amici!\x0E\x04\x02\x00
+MID_OP2_#017	Ma prima di unirmi a voi, mi piacerebbe avere\nun saggio delle tue motivazioni. Ti va di\nmostrarmi la tua essenza?\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08リュール\nVa bene. Cosa vuoi che faccia?\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x06\x04チキ\nSemplice! Dovrai affrontarmi in battaglia.\nSolo così scoprirò la tua vera natura.\x0E\x04\x02\x00
+MID_OP2_#020	Non trattenerti! Sono piuttosto forte, sai?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x12\x04チキ\nSmile\n\x0E\x03\x02\x06\x04チキ\nFammi vedere di cosa sei capace!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x12\x04チキ\nRelax\n\x0E\x03\x02\x06\x04チキ\nQueste porte sono protette da una forza\npotentissima.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x12\x04チキ\nRelax\n\x0E\x03\x02\x06\x04チキ\nL'unico modo per aprire le porte è usare questi\nsigilli. Prova a raggiungermi, se ci riesci.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1A\nヴァンドレ\x0CNormal\n\x0E\x03\x02\x0C\nヴァンドレ\nForse, per prima cosa, ci conviene dirigerci\nverso quel sigillo...\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nIl ghiaccio è scivoloso. Potremmo sfruttarlo\nper muoverci più rapidamente... con la dovuta\ncautela, ovviamente.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nOra che la porta è aperta, sarebbe meglio usare\nanche l'altro sigillo.\x0E\x04\x02\x00
+MID_EV6_#002	Oh! Si è formato altro ghiaccio sul suolo. Fate\nattenzione a non scivolare, Drago Divino.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1A\nヴァンドレ\x0CNormal\n\x0E\x03\x02\x0C\nヴァンドレ\nSi è aperta l'altra porta. La strada verso\nl'emblema sembra libera, ora.\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x12\x04チキ\nSmile\n\x0E\x03\x02\x06\x04チキ\nComplimenti! Dovrò metterci tutto il mio\nimpegno, allora.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02t\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nTiki, quanto tempo è passato. Sono contento\ndi vederti. Stai bene?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x12\x04チキ\nRelax\n\x0E\x03\x02\x06\x04チキ\nMar-Mar! Che bello che sei qui! Sto benissimo,\nsì!\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06マルス\nSpero di vincere la battaglia, così torneremo a\ncombattere fianco a fianco. Mi sentirei meglio\nsapendoti come alleata.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x03\x02\x06\x04チキ\nTi capisco! Anche a me piacerebbe viaggiare\nancora insieme a te. Potremmo raccontarci\nun sacco di cose, ne avremmo tutto il tempo!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04チキ\x02b\n\x0E\x05\x01\x14\x04チキ\x0CNormal\n\x0E\x03\x02\x06\x04チキ\nAvrei una domanda... A te piace essere un\nDrago Divino?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nPrima no, ma adesso mi piace, sì.\nMi ha fatto scoprire tutto il mio potenziale.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x12\x04チキ\nRelax\n\x0E\x03\x02\x06\x04チキ\nInteressante. Sono curiosa di scoprire tutto di\nte. Ti andrebbe di raccontarmi qualcos'altro?\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x0A\x08リュール\nMa certo. Ti racconterò tutto ciò che mi è\npossibile.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x02\x06\x04チキ\nWow, che bravura! Ho fatto del mio meglio,\nma alla fine hai vinto tu!\x0E\x04\x02\x00
+MID_ED1_#002	Mi hai mostrato la tua vera essenza.\nAnche in battaglia, sei gentile e affettuos\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x02\x00
+MID_ED1_#003	Insomma, accetto di aiutarti con piacere. Sono a\ntua disposizione, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nGrazie, Tiki. Mi sento sollevat\x0E\x0A\x00\x08\x02o\x02a, sapendoti al\nmio fianco.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x06\x04チキ\nIhihih, così mi farai arrossire.\nAh, dimenticavo! Non ci sono solo io!\x0E\x04\x02\x00
+MID_ED1_#006	Ci sono anche i miei amici degli altri bracciali.\nSecondo me, sarebbero contenti di aiutarti.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nQuindi qui in Elyos ci sono ancora più bracciali\ndegli emblemi?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x06\x04チキ\nEsatto! Siamo arrivati qui da poco. Se vuoi ti\ndico dove sono, così potrai andare da loro!\x0E\x04\x02\x00
+MID_ED1_#009	Credo che anche gli altri emblemi siano\naddormentati. Spero che stiano facendo dei bei\nsogni.\x0E\x04\x02\x00
+MID_ED1_#010	Io ho avuto un sacco di incubi in cui mi\ntrasformavo in una bestiaccia e facevo del male\nagli altri.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nOh, mi dispiace. Dev'essere stato terribile.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04チキ\nGià... ma ora va meglio. Non farò più quegli\nincubi spaventosi.\x0E\x04\x02\x00
+MID_ED1_#013	Adesso che sono con te, i miei sogni saranno\nuno più felice dell'altro.\x0E\x04\x02\x00
+MID_ED1_#014	Anche per questo, sono grata di non essere più\nda sola. Non vedo l'ora di stringere amicizia con\ntutti i tuoi amici!\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nSono sicur\x0E\x0A\x00\x08\x02o\x02a che ce la farai. Andrai d'accordo\ncon tutti, me lo sento.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x06\x04チキ\nEvviva! Sono impaziente di incontrarli!\nForza, andiamo!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x02\x06\x04チキ\nMar-Mar! Sono contenta di vederti.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x08\x06マルス\nAnch'io, non sai che sollievo. Ora potrò tener\nfede alla mia vecchia promessa di proteggerti.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x06\x04チキ\nIhih, te ne sei ricordato allora! Io non ho mai\ndimenticato la tua promessa.\x0E\x04\x02\x00
+MID_ED2_#004	Ora, finalmente, ci siamo riuniti e so che non\nho più nulla da temere. Ci divertiremo tanto!\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06マルス\nCon te al mio fianco, Tiki, sono pronto ad\naffrontare ogni battaglia.\x0E\x04\x02\x00
+MID_ED2_#006	Proteggeremo l'Elyos, e lo faremo insieme.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x06\x04チキ\nFarò del mio meglio, lo prometto. Non vedo\nl'ora di rimettermi in viaggio con te!\x0E\x04\x02\x00
+MID_ED2_#008	Abbiamo così tanto da dirci e ci attendono\nmoltissime avventure!\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06マルス\nGiusto, dobbiamo recuperare tutto il tempo\nperduto. Non vedo l'ora.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x06\x04チキ\nOh, Mar-Mar! Mi sei mancato così tanto!\x0E\x04\x00\x00

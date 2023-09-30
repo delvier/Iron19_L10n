@@ -1,0 +1,67 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0E\x08ヘクトル\x023\n\x0E\x03\x02\x06\x04チキ\nLook! There's another bracelet friend right over\nhere, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nYou're right. Is this the Bracelet of the\nBrash General?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04チキ\nYes! I think the Emblem is asleep, just as I was.\nWill you wake him up?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nThe words came to me as soon as I laid eyes\non it. Let's give them a try.\x0E\x04\x02\x00
+MID_OP1_#005	Embolden us, Emblem of Strength!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nAhh, what a refreshing rest. Hey there, I'm\nHector. Was it you who woke me up?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nYes, it was. Greetings, Hector. I'm the Divine\nDragon \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nGood to meet you. Phew, it sure is nice to move\naround again!\x0E\x04\x02\x00
+MID_OP2_#004	You must have had a reason to come looking\nfor me, though.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nThis world is engulfed in a terrible war.\nWe're trying to put a stop to it.\x0E\x04\x02\x00
+MID_OP2_#006	To that end, we were hoping you might lend\nus your strength.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08ヘクトル\nHmm. Well, I've got a good feeling about you.\nLooks like you've got grit, just like he did.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nMay I ask who you're talking about?\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08ヘクトル\nMy good friend Eliwood.\x0E\x04\x02\x00
+MID_OP2_#010	In my world, he fought to bring us back from\nthe brink of disaster. Like you're doing.\x0E\x04\x02\x00
+MID_OP2_#011	Our fight was against a rotten bunch called the\nBlack Fang. They were a real handful.\x0E\x04\x02\x00
+MID_OP2_#012	For Eliwood, Lyn, and me, and all our other\nfriends, it was the fight of our lives.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nThey must have been glad to have someone like\nyou on their side.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nAhem... Well, no need to butter me up. You need\nhelp, and that's enough for me.\x0E\x04\x02\x00
+MID_OP2_#015	But first, let's have ourselves a friendly little\ncompetition, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nWhat do you mean?\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08ヘクトル\nIt's been a while since I've seen any action.\nI want to get the measure of you in battle.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08リュール\nI understand. If that's what you want, then\nI'm ready to show you what I can do.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08ヘクトル\nIt's settled, then. Brace yourself!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nLet's get started. Come at me, and don't\nhold back!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nThere appears to be a fog-like substance\nemanating from over there... Be on your guard.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nThe fog! It seems to be poisonous! Be careful.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nRelax\n\x0E\x03\x02\x0A\x08ヘクトル\nIt's about time I got moving.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x1C\x08ヘクトル\x10Surprise\n\x0E\x03\x02\x0A\x08ヘクトル\nHey, look who's here! It's great to see you, Lyn.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04リン\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nLikewise, Hector. Ready to put my skills to\nthe test, for old times' sake?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nYou bet. But since we're friends, I think I'll have\nto go extra hard on you. Hope that's all right.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x03\x02\x06\x04リン\nWouldn't have it any other way.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nOK, \x0E\x06\x03\x00, give me all you've got!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nIt's definitely going to take everything I have to\nstand up to that axe of yours.\x0E\x04\x02\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\nBut I'm not giving up. I set out to prove my\nworth to you, and that's what I'm going to do!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x18\x08ヘクトル\x0CNormal\n\x0E\x03\x02\x0A\x08ヘクトル\nGood to hear. Have at it, then!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nYou actually managed to beat me! I'm\nimpressed, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nI take that to mean you're happy with what\nyou saw?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08ヘクトル\nNo doubt about it! One glimpse of your fighting\nspirit was more than enough.\x0E\x04\x02\x00
+MID_ED1_#004	It took all I had to hold my own against you.\nYou'd be fine even without my help, I'm sure.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nNo, we need all the strength we can get, and\nyou've got plenty of it.\x0E\x04\x02\x00
+MID_ED1_#006	I couldn't have gotten through your defenses\nwithout my allies at my side.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08ヘクトル\nTreasure that feeling.\x0E\x04\x02\x00
+MID_ED1_#008	I used to think I could protect everyone I cared\nabout with nothing but my own strength.\x0E\x04\x02\x00
+MID_ED1_#009	I couldn't have been more wrong.\x0E\x04\x02\x00
+MID_ED1_#010	It was only with the help of trusted friends and\nallies that I survived the Black Fang.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nYour friends must have been really good people.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08ヘクトル\nThe best! Talking about them fills me with\npride, even now.\x0E\x04\x02\x00
+MID_ED1_#013	I appreciate your determination and desire to\nforge ahead, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nDoes that mean you'll join us?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08ヘクトル\nFor as long as you need it, my axe is yours.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\nThank you, Emblem Hector. I'm looking forward\nto letting you loose on the battlefield.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08ヘクトル\nThat's what I like to hear!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04リン\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nGood match, Lyn. Can we talk for a second?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x06\x04リン\nI was half expecting you to ask for a rematch.\nWhat's on your mind?\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nJust wanted to make sure you were all right.\nI got a little carried away in that last round.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x06\x04リン\nThanks for your concern. It was a heavy blow,\nbut I'm fine.\x0E\x04\x02\x00
+MID_ED2_#005	Actually, I'm really happy.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08ヘクトル\nYou're happy to get hit with an axe?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x06\x04リン\nNot exactly. I'm reminded of all the time we\nspent together─you, me, and Eliwood.\x0E\x04\x02\x00
+MID_ED2_#008	We trained hard and fought harder, but those\ndays are full of happy memories for me.\x0E\x04\x02\x00
+MID_ED2_#009	Seeing you fight with everything you had just\nnow gives me that same feeling.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0A\x08ヘクトル\nI understand completely.\x0E\x04\x02\x00
+MID_ED2_#011	I'm more relaxed going into battle with you,\nbecause I know you'll always have my back.\x0E\x04\x02\x00
+MID_ED2_#012	And because you're a cherished friend. I trust\nyou with my life.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x06\x04リン\nGood. I hope you'll let me protect that life now\ninstead of charging ahead by yourself.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nHa, don't worry. I won't ever leave you behind.\x0E\x04\x00\x00

@@ -1,0 +1,224 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nPar ici ! Le fragment de Dragon déchu est\ntout près d'ici !\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nJe suis ravi\x0E\x0A\x00\x06
+MID_OP1_#003	\x0E\x03\x02\x0A\x08ヴェイル\nAttendez, il y a quelqu'un ici. C'est...\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nOn dirait... Zephia et Griss !\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nIls gardent sans doute le fragment.\nEst-ce que ça va aller ?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08ヴェイル\nSi je veux arrêter Papa, je ne peux pas les\néviter indéfiniment.\x0E\x04\x02\x00
+MID_OP1_#008	Tôt ou tard, je vais devoir les affronter. Alors,\nallons-y.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nTrès bien.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nZephia. Griss.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nDame Veyle ! Nous vous attendions.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06セピア\nOh, je vois... C'est encore vous.\x0E\x04\x02\x00
+MID_OP2_#005	J'imagine que l'autre Dame Veyle\nn'est plus avec nous. A-t-elle disparu ?\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08ヴェイル\nC'est exact.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x06\x04グリ\nVous vous êtes débrouillée pour revenir, hein ?\nJe n'aurais jamais cru qu'une tare puisse s'en\ntirer aussi bien.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x00\x0E\x08リュール\x024\n\x0E\x03\x02\x0A\x08リュール\nArrêtez de l'appeler comme ça ! Personne\nne parle de la sorte à Veyle !\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x08\x06セピア\nVous ?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x06\x04グリ\nHé ! Ouah ! C'est quoi, ça ? Vous n'étiez pas\nmort\x0E\x0A\x00\x06
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\nJe suis désormais un Emblème, grâce au\npouvoir de tous les Anneaux d'Emblèmes,\net je compte bien sauver ce monde.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0A\x08ヴェイル\nNous sommes ici pour stopper Papa. Vous deux,\nécartez-vous de notre chemin.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x08\x06セピア\nPour vous laisser passer ? Pas question.\nLe seigneur Sombron est en train d'ouvrir\nun portail menant à d'autres mondes...\x0E\x04\x02\x00
+MID_OP2_#014	Nous sommes là pour protéger ce fragment.\nMême Dame Veyle ne pourrait nous ordonner\nde nous écarter.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0A\x08ヴェイル\nDans ce cas, vous êtes prêts à mourir.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x08\x06セピア\nVous comptez nous tuer, Dame Veyle ?\nOh, qu'il est triste d'en arriver là.\x0E\x04\x02\x00
+MID_OP2_#017	Moi qui ai pris soin de vous, qui vous ai\ndorlotée comme si vous faisiez partie de\nma famille.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08ヴェイル\nVous savez, ce que vous disiez me rendait\nheureuse. Mais je sais que ce sont des\nmensonges... désormais.\x0E\x04\x02\x00
+MID_OP2_#019	Vous n'êtes que deux partisans de Papa.\nDes ennemis à vaincre, rien de plus.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x06\x04グリ\nPourquoi juste deux ? Nous étions quatre.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x0A\x08ヴェイル\nMauvier était mon chevalier. Et Marni aussi...\x0E\x04\x02\x00
+MID_OP2_#022	On m'a dit... qu'elle avait péri pour me sauver.\x0E\x04\x02\x00
+MID_OP2_#023	Pourquoi l'avez-vous tuée ? Je n'ai même pas\npu lui faire mes adieux.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x08\x06セピア\nJ'ai fait entrer Marni dans ma famille.\nJe me suis occupée d'elle. Et qu'ai-je\nobtenu en retour ? La trahison.\x0E\x04\x00\x00
+MID_OP2_#025	\x0E\x03\x02\x0A\x08ヴェイル\nComment pouvez-vous dire que les Quatre\nChacals formaient une famille ? Alors que vous\nles traitiez si... froidement...\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x02\x08\x06セピア\nParce que je les aimais. Et quand des enfants\ns'éloignent du droit chemin, il faut les punir...\nOu pire encore, si nécessaire.\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x0A\x08リュール\nCe n'était pas vraiment de l'amour...\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x08\x06セピア\nOh ? Vraiment ? Alors peut-être n'ai-je jamais\nconnu le « véritable amour ».\x0E\x04\x02\x00
+MID_OP2_#029	Je sais ce que renferment mon esprit et mon\ncœur. C'est tout ce qui compte pour moi.\x0E\x04\x02\x00
+MID_OP2_#030	Mais nous ne trouverons jamais un accord.\nPas même en mille ans.\x0E\x04\x02\x00
+MID_OP2_#031	Je sers le seigneur Sombron.\x0E\x04\x02\x00
+MID_OP2_#032	Je le fais depuis très longtemps. J'exauce\nses moindres souhaits.\x0E\x04\x00\x00
+MID_OP2_#033	\x0E\x03\x02\x06\x04グリ\nJe n'ai pas prévu de changer de camp. Pas\nmême si nous perdons. C'est compris ?\x0E\x04\x00\x00
+MID_OP2_#034	\x0E\x03\x02\x0A\x08ヴェイル\nJe vois. Nous n'avons plus rien à nous\ndire, dans ce cas.\x0E\x04\x02\x00
+MID_OP2_#035	Je suis désolée, mais nous n'avons d'autre\nchoix que de les affronter.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x0A\x08リュール\nVous êtes sûre ?\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x0A\x08ヴェイル\nIls ne nous écoutent pas. Si seulement ils\nacceptaient de partir... mais ils préfèrent\ncombattre.\x0E\x04\x02\x00
+MID_OP2_#038	Nous devons arrêter Papa. Ça veut dire que\nje dois tourner la page. Il est... grand temps.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nNous devons nous charger de Zephia et Griss.\nEnsuite, nous briserons le fragment.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nQu'est-ce que c'était que ça ?!\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x0E\x08ヴェイル\x02b\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nCes deux-là... Ce sont sûrement eux.\x0E\x04\x02\x00
+MID_EV2_#003	Ils peuvent utiliser le fragment pour attaquer.\nEt je parie qu'ils ne vont pas s'en priver...\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1E\x10M023_セピア\nAngry\n\x0E\x03\x02\x12\x10M023_セピア\nS'il le faut, je me sacrifierai pour protéger\nle fragment. Je n'envisagerai jamais de battre\nen retraite.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x00\x14\x0EM023_グリ\x02t\n\x0E\x05\x01"\x0EM023_グリ\x10Surprise\n\x0E\x03\x02\x10\x0EM023_グリ\nToi ? Tu dis n'importe quoi. Si quelqu'un doit\nmourir aujourd'hui, c'est mon tour. De plus...\x0E\x04\x02\x00
+MID_EV3_#003	\x0E\x05\x01\x1E\x0EM023_グリ\x0CStatus\nNous allons les bombarder jusqu'à ce qu'il\nne reste plus d'eux que des os calcinés !\x0E\x04\x00\x00
+MID_EV3_2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1E\x10M023_セピア\nAngry\n\x0E\x03\x02\x12\x10M023_セピア\nS'il le faut, je me sacrifierai pour protéger\nle fragment. Je n'envisagerai jamais de battre\nen retraite.\x0E\x04\x02\x00
+MID_EV3_2_#002	Mais tout d'abord, au nom de Griss, je vais\ntous vous réduire en cendres !\x0E\x04\x00\x00
+MID_EV3_3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x1C\x0EM023_グリ\nAngry\n\x0E\x03\x02\x10\x0EM023_グリ\nZephia est hors-jeu... À moi de jouer. Bien,\nje ne m'avouerai pas vaincu aussi facilement.\x0E\x04\x02\x00
+MID_EV3_3_#002	\x0E\x05\x01\x1E\x0EM023_グリ\x0CStrike\nJe vais les bombarder jusqu'à ce qu'il\nne reste plus d'eux que des os calcinés !\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nNous avons réussi. Nous avons brisé le fragment\nde Dragon déchu !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01"\x10M023_セピア\x0EStandBy\n\x0E\x03\x02\x12\x10M023_セピア\nQui de nous deux y laissera la vie ?\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1E\x10M023_セピア\nSmile\n\x0E\x03\x02\x12\x10M023_セピア\nAh, Dame Veyle. J'imagine que vous\nvoulez m'éliminer, n'est-ce pas ?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nTout à fait.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x12\x10M023_セピア\nOh, ce regard... Il ressemble tellement à\ncelui de votre père.\x0E\x04\x02\x00
+MID_BT2_#004	Vous lui ressemblez énormément, vous savez.\nBien plus que l'autre Dame Veyle.\x0E\x04\x00\x00
+MID_BT2_#005	\x0E\x03\x02\x0A\x08ヴェイル\nVous ne me voyez pas vraiment, Zephia.\x0E\x04\x02\x00
+MID_BT2_#006	\x0E\x05\x01\x12\x08ヴェイル\x06Sad\nQuand vous me regardez, vous ne pensez qu'à\nPapa. Ou à cette autre moi.\x0E\x04\x02\x00
+MID_BT2_#007	Quand je vous ai rencontrée, vous sembliez si\naimable. Je vous appréciais beaucoup.\x0E\x04\x00\x00
+MID_BT2_#008	\x0E\x05\x01"\x10M023_セピア\x0EStandBy\n\x0E\x03\x02\x12\x10M023_セピア\nVraiment ? Je vous haïssais. Non, c'est inexact...\nVous m'étiez indifférente.\x0E\x04\x00\x00
+MID_BT2_#009	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_BT2_#010	\x0E\x05\x01\x1A\x10M023_セピア\x06Die\n\x0E\x03\x02\x12\x10M023_セピア\nVous avez toujours été la petite marionnette du\nseigneur Sombron. Un jouet que l'on utilise\navant de le jeter.\x0E\x04\x02\x00
+MID_BT2_#011	\x0E\x05\x01 \x10M023_セピア\x0CNormal\nPourtant, au fond de moi, j'ai toujours su que\nce jour viendrait.\x0E\x04\x00\x00
+MID_BT2_#012	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nLe jour où je vous ôterais la vie ? Pas\nétonnant que vous ne m'aimiez pas.\x0E\x04\x00\x00
+MID_BT2_#013	\x0E\x05\x01\x1E\x10M023_セピア\nSmile\n\x0E\x03\x02\x12\x10M023_セピア\nEh bien... Vous avez enfin toute mon attention.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1E\x10M023_セピア\nSmile\n\x0E\x03\x02\x12\x10M023_セピア\nMa parole, c'est le Dragon divin. Nous avons\ntraversé tant de choses ensemble,\nn'est-ce pas ?\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nZephia... Vous deviez savoir qui j'étais\nil y a mille ans.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x1E\x10M023_セピア\nRelax\n\x0E\x03\x02\x12\x10M023_セピア\nOui, je pense que nous nous sommes\nrencontré\x0E\x0A\x00\x0A\x02s\x04es. Mais tout est si flou.\x0E\x04\x02\x00
+MID_BT3_#004	\x0E\x05\x01\x1A\x10M023_セピア\x06Die\nLe seigneur Sombron avait tellement\nd'enfants, voyez-vous.\x0E\x04\x02\x00
+MID_BT3_#005	\x0E\x05\x01\x1E\x10M023_セピア\nSmile\nUn insecte aurait eu plus de chance\nd'attirer mon attention.\x0E\x04\x00\x00
+MID_BT3_#006	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nOh ? On m'oublie donc si facilement ?\x0E\x04\x00\x00
+MID_BT3_#007	\x0E\x05\x01\x1E\x10M023_セピア\nAngry\n\x0E\x03\x02\x12\x10M023_セピア\nOh, pas du tout. Vous êtes le Dragon divin,\ndésormais. Mais le moment venu, vous serez\ncomme moi.\x0E\x04\x02\x00
+MID_BT3_#008	\x0E\x05\x01\x1A\x10M023_セピア\x06Shy\nOn finit par oublier les vies qu'on a croisées.\nVous comprendrez cela un jour.\x0E\x04\x00\x00
+MID_BT3_#009	\x0E\x03\x02\x0A\x08リュール\nJe ne serai jamais comme vous.\x0E\x04\x00\x00
+MID_BT3_#010	\x0E\x05\x01\x1E\x10M023_セピア\nSmile\n\x0E\x03\x02\x12\x10M023_セピア\nHa ha ! Tout ça n'a plus d'importance. Vous\nne quitterez pas cet endroit...\x0E\x04\x02\x00
+MID_BT3_#011	\x0E\x05\x01 \x10M023_セピア\x0CStrike\nVous allez mourir ici.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1E\x10M023_セピア\nAngry\n\x0E\x03\x02\x12\x10M023_セピア\nTu vas me tuer, Mauvier ? Après tout ce\nqu'on a vécu ensemble ?\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x18\x06モーヴ\x0EStandBy\n\x0E\x03\x02\x08\x06モーヴ\nAutrefois, je ne m'en serais jamais cru capable.\nJe croyais notre tâche juste...\x0E\x04\x02\x00
+MID_BT4_#003	\x0E\x05\x01\x10\x06モーヴ\x06Sad\nQue nous formions une famille.\x0E\x04\x00\x00
+MID_BT4_#004	\x0E\x05\x01$\x10M023_セピア\x10Surprise\n\x0E\x03\x02\x12\x10M023_セピア\nUne famille... Je suis surprise de t'entendre\ndire ça.\x0E\x04\x00\x00
+MID_BT4_#005	\x0E\x05\x01\x16\x06モーヴ\x0CNormal\n\x0E\x03\x02\x08\x06モーヴ\nMême s'il m'est douloureux de l'admettre,\nje suis plutôt solitaire. Mais j'ai ressenti\nun véritable lien se tisser avec les Chacals.\x0E\x04\x02\x00
+MID_BT4_#006	\x0E\x05\x01\x14\x06モーヴ\nAngry\nJ'ai laissé notre « famille » me distraire bien\ntrop longtemps. Jusqu'à ce que vous nous\npreniez Marni.\x0E\x04\x00\x00
+MID_BT4_#007	\x0E\x05\x01\x1E\x10M023_セピア\nSmile\n\x0E\x03\x02\x12\x10M023_セピア\nTu sais, Mauvier... Tu peux tourner le dos à\ntout ça. Tu peux partir.\x0E\x04\x00\x00
+MID_BT4_#008	\x0E\x05\x01\x1E\x10M023_セピア\nAngry\n\x0E\x05\x01\x18\x06モーヴ\x0EStandBy\n\x0E\x03\x02\x08\x06モーヴ\nJe vous ai laissée, Zephia, après que vous\navez détruit les Chacals.\x0E\x04\x02\x00
+MID_BT4_#009	\x0E\x05\x01\x16\x06モーヴ\x0CStrike\nMais je n'ai aucun ressentiment. Vous voyez...\nVous m'avez appris quelque chose, au final.\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M023_セピア\x02b\n\x0E\x05\x01\x1C\x10M023_セピア\x08Pain\n\x0E\x03\x02\x12\x10M023_セピア\nMessire Sombron... Non...\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x1C\x0EM023_グリ\nSmile\n\x0E\x03\x02\x10\x0EM023_グリ\nJ'ai vécu comme un Chacal... Je mourrai comme\nun Chacal.\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x1E\x0EM023_グリ\x0CNormal\n\x0E\x03\x02\x10\x0EM023_グリ\nAlors, Dame Veyle ! Où est ma récompense ?\x0E\x04\x00\x00
+MID_BT7_#002	\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nTa récompense ?\x0E\x04\x00\x00
+MID_BT7_#003	\x0E\x05\x01\x1C\x0EM023_グリ\nSmile\n\x0E\x03\x02\x10\x0EM023_グリ\nL'autre Dame Veyle m'a promis que je\nconnaîtrais toute l'agonie que mon cœur\npeut désirer.\x0E\x04\x02\x00
+MID_BT7_#004	\x0E\x05\x01\x18\x0EM023_グリ\x06Die\nJ'attends ça depuis si longtemps ! Le froid,\nla sévérité...\x0E\x04\x02\x00
+MID_BT7_#005	\x0E\x05\x01\x18\x0EM023_グリ\x06Sad\nMais au final, rien du tout. Pas même\nla moindre égratignure.\x0E\x04\x00\x00
+MID_BT7_#006	\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nCette Veyle... Elle a disparu, maintenant.\x0E\x04\x00\x00
+MID_BT7_#007	\x0E\x05\x01\x1E\x0EM023_グリ\x0CNormal\n\x0E\x03\x02\x10\x0EM023_グリ\nOui, parce que vous l'avez tuée ! Alors,\nvous ne devez pas être si inutile.\x0E\x04\x02\x00
+MID_BT7_#008	\x0E\x05\x01\x1C\x0EM023_グリ\nSmile\nDites-moi... Comment allez-vous vous y\nprendre ? Pour me tuer, je veux dire.\x0E\x04\x00\x00
+MID_BT7_#009	\x0E\x03\x02\x0A\x08ヴェイル\nJamais je ne te pardonnerai, Griss. Mais\nje ne t'ai pas toujours haï, en tout cas\npas au début.\x0E\x04\x02\x00
+MID_BT7_#010	Je pense comprendre pourquoi tu faisais partie\ndes Chacals. Pourquoi tu es comme tu es.\x0E\x04\x02\x00
+MID_BT7_#011	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\nMais je suis incapable de cruauté. Rien\nde tout ça ne sera... une récompense.\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x1C\x0EM023_グリ\nSmile\n\x0E\x03\x02\x10\x0EM023_グリ\nC'est impressionnant de se faire tuer, mais\nd'échapper à la mort. Je n'en attendais pas\nmoins venant de l'enfant du Dragon déchu.\x0E\x04\x00\x00
+MID_BT8_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nGriss... En faisant abstraction de tout le reste,\nje voudrais quand même vous remercier de\nm'avoir dit la vérité.\x0E\x04\x02\x00
+MID_BT8_#003	Je ne peux vous pardonner ce que vous avez\nfait au sein des Quatre Chacals, mais j'ai une\nquestion à vous poser...\x0E\x04\x02\x00
+MID_BT8_#004	Pourquoi faites-vous tout ça ? Est-ce que\nZephia vous y contraint ?\x0E\x04\x00\x00
+MID_BT8_#005	\x0E\x05\x01"\x0EM023_グリ\x10Surprise\n\x0E\x03\x02\x10\x0EM023_グリ\nQuel genre de question est-ce donc ?\nJe suis ici parce que j'en avais envie,\nd'accord ?!\x0E\x04\x00\x00
+MID_BT8_#006	\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nJe vois.\x0E\x04\x00\x00
+MID_BT8_#007	\x0E\x05\x01 \x0EM023_グリ\x0EStandBy\n\x0E\x03\x02\x10\x0EM023_グリ\nHa ha ! C'est trop gentil de vous inquiéter\npour ce bon vieux Griss !\x0E\x04\x02\x00
+MID_BT8_#008	\x0E\x05\x01\x1E\x0EM023_グリ\x0CStrike\nC'est insultant pour Zephia et moi ! Jamais je ne\nvous le pardonnerai ! Ah, ça non ! Jamais !\x0E\x04\x02\x00
+MID_BT8_#009	\x0E\x05\x01\x1C\x0EM023_グリ\nAngry\nJe vous blesserai d'un millier de façons. Puis,\nje vous tuerai une bonne fois pour toutes !\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x18\x0EM023_グリ\x06Shy\n\x0E\x03\x02\x10\x0EM023_グリ\nTu viens te venger ? Ou espérais-tu que les\nChacals t'accueilleraient à bras ouverts ?\x0E\x04\x02\x00
+MID_BT9_#002	\x0E\x05\x01\x18\x0EM023_グリ\x06Shy\nNous formions une famille, Mauvier. C'est un\npeu comme si toi et moi, nous étions frères.\x0E\x04\x02\x00
+MID_BT9_#003	Personne ne t'en voudra si on te manque.\x0E\x04\x00\x00
+MID_BT9_#004	\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nJe suis là pour t'éliminer. Je n'ai rien d'autre\nà te dire.\x0E\x04\x00\x00
+MID_BT9_#005	\x0E\x03\x02\x10\x0EM023_グリ\nBon sang, quel caractère. J'imagine qu'on ferait\nmieux de passer aux choses sérieuses, dans ce\ncas.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM023_グリ\x02b\n\x0E\x05\x01\x1A\x0EM023_グリ\x08Pain\n\x0E\x03\x02\x10\x0EM023_グリ\nOh, oui... Des blessures mortelles... Quel\nrégal. Je les accepte avec délectation.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x00\x0E\x08リュール\x024\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nHé... On dirait que vous avez gagné.\nPardonnez-moi, Messire Sombron.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nLe combat est terminé. Nous devrions y aller.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08ヴェイル\nAdieu, Zephia. Adieu, Griss.\nJe suis heureuse de pouvoir prendre congé\nen bonne et due forme, cette fois.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06セピア\nOh, Griss n'entend plus rien, désormais.\x0E\x04\x02\x00
+MID_ED1_#005	Mais ne vous inquiétez pas. Je lui dirai quand\nnous serons réunis dans l'au-delà.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08ヴェイル\nMerci.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06セピア\nArgh...\x0E\x04\x02\x00
+MID_ED1_#008	Une dernière chose avant de partir... Vous ne\npourrez pas briser le prochain fragment de\nDragon déchu.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08ヴェイル\nQue voulez-vous dire ?\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06セピア\nEh bien, il se trouvait dans une région\nmontagneuse.\x0E\x04\x02\x00
+MID_ED1_#011	Gradlon s'est élevée, mais ces montagnes\nse sont effondrées. Le fragment repose\ndésormais au fond d'un lac.\x0E\x04\x02\x00
+MID_ED1_#012	L'atteindre ne sera pas chose aisée, alors ne\nsongez même pas à le détruire.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nAu fond d'un lac ?!\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08ヴェイル\nJ'ai effectivement senti que l'un d'eux était\nplus éloigné que les autres, sa présence me\nsemblait atténuée.\x0E\x04\x02\x00
+MID_ED1_#015	Mais jamais je n'aurais imaginé ceci...\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\nQue fait-on, maintenant ?\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x08\x06セピア\nC'est simple. Soit vous soulevez les montagnes,\nsoit vous faites disparaître le lac.\x0E\x04\x02\x00
+MID_ED1_#018	Tenez, prenez ceci, un cristal enchanté\nqui vous permettra d'atteindre votre...\ndestination.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08ヴェイル\nComment avez-vous mis la main là-dessus ?\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x08\x06セピア\nJe suis un dragon mage. Mon espèce est\ncapable de concevoir des objets magiques...\x0E\x04\x02\x00
+MID_ED1_#021	Même s'il s'agit plutôt d'amulettes, en général.\nIl faut sacrifier de nombreuses années... pour\nobtenir une magie aussi puissante.\x0E\x04\x02\x00
+MID_ED1_#022	Pour concevoir un objet suffisamment puissant\npour modifier le terrain... j'ai dû payer un prix\nconsidérable...\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08ヴェイル\nZephia, vous voulez dire que...\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x08\x06セピア\nOui, c'est la création de ce cristal qui m'a\nmenée à ma perte. La magie au prix de ma vie.\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_ED1_#026	\x0E\x03\x02\x08\x06セピア\nVous avez eu de la chance, vous savez.\x0E\x04\x02\x00
+MID_ED1_#027	Aucun autre dragon mage n'était capable de\nfabriquer un objet aussi puissant.\x0E\x04\x02\x00
+MID_ED1_#028	J'étais très jeune quand j'ai découvert que\nl'immense pouvoir dont je disposais pouvait\nêtre... difficile à contrôler.\x0E\x04\x02\x00
+MID_ED1_#029	Avec le temps, j'ai appris à le dompter, mais\npas avant que ma mère, mon père et beaucoup\nd'autres ne perdent la vie.\x0E\x04\x02\x00
+MID_ED1_#030	Oh, que de souvenirs... Mais revenons-en au\nprésent. Mon puissant don.\x0E\x04\x00\x00
+MID_ED1_#031	\x0E\x03\x02\x0A\x08ヴェイル\nPourquoi nous aidez-vous maintenant ?\x0E\x04\x00\x00
+MID_ED1_#032	\x0E\x03\x02\x08\x06セピア\nHa... Moi-même, je ne saurais le dire.\x0E\x04\x02\x00
+MID_ED1_#033	La fin est proche, alors j'imagine que c'est\nla chose à faire.\x0E\x04\x02\x00
+MID_ED1_#034	L'enchantement du cristal ne durera que\nquelques heures. Alors, pas un instant à perdre.\nLe fragment vous attend.\x0E\x04\x02\x00
+MID_ED1_#035	Soyez prudente, Dame Veyle. Je prierai pour\nque la fortune vous accompagne lors des\ncombats qui s'annoncent.\x0E\x04\x00\x00
+MID_ED1_#036	\x0E\x03\x02\x0A\x08ヴェイル\nV-Vous auriez pu faire ceci à tout moment.\nN'importe quand !\x0E\x04\x02\x00
+MID_ED1_#037	Mais maintenant, vous êtes mourante ! Nous\naurions pu faire les choses bien !\x0E\x04\x02\x00
+MID_ED1_#038	Si vous nous aviez dit cela avant le combat,\npeut-être que nous aurions pu vous pardonner...\x0E\x04\x00\x00
+MID_ED1_#039	\x0E\x03\x02\x08\x06セピア\nPourquoi maintenant ? Eh bien, parce que\nc'est la fin.\x0E\x04\x00\x00
+MID_ED1_#040	\x0E\x03\x02\x0A\x08ヴェイル\nComment ?\x0E\x04\x00\x00
+MID_ED1_#041	\x0E\x03\x02\x08\x06セピア\nJe peux faire montre de bienveillance, parce\nqu'il est trop tard pour faire les choses bien.\x0E\x04\x02\x00
+MID_ED1_#042	Si j'avais dit tout cela plus tôt, vous m'auriez\npardonnée ? Nous serions alliées ? Balivernes !\x0E\x04\x02\x00
+MID_ED1_#043	Je n'avais pas l'intention de mourir aujourd'hui,\nmais les choses se sont déroulées ainsi. Alors,\nje vous ai fabriqué un cristal.\x0E\x04\x02\x00
+MID_ED1_#044	Je doute que vous puissiez rejoindre ce\nfragment à la nage. Il est vraiment très\nprofond.\x0E\x04\x00\x00
+MID_ED1_#045	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x02\x00
+MID_ED1_#046	Zephia, je... je ne vous comprends pas.\x0E\x04\x00\x00
+MID_ED1_#047	\x0E\x03\x02\x08\x06セピア\nUn conseil, très chère. Tâchez d'oublier les gens\nque vous êtes incapable de comprendre.\x0E\x04\x02\x00
+MID_ED1_#048	Ne laissez pas de telles personnes hanter\nvos pensées pendant des années, cela ne\nservirait qu'à vous perturber.\x0E\x04\x00\x00
+MID_ED1_#049	\x0E\x03\x02\x0A\x08ヴェイル\nMême quand nous aurons vaincu Papa et que\nla paix régnera à nouveau...\x0E\x04\x02\x00
+MID_ED1_#050	Je ne vous oublierai pas, Zephia. Même s'il\ns'écoule des centaines ou des milliers d'années.\x0E\x04\x00\x00
+MID_ED1_#051	\x0E\x03\x02\x08\x06セピア\nOh, mon enfant... Assez, je vous en prie.\nHâtez-vous de rejoindre ce fragment.\x0E\x04\x02\x00
+MID_ED1_#052	À moins que vous ne préfériez me regarder\nmourir. Vous sentiriez-vous plus en sécurité\nsi vous étiez témoin de ma fin ?\x0E\x04\x00\x00
+MID_ED1_#053	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_ED1_#054	\x0E\x03\x02\x0A\x08リュール\nAllons-y, Veyle.\x0E\x04\x00\x00
+MID_ED1_#055	\x0E\x03\x02\x08\x06セピア\nOui, allez-vous-en. Maintenant que la situation\nest réglée entre nous.\x0E\x04\x02\x00
+MID_ED1_#056	Adieu, Dame Veyle. Et adieu à vous aussi,\nnotre nouvel Emblème \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_ED1_#057	\x0E\x03\x02\x0A\x08リュール\nAdieu.\x0E\x04\x00\x00
+MID_ED1_#058	\x0E\x03\x02\x0A\x08ヴェイル\nAdieu, Zephia.\x0E\x04\x02\x00
+MID_ED1_#059	...\x0E\x04\x02\x00
+MID_ED1_#060	Merci... pour tout.\x0E\x04\x00\x00
+MID_ED1_#061	\x0E\x03\x02\x08\x06セピア\nVous êtes trop gentille, mon enfant.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0C\x06セピア\x022\n\x0E\x03\x00\x0A\x04グリ\x021\n\x0E\x03\x02\x06\x04グリ\nCe n'est pas vraiment le moment\nde changer de camp.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x08\x06セピア\nMa parole, je croyais qu'ils t'avaient tué.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x06\x04グリ\nQuoi, vous croyiez que j'allais partir sans avoir\nressenti toute cette douleur ? Je la savoure...\x0E\x04\x02\x00
+MID_ED2_#004	Ça m'aurait agacé qu'ils\nm'achèvent, je dois l'avouer...\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06セピア\nC'est pour ça que tu feignais la mort ?\nJusqu'à la fin, tu resteras un homme étrange.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x06\x04グリ\nPourquoi leur avez-vous... parlé du fragment ?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06セピア\nComme je l'ai dit, je voulais\nfaire table rase du passé.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x06\x04グリ\nArrêtez ça. Je veux la vérité, d'accord ?\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06セピア\nPour me venger du seigneur Sombron. Pourquoi\ndevrais-je mordre la poussière, alors que lui...\x0E\x04\x02\x00
+MID_ED2_#010	Alors que lui obtient tout ce qu'il veut ?\nÇa te semble juste, honnêtement ?\x0E\x04\x02\x00
+MID_ED2_#011	De cette manière, ils briseront le fragment,\net il saura que je suis morte. Qu'il m'a perdue.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x06\x04グリ\nVous deviez vraiment l'aimer pour\nvouloir lui faire autant de mal.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x08\x06セピア\nJe n'étais pas amoureuse du seigneur Sombron.\nJe voulais juste qu'il me donne un enfant.\x0E\x04\x02\x00
+MID_ED2_#014	C'était mon rêve depuis toutes ces années.\nUne famille. L'amour d'un fils ou d'une fille...\x0E\x04\x02\x00
+MID_ED2_#015	Quand je disais que les Chacals\nétaient ma famille, je le pensais.\x0E\x04\x02\x00
+MID_ED2_#015_2	Ce que nous avions était vraiment rare.\x0E\x04\x02\x00
+MID_ED2_#016	Toi, moi, Marni, Mauvier. On collaborait pour\nprotéger le seigneur Sombron et Dame Veyle.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x06\x04グリ\nMais c'est trop tard maintenant...\x0E\x04\x02\x00
+MID_ED2_#018	Quitte à vous en prendre à Sombron, pourquoi\nattendre autant ? Nous serions toujours réunis.\x0E\x04\x02\x00
+MID_ED2_#019	Et peut-être que je ne serais pas\nen train de me vider de mon sang.\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x02\x08\x06セピア\nPeut-être que tu aurais été\nplus heureux dans leur camp.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x06\x04グリ\nVous croyez vraiment que je vous\nabandonnerais ? Alors là, hors de question.\x0E\x04\x00\x00
+MID_ED2_#022	\x0E\x03\x02\x08\x06セピア\nHein ?\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x06\x04グリ\nLes Quatre Chacals, une famille...\x0E\x04\x02\x00
+MID_ED2_#023_2	\x0E\x03\x02\x06\x04グリ\nJ'ai toujours beaucoup aimé cette idée.\x0E\x04\x02\x00
+MID_ED2_#024	Je ne me souviens même pas du visage de mes\nparents. Vous êtes comme une mère pour moi.\x0E\x04\x02\x00
+MID_ED2_#025	Quand vous m'avez trouvé, j'étais un disciple\ntordu qui souffrait pour le seigneur Sombron...\x0E\x04\x02\x00
+MID_ED2_#026	Vous avez été comme une mère ou une sœur...\nUne déesse, à vrai dire. Quelqu'un d'essentiel.\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x02\x08\x06セピア\nGriss... Ce n'est pas drôle.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x06\x04グリ\nÇa n'a pas vocation de l'être. Je vous suivrai\nn'importe où... idiote.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x08\x06セピア\nTu as raison. Comment ai-je\npu être aussi aveugle ?\x0E\x04\x02\x00
+MID_ED2_#029_2	\x0E\x03\x02\x08\x06セピア\nTout ce que j'avais toujours voulu\nétait là... Depuis tout ce temps.\x0E\x04\x02\x00
+MID_ED2_#030	Si seulement je l'avais compris...\x0E\x04\x02\x00
+MID_ED2_#030_2	Mais non. Ce qui est fait est fait.\x0E\x04\x02\x00
+MID_ED2_#031	J'espère que tu me pardonneras.\nNous sommes... une famille.\x0E\x04\x02\x00
+MID_ED2_#032	Merci, Griss.\x0E\x04\x02\x00
+MID_ED2_#033	 \x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x02\x06\x04グリ\nZephia ?\x0E\x04\x02\x00
+MID_ED2_#035	Vous vous êtes assoupie ?\x0E\x04\x02\x00
+MID_ED2_#035_2	Je crois... que je vais en faire autant.\x0E\x04\x02\x00
+MID_ED2_#036	Sans elle, je n'ai plus aucune\nraison de me battre...\x0E\x04\x02\x00
+MID_ED2_#037	Plus rien ne me... fait mal.\x0E\x04\x02\x00

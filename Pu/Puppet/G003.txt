@@ -1,0 +1,62 @@
+MID_OP1_#001	キャラ配置(GID_チキ, ME_IN_BC, [服装], Normal, IdleNormal,30)\nキャラ配置調整(GID_チキ, -0.1, 0, -0.19)\nキャラ配置(PID_リュール, ME_IN_CD, [服装], Normal, IdleNormal)\n\n背景(Map_Event_G003_01)\nライト(CharaLight_G003, 0, 0, 0)\n\n章タイトル(CID_G003)\nサウンドイベント(BGM_Evt_Ring)\n\nウェイト(1.5)\nフェードアウト()\n\nシーンカメラ(SceneCam_SideYou_Right_Mid, cam_anim_zoom_in_slow)\n\nキャラモーション再生(PID_リュール, Angry, EmoLook)\nキャラモーション再生(GID_チキ, Angry, EmoLook,2,0.5)\n\nフェードイン()\n\n*\nパペット会話中断()\nキャラモーション待ち(GID_チキ)
+MID_OP1_#002	
+MID_OP1_#003	一枚絵表示(Tex_Event_DLC_ItemPicture_06, picture_item_fade_in_normal)\n\nキャラモーション再生(GID_チキ, Surprise, EmoSurprise2,0, 0.5)
+MID_OP1_#004	キャラ視線(GID_チキ, PID_リュール, PID_リュール)\nキャラ視線(PID_リュール, GID_チキ, GID_チキ)\n\nキャラモーション再生(PID_リュール, Smile, EmoNod,0, 0.5)\nキャラモーション再生(GID_チキ, Smile)\n*\nパペット会話中断()
+MID_OP1_#005	キャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_zoom_out_slow)\n\nキャラ視線リセット(PID_リュール)\nキャラモーション再生(PID_リュール, Angry, EmoPray, 0, 0.5)\n\n一枚絵非表示(picture_item_fade_out_normal)\n\nサウンドイベント(SE_Evt_Advent_WhiteOut)\nウェイト(1.8)\nサウンドイベント(BGM_Evt_Ring_Stop_Normal)\n一枚絵表示(Tex_Event_Effect_White, picture_fade_in_slow)\n*\nフェードアウト()
+MID_OP2_#001	キャラ配置(PID_リュール, ME_IN_CD, [服装], Normal, IdleNormal)\nキャラ表示切替(PID_リュール,False)\nキャラ配置(GID_ヴェロニカ, YOU_IN_CD, [服装], Normal, IdleNormal)\nキャラ配置調整(GID_ヴェロニカ,0, 0, 0.2)\n\n背景(Map_Event_G003_01)\nライト(CharaLight_G003, 0, 0, 0)\n\nキャラ視線(GID_ヴェロニカ, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_SideLong_Right_Mid, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nエフェクト表示(Effect01, Effects/Event/G003_MID_OP1/Prefabs/G003_MID_OP1)\nキャラモーション再生(GID_ヴェロニカ, Serious, WalkIn)\n\nサウンドイベント(BGM_Evt_Brave)\nキャラモーション再生(GID_ヴェロニカ, Angry, EmoTalk2,1, 0.5)\n\nフェードイン()
+MID_OP2_#002	キャラ表示切替(PID_リュール,True)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_track_l_slow)\n\nキャラモーション再生(PID_リュール, Smile, EmoRelax, 0, 0.3)\nキャラモーション再生(GID_ヴェロニカ, Angry, IdleNormal,0,1)
+MID_OP2_#003	
+MID_OP2_#004	キャラモーション再生(GID_ヴェロニカ, Angry, EmoThink, 1.0, 0.5)
+MID_OP2_#005	キャラモーション再生(PID_リュール, Smile, EmoTalk, 0, 0.5)\nキャラモーション再生(GID_ヴェロニカ, Angry, IdleNormal,0,1)
+MID_OP2_#006	キャラモーション再生(PID_リュール, Smile, EmoPray, 0, 0.5)
+MID_OP2_#007	キャラカメラ(CharaCam_Side_Right_Mid, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Sad, EmoDeny2, 1.0, 1.0)
+MID_OP2_#008	キャラモーション再生(GID_ヴェロニカ, Normal)\nキャラモーション再生(GID_ヴェロニカ, Normal, EmoTalk2,0,1)
+MID_OP2_#009	
+MID_OP2_#010	キャラカメラ(CharaCam_FrontLong_Center_Mid, PID_リュール, cam_anim_zoom_in_fast)\nキャラ表示切替(GID_ヴェロニカ, False)\n\nキャラモーション再生(PID_リュール, Surprise, EmoSurprise2, 0, 0.5)
+MID_OP2_#011	キャラカメラ(CharaCam_Side_Right_Mid, GID_ヴェロニカ, cam_anim_pan_r_slow)\nキャラ表示切替(GID_ヴェロニカ, True)\n\nキャラモーション再生(PID_リュール, Surprise, IdleNormal)\nキャラモーション再生(GID_ヴェロニカ, Normal, EmoNod,0, 0.5)
+MID_OP2_#012	
+MID_OP2_#013	キャラモーション再生(GID_ヴェロニカ, Angry, EmoPray,0, 0.5)
+MID_OP2_#014	キャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_pan_l_slow)\nキャラモーション再生(GID_ヴェロニカ, Angry, IdleNormal,0,1)\n\nキャラモーション再生(PID_リュール, Angry, EmoTalk2, 0, 0.5)
+MID_OP2_#015	キャラカメラ(CharaCam_Shoulder_Right_Top, PID_リュール, cam_anim_track_r_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Normal, EmoThink,0, 0.5)
+MID_OP2_#016	キャラモーション再生(PID_リュール, Surprise, EmoSurprise, 0, 0.5)
+MID_OP2_#017	
+MID_OP2_#018	キャラカメラ(CharaCam_Front_Center_Top, GID_ヴェロニカ, cam_anim_zoom_out_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Angry, EmoTalk,0, 0.5)
+MID_OP2_#019	キャラカメラ(CharaCam_SideLong_Left_Mid, PID_リュール, cam_anim_track_r_slow)\n\nキャラモーション再生(PID_リュール, Sad, EmoSurprise2, 0, 0.5)\n\nキャラ視線リセット(GID_ヴェロニカ)
+MID_OP2_#020	キャラカメラ(CharaCam_Side_Right2_Bot, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Serious, EmoDeny2,0, 0.3)\nキャラモーション再生(GID_ヴェロニカ, Angry, EmoPray, 3.0, 0.8)\n\nキャラモーション再生(PID_リュール, Smile, EmoLook, 0, 0.5)\n\n*\nパペット会話中断()\nキャラモーション待ち(PID_リュール)\n\nサウンドイベント(BGM_Evt_Brave_Stop_Normal)\n\nフェードアウト()
+MID_EV1_#001	
+MID_EV2_#001	
+MID_EV3_#001	
+MID_EV4_#001	
+MID_EV5_#001	
+MID_EV6_#001	
+MID_EV7_#001	
+MID_EV8_#001	
+MID_BT1_#001	
+MID_BT1_#002	
+MID_BT1_#003	
+MID_BT1_#004	
+MID_BT2_#001	
+MID_BT2_#002	
+MID_BT2_#003	
+MID_BT2_#004	
+MID_ED1_#001	キャラ配置(PID_リュール, ME_IN_C, [服装], Normal, IdleNormal)\nキャラ配置(GID_ヴェロニカ, YOU_IN_C, [服装], Normal, IdleNormal)\n\n背景(Map_Event_G003_01)\nライト(CharaLight_G003, 0, 0, 0)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_track_l_slow)\n\nキャラ視線(PID_リュール, GID_ヴェロニカ, GID_ヴェロニカ)\n\nキャラモーション再生(GID_ヴェロニカ, Serious, EmoAngry,0, 0.5)\nキャラモーション再生(PID_リュール, Pain, EmoTired,0, 0.5)\n\nサウンドイベント(BGM_Evt_Ring)\nフェードイン()
+MID_ED1_#002	キャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)\n\nキャラ視線(GID_ヴェロニカ, PID_リュール, PID_リュール)\n\nキャラモーション再生(PID_リュール, Pain, EmoTalk,0,1)
+MID_ED1_#003	
+MID_ED1_#004	キャラカメラ(CharaCam_Shoulder_Right_Mid, PID_リュール, cam_anim_track_l_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Serious, EmoDeny2,0, 0.5)
+MID_ED1_#005	キャラモーション再生(PID_リュール, Normal, EmoTalk2,0, 0.5)\nキャラモーション再生(GID_ヴェロニカ, Surprise)
+MID_ED1_#006	キャラモーション再生(PID_リュール, Normal, EmoPray,0,1)\nキャラモーション再生(GID_ヴェロニカ, Normal)
+MID_ED1_#007	キャラカメラ(CharaCam_Side_Right_Mid, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Angry, EmoThink,0, 0.5)
+MID_ED1_#008	キャラモーション再生(GID_ヴェロニカ, Sad, IdleNormal,0,1)
+MID_ED1_#009	キャラモーション再生(GID_ヴェロニカ, Angry, EmoTalk,0, 0.5)
+MID_ED1_#010	キャラモーション再生(GID_ヴェロニカ, Sad, EmoDeny2,0, 0.5)\n\n*\nウェイト(1)
+MID_ED1_#011	キャラカメラ(CharaCam_Side_Left2_Top, PID_リュール, cam_anim_track_r_slow)\n\nキャラモーション再生(PID_リュール, Sad)\nキャラモーション再生(PID_リュール, Angry, EmoJoy, 3.0, 0.5)
+MID_ED1_#012	キャラカメラ(CharaCam_Front_Center_Mid, GID_ヴェロニカ, cam_anim_zoom_out_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Sad, EmoTalk2,0, 0.5)\nキャラモーション再生(GID_ヴェロニカ, Sad, EmoDeny2, 4.5,1)
+MID_ED1_#013	キャラカメラ(CharaCam_ShoulderLong_Left_Top, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nキャラモーション再生(PID_リュール, Smile, EmoNod, 0, 0.5)\nキャラモーション再生(PID_リュール, Smile, EmoTalk, 1.5, 1)\nキャラモーション再生(GID_ヴェロニカ, Sad, IdleNormal,0,1)
+MID_ED1_#014	キャラモーション再生(GID_ヴェロニカ, Sad, EmoSad2,0, 0.5)\nキャラモーション再生(PID_リュール, Smile, IdleNormal,0,1)
+MID_ED1_#015	キャラカメラ(CharaCam_Side_Right2_Mid, GID_ヴェロニカ, cam_anim_pan_r_slow)\nキャラモーション再生(GID_ヴェロニカ, Normal, EmoSad2,0,1)\n\n*\nウェイト(0.5)
+MID_ED1_#016	キャラモーション再生(GID_ヴェロニカ, Normal, EmoNod,0,1)\nウェイト(0.5)\nキャラモーション再生(PID_リュール, Surprise)
+MID_ED1_#017	キャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_pan_l_slow)\n\nキャラモーション再生(PID_リュール, Smile, EmoRelax,0, 0.5)
+MID_ED1_#018	キャラモーション再生(PID_リュール, Smile, EmoTalk,0,1)
+MID_ED1_#019	キャラカメラ(CharaCam_Side_Right2_Bot, GID_ヴェロニカ, cam_anim_track_l_slow)\n\nキャラモーション再生(GID_ヴェロニカ, Normal, EmoSad2,0, 0.5)\nキャラモーション再生(PID_リュール, Smile, IdleNormal)
+MID_ED1_#020	キャラモーション再生(GID_ヴェロニカ, Sad)
+MID_ED1_#021	キャラモーション再生(GID_ヴェロニカ, Shy, EmoRelax,0, 0.5)\nキャラモーション再生(GID_ヴェロニカ, Smile, IdleNormal, 4.0,1)\n\nキャラモーション再生(PID_リュール, Smile, EmoLook, 0, 0.5)\n\n*\nパペット会話中断()\nキャラモーション待ち(PID_リュール)\nキャラモーション待ち(GID_ヴェロニカ)\n\nサウンドイベント(BGM_Evt_Ring_Stop_Normal)\nフェードアウト()

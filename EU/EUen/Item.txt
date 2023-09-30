@@ -1,0 +1,678 @@
+MIID_None	
+MIID_H_None	--------
+MIID_Unknown	???
+MIID_H_Unknown	?????
+MIID_UnknownArg	??? \x0E\x01\x00\x00
+MIID_IronSword	Iron Sword
+MIID_H_IronSword	A standard sword made of iron─\nsimple, but effective.
+MIID_SteelSword	Steel Sword
+MIID_H_SteelSword	A sword made of steel.
+MIID_SilverSword	Silver Sword
+MIID_H_SilverSword	An exceptional sword of rare metals.
+MIID_SmallSword	Slim Sword
+MIID_H_SmallSword	A light, unusually accurate sword.
+MIID_BraveSword	Brave Sword
+MIID_H_BraveSword	A sword built for expert wielders.\nIf user initiates combat, attacks\ntwice.
+MIID_ThunderSword	Levin Sword
+MIID_H_ThunderSword	A magical sword that can strike\nclose or at range.
+MIID_Liberation	Libération
+MIID_H_Liberation_M000	The Divine Dragon's personal sword.
+MIID_H_Liberation	Divine Dragon only. Fills engage\nmeter by 1 when user attacks and\ndefeats a foe in a single turn.
+MIID_KillingEdge	Killing Edge
+MIID_H_KillingEdge	A sword especially well-suited to\ninflicting deadly wounds. 
+MIID_JapaneseSword	Wo Dao
+MIID_H_JapaneseSword	A sword honed to a razor edge.
+MIID_Armorslayer	Armorslayer
+MIID_H_Armorslayer	A sword made to penetrate heavy\narmor. Effective: Armored.
+MIID_GodSword	Caladbolg
+MIID_H_GodSword	A legendary sword, famous for its\ngreat power.
+MIID_IronSwordL	Iron Blade
+MIID_H_IronSwordL	A massive sword that smashes foes.\nCannot follow up, or strike first if\ninitiating combat.
+MIID_SteelSwordL	Steel Blade
+MIID_H_SteelSwordL	A massive sword of steel that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_SilverSwordL	Silver Blade
+MIID_H_SilverSwordL	A massive sword of rare metals that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_WilleGlanz	Wille Glanz
+MIID_H_WilleGlanz	Divine Dragon only. A powerful\nsword that can strike close or\nat range.
+MIID_GodSwordL	Georgios
+MIID_H_GodSwordL	A legendary blade that smashes foes.\nCannot follow up, or strike first if\ninitiating combat.
+MIID_Dragonslayer	Wyrmslayer
+MIID_H_Dragonslayer	A sword crafted specifically to fight\ndragons. Effective: Dragon.
+MIID_IronLance	Iron Lance
+MIID_H_IronLance	A standard lance made of iron─\nsimple, but effective.
+MIID_SteelLance	Steel Lance
+MIID_H_SteelLance	A lance made of steel.
+MIID_SilverLance	Silver Lance
+MIID_H_SilverLance	An exceptional lance of rare metals.
+MIID_SmallLance	Slim Lance
+MIID_H_SmallLance	A light, unusually accurate lance.
+MIID_BraveLance	Brave Lance
+MIID_H_BraveLance	A lance built for expert wielders.\nIf user initiates combat, attacks\ntwice.
+MIID_HandLance	Javelin
+MIID_H_HandLance	A light throwing lance that can\nstrike close or at range.
+MIID_RiderKiller	Ridersbane
+MIID_H_RiderKiller	A lance designed for foes on\nhorseback. Effective: Cavalry.
+MIID_KillerLance	Killer Lance
+MIID_H_KillerLance	A lance especially well-suited to\ninflicting deadly wounds.
+MIID_Spear	Spear
+MIID_H_Spear	A powerful throwing lance that can\nstrike close or at range.
+MIID_FlameSpear	Flame Lance
+MIID_H_FlameSpear	A magical lance that can strike\nclose or at range.
+MIID_GodLance	Brionac
+MIID_H_GodLance	A powerful lance of legend. Can\nstrike close or at range.
+MIID_IronLanceL	Iron Greatlance
+MIID_H_IronLanceL	A massive lance that smashes foes.\nCannot follow up, or strike first if\ninitiating combat.
+MIID_SteelLanceL	Steel Greatlance
+MIID_H_SteelLanceL	A massive lance of steel that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_SilverLanceL	Silver Greatlance
+MIID_H_SilverLanceL	A massive lance of rare metals that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_GodLanceL	Venomous
+MIID_H_GodLanceL	A lance of legend that smashes and\npoisons hit foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_IronAxe	Iron Axe
+MIID_H_IronAxe	A standard axe made of iron─\nsimple, but effective.
+MIID_SteelAxe	Steel Axe
+MIID_H_SteelAxe	An axe made of steel.
+MIID_SilverAxe	Silver Axe
+MIID_H_SilverAxe	An exceptional axe of rare metals.
+MIID_SmallAxe	Compact Axe
+MIID_H_SmallAxe	A light, unusually accurate axe.
+MIID_BraveAxe	Brave Axe
+MIID_H_BraveAxe	An axe built for expert wielders.\nIf user initiates combat, attacks\ntwice.
+MIID_HandAxe	Hand Axe
+MIID_H_HandAxe	A light throwing axe that can\nstrike close or at range.
+MIID_Tomahawk	Tomahawk
+MIID_H_Tomahawk	A powerful throwing axe that can\nstrike close or at range.
+MIID_Hammer	Hammer
+MIID_H_Hammer	A war hammer made to crack\nthrough heavy armor. Effective:\nArmored.
+MIID_KillerAxe	Killer Axe
+MIID_H_KillerAxe	An axe especially well-suited to\ninflicting deadly wounds.
+MIID_PoleAxe	Poleaxe
+MIID_H_PoleAxe	An axe whose long handle helps\nreach mounted foes.\nEffective: Cavalry.
+MIID_GodAxe	Fragarach
+MIID_H_GodAxe	A legendary axe.
+MIID_IronAxeL	Iron Greataxe
+MIID_H_IronAxeL	A massive axe that smashes foes.\nCannot follow up, or strike first if\ninitiating combat.
+MIID_SteelAxeL	Steel Greataxe
+MIID_H_SteelAxeL	A massive axe of steel that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_SilverAxeL	Silver Greataxe
+MIID_H_SilverAxeL	A massive axe of rare metals that\nsmashes foes. Cannot follow up,\nor strike first if initiating combat.
+MIID_WindAxeL	Hurricane Axe
+MIID_H_WindAxeL	A magical axe that smashes foes.\nCannot follow up, or strike first if\ninitiating combat. Effective: Flying.
+MIID_GodAxeL	Ukonvasara
+MIID_H_GodAxeL	A huge, legendary axe that smashes\nfoes. Cannot follow up, or strike first\nif initiating combat.
+MIID_ShortBow	Mini Bow
+MIID_H_ShortBow	An easy-to-use, short-range bow.\nEffective: Flying.
+MIID_IronBow	Iron Bow
+MIID_H_IronBow	A standard bow made of iron.\nEffective: Flying.
+MIID_SteelBow	Steel Bow
+MIID_H_SteelBow	A bow made of steel.\nEffective: Flying.
+MIID_SilverBow	Silver Bow
+MIID_H_SilverBow	An exceptional bow of rare metals.\nEffective: Flying.
+MIID_BraveBow	Brave Bow
+MIID_H_BraveBow	A bow built for expert wielders.\nIf user initiates combat, attacks\ntwice. Effective: Flying.
+MIID_LongBow	Longbow
+MIID_H_LongBow	A bow made to fire at longer ranges.\nEffective: Flying.
+MIID_KillerBow	Killer Bow
+MIID_H_KillerBow	A bow especially well-suited to\ninflicting deadly wounds.\nEffective: Flying.
+MIID_LightBow	Radiant Bow
+MIID_H_LightBow	A magical bow whose arrows pierce\nwith light. Effective: Flying.
+MIID_GodBow	Lendabair
+MIID_H_GodBow	A bow wielded by legends.\nEffective: Flying.
+MIID_SmallKnife	Short Knife
+MIID_H_SmallKnife	An easy-to-use throwing knife.\nPoisons hit foes.
+MIID_IronKnife	Iron Dagger
+MIID_H_IronKnife	A standard throwing knife. Poisons\nhit foes.
+MIID_SteelKnife	Steel Dagger
+MIID_H_SteelKnife	A throwing knife made of steel.\nPoisons hit foes.
+MIID_SilverKnife	Silver Dagger
+MIID_H_SilverKnife	A throwing knife made of rare\nmetals. Poisons hit foes.
+MIID_Kard	Kard
+MIID_H_Kard	A fighting knife intended for close\ncombat. Poisons hit foes.
+MIID_Stiletto	Stiletto
+MIID_H_Stiletto	A fighting knife intended for close\ncombat. Poisons hit foes.
+MIID_Peshkad	Peshkatz
+MIID_H_Peshkad	A fighting knife intended for close\ncombat. Poisons hit foes.
+MIID_Misericorde	Misericorde
+MIID_H_Misericorde	Veyle only. An enchanted throwing\nknife that inflicts magic damage and\npoisons hit foes.
+MIID_Cinquedea	Cinquedea
+MIID_H_Cinquedea	A legendary throwing knife that\npoisons hit foes.
+MIID_Carnwenhan	Carnwenhan
+MIID_H_Carnwenhan	A legendary short sword. Smashes\nand poisons hit foes. Cannot follow\nup, or strike first if initiating combat.
+MIID_Surge	Surge
+MIID_H_Surge	A basic attack tome that can only be\nused in close combat.
+MIID_Fire	Fire
+MIID_H_Fire	A standard tome of fire magic.
+MIID_Thunder	Thunder
+MIID_H_Thunder	A standard tome of thunder magic.\nCannot follow up.
+MIID_Wind	Wind
+MIID_H_Wind	A standard tome of wind magic.\nEffective: Flying.
+MIID_LSurge	Elsurge
+MIID_H_LSurge	An advanced attack tome that can\nonly be used in close combat.
+MIID_LFire	Elfire
+MIID_H_LFire	An advanced fire tome.
+MIID_LThunder	Elthunder
+MIID_H_LThunder	An advanced thunder tome. Cannot\nfollow up.
+MIID_LWind	Elwind
+MIID_H_LWind	An advanced wind tome.\nEffective: Flying.
+MIID_Bolganone	Bolganone
+MIID_H_Bolganone	A truly mighty fire tome.
+MIID_Thoron	Thoron
+MIID_H_Thoron	A truly mighty thunder tome.\nCannot follow up.
+MIID_SThoron	Thoron
+MIID_H_SThoron	A truly mighty thunder tome.\nCannot follow up.
+MIID_Excalibur	Excalibur
+MIID_H_Excalibur	A truly mighty wind tome.\nEffective: Flying.
+MIID_H_Excalibur_Gris	A truly mighty wind tome.\nEffective: Flying.
+MIID_Nova	Nova
+MIID_H_Nova	An extremely potent tome. If user\ninitiates combat, attacks twice.
+MIID_Meteo	Meteor
+MIID_H_Meteo	A tome of long-range attack magic.\nCannot be used at shorter ranges.
+MIID_Obscurite	Obscurité
+MIID_H_Obscurite	Fell Dragon only. Truly mighty dark\nmagic.
+MIID_H_Obscurite_M000	Fell Dragon only. Truly mighty\ndark magic.
+MIID_Heal	Heal
+MIID_H_Heal	A staff imbued with healing magic.\nRecovers an ally's HP.
+MIID_HiHeal	Mend
+MIID_H_HiHeal	A staff imbued with healing magic.\nRecovers a great deal of an\nally's HP.
+MIID_Recover	Recover
+MIID_H_Recover	A staff imbued with healing magic.\nRecovers vast amounts of an\nally's HP.
+MIID_FarHeal	Physic
+MIID_H_FarHeal	A staff imbued with healing magic.\nCan recover an ally's HP at a\ndistance.
+MIID_WholeHeal	Fortify
+MIID_H_WholeHeal	A staff imbued with healing magic.\nRecovers HP for all allies within a\n5-space radius.
+MIID_Rest	Restore
+MIID_H_Rest	A staff that removes status effects\non an ally.
+MIID_Warp	Warp
+MIID_H_Warp	A staff imbued with space-warping\nmagic. Teleports an adjacent ally up\nto 5 spaces away.
+MIID_ReWarp	Rewarp
+MIID_H_ReWarp	A staff imbued with space-warping\nmagic. Teleports the user up to\n5 spaces away.
+MIID_Rescue	Rescue
+MIID_H_Rescue	A staff imbued with space-warping\nmagic. Teleports a faraway ally to\nan adjacent space.
+MIID_Draw	Entrap
+MIID_H_Draw	A staff imbued with space-warping\nmagic. Teleports a faraway foe to\nan adjacent space.
+MIID_TorchRod	Illume
+MIID_H_TorchRod	A staff that magically shines through\ndarkness. Illuminates a 7-space\nradius (shrinks one space per turn).
+MIID_Freeze	Freeze
+MIID_H_Freeze	A staff that prevents foes from\nmoving for 1 turn.
+MIID_Silence	Silence
+MIID_H_Silence	A staff that prevents foes from\nusing tomes or staves for 1 turn.
+MIID_Block	Obstruct
+MIID_H_Block	A staff that conjures a mass of ice\nthat makes one space impassable\nfor 1 turn.
+MIID_Nodus	Nodus
+MIID_H_Nodus	A staff imbued with mysterious\nmagic that sets all allies' engage\nmeters to max.
+MIID_Collapse	Fracture
+MIID_H_Collapse	A staff imbued with magic that can\nbreak foes.
+MIID_BeginnerFist	Initiate Art
+MIID_H_BeginnerFist	A scroll of a fundamental martial\nskill. As a basic text, it does not\nattack twice.
+MIID_BasicFist	Iron-Body Art
+MIID_H_BasicFist	A scroll of a basic martial skill. If\nuser initiates combat, attacks twice.
+MIID_MiddleFist	Steel-Hand Art
+MIID_H_MiddleFist	A scroll of a standard martial skill.\nIf user initiates combat, attacks\ntwice.
+MIID_HighFist	Silver-Spirit Art
+MIID_H_HighFist	A scroll of a highly polished martial\nskill. If user initiates combat,\nattacks twice.
+MIID_GuardFist	Shielding Art
+MIID_H_GuardFist	A scroll of a defensive martial skill.\nGrants Def+5.
+MIID_FlashFist	Flashing Fist Art
+MIID_H_FlashFist	A scroll of brash martial skill. Grants\nSpd+5, but user takes +5 damage. If\nuser initiates combat, attacks twice.
+MIID_GodFist	Divine Fist Art
+MIID_H_GodFist	A scroll of a legendary martial skill.\nIf user initiates combat, attacks\ntwice.
+MIID_FireBreath	Fire Breath
+MIID_H_FireBreath	A scorching breath attack. Ignores\nfoe's Def/Res.
+MIID_FlameBall	Fireball
+MIID_H_FlameBall	A long-range fire attack. Ignores\nfoe's Def/Res.
+MIID_SombrePhysicalAttack	Fell Assault
+MIID_H_SombrePhysicalAttack	A series of colossal ranged attacks.
+MIID_SombreMagicAttack	Fell Surge
+MIID_H_SombreMagicAttack	A powerful ranged strike of\ndark magic.
+MIID_SombreSpinAttack	Whirling Death
+MIID_H_SombreSpinAttack	A spin that brutally strikes an area.\nAttacks all foes within 3 spaces.
+MIID_SombreBeam	Howling Beam
+MIID_H_SombreBeam	A powerful beam of dark magic that\nleaves a foul miasma in its wake.
+MIID_SombreEngageBreak	Disengage
+MIID_H_SombreEngageBreak	Forces all foes to lose engaged\nstatus.
+MIID_FireCannon	Flame Cannon
+MIID_H_FireCannon	Use to attack all units within a\n2-space radius of a target point\nand set the same area on fire.
+MIID_Vulnerary	Vulnerary
+MIID_H_Vulnerary	Drink to recover 15 HP.
+MIID_Medicine	Elixir
+MIID_H_Medicine	Drink to recover 30 HP.
+MIID_Antidote	Antitoxin
+MIID_H_Antidote	Drink to recover 15 HP and cure\npoison.
+MIID_HolyWater	Pure Water
+MIID_H_HolyWater	Drink to grant Res+7 to user\n(bonus shrinks by 1 each turn).
+MIID_Torch	Torch
+MIID_H_Torch	Burn to illuminate a 7-space radius\n(shrinks one space per turn).
+MIID_SeraphRobe	Seraph Robe
+MIID_H_SeraphRobe	Expend to grant max HP+5 to user\npermanently.
+MIID_EnergyDrop	Energy Drop
+MIID_H_EnergyDrop	Expend to grant Str+2 to user\npermanently.
+MIID_SpiritDust	Spirit Dust
+MIID_H_SpiritDust	Expend to grant Mag+2 to user\npermanently.
+MIID_SecretBook	Secret Book
+MIID_H_SecretBook	Expend to grant Dex+2 to user\npermanently.
+MIID_Speedwing	Speedwing
+MIID_H_Speedwing	Expend to grant Spd+2 to user\npermanently.
+MIID_GoddessIcon	Goddess Icon
+MIID_H_GoddessIcon	Expend to grant Lck+2 to user\npermanently.
+MIID_Dracoshield	Dracoshield
+MIID_H_Dracoshield	Expend to grant Def+2 to user\npermanently.
+MIID_Talisman	Talisman
+MIID_H_Talisman	Expend to grant Res+2 to user\npermanently.
+MIID_Boots	Boots
+MIID_H_Boots	Expend to grant Mov+1 to user\npermanently.
+MIID_HpTonic	HP Tonic
+MIID_H_HpTonic	Drink to grant max HP+5 for the\nduration of a battle.
+MIID_StrTonic	Strength Tonic
+MIID_H_StrTonic	Drink to grant Str+2 for the\nduration of a battle.
+MIID_MagTonic	Magic Tonic
+MIID_H_MagTonic	Drink to grant Mag+2 for the\nduration of a battle.
+MIID_MdefTonic	Resistance Tonic
+MIID_H_MdefTonic	Drink to grant Res+2 for the\nduration of a battle.
+MIID_TecTonic	Dexterity Tonic
+MIID_H_TecTonic	Drink to grant Dex+2 for the\nduration of a battle.
+MIID_SpdTonic	Speed Tonic
+MIID_H_SpdTonic	Drink to grant Spd+2 for the\nduration of a battle.
+MIID_LckTonic	Luck Tonic
+MIID_H_LckTonic	Drink to grant Lck+2 for the\nduration of a battle.
+MIID_DefTonic	Defense Tonic
+MIID_H_DefTonic	Drink to grant Def+2 for the\nduration of a battle.
+MIID_MasterSeal	Master Seal
+MIID_H_MasterSeal	Expend to change user to an\nadvanced class.
+MIID_ChangeSeal	Second Seal
+MIID_H_ChangeSeal	Expend to change user to a different\nclass in the same tier, or to set level\nin the current class from max to 1.
+MIID_PromiseRing	Pact Ring
+MIID_H_PromiseRing	Ring used to increase the support\nlevel with one ally from A to \x0E\x08\x02\x1A\x18RelianceRing.
+MIID_H_PromiseRing_1	A ring that was enshrined on an altar\nand seems to emanate some kind\nof special power.
+MIID_TimeCrystal	Time Crystal
+MIID_H_TimeCrystal	The Draconic Time Crystal can\nbriefly reverse the flow of time.
+MIID_RefineIron	Iron Ingot
+MIID_H_RefineIron	A piece of iron used at the smithy\nand boutique.
+MIID_RefineSteel	Steel Ingot
+MIID_H_RefineSteel	A piece of steel used at the smithy\nand boutique.
+MIID_RefineSilver	Silver Ingot
+MIID_H_RefineSilver	A piece of silver used at the smithy\nand boutique.
+MIID_Mat_Atk	Mt Crystal
+MIID_H_Mat_Atk	Material used to reinforce engage\nweapons. Increases might (Mt).
+MIID_Mat_Hit	Hit Crystal
+MIID_H_Mat_Hit	Material used to reinforce engage\nweapons. Increases hit rate.
+MIID_Mat_Cri	Crit Crystal
+MIID_H_Mat_Cri	Material used to reinforce engage\nweapons. Increases critical (Crit).
+MIID_Mat_Avd	Avo Crystal
+MIID_H_Mat_Avd	Material used to reinforce engage\nweapons. Increases avoid (Avo).
+MIID_Mat_Cavd	Ddg Crystal
+MIID_H_Mat_Cavd	Material used to reinforce engage\nweapons. Increases dodge (Ddg).
+MIID_Mat_Tech	Dex Crystal
+MIID_H_Mat_Tech	Material used to reinforce engage\nweapons. Increases dexterity (Dex).
+MIID_Mat_Spd	Spd Crystal
+MIID_H_Mat_Spd	Material used to reinforce engage\nweapons. Increases speed (Spd).
+MIID_Mat_Def	Def Crystal
+MIID_H_Mat_Def	Material used to reinforce engage\nweapons. Increases defense (Def).
+MIID_Mat_Res	Res Crystal
+MIID_H_Mat_Res	Material used to reinforce engage\nweapons. Increases resistance (Res).
+MIID_Mat_Slayer_Fly	Flier Bane
+MIID_H_Mat_Slayer_Fly	Material used to augment engage\nweapons. Adds Effective: Flying.
+MIID_Mat_Slayer_Horse	Rider Bane
+MIID_H_Mat_Slayer_Horse	Material used to augment engage\nweapons. Adds Effective: Cavalry.
+MIID_Mat_Slayer_Armor	Armor Bane
+MIID_H_Mat_Slayer_Armor	Material used to augment engage\nweapons. Adds Effective: Armored.
+MIID_Mat_Slayer_Dragon	Dragon Bane
+MIID_H_Mat_Slayer_Dragon	Material used to augment engage\nweapons. Adds Effective: Dragon.
+MIID_Mat_Slayer_Morph	Corrupted Bane
+MIID_H_Mat_Slayer_Morph	Material used to augment engage\nweapons. Adds Effective: Corrupted.
+MIID_VandrBento	Vander's Meal
+MIID_H_VandrBento	Leftovers tidily packed by Vander.\nEat to recover 20 HP.
+MIID_ClanBento	Clanne's Meal
+MIID_H_ClanBento	Leftovers eagerly packed by Clanne.\nEat to recover 20 HP.
+MIID_FramBento	Framme's Meal
+MIID_H_FramBento	Leftovers enthusiastically packed by\nFramme. Eat to recover 20 HP.
+MIID_AlfredBento	Alfred's Meal
+MIID_H_AlfredBento	Leftovers fiercely packed by Alfred.\nEat to recover 20 HP.
+MIID_BoucheronBento	Boucheron's Meal
+MIID_H_BoucheronBento	Leftovers idly packed by Boucheron.\nEat to recover 20 HP.
+MIID_EtieBento	Etie's Meal
+MIID_H_EtieBento	Leftovers tightly packed by Etie.\nEat to recover 20 HP.
+MIID_CelineBento	Céline's Meal
+MIID_H_CelineBento	Leftovers elegantly packed by\nCéline. Eat to recover 20 HP.
+MIID_LouisBento	Louis's Meal
+MIID_H_LouisBento	Leftovers helpfully packed by Louis.\nEat to recover 20 HP.
+MIID_ChloeBento	Chloé's Meal
+MIID_H_ChloeBento	Leftovers motheringly packed by\nChloé. Eat to recover 20 HP.
+MIID_DiamandBento	Diamant's Meal
+MIID_H_DiamandBento	Leftovers flawlessly packed by\nDiamant. Eat to recover 20 HP.
+MIID_UmberBento	Amber's Meal
+MIID_H_UmberBento	Leftovers clumsily packed by Amber.\nEat to recover 20 HP.
+MIID_JadeBento	Jade's Meal
+MIID_H_JadeBento	Leftovers cleanly packed by Jade.\nEat to recover 20 HP.
+MIID_StalukeBento	Alcryst's Meal
+MIID_H_StalukeBento	Leftovers skillfully packed by\nAlcryst. Eat to recover 20 HP.
+MIID_LapisBento	Lapis's Meal
+MIID_H_LapisBento	Leftovers modestly packed by Lapis.\nEat to recover 20 HP.
+MIID_CitrinicaBento	Citrinne's Meal
+MIID_H_CitrinicaBento	Leftovers lavishly packed by\nCitrinne. Eat to recover 20 HP.
+MIID_IvyBento	Ivy's Meal
+MIID_H_IvyBento	Leftovers thoughtfully packed by Ivy.\nEat to recover 20 HP.
+MIID_ZelkovaBento	Zelkov's Meal
+MIID_H_ZelkovaBento	Leftovers *artfully* packed by\nZelkov. Eat to recover 20 HP.
+MIID_KagetsuBento	Kagetsu's Meal
+MIID_H_KagetsuBento	Leftovers earnestly packed by\nKagetsu. Eat to recover 20 HP.
+MIID_HortensiaBento	Hortensia's Meal
+MIID_H_HortensiaBento	Leftovers haphazardly packed by\nHortensia. Eat to recover 20 HP.
+MIID_RosadoBento	Rosado's Meal
+MIID_H_RosadoBento	Leftovers cutely packed by Rosado.\nEat to recover 20 HP.
+MIID_GoldmaryBento	Goldmary's Meal
+MIID_H_GoldmaryBento	Leftovers immaculately packed by\nGoldmary. Eat to recover 20 HP.
+MIID_MisutiraBento	Timerra's Meal
+MIID_H_MisutiraBento	Leftovers discordantly packed by\nTimerra. Eat to recover 20 HP.
+MIID_MerinBento	Merrin's Meal
+MIID_H_MerinBento	Leftovers coolly packed by Merrin.\nEat to recover 20 HP.
+MIID_PanetoneBento	Panette's Meal
+MIID_H_PanetoneBento	Leftovers oddly packed by Panette.\nEat to recover 20 HP.
+MIID_FogatoBento	Fogado's Meal
+MIID_H_FogatoBento	Leftovers nonchalantly packed by\nFogado. Eat to recover 20 HP.
+MIID_PandoroBento	Pandreo's Meal
+MIID_H_PandoroBento	Leftovers affably packed by\nPandreo. Eat to recover 20 HP.
+MIID_BonetBento	Bunet's Meal
+MIID_H_BonetBento	Leftovers expertly packed by Bunet.\nEat to recover 20 HP.
+MIID_AnnaBento	Anna's Meal
+MIID_H_AnnaBento	Leftovers economically packed by\nAnna. Eat to recover 20 HP.
+MIID_JeanBento	Jean's Meal
+MIID_H_JeanBento	Leftovers thoroughly packed by\nJean. Eat to recover 20 HP.
+MIID_YunakaBento	Yunaka's Meal
+MIID_H_YunakaBento	Leftovers carefully packed by\nYunaka. Eat to recover 20 HP.
+MIID_SeadasBento	Seadall's Meal
+MIID_H_SeadasBento	Leftovers prophetically packed by\nSeadall. Eat to recover 20 HP.
+MIID_LindenBento	Lindon's Meal
+MIID_H_LindenBento	Leftovers creatively packed by\nLindon. Eat to recover 20 HP.
+MIID_SaphirBento	Saphir's Meal
+MIID_H_SaphirBento	Leftovers neatly packed by Saphir.\nEat to recover 20 HP.
+MIID_VeyreBento	Veyle's Meal
+MIID_H_VeyreBento	Leftovers lovingly packed by Veyle.\nEat to recover 20 HP.
+MIID_MauveBento	Mauvier's Meal
+MIID_H_MauveBento	Leftovers meticulously packed by\nMauvier. Eat to recover 20 HP.
+MIID_DROPITEM_MONEY	\x0E\x01\x07\x00G
+MIID_H_MONEY	The currency of Elyos.
+MIID_Beef	Beef
+MIID_H_Beef	Robust red meat from a cow. Brodia\nexports a deluxe brand that comes\nwith a hefty price tag.
+MIID_Pork	Pork
+MIID_H_Pork	Meat from a pig. This common meat\nis popular due to its availability and\nlow cost.
+MIID_Chicken	Chicken
+MIID_H_Chicken	This meat is said to be an efficient\nsource of nutrients for building\nmuscle.
+MIID_Mutton	Mutton
+MIID_H_Mutton	Sheep meat with a distinctive aroma.\nPeople either love it or hate it.
+MIID_Onion	Onion
+MIID_H_Onion	A vegetable found in the Somniel\ngarden. It doesn't do well in heat,\nbut it thrives in cold weather.
+MIID_Cabbage	Cabbage
+MIID_H_Cabbage	A vegetable found in the Somniel\ngarden. It tastes slightly sweet when\neaten raw.
+MIID_Herb	Herb
+MIID_H_Herb	An aromatic culinary addition that\nimproves taste or adds an attractive\ngarnish.
+MIID_Tomato	Tomato
+MIID_H_Tomato	A popular vegetable most commonly\ngrown in Firene, where they grow\nmany appealing varieties.
+MIID_Potato	Potato
+MIID_H_Potato	Grown in Firene, Solm, and Brodia.\nThis vegetable eased the postwar\nfamine a thousand years ago.
+MIID_RareVagetable	Rare Vegetable
+MIID_H_RareVagetable	A strange vegetable said to bring\ngood fortune. It grows in very few\nplaces, and it cannot be cultivated.
+MIID_Wheat	Wheat Flour
+MIID_H_Wheat	A common kitchen staple found in\nall manner of foods.
+MIID_Apple	Apple
+MIID_H_Apple	A fruit found in the Somniel orchard.\nPopular since ancient times, it also\nappears in various fairy tales.
+MIID_Orange	Orange
+MIID_H_Orange	The most common fruit in Firene. It\nis a Firenese specialty and does not\ngrow anywhere else.
+MIID_Peach	Peach
+MIID_H_Peach	A soft and delicious fruit grown\nexclusively in the Somniel orchard.\nIt used to be gifted to visiting royals.
+MIID_Grape	Grapes
+MIID_H_Grape	A fruit found in the Somniel orchard.\nIt grows in bunches, so it is often\nshared in groups.
+MIID_Berry	Berries
+MIID_H_Berry	A small fruit that grows in many\nregions. It is a familiar snack for the\npeople of Firene and Brodia.
+MIID_RareFruit	Rare Fruit
+MIID_H_RareFruit	A fruit found in very few regions.\nSometimes called "ghost fruit" as the\ntree dies after a single season.
+MIID_Nuts	Nuts
+MIID_H_Nuts	A label used for all common tree\nnuts. Some are dried and some are\nvery small.
+MIID_Herring	Herring
+MIID_H_Herring	Samian herring that has been\nprepared for cooking.
+MIID_Carp	Carp
+MIID_H_Carp	Caria carp that has been prepared\nfor cooking.
+MIID_Salmon	Salmon
+MIID_H_Salmon	Tipa salmon that has been prepared\nfor cooking.
+MIID_Cod	Cod
+MIID_H_Cod	Valcamonic cod that has been\nprepared for cooking.
+MIID_Eel	Eel
+MIID_H_Eel	Myceen eel that has been prepared\nfor cooking.
+MIID_Sardine	Sardines
+MIID_H_Sardine	Big-eyed sardines that have been\nprepared for cooking.
+MIID_MincedFish	Minced Fish
+MIID_H_MincedFish	Fish chopped into small pieces.
+MIID_DriedFish	Dried Fish
+MIID_H_DriedFish	A whole dried fish that has been\nprepared for cooking.
+MIID_SlicedRawFish	Sashimi
+MIID_H_SlicedRawFish	Fresh fish sliced into elegant pieces.
+MIID_RareFish	Rare Fish
+MIID_H_RareFish	Unusual fish found in the Somniel\npond and prepared for cooking. It is\nrich in healthy nutrients.
+MIID_Milk	Milk
+MIID_H_Milk	Dairy from animals such as cows,\ngoats, and sheep.
+MIID_Egg	Eggs
+MIID_H_Egg	A popular ingredient produced by\na bird.
+MIID_Rice	Rice
+MIID_H_Rice	A common refined grain.
+MIID_Bean	Beans
+MIID_H_Bean	Plant seeds used in cooking. They\ncome in a variety of shapes and \nsizes.
+MIID_Spice	Spices
+MIID_H_Spice	Seasoning extracted from plants. \nCommonly used in cooking to adjust\naroma, flavor, and color.
+MIID_RareFoodstuffs	Topping
+MIID_TeaLeaf	Tea Leaves
+MIID_H_TeaLeaf	An artisan fills each tea bag by hand\nwith freshly plucked leaves. Favored\nby fans of tea parties and cooking.
+MIID_DriedMeat	Dried Meat
+MIID_H_DriedMeat	A well-aged dried meat popular as a\nportable snack. Favored by fans of\nmeat and folk food.
+MIID_Yogurt	Yogurt
+MIID_H_Yogurt	Made with the milk of select alpacas,\none bite will transport you to green \npastures. Favored by fans of dairy.
+MIID_GrilledPotato	Roasted Yam
+MIID_H_GrilledPotato	Roasted in the open fire and made\nwithout seasoning to bring out its\nflavor. Favored by fans of yams.
+MIID_WeightStone	Training Weight
+MIID_H_WeightStone	A stone weight that can be held by\nhand or tied to the leg. Favored by\nfans of training and exercise.
+MIID_MuscleBuilder	Muscle Balm
+MIID_H_MuscleBuilder	Apply to muscles after working out\nto avoid soreness. Favored by fans\nof training and exercise.
+MIID_Actinidia	Animal Treats
+MIID_H_Actinidia	A tightly sealed bottle of pungent\ntreats that will draw all kinds of\ncreatures. Favored by animal fans.
+MIID_Chisel	Sharp Chisel
+MIID_H_Chisel	A tool used to carve intricate designs\non wood. Favored by fans of crafting\nand weapons.
+MIID_FairyTaleBook	Fairy-Tale Book
+MIID_H_FairyTaleBook	A picture book containing many\nshort and wondrous tales. Favored\nby fans of reading and fairy tales.
+MIID_PoetryCollection	Poetry Book
+MIID_H_PoetryCollection	A diverse book of poetry including\nsubmissions from the public. Favored\nby fans of reading and daydreaming.
+MIID_PhilosophyBook	Philosophy Book
+MIID_H_PhilosophyBook	A complex introductory text for\nstudents of reason and meaning.\nFavored by fans of studying.
+MIID_Bible	Dragon Scripture
+MIID_H_Bible	Scripture written by Divine Dragon\nworshippers passed down through\nthe ages. Favored by pious believers.
+MIID_HistoryBook	Elyos History
+MIID_H_HistoryBook	A thick book detailing the history of\nElyos and its regions. Favored by\nfans of reading and studying.
+MIID_Perfume	Strong Perfume
+MIID_H_Perfume	A small bottle of perfume made from\nthe essence of fruit and flowers.\nFavored by fans of fashion.
+MIID_InsectCatchingNet	Butterfly Net
+MIID_H_InsectCatchingNet	A light and long-handled net made\nespecially for catching bugs. Favored\nby fans of animals and bugs.
+MIID_SunHat	Sun Visor
+MIID_H_SunHat	The visor protects the face and neck\nfrom sunburn. Favored by fans of\nexercise and walks as well.
+MIID_Chrysanthemum	Chrysanthemum
+MIID_H_Chrysanthemum	This popular blossom is the national \nflower of Lythos. Favored by Lythian\nfans of flowers.
+MIID_Lentils	Lentil Flower
+MIID_H_Lentils	This popular blossom is the national\nflower of Firene. Favored by Firenese\nfans of flowers.
+MIID_Lily	Lily
+MIID_H_Lily	This popular blossom is the national\nflower of Brodia. Favored by Brodian\nfans of flowers.
+MIID_Komatsuna	Desert Marigold
+MIID_H_Komatsuna	This popular blossom is the national\nflower of Solm. Favored by Solmic\nfans of flowers.
+MIID_Lupinus	Lupine Flower
+MIID_H_Lupinus	This popular blossom is the national\nflower of Elusia. Favored by Elusian\nfans of flowers.
+MIID_WhiteClover	White Clover
+MIID_H_WhiteClover	Used for cooking. With luck, one can\nbe found with four leaves. Favored\nby fans of cooking and herbs.
+MIID_Horn	Horn
+MIID_H_Horn	A hollow animal horn that makes a\nloud noise. Has no holes for playing\nnotes. Favored by fans of music.
+MIID_Wreath	Flower Wreath
+MIID_H_Wreath	A handmade wreath often displayed\non doors or walls. Favored by fans\nof flowers and cute things.
+MIID_Apron	Cute Apron
+MIID_H_Apron	A charming pink apron embellished\nwith embroidery and frills. Favored\nby fans of cooking and cute things.
+MIID_FishingBait	Fishing Bait
+MIID_H_FishingBait	Bait to lure fish made with the most\nappetizing worms. Favored by fans\nof fishing.
+MIID_MultiFunctionKnife	Utility Knife
+MIID_H_MultiFunctionKnife	A handy tool that includes a knife,\nscissors, etc. Favored by fans of\ncrafting, weapons, and cool things.
+MIID_WoodCarvingBear	Bear Carving
+MIID_H_WoodCarvingBear	The realistic details make this\nwooden ornament shine. Favored by\nfans of animals and cute things.
+MIID_SewingKit	Sewing Kit
+MIID_H_SewingKit	This compact, well-organized sewing\nkit is handy in a pinch. Favored by\nfans of sewing and knitting.
+MIID_SheepYarnBall	Sheep Wool
+MIID_H_SheepYarnBall	A soft ball of yarn spun from the \nfresh wool of young sheep. Favored\nby fans of sewing and knitting.
+MIID_Handkerchief	Quality Kerchief
+MIID_H_Handkerchief	A fancy handkerchief made from\nshiny, hand-woven cloth. Favored by\nfans of luxury, cleaning, and fashion.
+MIID_QuillPen	Fine Quill Pen
+MIID_H_QuillPen	A one-of-a-kind quill pen made from\na rare bird's feather. Favored by fans\nof luxury, studying, and writing.
+MIID_DecorativeDagger	Fancy Dagger
+MIID_H_DecorativeDagger	A decorative dagger with a finely \nwrought haft and sheath. Favored\nby fans of weapons.
+MIID_KazunoEarrings	Antler Earrings
+MIID_H_KazunoEarrings	These eco-friendly earrings made\nfrom antlers shed by deer are popular\nin Solm. Favored by fans of fashion.
+MIID_PlayingCards	Playing Cards
+MIID_H_PlayingCards	Picture cards used for various group \ngames. Favored by children and fans\nof parties and games.
+MIID_SpicySeasoning	Spicy Seasonings
+MIID_H_SpicySeasoning	Very spicy powdered red seeds that\ncan add a kick to any dish. Favored\nby fans of spicy food and folk food.
+MIID_LandscapePostcard	Landscape Art
+MIID_H_LandscapePostcard	A postcard depicting a beautiful\nlandscape. There's space to write a\nnote. Favored by fans of nature.
+MIID_Candle	Lovely Candle
+MIID_H_Candle	An exclusive candle etched by hand\nwith an elaborate design. Favored by\nfans of fashion, luxury, and parties.
+MIID_CreaturePictureBook	Field Guide
+MIID_H_CreaturePictureBook	A thick encyclopedia detailing all\nkinds of creatures. Favored by fans\nof animals and bugs.
+MIID_SuspiciousPaper	Spooky Scroll
+MIID_H_SuspiciousPaper	A rolled-up parchment inscribed with\nweird symbols to ward off spirits.\nFavored by fans of scary stories.
+MIID_BigDish	Large Plate
+MIID_H_BigDish	A large and practical plate that holds\nfood for multiple people. Favored by\nfans of cooking and parties.
+MIID_Bandage	Bandages
+MIID_H_Bandage	Mainly used for tending wounds or\nbracing joints and muscles to prevent\ninjury. Favored by fans of training.
+MIID_BeautifulStones	Pretty Pebble
+MIID_H_BeautifulStones	A round, smooth, and pretty rock\nfound lying on the ground.
+MIID_SoraJewelry	Spirit Gem
+MIID_H_SoraJewelry	A gem that shines with many colors.\nFound only in the Somniel, especially\nnear \x0E\x06\x05\x00. Favored by all.
+MIID_HorseManure	Horse Manure
+MIID_H_HorseManure	Ordinary horse manure. That's it.\nYou could technically give it to\nsomeone, but why would you?
+MIID_FishingRod_Smoll	Modest Rod
+MIID_H_FishingRod_Smoll	A simple rod suited for catching\nsmall fish. Its lack of flexibility lets\nyou catch fish with less force.
+MIID_FishingRod_Normal	Sturdy Rod
+MIID_H_FishingRod_Normal	An advanced rod suited for catching\nmid-sized fish. The rod bends when\nheavy fish bite so it will not break.
+MIID_FishingRod_AllPurpose	Supreme Rod
+MIID_H_FishingRod_AllPurpose	A powerful rod that can handle any\nlarge fish. Small fish won't even bite.\nBuilt exclusively for master anglers.
+MIID_Marth_Rapier	Rapier
+MIID_H_Marth_Rapier	Sword wielded by Emblem Marth.\nEffective: Cavalry, Armored.
+MIID_Marth_Mericle	Mercurius
+MIID_H_Marth_Mericle	Sword wielded by Emblem Marth.\nDoubles user's earned experience.
+MIID_Marth_Falchion	Falchion
+MIID_H_Marth_Falchion_M000	An exalted legendary weapon.\nEffective: Dragon.
+MIID_H_Marth_Falchion	Sacred sword wielded by Emblem\nMarth. Effective: Dragon.
+MIID_Siglud_RiderKiller	Ridersbane
+MIID_H_Siglud_RiderKiller	Lance wielded by Emblem Sigurd.\nEffective: Cavalry.
+MIID_Siglud_BraveLance	Brave Lance
+MIID_H_Siglud_BraveLance	Lance wielded by Emblem Sigurd.\nIf user initiates combat, attacks\ntwice.
+MIID_Siglud_Tyrfing	Tyrfing
+MIID_H_Siglud_Tyrfing	Sword wielded by Emblem Sigurd.\nGrants Res+5.
+MIID_H_Siglud_Tyrfing_Normal	Sword wielded by Emblem Sigurd.
+MIID_Celica_Angel	Seraphim
+MIID_H_Celica_Angel	Holy tome wielded by Emblem\nCelica. Effective: Corrupted.
+MIID_Celica_Recovery	Recover
+MIID_H_Celica_Recovery	Staff wielded by Emblem Celica.\nRecovers a great deal of HP.
+MIID_Celica_Ragnarok	Ragnarok
+MIID_H_Celica_Ragnarok	Mighty fire tome wielded by Emblem\nCelica.
+MIID_Micaiah_Shine	Shine
+MIID_H_Micaiah_Shine	Light tome wielded by Emblem\nMicaiah. Illuminates a 5-space radius\n(shrinks one space per turn).
+MIID_Micaiah_Nosferatu	Nosferatu
+MIID_H_Micaiah_Nosferatu	Light tome wielded by Emblem\nMicaiah. User recovers HP equal\nto 50% of damage dealt.
+MIID_Micaiah_Thani	Thani
+MIID_H_Micaiah_Thani	Mighty light tome wielded by\nEmblem Micaiah. Effective: Cavalry,\nArmored.
+MIID_HandHeal	Sacrifice
+MIID_Roy_LanceBuster	Lancereaver
+MIID_H_Roy_LanceBuster	Unusual sword wielded by Emblem\nRoy. Grants advantage vs. lances\nbut disadvantage vs. axes.
+MIID_Roy_DragonKiller	Wyrmslayer
+MIID_H_Roy_DragonKiller	Sword wielded by Emblem Roy.\nEffective: Dragon.
+MIID_Roy_BindingBlade	Binding Blade
+MIID_H_Roy_BindingBlade	Famous sword wielded by Emblem\nRoy. Grants Def/Res+5. Can strike\nclose or at range.
+MIID_Leaf_KillerAxe	Killer Axe
+MIID_H_Leaf_KillerAxe_M008	An Emblem's axe. Easy to inflict a\nfatal wound with.
+MIID_H_Leaf_KillerAxe	Axe wielded by Emblem Leif.\nEasily inflicts fatal wounds.
+MIID_Leaf_MasterLance	Master Lance
+MIID_H_Leaf_MasterLance_M008	An Emblem's lance that can strike\nfrom a distance. If user initiates\ncombat, attacks twice.
+MIID_H_Leaf_MasterLance	Lance wielded by Emblem Leif.\nIf user initiates combat, attacks\ntwice. Can strike close or at range.
+MIID_Leaf_LightBrand	Light Brand
+MIID_H_Leaf_LightBrand	Magical sword wielded by Emblem\nLeif. Grants Lck+10. Can strike\nclose or at range.
+MIID_Leaf_MasterBow	Master Bow
+MIID_Lucina_NobleRapier	Noble Rapier
+MIID_H_Lucina_NobleRapier_M007	An Emblem's sword. Effective:\nCavalry, Armored.
+MIID_H_Lucina_NobleRapier	Sword wielded by Emblem Lucina.\nEffective: Cavalry, Armored.
+MIID_Lucina_Parthia	Parthia
+MIID_H_Lucina_Parthia	Bow wielded by Emblem Lucina.\nDoubles user's earned experience.\nGrants Res+5. Effective: Flying.
+MIID_Lucina_ParallelFalchion	Parallel Falchion
+MIID_H_Lucina_ParallelFalchion	Sacred sword wielded by Emblem\nLucina. Effective: Dragon.
+MIID_Lin_KillerBow	Killer Bow
+MIID_H_Lin_KillerBow_M010	An Emblem's bow. Easy to inflict a\nfatal wound with. Effective: Flying.
+MIID_H_Lin_KillerBow	Bow wielded by Emblem Lyn.\nEasily inflicts fatal wounds.\nEffective: Flying.
+MIID_H_Lin_KillerBow_Normal	Bow wielded by Emblem Lyn.\nEffective: Flying.
+MIID_Lin_ManiKatti	Mani Katti
+MIID_H_Lin_ManiKatti	Divine sword wielded by Emblem\nLyn. Effective: Cavalry, Armored.
+MIID_H_Lin_ManiKatti_1	An Emblem's divine sword.\nEffective: Cavalry, Armored.
+MIID_Lin_Myrgleis	Mulagir
+MIID_H_Lin_Myrgleis	Mighty bow wielded by Emblem Lyn.\nGrants Spd+5. Effective: Flying,\nDragon.
+MIID_Ike_Hammer	Hammer
+MIID_H_Ike_Hammer	Hammer of Emblem Ike. Smashes\nfoes. Cannot follow up, or strike first\nif initiating combat. Eff: Armored.
+MIID_Ike_Urvan	Urvan
+MIID_H_Ike_Urvan	Heirloom axe wielded by Emblem\nIke. Grants Res+3.
+MIID_Ike_Ragnell	Ragnell
+MIID_H_Ike_Ragnell	Sacred sword wielded by Emblem\nIke. Grants Def+5. Can strike\nclose or at range.
+MIID_Byleth_Aymr	Aymr
+MIID_H_Byleth_Aymr	Axe of Emblem Byleth. Smashes\nfoes. Cannot follow up, or strike first\nif initiating combat. Eff: Dragon.
+MIID_Byleth_Blutgang	Blutgang
+MIID_H_Byleth_Blutgang	Magical sword wielded by Emblem\nByleth. Effective: Dragon, Cavalry.
+MIID_Byleth_Luin	Lúin
+MIID_H_Byleth_Luin_M010	An Emblem's lance. Raises damage\nbased on user's Spd.\nEffective: Dragon.
+MIID_H_Byleth_Luin	Lance wielded by Emblem Byleth.\nRaises damage based on user's Spd.\nEffective: Dragon.
+MIID_Byleth_Areadbhar	Areadbhar
+MIID_H_Byleth_Areadbhar	Lance wielded by Emblem Byleth.\nIf user initiates combat, grants\nMt+50%.
+MIID_Byleth_AegisShield	Aegis Shield
+MIID_H_Byleth_AegisShield	Shield wielded by Emblem Byleth.\nGrants Def+6 and Res+3. May halve\ndamage if carried. Trigger %=Dex.
+MIID_Byleth_Failnaught	Failnaught
+MIID_H_Byleth_Failnaught	Bow wielded by Emblem Byleth.\nIf user initiates combat, grants\nAvo+20. Effective: Dragon, Flying.
+MIID_Byleth_Thyrsus	Thyrsus
+MIID_H_Byleth_Thyrsus	Staff wielded by Emblem Byleth.\nGrants magic range +2. May halve\ndamage if carried.
+MIID_Byleth_RafailGem	Rafail Gem
+MIID_H_Byleth_RafailGem	Relic gem of Emblem Byleth. User is\nimmune to Effective and critical hits.\nMay halve damage if carried.
+MIID_Byleth_Vajra	Vajra-Mushti
+MIID_H_Byleth_Vajra	Gauntlets wielded by Emblem Byleth.\nIf user initiates combat, attacks\ntwice. Uses lowest of foe's Def/Res.
+MIID_Byleth_SublimeCreatorSword	Sword of the Creator
+MIID_H_Byleth_SublimeCreatorSword	Sword of Emblem Byleth. Raises\ndamage with user's Mag. Can strike\nclose or at range. Effective: Dragon
+MIID_H_Byleth_SublimeCreatorSword_M014	An Emblem's sword. Raises\ndamage with user's Mag. Can strike\nclose or at range. Effective: Dragon
+MIID_GoddessAgain	Goddess Dance
+MIID_GoddessAgain_Dark	Diabolical Dance
+MIID_Kamui_DualKatana	Dual Katana
+MIID_H_Kamui_DualKatana	Unusual sword wielded by Emblem\nCorrin. Grants advantage vs. lances\nbut disadvantage vs. axes.
+MIID_Kamui_Wakizashi	Wakizashi
+MIID_H_Kamui_Wakizashi	Throwing sword wielded by Emblem\nCorrin. Can only strike at range, not\nclose up.
+MIID_Kamui_Yato	Yato
+MIID_H_Kamui_Yato	Sacred sword wielded by Emblem\nCorrin.
+MIID_Kamui_DragonPiercing	Dragon Fang
+MIID_H_Kamui_DragonPiercing	Skill wielded by Emblem Corrin.
+MIID_Eirik_Rapier	Rapier
+MIID_H_Eirik_Rapier	Sword wielded by Emblem Eirika.\nEffective: Cavalry, Armored.
+MIID_Eirik_WindSword	Wind Sword
+MIID_H_Eirik_WindSword	Magical sword wielded by Emblem\nEirika. Can strike close or at range.\nEffective: Flying.
+MIID_Eirik_Sieglinde	Sieglinde
+MIID_H_Eirik_Sieglinde	Paired sword wielded by Emblem\nEirika. Effective: Corrupted.
+MIID_Eirik_Siegmund	Siegmund
+MIID_H_Eirik_Siegmund	Paired lance wielded by Emblem\nEphraim. Effective: Corrupted.
+MIID_Lueur_Oligoludia	Oligoludia
+MIID_H_Lueur_Oligoludia	Sword wielded by Emblem\n\x0E\x06\x03\x00. Effective: Corrupted.
+MIID_Lueur_DragonFist	Dragon's Fist
+MIID_H_Lueur_DragonFist	Magical attack wielded by Emblem\n\x0E\x06\x03\x00. If user initiates\ncombat, attacks twice. (Uses Mag.)
+MIID_Lueur_Lyration	Lyrátion
+MIID_H_Lueur_Lyration	Sword of Emblem \x0E\x06\x03\x00. If\nuser defeats foe in player phase, fills\nadjacent allies' engage meters by 1.
+MIID_Folkvangr	Fólkvangr
+MIID_H_Folkvangr	Sword of Alfonse, prince of Askr.\nGrants Atk+3 for 1 turn if user has\n50% HP or less at start of turn.
+MIID_Fensalir	Fensalir
+MIID_H_Fensalir	Lance of Sharena, princess of Askr.\nInflicts Atk-2 for 1 turn on adjacent\nfoes at the start of player phase.
+MIID_Noatun	Nóatún
+MIID_H_Noatun	Axe of Anna, a commander in Askr.\nGrants Mov+1 for 1 turn when user\nhas 40% HP or less at start of turn.
+MIID_SPBook1	Novice Book
+MIID_H_SPBook1	Book that teaches basic skills.\nGrants 100 SP.
+MIID_SPBook2	Adept Book
+MIID_H_SPBook2	Book that teaches advanced skills.\nGrants 500 SP.
+MIID_SPBook3	Expert Book
+MIID_H_SPBook3	Book that unlocks the true secrets of\nskills. Grants 1,000 SP.

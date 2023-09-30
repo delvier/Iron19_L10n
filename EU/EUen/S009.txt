@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08リュール\nThere's something...unnatural about this place.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08シグルド\nYou feel it as well? I've no explanation for it, yet\nthis place bears a great resemblance to Chalphy.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nChalphy? I've never heard of it. Is it somewhere\nin your world?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08シグルド\nCorrect. It is my homeland.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08シグルド\nI had once thought to lead a quiet life there in\nChalphy, alongside my wife, Deirdre.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nWhat happened?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08シグルド\nDeirdre was kidnapped by followers of a dark\nfaith. Her life was twisted to their desires.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08シグルド\nShe was to aid in the resurrection of a dark god,\nheralding a new age of terror and destruction.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nWhat? That's awful!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08シグルド\nAh, yet there was still light... Still hope for\nour future.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nHow so?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08シグルド\nI believe I shall share that part of the tale with\nyou following the trial.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08シグルド\nTake up your weapon. For I am the trial that\nyou shall face, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08シグルド\nOvercome this trial, and our bond will grow.\nMy power will become yours.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nAnd we have to fight in this place that is like\nyour homeland... There's significance to that.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08シグルド\nCorrect. Now earn it. Show me that your skills\nare sufficient to surpass my own!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nI'll take you down, Sigurd. I'm giving this\neverything I have!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nThe trial is thus─find your way to me, and\nclaim victory!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIf we're going to reach Sigurd, we'll need to\ncross that bridge.\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nAnd if we can capture that fortress, we might\nbe able to operate it.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThe fortress general's dead! The bridge is ours!\nLet's rest a here for a minute, Divine Dragon.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nRelax\n\x0E\x03\x02\x0A\x08シグルド\nOn what do you stake your life? Tell me─how\ndo you imagine the world once your war ends?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nI wish for a peaceful world─for myself, my\nfriends, everyone!\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x0A\x08リュール\nA world that we will build for ourselves, where\nno one will be hurt by the greed of others. \x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nIt requires power to turn a dream into reality.\nShow me you have what it takes.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1A\nヴァンドレ\x0CStatus\n\x0E\x03\x02\x0C\nヴァンドレ\nThis isn't the first time we've locked swords.\nDo you remember training with Queen Lumera?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x1A\x08シグルド\x0ESerious\n\x0E\x03\x02\x0A\x08シグルド\nOf course. How could I ever allow myself to\nforget? Alas, those days are far behind us.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nSo we must move on, you and I, into the future.\nWe shall not allow her wishes to be in vain.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\nヴァンドレ\x0CStrike\n\x0E\x03\x02\x0C\nヴァンドレ\nYou had better be ready, Lord Sigurd! I dedicate\nthis strike...to Queen Lumera!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08シグルド\nWell done. You have passed the trial with a\nstunning display of skill.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nI didn't do it alone. All of us claimed this\nvictory together.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08シグルド\nCorrect. Friends, allies, family... Anyone with\nwhom you forge bonds will give you strength.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08シグルド\nNow, the moment of truth. Do you wish to\navenge the death of your mother, Lumera?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nI...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nWhen I lost her, I was sad...and angry. I thought\nI could never forgive the one who took her life.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nBut you asked me if I'd want revenge...and...\nI don't know anymore.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08シグルド\nI lost many friends, even family, in battle.\nAnd yet I find I bear no grudges.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08シグルド\nI know well the meaning of grief. As well, I know\nthere is no single truth.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08シグルド\nI entrusted this knowledge to my son, Seliph.\nI hoped that it might guide his future.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nYour son? You and Deirdre's, you mean?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08シグルド\nIndeed. Now listen well. You carry a proud\nand noble conviction in your heart.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08シグルド\nKnowing grief, justice, and truth are subjective,\nare you still able to fight with conviction?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nOf course. This war will end, and then I will see\nto it that the world remains at peace.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08シグルド\nA perfect answer, my friend...and the one I was\nhoping to hear.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08シグルド\nSo, until the fighting is done and gone, I shall be\nby your side, watching over you.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

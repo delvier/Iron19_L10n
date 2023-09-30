@@ -1,0 +1,678 @@
+MIID_None	
+MIID_H_None	--------
+MIID_Unknown	???
+MIID_H_Unknown	?????
+MIID_UnknownArg	???\x0E\x01\x00\x00
+MIID_IronSword	철의 검
+MIID_H_IronSword	표준적인 검.
+MIID_SteelSword	강철의 검
+MIID_H_SteelSword	강철로 만든 검.
+MIID_SilverSword	은의 검
+MIID_H_SilverSword	희귀한 금속으로 만든 검.
+MIID_SmallSword	가느다란 검
+MIID_H_SmallSword	가볍고 다루기 편한 검.
+MIID_BraveSword	용사의 검
+MIID_H_BraveSword	달인만이 사용할 수 있는 검.\n직접 공격 시, 2연속 공격.
+MIID_ThunderSword	천둥의 검
+MIID_H_ThunderSword	마법의 천둥을 통해 떨어진 적도 공격 가능.
+MIID_Liberation	리베라시옹
+MIID_H_Liberation_M000	신룡 전용 검.
+MIID_H_Liberation	신룡 전용.\n직접 공격해서 적을 격파하면\n인게이지 카운트+1.
+MIID_KillingEdge	킬 소드
+MIID_H_KillingEdge	치명상을 입히기 쉬운 검.
+MIID_JapaneseSword	태도
+MIID_H_JapaneseSword	날카롭게 벼려진 도검.
+MIID_Armorslayer	아머 킬러
+MIID_H_Armorslayer	중갑인 적을 상대로 특화된 검.\n중갑 특효.
+MIID_GodSword	클라드홀그
+MIID_H_GodSword	전설의 검.
+MIID_IronSwordL	철의 대검
+MIID_H_IronSwordL	커다란 검.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SteelSwordL	강철의 대검
+MIID_H_SteelSwordL	강철로 만든 커다란 검.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SilverSwordL	은의 대검
+MIID_H_SilverSwordL	희귀한 금속으로 만든 커다란 검.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_WilleGlanz	빌레그란츠
+MIID_H_WilleGlanz	신룡 전용.\n떨어진 적도 공격 가능.
+MIID_GodSwordL	게오르기오스
+MIID_H_GodSwordL	전설의 검.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Dragonslayer	드래곤 킬러
+MIID_H_Dragonslayer	용을 공격하는 데 특화된 검.\n용 특효.
+MIID_IronLance	철의 창
+MIID_H_IronLance	표준적인 창.
+MIID_SteelLance	강철의 창
+MIID_H_SteelLance	강철로 만든 창.
+MIID_SilverLance	은의 창
+MIID_H_SilverLance	희귀한 금속으로 만든 창.
+MIID_SmallLance	가느다란 창
+MIID_H_SmallLance	가볍고 다루기 편한 창.
+MIID_BraveLance	용사의 창
+MIID_H_BraveLance	달인만이 사용할 수 있는 창.\n직접 공격 시, 2연속 공격.
+MIID_HandLance	투척창
+MIID_H_HandLance	투척용 창.\n떨어진 적도 공격 가능.
+MIID_RiderKiller	나이트 킬러
+MIID_H_RiderKiller	기마인 적을 상대로 특화된 창.\n기마 특효.
+MIID_KillerLance	킬러 랜스
+MIID_H_KillerLance	치명상을 입히기 쉬운 창.
+MIID_Spear	슬렌드 스피어
+MIID_H_Spear	위력이 높은 투척용 창.\n떨어진 적도 공격 가능.
+MIID_FlameSpear	불꽃의 창
+MIID_H_FlameSpear	마법의 불꽃을 통해 떨어진 적도 공격 가능.
+MIID_GodLance	브류나크
+MIID_H_GodLance	전설의 창.\n떨어진 적도 공격 가능.
+MIID_IronLanceL	철의 큰 창
+MIID_H_IronLanceL	커다란 창.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SteelLanceL	강철의 큰 창
+MIID_H_SteelLanceL	강철로 만든 커다란 창.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SilverLanceL	은의 큰 창
+MIID_H_SilverLanceL	희귀한 금속으로 만든 커다란 창.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_GodLanceL	베너머스
+MIID_H_GodLanceL	전설의 창.\n상대에게 독을 부여/추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_IronAxe	철의 도끼
+MIID_H_IronAxe	표준적인 도끼.
+MIID_SteelAxe	강철의 도끼
+MIID_H_SteelAxe	강철로 만든 도끼.
+MIID_SilverAxe	은의 도끼
+MIID_H_SilverAxe	희귀한 금속으로 만든 도끼.
+MIID_SmallAxe	쇼트 액스
+MIID_H_SmallAxe	가볍고 다루기 편한 도끼.
+MIID_BraveAxe	용사의 도끼
+MIID_H_BraveAxe	달인만이 사용할 수 있는 도끼.\n직접 공격 시, 2연속 공격.
+MIID_HandAxe	투척도끼
+MIID_H_HandAxe	투척용 도끼.\n떨어진 적도 공격 가능.
+MIID_Tomahawk	토마호크
+MIID_H_Tomahawk	위력이 높은 투척용 도끼.\n떨어진 적도 공격 가능.
+MIID_Hammer	해머
+MIID_H_Hammer	중갑인 적을 상대로 특화된 전투 망치.\n중갑 특효.
+MIID_KillerAxe	킬러 액스
+MIID_H_KillerAxe	치명상을 입히기 쉬운 도끼.
+MIID_PoleAxe	폴액스
+MIID_H_PoleAxe	기마인 적 상대로 특화된 자루가 긴 도끼.\n기마 특효.
+MIID_GodAxe	프라가라흐
+MIID_H_GodAxe	전설의 도끼.
+MIID_IronAxeL	철의 큰 도끼
+MIID_H_IronAxeL	커다란 도끼.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SteelAxeL	강철의 큰 도끼
+MIID_H_SteelAxeL	강철로 만든 커다란 도끼.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_SilverAxeL	은의 큰 도끼
+MIID_H_SilverAxeL	희귀한 금속으로 만든 커다란 도끼.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_WindAxeL	바람의 큰 도끼
+MIID_H_WindAxeL	날에 마력을 두른 마법의 도끼.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_GodAxeL	우콘바사라
+MIID_H_GodAxeL	전설의 도끼.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_ShortBow	쇼트 보우
+MIID_H_ShortBow	사정거리가 짧지만 다루기 편한 활.\n비행 특효.
+MIID_IronBow	철의 활
+MIID_H_IronBow	표준적인 활.\n비행 특효.
+MIID_SteelBow	강철의 활
+MIID_H_SteelBow	강철로 만든 활.\n비행 특효.
+MIID_SilverBow	은의 활
+MIID_H_SilverBow	희귀한 금속으로 만든 활.\n비행 특효.
+MIID_BraveBow	용사의 활
+MIID_H_BraveBow	달인만이 사용할 수 있는 활.\n직접 공격 시, 2연속 공격.\n비행 특효.
+MIID_LongBow	장궁
+MIID_H_LongBow	사정거리가 긴 활.\n비행 특효.
+MIID_KillerBow	킬러 보우
+MIID_H_KillerBow	치명상을 입히기 쉬운 활.\n비행 특효.
+MIID_LightBow	빛의 활
+MIID_H_LightBow	마법의 활.\n마력이 깃든 화살을 쏜다/비행 특효.
+MIID_GodBow	렌다윌
+MIID_H_GodBow	전설의 활.\n비행 특효.
+MIID_SmallKnife	쇼트 나이프
+MIID_H_SmallKnife	다루기 편한 단검.\n상대에게 독을 부여.
+MIID_IronKnife	철의 나이프
+MIID_H_IronKnife	표준적인 단검.\n상대에게 독을 부여.
+MIID_SteelKnife	강철의 나이프
+MIID_H_SteelKnife	강철로 만든 단검.\n상대에게 독을 부여.
+MIID_SilverKnife	은의 나이프
+MIID_H_SilverKnife	희귀한 금속으로 만든 단검.\n상대에게 독을 부여.
+MIID_Kard	카드
+MIID_H_Kard	근접 전투용 단검.\n상대에게 독을 부여.
+MIID_Stiletto	스틸레토
+MIID_H_Stiletto	근접 전투용 단검.\n상대에게 독을 부여.
+MIID_Peshkad	페스카즈
+MIID_H_Peshkad	근접 전투용 단검.\n상대에게 독을 부여.
+MIID_Misericorde	미세리코르데
+MIID_H_Misericorde	베일 전용 마법의 단검.\n날에 마력을 두르고 있다.\n상대에게 독을 부여.
+MIID_Cinquedea	싱크에디아
+MIID_H_Cinquedea	전설의 단검.\n상대에게 독을 부여.
+MIID_Carnwenhan	카른웨난
+MIID_H_Carnwenhan	근접 전투용 전설의 단검.\n상대에게 독 부여/추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Surge	서지
+MIID_H_Surge	사정거리가 짧은 공격 마법.
+MIID_Fire	파이어
+MIID_H_Fire	화염 마법.
+MIID_Thunder	선더
+MIID_H_Thunder	번개 마법.\n추격 불가.
+MIID_Wind	윈드
+MIID_H_Wind	바람 마법.\n비행 특효.
+MIID_LSurge	엘 서지
+MIID_H_LSurge	고위 근접 마법.
+MIID_LFire	엘 파이어
+MIID_H_LFire	고위 화염 마법.
+MIID_LThunder	엘 선더
+MIID_H_LThunder	고위 번개 마법.\n추격 불가.
+MIID_LWind	엘 윈드
+MIID_H_LWind	고위 바람 마법.\n비행 특효.
+MIID_Bolganone	볼케논
+MIID_H_Bolganone	강력한 화염 공격 마법.
+MIID_Thoron	트론
+MIID_H_Thoron	강력한 번개 공격 마법.\n추격 불가.
+MIID_SThoron	트론
+MIID_H_SThoron	강력한 번개 공격 마법.\n추격 불가.
+MIID_Excalibur	엑스칼리버
+MIID_H_Excalibur	강력한 바람 공격 마법.\n비행 특효.
+MIID_H_Excalibur_Gris	강력한 바람 공격 마법.\n비행 특효.
+MIID_Nova	노바
+MIID_H_Nova	강력한 공격 마법.\n직접 공격 시, 2연속 공격.
+MIID_Meteo	메티오
+MIID_H_Meteo	사정거리가 긴 공격 마법.\n접근전 불가.
+MIID_Obscurite	옵스큐리테
+MIID_H_Obscurite	사룡 전용.\n강력한 암흑 공격 마법.
+MIID_H_Obscurite_M000	사룡 전용.\n강력한 암흑 공격 마법.
+MIID_Heal	라이브
+MIID_H_Heal	상처를 치료하는 마법의 지팡이.\n아군의 HP를 회복시킨다.
+MIID_HiHeal	리라이브
+MIID_H_HiHeal	상처를 치료하는 마법의 지팡이.\n아군의 HP를 많이 회복시킨다.
+MIID_Recover	리커버
+MIID_H_Recover	상처를 치료하는 마법의 지팡이.\n아군의 HP를 아주 많이 회복시킨다.
+MIID_FarHeal	리브로
+MIID_H_FarHeal	상처를 치료하는 마법의 지팡이.\n떨어진 아군의 HP도 회복 가능.
+MIID_WholeHeal	리저브
+MIID_H_WholeHeal	상처를 치료하는 마법의 지팡이.\n주위 5칸 범위 아군 모두의\nHP를 회복시킨다.
+MIID_Rest	레스트
+MIID_H_Rest	아군의 상태 이상을 회복시키는 지팡이.
+MIID_Warp	워프
+MIID_H_Warp	전송 마법용 지팡이.\n아군을 1~5칸의 거리로 전이시킨다.
+MIID_ReWarp	리워프
+MIID_H_ReWarp	전송 마법용 지팡이.\n자신을 1~5칸의 거리로 전이시킨다.
+MIID_Rescue	레스큐
+MIID_H_Rescue	전송 마법용 지팡이.\n멀리 있는 아군을 자신 근처로 전이시킨다.
+MIID_Draw	드로우
+MIID_H_Draw	전송 마법용 지팡이.\n멀리 있는 적을 자신 근처로 전이시킨다.
+MIID_TorchRod	토치
+MIID_H_TorchRod	마법으로 어둠을 밝히는 지팡이.\n주위 7칸을 밝힌다.\n(턴 경과에 따라 범위 축소)
+MIID_Freeze	프리즈
+MIID_H_Freeze	적의 움직임을 막는 지팡이.\n1턴 동안 적이 이동할 수 없다.
+MIID_Silence	사일런스
+MIID_H_Silence	마법을 봉인하는 지팡이.\n1턴 동안 적이 지팡이나 마법을\n사용할 수 없다.
+MIID_Block	아이스 록
+MIID_H_Block	얼음 기둥을 생성하는 지팡이.\n얼음 기둥이 생성된 칸에는\n1턴 동안 진입할 수 없다.
+MIID_Nodus	노두스
+MIID_H_Nodus	신비한 힘을 지닌 마법 지팡이.\n모든 아군의 인게이지 카운트를\n최대로 만든다.
+MIID_Collapse	컬랩스
+MIID_H_Collapse	신비한 힘을 지닌 마법 지팡이.\n적을 브레이크시킨다.
+MIID_BeginnerFist	입문 체술
+MIID_H_BeginnerFist	초보적인 격투 지침서.\n연속 공격은 할 수 없으나\n쉽게 따라 할 수 있다.
+MIID_BasicFist	기본 체술
+MIID_H_BasicFist	기본적인 격투 지침서.\n직접 공격 시, 2연속 공격.
+MIID_MiddleFist	상급 체술
+MIID_H_MiddleFist	단련된 사람들의 격투 지침서.\n직접 공격 시, 2연속 공격.
+MIID_HighFist	달인 체술
+MIID_H_HighFist	백전 연마의 격투 지침서.\n직접 공격 시, 2연속 공격.
+MIID_GuardFist	호신 체술
+MIID_H_GuardFist	방어에 중점을 둔 격투 지침서.\n수비+5.
+MIID_FlashFist	섬진 체술
+MIID_H_FlashFist	공격에 특화된 격투 지침서.\n직접 공격 시, 2연속 공격.\n속도+5/자신이 받는 대미지+5.
+MIID_GodFist	패신 체술
+MIID_H_GodFist	전설의 격투 지침서.\n직접 공격 시, 2연속 공격.
+MIID_FireBreath	불의 브레스
+MIID_H_FireBreath	작열하는 숨결 공격.\n방어력 무시.
+MIID_FlameBall	염괴
+MIID_H_FlameBall	원거리의 적에게 화염 공격.\n방어력 무시.
+MIID_SombrePhysicalAttack	사룡의 강격
+MIID_H_SombrePhysicalAttack	거구에서 뿜어져 나오는 사정거리가 긴 공격.
+MIID_SombreMagicAttack	사룡의 파동
+MIID_H_SombreMagicAttack	강력하고 사정거리가 긴 암흑 공격 마법.
+MIID_SombreSpinAttack	사룡 회전 난무
+MIID_H_SombreSpinAttack	몸을 회전시켜, 주위를 공격하는 범위 공격.\n3칸 이내에 있는 모든 적을 공격한다.
+MIID_SombreBeam	사룡 포효포
+MIID_H_SombreBeam	강력하고 사정거리가 긴 암흑 빔(마법) 공격.\n사용한 뒤에 일부 지역에 독기를 발생시킨다.
+MIID_SombreEngageBreak	인게이지 브레이크
+MIID_H_SombreEngageBreak	인게이지 상태를 해제시킨다.\n전체 공격.
+MIID_FireCannon	화염 포대
+MIID_H_FireCannon	포격으로 착탄 지점 주위 2칸 범위에 있는\n유닛을 공격, 지형을 ｢화염｣ 상태로 만든다.
+MIID_Vulnerary	상처약
+MIID_H_Vulnerary	자신의 HP를 15 회복한다.
+MIID_Medicine	특효약
+MIID_H_Medicine	자신의 HP를 30 회복한다.
+MIID_Antidote	해독제
+MIID_H_Antidote	자신의 HP를 15 회복한다.\n추가로 독 상태도 회복한다.
+MIID_HolyWater	성수
+MIID_H_HolyWater	자신의 마방+7(턴마다 감소).
+MIID_Torch	횃불
+MIID_H_Torch	주위 7칸을 밝힌다.\n(턴 경과에 따라 범위 축소)
+MIID_SeraphRobe	천사의 옷
+MIID_H_SeraphRobe	사용하면 최대 HP+5.
+MIID_EnergyDrop	힘의 물방울
+MIID_H_EnergyDrop	사용하면 힘+2.
+MIID_SpiritDust	정령의 가루
+MIID_H_SpiritDust	사용하면 마력+2.
+MIID_SecretBook	비전의 책
+MIID_H_SecretBook	사용하면 기술+2.
+MIID_Speedwing	질풍의 깃털
+MIID_H_Speedwing	사용하면 속도+2.
+MIID_GoddessIcon	여신상
+MIID_H_GoddessIcon	사용하면 행운+2.
+MIID_Dracoshield	용의 방패
+MIID_H_Dracoshield	사용하면 수비+2.
+MIID_Talisman	부적
+MIID_H_Talisman	사용하면 마방+2.
+MIID_Boots	부츠
+MIID_H_Boots	사용하면 이동+1.
+MIID_HpTonic	HP의 약
+MIID_H_HpTonic	전투 맵 종료 시점까지, 최대 HP+5.
+MIID_StrTonic	힘의 약
+MIID_H_StrTonic	전투 맵 종료 시점까지, 힘+2.
+MIID_MagTonic	마력의 약
+MIID_H_MagTonic	전투 맵 종료 시점까지, 마력+2.
+MIID_MdefTonic	마방의 약
+MIID_H_MdefTonic	전투 맵 종료 시점까지, 마방+2.
+MIID_TecTonic	기술의 약
+MIID_H_TecTonic	전투 맵 종료 시점까지, 기술+2.
+MIID_SpdTonic	속도의 약
+MIID_H_SpdTonic	전투 맵 종료 시점까지, 속도+2.
+MIID_LckTonic	행운의 약
+MIID_H_LckTonic	전투 맵 종료 시점까지, 행운+2.
+MIID_DefTonic	수비의 약
+MIID_H_DefTonic	전투 맵 종료 시점까지, 수비+2.
+MIID_MasterSeal	마스터 프루프
+MIID_H_MasterSeal	상급직으로 클래스 체인지한다.
+MIID_ChangeSeal	체인지 프루프
+MIID_H_ChangeSeal	같은 직위의 병과로 클래스 체인지한다.\n(레벨이 최대라면 현재 병과도 선택 가능)
+MIID_PromiseRing	약속의 반지
+MIID_H_PromiseRing	동료와의 지원을 \x0E\x08\x02\x1A\x18RelianceRing으로 만들 수 있는 반지.\n지원 A인 동료 1명에게만 건네줄 수 있다.
+MIID_H_PromiseRing_1	제단에 안치되어 있던\n무언가 특별한 힘이 느껴지는 반지.
+MIID_TimeCrystal	용의 시간석
+MIID_H_TimeCrystal	시간을 잠깐 되돌릴 수 있는\n신비한 수정.
+MIID_RefineIron	철정석
+MIID_H_RefineIron	연성점·액세서리점에서 사용하는 소재.\n철을 다량으로 함유한 정석.
+MIID_RefineSteel	강정석
+MIID_H_RefineSteel	연성점·액세서리점에서 사용하는 소재.\n상급 철을 다량으로 함유한 정석.
+MIID_RefineSilver	은정석
+MIID_H_RefineSilver	연성점·액세서리점에서 사용하는 소재.\n은을 다량으로 함유한 정석.
+MIID_Mat_Atk	위력의 문정석
+MIID_H_Mat_Atk	인게이지 무기의 강화에 필요한 소재.\n위력을 상승시킬 수 있다.
+MIID_Mat_Hit	명중의 문정석
+MIID_H_Mat_Hit	인게이지 무기의 강화에 필요한 소재.\n명중을 상승시킬 수 있다.
+MIID_Mat_Cri	필살의 문정석
+MIID_H_Mat_Cri	인게이지 무기의 강화에 필요한 소재.\n필살을 상승시킬 수 있다.
+MIID_Mat_Avd	회피의 문정석
+MIID_H_Mat_Avd	인게이지 무기의 강화에 필요한 소재.\n회피를 상승시킬 수 있다.
+MIID_Mat_Cavd	필살 회피의 문정석
+MIID_H_Mat_Cavd	인게이지 무기의 강화에 필요한 소재.\n필살 회피를 상승시킬 수 있다.
+MIID_Mat_Tech	기술의 문정석
+MIID_H_Mat_Tech	인게이지 무기의 강화에 필요한 소재.\n기술을 상승시킬 수 있다.
+MIID_Mat_Spd	속도의 문정석
+MIID_H_Mat_Spd	인게이지 무기의 강화에 필요한 소재.\n속도를 상승시킬 수 있다.
+MIID_Mat_Def	수비의 문정석
+MIID_H_Mat_Def	인게이지 무기의 강화에 필요한 소재.\n수비를 상승시킬 수 있다.
+MIID_Mat_Res	마방의 문정석
+MIID_H_Mat_Res	인게이지 무기의 강화에 필요한 소재.\n마방을 상승시킬 수 있다.
+MIID_Mat_Slayer_Fly	비행 특효의 책
+MIID_H_Mat_Slayer_Fly	인게이지 무기의 강화에 사용하는 소재.\n비행 특효를 부여할 수 있다.
+MIID_Mat_Slayer_Horse	기마 특효의 책
+MIID_H_Mat_Slayer_Horse	인게이지 무기의 강화에 사용하는 소재.\n기마 특효를 부여할 수 있다.
+MIID_Mat_Slayer_Armor	중갑 특효의 책
+MIID_H_Mat_Slayer_Armor	인게이지 무기의 강화에 사용하는 소재.\n중갑 특효를 부여할 수 있다.
+MIID_Mat_Slayer_Dragon	용 특효의 책
+MIID_H_Mat_Slayer_Dragon	인게이지 무기의 강화에 사용하는 소재.\n용 특효를 부여할 수 있다.
+MIID_Mat_Slayer_Morph	이형 특효의 책
+MIID_H_Mat_Slayer_Morph	인게이지 무기의 강화에 사용하는 소재.\n이형 특효를 부여할 수 있다.
+MIID_VandrBento	반드레의 도시락
+MIID_H_VandrBento	반드레가 자신 있게 만든 요리를 정갈하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_ClanBento	클랜의 도시락
+MIID_H_ClanBento	클랜이 잘 만들어진 요리로 기쁜 듯이\n만든 도시락. 먹으면 HP를 20 회복한다.
+MIID_FramBento	프랑의 도시락
+MIID_H_FramBento	프랑이 맛있는 요리를 긴장하면서\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_AlfredBento	알프레드의 도시락
+MIID_H_AlfredBento	알프레드가 자신 있게 만든 요리를 가득\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_BoucheronBento	부셰론의 도시락
+MIID_H_BoucheronBento	부셰론이 맛있는 요리를 꼼꼼하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_EtieBento	에티에의 도시락
+MIID_H_EtieBento	에티에가 자신 있게 만든 요리를 자랑스레\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_CelineBento	셀린의 도시락
+MIID_H_CelineBento	셀린이 맛있는 요리를 예쁘게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_LouisBento	루이의 도시락
+MIID_H_LouisBento	루이가 잘 만들어진 요리로 척척\n만든 도시락. 먹으면 HP를 20 회복한다.
+MIID_ChloeBento	클로에의 도시락
+MIID_H_ChloeBento	클로에가 자신 있게 만든 요리를 먹기 쉽게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_DiamandBento	디아만드의 도시락
+MIID_H_DiamandBento	디아만드가 자신 있게 만든 요리를 그대로\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_UmberBento	앰버의 도시락
+MIID_H_UmberBento	앰버가 맛있는 요리로 태평하게\n만든 도시락. 먹으면 HP를 20 회복한다.
+MIID_JadeBento	제이데의 도시락
+MIID_H_JadeBento	제이데가 잘 만들어진 요리를 신중하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_StalukeBento	스타루크의 도시락
+MIID_H_StalukeBento	스타루크가 맛있는 요리를 쭈뼛쭈뼛\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_LapisBento	라피스의 도시락
+MIID_H_LapisBento	라피스가 잘 만들어진 요리를 몽땅\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_CitrinicaBento	시트리니카의 도시락
+MIID_H_CitrinicaBento	시트리니카가 자신 있게 만든 요리를 담은\n화려한 도시락. 먹으면 HP를 20 회복한다.
+MIID_IvyBento	아이비의 도시락
+MIID_H_IvyBento	아이비가 맛있는 요리를 고민하면서\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_ZelkovaBento	젤코바의 도시락
+MIID_H_ZelkovaBento	젤코바가 자신 있게 만든 요리를 세심하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_KagetsuBento	카게츠의 도시락
+MIID_H_KagetsuBento	카게츠가 자신 있는 요리와 그리움을\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_HortensiaBento	오르텐시아의 도시락
+MIID_H_HortensiaBento	오르텐시아가 맛있는 요리를 귀엽게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_RosadoBento	로사도의 도시락
+MIID_H_RosadoBento	로사도가 자신 있게 만든 요리를 담아서\n장식한 도시락. 먹으면 HP를 20 회복한다.
+MIID_GoldmaryBento	골드마리의 도시락
+MIID_H_GoldmaryBento	골드마리가 맛있는 요리를 능숙하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_MisutiraBento	미스티라의 도시락
+MIID_H_MisutiraBento	미스티라가 잘 만들어진 요리를 노래하며\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_MerinBento	메린의 도시락
+MIID_H_MerinBento	메린이 요리가 잘 만들어진 김에\n만든 도시락. 먹으면 HP를 20 회복한다.
+MIID_PanetoneBento	파네토네의 도시락
+MIID_H_PanetoneBento	파네토네가 잘 만들어진 요리를 독특하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_FogatoBento	포가토의 도시락
+MIID_H_FogatoBento	포가토가 맛있는 요리를 호쾌하게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_PandoroBento	판도로의 도시락
+MIID_H_PandoroBento	판도로가 맛있는 요리를 정성을 다해\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_BonetBento	보네의 도시락
+MIID_H_BonetBento	보네가 자신 있는 요리에 특별한 마무리를\n더한 도시락. 먹으면 HP를 20 회복한다.
+MIID_AnnaBento	안나의 도시락
+MIID_H_AnnaBento	안나가 자신 있게 만든 요리를 서비스로\n담아 준 도시락. 먹으면 HP를 20 회복한다.
+MIID_JeanBento	장의 도시락
+MIID_H_JeanBento	장이 맛있는 요리를 고생하면서\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_YunakaBento	유나카의 도시락
+MIID_H_YunakaBento	유나카가 맛있는 요리를 긴장하면서\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_SeadasBento	세아다스의 도시락
+MIID_H_SeadasBento	세아다스가 맛있는 요리를 점치면서\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_LindenBento	린덴의 도시락
+MIID_H_LindenBento	린덴이 자신 있게 만든 요리에 실험 정신을\n발휘한 도시락. 먹으면 HP를 20 회복한다.
+MIID_SaphirBento	자피아의 도시락
+MIID_H_SaphirBento	자피아가 자신 있게 만든 요리를 서투르게\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_VeyreBento	베일의 도시락
+MIID_H_VeyreBento	베일이 맛있는 요리를 열심히\n담은 도시락. 먹으면 HP를 20 회복한다.
+MIID_MauveBento	모브의 도시락
+MIID_H_MauveBento	모브가 잘 만들어진 요리로 소박하게\n만든 도시락. 먹으면 HP를 20 회복한다.
+MIID_DROPITEM_MONEY	\x0E\x01\x07\x00G
+MIID_H_MONEY	엘레오스 대륙에서 유통되는 통화.
+MIID_Beef	소고기
+MIID_H_Beef	식용으로 가공된 소고기.\n브로디아에는 풍부한 맛과 좋은 육질을\n보유한 고급 브랜드 소도 존재한다.
+MIID_Pork	돼지고기
+MIID_H_Pork	식용으로 가공된 돼지고기.\n비교적 저렴하게 구입할 수 있는\n서민적이면서도 맛있는 고기.
+MIID_Chicken	닭고기
+MIID_H_Chicken	식용으로 가공된 닭고기.\n근육을 만들고 싶은 사람이 필요한\n영양소를 효율적으로 얻을 수 있다.
+MIID_Mutton	양고기
+MIID_H_Mutton	식용으로 가공된 양고기.\n특유의 냄새 때문에 호불호가 갈린다.
+MIID_Onion	양파
+MIID_H_Onion	솔라넬의 뜰에서 키우는 야채 중 하나.\n더위엔 약하지만 추위엔 강한 것이 특징.
+MIID_Cabbage	양배추
+MIID_H_Cabbage	솔라넬의 뜰에서 키우는 야채 중 하나.\n생으로 먹어도 약간의 단맛이 느껴진다.
+MIID_Herb	허브
+MIID_H_Herb	메인 디시로 쓰이는 일은 적지만\n향이 매우 좋아 식욕 증진이나\n요리를 꾸미는 데 쓰인다.
+MIID_Tomato	토마토
+MIID_H_Tomato	피레네에서 가장 많이 생산하는 야채.\n세계적인 인기를 끄는 식재료 중 하나로\n피레네에는 브랜드화된 품종도 있다.
+MIID_Potato	감자
+MIID_H_Potato	피레네, 솔룸, 브로디아에서 수확 가능하며\n천 년 전의 전쟁 이후의 식량난을 구원한\n오랜 역사를 지닌 야채 중 하나.
+MIID_RareVagetable	환상의 야채
+MIID_H_RareVagetable	국한된 지역에서만 수확할 수 있는 야채.\n재배법이 확립되지 않아 야생에서만 자라며\n행운을 가져오는 환상의 야채라고 불린다.
+MIID_Wheat	밀가루
+MIID_H_Wheat	주식부터 디저트까지\n다양한 요리에 사용되는 만능 식재료.
+MIID_Apple	사과
+MIID_H_Apple	솔라넬의 과수원에서 자라는 과일 중 하나.\n예로부터 식용으로 애용되는 유명한 과일.\n다양한 동화에서도 등장한다.
+MIID_Orange	오렌지
+MIID_H_Orange	피레네에서 가장 잘 알려진 과일.\n다른 나라에서는 찾아볼 수 없는 특산물.
+MIID_Peach	복숭아
+MIID_H_Peach	솔라넬의 과수원에서 자라는 과일 중 하나.\n여기서만 자라는 부드럽고 향기로운 과일로\n왕족이 방문했을 때 선물로 건넸다고 한다.
+MIID_Grape	포도
+MIID_H_Grape	솔라넬의 과수원에서 자라는 과일 중 하나.\n한 송이에 커다란 알이 잔뜩 맺히기 때문에\n여럿이서 한 송이를 알알이 나눠 먹는다.
+MIID_Berry	베리
+MIID_H_Berry	작지만 다양한 지역에서 수확할 수 있어\n피레네와 브로디아의 국민들에게\n매우 친숙한 자연 간식.
+MIID_RareFruit	환상의 과일
+MIID_H_RareFruit	국한된 지역에서만 수확할 수 있는 과일.\n한 번 열매를 맺은 나무는 말라 버려 다시\n열매를 맺지 않아 환상의 과일이라 불린다.
+MIID_Nuts	나무 열매
+MIID_H_Nuts	어디에나 떨어져 있을 법한 나무 열매.\n말린 것과 극히 작은 열매 등의 총칭.
+MIID_Herring	청어
+MIID_H_Herring	방간 청어를 손질한 것.
+MIID_Carp	잉어
+MIID_H_Carp	헤루루 잉어를 손질한 것.
+MIID_Salmon	연어
+MIID_H_Salmon	슬릿핀 연어를 손질한 것.
+MIID_Cod	대구
+MIID_H_Cod	왕엄니 대구를 손질한 것.
+MIID_Eel	장어
+MIID_H_Eel	브로스 장어를 손질한 것.
+MIID_Sardine	정어리
+MIID_H_Sardine	큰 눈 정어리를 손질한 것.
+MIID_MincedFish	으깬 어육
+MIID_H_MincedFish	물고기의 뼈와 껍데기 등을 으깬 것.
+MIID_DriedFish	건어물
+MIID_H_DriedFish	손질한 물고기를 통째로 건조한 것.
+MIID_SlicedRawFish	회
+MIID_H_SlicedRawFish	신선한 물고기의 살을 예쁘게 저민 것.
+MIID_RareFish	환상의 물고기
+MIID_H_RareFish	솔라넬의 연못에서 낚을 수 있는\n환상의 물고기를 식용으로 손질한 것.\n몸에 좋은 영양소를 많이 함유하고 있다.
+MIID_Milk	우유
+MIID_H_Milk	소나 양 등의 동물로부터 채취할 수 있는\n영양 만점 우유.
+MIID_Egg	달걀
+MIID_H_Egg	동물로부터 채취할 수 있는 만능 식재료.
+MIID_Rice	쌀
+MIID_H_Rice	벼에서 겨를 벗겨 낸 상태의 곡물.
+MIID_Bean	콩
+MIID_H_Bean	식용으로 가공된 종자.\n다채로운 크기와 모양으로 자란다.
+MIID_Spice	향신료
+MIID_H_Spice	식물에서 채취한 조미료.\n풍미나 색, 맛을 조절하는 등\n다양한 용도로 요리에 사용된다.
+MIID_RareFoodstuffs	환상의 식재료
+MIID_TeaLeaf	갓 딴 찻잎
+MIID_H_TeaLeaf	갓 딴 신선한 찻잎을 장인이 직접\n티컵 1잔 분량의 티백에 담은 것.\n다과회, 요리 애호가가 좋아한다.
+MIID_DriedMeat	단단한 육포
+MIID_H_DriedMeat	간이 제대로 밴 고기를 평소보다 오래 말려\n만든 육포로 휴대 식량으로도 인기 있다.\n고기, 별미 애호가가 좋아한다.
+MIID_Yogurt	엄선 요구르트
+MIID_H_Yogurt	엄선한 알파카 우유로 만든 요구르트.\n목장의 향기가 입 안에 가득 퍼진다.\n유제품 애호가가 좋아한다.
+MIID_GrilledPotato	열심히 구운 감자
+MIID_H_GrilledPotato	모닥불 등에서 속까지 제대로 구운 감자.\n소재의 맛을 살리기 위해 따로 간은\n하지 않았다. 감자 애호가가 좋아한다.
+MIID_WeightStone	단련용 돌
+MIID_H_WeightStone	단련에 특화된 무거운 돌.\n손에 쥐거나 다리에 묶어서 사용한다.\n단련, 운동 애호가가 좋아한다.
+MIID_MuscleBuilder	바르는 근육 증강제
+MIID_H_MuscleBuilder	근육질로 만들고 싶은 부위에 바르는 약.\n단련 후에 바르면 더 큰 효과가 있다고 한다.\n단련, 운동 애호가가 좋아한다.
+MIID_Actinidia	동물용 개다래
+MIID_H_Actinidia	어떤 동물이든 이 개다래를 보여 주면\n기뻐하며 모여들기 때문에 병에 밀폐해서\n보관한다. 동물 애호가가 좋아한다.
+MIID_Chisel	날카로운 조각도
+MIID_H_Chisel	목재의 가공, 주로 세세한 문양을\n새기는 데 사용되는 도구.\n공작, 무기 애호가가 좋아한다.
+MIID_FairyTaleBook	신비한 그림 동화책
+MIID_H_FairyTaleBook	신비한 이야기들이 수록된 그림책.\n짧은 이야기뿐이지만, 읽을 가치는 충분하다.\n독서, 동화 애호가가 좋아한다.
+MIID_PoetryCollection	세계 각국의 시집
+MIID_H_PoetryCollection	세계 각국의 다양한 시가 수록된 시집.\n공모로 선정된 시도 포함되어 있다.\n독서, 망상 애호가가 좋아한다.
+MIID_PhilosophyBook	어려운 철학서
+MIID_H_PhilosophyBook	다양한 것의 근원에 대한 의미와 이유를\n고찰하는 학문의 입문서로 사용되는 책.\n공부 애호가가 좋아한다.
+MIID_Bible	신룡 성서
+MIID_H_Bible	신룡을 신으로 받드는 백성들이 기록한\n태곳적부터 현재까지 계승되어 온 성서.\n경건한 신룡 신도가 좋아한다.
+MIID_HistoryBook	엘레오스의 역사서
+MIID_H_HistoryBook	엘레오스 대륙과 각국의 성립 과정이\n자세히 기록된 두꺼운 역사서.\n독서, 공부 애호가가 좋아한다.
+MIID_Perfume	향이 강한 향수
+MIID_H_Perfume	꽃과 과일 등의 좋은 향기를 응축시켜\n작은 병에 담은 향수.\n치장 애호가가 좋아한다.
+MIID_InsectCatchingNet	잠자리채
+MIID_H_InsectCatchingNet	벌레를 잡는 것에 특화된 망으로\n긴 손잡이와 가벼운 것이 특징.\n동물, 벌레 애호가가 좋아한다.
+MIID_SunHat	햇빛 차단 모자
+MIID_H_SunHat	커다란 챙이 둘러져 있어 얼굴뿐만 아니라\n목까지 햇빛으로부터 보호해 준다.\n운동, 산책 애호가, 햇빛 기피자가 좋아한다.
+MIID_Chrysanthemum	국화꽃
+MIID_H_Chrysanthemum	만개한 국화꽃.\n리토스를 상징하는 꽃으로 인기가 많은 품종.\n리토스 출신의 꽃 애호가가 특히 좋아한다.
+MIID_Lentils	렌즈콩꽃
+MIID_H_Lentils	만개한 렌즈콩꽃.\n피레네를 상징하는 꽃으로 인기가 많은 품종.\n피레네 출신의 꽃 애호가가 특히 좋아한다.
+MIID_Lily	백합꽃
+MIID_H_Lily	만개한 백합꽃.\n브로디아를 상징하는 꽃으로 인기 많은 품종.\n브로디아 출신의 꽃 애호가가 특히 좋아한다.
+MIID_Komatsuna	소송채꽃
+MIID_H_Komatsuna	만개한 소송채꽃.\n솔룸을 상징하는 꽃으로 인기가 많은 품종.\n솔룸 출신의 꽃 애호가가 특히 좋아한다.
+MIID_Lupinus	루피너스꽃
+MIID_H_Lupinus	만개한 루피너스꽃.\n이르시온을 상징하는 꽃으로 인기 많은 품종.\n이르시온 출신의 꽃 애호가가 특히 좋아한다.
+MIID_WhiteClover	클로버
+MIID_H_WhiteClover	요리에도 사용할 수 있는 풀.\n드물게 잎이 4장인 것이 자라기도 한다.\n요리, 허브 애호가가 좋아한다.
+MIID_Horn	뿔피리
+MIID_H_Horn	동물의 뿔로 만든 피리로 큰 소리가 나지만\n음계를 연주하기 위한 구멍은 없다.\n음악 애호가가 좋아한다.
+MIID_Wreath	손수 만든 화환
+MIID_H_Wreath	꺾은 꽃과 풀을 엮어 만든 화환.\n문이나 벽에 장식해 두는 경우가 많다.\n귀여운 것, 꽃 애호가가 좋아한다.
+MIID_Apron	귀여운 에이프런
+MIID_H_Apron	핑크색 옷감에 꽃무늬 자수와\n프릴로 꾸민 매우 귀여운 에이프런.\n귀여운 것, 요리 애호가가 좋아한다.
+MIID_FishingBait	낚시용 미끼
+MIID_H_FishingBait	낚싯대 끝에 달아 물고기를 유인할 때\n쓰는 미끼. 물고기가 좋아하는 유충으로\n만들었다. 낚시 애호가가 좋아한다.
+MIID_MultiFunctionKnife	다기능 나이프
+MIID_H_MultiFunctionKnife	작은 나이프에 가위, 태엽 감개 등의\n기능이 추가된 편리한 도구.\n공작, 무기, 멋있는 것 애호가가 좋아한다.
+MIID_WoodCarvingBear	목조 곰
+MIID_H_WoodCarvingBear	나무를 깎아 만든 곰 장식품.\n거친 털과 생동감 있는 모습 덕에 인기 있다.\n귀여운 것, 동물 애호가가 좋아한다.
+MIID_SewingKit	재봉 세트
+MIID_H_SewingKit	작은 주머니에 예쁘게 정돈되어 있는\n재봉 세트. 필요할 때 어디서든\n사용할 수 있다. 바느질 애호가가 좋아한다.
+MIID_SheepYarnBall	양 털실 뭉치
+MIID_H_SheepYarnBall	털갈이 시기에 자른 양털로 만든\n감촉이 매우 좋은 털실.\n바느질 애호가가 좋아한다.
+MIID_Handkerchief	품질 좋은 손수건
+MIID_H_Handkerchief	장인이 손수 정성 들여 짠\n광택 있는 옷감으로 만든 고급 손수건.\n고급품, 청소, 치장 애호가가 좋아한다.
+MIID_QuillPen	고급 깃펜
+MIID_H_QuillPen	희귀한 새의 깃털로 만든\n저마다 모양이 다른 고급 깃펜.\n고급품, 공부, 글쓰기 애호가가 좋아한다.
+MIID_DecorativeDagger	장식된 단검
+MIID_H_DecorativeDagger	자루와 칼집에 조그마한 장식이 있는 단검.\n베기 위한 용도라기보다는 장식용 검이다.\n무기 애호가가 좋아한다.
+MIID_KazunoEarrings	사슴뿔 귀걸이
+MIID_H_KazunoEarrings	뿔갈이 때 떨어진 사슴의 뿔로 만든\n친환경적인 귀걸이로, 특히 솔룸 백성들에게\n인기 있다. 치장 애호가가 좋아한다.
+MIID_PlayingCards	탁상 놀이용 카드
+MIID_H_PlayingCards	연회 등에서 사람이 모였을 때\n다양한 놀이를 즐길 수 있는 카드.\n연회, 놀이 애호가와 아이가 좋아한다.
+MIID_SpicySeasoning	엄청 매운 조미료
+MIID_H_SpicySeasoning	어떤 요리도 엄청 맵게 바꿔 버리는\n매우 맵고 붉은 열매의 분말 조미료.\n매운 음식, 별미 애호가가 좋아한다.
+MIID_LandscapePostcard	풍경 그림엽서
+MIID_H_LandscapePostcard	자연의 아름다운 풍경이 그려진 그림엽서.\n편지처럼 마음을 적어 보낼 수 있다.\n자연 애호가가 좋아한다.
+MIID_Candle	예쁜 초
+MIID_H_Candle	작은 무늬가 새겨진 초.\n하나하나 수작업으로 만드는 고급품.\n치장, 고급품, 연회 애호가가 좋아한다.
+MIID_CreaturePictureBook	생물 도감
+MIID_H_CreaturePictureBook	동물과 벌레 등 온갖 생물을\n그림과 함께 설명한 두꺼운 도감.\n동물, 벌레 애호가가 좋아한다.
+MIID_SuspiciousPaper	수상한 부적
+MIID_H_SuspiciousPaper	뭔가 기괴한 분위기가 감도는 수상한 부적.\n사람에 따라 매우 무섭게 느껴질 수 있다.\n괴담 애호가가 좋아한다.
+MIID_BigDish	커다란 접시
+MIID_H_BigDish	요리를 잔뜩 담을 수 있는\n가볍고 쓰기 편한 커다란 접시.\n요리, 연회 애호가가 좋아한다.
+MIID_Bandage	붕대
+MIID_H_Bandage	주로 상처를 싸매거나 부상을 예방하기 위해\n근육, 관절을 고정하는 용도로 사용한다.\n단련 애호가가 좋아한다.
+MIID_BeautifulStones	예쁜 돌멩이
+MIID_H_BeautifulStones	길가에 떨어져 있는\n동그랗고 매끈한 예쁜 돌멩이.
+MIID_SoraJewelry	수호신의 보석
+MIID_H_SoraJewelry	드물게 솔라넬에서만 보이는 일곱 빛깔 보석.\n\x0E\x06\x05\x00\x0E\x0A\x04\x08\x02이\x02가 있던 곳에서 발견된다.\n모두가 좋아한다.
+MIID_HorseManure	말똥
+MIID_H_HorseManure	비료로 사용할 수 있는 말똥.\n그 이상 그 이하의 가치는 없다.\n사람에게 줄 수도 있지만 좋아하지 않는다.
+MIID_FishingRod_Smoll	작은 낚싯대
+MIID_H_FishingRod_Smoll	작은 물고기를 낚는 데 적합한 낚싯대.\n잘 휘어지지 않도록 단단하게 만들어져\n작은 힘으로도 목표물을 낚아 올릴 수 있다.
+MIID_FishingRod_Normal	튼튼한 낚싯대
+MIID_H_FishingRod_Normal	중간 크기 물고기를 낚는 데 좋은 낚싯대.\n무거운 물고기가 낚였을 때 낚싯대가 크게\n휘어 힘을 분산시켜 주는 상급자용 낚싯대.
+MIID_FishingRod_AllPurpose	만능 낚싯대
+MIID_H_FishingRod_AllPurpose	어떤 거대한 물고기도 잡을 수 있는 걸작.\n낚시의 달인만 다룰 수 있는 최후의 낚싯대.\n너무 작은 물고기는 잘 낚이지 않는다.
+MIID_Marth_Rapier	레이피어
+MIID_H_Marth_Rapier	문장사 마르스가 지닌 가느다란 검.\n기마 특효/중갑 특효.
+MIID_Marth_Mericle	메리클 소드
+MIID_H_Marth_Mericle	문장사 마르스가 지닌 신기.\n획득 경험치 2배.
+MIID_Marth_Falchion	팔시온
+MIID_H_Marth_Falchion_M000	전설의 신검.\n용 특효.
+MIID_H_Marth_Falchion	문장사 마르스가 지닌 전설의 신검.\n용 특효.
+MIID_Siglud_RiderKiller	나이트 킬러
+MIID_H_Siglud_RiderKiller	문장사 시구르드가 지닌 창.\n기마 특효.
+MIID_Siglud_BraveLance	용사의 창
+MIID_H_Siglud_BraveLance	문장사 시구르드가 지닌 창.\n직접 공격 시, 2연속 공격.
+MIID_Siglud_Tyrfing	튀르핑
+MIID_H_Siglud_Tyrfing	문장사 시구르드가 지닌 전설의 성검.\n마방+5.
+MIID_H_Siglud_Tyrfing_Normal	문장사 시구르드가 지닌 전설의 성검.
+MIID_Celica_Angel	엔젤
+MIID_H_Celica_Angel	문장사 세리카의 성스러운 마법.\n이형 특효.
+MIID_Celica_Recovery	리커버
+MIID_H_Celica_Recovery	문장사 세리카가 지닌 치유의 지팡이.\nHP를 크게 회복시킨다.
+MIID_Celica_Ragnarok	라이나로크
+MIID_H_Celica_Ragnarok	문장사 세리카가 지닌 궁극의 화염 마법.
+MIID_Micaiah_Shine	샤인
+MIID_H_Micaiah_Shine	문장사 미카야가 지닌 빛 마법.\n대상을 중심으로 주위 5칸을 밝힌다.\n(턴 경과에 따라 -1칸)
+MIID_Micaiah_Nosferatu	리자이어
+MIID_H_Micaiah_Nosferatu	문장사 미카야가 지닌 빛 마법.\n적에게 입힌 대미지의 50%만큼\n자신의 HP를 회복한다.
+MIID_Micaiah_Thani	세이니
+MIID_H_Micaiah_Thani	문장사 미카야가 지닌 빛 상급 마법.\n기마 특효/중갑 특효.
+MIID_HandHeal	치유의 손
+MIID_Roy_LanceBuster	랜스 버스터
+MIID_H_Roy_LanceBuster	문장사 로이가 지닌 검.\n창에 강하고, 도끼에 약하다.
+MIID_Roy_DragonKiller	드래곤 킬러
+MIID_H_Roy_DragonKiller	문장사 로이가 지닌 검.\n용 특효.
+MIID_Roy_BindingBlade	봉인의 검
+MIID_H_Roy_BindingBlade	문장사 로이가 지닌 영웅의 검.\n수비·마방+5/떨어진 적도 공격 가능.
+MIID_Leaf_KillerAxe	킬러 액스
+MIID_H_Leaf_KillerAxe_M008	문장사가 지닌 도끼.\n치명상을 입히기 쉽다.
+MIID_H_Leaf_KillerAxe	문장사 리프가 지닌 도끼.\n치명상을 입히기 쉽다.
+MIID_Leaf_MasterLance	마스터 랜스
+MIID_H_Leaf_MasterLance_M008	문장사가 지닌 창.\n직접 공격 시, 2연속 공격.\n떨어진 적도 공격 가능.
+MIID_H_Leaf_MasterLance	문장사 리프가 지닌 창.\n직접 공격 시, 2연속 공격.\n떨어진 적도 공격 가능.
+MIID_Leaf_LightBrand	빛의 검
+MIID_H_Leaf_LightBrand	문장사 리프가 지닌 마법검.\n행운+10/마법의 빛을 통해 떨어진 적도\n공격 가능.
+MIID_Leaf_MasterBow	마스터 보우
+MIID_Lucina_NobleRapier	노블 레이피어
+MIID_H_Lucina_NobleRapier_M007	문장사가 지닌 가느다란 검.\n기마 특효/중갑 특효.
+MIID_H_Lucina_NobleRapier	문장사 루키나가 지닌 가느다란 검.\n기마 특효/중갑 특효.
+MIID_Lucina_Parthia	파르티아
+MIID_H_Lucina_Parthia	문장사 루키나가 지닌 강력한 활.\n마방+5/획득 경험치 2배.\n비행 특효.
+MIID_Lucina_ParallelFalchion	이검 팔시온
+MIID_H_Lucina_ParallelFalchion	문장사 루키나가 지닌 전설의 신검.\n용 특효.
+MIID_Lin_KillerBow	킬러 보우
+MIID_H_Lin_KillerBow_M010	문장사가 지닌 활.\n치명상을 입히기 쉽다/비행 특효.
+MIID_H_Lin_KillerBow	문장사 린이 지닌 활.\n치명상을 입히기 쉽다/비행 특효.
+MIID_H_Lin_KillerBow_Normal	문장사 린이 지닌 활.\n비행 특효.
+MIID_Lin_ManiKatti	마니 카티
+MIID_H_Lin_ManiKatti	문장사 린이 지닌 정령의 가호를 받은 검.\n기마 특효/중갑 특효.
+MIID_H_Lin_ManiKatti_1	문장사가 지닌 정령의 가호를 받은 검.\n기마 특효/중갑 특효.
+MIID_Lin_Myrgleis	뮬그레
+MIID_H_Lin_Myrgleis	문장사 린이 지닌 질풍의 활.\n속도+5/용 특효/비행 특효.
+MIID_Ike_Hammer	해머
+MIID_H_Ike_Hammer	문장사 아이크가 지닌 전투 망치.\n추격 불가/중갑 특효/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Ike_Urvan	우르반
+MIID_H_Ike_Urvan	문장사 아이크가 지닌 전투 도끼.\n마방+3.
+MIID_Ike_Ragnell	라그넬
+MIID_H_Ike_Ragnell	문장사 아이크가 지닌 전설의 신검.\n수비+5/떨어진 적도 공격 가능.
+MIID_Byleth_Aymr	아이무르
+MIID_H_Byleth_Aymr	문장사 벨레트가 지닌 도끼.\n추격 불가/용 특효/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Byleth_Blutgang	불트강
+MIID_H_Byleth_Blutgang	문장사 벨레트가 지닌 검.\n칼날에 마력이 둘러져 있다.\n용 특효/기마 특효.
+MIID_Byleth_Luin	룬
+MIID_H_Byleth_Luin_M010	문장사가 지닌 창.\n속도에 따라 대미지 증가.\n용 특효.
+MIID_H_Byleth_Luin	문장사 벨레트가 지닌 창.\n속도에 따라 대미지 증가.\n용 특효.
+MIID_Byleth_Areadbhar	아라드바르
+MIID_H_Byleth_Areadbhar	문장사 벨레트가 지닌 창.\n직접 공격 시, 위력 150%.
+MIID_Byleth_AegisShield	아이기스의 방패
+MIID_H_Byleth_AegisShield	문장사 벨레트가 지닌 방패.\n수비+6/마방+3/기술%의 확률로\n받는 대미지 반감(소지 시 효과 발동).
+MIID_Byleth_Failnaught	페일노트
+MIID_H_Byleth_Failnaught	문장사 벨레트가 지닌 활.\n직접 공격 시, 회피+20.\n용 특효/비행 특효.
+MIID_Byleth_Thyrsus	튀르소스의 지팡이
+MIID_H_Byleth_Thyrsus	문장사 벨레트가 지닌 지팡이.\n마법의 사정거리+2/드물게 받는 대미지 반감.\n(소지하고만 있어도 효과 발동)
+MIID_Byleth_RafailGem	라파일의 보주
+MIID_H_Byleth_RafailGem	문장사 벨레트가 지닌 보주.\n특효와 필살을 무효화/드물게 받는\n대미지 반감(소지하고만 있어도 효과 발동).
+MIID_Byleth_Vajra	바즈라
+MIID_H_Byleth_Vajra	문장사 벨레트가 지닌 권갑.\n공격 시 상대의 수비와 마방 중 낮은 쪽을\n참조한다. 직접 공격 시, 2연속 공격.
+MIID_Byleth_SublimeCreatorSword	천제의 검
+MIID_H_Byleth_SublimeCreatorSword	문장사 벨레트가 지닌 영웅의 유산.\n마력에 따라 대미지 증가.\n떨어진 적도 공격 가능/용 특효.
+MIID_H_Byleth_SublimeCreatorSword_M014	문장사가 지닌 영웅의 유산.\n마력에 따라 대미지 증가.\n떨어진 적도 공격 가능/용 특효.
+MIID_GoddessAgain	여신의 춤
+MIID_GoddessAgain_Dark	사신의 춤
+MIID_Kamui_DualKatana	역도
+MIID_H_Kamui_DualKatana	문장사 카무이가 지닌 도검.\n창에 강하고, 도끼에 약하다.
+MIID_Kamui_Wakizashi	비도
+MIID_H_Kamui_Wakizashi	문장사 카무이가 지닌 도검.\n근접 공격 불가/떨어진 적에게 공격 가능.
+MIID_Kamui_Yato	야신도
+MIID_H_Kamui_Yato	문장사 카무이가 지닌 전설의 신도.
+MIID_Kamui_DragonPiercing	용의 창
+MIID_H_Kamui_DragonPiercing	문장사 카무이가 사용하는 기술.
+MIID_Eirik_Rapier	레이피어
+MIID_H_Eirik_Rapier	문장사 에이리카가 지닌 가느다란 검.\n기마 특효/중갑 특효.
+MIID_Eirik_WindSword	바람의 검
+MIID_H_Eirik_WindSword	문장사 에이리카가 지닌 마법검.\n마법의 바람을 통해 떨어진 적도 공격 가능.\n비행 특효.
+MIID_Eirik_Sieglinde	지크린데
+MIID_H_Eirik_Sieglinde	문장사 에이리카가 지닌 검의 쌍성의 무기.\n이형 특효.
+MIID_Eirik_Siegmund	지크문트
+MIID_H_Eirik_Siegmund	문장사 에브라임이 지닌 성스러운 불꽃 창.\n이형 특효.
+MIID_Lueur_Oligoludia	오리고르디아
+MIID_H_Lueur_Oligoludia	문장사 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 지닌 검.\n이형 특효.
+MIID_Lueur_DragonFist	신룡 체술
+MIID_H_Lueur_DragonFist	문장사 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 지닌\n마법 격투기. 직접 공격 시, 2연속 공격.\n(공격력은 마력만 반영한다)
+MIID_Lueur_Lyration	라일라시온
+MIID_H_Lueur_Lyration	문장사 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 지닌 검.\n직접 공격해서 적을 격파하면 인접한\n싱크로 중인 아군의 인게이지 카운트+1.
+MIID_Folkvangr	폴크방
+MIID_H_Folkvangr	이계의 국가 아스크의 왕자 알폰스의 검.\n아군 페이즈 개시와 동시에\nHP가 50% 이하일 경우 1턴 동안 공격력+3.
+MIID_Fensalir	펜살리르
+MIID_H_Fensalir	이계의 국가 아스크의 왕녀 샤론의 창.\n아군 페이즈 개시와 동시에 적이 인접한 경우\n1턴 동안 적의 공격력-2.
+MIID_Noatun	노아툰
+MIID_H_Noatun	이계의 국가 아스크의 전사 안나의 도끼.\n아군 페이즈 개시와 동시에\nHP가 40% 이하일 경우, 1턴 동안 이동+1.
+MIID_SPBook1	스킬의 책·수
+MIID_H_SPBook1	스킬의 이해가 깊어지는 책.\nSP를 100 획득한다.
+MIID_SPBook2	스킬의 책·파
+MIID_H_SPBook2	스킬의 오의를 깨우치는 책.\nSP를 500 획득한다.
+MIID_SPBook3	스킬의 책·리
+MIID_H_SPBook3	스킬의 진수에 도달하는 책.\nSP를 1000 획득한다.

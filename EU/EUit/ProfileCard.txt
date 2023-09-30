@@ -1,0 +1,555 @@
+MID_CARD_KEYHELP_TURN_OVER	Gira carta
+MID_CARD_KEYHELP_EDIT	Modifica
+MID_CARD_KEYHELP_CARD_LIST	Lista carte
+MID_CARD_KEYHELP_STAMP_LIST	Lista timbri
+MID_CARD_KEYHELP_STAMP_SWITCHING	Modifica
+MID_CARD_KEYHELP_DELETE	Elimina
+MID_CARD_KEYHELP_END	Fine
+MID_ProfileCard	Carta profilo
+MID_ProfileCard_MyCard	La tua carta
+MID_ProfileCard_MyCard_Description	Modifica il testo della tua carta\nprofilo e personalizzane l'aspetto.
+MID_ProfileCard_Notes_Terms	Per i contenuti condivisi si applicano le linee\nguida relative alla community che puoi trovare\nsul sito Internet di Nintendo. Rispetta sempre\ni tuoi compagni di gioco.
+MID_ProfileCard_Album	Altre carte
+MID_ProfileCard_Album_Help	Guarda ed elimina altre carte.
+MID_ProfileCard_Album_Description	Guarda le carte profilo che hai\nottenuto alla torre delle prove.
+MID_ProfileCard_Photo	Foto
+MID_ProfileCard_Photo_Description	Scatta una foto dei tuoi alleati\npreferiti per la tua carta profilo.
+MID_ProfileCard_Photo_Warning	Solo foto all'aria aperta nel Somniel.
+MID_ProfileCard_Setting	Privacy
+MID_ProfileCard_Setting_Description	Puoi cambiare l'impostazione per\nla privacy della tua carta profilo.
+MID_ProfileCard_Setting_Warning_Public	Impostazione attuale: pubblica
+MID_ProfileCard_Setting_Warning_Private	Impostazione attuale: privata
+MID_ProfileCard_Setting_Confirm	Scegli un'impostazione per la privacy della\ntua carta profilo. (Puoi modificare questa\nimpostazione in qualsiasi momento.\nNota: il cambio di impostazione non avrà\neffetto sulle carte già scambiate.)
+MID_ProfileCard_Setting_Public	Rendila pubblica
+MID_ProfileCard_Setting_Private	Rendila privata
+MID_ProfileCard_ShowStamp	Impost. timbri
+MID_ProfileCard_ShowStamp_Description	Puoi scegliere se visualizzare o\nnascondere i timbri delle carte\nprofilo che hai ottenuto.
+MID_ProfileCard_ShowStamp_Warning_Show	Impostazione attuale: visualizza
+MID_ProfileCard_ShowStamp_Warning_Hide	Impostazione attuale: nascondi
+MID_ProfileCard_ShowStamp_Confirm	Scegli un'impostazione di visualizzazione\nper i timbri delle carte profilo.\n(Puoi modificarla in qualsiasi momento.)
+MID_ProfileCard_ShowStamp_Show	Visualizza
+MID_ProfileCard_ShowStamp_Hide	Nascondi
+MID_ProfileCard_Settings_Cannot_Change	Questa impostazione è limitata dal filtro famiglia\ne non può essere modificata.
+MID_ProfileCard_Card_PlayerInfo	Info giocatore
+MID_ProfileCard_Card_TolalPlayTime	Tempo di gioco
+MID_ProfileCard_Card_Birthday	Compleanno
+MID_ProfileCard_Card_Difficulty	Difficoltà
+MID_ProfileCard_Card_GameMode	Modalità
+MID_ProfileCard_Card_FaivoriteCharacter	Personaggio preferito
+MID_ProfileCard_Card_Relay	Prove Staffetta
+MID_ProfileCard_Card_FavoriteMap	Mappa preferita
+MID_ProfileCard_Card_PlayingCount	Partite
+MID_ProfileCard_Card_Versus	Prove Altrotempo
+MID_ProfileCard_Card_ThemeOfEditMap	Tema della mappa
+MID_ProfileCard_Card_VersusRate	Class. battaglie personalizzate
+MID_ProfileCard_Card_SortieCount	Unità schierate
+MID_ProfileCard_Card_AchievementCount	Trofei ottenuti
+MID_ProfileCard_MyCard_Help	Guarda e modifica la carta.
+MID_ProfileCard_Edit	Modifica carta
+MID_ProfileCard_Edit_Help	Scegli cosa modificare.
+MID_ProfileCard_Edit_Title	Titolo
+MID_ProfileCard_Edit_Title_Help	Scegli un titolo.
+MID_ProfileCard_Edit_Title_Caption	Titoli disponibili
+MID_ProfileCard_Edit_Comment	Frase
+MID_ProfileCard_Edit_Comment_Help	Scegli tre elementi.
+MID_ProfileCard_Edit_Comment_Caption	Crea frase
+MID_ProfileCard_Edit_FavoriteCharacter	Personaggio preferito
+MID_ProfileCard_Edit_FavoriteCharacter_Help	Scegli un personaggio.
+MID_ProfileCard_Edit_FavoriteCharacter_Caption	Personaggi disponibili
+MID_ProfileCard_Edit_FavoriteRelayMap	Mappa preferita
+MID_ProfileCard_Edit_FavoriteRelayMap_Help	Scegli una mappa.
+MID_ProfileCard_Edit_FavoriteRelayMap_Caption	Mappe disponibili
+MID_ProfileCard_Edit_Bg	Sfondo
+MID_ProfileCard_Edit_Bg_Help	Scegli un motivo.
+MID_ProfileCard_Edit_Bg_Caption	Sfondi disponibili
+MID_ProfileCard_Edit_Frame	Cornice
+MID_ProfileCard_Edit_Frame_Help	Scegli un motivo.
+MID_ProfileCard_Edit_Frame_Caption	Cornici disponibili
+MID_ProfileCard_Edit_TextDeco	Sfondo testo
+MID_ProfileCard_Edit_TextDeco_Help	Scegli un motivo.
+MID_ProfileCard_Edit_TextDeco_Caption	Sfondi disponibili
+MID_ProfileCard_Edit_TextColor	Colore testo
+MID_ProfileCard_Edit_TextColor_Help	Scegli un colore.
+MID_ProfileCard_Edit_TextColor_Caption	Colori disponibili
+MID_ProfileCard_Edit_CharecterStamp	Icona
+MID_ProfileCard_Edit_CharecterStamp_Help	Scegli un'icona.
+MID_ProfileCard_Edit_CharecterStamp_Caption	Icone disponibili
+MID_ProfileCard_Edit_Stamp	Timbri
+MID_ProfileCard_Edit_Stamp_Help	Decora la carta.
+MID_ProfileCard_Edit_Stamp_Count	Numero timbri
+MID_ProfileCard_Edit_Stamp_ConfirmToClear	Vuoi eliminare tutti i timbri?\n(Questa azione è irreversibile.)
+MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes	Elimina tutto
+MID_ProfileCard_Edit_Stamp_ConfirmToClose	Hai terminato il lavoro con i timbri?
+MID_ProfileCard_Edit_Stamp_SaveAndClose	Esci (salva modifiche)
+MID_ProfileCard_Edit_Stamp_NoSaveAndClose	Esci (scarta modifiche)
+MID_ProfileCard_Edit_Stamp_ContinueToEdit	Continua modifiche
+MID_ProfileCard_Album_ConfirmToDelete	Vuoi eliminare la carta profilo\ndi \x0E\x01\x00\x00?
+MID_ProfileCard_Album_Delete	Elimina
+MID_ProfileCard_Possession	In possesso
+MID_ProfileCard_Language_Attention	A causa di un cambiamento nell'impostazione\ndella lingua, la tua frase è stata resettata.
+MID_ProfileCard_Net_Save_Confirm_Match	Vuoi salvare la carta profilo dell'avversario?
+MID_ProfileCard_Net_Save_Confirm_Relay	Vuoi salvare le carte profilo dei giocatori\ndella prova Staffetta?
+MID_ProfileCard_Net_Save_Done	Salvataggio completato.
+MID_ProfileCard_Net_Overlimit_Title	Elimina carte
+MID_ProfileCard_Net_Overlimit_Title_Help	Seleziona la carta da eliminare.
+MID_ProfileCard_Net_Overlimit_Incomplete	Hai superato il limite di carte profilo che puoi\ntenere. Elimina le carte in eccesso.
+MID_ProfileCard_Comment_CharacterFeeling	Personalità
+MID_ProfileCard_Comment_FeaturePosition	Ruoli e armi
+MID_ProfileCard_Comment_AdpositionConjection	Particelle e simboli
+MID_ProfileCard_Comment_Tearms	Terminologia del gioco
+MID_ProfileCard_Comment_ClassStyle	Classi e unità
+MID_ProfileCard_Comment_PersonName	Personaggi
+MID_STAMP_KEYHELP_TITLE	Comandi timbri
+MID_STAMP_KEYHELP_PUT_A_STAMP	Timbra
+MID_STAMP_KEYHELP_LR_REVERSE	Inverti
+MID_STAMP_KEYHELP_ROTATE_SCALE	Zoom/Ruota
+MID_STAMP_KEYHELP_ROTATE_SCALE_RESET	Ripristina
+MID_STAMP_KEYHELP_HIGH_SPEED	Rapido
+MID_STAMP_KEYHELP_ERASE_ALL	Elimina tutto
+MID_STAMP_KEYHELP_TWEAK	Regola
+MID_ProfileCard_Stamp_Unit	Unità
+MID_ProfileCard_Stamp_GodUnit	Emblemi
+MID_ProfileCard_Stamp_Weapon	Armi
+MID_ProfileCard_Stamp_GodWeapon	Armi unione
+MID_ProfileCard_Stamp_RodAndItem	Bastoni e strumenti
+MID_ProfileCard_Stamp_System	Simboli
+MID_ProfileCard_Stamp_Others	Altro
+PCTMID_FireEmblem	Fire Emblem
+PCTMID_ShadowDragon	Blade of Light
+PCTMID_NewShadowDragon	Shadow Dragon
+PCTMID_MysteryOfTheEmblem	Mystery of the Emblem
+PCTMID_NewMysteryOfTheEmblem	New Mystery of the Emblem
+PCTMID_SideStory	Gaiden
+PCTMID_GenealogyOfTheHolyWar	Genealogy of the Holy War
+PCTMID_Thracia776	Thracia 776
+PCTMID_TheBindingBlade	The Binding Blade
+PCTMID_TheBlazingBlade	The Blazing Blade
+PCTMID_TheSacredStones	The Sacred Stones
+PCTMID_PathOfRadiance	Path of Radiance
+PCTMID_RadiantDawn	Radiant Dawn
+PCTMID_Awakening	Awakening
+PCTMID_Fates	Fates
+PCTMID_Birthright	Retaggio
+PCTMID_Conquest	Conquista
+PCTMID_Echoes	Echoes
+PCTMID_ThreeHouses	Three Houses
+PCTMID_Heroes	Heroes
+PCTMID_Marth	"Per l'Altea!"
+PCTMID_Celica	"Che Mila sia con te..."
+PCTMID_Siglud	"Sfodera la spada!"
+PCTMID_Leaf	"Farò di tutto!"
+PCTMID_Roy	"Non perderò!"
+PCTMID_Lin	"La pianura mi chiama."
+PCTMID_Eirik	"Che guerra sia!"
+PCTMID_Ike	"Chi osa opporsi a me?"
+PCTMID_Micaiah	"Devo lottare!"
+PCTMID_Lucina	"Cambierò il destino!"
+PCTMID_Kamui	"Ho fatto la mia scelta!"
+PCTMID_Byleth	"Inizia la lezione!"
+PCTMID_Lueur	"Con il Drago Divino!"
+PCTMID_RelianceC_WithAllUnit	Sostegno C
+PCTMID_RelianceB_WithAllUnit	Sostegno B
+PCTMID_RelianceA_WithAllUnit	Sostegno A
+PCTMID_RelianceRing	Sostegno anello
+PCTMID_SortieWithAllUnitCount5	Mobilitazione generale
+PCTMID_EncountBattleCount45	Asso della scaramuccia
+PCTMID_BattleCount5000	Combattente
+PCTMID_DefeatSoldierCount500	Sbaragliasoldati
+PCTMID_DefeatMorphCount500	Annientaberrazioni
+PCTMID_DefeatBanditsCount500	Sgominaladri
+PCTMID_CaneCount500	Asso di bastoni
+PCTMID_CriticalCount300	Professionista
+PCTMID_EngageCount300	Unione!
+PCTMID_EngageAttackCount300	Attaccante in unione!
+PCTMID_AvoidanceCount500	Schivante
+PCTMID_ChainGuardCount300	Gran difesa
+PCTMID_ChainAttackCount300	Assistente
+PCTMID_ChainUnitCount10	Coordinazione
+PCTMID_BreakCount300	A tutta breccia
+PCTMID_SmashCount50	Sei uno schianto
+PCTMID_MiniGamePlayCount100	Passatempo
+PCTMID_CreateRingCount5000	Collezionista di anelli
+PCTMID_SynthesizeRingCount500	Fusione massima
+PCTMID_GetBondRingC_Count1000	Livello C
+PCTMID_GetBondRingB_Count100	Livello B
+PCTMID_GetBondRingA_Count50	Livello A
+PCTMID_GetBondRingS_Count10	Livello S
+PCTMID_CleaningRingCount100	Pulizia impeccabile
+PCTMID_InvestmentFileneStage5	Ambasciata di Firene
+PCTMID_InvestmentBrodiaStage5	Ambasciata di Brodia
+PCTMID_InvestmentIrcionStage5	Ambasciata di Elusia
+PCTMID_InvestmentSolumStage5	Ambasciata di Solm
+PCTMID_InvestmentStage5All	Ambasciata di Elyos
+PCTMID_InvestmentTotalValue1000000	Abbiente
+PCTMID_CookingCount100	Chef
+PCTMID_CookingG_Count5	Chef incapace
+PCTMID_CookingF_Count5	Aspirante chef
+PCTMID_CookingE_Count5	Chef da bancarella
+PCTMID_CookingD_Count5	Apprendista chef
+PCTMID_CookingC_Count20	Chef normale
+PCTMID_CookingB_Count20	Chef competente
+PCTMID_CookingA_Count20	Chef popolare
+PCTMID_CookingS_Count5	Chef d'élite
+PCTMID_CookingSS_Count3	Chef della leggenda
+PCTMID_Sleep100	Dormitanto
+PCTMID_WakeUpC_People30	Svegliatardi
+PCTMID_WakeUpB_People30	Svegliabene
+PCTMID_WakeUpA_People30	Sveglialesta
+PCTMID_WakeUpS	Dolce risveglio
+PCTMID_ArenaCount100	Duellante
+PCTMID_ArenaWinCount100	Rivale imbattibile
+PCTMID_ArenaVsGodCount100	Forgialegami
+PCTMID_ArenaWinVsGodCount100	Sbaragliaemblemi
+PCTMID_BuyWeaponCount100	Armeria ambulante
+PCTMID_BuySwordCount50	Amante delle spade
+PCTMID_BuyLanceCount50	Amante delle lance
+PCTMID_BuyAxeCount50	Amante delle asce
+PCTMID_BuyBowCount50	Amante degli archi
+PCTMID_BuyKnifeCount50	Amante dei coltelli
+PCTMID_BuyMagicCount50	Amante della magia
+PCTMID_BuyFistCount50	Amante delle arti
+PCTMID_SellWeaponCount50	Amante degli acquisti
+PCTMID_BuyItemCount500	Strumentista
+PCTMID_SellItemCount50	Mercante
+PCTMID_BuyRodCount50	Amante dei bastoni
+PCTMID_BuyAccessoryCount25	Amante della moda
+PCTMID_ChangeAccessoryCount100	Cambio d'abito
+PCTMID_RefineCount100	Asso dell'affinamento
+PCTMID_RefineSwordCount50	Affina-spade
+PCTMID_RefineLanceCount50	Affina-lance
+PCTMID_RefineAxeCount50	Affina-asce
+PCTMID_RefineBowCount50	Affina-archi
+PCTMID_RefineKnifeCount50	Affina-coltelli
+PCTMID_RefineMagicCount50	Affina-tomi
+PCTMID_RefineFistCount50	Affina-arti
+PCTMID_EngraveCount100	Asso dell'incisione
+PCTMID_PlayTime240Hours	Maratoneta
+PCTMID_ClearedChapter26	Salvezza
+PCTMID_VersusCount200	Sfidante
+PCTMID_VersusWinCount100	Vittoria a distanza
+PCTMID_RelayCount200	Spirito di squadra
+PCTMID_RelayWinCount100	Leader del gruppo
+PCTMID_ChallengeMap1Rank50	Asso del prato verde
+PCTMID_ChallengeMap2Rank50	Asso del campo di fiori
+PCTMID_ChallengeMap3Rank50	Asso della cima del monte
+PCTMID_ChallengeMap4Rank50	Asso del bosco innevato
+PCTMID_ChallengeMap5Rank50	Asso delle dune di sabbia
+PCTMID_ChallengeMap6Rank50	Asso del vulcano
+PCTMID_E004_Kill_Count	Nemico del nemico
+PCCMID_Nothing	(Niente)
+PCCMID_Feeling1	impaziente
+PCCMID_Feeling2	felice
+PCCMID_Feeling3	ottimista
+PCCMID_Feeling4	affascinante
+PCCMID_Feeling5	imbelle
+PCCMID_Feeling6	esitante
+PCCMID_Feeling7	birbante
+PCCMID_Feeling8	divertente
+PCCMID_Feeling9	amabile
+PCCMID_Feeling10	festante
+PCCMID_Feeling11	vivace
+PCCMID_Feeling12	gentile
+PCCMID_Feeling13	amichevole
+PCCMID_Feeling14	cordiale
+PCCMID_Feeling15	intelligente
+PCCMID_Feeling16	geniale
+PCCMID_Feeling17	fervente
+PCCMID_Feeling18	forte
+PCCMID_Feeling19	irriducibile
+PCCMID_Feeling20	dolce
+PCCMID_Feeling21	socievole
+PCCMID_Feeling22	leale
+PCCMID_Feeling23	adorabile
+PCCMID_Feature1	atleta
+PCCMID_Feature2	arciera
+PCCMID_Feature3	arciere
+PCCMID_Feature4	campionessa
+PCCMID_Feature5	campione
+PCCMID_Feature6	attendente
+PCCMID_Feature7	maga
+PCCMID_Feature8	mago
+PCCMID_Feature9	cantante
+PCCMID_Feature10	cuoca
+PCCMID_Feature11	cuoco
+PCCMID_Feature12	ballerina
+PCCMID_Feature13	ballerino
+PCCMID_Feature14	pescatrice
+PCCMID_Feature15	pescatore
+PCCMID_Feature16	cavaliera
+PCCMID_Feature17	cavaliere
+PCCMID_Feature18	valletta
+PCCMID_Feature19	valletto
+PCCMID_Feature20	bandita
+PCCMID_Feature21	bandito
+PCCMID_Feature22	Drago Divino
+PCCMID_Feature23	guardaporta
+PCCMID_Feature24	Falchion
+PCCMID_Feature25	Breidablik
+PCCMID_Feature26	Bolganone
+PCCMID_Feature27	Thoron
+PCCMID_Feature28	Rexcalibur
+PCCMID_Adposition1	è
+PCCMID_Adposition2	sono
+PCCMID_Adposition3	per
+PCCMID_Adposition4	da
+PCCMID_Adposition5	di
+PCCMID_Adposition6	con
+PCCMID_Adposition7	&
+PCCMID_Adposition8	vs
+PCCMID_Adposition9	in
+PCCMID_Conjection1	a
+PCCMID_Conjection2	quindi
+PCCMID_Conjection3	ma
+PCCMID_Conjection4	mai
+PCCMID_Conjection5	sempre
+PCCMID_Conjection6	invece
+PCCMID_Conjection7	tutti
+PCCMID_Conjection8	o
+PCCMID_Conjection9	da
+PCCMID_Conjection10	non
+PCCMID_Conjection11	cioè
+PCCMID_Conjection12	comunque
+PCCMID_Conjection13	soprattutto
+PCCMID_Conjection14	e
+PCCMID_Conjection15	perché
+PCCMID_Conjection16	più
+PCCMID_Conjection17	>
+PCCMID_Conjection18	<
+PCCMID_Conjection19	anche
+PCCMID_Conjection20	???
+PCCMID_Conjection21	/
+PCCMID_Honorific1	☆
+PCCMID_Honorific2	=
+PCCMID_Honorific3	♪
+PCCMID_Honorific4	viva
+PCCMID_Honorific5	che
+PCCMID_Team1	emblema
+PCCMID_Team2	unione
+PCCMID_Team3	catena
+PCCMID_Team4	parata
+PCCMID_Team5	attacco
+PCCMID_Solanel	Somniel
+PCCMID_Eleos	Elyos
+PCCMID_Player	giocatore
+PCCMID_Enemy	nemico
+PCCMID_VIP	lode
+PCCMID_Training	allenamento
+PCCMID_Party	festa
+PCCMID_Others1	evocazione
+PCCMID_Others2	combattere
+PCCMID_Others3	andiamo
+PCCMID_Others4	legame
+PCCMID_Others5	forza
+PCCMID_Others6	magia
+PCCMID_Others7	abilità
+PCCMID_Position	classe
+PCCMID_BasicPosition	classe base
+PCCMID_SeniorPosition	classe avanzata
+PCCMID_SpecialPosition	classe speciale
+PCCMID_Style	tipo di unità
+MID_Map_Theme_Select	Scegli un tema per la mappa creata da te.\n(Verrà applicato alla tua carta profilo.)
+MID_ProfileCard_Theme_Unit	Unità schierate
+PCMMID_Unit1	A distanza
+PCMMID_Unit2	A contatto
+PCMMID_Unit3	Mobilitazione
+PCMMID_Unit4	Corazzati
+PCMMID_Unit5	Cavalleria
+PCMMID_Unit6	Volanti
+PCMMID_Unit7	Rinforzo
+PCMMID_Unit8	Furtivi
+PCMMID_Unit9	Adepti qi
+PCMMID_Unit10	Mistici
+MID_ProfileCard_Theme_Map	Mappa
+PCMMID_Map1	Fortezza
+PCMMID_Map2	Labirinto
+PCMMID_Map3	Schivata
+PCMMID_Map4	Cannone
+PCMMID_Map5	Giardino
+PCMMID_Map6	Orientale
+PCMMID_Map7	Assedio
+PCMMID_Map8	Tempio
+PCMMID_Map9	Semplice
+MID_ProfileCard_Theme_Object	Terreno piazzato
+PCMMID_Object1	Alpaca
+PCMMID_Object2	Spirituale
+PCMMID_Object3	Sabbia
+PCMMID_Object4	Ghiaccio
+PCMMID_Object5	Colonne
+MID_ProfileCard_Theme_Conception	Atmosfera
+PCMMID_Conception1	Dolce
+PCMMID_Conception2	Di classe
+PCMMID_Conception3	Paurosa
+PCMMID_Conception4	Tosta
+PCMMID_Conception5	Sofisticata
+PCMMID_Conception6	Piacevole
+MID_ProfileCard_Theme_Onomatopoeia	Onomatopee
+PCMMID_Onomatopoeia1	Plin
+PCMMID_Onomatopoeia2	Roll
+PCMMID_Onomatopoeia3	Brrr
+PCMMID_Onomatopoeia4	Fiù
+PCMMID_Onomatopoeia5	Boom
+MID_PS_Area_Select	Sfondo
+MID_PS_Area_Select_Help	Scegli lo sfondo per la foto.
+MID_PS_Area_List	Lista sfondi
+MID_PS_Placement_Limit	Personaggi piazzabili
+MID_PS_Spot_Title	Personaggi
+MID_PS_Spot_01	Posto 1
+MID_PS_Spot_02	Posto 2
+MID_PS_Spot_03	Posto 3
+MID_PS_Spot_Weapon	Armi
+MID_PS_Spot_Scarf	Colori della sciarpa
+MID_PS_Photo_Finish_Confirm	Vuoi tornare alla selezione dello sfondo?
+MID_PS_Save_Confirm	La foto è stata salvata e implementata nella tua\ncarta profilo. (Puoi salvare solo 1 immagine.)
+MID_PS_Hyphen01	－
+MID_PS_Hyphen05	－－－－－
+MID_PS_KEYHELP_UI_ON	Modalità foto
+MID_PS_KEYHELP_UI_OFF	Chiudi modalità foto
+MID_PS_KEYHELP_PHOTO	Scatta foto
+MID_PS_KEYHELP_RANDOM	Casuale
+MID_PS_KEYHELP_LIST	Mostra lista
+MID_PS_KEYHELP_AREA_CHANGE	Cambia posto
+MID_PS_KEYHELP_CAMERA_CHANGE	Cambia visuale
+MID_PS_KEYHELP_CAMERA_HORIZON	Visuale sx/dx
+MID_PS_KEYHELP_CAMERA_VERTICAL	Visuale su/giù
+MID_PS_KEYHELP_CAMERA	Muovi visuale
+MID_PS_KEYHELP_SAVE	Salva
+MID_PS_KEYHELP_NO_SAVE	Ricomincia
+MID_PoseType_1	1
+MID_PoseType_2	2
+MID_PoseType_3	3
+MID_PoseType_4	4
+MID_PoseType_5	5
+MID_PoseType_6	6
+MID_PoseType_7	7
+MID_PoseType_Normal	Pose base
+MID_PoseType_Battle	Pose battaglia
+MID_PoseType_Solanel	Pose Somniel
+PSPMID_Normal	Attesa 
+PSPMID_Angry	Rabbia 
+PSPMID_Deny	Rifiuto 
+PSPMID_Deny2	Distacco 
+PSPMID_Give	Regalo 
+PSPMID_Joy	Gioia 
+PSPMID_Joy2	Entusiasmo 
+PSPMID_LookR	Sguardo a destra 
+PSPMID_LookL	Sguardo a sinistra 
+PSPMID_Pray	Preghiera 
+PSPMID_Proud	Fierezza 
+PSPMID_Relax	Sollievo 
+PSPMID_Sad	Scoraggiamento 
+PSPMID_Sad2	Tristezza 
+PSPMID_Shy	Timidezza 
+PSPMID_Surprise	Sussulto 
+PSPMID_Surprise2	Sorpresa 
+PSPMID_Talk	Discussione 
+PSPMID_Talk2	Chiacchierata 
+PSPMID_Think	Riflessione 
+PSPMID_Tired	Stanchezza 
+PSPMID_Wave	Saluto 
+PSPMID_Posing	Spensieratezza 
+PSPMID_Posing2	Determinazione 
+PSPMID_Cheer1	Tifo 
+PSPMID_Cheer2	Sostegno 
+PSPMID_FishShow	Incoraggiamento 
+PSPMID_Guitar	Chitarra 
+PSPMID_Pick1	Raccolta frutta 
+PSPMID_Pick2	Controllo 
+PSPMID_Pick3	Raccolta 
+PSPMID_ScatterR	Nutre (dx) 
+PSPMID_ScatterL	Nutre (sx) 
+PSPMID_Sing	Canto 
+PSPMID_SitUp_Start	Addominali (via) 
+PSPMID_SitUp_End	Addominali (fine) 
+PSPMID_Squat_Start	Squat (via) 
+PSPMID_Squat_End	Squat (fine) 
+PSPMID_PushUp_Start	Flessioni (via) 
+PSPMID_PushUp_End	Flessioni (fine) 
+PSPMID_WateringR	Annaffiare (dx) 
+PSPMID_WateringL	Annaffiare (sx) 
+PSPMID_Splash_OneHand	Schizzo (una mano) 
+PSPMID_SplashothHands	Schizzo (due mani) 
+PSPMID_Splash	Para schizzi 
+PSPMID_StrokeStand	Spazzolatura 
+PSPMID_SitNormal	A sedere 
+PSPMID_ChairNormal	Sulla sedia 
+PSPMID_Reactionbad	Disgusto 
+PSPMID_ReactionGood	Che bontà! 
+PSPMID_ReactionGreat	Che delizia! 
+PSPMID_Battle_Sword	Posa con spada 
+PSPMID_Battle_Lance	Posa con lancia 
+PSPMID_Battle_Axe	Posa con ascia 
+PSPMID_Battle_Bow	Posa con arco 
+PSPMID_Battle_Magic	Posa con tomo 
+PSPMID_Battle_Knife	Posa con coltello 
+PSPMID_Battle_Fist	Posa con arte 
+PSPMID_Mascot_Normal	Attesa
+PSPMID_Mascot_Angry	Rabbia
+PSPMID_Mascot_Joy	Gioia
+PSPMID_Mascot_Cheer	Entusiasmo
+PSPMID_Mascot_Petted	Calma
+PSPMID_Mascot_Sad	Tristezza
+PSPMID_Mascot_GestureR	Sguardo a destra
+PSPMID_Mascot_GestureL	Sguardo a sinistra
+PSPMID_Mascot_Eat	Mangiando
+PSPMID_Mascot_Drop	Stiracchiamento
+PSPMID_Mascot_GetUp	Determinazione
+PSPMID_Mascot_Sit	A sedere
+PSPMID_Mascot_Sleep	Dormita
+PSSMID_Entrance_front1	Piazza 1
+PSSMID_Entrance_front2	Piazza 2
+PSSMID_Entrance1	Piazza 3
+PSSMID_Entrance2	Piazza 4
+PSSMID_Cafeteria_front1	Mensa 1
+PSSMID_Cafeteria_front2	Mensa 2
+PSSMID_Cafeteria1	Mensa 3
+PSSMID_Cafeteria2	Mensa 4
+PSSMID_Cafeteria3	Mensa 5
+PSSMID_WeaponShop_front	Armeria 1
+PSSMID_WeaponShop1	Armeria 2
+PSSMID_ItemShop_front	Emporio 1
+PSSMID_ItemShop1	Emporio 2
+PSSMID_RefineShop_front	Fucina 1
+PSSMID_RefineShop1	Fucina 2
+PSSMID_AccessoryShop_front	Boutique di accessori 1
+PSSMID_AccessoryShop1	Boutique di accessori 2
+PSSMID_Poolside_front	Piscina 1
+PSSMID_Poolside1	Piscina 2
+PSSMID_FleaMarket_front	Mercatino 1
+PSSMID_FleaMarket1	Mercatino 2
+PSSMID_Fortune_front	Indovino 1
+PSSMID_Fortune1	Indovino 2
+PSSMID_Orchard_front	Frutteto 1
+PSSMID_Orchard1	Frutteto 2
+PSSMID_Fountain_front	Fontana 1
+PSSMID_Fountain1	Fontana 2
+PSSMID_Corridor1	Portico 1
+PSSMID_Pond_front	Stagno 1
+PSSMID_Pond1	Stagno 2
+PSSMID_Pond2	Stagno 3
+PSSMID_TrainingSpot_front	Cortile 1
+PSSMID_TrainingSpot1	Cortile 2
+PSSMID_TrainingSpot2	Cortile 3
+PSSMID_TrainingSpot3	Cortile 4
+PSSMID_TrainingSpot4	Cortile 5
+PSSMID_Farm_front	Fattoria 1
+PSSMID_Farm1	Fattoria 2
+PSSMID_Farm2	Fattoria 3
+PSSMID_Farm3	Fattoria 4
+PSSMID_Cave_front	Grotta 1
+PSSMID_Cave1	Grotta 2
+PSSMID_GoodViewSpot_front	Belvedere 1
+PSSMID_GoodViewSpot1	Belvedere 2
+PSSMID_Tower_front	Torre delle prove 1
+PSSMID_Tower1	Torre delle prove 2
+MID_MASCOT_SCARFCOLOR_1	Pesca
+MID_MASCOT_SCARFCOLOR_2	Fragola
+MID_MASCOT_SCARFCOLOR_3	Mare
+MID_MASCOT_SCARFCOLOR_4	Arancia
+MID_MASCOT_SCARFCOLOR_5	Limone
+MID_MASCOT_SCARFCOLOR_6	Cielo
+MID_MASCOT_SCARFCOLOR_7	Menta
+MID_MASCOT_SCARFCOLOR_8	Foglia
+MID_MASCOT_SCARFCOLOR_9	Oliva
+MID_MASCOT_SCARFCOLOR_10	Uva
+MID_MASCOT_SCARFCOLOR_11	Carbone
+MID_MASCOT_SCARFCOLOR_12	Neve

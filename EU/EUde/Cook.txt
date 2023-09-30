@@ -1,0 +1,298 @@
+MID_FOOD_RESULT	\x0E\x01\x01\x00 \x0E\x01\x00\x00
+MID_FOODRANK_Superb	(erstklassig)
+MID_FOODRANK_Delicious	(köstlich)
+MID_FOODRANK_Growling	(lecker)
+MID_FOODRANK_Melt	(appetitlich)
+MID_FOODRANK_HighKing	(herrisch)
+MID_FOODRANK_HolyMother	(heilig)
+MID_FOODRANK_Courage	(beherzt)
+MID_FOODRANK_Wisdom	(weise)
+MID_FOODRANK_Chalk	(göttlich)
+MID_FOODRANK_Mens	(solide)
+MID_FOODRANK_ForBoys	(unwiderstehlich)
+MID_FOODRANK_Woman	(gewagt)
+MID_FOODRANK_ForGirls	(delikat)
+MID_FOODRANK_Adult	(geschmackvoll)
+MID_FOODRANK_Child	(modern)
+MID_FOODRANK_Your	(individuell)
+MID_FOODRANK_Discerning	(für Feinschmecker)
+MID_FOODRANK_Whimsical	(sonderbar)
+MID_FOODRANK_Rich	(vollmundig)
+MID_FOODRANK_Refreshing	(erfrischend)
+MID_FOODRANK_Sharp	(ausgewogen)
+MID_FOODRANK_Friendly	(mild)
+MID_FOODRANK_BrodiaStyle	(nach Brodia-Art)
+MID_FOODRANK_FileneStyle	(nach Firene-Art)
+MID_FOODRANK_SolumStyle	(nach Solm-Art)
+MID_FOODRANK_IrcionStyle	(nach Elusia-Art)
+MID_FOODRANK_LithosStyle	(nach Lythos-Art)
+MID_FOODRANK_Wild	(deftig)
+MID_FOODRANK_Exciting	(herzhaft)
+MID_FOODRANK_CarefullySelected	(erlesen)
+MID_FOODRANK_Fresh	(frisch)
+MID_FOODRANK_Spicy	(extrem scharf)
+MID_FOODRANK_Hot	(scharf)
+MID_FOODRANK_Bitter	(bitter)
+MID_FOODRANK_Bittersweet	(bittersüß)
+MID_FOODRANK_SuperSweet	(extrem süß)
+MID_FOODRANK_Sweet	(süß)
+MID_FOODRANK_Chewy	(knusprig)
+MID_FOODRANK_Hard	(recht zäh)
+MID_FOODRANK_Habit	(anregend)
+MID_FOODRANK_Smart	(recht seltsam)
+MID_FOODRANK_Normal	(mittelmäßig)
+MID_FOODRANK_Mistake	(so lala)
+MID_FOODRANK_Shortage	(fade)
+MID_FOODRANK_DifferentStar	(undefinierbar)
+MID_FOODRANK_DefinitelySuffer	(ungenießbar)
+MID_FOODRANK_Carbonization	(verbrannt)
+MID_FOOD_OnionSoup	Zwiebelsuppe
+MID_FOOD_H_OnionSoup	Eine einfache, aber schmackhafte\nSuppe, zubereitet aus Zwiebeln,\nWasser und Gewürzen.
+MID_FOOD_ConsommeSoup	Bohnen- und Gemüsebrühe
+MID_FOOD_H_ConsommeSoup	Eine Suppe mit geschmorter Wurst,\nBohnen und Gemüse. Ihre Basis\nvariiert je nach Koch.
+MID_FOOD_DumplingsOfMeat	Hackfleischklößchen
+MID_FOOD_H_DumplingsOfMeat	Mit Kräutern gewürztes Hackfleisch,\nGemüse und Brotkrumen, in Teig\ngehüllt und anschließend gekocht.
+MID_FOOD_PotatoSoup	Kartoffelsuppe
+MID_FOOD_H_PotatoSoup	Eine sämige, wohltuende Suppe\naus weichen Kartoffeln.
+MID_FOOD_WhiteSausage	Weißwürste
+MID_FOOD_H_WhiteSausage	Würste aus Lammfleisch und\nfrischem Speck, mit Kräutern\nverfeinert für zusätzliches Aroma.
+MID_FOOD_StewedSaltedMeat	Eintopf mit Pökelfleisch
+MID_FOOD_H_StewedSaltedMeat	Gesalzene Schweinehachse, mit\nKräutern und Gemüse für mehrere\nStunden im Topf geschmort.
+MID_FOOD_CreamCroquette	Sahnekroketten
+MID_FOOD_H_CreamCroquette	Knusprige Kroketten, gefüllt mit\neiner cremigen Soße.
+MID_FOOD_SmokedEel	Geräucherter Aal
+MID_FOOD_H_SmokedEel	Aal, der ausgenommen und am\nStück geräuchert wurde. Sogar\ndie Haut ist essbar!
+MID_FOOD_PickledPicklesHerringRoll	Eingelegte Heringsröllchen
+MID_FOOD_H_PickledPicklesHerringRoll	Eingelegte Zwiebeln und Tomaten,\numwickelt von einem Hering, der\nebenfalls in Essig eingelegt wurde.
+MID_FOOD_FriedCarp	Frittierter Karpfen
+MID_FOOD_H_FriedCarp	Ein sorgfältig ausgenommener\nKarpfen, der am Stück in heißes\nÖl getaucht wird.
+MID_FOOD_ApplePie	Apfelkuchen
+MID_FOOD_H_ApplePie	Ein frisch gebackener Kuchen, gefüllt\nmit dünnen, saftigen Apfelscheiben.
+MID_FOOD_StewedCabbage	Eingelegter Kohl
+MID_FOOD_H_StewedCabbage	Gehäckselter Kohl, der mit Salz und\nGewürzen vermischt in einem Topf\neingelegt wird.
+MID_FOOD_PotatoPancakes	Kartoffelpfannkuchen
+MID_FOOD_H_PotatoPancakes	In der Pfanne gebratener Teig aus\ngeriebenen Kartoffeln.
+MID_FOOD_SteamedDumpling	Gedämpfte Dango
+MID_FOOD_H_SteamedDumpling	Weiche Kugeln aus Brotteig, die in\neinem zugedeckten Topf mit warmer\nButter und Milch gedünstet werden.
+MID_FOOD_OnionQuiche	Zwiebel-Quiche
+MID_FOOD_H_OnionQuiche	Mit Speck sautierte Zwiebeln,\ndie mit Quiche-Teig umhüllt und\nin einem Ofen gebacken werden.
+MID_FOOD_FruitHamToast	Apfel-Käse-Toast
+MID_FOOD_H_FruitHamToast	Äpfel und Käse auf einer Scheibe\nfrisch gerösteten Brotes.
+MID_FOOD_PeachCake	Pfirsichkuchen
+MID_FOOD_H_PeachCake	Saftiger Kuchen aus Butterteig, der\ngroßzügig mit Pfirsichen garniert\nund gebacken wird.
+MID_FOOD_NutsAndHoneyCake	Karamellisierter Nusskuchen
+MID_FOOD_H_NutsAndHoneyCake	Ein Kuchen mit karamellisierten\nNüssen, in der Mitte durchzogen\nvon einer Schicht Vanillecreme.
+MID_FOOD_BoiledRedWineInBerry	Beerenpüree
+MID_FOOD_H_BoiledRedWineInBerry	Mit rotem Sirup gekochte und\neingedickte Beeren, serviert mit\neiner Portion Eiscreme.
+MID_FOOD_FriedBreadOfDonutStyle	Gefüllte Krapfen
+MID_FOOD_H_FriedBreadOfDonutStyle	Frittierter Teig in Form eines\nBrötchens, gefüllt mit verschiedenen\nMarmeladen oder Sahnecreme.
+MID_FOOD_TearingPancakes	Kaiserschmarrn
+MID_FOOD_H_TearingPancakes	Ein gebratener Pfannkuchen – in\nmundgerechten Stücken und mit\ngeschmolzener Butter serviert.
+MID_FOOD_Omlet	Omelett
+MID_FOOD_H_Omlet	Luftig geschlagene Eier, gebraten\nund gefaltet, gefüllt mit Zutaten wie\nTomaten oder Käse.
+MID_FOOD_ThickGrilledCrepePizza	Pizza-Crêpe
+MID_FOOD_H_ThickGrilledCrepePizza	Eine luftige Pizza, gebacken aus\ndickem Crêpe-Teig.
+MID_FOOD_ThickSlicedPotatoFries	Kartoffelspalten
+MID_FOOD_H_ThickSlicedPotatoFries	Dick geschnittene Kartoffeln, die\nmit verschiedenen Soßen nach Wahl\nverzehrt werden.
+MID_FOOD_LambAndCabbageStew	Kohleintopf mit Lammfleisch
+MID_FOOD_H_LambAndCabbageStew	Lammfleisch und Kohl, das beides\nso lange im selben Topf gedünstet\nwird, bis der Kohl weich ist.
+MID_FOOD_RoastWithSkinOfPorkBelly	Knuspriger Schweinebauch
+MID_FOOD_H_RoastWithSkinOfPorkBelly	Bauchfleisch vom Schwein, das\nmitsamt der Haut in einer Pfanne\nknusprig gebraten wird.
+MID_FOOD_SteamedThighMeatOfSaltedSheep	Gegarter Lammschenkel
+MID_FOOD_H_SteamedThighMeatOfSaltedSheep	Ein Lammschenkel, der zuerst in\nSalz gepökelt und anschließend mit\nDampf gegart wird.
+MID_FOOD_FruitPie	Fruchtküchlein
+MID_FOOD_H_FruitPie	Verschiedene getrocknete Früchte,\neingebacken in Kuchenteig.
+MID_FOOD_BoiledBeefInWine	Schmorbraten mit Traubenjus
+MID_FOOD_H_BoiledBeefInWine	Mit Zwiebeln sautierte Fleischstücke,\ngekocht in einer Soße aus Trauben\nund Butter.
+MID_FOOD_BraisedCod	Gewässerter Dorsch
+MID_FOOD_H_BraisedCod	Getrockneter Dorsch, in Lauge\ngewässert, gewaschen und danach\ngekocht. Weich und wabbelig.
+MID_FOOD_FishCreamSoup	Sämige Fischsuppe
+MID_FOOD_H_FishCreamSoup	Eine dicke Fischsuppe, verfeinert\nmit frischem Rahm.
+MID_FOOD_MeatDumplingWithCreamSauce	Fleischklöße in Sahnesoße
+MID_FOOD_H_MeatDumplingWithCreamSauce	Gehaltvolle Fleischklöße in kräftiger\nSahnesoße, mit einem Hauch\nMarmelade für ein fruchtiges Aroma.
+MID_FOOD_MarinatedSalmon	Marinierter Lachs
+MID_FOOD_H_MarinatedSalmon	Ein in Salz, Zucker und Kräutern\nmarinierter Lachs mit unvergleich-\nlichem Aroma!
+MID_FOOD_CrispBread	Knäckebrot
+MID_FOOD_H_CrispBread	Dünnes, knuspriges Brot, das mit\neinfachem Weizenmehl, Salz und\nWasser gebacken wird.
+MID_FOOD_PorridgeOfSourCream	Mehlsuppe mit Sauerrahm
+MID_FOOD_H_PorridgeOfSourCream	Suppe aus Sauerrahm, Weizenmehl\nund Milch, serviert mit Zucker und\nzerlassener Butter.
+MID_FOOD_CrepePancake	Crêpes
+MID_FOOD_H_CrepePancake	Eine Art dünne Pfannkuchen, die\nmit Marmelade bestrichen und als\nRöllchen serviert werden.
+MID_FOOD_JamCake	Marmeladenkuchen
+MID_FOOD_H_JamCake	Ein luftig-lockerer Schwammkuchen,\nbestrichen mit Marmelade.
+MID_FOOD_TreeCake	Baumkuchen
+MID_FOOD_H_TreeCake	Mit Baiserstückchen gefüllte Kuchen-\nringe in verschiedenen Größen, die\nkonisch aufeinander gestapelt sind.
+MID_FOOD_FishDumpling	Fischklöße
+MID_FOOD_H_FishDumpling	Ein mit weißem Fisch zubereiteter\nTeig, der in Butter gebacken wird.
+MID_FOOD_GoatCheese	Brodianische Käseecke
+MID_FOOD_H_GoatCheese	Eine Ecke aus festem Käse, der aus\nfrisch gewonnener Milch hergestellt\nwird.
+MID_FOOD_Oatmeal	Haferbrei
+MID_FOOD_H_Oatmeal	In Milch eingeweichter Hafer, der\nkurz erhitzt wird.
+MID_FOOD_BakedPotatoes	Gebackene Kartoffel
+MID_FOOD_H_BakedPotatoes	Im Ganzen gebackene Kartoffel,\ndie halbiert und mit Käse, Bohnen\nund anderen Zutaten garniert wird.
+MID_FOOD_NutsCompote	Nusskompott
+MID_FOOD_H_NutsCompote	Verschiedene Nüsse, eingekocht\nin Zuckerwasser.
+MID_FOOD_BoiledEggGroundMeatRolls	Frittierte Eier
+MID_FOOD_H_BoiledEggGroundMeatRolls	Gekochte, mit Rinderhackfleisch\numhüllte Eier, die anschließend\npaniert und frittiert werden.
+MID_FOOD_CurryOfChickenAndTomato	Tomaten-Curry mit Huhn
+MID_FOOD_H_CurryOfChickenAndTomato	Gebratenes Hühnerfleisch, das in\neiner Currysoße aus Tomaten und\nSahne gekocht wird.
+MID_FOOD_StewedSheep	Gefüllter Schafsmagen
+MID_FOOD_H_StewedSheep	Innereien vom Schaf, Zwiebeln und\nKräuter, in einen Schafsmagen\ngefüllt und anschließend gekocht.
+MID_FOOD_CrumbleCake	Streuselkuchen
+MID_FOOD_H_CrumbleCake	Ein Teig aus Mehl, Butter und\nZucker, in den gekochtes Mischobst\neingebacken wird.
+MID_FOOD_MarinatedOnionAndHerring	Eingelegte Heringe
+MID_FOOD_H_MarinatedOnionAndHerring	In Essig, Zucker und Zwiebeln\neingelegte Heringe.
+MID_FOOD_BakedPie	Fleischpastete
+MID_FOOD_H_BakedPie	Hackfleisch, Zwiebeln, Kartoffeln\nund weitere Zutaten, gebacken in\nPastetenteig.
+MID_FOOD_NutsMilkPie	Milchkuchen mit Nüssen
+MID_FOOD_H_NutsMilkPie	Leicht gebackener Teig, gefüllt mit\neiner Schicht zerkleinerter Nüsse\nund Sirup.
+MID_FOOD_NutsRicePudding	Reispudding mit Nüssen
+MID_FOOD_H_NutsRicePudding	In einer sirupähnlichen Mischung\naus zerkleinerten Nüssen und Milch\ngekochter Reis.
+MID_FOOD_DomeBread	Panettone
+MID_FOOD_H_DomeBread	Süßes Brot in Form einer Kuppel,\nmit eingebackenen Stückchen von\nkandierten Früchten.
+MID_FOOD_ColdVegetableSoup	Kalte Gemüsesuppe
+MID_FOOD_H_ColdVegetableSoup	Eine Mischung aus verschiedenen\nGemüsesorten, Äpfeln und weiteren\nZutaten, vermengt zu einer Suppe.
+MID_FOOD_RawHam	Luftgetrockneter Schinken
+MID_FOOD_H_RawHam	Dünne, an der Luft getrocknete\nSchinkenscheiben feinster Qualität.
+MID_FOOD_SkeweredMeat	Grillspieße
+MID_FOOD_H_SkeweredMeat	Verschiedene Fleischsorten, in Öl\nund Gewürzen mariniert und auf\nSpießen gegrillt.
+MID_FOOD_Paella	Meeresfrüchtepfanne
+MID_FOOD_H_Paella	In einer großen Pfanne gekochte\nMischung aus Reis, Gemüse und\ndiversen Meeresfrüchten.
+MID_FOOD_StewedBaconAndBeans	Fleischklöpse mit Bohnen
+MID_FOOD_H_StewedBaconAndBeans	Fleischklöpse, die mit Bohnen,\nZwiebeln und weiteren Zutaten im\nTopf geschmort werden.
+MID_FOOD_Tiramisu	Tiramisu
+MID_FOOD_H_Tiramisu	Verschiedene Schichten aus kaffee-\ndurchtränkten Biskuits und einer\nspeziellen Creme. Wird kalt serviert.
+MID_FOOD_BerrySaucePannaCotta	Sahnepudding mit Beerenjus
+MID_FOOD_H_BerrySaucePannaCotta	Warme Sahne mit Zucker, Gelatine\nund Vanille, in eine Form gegossen\nund mit einer Beerensoße garniert.
+MID_FOOD_SeafoodAjillo	Meeresfrüchte mit Knoblauch
+MID_FOOD_H_SeafoodAjillo	Verschiedene Meeresfrüchte,\ngebraten in Olivenöl und Knoblauch.
+MID_FOOD_FriedSardines	Frittierte Sardinen
+MID_FOOD_H_FriedSardines	Kleine Sardinen, die im Ganzen in\nOlivenöl frittiert werden.
+MID_FOOD_FriedVegetables	Gebratenes Gemüse
+MID_FOOD_H_FriedVegetables	Gemischtes Gemüse, das mit\nKnoblauch in der Pfanne scharf\nangebraten wird.
+MID_FOOD_BoiledTomatoesInVinegar	Tomaten in süßem Essig
+MID_FOOD_H_BoiledTomatoesInVinegar	Tomaten, gekocht in süßem Essig,\nZwiebeln, Gewürzen und weiteren\nZutaten.
+MID_FOOD_CremeBrulee	Crème Brûlée
+MID_FOOD_H_CremeBrulee	Gestockte Vanillecreme mit einer\ndünnen Schicht aus Zucker, welche\nmit einer Flamme karamellisiert wird.
+MID_FOOD_Churro	Churros
+MID_FOOD_H_Churro	Ein Teig, der durch eine sternförmige\nTülle gepresst, in Öl frittiert und mit\nZucker oder Honig serviert wird.
+MID_FOOD_SoftCandy	Nussriegel
+MID_FOOD_H_SoftCandy	Eine Leckerei aus diversen Nüssen,\nmit Zucker oder Baiser vermengt und\nzu dünnen Riegeln geformt.
+MID_FOOD_AuthenticPizza	Traditionelle Pizza
+MID_FOOD_H_AuthenticPizza	Dünn gewalzter Teig, garniert mit\nTomatensoße, Käse und Basilikum.
+MID_FOOD_Risotto	Risotto
+MID_FOOD_H_Risotto	In Butter angebratener Reis, der\nanschließend mit verschiedenen\nGewürzen gekocht wird.
+MID_FOOD_RiceCroquette	Frittierte Reisbällchen
+MID_FOOD_H_RiceCroquette	Eine Masse aus gekochtem Reis,\nrohen Eiern, Käse, Salz und Pfeffer,\ndie paniert und dann frittiert wird.
+MID_FOOD_RosettaBread	Rosenbrötchen
+MID_FOOD_H_RosettaBread	Kleine Brötchen, die in Form von\nRosen gebacken werden. Innen hohl,\naußen knusprig und wohlriechend.
+MID_FOOD_AcquaPazza	Pochierter Fisch
+MID_FOOD_H_AcquaPazza	Ein Fisch, der mit Tomaten, Olivenöl\nund anderen Zutaten pochiert wird.
+MID_FOOD_VealRoll	Kalbsröllchen
+MID_FOOD_H_VealRoll	Dünn geschnittene Scheiben vom\nKalb, gerollt und gefüllt mit Käse,\nSoßen und weiteren Zutaten.
+MID_FOOD_SaltedPorkNeck	Gesalzenes Schweinefleisch
+MID_FOOD_H_SaltedPorkNeck	Dünne, gesalzene Schweinebauch-\nscheiben, mit Kräutern eingerieben\nund am Spieß gebraten.
+MID_FOOD_BloodBoiledSausage	Blutwürste
+MID_FOOD_H_BloodBoiledSausage	Aus Tierblut hergestellte Würste,\ndie gekocht werden.
+MID_FOOD_PotatoMeatBun	Kartoffelklößchen mit Fleisch
+MID_FOOD_H_PotatoMeatBun	Schweinefleisch und Zwiebeln,\nin einen Teig aus Kartoffeln gehüllt\nund anschließend gebacken.
+MID_FOOD_Cocotte	Kartoffel-Fisch-Auflauf
+MID_FOOD_H_Cocotte	Kartoffeln, Fisch und andere Zutaten,\nzusammen mit Rahm in einem Topf\nmit zwei Griffen im Ofen gebacken.
+MID_FOOD_GreenPeasMash	Erbsenpüree
+MID_FOOD_H_GreenPeasMash	Gestampfte grüne Erbsen,\nvermengt mit Milch oder Butter.
+MID_FOOD_SandwichCake	Herzhafte Brottorte
+MID_FOOD_H_SandwichCake	Ein Sandwich, das wie eine Torte\naussieht, garniert mit filetiertem\nFisch in Blumenform.
+MID_FOOD_RoastedSalmon	Gegrillter Lachs
+MID_FOOD_H_RoastedSalmon	Gewürzter Lachs, der im Ofen\ngegrillt wird.
+MID_FOOD_StewedMashedPotatoesAndKale	Kräuter-Kartoffelbrei
+MID_FOOD_H_StewedMashedPotatoesAndKale	Gestampfte Kartoffeln, gekocht mit\nKräutern und Milch.
+MID_FOOD_SalmonAndPotatoGratin	Kartoffel-Lachs-Gratin
+MID_FOOD_H_SalmonAndPotatoGratin	Gesalzener Lachs mit Kartoffeln,\ngeschichtet und mit einem Eier-\nMilch-Gemisch im Ofen überbacken.
+MID_FOOD_ShamrockSalad	Kleeblattsalat
+MID_FOOD_H_ShamrockSalad	Frischer Klee, der mit Olivenöl oder\nEssig angemacht wird.
+MID_FOOD_BaconAndFishWrappedBread	Fisch-Speck-Auflauf
+MID_FOOD_H_BaconAndFishWrappedBread	Mehrere Schichten aus Speck und\nFisch, gesalzen und in einem Teig\naus Roggen im Ofen gebacken.
+MID_FOOD_JamCookies	Ochsenaugen
+MID_FOOD_H_JamCookies	Im Ofen gebackene Kekse mit einem\nKlecks Marmelade in der Mitte.
+MID_FOOD_CinnamonRoll	Zimtrolle
+MID_FOOD_H_CinnamonRoll	Ein dünn gewalzter Teig, mit Butter,\nZimt und Zucker bestrichen, gerollt\nund dann im Ofen gebacken.
+MID_FOOD_CabbageAndNutSalad	Kohlsalat mit Nüssen
+MID_FOOD_H_CabbageAndNutSalad	Frischer Kohl und verschiedene\nNüsse, kurz vor dem Servieren\nmit etwas Salatsoße angerichtet.
+MID_FOOD_OpenSandwich	Belegte Brote
+MID_FOOD_H_OpenSandwich	Mit Butter bestrichene Scheiben\nRoggenbrot, großzügig belegt mit\nKäse, Räucherlachs und vielem mehr.
+MID_FOOD_AppleCharlotte	Apfel-Flan-Kuchen
+MID_FOOD_H_AppleCharlotte	Äpfel, die in der Pfanne scharf\nangebraten und danach in Butterteig\neingebacken werden. Kalt serviert.
+MID_FOOD_MochiPancake	Luftige Pfannkuchen
+MID_FOOD_H_MochiPancake	Ein Rührteig aus Eiern, Mehl und\nMilch, der in einer Pfanne\nbehutsam gebraten wird.
+MID_FOOD_SauteedBaconAndApples	Sautierte Äpfel mit Speck
+MID_FOOD_H_SauteedBaconAndApples	Geschnittener Schweinebauch, der\nfrittiert und mit kurz in der Pfanne\nangebratenen Äpfeln serviert wird.
+MID_FOOD_BerryJelly	Beerengelee
+MID_FOOD_H_BerryJelly	Mit Kartoffelstärke eingedickter\nBeerensaft, der nach dem Abkühlen\nmit Schlagsahne serviert wird.
+MID_FOOD_BakingSodaBread	Natronbrot
+MID_FOOD_H_BakingSodaBread	Brot, das anstatt mit Hefe mit\nNatron gebacken wird.
+MID_FOOD_SashimiPlatter	Sashimi Moriawase
+MID_FOOD_H_SashimiPlatter	Dünn geschnittene Scheiben\nverschiedener Fischarten.
+MID_FOOD_MisoSoup	Miso-Suppe
+MID_FOOD_H_MisoSoup	Fermentiertes Bohnen- oder Weizen-\ngemisch, in heißes Wasser gerührt\nund mit Tofu oder Seegras serviert.
+MID_FOOD_Uiro	Uiro
+MID_FOOD_H_Uiro	Gezuckerte rechteckige Stücke aus\nWeizen- oder Kuchenmehl, die durch\nGaren ihre feste Konsistenz erhalten.
+MID_FOOD_Anmitsu	Anmitsu
+MID_FOOD_H_Anmitsu	Adzukibohnen, Agar-Agar, Pfirsiche\nund Orangen, garniert mit einem\nSirup aus braunem Zucker.
+MID_FOOD_EggOverRice	Reis mit Ei
+MID_FOOD_H_EggOverRice	Eine Schüssel gekochter Reis,\ngarniert mit einem pochierten\nEi und Sojasoße.
+MID_FOOD_CountrysideBread	Bauernbrot
+MID_FOOD_H_CountrysideBread	Ein runder Laib Brot, der nur\naus Roggenmehl, Salz und Wasser\nhergestellt wird.
+MID_FOOD_Croissant	Croissant
+MID_FOOD_H_Croissant	Brot, das aus mehreren gefalteten\nSchichten Teig und Butter besteht\nund sichelförmig gebacken wird.
+MID_FOOD_StewedLambMeat	Lammeintopf
+MID_FOOD_H_StewedLambMeat	In der Pfanne angebratenes\nLammfleisch, das mit Kartoffeln\nund Zwiebeln geschmort wird.
+MID_FOOD_StewedVegetables	Herzhafter Gemüseeintopf
+MID_FOOD_H_StewedVegetables	Eine deftige Suppe, die sich durch\nihre reichhaltige Auswahl an Gemüse\nauszeichnet.
+MID_FOOD_CodDip	Dorsch-Creme
+MID_FOOD_H_CodDip	Dorsch und Kartoffeln, in Milch\ngekocht und zu einer Paste verrührt.\nWird als Brotaufstrich serviert.
+MID_FOOD_HotCrepe	Heiße Crêpes
+MID_FOOD_H_HotCrepe	Crêpes, frisch und heiß aus der\nPfanne serviert und für besonderes\nAroma mit Orangensaft übergossen.
+MID_FOOD_BerryAndCustardTartCake	Cremetörtchen mit Beeren
+MID_FOOD_H_BerryAndCustardTartCake	Zwischen Schichten aus Kuchenteig\ngebettete Füllung aus Vanillecreme\nund Beerenmarmelade.
+MID_FOOD_PeachSorbet	Pfirsichsorbet
+MID_FOOD_H_PeachSorbet	Frischer Pfirsichsaft, der während\ndes Gefrierens mehrfach umgerührt\nund dann gelöffelt wird.
+MID_FOOD_AppleBeignet	Apfelküchlein
+MID_FOOD_H_AppleBeignet	In Brandteig getauchte Äpfel, die\nanschließend in Öl frittiert und mit\nZucker bestreut gereicht werden.
+MID_FOOD_OrangeChocolate	Schokolierte Orangen
+MID_FOOD_H_OrangeChocolate	Mit Zucker getränkte Orangen, die\ngebacken und nach dem Abkühlen\nmit Schokolade überzogen werden.
+MID_FOOD_FruitCandy	Kandierte Früchte
+MID_FOOD_H_FruitCandy	Obst, das mit Zucker oder Sirup\nüberzogen und am Spieß verzehrt\nwird. Leckerere Zwischenmahlzeit.
+MID_FOOD_Smoothie	Fruchtsmoothie
+MID_FOOD_H_Smoothie	Ein dickflüssiges Getränk, das aus\nverschiedenen Früchten besteht, die\nfein püriert werden.
+MID_FOOD_AppleCanpot	Apfelkompott
+MID_FOOD_H_AppleCanpot	Süßspeise, die aus in Wasser und\nZucker gekochten Äpfeln gefertigt\nwird. Heiß oder kalt genießbar.
+MID_FOOD_OrangeMarmalade	Orangenmarmelade
+MID_FOOD_H_OrangeMarmalade	Ein Brotaufstrich, hergestellt aus\nOrangen, die mit Schale in Zucker\nund Wasser gekocht werden.
+MID_FOOD_VegetableStick	Gemüsestäbchen
+MID_FOOD_H_VegetableStick	Verschiedenes Gemüse, das in kleine\nStäbchen geschnitten wird, um es in\nGewürze oder Soßen zu tunken.
+MID_FOOD_ChiliSalad	Chili-Salat
+MID_FOOD_H_ChiliSalad	Ein Salat, garniert mit Chilisoße\naus verschiedenen Gewürzsorten.
+MID_FOOD_ChiliFruitStick	Fruchtstäbchen mit Chili
+MID_FOOD_H_ChiliFruitStick	Verschiedene Sorten Obst, klein-\ngeschnitten, aufgespießt und mit\neinem scharfen Pulver bestreut.
+MID_FOOD_ChiliIceCream	Chili-Pfirsichsorbet
+MID_FOOD_H_ChiliIceCream	Pfirsichsorbet, garniert mit einer\nwürzigen Chilisoße.
+MID_FOOD_RedPepperPickles	Eingelegte Chilischoten
+MID_FOOD_H_RedPepperPickles	Chilischoten, die am Stück in Essig\neingelegt wurden.
+MID_FOOD_TomYumSoupWithChicken	Tom-Yum-Suppe mit Huhn
+MID_FOOD_H_TomYumSoupWithChicken	Verschiedene Gewürze, gekocht in\neiner Hühnerbrühe. Besticht durch\nkomplexen Duft und saure Schärfe.
+MID_FOOD_BoiledChiliWithCheese	Chili-Käse-Eintopf
+MID_FOOD_H_BoiledChiliWithCheese	Chilischoten und Käse, in Wasser\ngekocht und anschließend um\nTomaten und Knoblauch ergänzt.
+MID_FOOD_RedMaboTofu	Rotes Mapo-Tofu
+MID_FOOD_H_RedMaboTofu	Hackfleisch und Tofu, mit Gewürzen\nund Chilischoten in der Pfanne\nangebraten. Vorsicht, extrem scharf!
+MID_FOOD_FriedPorkKimchi	Schweinepfanne mit Kimchi
+MID_FOOD_H_FriedPorkKimchi	Gebratener Schweinebauch mit\nGemüse, das zuvor in Gewürzen\nwie Chilischoten eingelegt wurde.
+MID_FOODRANK_COND_ComeFromBrodia	brodianisch
+MID_FOODRANK_COND_ComeFromFilene	firenisch
+MID_FOODRANK_COND_ComeFromSolum	solmisch
+MID_FOODRANK_COND_ComeFromIrcion	elusianisch
+MID_FOODRANK_COND_ComeFromLithos	lythosisch
+MID_FOODRANK_COND_IsMale	männlich
+MID_FOODRANK_COND_IsFemale	weiblich
+MID_FOODRANK_COND_IsAdult	älter
+MID_FOODRANK_COND_IsChild	jünger
+MID_FOODRANK_COND_IsLueur	\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin

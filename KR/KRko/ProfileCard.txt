@@ -1,0 +1,555 @@
+MID_CARD_KEYHELP_TURN_OVER	앞뒤 반전
+MID_CARD_KEYHELP_EDIT	편집
+MID_CARD_KEYHELP_CARD_LIST	카드 리스트
+MID_CARD_KEYHELP_STAMP_LIST	스탬프 리스트
+MID_CARD_KEYHELP_STAMP_SWITCHING	편집 모드 전환
+MID_CARD_KEYHELP_DELETE	삭제
+MID_CARD_KEYHELP_END	종료
+MID_ProfileCard	신룡 전적 카드
+MID_ProfileCard_MyCard	마이 카드
+MID_ProfileCard_MyCard_Description	카드 내용을 편집하거나\n디자인 변경·꾸미기를 할 수 있습니다
+MID_ProfileCard_Notes_Terms	The Community Guidelines apply to shared\ncontent and can be found on Nintendo's website.\nPlease be considerate to your fellow players.
+MID_ProfileCard_Album	이계의 전적 카드
+MID_ProfileCard_Album_Help	받은 카드의 확인 및 삭제
+MID_ProfileCard_Album_Description	｢시련의 별채｣에서 받은\n친구의 전적 카드를 확인하거나\n리스트를 정리할 수 있습니다
+MID_ProfileCard_Photo	풍경 인화
+MID_ProfileCard_Photo_Description	솔라넬 내에서\n좋아하는 동료와 장소를 선택하여\n전적 카드용 사진을\n인화(촬영)할 수 있습니다
+MID_ProfileCard_Photo_Warning	풍경 인화는 솔라넬 야외에서만 할 수 있습니다
+MID_ProfileCard_Setting	공개 설정
+MID_ProfileCard_Setting_Description	마이 카드의 공개 설정을 바꿀 수 있습니다
+MID_ProfileCard_Setting_Warning_Public	현재 공개 설정: 공개
+MID_ProfileCard_Setting_Warning_Private	현재 공개 설정: 비공개
+MID_ProfileCard_Setting_Confirm	마이 카드의 공개 설정을 선택해 주십시오\n(설정은 언제든 변경할 수 있으며\n 이미 교환한 카드에 영향은 없습니다)
+MID_ProfileCard_Setting_Public	공개로 설정하기
+MID_ProfileCard_Setting_Private	비공개로 설정하기
+MID_ProfileCard_ShowStamp	스탬프 표시 설정
+MID_ProfileCard_ShowStamp_Description	이계의 전적 카드의 스탬프 표시 설정을\n변경할 수 있습니다
+MID_ProfileCard_ShowStamp_Warning_Show	현재의 표시 설정: 표시
+MID_ProfileCard_ShowStamp_Warning_Hide	현재의 표시 설정: 비표시
+MID_ProfileCard_ShowStamp_Confirm	스탬프 표시 설정을 선택해 주십시오\n(설정은 언제든 변경할 수 있습니다)
+MID_ProfileCard_ShowStamp_Show	표시로 설정하기
+MID_ProfileCard_ShowStamp_Hide	비표시로 설정하기
+MID_ProfileCard_Settings_Cannot_Change	Parental Controls에 의해 제한되어 있기 때문에\n설정을 변경할 수 없습니다
+MID_ProfileCard_Card_PlayerInfo	플레이어 정보
+MID_ProfileCard_Card_TolalPlayTime	총 플레이 시간
+MID_ProfileCard_Card_Birthday	생일
+MID_ProfileCard_Card_Difficulty	난이도
+MID_ProfileCard_Card_GameMode	모드
+MID_ProfileCard_Card_FaivoriteCharacter	좋아하는 캐릭터
+MID_ProfileCard_Card_Relay	계전의 시련
+MID_ProfileCard_Card_FavoriteMap	좋아하는 맵
+MID_ProfileCard_Card_PlayingCount	플레이 횟수
+MID_ProfileCard_Card_Versus	이계의 시련
+MID_ProfileCard_Card_ThemeOfEditMap	편집 맵의 테마
+MID_ProfileCard_Card_VersusRate	본격 대전의 등급
+MID_ProfileCard_Card_SortieCount	유닛 출격 횟수
+MID_ProfileCard_Card_AchievementCount	실적 달성 수
+MID_ProfileCard_MyCard_Help	카드 내용의 확인 및 편집
+MID_ProfileCard_Edit	카드 편집
+MID_ProfileCard_Edit_Help	편집할 항목을 선택해 주십시오
+MID_ProfileCard_Edit_Title	칭호
+MID_ProfileCard_Edit_Title_Help	칭호를 선택해 주십시오
+MID_ProfileCard_Edit_Title_Caption	칭호 목록
+MID_ProfileCard_Edit_Comment	한마디 코멘트
+MID_ProfileCard_Edit_Comment_Help	단어를 3개 선택해 주십시오
+MID_ProfileCard_Edit_Comment_Caption	한마디 코멘트 작성
+MID_ProfileCard_Edit_FavoriteCharacter	좋아하는 캐릭터
+MID_ProfileCard_Edit_FavoriteCharacter_Help	캐릭터를 선택해 주십시오
+MID_ProfileCard_Edit_FavoriteCharacter_Caption	캐릭터 목록
+MID_ProfileCard_Edit_FavoriteRelayMap	좋아하는 맵
+MID_ProfileCard_Edit_FavoriteRelayMap_Help	맵을 선택해 주십시오
+MID_ProfileCard_Edit_FavoriteRelayMap_Caption	맵 목록
+MID_ProfileCard_Edit_Bg	카드 배경
+MID_ProfileCard_Edit_Bg_Help	디자인을 선택해 주십시오
+MID_ProfileCard_Edit_Bg_Caption	카드 배경 목록
+MID_ProfileCard_Edit_Frame	카드 프레임
+MID_ProfileCard_Edit_Frame_Help	디자인을 선택해 주십시오
+MID_ProfileCard_Edit_Frame_Caption	카드 프레임 목록
+MID_ProfileCard_Edit_TextDeco	문자 장식
+MID_ProfileCard_Edit_TextDeco_Help	디자인을 선택해 주십시오
+MID_ProfileCard_Edit_TextDeco_Caption	문자 장식 목록
+MID_ProfileCard_Edit_TextColor	문자 색상
+MID_ProfileCard_Edit_TextColor_Help	문자 색상을 선택해 주십시오
+MID_ProfileCard_Edit_TextColor_Caption	문자 색상 목록
+MID_ProfileCard_Edit_CharecterStamp	페이스 패널
+MID_ProfileCard_Edit_CharecterStamp_Help	패널을 선택해 주십시오
+MID_ProfileCard_Edit_CharecterStamp_Caption	페이스 패널 목록
+MID_ProfileCard_Edit_Stamp	스탬프
+MID_ProfileCard_Edit_Stamp_Help	카드 꾸미기
+MID_ProfileCard_Edit_Stamp_Count	스탬프 수
+MID_ProfileCard_Edit_Stamp_ConfirmToClear	찍은 스탬프를 모두 삭제하겠습니까?\n(이 조작은 되돌릴 수 없습니다)
+MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes	모두 삭제하기
+MID_ProfileCard_Edit_Stamp_ConfirmToClose	스탬프 편집을 종료하겠습니까?
+MID_ProfileCard_Edit_Stamp_SaveAndClose	저장하고 종료한다
+MID_ProfileCard_Edit_Stamp_NoSaveAndClose	저장하지 않고 종료한다
+MID_ProfileCard_Edit_Stamp_ContinueToEdit	편집을 계속한다
+MID_ProfileCard_Album_ConfirmToDelete	｢\x0E\x01\x00\x00｣의 전적 카드를 삭제하겠습니까?
+MID_ProfileCard_Album_Delete	삭제하기
+MID_ProfileCard_Possession	소지 수
+MID_ProfileCard_Language_Attention	언어가 변경되었으므로\n｢한마디 코멘트｣를 리셋했습니다
+MID_ProfileCard_Net_Save_Confirm_Match	대전 상대의 전적 카드를 저장하겠습니까?
+MID_ProfileCard_Net_Save_Confirm_Relay	함께 싸운 플레이어의 전적 카드를 저장하겠습니까?
+MID_ProfileCard_Net_Save_Done	전적 카드를 저장했습니다
+MID_ProfileCard_Net_Overlimit_Title	전적 카드 삭제
+MID_ProfileCard_Net_Overlimit_Title_Help	삭제할 전적 카드를 선택해 주십시오
+MID_ProfileCard_Net_Overlimit_Incomplete	소지 가능한 전적 카드 수의 상한을 초과했습니다\n소지 수 상한을 초과하지 않도록 카드를 삭제해 주십시오
+MID_ProfileCard_Comment_CharacterFeeling	성격/감정
+MID_ProfileCard_Comment_FeaturePosition	특징/역할
+MID_ProfileCard_Comment_AdpositionConjection	접속사/존칭/기호
+MID_ProfileCard_Comment_Tearms	전문 용어/의음
+MID_ProfileCard_Comment_ClassStyle	병과/전투 스타일
+MID_ProfileCard_Comment_PersonName	캐릭터명
+MID_STAMP_KEYHELP_TITLE	스탬프 조작
+MID_STAMP_KEYHELP_PUT_A_STAMP	찍기
+MID_STAMP_KEYHELP_LR_REVERSE	좌우 반전
+MID_STAMP_KEYHELP_ROTATE_SCALE	회전·줌
+MID_STAMP_KEYHELP_ROTATE_SCALE_RESET	회전·줌 리셋
+MID_STAMP_KEYHELP_HIGH_SPEED	고속 이동
+MID_STAMP_KEYHELP_ERASE_ALL	모두 삭제
+MID_STAMP_KEYHELP_TWEAK	미세 조정
+MID_ProfileCard_Stamp_Unit	유닛
+MID_ProfileCard_Stamp_GodUnit	문장사
+MID_ProfileCard_Stamp_Weapon	무기
+MID_ProfileCard_Stamp_GodWeapon	인게이지 무기
+MID_ProfileCard_Stamp_RodAndItem	지팡이·아이템
+MID_ProfileCard_Stamp_System	시스템
+MID_ProfileCard_Stamp_Others	기타
+PCTMID_FireEmblem	파이어 엠블렘
+PCTMID_ShadowDragon	Shadow Dragon & the Blade of Light
+PCTMID_NewShadowDragon	Shadow Dragon
+PCTMID_MysteryOfTheEmblem	Mystery of the Emblem
+PCTMID_NewMysteryOfTheEmblem	New Mystery of the Emblem
+PCTMID_SideStory	Gaiden
+PCTMID_GenealogyOfTheHolyWar	Genealogy of the Holy War
+PCTMID_Thracia776	Thracia 776
+PCTMID_TheBindingBlade	The Binding Blade
+PCTMID_TheBlazingBlade	The Blazing Blade
+PCTMID_TheSacredStones	The Sacred Stones
+PCTMID_PathOfRadiance	Path of Radiance
+PCTMID_RadiantDawn	Radiant Dawn
+PCTMID_Awakening	Awakening
+PCTMID_Fates	if
+PCTMID_Birthright	백야 왕국
+PCTMID_Conquest	암야 왕국
+PCTMID_Echoes	Echoes
+PCTMID_ThreeHouses	풍화설월
+PCTMID_Heroes	Heroes
+PCTMID_Marth	아리티아를 위해!
+PCTMID_Celica	미라 님의 가호를
+PCTMID_Siglud	검을 거둬라!
+PCTMID_Leaf	무슨 일이든!
+PCTMID_Roy	나는 지지 않아!
+PCTMID_Lin	내 마음은 지금도 초원에 있어…
+PCTMID_Eirik	오라버니!
+PCTMID_Ike	왜 내 앞을 막았나!
+PCTMID_Micaiah	물러설 수 없는 이유가 있어!
+PCTMID_Lucina	운명을 바꾸겠습니다!
+PCTMID_Kamui	저는 선택했어요!
+PCTMID_Byleth	그 몸으로 배워라!
+PCTMID_Lueur	신룡과 함께!
+PCTMID_RelianceC_WithAllUnit	지원 C
+PCTMID_RelianceB_WithAllUnit	지원 B
+PCTMID_RelianceA_WithAllUnit	지원 A
+PCTMID_RelianceRing	지원 Ring
+PCTMID_SortieWithAllUnitCount5	총출격
+PCTMID_EncountBattleCount45	청소부
+PCTMID_BattleCount5000	전투광
+PCTMID_DefeatSoldierCount500	일반병
+PCTMID_DefeatMorphCount500	이형병
+PCTMID_DefeatBanditsCount500	야만족
+PCTMID_CaneCount500	지팡이 숙련자
+PCTMID_CriticalCount300	전문가
+PCTMID_EngageCount300	인게이지!
+PCTMID_EngageAttackCount300	인게이지 어택!
+PCTMID_AvoidanceCount500	피하겠습니다!
+PCTMID_ChainGuardCount300	지키겠습니다!
+PCTMID_ChainAttackCount300	돕겠습니다!
+PCTMID_ChainUnitCount10	일제 공격!
+PCTMID_BreakCount300	브레이크!
+PCTMID_SmashCount50	스매시!
+PCTMID_MiniGamePlayCount100	잠시 휴식
+PCTMID_CreateRingCount5000	반지 컬렉터
+PCTMID_SynthesizeRingCount500	합성 마니아
+PCTMID_GetBondRingC_Count1000	C 랭크
+PCTMID_GetBondRingB_Count100	B 랭크
+PCTMID_GetBondRingA_Count50	A 랭크
+PCTMID_GetBondRingS_Count10	S 랭크
+PCTMID_CleaningRingCount100	깔끔한 것을 좋아하는
+PCTMID_InvestmentFileneStage5	피레네 친선 대사
+PCTMID_InvestmentBrodiaStage5	브로디아 친선 대사
+PCTMID_InvestmentIrcionStage5	이르시온 친선 대사
+PCTMID_InvestmentSolumStage5	솔룸 친선 대사
+PCTMID_InvestmentStage5All	엘레오스 친선 대사
+PCTMID_InvestmentTotalValue1000000	자산가
+PCTMID_CookingCount100	요리사
+PCTMID_CookingG_Count5	실수투성이 요리사
+PCTMID_CookingF_Count5	과학 요리사
+PCTMID_CookingE_Count5	별미 요리사
+PCTMID_CookingD_Count5	수습 요리사
+PCTMID_CookingC_Count20	보조 요리사
+PCTMID_CookingB_Count20	평범한 요리사
+PCTMID_CookingA_Count20	인기 요리사
+PCTMID_CookingS_Count5	최고의 요리사
+PCTMID_CookingSS_Count3	전설의 요리사
+PCTMID_Sleep100	이불 속을 좋아하는
+PCTMID_WakeUpC_People30	잠꾸러기
+PCTMID_WakeUpB_People30	잘 일어나는
+PCTMID_WakeUpA_People30	알람이 필요한
+PCTMID_WakeUpS	아름답게 일어나는
+PCTMID_ArenaCount100	단련하기 좋아하는
+PCTMID_ArenaWinCount100	진검 승부
+PCTMID_ArenaVsGodCount100	인연 장인
+PCTMID_ArenaWinVsGodCount100	문장사
+PCTMID_BuyWeaponCount100	준비 완료
+PCTMID_BuySwordCount50	검의 달인
+PCTMID_BuyLanceCount50	창의 달인
+PCTMID_BuyAxeCount50	도끼의 달인
+PCTMID_BuyBowCount50	활의 달인
+PCTMID_BuyKnifeCount50	단검의 달인
+PCTMID_BuyMagicCount50	마법의 달인
+PCTMID_BuyFistCount50	체술의 달인
+PCTMID_SellWeaponCount50	알뜰한 소비자
+PCTMID_BuyItemCount500	근심이 많은
+PCTMID_SellItemCount50	장사꾼
+PCTMID_BuyRodCount50	지팡이의 달인
+PCTMID_BuyAccessoryCount25	꾸미기를 좋아하는
+PCTMID_ChangeAccessoryCount100	옷 갈아입히기 인형
+PCTMID_RefineCount100	연성사
+PCTMID_RefineSwordCount50	검 연성사
+PCTMID_RefineLanceCount50	창 연성사
+PCTMID_RefineAxeCount50	도끼 연성사
+PCTMID_RefineBowCount50	활 연성사
+PCTMID_RefineKnifeCount50	단검 연성사
+PCTMID_RefineMagicCount50	마법 연성사
+PCTMID_RefineFistCount50	체술 연성사
+PCTMID_EngraveCount100	조각사
+PCTMID_PlayTime240Hours	FIRE EMBLEM ENGAGE
+PCTMID_ClearedChapter26	구세주
+PCTMID_VersusCount200	도전자
+PCTMID_VersusWinCount100	챔피언
+PCTMID_RelayCount200	팀메이트
+PCTMID_RelayWinCount100	팀 리더
+PCTMID_ChallengeMap1Rank50	초원의 달인
+PCTMID_ChallengeMap2Rank50	화원의 달인
+PCTMID_ChallengeMap3Rank50	산맥의 달인
+PCTMID_ChallengeMap4Rank50	설림의 달인
+PCTMID_ChallengeMap5Rank50	사막의 달인
+PCTMID_ChallengeMap6Rank50	용암의 달인
+PCTMID_E004_Kill_Count	싸우면 혼내 주는
+PCCMID_Nothing	공란
+PCCMID_Feeling1	홀가분한
+PCCMID_Feeling2	무사태평한
+PCCMID_Feeling3	낙관적인
+PCCMID_Feeling4	매력적인
+PCCMID_Feeling5	겁 많은
+PCCMID_Feeling6	수줍은
+PCCMID_Feeling7	짓궂은
+PCCMID_Feeling8	귀여운
+PCCMID_Feeling9	아름다운
+PCCMID_Feeling10	예쁜
+PCCMID_Feeling11	근사한
+PCCMID_Feeling12	상냥한
+PCCMID_Feeling13	따스한
+PCCMID_Feeling14	감칠맛 나는
+PCCMID_Feeling15	능숙한
+PCCMID_Feeling16	사랑하는
+PCCMID_Feeling17	연모하는
+PCCMID_Feeling18	선호하는
+PCCMID_Feeling19	좋아하는
+PCCMID_Feeling20	소중한
+PCCMID_Feeling21	사교적인
+PCCMID_Feeling22	헌신적인
+PCCMID_Feeling23	고귀한
+PCCMID_Feature1	최강의
+PCCMID_Feature2	무적의
+PCCMID_Feature3	제일의
+PCCMID_Feature4	유일한
+PCCMID_Feature5	근육질의
+PCCMID_Feature6	잘생긴
+PCCMID_Feature7	가냘픈
+PCCMID_Feature8	연약한
+PCCMID_Feature9	화사한
+PCCMID_Feature10	요리사
+PCCMID_Feature11	낚시꾼
+PCCMID_Feature12	무용수
+PCCMID_Feature13	암살자
+PCCMID_Feature14	신룡
+PCCMID_Feature15	왕자
+PCCMID_Feature16	왕녀
+PCCMID_Feature17	어머니
+PCCMID_Feature18	아버지
+PCCMID_Feature19	도련님
+PCCMID_Feature20	아가씨
+PCCMID_Feature21	남동생
+PCCMID_Feature22	여동생
+PCCMID_Feature23	형제
+PCCMID_Feature24	자매
+PCCMID_Feature25	남매
+PCCMID_Feature26	가족
+PCCMID_Feature27	딸
+PCCMID_Feature28	아들
+PCCMID_Adposition1	&
+PCCMID_Adposition2	VS
+PCCMID_Adposition3	그래서
+PCCMID_Adposition4	하지만
+PCCMID_Adposition5	그러나
+PCCMID_Adposition6	그런데
+PCCMID_Adposition7	그렇지만
+PCCMID_Adposition8	반대로
+PCCMID_Adposition9	한편
+PCCMID_Conjection1	혹은
+PCCMID_Conjection2	다만
+PCCMID_Conjection3	사실은
+PCCMID_Conjection4	즉
+PCCMID_Conjection5	아무튼
+PCCMID_Conjection6	특히
+PCCMID_Conjection7	겸
+PCCMID_Conjection8	왜냐하면
+PCCMID_Conjection9	심지어
+PCCMID_Conjection10	게다가
+PCCMID_Conjection11	또한
+PCCMID_Conjection12	그리고
+PCCMID_Conjection13	+
+PCCMID_Conjection14	/
+PCCMID_Conjection15	×
+PCCMID_Conjection16	군
+PCCMID_Conjection17	양
+PCCMID_Conjection18	씨
+PCCMID_Conjection19	님
+PCCMID_Conjection20	공
+PCCMID_Conjection21	나리
+PCCMID_Honorific1	☆
+PCCMID_Honorific2	♪
+PCCMID_Honorific3	<
+PCCMID_Honorific4	>
+PCCMID_Honorific5	:
+PCCMID_Team1	엠블렘!
+PCCMID_Team2	인게이지!
+PCCMID_Team3	체인
+PCCMID_Team4	가드
+PCCMID_Team5	어택
+PCCMID_Solanel	솔라넬
+PCCMID_Eleos	엘레오스
+PCCMID_Player	플레이어
+PCCMID_Enemy	에너미
+PCCMID_VIP	VIP
+PCCMID_Training	단련
+PCCMID_Party	연회
+PCCMID_Others1	인조이!
+PCCMID_Others2	즐기자!
+PCCMID_Others3	간다!
+PCCMID_Others4	울끈불끈
+PCCMID_Others5	반짝반짝
+PCCMID_Others6	두근두근
+PCCMID_Others7	번쩍번쩍
+PCCMID_Position	병과
+PCCMID_BasicPosition	기본 병과
+PCCMID_SeniorPosition	상급 병과
+PCCMID_SpecialPosition	특수 병과
+PCCMID_Style	스타일
+MID_Map_Theme_Select	작성한 편집 맵의 테마를 선택해 주십시오\n(선택한 테마는 신룡 전적 카드에 반영됩니다)
+MID_ProfileCard_Theme_Unit	배치 유닛
+PCMMID_Unit1	원거리
+PCMMID_Unit2	근거리
+PCMMID_Unit3	총동원
+PCMMID_Unit4	중갑
+PCMMID_Unit5	기마
+PCMMID_Unit6	비행
+PCMMID_Unit7	연계
+PCMMID_Unit8	은밀
+PCMMID_Unit9	기공
+PCMMID_Unit10	마도
+MID_ProfileCard_Theme_Map	맵
+PCMMID_Map1	성채
+PCMMID_Map2	미로
+PCMMID_Map3	회피
+PCMMID_Map4	포대
+PCMMID_Map5	정원
+PCMMID_Map6	이국풍
+PCMMID_Map7	농성
+PCMMID_Map8	신전
+PCMMID_Map9	심플
+MID_ProfileCard_Theme_Object	배치 지형
+PCMMID_Object1	알파카
+PCMMID_Object2	수호신
+PCMMID_Object3	모래밭
+PCMMID_Object4	얼음
+PCMMID_Object5	기둥
+MID_ProfileCard_Theme_Conception	분위기
+PCMMID_Conception1	귀여운
+PCMMID_Conception2	세련된
+PCMMID_Conception3	무서운
+PCMMID_Conception4	멋있는
+PCMMID_Conception5	아기자기한
+PCMMID_Conception6	예쁜
+MID_ProfileCard_Theme_Onomatopoeia	의태어
+PCMMID_Onomatopoeia1	반짝반짝
+PCMMID_Onomatopoeia2	빙글빙글
+PCMMID_Onomatopoeia3	울퉁불퉁
+PCMMID_Onomatopoeia4	쓱쓱
+PCMMID_Onomatopoeia5	뒤죽박죽
+MID_PS_Area_Select	구역 선택
+MID_PS_Area_Select_Help	인화할 장소를 선택해 주십시오
+MID_PS_Area_List	구역 목록
+MID_PS_Placement_Limit	배치 가능한 동료 수
+MID_PS_Spot_Title	배치할 동료
+MID_PS_Spot_01	스폿 1
+MID_PS_Spot_02	스폿 2
+MID_PS_Spot_03	스폿 3
+MID_PS_Spot_Weapon	무기 목록
+MID_PS_Spot_Scarf	스카프 색상 목록
+MID_PS_Photo_Finish_Confirm	구역 선택으로 돌아가겠습니까?
+MID_PS_Save_Confirm	인화한 사진을 저장하고 전적 카드에 반영했습니다\n(사진은 1장만 저장할 수 있습니다)
+MID_PS_Hyphen01	-
+MID_PS_Hyphen05	-----
+MID_PS_KEYHELP_UI_ON	인화 모드
+MID_PS_KEYHELP_UI_OFF	인화 모드 해제
+MID_PS_KEYHELP_PHOTO	인화 실행
+MID_PS_KEYHELP_RANDOM	랜덤 선택
+MID_PS_KEYHELP_LIST	리스트 표시
+MID_PS_KEYHELP_AREA_CHANGE	스폿 변경
+MID_PS_KEYHELP_CAMERA_CHANGE	카메라 시점 전환
+MID_PS_KEYHELP_CAMERA_HORIZON	카메라 좌우 이동
+MID_PS_KEYHELP_CAMERA_VERTICAL	카메라 상하 이동
+MID_PS_KEYHELP_CAMERA	카메라 조작
+MID_PS_KEYHELP_SAVE	저장
+MID_PS_KEYHELP_NO_SAVE	재인화
+MID_PoseType_1	1
+MID_PoseType_2	2
+MID_PoseType_3	3
+MID_PoseType_4	4
+MID_PoseType_5	5
+MID_PoseType_6	6
+MID_PoseType_7	7
+MID_PoseType_Normal	기본 포즈
+MID_PoseType_Battle	전투 포즈
+MID_PoseType_Solanel	거점 포즈
+PSPMID_Normal	기다리기 
+PSPMID_Angry	화내기 
+PSPMID_Deny	부정하기 
+PSPMID_Deny2	고개 젓기 
+PSPMID_Give	건네기 
+PSPMID_Joy	기뻐하기 
+PSPMID_Joy2	까불기 
+PSPMID_LookR	둘러보기(오른쪽) 
+PSPMID_LookL	둘러보기(왼쪽) 
+PSPMID_Pray	기도하기 
+PSPMID_Proud	자랑하기 
+PSPMID_Relax	안도하기 
+PSPMID_Sad	낙담하기 
+PSPMID_Sad2	슬퍼하기 
+PSPMID_Shy	쑥스러워하기 
+PSPMID_Surprise	경악하기 
+PSPMID_Surprise2	놀라기 
+PSPMID_Talk	말하기 
+PSPMID_Talk2	수다 떨기 
+PSPMID_Think	생각하기 
+PSPMID_Tired	피곤해하기 
+PSPMID_Wave	손 흔들기 
+PSPMID_Posing	가벼운 포즈 
+PSPMID_Posing2	마무리 포즈 
+PSPMID_Cheer1	성원 보내기 
+PSPMID_Cheer2	응원하기 
+PSPMID_FishShow	북돋기 
+PSPMID_Guitar	기타 흉내 내기 
+PSPMID_Pick1	따기 
+PSPMID_Pick2	확인하기 
+PSPMID_Pick3	수확하기 
+PSPMID_ScatterR	먹이 주기(오른쪽) 
+PSPMID_ScatterL	먹이 주기(왼쪽) 
+PSPMID_Sing	노래하기 
+PSPMID_SitUp_Start	복근 트레이닝(시작) 
+PSPMID_SitUp_End	복근 트레이닝(끝) 
+PSPMID_Squat_Start	스쿼트(시작) 
+PSPMID_Squat_End	스쿼트(끝) 
+PSPMID_PushUp_Start	팔 굽혀 펴기(시작) 
+PSPMID_PushUp_End	팔 굽혀 펴기(끝) 
+PSPMID_WateringR	물 주기(오른쪽) 
+PSPMID_WateringL	물 주기(왼쪽) 
+PSPMID_Splash_OneHand	물 끼얹기(한 손) 
+PSPMID_SplashothHands	물 끼얹기(두 손) 
+PSPMID_Splash	물 맞기 
+PSPMID_StrokeStand	브러싱 
+PSPMID_SitNormal	앉기 
+PSPMID_ChairNormal	의자에 앉기 
+PSPMID_Reactionbad	맛없어하기 
+PSPMID_ReactionGood	맛있어하기 
+PSPMID_ReactionGreat	정말 맛있어하기 
+PSPMID_Battle_Sword	전투 포즈(검) 
+PSPMID_Battle_Lance	전투 포즈(창) 
+PSPMID_Battle_Axe	전투 포즈(도끼) 
+PSPMID_Battle_Bow	전투 포즈(활) 
+PSPMID_Battle_Magic	전투 포즈(마도서) 
+PSPMID_Battle_Knife	전투 포즈(단검) 
+PSPMID_Battle_Fist	전투 포즈(체술) 
+PSPMID_Mascot_Normal	기다리기
+PSPMID_Mascot_Angry	화내기
+PSPMID_Mascot_Joy	기뻐하기
+PSPMID_Mascot_Cheer	까불기
+PSPMID_Mascot_Petted	진정하기
+PSPMID_Mascot_Sad	슬퍼하기
+PSPMID_Mascot_GestureR	둘러보기(오른쪽)
+PSPMID_Mascot_GestureL	둘러보기(왼쪽)
+PSPMID_Mascot_Eat	먹기
+PSPMID_Mascot_Drop	뻗기
+PSPMID_Mascot_GetUp	마무리 포즈
+PSPMID_Mascot_Sit	앉기
+PSPMID_Mascot_Sleep	잠자기
+PSSMID_Entrance_front1	엔트런스(정면 1)
+PSSMID_Entrance_front2	엔트런스(정면 2)
+PSSMID_Entrance1	엔트런스(상황 1)
+PSSMID_Entrance2	엔트런스(상황 2)
+PSSMID_Cafeteria_front1	카페테라스(정면 1)
+PSSMID_Cafeteria_front2	카페테라스(정면 2)
+PSSMID_Cafeteria1	카페테라스(상황 1)
+PSSMID_Cafeteria2	카페테라스(상황 2)
+PSSMID_Cafeteria3	카페테라스(상황 3)
+PSSMID_WeaponShop_front	무기점(정면 1)
+PSSMID_WeaponShop1	무기점(상황 1)
+PSSMID_ItemShop_front	도구점(정면 1)
+PSSMID_ItemShop1	도구점(상황 1)
+PSSMID_RefineShop_front	연성점(정면 1)
+PSSMID_RefineShop1	연성점(상황 1)
+PSSMID_AccessoryShop_front	액세서리점(정면 1)
+PSSMID_AccessoryShop1	액세서리점(상황 1)
+PSSMID_Poolside_front	풀사이드(정면 1)
+PSSMID_Poolside1	풀사이드(상황 1)
+PSSMID_FleaMarket_front	벼룩시장(정면 1)
+PSSMID_FleaMarket1	벼룩시장(상황 1)
+PSSMID_Fortune_front	점쟁이 오두막(정면 1)
+PSSMID_Fortune1	점쟁이 오두막(상황 1)
+PSSMID_Orchard_front	과수원(정면 1)
+PSSMID_Orchard1	과수원(상황 1)
+PSSMID_Fountain_front	분수(정면 1)
+PSSMID_Fountain1	분수(상황 1)
+PSSMID_Corridor1	회랑(상황 1)
+PSSMID_Pond_front	용수의 연못(정면 1)
+PSSMID_Pond1	용수의 연못(상황 1)
+PSSMID_Pond2	용수의 연못(상황 2)
+PSSMID_TrainingSpot_front	뒤뜰(정면 1)
+PSSMID_TrainingSpot1	뒤뜰(상황 1)
+PSSMID_TrainingSpot2	뒤뜰(상황 2)
+PSSMID_TrainingSpot3	뒤뜰(상황 3)
+PSSMID_TrainingSpot4	뒤뜰(상황 4)
+PSSMID_Farm_front	목장(정면 1)
+PSSMID_Farm1	목장(상황 1)
+PSSMID_Farm2	목장(상황 2)
+PSSMID_Farm3	목장(상황 3)
+PSSMID_Cave_front	종유굴(정면 1)
+PSSMID_Cave1	종유굴(상황 1)
+PSSMID_GoodViewSpot_front	전망대(정면 1)
+PSSMID_GoodViewSpot1	전망대(상황 1)
+PSSMID_Tower_front	시련의 별채(정면 1)
+PSSMID_Tower1	시련의 별채(상황 1)
+MID_MASCOT_SCARFCOLOR_1	복숭아
+MID_MASCOT_SCARFCOLOR_2	딸기
+MID_MASCOT_SCARFCOLOR_3	바다
+MID_MASCOT_SCARFCOLOR_4	오렌지
+MID_MASCOT_SCARFCOLOR_5	레몬
+MID_MASCOT_SCARFCOLOR_6	하늘
+MID_MASCOT_SCARFCOLOR_7	민트
+MID_MASCOT_SCARFCOLOR_8	나뭇잎
+MID_MASCOT_SCARFCOLOR_9	올리브
+MID_MASCOT_SCARFCOLOR_10	포도
+MID_MASCOT_SCARFCOLOR_11	차콜
+MID_MASCOT_SCARFCOLOR_12	떡

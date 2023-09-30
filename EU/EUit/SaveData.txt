@@ -1,0 +1,49 @@
+MID_SAVEDATA_CONFIRM_CLEARDATA	Vuoi salvare i dati di completamento?\n(La tua armata tornerà allo stato precedente\nl'inizio della battaglia del capitolo 26, ma la\nbattaglia risulterà superata.)
+MID_SAVEDATA_CONFIRM_WRITING	Vuoi salvare i tuoi progressi?
+MID_SAVEDATA_CONFIRM_SKIP_WRITING	Vuoi procedere senza salvare?
+MID_SAVEDATA_CONFIRM_SKIP_YES	Procedi
+MID_SAVEDATA_CONFIRM_SUSPEND	Vuoi salvare e tornare allo schermo del titolo?
+MID_SAVEDATA_CONFIRM_SUSPEND_LOAD	Se chiudi il gioco dopo aver caricato questi\ndati di salvataggio senza creare un nuovo\nsegnalibro, la partita riprenderà dall'inizio\ndella battaglia.
+MID_SAVEDATA_CONFIRM_SUSPEND_COPY	Non puoi copiare il segnalibro.
+MID_SAVEDATA_CONFIRM_COPY	Vuoi copiare i dati di salvataggio?
+MID_SAVEDATA_CONFIRM_COPY_YES	Copia
+MID_SAVEDATA_CONFIRM_DELETE	Vuoi eliminare i dati di salvataggio?
+MID_SAVEDATA_CONFIRM_DELETE_YES	Elimina
+MID_SAVEDATA_READING	Caricamento dati di salvataggio in corso...\nNon spegnere la console.
+MID_SAVEDATA_WRITING	Salvataggio in corso...\nNon spegnere la console.
+MID_SAVEDATA_COPYING	Copia dei dati di salvataggio in corso...\nNon spegnere la console.
+MID_SAVEDATA_DELETING	Eliminazione dati di salvataggio in corso...\nNon spegnere la console.
+MID_SAVEDATA_LOAD_FAILED	Impossibile caricare i dati di salvataggio.
+MID_SAVEDATA_VERSION_ERROR	Impossibile caricare i dati di salvataggio,\npoiché relativi a una versione differente.\nÈ necessario aggiornare il software.
+MID_SAVEDATA_SAVE_FAILED	Impossibile salvare i progressi.
+MID_SAVEDATA_COPY_FAILED	Impossibile copiare i dati di salvataggio.
+MID_SAVEDATA_DELETE_FAILED	Impossibile eliminare i dati di salvataggio.
+MID_SAVEDATA_OLD_VERSION	Impossibile caricare i dati di salvataggio.\nChiudi il software e riavvialo oppure visita\nil Nintendo eShop per scaricare l'aggiornamento\npiù recente.
+MID_SAVEDATA_NO_DATA	Non ci sono dati di salvataggio.
+MID_SAVEDATA_TYPE_AUTO	Salvataggio automatico
+MID_SAVEDATA_TYPE_MANUAL	Slot \x0E\x01\x00\x00
+MID_SAVEDATA_SEQ_SORTIE	Pre-battaglia
+MID_SAVEDATA_SEQ_BMAP	Battaglia
+MID_SAVEDATA_SEQ_BMAP_AFTER	Post-battaglia
+MID_SAVEDATA_SEQ_SORTIE_ENCOUNT	Pre-scaramuccia
+MID_SAVEDATA_SEQ_BMAP_ENCOUNT	Scaramuccia
+MID_SAVEDATA_SEQ_ENCOUNT_AFTER	Post-scaramuccia
+MID_SAVEDATA_SEQ_SORTIE_TRAINING	Pre-esercitazione
+MID_SAVEDATA_SEQ_BMAP_TRAINING	Esercitazione
+MID_SAVEDATA_SEQ_TRAINING_AFTER	Post-esercitazione
+MID_SAVEDATA_SEQ_KIZUNA	Esplorazione
+MID_SAVEDATA_SEQ_HUB	Somniel
+MID_SAVEDATA_SEQ_GMAP	Mappa del mondo
+MID_SAVEDATA_LOAD_YES	Carica
+MID_SAVEDATA_LOAD_HELP	Seleziona uno slot.
+MID_SAVEDATA_SAVE_TITLE	Salva
+MID_SAVEDATA_SAVE_HELP	Seleziona uno slot.
+MID_SAVEDATA_SAVE_YES	Salva
+MID_SAVEDATA_SUSPEND_TITLE	Segnalibro
+MID_SAVEDATA_SUSPEND_HELP	Seleziona uno slot.
+MID_SAVEDATA_SUSPEND_YES	Crea il segnalibro
+MID_SAVEDATA_COPY_TITLE	Copia
+MID_SAVEDATA_COPY_SRC_HELP	Seleziona uno slot da copiare.
+MID_SAVEDATA_COPY_DST_HELP	Seleziona uno slot di destinazione.
+MID_SAVEDATA_DELETE_TITLE	Elimina
+MID_SAVEDATA_DELETE_HELP	Seleziona uno slot.

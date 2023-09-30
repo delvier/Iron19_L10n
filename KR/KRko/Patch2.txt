@@ -1,0 +1,266 @@
+MID_H_INFO_WLV_Bullet	포탄
+MID_MSG_LOST_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를 잃어버렸다
+MID_DLC_News_Patch2_Title	Ver. 1.3.0 업데이트 내용
+MID_DLC_News_Patch2	【익스팬션 패스】\n\n·문장사 크롬/러플레, 문장사 베로니카가 추가되었습니다\n 각자에게 대응되는 추가 맵을 클리어하면 동료가 됩니다\n\n【무료 업데이트】\n\n·거점의 ｢신비한 우물｣에 기능이 추가되었습니다\n 필요 없는 아이템을 다른 아이템으로 교환할 수 있습니다\n\n·｢단련의 방｣에서도 ｢스킬 계승｣을 할 수 있게 되었습니다
+MCID_G003_PREFIX	신룡의 장
+MCID_G003	어린 황녀
+MCID_G003_PLACE	영웅들의 성역
+MCID_G003_OUTLINE	신비한 비석이 있고 하늘에 떠 있는 섬에서\n새로운 팔찌가 발견됐다는 소식을 들었다
+MCID_G006_PREFIX	신룡의 장
+MCID_G006	성왕
+MCID_G006_PLACE	운명과 인연의 제단
+MCID_G006_OUTLINE	장엄한 분위기가 감도는 신전 내부에서\n새로운 팔찌가 발견됐다는 소식을 들었다
+MID_RULE_G003_WIN	문장사 베로니카에게 승리
+MID_RULE_G006_WIN	문장사 크롬, 문장사 러플레에게 승리
+MTID_StartupTile	기동판
+MTID_MagicWall	마법 장벽
+MTID_Pond	연못
+MPID_PhantomWolf	만들어진 자
+MPID_H_PhantomWolf	비술로 만들어진 영혼 없는 짐승.\n자아는 없으며 주인의 명령에 따라 움직인다.
+MPID_Veronica	베로니카
+MPID_H_Veronica	통칭 『영웅의 문장사』.\n이계의 영웅들을 조종하는 힘을 지닌 황녀.
+MPID_Chrom	크롬
+MPID_H_Chrom	통칭 『인연의 문장사』.\n동료를 믿고 운명을 바꾸는 성스러운 왕자.
+MPID_Reflet	러플레
+MPID_H_Reflet	통칭 『인연의 문장사』.\n크롬을 보좌하는 기억을 잃은 천재 참모.
+MGID_Veronica	베로니카
+MGID_H_Veronica	통칭 『영웅의 문장사』.\n이계의 영웅들을 조종하는 힘을 지닌 황녀.\n마도도 뛰어나 마법과 지팡이로 직접 싸운다.
+MGID_H_EnemyVeronica	『어린 황녀의 팔찌』에서 깨어난 문장사.
+MGID_Chrom	크롬
+MGID_H_Chrom	통칭 『인연의 문장사』.\n동료를 믿고 운명을 바꾸는 성스러운 왕자.\n강한 검술과 인연의 힘으로 적을 쓰러뜨린다.
+MGID_H_EnemyChrom	『성왕의 팔찌』에서 깨어난 문장사.
+MGID_Reflet	러플레
+MGEID_Veronica	영웅의 문장
+MGEID_Chrom	인연의 문장
+MJID_MageCannon	메이지 캐넌
+MJID_H_MageCannon	포탄을 발사하는 철포를 지닌 중갑 보병.\n이동 포대처럼 원거리에서 다채롭게 공격한다.
+MJID_PhantomWolf	환영늑대
+MJID_H_PhantomWolf	땅을 기어 다니는 늑대의 권속.\n적을 농락하며 저주의 송곳니를 박아 넣는다.
+MIID_Trahison	트라이종
+MIID_H_Trahison	이세계의 분위기를 내뿜는 전투 창.
+MIID_Levanche	르방슈
+MIID_H_Levanche	이세계의 분위기를 내뿜는 전투 도끼.
+MIID_Chocolate	비터 블레이드
+MIID_H_Chocolate	달콤한 향기가 감도는 검.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_SoftCream	트위스터
+MIID_H_SoftCream	달콤한 향기가 감도는 창.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Lollipop	롤리폭스
+MIID_H_Lollipop	달콤한 향기가 감도는 도끼.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Croissant	아크루아상
+MIID_H_Croissant	달콤한 향기가 감도는 활.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Tiramisu	티라미스톰
+MIID_H_Tiramisu	달콤한 향기가 감도는 공격 마법.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Dango	경단 형제
+MIID_H_Dango	달콤한 향기가 감도는 단검.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Cupcake	티타임
+MIID_H_Cupcake	달콤한 향기가 감도는 마법의 지팡이.\n아군의 HP를 회복시킨다.
+MIID_Rollcake	원기 체술
+MIID_H_Rollcake	달콤한 향기가 감도는 격투 지침서.\n아이템으로 사용하면 없어지지만\n자신의 HP를 회복한다.
+MIID_Bullet_Power	노멀 셸
+MIID_H_Bullet_Power	표준적인 포탄.\n추격 불가/상대가 멀수록 명중 감소.
+MIID_Bullet_Magic	매직 셸
+MIID_H_Bullet_Magic	마력을 휘감은 포탄.\n추격 불가/상대가 멀수록 명중 감소.
+MIID_Bullet_Freeze	프리즈 셸
+MIID_H_Bullet_Freeze	적을 구속하는 힘을 지닌 마법 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n명중 시 50% 확률로\n상대를 프리즈 상태로 만든다.
+MIID_Bullet_Silence	사일런스 셸
+MIID_H_Bullet_Silence	마법 봉인의 힘을 지닌 마법 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n명중 시 50% 확률로\n상대를 사일런스 상태로 만든다.
+MIID_Bullet_Collapse	브레이크 셸
+MIID_H_Bullet_Collapse	신비한 힘을 지닌 마법 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n명중 시 50% 확률로\n상대를 브레이크시킨다.
+MIID_Bullet_Poison	베놈 셸
+MIID_H_Bullet_Poison	맹독이 담긴 마법 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n명중 시 상대를 극독 상태로 만든다.
+MIID_Bullet_Slayer_Fly	토네이도 셸
+MIID_H_Bullet_Slayer_Fly	비행하는 적을 상대로 특화된 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n비행 특효.
+MIID_Bullet_Slayer_Armor	크래시 셸
+MIID_H_Bullet_Slayer_Armor	중갑인 적을 상대로 특화된 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n중갑 특효.
+MIID_Bullet_Slayer_Horse	헤비 셸
+MIID_H_Bullet_Slayer_Horse	기마인 적을 상대로 특화된 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n기마 특효.
+MIID_Bullet_Slayer_Dragon	버스터 셸
+MIID_H_Bullet_Slayer_Dragon	용을 공격하는 데 특화된 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n용 특효.
+MIID_Bullet_Slayer_Morph	피스 셸
+MIID_H_Bullet_Slayer_Morph	이형인 적을 상대로 특화된 포탄.\n추격 불가/상대가 멀수록 명중 감소.\n이형 특효.
+MIID_Bullet_Power+	솔리드 셸
+MIID_H_Bullet_Power+	위력이 강력한 포탄.\n추격 불가/상대가 멀수록 명중 감소.
+MIID_Bullet_Magic+	부스트 셸
+MIID_H_Bullet_Magic+	강력한 마력이 깃든 포탄.\n추격 불가/상대가 멀수록 명중 감소.
+MIID_Bullet_Penetration	피어싱 셸
+MIID_H_Bullet_Penetration	관통력이 뛰어난 포탄.\n추격 불가/공격력 고정/방어력 무시.\n상대가 멀수록 명중 감소.
+MIID_Fang	송곳니
+MIID_H_Fang	저주에 걸린 날카로운 송곳니.\n직접 공격이 명중했을 때,\n전투 후 상대의 최대 HP-5.\n(효과 중복 가능, 최대-20)
+MIID_Veronica_Hlidskjalf	흘리드스캴프
+MIID_H_Veronica_Hlidskjalf	문장사 베로니카가 지닌 공격 마법의 지팡이.\n직접 공격 시, 상대에게 반격당하지 않는다.
+MIID_Veronica_WholeHeal	리저브+
+MIID_H_Veronica_WholeHeal	문장사 베로니카가 지닌 마법의 지팡이.\n주위 7칸 범위 아군 모두의\nHP와 상태 이상을 회복시킨다.
+MIID_Veronica_Elivagar	엘리바가르
+MIID_H_Veronica_Elivagar	문장사 베로니카가 지닌 강대한 마법.\n전투 후 1턴 동안\n상대의 모든 기본 능력 강화를 무효화한다.
+MIID_Veronica_EngageAtk_R	적색 소환석
+MIID_Veronica_EngageAtk_B	청색 소환석
+MIID_Veronica_EngageAtk_G	녹색 소환석
+MIID_Veronica_EngageAtk_N	무색 소환석
+MIID_Chrom_ThunderSword	선더 소드
+MIID_H_Chrom_ThunderSword	문장사 러플레가 지닌 마법검.\n마법의 번개를 통해 떨어진 적도 공격 가능.
+MIID_Chrom_Thoron	트론
+MIID_H_Chrom_Thoron	문장사 러플레가 지닌 강력한 번개 마법.
+MIID_Chrom_Falchion	신검 팔시온
+MIID_H_Chrom_Falchion	문장사 크롬이 지닌 전설의 검.\n용 특효.
+MSID_SPConvert	SP 컨버트
+MSID_H_SPConvert	격파 시 획득 SP+20.\n(반지, 팔찌를 장비하지 않았어도 발동한다)
+MSID_BloodyRevenge	피의 복수
+MSID_H_BloodyRevenge	HP가 최대치가 아닐 경우\n감소량의 30%만큼을 공격력에 추가한다.
+MSID_BloodyRevenge+	피의 복수+
+MSID_H_BloodyRevenge+	HP가 최대치가 아닐 경우\n감소량의 50%만큼을 공격력에 추가한다.
+MSID_BreakThroughLimit	한계 돌파
+MSID_H_BreakThroughLimit	자신보다 레벨이 높은 유닛을 격파했을 때\n맵 종료 시점까지 레벨이 1 상승한다.\n(최대 레벨+3까지)
+MSID_AnotherWorldsPower	이계의 힘
+MSID_H_AnotherWorldsPower	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 ｢이계의 힘｣이 1단계 강화된다.\n(최대 5단계, 강화 후에 효과를 발동하면\n ｢이계의 힘｣으로 되돌아온다)
+MSID_AnotherWorldsPower+1	이계의 힘<폐>
+MSID_H_AnotherWorldsPower+1	직접 공격 시\n전투 후에 상대를 프리즈 상태로 만든다.
+MSID_AnotherWorldsPower+2	이계의 힘<염>
+MSID_H_AnotherWorldsPower+2	직접 공격 시\n전투 후에 상대를 프리즈 상태로 만들고\n상대가 있던 칸을 화염 상태로 만든다.
+MSID_AnotherWorldsPower+3	이계의 힘<사>
+MSID_H_AnotherWorldsPower+3	직접 공격 시 전투 후에 상대에게\n10 대미지를 입히고 프리즈 상태로 만든 다음\n상대가 있던 칸을 화염 상태로 만든다.
+MSID_AnotherWorldsPower+4	이계의 힘<몽>
+MSID_H_AnotherWorldsPower+4	직접 공격 시 입힌 대미지만큼\n자신의 HP를 회복하고 전투 후에\n상대에게 10 대미지를 입히며\n프리즈 상태로 만든 다음\n상대가 있던 칸을 화염 상태로 만든다.
+MSID_AnotherWorldsPower+5	이계의 힘<과>
+MSID_H_AnotherWorldsPower+5	직접 공격 시 입힌 대미지만큼\n자신 및 자신과 인접한 아군의 HP를 회복하고\n전투 후에 상대에게 10 대미지를 입히며\n프리즈 상태로 만든 다음\n상대가 있던 칸을 화염 상태로 만든다.
+MSID_VeronicaEngage	계약
+MSID_H_VeronicaEngage	행동을 마친 인접한 아군을 재행동시키는\n｢계약｣ 커맨드 사용 가능.\n(재행동 시 이동은 불가)
+MSID_H_VeronicaEngage_CMD	아군을 재행동시킨다(이동은 불가)
+MSID_H_VeronicaEngage_Dragon	행동을 마친 인접한 아군을 재행동시키는\n｢계약｣ 커맨드 사용 가능.\n(재행동 시 이동은 불가)\n[용족]재행동하는 동안\n아군의 힘·마력·수비·마방+2.
+MSID_H_VeronicaEngage_Coop	행동을 마친 인접한 아군을 재행동시키는\n｢계약｣ 커맨드 사용 가능.\n(재행동 시 이동은 불가)\n[연계]사용자가 재행동하는 아군의\n체인 어택에 반드시 참가한다.
+MSID_H_VeronicaEngage_Covert	행동을 마친 인접한 아군을 재행동시키는\n｢계약｣ 커맨드 사용 가능.\n(재행동 시 이동은 불가)\n[은밀]재행동하는 동안\n아군의 명중·회피+30.
+MSID_VeronicaEngageAtk	영웅 소환
+MSID_H_VeronicaEngageAtk	유닛을 랜덤하게 소환할 수 있다.
+MSID_H_VeronicaEngageAtk_CMD	유닛을 랜덤하게 소환한다
+MSID_VeronicaEngageAtk_CMD_R	\x0E\x08\x02\x12\x10RedStone적색 소환석
+MSID_H_VeronicaEngageAtk_CMD_R	검을 다루는 유닛을 소환한다
+MSID_VeronicaEngageAtk_CMD_B	\x0E\x08\x02\x14\x12BlueStone청색 소환석
+MSID_H_VeronicaEngageAtk_CMD_B	창을 다루는 유닛을 소환한다
+MSID_VeronicaEngageAtk_CMD_G	\x0E\x08\x02\x16\x14GreenStone녹색 소환석
+MSID_H_VeronicaEngageAtk_CMD_G	도끼를 다루는 유닛을 소환한다
+MSID_VeronicaEngageAtk_CMD_W	\x0E\x08\x02\x16\x14WhiteStone무색 소환석
+MSID_H_VeronicaEngageAtk_CMD_W	검, 창, 도끼 외의 다른 장비를\n다루는 유닛을 소환한다
+MSID_H_VeronicaEngageAtk_Dragon	유닛을 랜덤하게 소환할 수 있다.\n[용족]강력한 유닛이 소환된다.
+MSID_H_VeronicaEngageAtk_Coop	유닛을 랜덤하게 소환할 수 있다.\n[연계]소환된 유닛이 스킬\n｢듀얼 어택｣을 지니게 된다.
+MSID_H_VeronicaEngageAtk_Horse	유닛을 랜덤하게 소환할 수 있다.\n[기마]소환한 유닛의 이동+1.
+MSID_ByForce	전력투구
+MSID_H_ByForce	물리 공격을 했을 때\n필살의 일격으로 입히는 대미지가\n평소보다 증가한다.
+MSID_Charisma	카리스마
+MSID_H_Charisma	자신의 공격으로 체인 어택이 발생했을 때\n체인 어택의 명중률이 상승한다.
+MSID_SuckerPunch	기습
+MSID_H_SuckerPunch	회피 지형에서 공격했을 때\n반격당하지 않는다.
+MSID_RainbowCry	무지개색 외침
+MSID_H_RainbowCry	인접한 아군의 모든 기본 능력을\n1턴 동안 3 상승시키는\n｢응원｣ 커맨드 사용 가능.
+MSID_Rooting	응원
+MSID_H_Rooting_CMD	인접한 아군의 기본 능력+3
+MSID_RainbowCry+	무지개색 외침+
+MSID_H_RainbowCry+	자신의 주위 2칸에 있는 아군의\n모든 기본 능력을 1턴 동안 3 상승시키는\n｢응원+｣ 커맨드 사용 가능.
+MSID_Rooting+	응원+
+MSID_H_Rooting+_CMD	주위 2칸에 있는 아군의 기본 능력+3
+MSID_ChromEngage	반신
+MSID_H_ChromEngage	직접 공격 시, 러플레가\n체인 어택에 참가하게 된다.\n마력+10.
+MSID_H_ChromEngage_Dragon	직접 공격 시, 러플레가\n체인 어택에 참가하게 된다.\n마력+10.\n[용족]러플레가 체인 어택에\n참가하는 횟수가 2회로 증가한다.
+MSID_H_ChromEngage_Coop	직접 공격 시, 러플레가\n체인 어택에 참가하게 된다.\n마력+10.\n[연계]체인 어택이 반드시 명중한다.
+MSID_H_ChromEngage_Covert	직접 공격 시, 러플레가\n체인 어택에 참가하게 된다.\n마력+10.\n[은밀]이동+1.
+MSID_H_ChromEngage_Single	자신의 공격으로 체인 어택이 발생했을 때\n체인 어택이 반드시 명중한다.\n힘+5, 마력+10.
+MSID_ChromEngageAtk	기가 선더 소드
+MSID_H_ChromEngageAtk	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)
+MSID_H_ChromEngageAtk_Dragon	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n[용족]대미지에 힘의 50%를 추가.
+MSID_H_ChromEngageAtk_Fly	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n[비행]대미지에 체격 수치를 추가.
+MSID_H_ChromEngageAtk_Magic	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n[마도]대미지에 마력의 50%를 추가.
+MSID_H_ChromEngageAtk_CMD	마력을 담은 검으로 적을 공격한다
+MSID_ChromEngageAtk+	기가 선더 소드+
+MSID_H_ChromEngageAtk+	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n자신과 인접한 아군이 체인 어택에 참가한다.
+MSID_H_ChromEngageAtk+_Dragon	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n자신과 인접한 아군이 체인 어택에 참가한다.\n[용족]대미지에 힘의 50%를 추가.
+MSID_H_ChromEngageAtk+_Fly	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n자신과 인접한 아군이 체인 어택에 참가한다.\n[비행]대미지에 체격 수치를 추가.
+MSID_H_ChromEngageAtk+_Magic	마력을 담은 검으로 적을 공격한다/검 한정.\n(물리 공격력을 반영하는 마법 공격)\n자신과 인접한 아군이 체인 어택에 참가한다.\n[마도]대미지에 마력의 50%를 추가.
+MSID_H_ChromEngageAtk+_CMD	주위의 아군이\n체인 어택에 참가하는 공격
+MSID_Mag_Tec_1	마력·기술+1
+MSID_H_Mag_Tec_1	항상 마력과 기술이 1 상승한다.
+MSID_Mag_Tec_2	마력·기술+2
+MSID_H_Mag_Tec_2	항상 마력과 기술이 2 상승한다.
+MSID_Mag_Tec_3	마력·기술+3
+MSID_H_Mag_Tec_3	항상 마력과 기술이 3 상승한다.
+MSID_Mag_Tec_4	마력·기술+4
+MSID_H_Mag_Tec_4	항상 마력과 기술이 4 상승한다.
+MSID_Mag_Tec_5	마력·기술+5
+MSID_H_Mag_Tec_5	항상 마력과 기술이 5 상승한다.
+MSID_Tec_Spd_1	속도·기술+1
+MSID_H_Tec_Spd_1	항상 속도와 기술이 1 상승한다.
+MSID_Tec_Spd_2	속도·기술+2
+MSID_H_Tec_Spd_2	항상 속도와 기술이 2 상승한다.
+MSID_Tec_Spd_3	속도·기술+3
+MSID_H_Tec_Spd_3	항상 속도와 기술이 3 상승한다.
+MSID_Tec_Spd_4	속도·기술+4
+MSID_H_Tec_Spd_4	항상 속도와 기술이 4 상승한다.
+MSID_Tec_Spd_5	속도·기술+5
+MSID_H_Tec_Spd_5	항상 속도와 기술이 5 상승한다.
+MSID_AntiKnifeArts_1	단검술 대처 Lv.1
+MSID_H_AntiKnifeArts_1	단검을 장비한 적과 전투했을 때\n받는 대미지-1.
+MSID_AntiKnifeArts_2	단검술 대처 Lv.2
+MSID_H_AntiKnifeArts_2	단검을 장비한 적과 전투했을 때\n받는 대미지-2.
+MSID_AntiKnifeArts_3	단검술 대처 Lv.3
+MSID_H_AntiKnifeArts_3	단검을 장비한 적과 전투했을 때\n받는 대미지-3.
+MSID_AntiKnifeArts_4	단검술 대처 Lv.4
+MSID_H_AntiKnifeArts_4	단검을 장비한 적과 전투했을 때\n받는 대미지-4.
+MSID_AntiKnifeArts_5	단검술 대처 Lv.5
+MSID_H_AntiKnifeArts_5	단검을 장비한 적과 전투했을 때\n받는 대미지-5.
+MSID_AntiSwordArts_1	검술 대처 Lv.1
+MSID_H_AntiSwordArts_1	검을 장비한 적과 전투했을 때\n받는 대미지-1.
+MSID_AntiSwordArts_2	검술 대처 Lv.2
+MSID_H_AntiSwordArts_2	검을 장비한 적과 전투했을 때\n받는 대미지-2.
+MSID_AntiSwordArts_3	검술 대처 Lv.3
+MSID_H_AntiSwordArts_3	검을 장비한 적과 전투했을 때\n받는 대미지-3.
+MSID_AntiSwordArts_4	검술 대처 Lv.4
+MSID_H_AntiSwordArts_4	검을 장비한 적과 전투했을 때\n받는 대미지-4.
+MSID_AntiSwordArts_5	검술 대처 Lv.5
+MSID_H_AntiSwordArts_5	검을 장비한 적과 전투했을 때\n받는 대미지-5.
+MSID_JobSkill_MageCanon	전탄 발사
+MSID_H_JobSkill_MageCanon	장비한 무기가 없어지는 대신\n다음 아군 페이즈 개시와 동시에\n지정한 위치에 필중 범위 공격을 하는\n｢전탄 발사｣ 커맨드 사용 가능.
+MSID_H_JobSkill_MageCanon_CMD	포탄을 소비해 다음 턴 필중 범위 공격
+MSID_JobSkill_Wolf	팀 헌트
+MSID_H_JobSkill_Wolf	주위 3칸 이내에 있는\n자신과 같은 병과인 아군이\n반드시 체인 어택에 참가한다.
+MID_BONDSRING_Chrom00	이계의 국가 이리스 성왕국의 왕자로\n오른쪽 어깨에 ｢성흔｣을 지닌 영웅왕의 후예.
+MID_BONDSRING_Chrom01	어떠한 절망에도 물들지 않는 불굴의 마음을\n지녔으며 신검을 들고 희망찬 미래를 열었다.
+MID_BONDSRING_Reflet00	길가에 쓰러져 있던 그를 크롬이 구해 주면서\n동료가 된 내력을 알 수 없는 인물.
+MID_BONDSRING_Reflet01	싸움을 통해 크롬과 깊은 인연을 맺고\n세계를 희망찬 미래로 이끌었다.
+MID_BONDSRING_Veronica00	이계의 국가 엠블라 제국 황제의 딸.\n여러 영웅을 거느리고 타국을 침공했다.
+MID_BONDSRING_Veronica01	앳된 말투로 냉혹한 발언을 하는 등\n조용함 속에 무서운 분위기를 지닌 소녀.
+MGID_Ring_Chrom	성왕의 팔찌
+MGID_H_Ring_Chrom	통칭 『인연의 문장사』 크롬이 깃든 팔찌.\n동료를 믿고 운명을 바꾸는 성스러운 왕자.
+MGID_Ring_Reflet	성왕의 팔찌
+MGID_H_Ring_Reflet	통칭 『인연의 문장사』 러플레가 깃든 팔찌.\n크롬을 보좌하는 기억을 잃은 천재 참모.
+MGID_Ring_Veronica	어린 황녀의 팔찌
+MGID_H_Ring_Veronica	통칭 『영웅의 문장사』 베로니카가 깃든 팔찌.\n이계의 영웅들을 조종하는 힘을 지닌 황녀.
+MGID_World_Chrom	성왕녀의 세계
+MGID_World_Reflet	성왕녀의 세계
+MGID_World_Veronica	어린 황녀의 세계
+MID_RELAY_Stamp_Chrom_0	언제든 의지해 줘, 친구
+MID_RELAY_Stamp_Reflet_0	새로운 책략을 세워야 해
+MID_RELAY_Stamp_Veronica_0	너희들만… 치사해…
+MID_BGM_DLC_Field_S16_Combat_ST_Play	영웅의 시련~호응
+MID_BGM_DLC_Field_S16_Map_ST_Play	영웅의 시련
+MID_BGM_Evt_Advent_Veronica_ST_Play	답하라, 영웅의 엠블렘
+MID_Hub_Well	신비한 우물
+MID_Hub_Area_Event	이벤트
+MID_Hub_Area_ItemReturn	변환 완료
+MID_Hub_Well_TitleHelp	행동을 선택해 주십시오
+MID_Hub_Well_ItemExchange	아이템 변환
+MID_Hub_Well_ItemExchange_TitleHelp	필요 없는 아이템을 선택해 주십시오
+MID_Hub_Well_ItemExchange_Expected	기대치
+MID_Hub_Well_ItemExchange_Dialog_Title	아래 내용대로 아이템 변환을 실행하겠습니까?
+MID_Hub_Well_ItemExchange_Dialog_Before	떨어뜨릴 아이템
+MID_Hub_Well_ItemExchange_Dialog_Yes	변환하기
+MID_Hub_Well_ItemExchange_Get	획득
+MID_Hub_Well_ItemExchange_Message	우물에 아이템을 떨어뜨렸습니다\n(한 번 출격한 후에 받을 수 있습니다)
+MID_Hub_Well_Nothing1	신비한 기운이 느껴진다…
+MID_Hub_Well_Nothing2	지금은 더 이상 아무것도 없는 듯하다
+PCTMID_Chrom	언제든 의지해 줘, 친구
+PCTMID_Reflet	새로운 책략을 세워야 해…
+PCTMID_Veronica	내 것으로 만들고 싶어…
+MID_Movie_K19	문장사 베로니카
+MID_H_Movie_K19	『어린 황녀의 팔찌』에서 현현하는\n문장사 베로니카.
+MID_Movie_K18	문장사 크롬
+MID_H_Movie_K18	『성왕의 팔찌』에서 현현하는\n문장사 크롬.
+MID_MAP_HIS_EngageSummon	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02이\x02가 영웅 소환을 사용했다
+MID_MAP_HIS_Contract	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02이\x02가 계약을 사용했다
+MID_MAP_HIS_FullBullet	\x0E\x01\x00\x00\x0E\x0A\x04\x08\x02이\x02가 전탄 발사를 사용했다

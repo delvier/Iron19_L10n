@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カムイ\x022\n\x0E\x03\x02\x08\x06カムイ\nEsto es... No, no puede ser.\nAunque se parece tanto...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\n¿Qué ocurre, Corrin?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06カムイ\nEste lugar se parece mucho a aquel\ndonde mi destino se ramificó.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06カムイ\nEse día tuve tres opciones. Elegir una\nimplicaba abandonar las otras dos.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\n¿Qué quieres decir?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06カムイ\nEn mi mundo, existen dos reinos enfrentados,\nHoshido y Nohr...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06カムイ\nYo nací en Hoshido, pero pasé la mayor\nparte de mi niñez en Nohr.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nDebió de ser difícil vivir una vida con lazos\nen ambos lados del conflicto.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06カムイ\nSí. Aquí se enfrentaron Hoshido y Nohr,\ny yo me vi forzada a escoger un bando.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06カムイ\nTenía familia y amigos en ambas naciones\ny no quería traicionar a nadie.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06カムイ\nElegir resultaba durísimo,\npero no me quedaba más remedio.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06カムイ\n¿Hoshido o Nohr? ¿Quizá ninguno y luchar\nyo sola? No había una respuesta fácil.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nNo sé si yo podría tomar una decisión\ntan importante.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nAunque sospecho que en algún momento\nde mi viaje tendré que hacerlo.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06カムイ\nYa has decidido enfrentarte al Dragón Caído\ny salvar el mundo. Es una gran decisión.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06カムイ\nVeamos si mereció la pena.\nEnfréntate a mí.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06カムイ\nSé que así nuestro vínculo se fortalecerá,\nlo que a su vez afianzará mi resolución.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nEntiendo lo que dices.\nLos caminos que hemos de recorrer...\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nAnsío descubrir qué nos espera\ncuando nuestros destinos se crucen...\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x03\x02\x08\x06カムイ\n¿Preparad\x0E\x0A\x00\x08\x02o\x02a? Comencemos.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nCorrin puede alterar el campo de batalla.\nNo debo permitir que me coja desprevenid\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x14\x06カムイ\nAngry\n\x0E\x03\x02\x08\x06カムイ\nAhí, bajo tierra, hay una Vena de dragón.\nLa usaré para ponértelo más difícil.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x02\x08\x06カムイ\n\x0E\x05\x01\x14\x06カムイ\nRelax\nNo te preocupes, seguro\nque sabrás apañártelas.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x16\x06カムイ\x0CStatus\n\x0E\x03\x02\x08\x06カムイ\nRecuerdo cómo me sentí en aquel lugar...\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nAllí fue donde tu destino se ramificó, ¿no?\nCreo que entiendo cómo te sentiste.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06カムイ\nAngry\n\x0E\x03\x02\x08\x06カムイ\nQue tu determinación no flaquee.\n¡Debes luchar con la intención de matarme!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nComo quieras, Corrin. ¡He elegido mi camino\ny lo seguiré hasta donde me lleve!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x18\x08セアダス\x0CStrike\n\x0E\x03\x02\x0A\x08セアダス\nJamás pensé que acabaría luchando contra\nmi salvadora. El mundo está lleno de sorpresas.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x1A\x06カムイ\x10Surprise\n\x0E\x03\x02\x08\x06カムイ\n¿El vidente no lo vio venir?\nVaya, vaya, qué curioso.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nBúrlate cuanto quieras. Sería aburrido saber\nel resultado de este combate de antemano.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06カムイ\nSmile\n\x0E\x03\x02\x08\x06カムイ\nEl futuro no está escrito ni planeado.\nTodos somos dueños de nuestro destino.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06カムイ\x022\n\x0E\x03\x02\x08\x06カムイ\nLe has plantado cara a Yato, mi espada.\nNo esperaba menos de ti.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nQué espada tan hermosa.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06カムイ\nEs una espada especial.\nSe forjó para traer la paz al mundo.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06カムイ\nLa primera vez que la vi, voló de su escondite\na mi mano. Me escogió.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06カムイ\nFue el mismo día que mi madre\nentregó su vida para protegerme...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nOh... ¿También perdiste a tu madre?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06カムイ\nTú sabes bien lo difícil que es superar ese dolor.\nNo podría haberme recuperado sola.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06カムイ\nPor suerte, tenía amigos a mi lado\nque me ayudaron a salir adelante.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06カムイ\nAl igual que ellos, Yato también estuvo\nconmigo en cada paso que di.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nEntiendo muy bien cómo te sientes...\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06カムイ\nA partir de ahora, deberás tomar decisiones\nque te causarán un gran sufrimiento.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06カムイ\nPero, pase lo que pase, yo estaré contigo\ny te ayudaré a seguir tu camino.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nIncluso en los momentos más difíciles,\nrecordaré que no estoy sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06カムイ\nEntonces todo irá bien.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nGracias, Corrin, por recorrer\nconmigo la senda que he elegido.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

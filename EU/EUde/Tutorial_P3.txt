@@ -1,0 +1,50 @@
+MID_TUT_BMAP_EVIL_RULE_TITLE	Einsätze in der Dämonenwelt
+MID_TUT_BMAP_EVIL_RULE_0	In Schlachten in der Dämonenwelt haben deine\nVerbündeten vorbestimmte Klassen und Level.
+MID_TUT_BMAP_EVIL_RULE_1	Die Items in ihrem Inventar sind ebenfalls\nvorgegeben. Du kannst sie aber wie gewohnt\nzwischen den Einheiten austauschen.
+MID_TUT_BMAP_EVIL_RULE_2	Verbündete, die in der Schlacht fallen, kehren\nim Anschluss wieder zu dir zurück, unabhängig\nder von dir gewählten Schwierigkeit.
+MID_TUT_BMAP_EVIL_GUEST_TITLE	Gast-Verbündete
+MID_TUT_BMAP_EVIL_GUEST_0	In der Dämonenwelt begegnen dir einzigartige\nVerbündete, die dir in Schlachten als\nsogenannte Gast-Verbündete zur Seite stehen.
+MID_TUT_BMAP_EVIL_GUEST_1	Nel ist eine mächtige Dracheneinheit. Nil gilt an\nder Seite von Emblemen als fähiger Unterstützer,\nist an vorderster Front jedoch im Nachteil.
+MID_TUT_BMAP_EVIL_GUEST_2	Fallen Nel oder Nil im Kampf, gilt die Schlacht\nals verloren. Setze sie also mit Bedacht ein.
+MID_TUT_BMAP_EVIL_FANG_CURSE_TITLE	Verfluchte Reißzähne
+MID_TUT_BMAP_EVIL_FANG_CURSE_0	Der Biss eines Verzerrten Wolfs belegt das\nOpfer des Angriffs mit dem Statuseffekt\n„Verfluchte Reißzähne“.
+MID_TUT_BMAP_EVIL_FANG_CURSE_1	Jeder Angriff mit „Verfluchte Reißzähne“\nreduziert die maximalen KP der betroffenen\nEinheit um 5.
+MID_TUT_BMAP_EVIL_FANG_CURSE_2	Dieser Effekt addiert sich mit jedem Treffer und\nhält für den Rest der Schlacht an – es sei denn,\nman entfernt ihn mit einem Erneuerungsstab.
+MID_TUT_BMAP_EVIL_MELEE_TITLE	Jeder gegen jeden
+MID_TUT_BMAP_EVIL_MELEE_0	Einige Einheiten in dieser Schlacht sind gelb\nmarkiert.
+MID_TUT_BMAP_EVIL_MELEE_1	Hierbei handelt es sich um dir feindlich\ngesonnene Einheiten, die aber auch rot\nmarkierte Gegner angreifen werden.
+MID_TUT_BMAP_EVIL_MELEE_2	Nutze dies zu deinem Vorteil und lasse die\nbeiden Gruppen sich gegenseitig dezimieren.
+MID_TUT_BMAP_EVIL_POW_TITLE	\x0E\x0A\x00*\x14Gefangener\x12Gefangene \x0E\x06\x03\x00
+MID_TUT_BMAP_EVIL_POW_0	\x0E\x06\x03\x00 verfügt in \x0E\x0A\x00\x1A\x0Cseinem\nihrem Gefängnis\nüber keinerlei Waffen und kann sich nicht zur\nWehr setzen.
+MID_TUT_BMAP_EVIL_POW_1	Halte \x0E\x0A\x00\x10\x06ihn\x06sie bei Gesundheit, um eine Niederlage\nzu verhindern!
+MID_TUT_BMAP_EVIL_SUMMON_TITLE	Wirbel beschwören
+MID_TUT_BMAP_EVIL_SUMMON_0	Zu Beginn der nächsten Spielerphase erscheint\naus diesen Wirbeln gegnerische Verstärkung.
+MID_TUT_BMAP_EVIL_SUMMON_1	Positionierst du eine Einheit auf einem solchen\nWirbel, kannst du verhindern, dass Gegner aus\ndiesem hervortreten.
+MID_TUT_BMAP_EVIL_RUSHMOVE_TITLE	Verheerung
+MID_TUT_BMAP_EVIL_RUSHMOVE_0	Leuchtet ein Dunkelsiegel, wird sich Dämonen-\nNil dorthin bewegen – jedoch nicht, ohne zuvor\nalles an seinem aktuellen Standort zu verheeren.
+MID_TUT_BMAP_EVIL_RUSHMOVE_1	Die Explosion erfolgt in der nächsten Gegner-\nphase. Alle Einheiten im Gebiet, egal ob Feinde\noder Verbündete, fallen ihr zum Opfer.
+MID_TUT_BMAP_EVIL_RUSHMOVE_2	Je mehr Einheiten Dämonen-Nil auf diese Weise\nbesiegt, desto mächtiger wird er.
+MID_TUT_DLG_E006_ADVICE	Verbündete, die in der Dämonenwelt fallen,\nkehren nach der Schlacht zu dir zurück. Sorge\ndich also nicht um Verluste, sondern gib alles!
+MID_TUT_BMAP_EVIL_ENCHANT_TITLE	Neue Klasse: Verzauberer
+MID_TUT_BMAP_EVIL_ENCHANT_0	Verzauberer verbrauchen Items und Waffen,\num sich selbst und Verbündete zu stärken. Ein\nKlassenwechsel erfordert eine mystische Tasche.
+MID_TUT_BMAP_EVIL_ENCHANT_1	Der Verbrauch eines Items durch „Itemrausch“\nverleiht Verbündeten besondere Effekte, je nach\nverwendetem Item.
+MID_TUT_BMAP_EVIL_ENCHANT_2	„Waffenrausch“ verbraucht eine Waffe aus dem\nInventar, um alle gleichnamigen Waffen für die\nDauer der Schlacht zu stärken (Verb. u. Gegn.).
+MID_TUT_BMAP_EVIL_MAGECANON_TITLE	Neue Klasse: Magiekanonier
+MID_TUT_BMAP_EVIL_MAGECANON_0	Magiekanoniere decken Gegner aus großer\nEntfernung mit Angriffen ein. Ein\nKlassenwechsel erfordert eine Magiekanone.
+MID_TUT_BMAP_EVIL_MAGECANON_1	Die Angriffsstärke von Magiekanonieren basiert\nauf ihrer Behändigkeit, ihre Trefferquote hängt\nvon ihrer Stärke, Figur und Zielentfernung ab.
+MID_TUT_BMAP_EVIL_MAGECANON_2	„Angriffshagel“ verbraucht ausgerüstete\nGranaten, um Gebiete in der nächsten Runde\nmit mächtigen Artillerieangriffen einzudecken.
+MID_TUT_BMAP_EVIL_MAGECANON_3	Die Gefahrenzone für Magiekanoniere\nunterscheidet sich optisch von der normalen\nGefahrenzone.
+MID_TUT_GMAP_EVIL_TITLE	Weltkarte (Dämonenwelt)
+MID_TUT_GMAP_EVIL_0	Die Dämonenwelt verfügt über ihre ganz\neigene Weltkarte, die du im Verlauf der\nHandlung erkundest.
+MID_TUT_GMAP_EVIL_1	Mithilfe des Weltkartenmenüs kannst du zum\nSomniel oder zu der Weltkarte der Hauptstory\nzurückkehren.
+MID_TUT_GMAP_EVIL_2	In Gebieten, die du bereits abgeschlossen hast,\nerscheinen außerdem von Zeit zu Zeit Gefechte,\ndie du bestreiten kannst.
+MID_TUT_HUB_EVIL_START_TITLE	Dämonenwelt
+MID_TUT_HUB_EVIL_START_0	Du kannst die Dämonenwelt über den alten\nBrunnen betreten.
+MID_TUT_HUB_EVIL_START_1	Diese musst du jedoch nicht in einem Stück\ndurchspielen, sondern kannst zwischen den\nKapiteln zur Welt der Hauptstory zurückkehren.
+MID_TUT_HUB_EVIL_START_2	Zudem verfügt die Dämonenwelt über\neinen vom Hauptspiel unabhängigen\nSchwierigkeitsgrad.
+MID_TUT_HUB_EVIL_START_NOTICE	Am alten Brunnen geht etwas Seltsames\nvor sich...
+MID_TUT_NAVI_E004_ADVICE_START	Aufgrund der hohen Anzahl an Feinden auf\ndieser Karte, die miteinander kämpfen, werden\ndie Stab-/Tanzanimationen in diesem Kampf nur\nbei Zügen Verbündeter gezeigt. Du kannst dies\njederzeit im Einstellungsmenü ändern.
+MID_TUT_NAVI_E004_ADVICE_END	Die Änderung der Einstellung für die Stab-/\nTanzanimationen, die zu Beginn der Schlacht\nvorgenommen wurde, wird nun zurückgesetzt.
+MID_TIPS_JOB_02	„Waffenrausch“ stärkt sämtliche Waffen in deinem Vorrat, die denselben Namen tragen.
+MID_TIPS_JOB_03	Der Effekt von „Waffenrausch“ endet vorzeitig, sobald du die Fähigkeit mit einer anderen\nWaffe nutzt.
+MID_TIPS_ITEM_21	Die dem Magiekanonier eigene Fähigkeit „Angriffshagel“ kann sämtlichen Gegnern\nnegative Statuseffekte zufügen – mit Ausnahmen einiger extrem mächtiger Exemplare.

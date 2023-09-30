@@ -1,0 +1,45 @@
+MID_TUT_BMAP_FireBall_TITLE	화산탄
+MID_TUT_BMAP_FireBall_0	떨어지는 화산탄에 맞으면 대미지를 입습니다
+MID_TUT_BMAP_FireBall_1	반드시 ｢탄 자국｣이 있는 위치에 떨어지니\n그 장소에 머무르지 않도록 주의합시다
+MID_TUT_BMAP_FireBall_2	또한 ｢분화구｣에 있는 유닛도\n대미지를 입습니다
+MID_TUT_BMAP_Smoke_TITLE	검은 연기
+MID_TUT_BMAP_Smoke_0	｢검은 연기｣가 부여된 지형에 있으면\n회피와 수비, 마방이 감소됩니다
+MID_TUT_BMAP_Smoke_1	또한 검은 연기는 이 전투 맵에 한해서\n서서히 넓어지기 때문에 주의해야 합니다
+MID_TUT_HUB_REFRESH_TITLE	리프레시
+MID_TUT_HUB_REFRESH_0	솔라넬에서 지내는 동료를 2명 선택해서\n전투로 지친 마음에 다시 활력을 불어넣어 줄 수 있습니다
+MID_TUT_HUB_REFRESH_1	함께 지내다 보면 지원도가 올라가는 경우가 있습니다
+MID_TUT_HUB_REFRESH_2	다음번 출격하기 전까지\n풀장, 과수원, 마구간에서 각각 1번씩 실행할 수 있습니다
+MID_TUT_HUB_REFRESH_NOTICE	｢풀장｣ 등의 장소에서 ｢리프레시｣를 할 수 있게 되었습니다
+MID_TUT_HUB_REFRESH_OPEN	｢리프레시｣를 할 수 있게 되었습니다
+MID_TUT_GOD_HECTOR_TITLE	문장사 헥터
+MID_TUT_GOD_HECTOR_0	｢문장사 헥터｣는 뛰어난 방어력을 자랑하며\n아군을 보호하면서 반격으로 적을 물리칩니다
+MID_TUT_GOD_HECTOR_1	싱크로 스킬 ｢받아치기｣는\n공격받았을 때 HP가 일정 이상 남아 있으면\n반격했을 때의 공격 횟수를 증가시킵니다
+MID_TUT_GOD_HECTOR_2	인게이지 무기 ｢볼프 바일｣은\n기마인 적과 중갑병에게 큰 대미지를 입힙니다
+MID_TUT_GOD_HECTOR_3	인게이지 스킬 ｢철벽｣은\n공격받았을 때 수비와 마방을 상승시킵니다
+MID_TUT_GOD_HECTOR_4	인게이지 기술 ｢지수뇌굉의 자세｣는\n적군 페이즈 중에 적의 브레이크와 추격을 봉인하고\n자신이 반격했을 때의 공격 횟수를 증가시킵니다
+MID_TUT_GOD_SENERIO_TITLE	문장사 세네리오
+MID_TUT_GOD_SENERIO_0	｢문장사 세네리오｣는 마법 공격을 잘 다루며\n적의 유도와 방해를 통해 유리한 전황을 만들어 냅니다
+MID_TUT_GOD_SENERIO_1	싱크로 스킬 ｢미끼 지명｣은 지정한 아군이\n적의 표적이 될 확률을 상승시킵니다
+MID_TUT_GOD_SENERIO_2	인게이지 무기 ｢선더스톰｣은 사정거리가 길고\n멀리 있는 적을 공격할 수 있습니다
+MID_TUT_GOD_SENERIO_3	인게이지 스킬 ｢양광｣은\n마법으로 공격했을 때 상대의 마방을 감소시키고\n입힌 대미지에 따라 HP를 회복합니다
+MID_TUT_GOD_SENERIO_4	인게이지 기술 ｢디재스터｣는\n화염, 번개, 바람의 연속 마법으로 넓은 범위를 공격합니다
+MID_TUT_GOD_CAMILLA_TITLE	문장사 카밀라
+MID_TUT_GOD_CAMILLA_0	｢문장사 카밀라｣는 지형을 변화시키는 힘과\n비행 능력을 지녔으며 지상과 공중에서 전장을 지배합니다
+MID_TUT_GOD_CAMILLA_1	싱크로 스킬 ｢용맥·암｣은 싱크로 중인 아군의\n전투 스타일에 따라 다양한 효과를 지형에 부여하고\n그 지형의 ｢화염｣, ｢독기｣ 등의 효과를 제거합니다
+MID_TUT_GOD_CAMILLA_2	인게이지 무기 ｢볼트 액스｣는\n떨어진 적에게 마법 공격을 할 수 있습니다
+MID_TUT_GOD_CAMILLA_3	인게이지 스킬 ｢천구｣는\n이동력이 상승하며 비행 스타일 유닛처럼\n｢보행 불가｣인 지형을 이동할 수 있게 합니다
+MID_TUT_GOD_CAMILLA_4	인게이지 기술 ｢암야폭쇄진｣은\n폭발로 넓은 범위의 적에게 대미지를 입히고\n추가로 지형을 ｢화염｣ 상태로 만듭니다
+MID_TUT_TIPS_Hector	문장사 헥터
+MID_TUT_TIPS_Senerio	문장사 세네리오
+MID_TUT_TIPS_Camilla	문장사 카밀라
+MID_TIPS_OTHER_35	｢리프레시｣는 1번의 전투마다 솔라넬의 3장소에서 1번씩 실행할 수 있으며, 선택한 동료끼리의 지원도가 상승한다.
+MID_TIPS_SKILL_36	화염·번개·바람 마법으로 공격했을 때, 그 종류에 따라 능력 감소 효과를 1턴 동안 부여한다.
+MID_TIPS_SKILL_37	브레이크 상태인 적을 마도서로 공격했을 때 일정 확률로 브레이크 상태를 해제하지 않는다.
+MID_TIPS_GOD_29	이계의 대륙 엘레브에 있는 오스티아 후작가의 후작 동생이며, 강력한 완력이 자랑인 도끼의 명수.
+MID_TIPS_GOD_30	로이의 아버지 엘리우드의 친구. ｢천뢰의 도끼 알마즈｣를 들고 함께 거대한 악에 맞섰다.
+MID_TIPS_GOD_31	이계의 대륙 테리우스에서 그레일 용병단의 참모를 맡은 청년.
+MID_TIPS_GOD_32	아이크의 용병단에 소속된 현자. 탁월한 참모의 재능을 지녔다.
+MID_TIPS_GOD_33	이계의 국가 암야 왕국의 제1왕녀이자 요염한 마룡 기사.
+MID_TIPS_GOD_34	카무이의 형제 중 한 사람. 아군에게는 깊은 애정을 주지만 적에게는 냉혹하다.
+MID_TUT_NAVI_G004_ADVICE_START	이 맵에서는 적이 지팡이를 많이 사용하므로\n환경 설정의 『지팡이·춤추기 애니메이션』을\n｢아군 페이즈｣로 설정합니다\n이 설정은 환경 설정에서 언제든 변경할 수 있습니다
+MID_TUT_NAVI_G004_ADVICE_END	맵 시작 시에 변경한\n『지팡이·춤추기 애니메이션』 설정을 원래대로 되돌립니다

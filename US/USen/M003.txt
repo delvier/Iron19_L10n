@@ -1,0 +1,215 @@
+MID_MOVIE1_#001	\x0E\x03\x02\x0A\x08ルミエル\nWhy are...you here alone?\x0E\x04\x00\x00
+MID_MOVIE1_#002	\x0E\x03\x02\x0A\x08リュール\nHehe...\x0E\x04\x00\x00
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP1_#002	What was that? Was that me?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nAre you all right? It looked as though you were\nhaving a bad dream.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nI was. But yes, I'm all right.\x0E\x04\x02\x00
+MID_OP1_#005	Were you here this whole time?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nYou were wearing my ring when you went\nto bed.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nOh, I'm sorry. I forgot to take it off.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nThat's all right. Keep it on. Then if something\nhappens, I will be able to help.\x0E\x04\x02\x00
+MID_OP1_#009	Besides, after a millennium together, I would\nfeel uncomfortable if we were separated now.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth... What was I like?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06マルス\nHmm...\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nYou knew me back then. You must be able to\ntell me something.\x0E\x04\x02\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nWell...\x0E\x04\x02\x00
+MID_OP1_#014	You were kind, as you are now. There's no need\nto remember everything at once.\x0E\x04\x02\x00
+MID_OP1_#015	Take your time. Ease back into your memories.\nLumera advised that, too, didn't she?\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nYes, she did. Sorry─I don't mean to\nbe impatient.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06マルス\nIt's all right.\x0E\x04\x02\x00
+MID_OP1_#018	...\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nWhat was that?\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\nI'm not sure. An enemy raid?\x0E\x04\x02\x00
+MID_OP1_#021	We had best take a look. I'm worried about\nLumera and the others.\x0E\x04\x00\x00
+MID_OP1_#022	\x0E\x03\x02\x0A\x08リュール\nAgreed.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x00\x06\x04TS\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x00\x0C\x06クラン\x024\n\x0E\x03\x02\x0A\x08リュール\nVander! Clanne! Framme!\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0C\nヴァンドレ\nAh, Divine One! Thank goodness you're safe.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nWhat's happening? Tell me.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06フラン\nSome enemies busted right through the castle\nwalls like paper. Suddenly, BAM! They're here!\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x08\x06クラン\nWhat's worse, they fought their way into the Ring Vault. If you\nask me, they're trying to get their hands on the Emblem Rings!\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0C\nヴァンドレ\nEven as we speak, Queen Lumera is defending\nthe vault.\x0E\x04\x00\x00
+MID_OP2_#006_2	\x0E\x03\x02\x0C\nヴァンドレ\nQuickly! We must fly to her aid!\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nSounds like a plan. Follow me!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nThere are too many of them. We'll never make\nit to the Ring Vault...\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x06\x00(\x0Cアルフレッド\x18MPID_Unknown\n\x0E\x05\x01\x1E\x0Cアルフレッド\x0EStandBy\n\x0E\x03\x04\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThrough this door, right?\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x10\nエーティエ\x02b\n\x0E\x06\x00&\nエーティエ\x18MPID_Unknown\n\x0E\x05\x01\x1C\nエーティエ\x0EStandBy\n\x0E\x03\x04\x0C\nエーティエ\n\x0E\x03\x02\x0C\nエーティエ\nYes. This is the one.\x0E\x04\x00\x00
+MID_EV1_#004	\x0E\x03\x01\x0C\nエーティエ\n\x0E\x03\x00\x10\nブシュロン\x02b\n\x0E\x06\x00&\nブシュロン\x18MPID_Unknown\n\x0E\x05\x01\x18\nブシュロン\nAngry\n\x0E\x03\x04\x0C\nブシュロン\n\x0E\x03\x02\x0C\nブシュロン\nThen let's go.\x0E\x04\x00\x00
+MID_EV1_#005	\x0E\x03\x01\x0C\nブシュロン\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nI hear voices. Someone's coming.\x0E\x04\x00\x00
+MID_MOVIE2_#001	\x0E\x03\x02\x0E\x0Cアルフレッド\nMade it! And not a moment too soon...\x0E\x04\x02\x00
+MID_MOVIE2_#002	The Crown Prince Alfred of Firene is here to help.\x0E\x04\x00\x00
+MID_MOVIE2_#002_2	 Let me at 'em!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nPrince Alfred of...Firene, you said?\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01 \x0Cアルフレッド\x10Surprise\n\x0E\x03\x02\x0E\x0Cアルフレッド\nCould it be? Are you the Divine\nDragon \x0E\x06\x03\x00?\x0E\x04\x02\x00
+MID_EV2_#003	You finally woke up?!\x0E\x04\x02\x00
+MID_EV2_#004	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nI did, yes.\x0E\x04\x00\x00
+MID_EV2_#005	\x0E\x05\x01\x1A\x0Cアルフレッド\nSmile\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThat's amazing! You know, I've waited ages for\nthis to happen.\x0E\x04\x02\x00
+MID_EV2_#006	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CNormal\nThere's so much to talk about. Later, of course.\nAfter we've taken care of these scoundrels.\x0E\x04\x02\x00
+MID_EV2_#007	Who are they, anyway?\x0E\x04\x00\x00
+MID_EV2_#008	\x0E\x05\x01\x18\x08リュール\x0CNormal\n\x0E\x03\x02\x0A\x08リュール\nWe're not sure. They attacked so suddenly.\x0E\x04\x00\x00
+MID_EV2_#009	\x0E\x03\x02\x0E\x0Cアルフレッド\nWell, let's do this quickly─pin down whoever's\nin charge and get some answers.\x0E\x04\x02\x00
+MID_EV2_#010	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStrike\nOh, these are my retainers, Etie and Boucheron.\nFrom now on, consider us at your disposal.\x0E\x04\x02\x00
+MID_EV2_#011	Lead the way, Divine One!\x0E\x04\x00\x00
+MID_EV2_#012	\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nThank you for your help.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nブシュロン\x02t\n\x0E\x05\x01\x1A\nブシュロン\x0CStatus\n\x0E\x03\x02\x0C\nブシュロン\nSorry, Divine One─I didn't have a chance to\nintroduce myself. My name's Boucheron.\x0E\x04\x02\x00
+MID_EV3_#002	If I'm near an enemy you're fighting, I can jump\nin and land another hit on them.\x0E\x04\x02\x00
+MID_EV3_#003	\x0E\x05\x01\x1C\nブシュロン\x0EStandBy\nCall on me if you need some extra oomph.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエーティエ\x02t\n\x0E\x05\x01\x18\nエーティエ\nSmile\n\x0E\x03\x02\x0C\nエーティエ\nIt's an honor to meet you, Divine One. I'm Etie.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエーティエ\x02t\n\x0E\x05\x01\x1A\nエーティエ\x0CStatus\n\x0E\x03\x02\x0C\nエーティエ\nMy arrows are perfect for knocking airborne\nenemies out of the sky.\x0E\x04\x02\x00
+MID_EV5_#002	\x0E\x05\x01\x18\nエーティエ\nSmile\nWith these muscles, I'll have those fliers\ndropping like flies!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CM003_イルシオン兵_ボス\x02b\n\x0E\x05\x01*\x1CM003_イルシオン兵_ボス\nAngry\n\x0E\x03\x02\x1E\x1CM003_イルシオン兵_ボス\nI have my orders. No one reaches the vault.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nWho are you, and what do you want?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00"\x1CM003_イルシオン兵_ボス\x02b\n\x0E\x05\x01*\x1CM003_イルシオン兵_ボス\nAngry\n\x0E\x03\x02\x1E\x1CM003_イルシオン兵_ボス\nI am here to fight, not exchange words.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CM003_イルシオン兵_ボス\x02b\n\x0E\x05\x01(\x1CM003_イルシオン兵_ボス\x08Pain\n\x0E\x03\x02\x1E\x1CM003_イルシオン兵_ボス\nYou're not just any soldiers, are you?\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLooks like we cleared the way. Let's get to the\nRing Vault!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x04\x03\x04
+MID_ED2_#002	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nWhoever it is you are, the rest of your forces\nhave all been defeated.\x0E\x04\x02\x00
+MID_ED2_#003	So surrender now. If you refuse, I will stop you.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x0A\x08ヴェイル\nHm.\x0E\x04\x02\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08リュール\nAh! But how?!\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08ヴェイル\nDo I detect a hint of fear? Of course I do.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_MOVIE3_#001	Time to die.
+MID_MOVIE3_#002	Look out!
+MID_MOVIE3_#003	Ah!
+MID_MOVIE3_#004	Now, why don't you hand the rings over to me.
+MID_MOVIE3_#005	Leave here at once!
+MID_MOVIE3_#006	Hm.
+MID_ED3_#004	No...\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x02\x08\x06フラン\nHere, Queen Lumera! I'll fix you up!\x0E\x04\x02\x00
+MID_ED3_#006	 \x0E\x04\x02\x00
+MID_ED3_#007	Huh?!\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x0A\x08リュール\nWhat's the matter?\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x08\x06フラン\nMy staff isn't helping her. She's hurt really bad, and...\x0E\x04\x02\x00
+MID_ED3_#010	It's her Divine Dragon powers─they're almost\ntotally wiped out!\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x08\x06フラン\nA Divine Dragon losing their power... It's the same\nas losing years of their life.\x0E\x04\x02\x00
+MID_ED3_#013	The thing is, there's no reason Queen Lumera should\nbe drained like this. It doesn't make any sense!\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x02\x0A\x08ルミエル\nIt's simple, my young one... I gave my power\nunto you.\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x02\x0A\x08リュール\nBut why?\x0E\x04\x00\x00
+MID_ED3_#016	\x0E\x03\x02\x0A\x08ルミエル\nAll the years you were sleeping...healing...I was\ntransferring my Divine Dragon powers to you.\x0E\x04\x02\x00
+MID_ED3_#017	I hoped it would be enough to bring you back to me someday.\nBut now, it would seem that I am completely spent.\x0E\x04\x00\x00
+MID_ED3_#018	\x0E\x03\x02\x0A\x08リュール\nOh no, this is my fault! I did this!\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x0A\x08ルミエル\nNo, my dear... You have to push those thoughts away.\x0E\x04\x02\x00
+MID_ED3_#020	There is nothing a mother wouldn't do...to see\nlife return again...to her beloved child.\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x0A\x08リュール\nBut I...\x0E\x04\x00\x00
+MID_ED3_#022	\x0E\x03\x02\x0A\x08ルミエル
+MID_ED3_#023	This ring... It belongs to you now. The Ring of\nthe Holy Knight.\x0E\x04\x02\x00
+MID_ED3_#024	I had...so hoped to give you the ring I made,\nas well...but that's not possible now...\x0E\x04\x02\x00
+MID_ED3_#028	Listen to me, child... Those who invaded here...\nI sensed the power of the Fell Dragon within them.\x0E\x04\x00\x00
+MID_ED3_#029	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED3_#030	\x0E\x03\x02\x0A\x08ルミエル\nYou must not allow them to capture any more of the rings.\x0E\x04\x02\x00
+MID_ED3_#031	Please...I beg of you... Gather together all 12 rings.\x0E\x04\x02\x00
+MID_ED3_#032	And...when your scattered memories return to you, you must\nfight on with the utmost divinity. I believe in you, my child!\x0E\x04\x00\x00
+MID_ED3_#033	\x0E\x03\x02\x0A\x08リュール\nI understand. I'll collect the rings. I swear to you!\x0E\x04\x02\x00
+MID_ED3_#034	And I'll fight. I'll do whatever you want.\nBut please...don't leave me...\x0E\x04\x02\x00
+MID_ED3_#035	Mother!\x0E\x04\x00\x00
+MID_ED3_#036	\x0E\x03\x02\x0A\x08ルミエル\nAh... Ah, young one...how I've longed to hear\nyou call me that...\x0E\x04\x02\x00
+MID_ED3_#037	All those years...I held out hope. My heart\nis fuller than you could ever know.\x0E\x04\x00\x00
+MID_ED3_#038	\x0E\x03\x02\x0A\x08リュール\nIt can't end like this. You were going to give me that\nring once my memories came back... You promised!\x0E\x04\x02\x00
+MID_ED3_#039	And there...there are so many things you haven't\ntold me yet! You said that we would talk!\x0E\x04\x00\x00
+MID_ED3_#040	\x0E\x03\x02\x0A\x08ルミエル\nI did... There's still so much I wanted to say to you...\x0E\x04\x02\x00
+MID_ED3_#041	Being your mother─becoming your mother─\nhas brought so much happiness into my life.\x0E\x04\x00\x00
+MID_ED3_#042	\x0E\x03\x02\x0A\x08リュール\nI know...and I'm happy to be your child, in this moment─\nhere and now─and a thousand years ago. I am.\x0E\x04\x02\x00
+MID_ED3_#043	Don't go... Stay with me until I remember again!\nPlease, Mother─I need more time!\x0E\x04\x00\x00
+MID_ED3_#044	\x0E\x03\x02\x0A\x08ルミエル\nHaha... Oh, my sweet one.\x0E\x04\x02\x00
+MID_ED3_#045	Now. Let's make a promise... Mother and child.\nWe'll make it a pinky promise. I swear to you...\x0E\x04\x02\x00
+MID_ED3_#045_2	I'll be with you always and forever.\x0E\x04\x02\x00
+MID_ED3_#046	And the ring, remember... Once you've rested...\nwe will talk...\x0E\x04\x02\x00
+MID_ED3_#047	You and I...\x0E\x04\x02\x00
+MID_ED3_#048	 \x0E\x04\x00\x00
+MID_ED3_#049	\x0E\x03\x02\x0A\x08リュール\nMother...\x0E\x04\x00\x00
+MID_ED3_#050	\x0E\x03\x02\x0A\x08ルミエル\n \x0E\x04\x00\x00
+MID_ED3_#051	\x0E\x03\x01\x0A\x08ルミエル\n\x0E\x03\x02\x0A\x08リュール\nNo! Please!\x0E\x04\x00\x00
+MID_ED3_#052	\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0C\nヴァンドレ\nThis simply cannot have happened...\nQueen Lumera...\x0E\x04\x00\x00
+MID_ED3_#053	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThe Divine Dragon Queen... She has left us.\x0E\x04\x00\x00
+MID_ED3_#054	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08リュール\nMother, please wake up...\x0E\x04\x02\x00
+MID_ED3_#055	You promised you'd stay by my side... You have\nto... You have to keep your promise!\x0E\x04\x02\x00
+MID_ED3_#056	 \x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06クラン\x023\n\x0E\x03\x00\x0C\x06フラン\x024\n\x0E\x03\x02\x0A\x08リュール\nThank you for helping with my mother's funeral.\x0E\x04\x00\x00
+MID_ED4_#002	\x0E\x03\x02\x0C\nヴァンドレ\nIt was the final service we could provide\nQueen Lumera as stewards.\x0E\x04\x00\x00
+MID_ED4_#003	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x08\x06フラン\nI can't believe she's gone.\x0E\x04\x00\x00
+MID_ED4_#004	\x0E\x03\x02\x08\x06クラン\nC'mon, Framme. Think how hard this must be\non the Divine Dragon. We gotta hold it together.\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x08\x06フラン\nI'm trying, but...\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x00\x0E\x08シグルド\x021\n\x0E\x03\x02\x08\x06マルス\n...\x0E\x04\x02\x00
+MID_ED4_#007	Lumera. I never thought our paths would\ndiverge so soon.\x0E\x04\x00\x00
+MID_ED4_#008	\x0E\x03\x02\x0A\x08シグルド\nNor I. And to leave a child behind. I did that\nin death... A bitter memory.\x0E\x04\x02\x00
+MID_ED4_#009	I vow to protect your offspring in your\nabsence, Lumera.\x0E\x04\x00\x00
+MID_ED4_#010	\x0E\x03\x02\x08\x06マルス\nIf we could grant our power now...\x0E\x04\x00\x00
+MID_ED4_#011	\x0E\x03\x02\x0A\x08シグルド\nMarth. You know that's not possible without the\nother Emblems here.\x0E\x04\x00\x00
+MID_ED4_#012	\x0E\x03\x02\x08\x06マルス\nYes, yes, I know.\x0E\x04\x00\x00
+MID_ED4_#013	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x01\x0A\x08シグルド\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nThis is awful. Sorry I couldn't have\ndone...something.\x0E\x04\x00\x00
+MID_ED4_#014	\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0C\nヴァンドレ\nNo, Prince Alfred. Without you, our losses may\nhave been even greater.\x0E\x04\x02\x00
+MID_ED4_#015	Though I must ask, why did you come?\nWas there something you needed?\x0E\x04\x00\x00
+MID_ED4_#016	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x0E\x0Cアルフレッド\nOur kingdom is in danger. My mother sent me\nto ask Queen Lumera for help.\x0E\x04\x02\x00
+MID_ED4_#017	All over Firene, our people are being attacked\nby these...these...creatures.\x0E\x04\x00\x00
+MID_ED4_#018	\x0E\x03\x02\x0A\x08リュール\nCreatures? What kind of creatures?\x0E\x04\x00\x00
+MID_ED4_#019	\x0E\x03\x02\x0E\x0Cアルフレッド\nThese things are like people, but...cracked,\nalmost crumbling. \x0E\x04\x00\x00
+MID_ED4_#020	\x0E\x03\x02\x0A\x08リュール\nThe Corrupted.\x0E\x04\x00\x00
+MID_ED4_#021	\x0E\x03\x02\x0E\x0Cアルフレッド\nOh, so that's what you call them.\x0E\x04\x00\x00
+MID_ED4_#022	\x0E\x03\x02\x0A\x08リュール\nYes. Corpses brought back to life.\x0E\x04\x00\x00
+MID_ED4_#023	\x0E\x03\x02\x0E\x0Cアルフレッド\nNo wonder they wouldn't listen to us. They just\nkeep attacking everything.\x0E\x04\x02\x00
+MID_ED4_#024	We sent our knights out to hold them off, but\nit's a losing battle.\x0E\x04\x02\x00
+MID_ED4_#025	My kingdom is being destroyed.\x0E\x04\x02\x00
+MID_ED4_#026	Divine One...will you help us?\x0E\x04\x02\x00
+MID_ED4_#027	Please, come with me to Firene.\x0E\x04\x00\x00
+MID_ED4_#028	\x0E\x03\x02\x0A\x08リュール\nMe? What can I do? It was my mother's help\nyou wanted, not mine.\x0E\x04\x00\x00
+MID_ED4_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nQueen Lumera is gone. You're the last\nDivine Dragon.\x0E\x04\x02\x00
+MID_ED4_#030	We need the power of the rings to save Firene.\nAnd only you can do that.\x0E\x04\x00\x00
+MID_ED4_#031	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED4_#032	\x0E\x03\x02\x0E\x0Cアルフレッド\nSorry. I don't mean to press the topic.\x0E\x04\x02\x00
+MID_ED4_#033	I'll return to Firene. We'll...do what we can.\x0E\x04\x00\x00
+MID_ED4_#034	\x0E\x03\x02\x0A\x08リュール\nI'm coming with you.\x0E\x04\x00\x00
+MID_ED4_#035	\x0E\x03\x02\x0E\x0Cアルフレッド\nYou will?!\x0E\x04\x00\x00
+MID_ED4_#036	\x0E\x03\x02\x0A\x08リュール\nI don't want more families to be torn apart─\nmore people to suffer.\x0E\x04\x02\x00
+MID_ED4_#037	Even if I'm scared, I have to push through\nmy fear.\x0E\x04\x02\x00
+MID_ED4_#038	Now that my mother is gone, it's my duty to\nstep into the role of Divine Dragon.\x0E\x04\x02\x00
+MID_ED4_#039	And if each kingdom is protecting rings, I take it\nFirene has one, correct?\x0E\x04\x00\x00
+MID_ED4_#040	\x0E\x03\x02\x0E\x0Cアルフレッド\nThat's right.\x0E\x04\x00\x00
+MID_ED4_#041	\x0E\x03\x02\x0A\x08リュール\nThen I need to go there anyway to honor my\nmother's request.\x0E\x04\x02\x00
+MID_ED4_#042	She asked me to gather all of the rings and\nbring peace back to Elyos.\x0E\x04\x02\x00
+MID_ED4_#043	As the Divine Dragon, I officially accept the\nkingdom of Firene's request for aid.\x0E\x04\x00\x00
+MID_ED4_#044	\x0E\x03\x02\x0E\x0Cアルフレッド\nThat's great to hear! Thank you, Divine One.\x0E\x04\x00\x00
+MID_ED4_#045	\x0E\x03\x02\x0A\x08リュール\nHappy to help, Prince Alfred.\x0E\x04\x00\x00
+MID_ED4_#046	\x0E\x03\x02\x0E\x0Cアルフレッド\nJust "Alfred" is fine. I've been visiting you at the\nSomniel since I was a boy.\x0E\x04\x02\x00
+MID_ED4_#047	I think of you as...an old friend. A very, very\nold friend.\x0E\x04\x00\x00
+MID_ED4_#048	\x0E\x03\x02\x0A\x08リュール\nI appreciate that. Actually, I can't remember\nanything from before I fell asleep.\x0E\x04\x00\x00
+MID_ED4_#049	\x0E\x03\x02\x0E\x0Cアルフレッド\nNothing?\x0E\x04\x00\x00
+MID_ED4_#050	\x0E\x03\x02\x0A\x08リュール\nThis world is new to me. I appreciate having\nfriends who can teach me about it.\x0E\x04\x00\x00
+MID_ED4_#051	\x0E\x03\x02\x0E\x0Cアルフレッド\nI'll do my best.\x0E\x04\x02\x00
+MID_ED4_#052	Can't say I'll know much compared to Queen\nLumera, but I'll try.\x0E\x04\x00\x00
+MID_ED4_#053	\x0E\x03\x02\x0A\x08リュール\nThank you, Alfred.\x0E\x04\x00\x00
+MID_ED5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0C\nヴァンドレ\nWe ought to establish a base of operations\nbefore we begin our journey.\x0E\x04\x02\x00
+MID_ED5_#002	The Somniel would be uniquely useful.\x0E\x04\x00\x00
+MID_ED5_#003	\x0E\x03\x02\x0A\x08リュール\nA little out of the way, isn't it?\x0E\x04\x02\x00
+MID_ED5_#004	I can't imagine how we'd get everyone there\nand back.\x0E\x04\x00\x00
+MID_ED5_#005	\x0E\x03\x02\x0C\nヴァンドレ\nAs a Divine Dragon, you can travel there no\nmatter where you are in the world.\x0E\x04\x02\x00
+MID_ED5_#006	\x0E\x03\x02\x0A\x08リュール\nI can?\x0E\x04\x00\x00
+MID_ED5_#007	\x0E\x03\x02\x0C\nヴァンドレ\nIndeed. Furthermore, one can only enter the\nSomniel with a Divine Dragon's power.\x0E\x04\x02\x00
+MID_ED5_#008	Without Queen Lumera's blessing, even we\nstewards couldn't have set foot there.\x0E\x04\x02\x00
+MID_ED5_#009	That is what makes it a safe haven.\x0E\x04\x00\x00
+MID_ED5_#010	\x0E\x03\x02\x0A\x08リュール\nWell then, yes. Let's use it as our base.\x0E\x04\x02\x00
+MID_ED5_#011	But before we depart, can you give me\na moment?\x0E\x04\x00\x00
+MID_ED5_#012	\x0E\x03\x02\x0C\nヴァンドレ\x0E\x05\x01\x1A\nヴァンドレ\x0CNormal\nHm?\x0E\x04\x00\x00
+MID_ED5_#013	\x0E\x03\x02\x0A\x08リュール\nWe'll be gone a while, so...I'd like to say\ngoodbye to my mother.\x0E\x04\x00\x00
+MID_ED5_#014	\x0E\x03\x02\x0C\nヴァンドレ\nOf course. Take as much time as you need.\x0E\x04\x00\x00
+MID_ED5_#015	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_ED5_#016	Thank you for watching over me all this time.\x0E\x04\x02\x00
+MID_ED5_#017	This journey will be a long one, but don't worry.\nVander and the others will be right beside me.\x0E\x04\x02\x00
+MID_ED5_#018	I will fulfill my duty as the Divine Dragon. I will\nfind all of the rings, just as you asked.\x0E\x04\x02\x00
+MID_ED5_#019	And then I'll return to you, Mother. I promise.\x0E\x04\x00\x00
+MID_ED6_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nHere we are, safely returned to the Somniel.\x0E\x04\x02\x00
+MID_ED6_#002	I didn't realize how...spacious this place was.\x0E\x04\x00\x00
+MID_ED6_#003	\x0E\x03\x02\x0C\nヴァンドレ\nIt is rather quiet, I know. But it will liven up\nas we gain allies.\x0E\x04\x02\x00
+MID_ED6_#004	We may need someone to supply us with\nequipment as well. Something to consider.\x0E\x04\x00\x00
+MID_ED6_#005	\x0E\x03\x02\x0A\x08リュール\nRight.\x0E\x04\x00\x00
+MID_ED6_#006	\x0E\x03\x02\x0C\nヴァンドレ\nOh, by the way, Divine One. Might this\nbe yours?\x0E\x04\x00\x00
+MID_ED6_#007	\x0E\x03\x02\x0A\x08リュール\nHm? A piece of jewelry... I don't recognize it.\nThe crystal looks unusual.\x0E\x04\x02\x00
+MID_ED6_#008	Where did you get this?\x0E\x04\x00\x00
+MID_ED6_#009	\x0E\x03\x02\x0C\nヴァンドレ\nOn the ground in the Ring Vault, after the siege.\x0E\x04\x02\x00
+MID_ED6_#010	I thought it might be yours, but apparently\nI was mistaken.\x0E\x04\x02\x00
+MID_ED6_#011	No one has come forward, so it must have\nbelonged to an enemy soldier. I'll dispose of it.\x0E\x04\x00\x00
+MID_ED6_#012	\x0E\x03\x02\x0A\x08リュール\nWait.\x0E\x04\x02\x00
+MID_ED6_#013	It's familiar somehow, even though I've never\nseen it.\x0E\x04\x00\x00
+MID_ED6_#014	\x0E\x03\x02\x0C\nヴァンドレ\nThen please, do take it. Perhaps it will help\njog your memory.\x0E\x04\x00\x00
+MID_ED6_#015	\x0E\x03\x02\x0A\x08リュール\nThank you, Vander.\x0E\x04\x02\x00
+MID_ED6_#016	Once we've rested for a bit, let's set out\nfor Firene.\x0E\x04\x00\x00

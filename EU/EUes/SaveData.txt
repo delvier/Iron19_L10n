@@ -1,0 +1,49 @@
+MID_SAVEDATA_CONFIRM_CLEARDATA	¿Quieres guardar una partida completada?\n(Tu ejército se mantendrá como antes\ndel capítulo 26, pero quedará un registro\nde que lo has completado.)
+MID_SAVEDATA_CONFIRM_WRITING	¿Quieres guardar la partida?
+MID_SAVEDATA_CONFIRM_SKIP_WRITING	¿Quieres continuar sin guardar?
+MID_SAVEDATA_CONFIRM_SKIP_YES	Continuar
+MID_SAVEDATA_CONFIRM_SUSPEND	¿Quieres guardar y volver\na la pantalla del título?
+MID_SAVEDATA_CONFIRM_SUSPEND_LOAD	Si cargas esta partida y cierras el juego\nsin crear un nuevo punto de suspensión,\nla partida volverá al inicio de la batalla.
+MID_SAVEDATA_CONFIRM_SUSPEND_COPY	No puedes copiar una partida suspendida.
+MID_SAVEDATA_CONFIRM_COPY	¿Quieres copiar los datos de guardado?
+MID_SAVEDATA_CONFIRM_COPY_YES	Copiar
+MID_SAVEDATA_CONFIRM_DELETE	¿Quieres borrar los datos de guardado?
+MID_SAVEDATA_CONFIRM_DELETE_YES	Borrar
+MID_SAVEDATA_READING	Cargando datos...\nNo apagues la consola.
+MID_SAVEDATA_WRITING	Guardando datos...\nNo apagues la consola.
+MID_SAVEDATA_COPYING	Copiando datos de guardado...\nNo apagues la consola.
+MID_SAVEDATA_DELETING	Borrando datos de guardado...\nNo apagues la consola.
+MID_SAVEDATA_LOAD_FAILED	No se han podido cargar\nlos datos de guardado.
+MID_SAVEDATA_VERSION_ERROR	No se han podido cargar los datos\nde guardado porque corresponden\na una versión distinta del juego.\nActualiza a la versión más reciente.
+MID_SAVEDATA_SAVE_FAILED	No se ha podido\nguardar el progreso.
+MID_SAVEDATA_COPY_FAILED	No se han podido copiar\nlos datos de guardado.
+MID_SAVEDATA_DELETE_FAILED	No se han podido borrar\nlos datos de guardado.
+MID_SAVEDATA_OLD_VERSION	No se pueden cargar los datos de guardado.\nCierra el programa e inícialo de nuevo o accede\na Nintendo eShop y descarga la actualización\nmás reciente.
+MID_SAVEDATA_NO_DATA	No hay datos de guardado.
+MID_SAVEDATA_TYPE_AUTO	Guardado automático
+MID_SAVEDATA_TYPE_MANUAL	Archivo \x0E\x01\x00\x00
+MID_SAVEDATA_SEQ_SORTIE	Prebatalla
+MID_SAVEDATA_SEQ_BMAP	Batalla
+MID_SAVEDATA_SEQ_BMAP_AFTER	Postbatalla
+MID_SAVEDATA_SEQ_SORTIE_ENCOUNT	Preescaramuza
+MID_SAVEDATA_SEQ_BMAP_ENCOUNT	Escaramuza
+MID_SAVEDATA_SEQ_ENCOUNT_AFTER	Posescaramuza
+MID_SAVEDATA_SEQ_SORTIE_TRAINING	Preentrenamiento
+MID_SAVEDATA_SEQ_BMAP_TRAINING	Entrenamiento
+MID_SAVEDATA_SEQ_TRAINING_AFTER	Posentrenamiento
+MID_SAVEDATA_SEQ_KIZUNA	Exploración
+MID_SAVEDATA_SEQ_HUB	Somniel
+MID_SAVEDATA_SEQ_GMAP	Mapa
+MID_SAVEDATA_LOAD_YES	Cargar
+MID_SAVEDATA_LOAD_HELP	Elige un archivo.
+MID_SAVEDATA_SAVE_TITLE	Guardar
+MID_SAVEDATA_SAVE_HELP	Elige un archivo.
+MID_SAVEDATA_SAVE_YES	Guardar
+MID_SAVEDATA_SUSPEND_TITLE	Suspender
+MID_SAVEDATA_SUSPEND_HELP	Elige un archivo.
+MID_SAVEDATA_SUSPEND_YES	Suspender
+MID_SAVEDATA_COPY_TITLE	Copiar
+MID_SAVEDATA_COPY_SRC_HELP	Elige los datos que se copiarán.
+MID_SAVEDATA_COPY_DST_HELP	Elige en qué archivo se copiarán.
+MID_SAVEDATA_DELETE_TITLE	Borrar
+MID_SAVEDATA_DELETE_HELP	Elige un archivo.

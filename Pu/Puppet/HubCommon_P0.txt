@@ -1,0 +1,36 @@
+MID_HUB_Tiki_PT28	
+MID_HUB_Tiki_PT29	
+MID_HUB_Tiki_PT30	
+MID_HUB_Tiki_PT31	
+MID_HUB_Tiki_PT32	
+MID_HUB_Tiki_PT33	
+MID_HUB_Tiki_PT35	
+MID_HUB_Edelgard_PT28	
+MID_HUB_Edelgard_PT29	
+MID_HUB_Edelgard_PT30	
+MID_HUB_Edelgard_PT31	
+MID_HUB_Edelgard_PT32	
+MID_HUB_Edelgard_PT33	
+MID_HUB_Edelgard_PT35	
+MID_HUB_Dimitri_PT28	
+MID_HUB_Dimitri_PT29	
+MID_HUB_Dimitri_PT30	
+MID_HUB_Dimitri_PT31	
+MID_HUB_Dimitri_PT32	
+MID_HUB_Dimitri_PT33	
+MID_HUB_Dimitri_PT35	
+MID_HUB_Claude_PT28	
+MID_HUB_Claude_PT29	
+MID_HUB_Claude_PT30	
+MID_HUB_Claude_PT31	
+MID_HUB_Claude_PT32	
+MID_HUB_Claude_PT33	
+MID_HUB_Claude_PT35	
+MID_KR_Tiki_G001	
+MID_HUB_WeaponShop_SilverCard_#001	
+MID_HUB_WeaponShop_SilverCard_#002	
+MID_HUB_ItemShop_SilverCard_#001	
+MID_HUB_ItemShop_SilverCard_#002	
+MID_HUB_DLC1_#001	キャラ配置(PID_リュール, ME_IN_B, 初期, Sad, IdleNormal,0)\nキャラ配置(PID_ヴァンドレ, ME_IN_C, 初期, Angry, IdleNormal,0)\n\nキャラ配置(PID_ソラ, YOU_IN_BC, [服装], Angry, IdleNormal,0)\n\n背景自動(Map_Event_Hub_Solanel_09)\nライト自動()\n\nキャラ視線(PID_リュール, PID_ソラ, PID_ソラ)\nキャラ視線(PID_ヴァンドレ, PID_ソラ, PID_ソラ)\n\n一枚絵表示(Tex_Event_DLC_ItemPicture_07, picture_item_fade_in_normal)\nキャラカメラ(CharaCam_SideLong_Left_Mid, PID_ヴァンドレ, cam_anim_track_r_slow)\n\nキャラモーション再生(PID_リュール, Normal, WalkIn2)\nキャラモーション再生(PID_ヴァンドレ, Normal, WalkIn2)\n\nフェードイン()
+MID_HUB_DLC1_#002	一枚絵非表示(picture_item_fade_out_normal)\n\nキャラ回転(PID_ヴァンドレ, -40,1,0)\nキャラモーション再生(PID_ヴァンドレ, Normal, TurnR,0, 0.5)\n\nキャラモーション再生(PID_ヴァンドレ, Angry, EmoTalk,1,1)\nキャラモーション再生(PID_リュール, Normal, EmoThinkIn, 1.5, 0.5)\n\nキャラ視線(PID_リュール, PID_ヴァンドレ, PID_ヴァンドレ)\nキャラ視線(PID_ヴァンドレ, PID_リュール, PID_リュール)\n\n*\nフェードアウト()
+MID_HUB_GiveAccessories_#001	

@@ -1,0 +1,43 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x0A\x08リュール\nCet endroit a quelque chose de très étrange.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06リーフ\nC'est la rivière Thracia. Ou du moins,\nune rivière qui lui ressemble énormément.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nElle vient de votre monde ?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06リーフ\nOui. Et cela ressemble fort à un terrain sur\nlequel je me suis un jour tenu.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06リーフ\nLa rivière Thracia était jolie et assez large\nen même temps. Mais surtout, elle fut le théâtre\nde sanglantes batailles.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nJe n'arrive pas à imaginer que des combats\naient eu lieu dans un paysage aussi serein...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06リーフ\nC'est ici que j'ai affronté Saias, un tacticien\nde génie que d'aucuns considéraient comme\nun héros.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06リーフ\nReinhardt, un puissant guerrier en qui certains\nvoyaient la réincarnation du croisé Thrud était\négalement présent.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06リーフ\nLe combat fut âpre. J'ai cru plus d'une fois\nque la défaite était inéluctable...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nAlors pourquoi cet endroit ressemble-t-il\nà ce lieu si chargé en souvenirs ?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06リーフ\nJe n'en suis pas sûr.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06リーフ\nJe sens une grande puissance en émaner.\nCe doit être ici que l'épreuve vous attend.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nL'épreuve... ?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00, je veux vous affronter ici.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06リーフ\nSi vous surmontez cette épreuve, notre lien\nn'en sera que plus fort.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06リーフ\nCe lien nous apportera une puissance\nindispensable pour les combats à venir.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nL'épreuve consiste à vous vaincre ? Soit.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06リーフ\nBien. La victoire est la seule voie possible.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nJe tiendrai ma position, sans chercher à fuir\nni à me cacher. Maintenant, je vous attends !\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x18\x06リーフ\x0EStandBy\n\x0E\x03\x02\x08\x06リーフ\nMaintenant ! Détruisez le pont !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nRelax\n\x0E\x03\x02\x08\x06リーフ\nJe vous attendais, \x0E\x06\x03\x00.\nÊtes-vous prêt\x0E\x0A\x00\x06
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nJe suis prêt\x0E\x0A\x00\x06
+MID_BT1_#003	\x0E\x05\x01\x16\x06リーフ\x0CStrike\n\x0E\x03\x02\x08\x06リーフ\nTrès bien. Ce sera un combat juste, entre égaux.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nSoyez honnête avec vous-même. Quel est votre\nplus grand désir ? Votre plus grand souhait ?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nMais je... Que se passera-t-il, si j'échoue\nà nouveau ?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06リーフ\nSmile\n\x0E\x03\x02\x08\x06リーフ\nLa vie n'est pas qu'un bête chemin à suivre,\net les erreurs ne sont que des erreurs.\nCorrigez-les en faisant amende honorable.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06リーフ\x0CNormal\n\x0E\x03\x02\x08\x06リーフ\nVous avez déjà confronté vos faiblesses.\nConfrontez-les à nouveau et vous n'en serez\nque plus forte.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x08\x06リーフ\nVous êtes bien plus fort\x0E\x0A\x00\x06
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nJ'ai encore de nombreux progrès à faire.\nMerci de me servir de guide.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06リーフ\nDe guide ? Un choix de mot intéressant.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06リーフ\nJe crois comprendre pourquoi c'est ici que\ns'est déroulée l'épreuve.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nOh ? Pourquoi ?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06リーフ\nJ'étais un jeune prince, sans expérience du\ncommandement. J'ai fait de nombreuses\nerreurs. Certaines aux conséquences fatales.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06リーフ\nPendant cette fameuse bataille, on m'a dit\nquelque chose que je n'ai jamais oublié depuis...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06リーフ\n« Le sang versé ne remonte jamais à sa source.\nUn tel sacrifice doit en valoir le prix. »\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00. La vie est une succession de\nchoix.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06リーフ\nPersonne ne peut dire si ses choix passés\nétaient les bons, ou s'il s'agissait d'erreurs.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06リーフ\nLa seule chose à faire, c'est d'œuvrer pour\nun avenir juste. Là est notre devoir.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06リーフ\nC'est toute la responsabilité d'un guide.\nEt c'est dans un endroit semblable en tous\npoints à celui-ci que j'ai appris cette leçon.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nMerci d'avoir partagé cette leçon avec moi,\nLeif. Je crois que je vous comprends mieux\nà présent.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nJe bâtirai cet avenir juste. Resterez-vous à\nmes côtés tant que durera cette guerre ?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06リーフ\nIci, sur les berges de cette jolie rivière,\nje vous jure allégeance, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

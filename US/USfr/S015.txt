@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nÇa alors. Aurais-je la berlue ?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06マルス\nVoilà qui est surprenant. Cet endroit\nressemble trait pour trait aux jardins du\nchâteau de Lythos.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nAlors je ne suis pas \x0E\x0A\x00\x0C\x04le\x04la seul\x0E\x0A\x00\x06
+MID_OP1_#004	\x0E\x03\x02\x08\x06マルス\nÇa ressemble au château, mais ça en a aussi\nl'atmosphère. L'air, les odeurs, tout y est.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nVous dites vrai. J'ai servi de nombreuses années\nau château, et cette vision a pourtant réussi\nà m'abuser.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nJe sais que rien de tout ça n'est réel, mais je\nressens tout de même une légère pointe de\nnostalgie en l'observant.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nMa mère m'a entraîné\x0E\x0A\x00\x06
+MID_OP1_#008	\x0E\x03\x02\x0C\nヴァンドレ\nJe m'en souviens bien. Hélas, à la suite de\nl'attaque, ce jardin est devenu un champ\nde ruines.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nC'est ainsi...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nRegardez ! Par-là ! Quelque chose scintille.\nVous le voyez aussi ?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nEst-ce un autel ? Et dessus... Il y a un anneau !\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nJe croyais que nous avions rassemblé tous\nles Anneaux d'Emblèmes... Est-il possible\nqu'il en existe davantage ?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nPeut-être un Emblème dont nous ignorions\nl'existence ? Allons voir !\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nAttendez. Je sens une présence... des ennemis\nsont proches.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x024\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x00\x1C\x16S015_異形兵_蛮族\x021\n\x0E\x03\x02\x18\x16S015_異形兵_蛮族\nRaaargh...\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nDes Aberrations ?! Elles doivent être là\npour l'anneau !\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nNous ne pouvons pas les laisser s'en emparer !\nIl appartient peut-être à un autre Emblème !\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0C\nヴァンドレ\nJe me bats de nouveau à vos côtés,\nVotre Divinité !\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\n... Cet anneau... Serait-ce possible ?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh !\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nDes renforts ?!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh !\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nOh non... ils se sont emparés de l'anneau.\nNous avons échoué.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRaaargh...\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRAAARGH !\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nC'est comme quand j'ai affronté les soldats\ncréés par ma mère pendant notre combat\nd'entraînement.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMère n'est plus, mais où qu'elle soit, je vais\nlui montrer à quel point j'ai progressé !\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRaaargh !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nNous avons récupéré l'anneau ! Mais, on dirait\nqu'il ne renferme pas d'Emblème. Étrange...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nヴァンドレ\nNe serait-ce qu'un simple anneau ?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nIl semblerait. Pourtant, quand je le tiens,\nje sens une chaleur qui m'enveloppe...\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06マルス\nC'est donc bien ce que je soupçonnais.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nQue croyez-vous que cet anneau puisse être ?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nL'Anneau du Pacte. Il appartient à la reine\nLumera, et renferme son pouvoir.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nQue savez-vous d'autre sur l'Anneau du\nPacte, Marth ?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nLumera a une fois déclaré que les Dragons\ndivins donnaient un anneau spécial à la\npersonne en qui ils avaient le plus confiance.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06マルス\nCet anneau renforce le lien qui les unit\net les rapproche encore davantage.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06マルス\nIl confère des pouvoirs spéciaux tant au Dragon\ndivin qu'au récepteur de l'anneau, avec qui\nle pacte est conclu.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nAlors... Mère a un jour donné cet anneau à\nune personne en qui elle avait confiance ?\nAvec qui elle était liée ?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06マルス\nJe le suppose. Mais ses amis et alliés\nn'ont pas survécu à la guerre.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06マルス\nAlors nous ne pourrons jamais savoir à qui\nelle l'a donné... si elle l'a effectivement donné.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMère...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06マルス\nMais nous savons que de son vivant, vous étiez\nla personne la plus importante à ses yeux.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06マルス\nCet anneau vous revient, j'en suis persuadé.\nÀ vous de le donner à l'allié en qui vous\nportez toute votre confiance.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nJe réfléchirai longuement avant de décider\nqui est digne de le porter.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0C\nヴァンドレ\nNotre arrivée en ces lieux doit être l'œuvre\nde Sa Majesté Lumera.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nC'est une pensée réconfortante d'imaginer\nque Mère veille sur moi. Mais la bataille qui\ns'annonce est la mienne. Je dois être fort\x0E\x0A\x00\x06
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nAllons-nous-en. J'aimerais tant rester, mais...\nnous avons encore beaucoup à faire.\x0E\x04\x00\x00

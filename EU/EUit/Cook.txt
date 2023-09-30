@@ -1,0 +1,298 @@
+MID_FOOD_RESULT	\x0E\x01\x01\x00 \x0E\x01\x00\x00
+MID_FOODRANK_Superb	di grande qualità
+MID_FOODRANK_Delicious	dal gusto delizioso
+MID_FOODRANK_Growling	da leccarsi le dita
+MID_FOODRANK_Melt	da acquolina
+MID_FOODRANK_HighKing	del conquistatore
+MID_FOODRANK_HolyMother	della madre sacra
+MID_FOODRANK_Courage	del coraggio
+MID_FOODRANK_Wisdom	della sagacia
+MID_FOODRANK_Chalk	dal gusto divino
+MID_FOODRANK_Mens	alla bell'e meglio
+MID_FOODRANK_ForBoys	di cui innamorarsi
+MID_FOODRANK_Woman	dal gusto audace
+MID_FOODRANK_ForGirls	dal gusto sottile
+MID_FOODRANK_Adult	per adulti
+MID_FOODRANK_Child	per giovani
+MID_FOODRANK_Your	in stile personale
+MID_FOODRANK_Discerning	per palati ricercati
+MID_FOODRANK_Whimsical	dal sapore strano
+MID_FOODRANK_Rich	dal gusto ricco
+MID_FOODRANK_Refreshing	dal sapore fresco
+MID_FOODRANK_Sharp	di gusto armonico
+MID_FOODRANK_Friendly	dal gusto delicato
+MID_FOODRANK_BrodiaStyle	in stile brodiano
+MID_FOODRANK_FileneStyle	in stile firenese
+MID_FOODRANK_SolumStyle	in stile solmico
+MID_FOODRANK_IrcionStyle	in stile elusiano
+MID_FOODRANK_LithosStyle	in stile del Lythos
+MID_FOODRANK_Wild	in stile rustico
+MID_FOODRANK_Exciting	in abbondanza
+MID_FOODRANK_CarefullySelected	di gran classe
+MID_FOODRANK_Fresh	dal gusto genuino
+MID_FOODRANK_Spicy	di fuoco
+MID_FOODRANK_Hot	dal gusto piccante
+MID_FOODRANK_Bitter	dal gusto amaro
+MID_FOODRANK_Bittersweet	con note agrodolci
+MID_FOODRANK_SuperSweet	e tanto zucchero
+MID_FOODRANK_Sweet	dal gusto dolce
+MID_FOODRANK_Chewy	da masticare bene
+MID_FOODRANK_Hard	per denti forti
+MID_FOODRANK_Habit	da perdere la testa
+MID_FOODRANK_Smart	fuori dal comune
+MID_FOODRANK_Normal	di stile comune
+MID_FOODRANK_Mistake	con degli errori
+MID_FOODRANK_Shortage	senza carattere
+MID_FOODRANK_DifferentStar	di un altro mondo
+MID_FOODRANK_DefinitelySuffer	da voltastomaco
+MID_FOODRANK_Carbonization	in cenere
+MID_FOOD_OnionSoup	Zuppa di cipolle
+MID_FOOD_H_OnionSoup	Una zuppa semplice, ma saporita,\na base di cipolle, acqua e spezie.
+MID_FOOD_ConsommeSoup	Zuppa di verdure e legumi
+MID_FOOD_H_ConsommeSoup	Una zuppa contenente salsicce,\nlegumi e verdure. La base del brodo\nvaria a seconda di chi la prepara.
+MID_FOOD_DumplingsOfMeat	Fagottini di carne
+MID_FOOD_H_DumplingsOfMeat	Pagnottelle farcite con un ripieno di\ncarne macinata, verdure, pangrattato\ne spezie, e poi bollite.
+MID_FOOD_PotatoSoup	Vellutata di patate
+MID_FOOD_H_PotatoSoup	Una zuppa densa e cremosa\npreparata con patate tenere.
+MID_FOOD_WhiteSausage	Salsicciotti bianchi
+MID_FOOD_H_WhiteSausage	Salsicce a base di carne di agnello,\npancetta ed erbe aromatiche.
+MID_FOOD_StewedSaltedMeat	Stufato di carne
+MID_FOOD_H_StewedSaltedMeat	Stinco di maiale stufato a lungo in\nun brodo di erbe e verdure.
+MID_FOOD_CreamCroquette	Crocchette fritte
+MID_FOOD_H_CreamCroquette	Crocchette ripiene di besciamella.
+MID_FOOD_SmokedEel	Anguilla affumicata
+MID_FOOD_H_SmokedEel	Un'anguilla d'acqua dolce pulita\ne affumicata. Si mangia anche la\npelle!
+MID_FOOD_PickledPicklesHerringRoll	Involtini di aringa e sottaceti
+MID_FOOD_H_PickledPicklesHerringRoll	Cipolle o pomodori sottaceto avvolti\nin un'aringa marinata.
+MID_FOOD_FriedCarp	Carpa fritta
+MID_FOOD_H_FriedCarp	Carpa pulita e sfilettata, e poi\ncotta intera nell'olio bollente.
+MID_FOOD_ApplePie	Torta di mele
+MID_FOOD_H_ApplePie	Una torta ripiena di fettine di mela.
+MID_FOOD_StewedCabbage	Cavolo in salamoia
+MID_FOOD_H_StewedCabbage	Fettine di cavolo messe sotto\nsale e spezie, e lasciate fermentare\nin un apposito vaso o barile.
+MID_FOOD_PotatoPancakes	Pancake di patate
+MID_FOOD_H_PotatoPancakes	La pastella contiene anche patate\ngrattugiate. Si friggono in padella.
+MID_FOOD_SteamedDumpling	Gnocchetti dolci
+MID_FOOD_H_SteamedDumpling	Palline di impasto cotte in un misto\ndi latte e burro in una pentola\ncoperta.
+MID_FOOD_OnionQuiche	Quiche alla cipolla
+MID_FOOD_H_OnionQuiche	Una quiche cotta al forno, ripiena\ndi un abbondante farcitura di cipolle\ne pancetta saltate in padella.
+MID_FOOD_FruitHamToast	Toast mela e formaggio
+MID_FOOD_H_FruitHamToast	Formaggio e mela tagliata sottile\nsopra una fetta di pane appena\ntostato.
+MID_FOOD_PeachCake	Torta alle pesche
+MID_FOOD_H_PeachCake	Pan di spagna, pesche e una\nspruzzata di zucchero a velo.
+MID_FOOD_NutsAndHoneyCake	Torta con frutta secca
+MID_FOOD_H_NutsAndHoneyCake	Una torta composta da uno strato\ndi frutta secca caramellata, e uno di\ncrema pasticcera.
+MID_FOOD_BoiledRedWineInBerry	Frutti di bosco sciroppati
+MID_FOOD_H_BoiledRedWineInBerry	Frutti di bosco cotti nello sciroppo\nrosso. Una volta raffreddati sono\nottimi col gelato.
+MID_FOOD_FriedBreadOfDonutStyle	Bomboloni ripieni
+MID_FOOD_H_FriedBreadOfDonutStyle	Bomboloni fritti e farciti con\nmarmellate varie o creme.
+MID_FOOD_TearingPancakes	Kaiserschmarrn
+MID_FOOD_H_TearingPancakes	Bocconcini di pancake ricoperti di\nburro fuso e zucchero a velo.
+MID_FOOD_Omlet	Omelette
+MID_FOOD_H_Omlet	Una frittata ripiegata e farcita con\nvari ingredienti come pomodoro o\nformaggio.
+MID_FOOD_ThickGrilledCrepePizza	Frittata
+MID_FOOD_H_ThickGrilledCrepePizza	Una grande e spessa frittata\npreparata con la pastella.
+MID_FOOD_ThickSlicedPotatoFries	Patatine
+MID_FOOD_H_ThickSlicedPotatoFries	Patatine dal taglio spesso da\naccompagnare con la propria\nsalsa preferita.
+MID_FOOD_LambAndCabbageStew	Stufato di agnello e cavolo
+MID_FOOD_H_LambAndCabbageStew	Agnello e foglie di cavolo cotti\nin brodo fino a raggiungere una\nconsistenza tenera.
+MID_FOOD_RoastWithSkinOfPorkBelly	Pancetta croccante
+MID_FOOD_H_RoastWithSkinOfPorkBelly	Pancetta arrostita esternamente e\npoi brasata senza togliere la pelle.
+MID_FOOD_SteamedThighMeatOfSaltedSheep	Stinco di agnello brasato
+MID_FOOD_H_SteamedThighMeatOfSaltedSheep	Stinco di agnello essiccato sotto\nsale e poi stufato.
+MID_FOOD_FruitPie	Crostata ai canditi
+MID_FOOD_H_FruitPie	Una crostata ripiena di frutta\ncandita.
+MID_FOOD_BoiledBeefInWine	Manzo in salsa d'uva
+MID_FOOD_H_BoiledBeefInWine	Bocconcini di manzo fatti saltare con\nun soffritto di cipolle e brasati in una\nsalsa a base di burro e succo d'uva.
+MID_FOOD_BraisedCod	Baccalà bollito
+MID_FOOD_H_BraisedCod	Stoccafisso reidratato, sciacquato\ne bollito fino ad assumere una\nconsistenza gelatinosa.
+MID_FOOD_FishCreamSoup	Caciucco bianco di pesce
+MID_FOOD_H_FishCreamSoup	Una zuppa densa e sostanziosa\na base di pesce e panna liquida.
+MID_FOOD_MeatDumplingWithCreamSauce	Polpette di carne con salsa
+MID_FOOD_H_MeatDumplingWithCreamSauce	Polpette servite con una salsa\ncremosa e accompagnate da una\nmarmellata dolce.
+MID_FOOD_MarinatedSalmon	Salmone marinato
+MID_FOOD_H_MarinatedSalmon	Salmone insaporito in una speciale\nmarinatura di sale, zucchero e erbe\nche gli conferisce un aroma unico.
+MID_FOOD_CrispBread	Pane croccante
+MID_FOOD_H_CrispBread	Fette di pane molto croccanti, simili\nai cracker. La ricetta è semplice:\nfarina di grano, sale e acqua.
+MID_FOOD_PorridgeOfSourCream	Semolino di panna acida
+MID_FOOD_H_PorridgeOfSourCream	Una crema densa preparata con\npanna acida, farina e latte, servita\ncon zucchero e burro fuso.
+MID_FOOD_CrepePancake	Crêpe
+MID_FOOD_H_CrepePancake	Crespelle sottili, ricoperte\ndi marmellata e servite\narrotolate.
+MID_FOOD_JamCake	Pan di spagna e marmellata
+MID_FOOD_H_JamCake	Soffici fette di pan di spagna\nricoperte di dolce marmellata.
+MID_FOOD_TreeCake	Torta abete
+MID_FOOD_H_TreeCake	Una torta alla meringa disposta\na strati concentrici. La sua forma a\ncono ricorda un abete.
+MID_FOOD_FishDumpling	Polpette di pesce
+MID_FOOD_H_FishDumpling	Polpettine di pesce tritato fritte\nnel burro.
+MID_FOOD_GoatCheese	Formaggio brodiano
+MID_FOOD_H_GoatCheese	Un formaggio a pasta dura\nrealizzato unicamente con latte\nfresco brodiano.
+MID_FOOD_Oatmeal	Porridge
+MID_FOOD_H_Oatmeal	Crema di fiocchi di avena cotti nel\nlatte.
+MID_FOOD_BakedPotatoes	Patata al forno
+MID_FOOD_H_BakedPotatoes	Una patata cotta al forno, aperta a\nmetà e ricoperta di formaggio, fagioli\ne altri ingredienti a piacere.
+MID_FOOD_NutsCompote	Coulis di frutta secca
+MID_FOOD_H_NutsCompote	Frutta secca cotta in acqua\ne zucchero.
+MID_FOOD_BoiledEggGroundMeatRolls	Uova impanate
+MID_FOOD_H_BoiledEggGroundMeatRolls	Uova sode avvolte in uno strato\ndi carne macinata e ricoperte di\npangrattato. Fritte in olio bollente.
+MID_FOOD_CurryOfChickenAndTomato	Curry di pollo e pomodoro
+MID_FOOD_H_CurryOfChickenAndTomato	Carne di pollo grigliata e poi stufata\nin una salsa al curry con panna e\npomodoro.
+MID_FOOD_StewedSheep	Haggis
+MID_FOOD_H_StewedSheep	Una farcia preparata con interiora\ndi pecora, cipolle e erbe aromatiche\nbollita nello stomaco di una pecora.
+MID_FOOD_CrumbleCake	Torta di frutta
+MID_FOOD_H_CrumbleCake	Un impasto a base di farina, burro\ne zucchero ricoperto con frutta cotta\ne cotto in forno.
+MID_FOOD_MarinatedOnionAndHerring	Aringa marinata
+MID_FOOD_H_MarinatedOnionAndHerring	Aringa e cipolle dolci marinate\nin aceto e zucchero.
+MID_FOOD_BakedPie	Pasticcio di carne
+MID_FOOD_H_BakedPie	Carne tritata, cipolle, patate sono\nsolo alcuni tra gli ingredienti di\nquesta torta salata.
+MID_FOOD_NutsMilkPie	Torta al latte di noci
+MID_FOOD_H_NutsMilkPie	Un dolce composto da strati di\nimpasto leggermente fritto, frutta\nsecca e sciroppo.
+MID_FOOD_NutsRicePudding	Risolatte con frutta secca
+MID_FOOD_H_NutsRicePudding	Crema di riso e latte con zucchero\ne frutta secca.
+MID_FOOD_DomeBread	Panettone
+MID_FOOD_H_DomeBread	Un pane dolce dalla forma a cupola\ne realizzato con un impasto morbido\narricchito con canditi e uvetta.
+MID_FOOD_ColdVegetableSoup	Minestra fredda di verdura
+MID_FOOD_H_ColdVegetableSoup	Verdure miste, mele e altri\ningredienti frullati per realizzare\nuna zuppa che si serve fredda.
+MID_FOOD_RawHam	Prosciutto crudo
+MID_FOOD_H_RawHam	Fette di prosciutto crudo ricavato\nda carni suine di qualità.
+MID_FOOD_SkeweredMeat	Spiedini di carne
+MID_FOOD_H_SkeweredMeat	Pezzetti di carne di vario tipo\nmarinati in olio e spezie, infilati\nin spiedini e cotti alla griglia.
+MID_FOOD_Paella	Paella di pesce
+MID_FOOD_H_Paella	Riso cucinato in una grossa padella\ninsieme a un brodo vegetale, pesce\ne molluschi.
+MID_FOOD_StewedBaconAndBeans	Fagioli e polpette
+MID_FOOD_H_StewedBaconAndBeans	Fagioli e polpette saltati con cipolla\ne altri ingredienti.
+MID_FOOD_Tiramisu	Tiramisù
+MID_FOOD_H_Tiramisu	Dolce a base di biscotti immersi nel\ncaffè ricoperti di una crema\nparticolare. Viene servito freddo.
+MID_FOOD_BerrySaucePannaCotta	Panna cotta ai frutti di bosco
+MID_FOOD_H_BerrySaucePannaCotta	Budino di panna, zucchero, gelatina\ne vaniglia cotto in un piccolo stampo\ne ricoperto di salsa ai frutti di bosco.
+MID_FOOD_SeafoodAjillo	Mix di mare all'aglio
+MID_FOOD_H_SeafoodAjillo	Frutti di mare e pesce cotti in olio di\noliva e aglio.
+MID_FOOD_FriedSardines	Sardine fritte
+MID_FOOD_H_FriedSardines	Sardine intere fritte in olio d'oliva.
+MID_FOOD_FriedVegetables	Verdure saltate
+MID_FOOD_H_FriedVegetables	Verdure fresche saltate in padella\nnell'aglio e olio.
+MID_FOOD_BoiledTomatoesInVinegar	Pomodori all'aceto dolce
+MID_FOOD_H_BoiledTomatoesInVinegar	Pomodori saltati in padella con\naceto dolce, cipolle, spezie e altri\ningredienti.
+MID_FOOD_CremeBrulee	Crème brûlée
+MID_FOOD_H_CremeBrulee	Crema pasticcera servita fredda e\nricoperta di uno strato di zucchero\ncroccante caramellato a fiamma.
+MID_FOOD_Churro	Churros
+MID_FOOD_H_Churro	Dolci fatti di pastella passata\nattraverso un beccuccio a stella,\nfritta e ricoperta di zucchero.
+MID_FOOD_SoftCandy	Barrette dolci
+MID_FOOD_H_SoftCandy	Barrette di frutta secca mescolata a\nzucchero o meringa e conservate al\nfresco.
+MID_FOOD_AuthenticPizza	Pizza
+MID_FOOD_H_AuthenticPizza	Uno strato di pasta sottile ricoperto\ndi pomodoro mozzarella e basilico.
+MID_FOOD_Risotto	Risotto
+MID_FOOD_H_Risotto	Riso tostato nel burro e poi cotto nel\nbrodo.
+MID_FOOD_RiceCroquette	Crocchette di riso
+MID_FOOD_H_RiceCroquette	Palline di riso bollito mescolato con\nuovo sbattuto, formaggio, sale e\npepe, impanate e fritte.
+MID_FOOD_RosettaBread	Rosetta
+MID_FOOD_H_RosettaBread	Pagnotta a forma di rosa dall'interno\nvuoto e dalla crosta croccante\ne fragrante.
+MID_FOOD_AcquaPazza	Acqua pazza
+MID_FOOD_H_AcquaPazza	Frutti di mare sbollentati in padella\ncon acqua, olio, sale, aglio\ne pomodorini.
+MID_FOOD_VealRoll	Rolatine di vitello
+MID_FOOD_H_VealRoll	Fettine di filetto di vitello farcite con\nformaggio, salsa e altri ingredienti,\narrotolate e cotte in padella.
+MID_FOOD_SaltedPorkNeck	Pancetta
+MID_FOOD_H_SaltedPorkNeck	Sottili fettine di pancetta cotte\ncon spezie e aromi.
+MID_FOOD_BloodBoiledSausage	Sanguinacci
+MID_FOOD_H_BloodBoiledSausage	Salsicce preparate con un impasto\ndi carne e sangue di maiale rappreso.\nVengono bollite.
+MID_FOOD_PotatoMeatBun	Pagnottelle di patate e carne
+MID_FOOD_H_PotatoMeatBun	Impasto a base di patate contenente\nmaiale e cipolla.
+MID_FOOD_Cocotte	Terrina al forno
+MID_FOOD_H_Cocotte	Patate, pesce e altri ingredienti\nmescolati con la panna e cotti\nal forno in una pirofila.
+MID_FOOD_GreenPeasMash	Purè di piselli
+MID_FOOD_H_GreenPeasMash	Piselli cotti e frullati con burro\ne latte.
+MID_FOOD_SandwichCake	Torta tramezzino
+MID_FOOD_H_SandwichCake	Una torta i cui strati sono tanti\ntramezzini, decorata con filetti\ndi pesce a forma di fiore.
+MID_FOOD_RoastedSalmon	Salmone arrosto
+MID_FOOD_H_RoastedSalmon	Salmone insaporito e cotto al forno.
+MID_FOOD_StewedMashedPotatoesAndKale	Purè di patate alle erbe
+MID_FOOD_H_StewedMashedPotatoesAndKale	Patate schiacciate e stufate\ncon erbe aromatiche e latte.
+MID_FOOD_SalmonAndPotatoGratin	Gratin di patate e salmone
+MID_FOOD_H_SalmonAndPotatoGratin	Un tortino a strati di salmone salato\ne patate, ricoperto con una crema di\nuova e latte, poi cotto al forno.
+MID_FOOD_ShamrockSalad	Insalata di trifoglio
+MID_FOOD_H_ShamrockSalad	Trifoglio fresco in insalata condito\ncon olio d'oliva e aceto.
+MID_FOOD_BaconAndFishWrappedBread	Pane ripieno
+MID_FOOD_H_BaconAndFishWrappedBread	Strati di pesce e pancetta su una\nbase di pane di farina di segale\ncotti al forno.
+MID_FOOD_JamCookies	Biscotti alla marmellata
+MID_FOOD_H_JamCookies	Biscotti cotti al forno con un cuore\ndi gustosa marmellata.
+MID_FOOD_CinnamonRoll	Brioche alla cannella
+MID_FOOD_H_CinnamonRoll	Impasto steso, spennellato di burro,\nspolverato con cannella e zucchero,\narrotolato, tagliato e cotto in forno.
+MID_FOOD_CabbageAndNutSalad	Cavolo e frutta secca
+MID_FOOD_H_CabbageAndNutSalad	Un misto di cavolo fresco e frutta\nsecca, condito subito prima di essere\nservito.
+MID_FOOD_OpenSandwich	Smørbrød
+MID_FOOD_H_OpenSandwich	Fettine di pane di segale spalmate\ndi burro e guarnite con formaggio,\nsalmone affumicato e quant'altro.
+MID_FOOD_AppleCharlotte	Tortino morbido di mele
+MID_FOOD_H_AppleCharlotte	Un involucro di pane al burro farcito\ncon fettine di mele arrostite in\npadella e crema, e cotto in forno.
+MID_FOOD_MochiPancake	Pancake soffici
+MID_FOOD_H_MochiPancake	Una pastella con uova, farina e latte\ncotta delicatamente alla piastra.
+MID_FOOD_SauteedBaconAndApples	Mele e pancetta saltate
+MID_FOOD_H_SauteedBaconAndApples	Fettine di pancetta saltate in padella\ne servite con mele cotte con poco\nolio ad alta temperatura.
+MID_FOOD_BerryJelly	Gelatina di frutti di bosco
+MID_FOOD_H_BerryJelly	Succo di frutti di bosco addensato\ncon fecola di patate, raffreddato e\nservito con panna montata.
+MID_FOOD_BakingSodaBread	Pane con bicarbonato
+MID_FOOD_H_BakingSodaBread	Pane preparato con il bicarbonato\nal posto del lievito.
+MID_FOOD_SashimiPlatter	Piatto di sashimi
+MID_FOOD_H_SashimiPlatter	Pesce crudo tagliato a fette sottili.
+MID_FOOD_MisoSoup	Zuppa di miso
+MID_FOOD_H_MisoSoup	Zuppa preparata con pasta di soia o\ngrano fermentato sciolta in acqua\ncalda e servita con tofu o alghe.
+MID_FOOD_Uiro	Uiro
+MID_FOOD_H_Uiro	Dolcetti preparati con farina e\nzucchero e cotti al vapore.
+MID_FOOD_Anmitsu	Anmitsu
+MID_FOOD_H_Anmitsu	Un dolce a base di fagioli azuki,\ncubetti di agar, pesche, arance\nricoperti di melassa.
+MID_FOOD_EggOverRice	Riso con uova
+MID_FOOD_H_EggOverRice	Una ciotola di riso bianco cotto\nal vapore servito con un uovo in\ncamicia e salsa di soia.
+MID_FOOD_CountrysideBread	Pane contadino
+MID_FOOD_H_CountrysideBread	Un grosso panino preparato con\nfarina di segale, acqua e sale.
+MID_FOOD_Croissant	Croissant
+MID_FOOD_H_Croissant	Sfoglia composta da vari strati\nimburrati e arrotolata a forma di\nmezza luna.
+MID_FOOD_StewedLambMeat	Stufato di agnello
+MID_FOOD_H_StewedLambMeat	Agnello rosolato in padella\ne stufato con patate e cipolle.
+MID_FOOD_StewedVegetables	Minestrone di verdure
+MID_FOOD_H_StewedVegetables	Una zuppa densa e sostanziosa\npreparata con tante verdure diverse.
+MID_FOOD_CodDip	Baccalà mantecato
+MID_FOOD_H_CodDip	Merluzzo e patate bolliti nel latte\ne ridotti in crema. Si serve spalmato\nsu fettine di pane o di polenta.
+MID_FOOD_HotCrepe	Crêpe flambée
+MID_FOOD_H_HotCrepe	Una crêpe sfumata in padella\ncon succo d'arancia.
+MID_FOOD_BerryAndCustardTartCake	Crostata crema e marmellata
+MID_FOOD_H_BerryAndCustardTartCake	Due strati di pasta frolla ripieni\ndi crema e marmellata di frutti di\nbosco.
+MID_FOOD_PeachSorbet	Sorbetto alla pesca
+MID_FOOD_H_PeachSorbet	Un dolce al cucchiaio a base di\nsucco fresco di pesca frullato\ne congelato.
+MID_FOOD_AppleBeignet	Frittelle di mela
+MID_FOOD_H_AppleBeignet	Mele ricoperte di pastella e fritte.\nVengono servite con una spolverata\ndi zucchero.
+MID_FOOD_OrangeChocolate	Arance al cioccolato
+MID_FOOD_H_OrangeChocolate	Fettine d'arancia bollite nello\nsciroppo di zucchero, cotte al forno\ne ricoperte di cioccolato.
+MID_FOOD_FruitCandy	Frutta candita
+MID_FOOD_H_FruitCandy	Frutta ricoperta di zucchero o di\nsciroppo servita su un bastoncino.\nUn ottimo spuntino.
+MID_FOOD_Smoothie	Frullato di frutta
+MID_FOOD_H_Smoothie	Una bevanda densa a base di frutta\nmista frullata insieme.
+MID_FOOD_AppleCanpot	Frullato di mele
+MID_FOOD_H_AppleCanpot	Una bevanda dolce ricavata da mele\nfatte macerare in acqua e zucchero.\nSi consuma sia fredda sia calda.
+MID_FOOD_OrangeMarmalade	Marmellata d'arance
+MID_FOOD_H_OrangeMarmalade	Una conserva di frutta a base di\narance bollite con la buccia in acqua\ne zucchero fino ad addensarsi.
+MID_FOOD_VegetableStick	Bastoncini di verdure
+MID_FOOD_H_VegetableStick	Verdure tagliate a forma di\nbastoncino, si mangiano intinte\nin salse o condimenti.
+MID_FOOD_ChiliSalad	Insalata piccante
+MID_FOOD_H_ChiliSalad	Un'insalata condita con una salsa\npiccante preparata con varie spezie.
+MID_FOOD_ChiliFruitStick	Frutta piccante
+MID_FOOD_H_ChiliFruitStick	Tocchetti di frutta infilati in uno\nspiedino e ricoperti di una polvere\npiccante.
+MID_FOOD_ChiliIceCream	Sorbetto piccante
+MID_FOOD_H_ChiliIceCream	Una pallina di sorbetto alla pesca\nricoperta con una salsa al\npeperoncino.
+MID_FOOD_RedPepperPickles	Peperoncini sottaceto
+MID_FOOD_H_RedPepperPickles	Peperoncini interi, marinati in\nuna salamoia a base di aceto.
+MID_FOOD_TomYumSoupWithChicken	Zuppa tom yum di pollo
+MID_FOOD_H_TomYumSoupWithChicken	Una zuppa di pollo, ricca di spezie.\nHa un sapore ricco che combina\nnote acide e piccanti.
+MID_FOOD_BoiledChiliWithCheese	Stufato piccante di formaggio
+MID_FOOD_H_BoiledChiliWithCheese	Peperoncini stufati prima in acqua\ne formaggio, e poi con pomodoro e\naglio.
+MID_FOOD_RedMaboTofu	Mapo tofu rosso
+MID_FOOD_H_RedMaboTofu	Tritata di manzo e tofu, saltati con\nspezie e peperoncini. Un piatto\npiccantissimo!
+MID_FOOD_FriedPorkKimchi	Kimchi e maiale in padella
+MID_FOOD_H_FriedPorkKimchi	Pancetta saltata con verdure\nmarinate con spezie e peperoncino.\nUn piatto piccantissimo!
+MID_FOODRANK_COND_ComeFromBrodia	della Brodia
+MID_FOODRANK_COND_ComeFromFilene	del Firene
+MID_FOODRANK_COND_ComeFromSolum	del Solm
+MID_FOODRANK_COND_ComeFromIrcion	dell'Elusia
+MID_FOODRANK_COND_ComeFromLithos	del Lythos
+MID_FOODRANK_COND_IsMale	maschio
+MID_FOODRANK_COND_IsFemale	femmina
+MID_FOODRANK_COND_IsAdult	adulto
+MID_FOODRANK_COND_IsChild	giovane
+MID_FOODRANK_COND_IsLueur	Drago Divino

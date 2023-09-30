@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x0A\x08リュール\nLucina, ¿qué es este lugar?\nNoto un extraño poder mágico.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ルキナ\nEsto se parece mucho al coliseo de Ferox...\nQué curioso.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Ferox? ¿Es un lugar de tu mundo?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ルキナ\nSí, es un reino dividido en dos zonas:\nla este y la oeste, cada una dirigida por un kan.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ルキナ\nCada varios años, se celebra un torneo\npara decidir qué kan gobernará todo el reino.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06ルキナ\nEn este coliseo fue donde me enfrenté\na mi padre...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nÉl te enseñó a manejar la espada, ¿no? Debió\nde ser un combate muy interesante y reñido.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ルキナ\nSí, fue difícil. No sospechaba quién era,\npor lo que se empleó a fondo.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ルキナ\nAprendí mucho de él, pero hasta entonces no\nsabía lo fuerte que era en realidad mi padre.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ルキナ\nSupongo que por eso se ha elegido\neste lugar como recinto de duelos.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\n¿A qué te refieres?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ルキナ\nDe este lugar fluye un poder inmenso.\nDime qué sientes tú exactamente.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nPues... Es como si... proviniera de ti.\nPero también de muy lejos.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ルキナ\nEntonces, lucha contra mí. Si superas\nla prueba, nuestro vínculo se fortalecerá.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06ルキナ\nAsí podrás beber aún más\nde mi poder como Emblema.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nEspero aprender tanto en este coliseo\ncomo hiciste tú.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06ルキナ\nAdmiro tu entusiasmo, pero te lo advierto:\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06ルキナ\nte hará falta algo más que esperanza\npara ganar este combate.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nPrepárate bien, ¡porque pienso ir con todo!\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06ルキナ\n¡Así me gusta, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x18\x06ルキナ\x0EStandBy\n\x0E\x03\x02\x08\x06ルキナ\nNo te contengas, \x0E\x06\x03\x00. ¡Lucha con\ntodas tus fuerzas para reforzar nuestro vínculo!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x14\x06ルキナ\nAngry\n\x0E\x03\x02\x08\x06ルキナ\n¿Qué ocurre, \x0E\x06\x03\x00?\nNo vas a ganar si te quedas ahí parad\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNo encuentro puntos débiles en tu postura.\nHaga lo que haga, no sé cómo alcanzarte.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06ルキナ\nLas dudas no son buenas consejeras.\nConfía en ti. ¡Ataca con todas tus fuerzas!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\n¡Entendido! ¡Allá voy!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Aquí los kanes se disputaban el derecho\na gobernar? Parece obra del destino.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x03\x02\x08\x06ルキナ\nNo luchaban ellos: escogían campeones\npara que se batieran en su nombre.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStatus\n\x0E\x03\x02\x0E\x0Cアルフレッド\nUf. En ese caso, es una suerte que este lugar\nno sea el coliseo de verdad.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x08\x06ルキナ\n\x0E\x05\x01\x16\x06ルキナ\x0CStatus\nCierto. Y ahora, ¡atácame!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x08\x06ルキナ\nVaya, he perdido... Tu destreza con\nla espada ha mejorado considerablemente.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ルキナ\nComparado con cuando te conocí, ahora\nte has convertido en \x0E\x0A\x00\x0E\x04un\x06una rival formidable.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nGracias, en parte se lo debo\na tus enseñanzas, Lucina.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ルキナ\nQué amable. Nada me hace más feliz\nque haberte sido de ayuda.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06ルキナ\nPodemos extraer una enseñanza: lo que uno\npuede lograr por sí mismo es limitado.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nEstoy de acuerdo. Yo sol\x0E\x0A\x00\x08\x02o\x02a nunca habría llegado\ntan lejos.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nTodo lo que he conseguido ha sido gracias\na la gente que ha luchado a mi lado.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ルキナ\nMe alegra que digas eso. Yo siento el aliento\nde mis compañeros... Los llevo dentro de mí.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nDentro de ti...\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルキナ\nLos fuertes lazos que compartíamos nos\nayudaron a cambiar un futuro sin esperanza.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06ルキナ\nIgual que haces tú con tus aliados.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nY tú formas parte de esos aliados, Lucina.\n¿Verdad?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ルキナ\n¡Claro! Lucharé a tu lado hasta el final.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nEntonces es imposible que perdamos,\nnos enfrentemos a lo que nos enfrentemos.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06ルキナ\n¡Así es! Nuestros vínculos son\nmás poderosos que el mismísimo destino.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

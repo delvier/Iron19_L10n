@@ -1,0 +1,139 @@
+MID_OP1_#001	\x0E\x02\x00\x06\x04PP\n\x0E\x03\x00\x0E\x08セアダス\x023\n\x0E\x03\x02\x0A\x08セアダス\nMes nouveaux mouvements s'enchaînent bien.\nEncore un peu de pratique et ce sera bon.\x0E\x04\x02\x00
+MID_OP1_#002	Et cet endroit... il est parfait\npour répéter. Paisible et désert.\x0E\x04\x02\x00
+MID_OP1_#003	Hum ?\x0E\x04\x00\x00
+MID_OP1_#004	Raaargh...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08セアダス\nAh ! Qu-Qu'est-ce que c'est ?!\x0E\x04\x00\x00
+MID_OP1_#006	Raaargh !\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08セアダス\nJe suis encerclé de toutes parts ! Est-ce\nl'intention du destin de me faire mourir ici ?\x0E\x04\x02\x00
+MID_OP1_#008	Hélas, je n'avais pas prévu ça... Je me serais\nentraîné au combat entre deux chorégraphies.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x00\x16\x10M015_カムイ\x024\n\x0E\x03\x02\x12\x10M015_カムイ\nVite ! Mettez-vous à l'abri !\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08セアダス\nQui a dit ça ?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x12\x10M015_カムイ\nOh, dieux merci. Vous entendez\nce que je dis ? Suivez ma voix.\x0E\x04\x02\x00
+MID_OP1_#011_2	\x0E\x03\x02\x12\x10M015_カムイ\nVous pouvez vous cacher ici !\x0E\x04\x02\x00
+MID_OP1_#012	Il y a une porte sur votre droite.\nDépêchez-vous !\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08セアダス\nJ'arrive !\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLa forteresse du Nord est-elle vraiment\nsi effrayante ?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0C\nミスティラ\nOuais, mes ancêtres y tenaient quand ils l'ont\nbâtie. Ils voulaient éviter que les gens viennent\nfouiner partout.\x0E\x04\x02\x00
+MID_OP2_#003	Les habitants du coin osent pas s'approcher.\nIls racontent que des fantômes errent\ndans les ruines.\x0E\x04\x02\x00
+MID_OP2_#004	Un château hanté ! Depuis peu, il paraît même\nqu'on entend une jeune femme lancer des\nappels à l'intérieur...\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0C\nミスティラ\nDétendez-vous ! C'est juste la légende locale.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nDans ce cas, pourquoi l'avoir raconté\ncomme si c'était vrai ?!\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0C\nミスティラ\nOh, pardon ! Je ferais mieux de rien dire.\nJ'ai jamais mis les pieds là-bas, en fait.\x0E\x04\x02\x00
+MID_OP2_#009	Maman m'a toujours demandé de garder mes\ndistances pour que personne n'ait la puce à\nl'oreille et découvre l'emplacement de l'anneau.\x0E\x04\x02\x00
+MID_OP2_#010	Nous y voici : la forteresse du Nord.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\nHum. C'est drôlement bruyant pour\nune forteresse abandonnée...\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0C\nミスティラ\nAttendez une sec... Les Aberrations !\nElles se sont glissées à l'intérieur !\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nAllons-y. Nous ne pouvons pas les laisser\nmettre la main sur l'anneau.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nOh, non...\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x00\x10\nミスティラ\x02b\n\x0E\x05\x01\x1E\nミスティラ\x10Surprise\n\x0E\x03\x02\x0C\nミスティラ\nOui, cet endroit grouille de monstres.\nFaut croire qu'il est un peu hanté, hein ?\x0E\x04\x02\x00
+MID_OP3_#003	\x0E\x05\x01\x18\nミスティラ\nAngry\nAttendez. Votre Divinité, regardez !\nIl y a quelqu'un ici !\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x12\x08セアダス\x06Sad\n\x0E\x03\x02\x0A\x08セアダス\nIls nous ont encerclés dans les règles... une fois\nencore. Enfin, nous sommes plus en sécurité à\nl'intérieur que dehors.\x0E\x04\x02\x00
+MID_OP4_#002	\x0E\x05\x01\x16\x08セアダス\nSmile\nMerci, l'anneau.\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x00\x16\x10M015_カムイ\x02b\n\x0E\x03\x07\x12\x10M015_カムイ\n\x0E\x03\x02\x12\x10M015_カムイ\nJe vous ai dit de vous cacher, pas de\nvenir me chercher.\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x0A\x08セアダス\nComment résister ? Un anneau qui parle !\nQui plus est, c'est en vous voyant que ces\ncréatures se sont déchaînées.\x0E\x04\x02\x00
+MID_OP4_#005	\x0E\x05\x01\x16\x08セアダス\nRelax\nJe parie que vous êtes une princesse piégée\nsous cette forme insolite à cause d'une terrible\nmalédiction. Laissez-moi vous aider.\x0E\x04\x00\x00
+MID_OP4_#006	\x0E\x03\x02\x12\x10M015_カムイ\nEn réalité, je...\x0E\x04\x00\x00
+MID_OP4_#007	\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nInutile de me convaincre, Votre Altesse. Je ne\nsuis pas du genre à mettre en doute une histoire\nsous prétexte qu'elle est inhabituelle.\x0E\x04\x02\x00
+MID_OP4_#008	\x0E\x05\x01\x12\x08セアダス\x06Die\nEsprits des cartes, éclairez-moi de votre\ndivine lumière et révélez le chemin...\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x02\x12\x10M015_カムイ\nAinsi, vous êtes devin ? Que vous révèlent\nvos cartes ?\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x05\x01\x18\x08セアダス\x0CNormal\n\x0E\x03\x02\x0A\x08セアダス\nLe Dragon... Il symbolise une aide pouvant venir\nde sources inattendues.\x0E\x04\x02\x00
+MID_OP4_#011	\x0E\x05\x01\x16\x08セアダス\nAngry\nJe suppose que nous allons devoir repousser\nces créatures jusqu'à son arrivée.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x18\nミスティラ\nAngry\n\x0E\x03\x02\x0C\nミスティラ\nCe gars n'est pas venu pour piquer l'anneau.\x0E\x04\x02\x00
+MID_OP5_#002	En fait, je crois qu'il essaie de le protéger.\x0E\x04\x00\x00
+MID_OP5_#003	\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDe toute évidence, ce n'est pas un ami\ndes Aberrations.\x0E\x04\x02\x00
+MID_OP5_#004	Donnons-lui un coup de main.\nIl semble en avoir bien besoin.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHé, vous ! Êtes-vous blessé ?\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08セアダス\x02b\n\x0E\x05\x01\x16\x08セアダス\nAngry\n\x0E\x03\x02\x0A\x08セアダス\nQui êtes-vous ?!\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x02\x0A\x08リュール\nNe vous inquiétez pas, je ne suis pas\nvotre \x0E\x0A\x00\x1E\x0Cennemi\x0Eennemie. Je suis \x0E\x06\x03\x00,\nle Dragon divin.\x0E\x04\x00\x00
+MID_EV1_#004	\x0E\x05\x01\x1C\x08セアダス\x10Surprise\n\x0E\x03\x02\x0A\x08セアダス\nLe Dragon divin, vous dites... Vous savez quoi ?\nMes cartes disaient vrai.\x0E\x04\x02\x00
+MID_EV1_#005	\x0E\x05\x01\x16\x08セアダス\nSmile\nVous parlez d'une source inattendue ! Merci.\nJe suis Seadall, un danseur itinérant.\x0E\x04\x02\x00
+MID_EV1_#006	\x0E\x0B\x00n
+MID_EV1_#007	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nUn anneau qui parle ?\x0E\x04\x00\x00
+MID_EV1_#008	\x0E\x05\x01\x18\x08セアダス\x0CStrike\n\x0E\x03\x02\x0A\x08セアダス\nOui. Je crois qu'il s'agit d'une jeune princesse\nvictime d'une sorte de malédiction.\nN'est-ce pas affreux ?\x0E\x04\x00\x00
+MID_EV1_#009	\x0E\x0B\x01>
+MID_EV1_#010	\x0E\x05\x01\x1C\x08セアダス\x10Surprise\n\x0E\x03\x02\x0A\x08セアダス\nVous connaissez son histoire, alors ? Dites-moi,\nqui est la femme mystérieuse à l'intérieur\nde cet anneau ?\x0E\x04\x00\x00
+MID_EV1_#011	\x0E\x03\x02\x0A\x08リュール\nRemettez-le-moi et nous le découvrirons\nensemble.\x0E\x04\x00\x00
+MID_EV1_#012	\x0E\x03\x02\x0A\x08セアダス\nD'accord.\x0E\x04\x00\x00
+MID_EV1_#013	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n\x0E\x0B\x00\
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02t\n\x0E\x05\x01\x14\x06カムイ\nSmile\n\x0E\x03\x02\x08\x06カムイ\n\x0E\x07\x00\x04
+MID_EV2_#002	Merci de m'avoir trouvée. Je veillerai\nà ce que le chemin que vous décidez\nd'emprunter soit le bon.\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMerci, Emblème Corrin. Je suis \x0E\x0A\x00\x1E\x0Cdésolé\x0Edésolée\nde vous avoir fait attendre si longtemps.\x0E\x04\x00\x00
+MID_EV2_#004	\x0E\x03\x01\x08\x06カムイ\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x1C\x08セアダス\x10Surprise\n\x0E\x03\x02\x0A\x08セアダス\nUn Emblème, vraiment ?\nL'une des divinités légendaires...\x0E\x04\x00\x00
+MID_EV2_#005	\x0E\x03\x02\x0A\x08リュール\nSeadall, accepteriez-vous de vous battre\naux côtés de Corrin ? Votre aide ne sera\npas de trop pour sortir d'ici.\x0E\x04\x00\x00
+MID_EV2_#006	\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nJ'en serais enchanté. Ce monde est...\nJe vais de surprise en surprise.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nOh ? Ces portes viennent-elles de... ?\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNous ne pourrons pas nous échapper par où\nnous sommes entrés. Essayons ce chemin\nlà-bas.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nVotre Divinité, en tant que danseur, je peux\nremonter le moral de vos alliés grâce à mes\nélégantes chorégraphies.\x0E\x04\x02\x00
+MID_EV5_#002	N'hésitez pas à recourir à mes aptitudes\ncomme bon vous semble.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nAngry\n\x0E\x03\x02\x0A\x08セアダス\nJ'étais tellement pressé tout à l'heure que je\nn'ai même pas remarqué les miasmes partout.\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x00\x0C\x06カムイ\x02b\n\x0E\x05\x01\x10\x06カムイ\x06Sad\n\x0E\x03\x02\x08\x06カムイ\nLes créatures ont dû les apporter avec elles.\nIls n'étaient certainement pas là avant.\x0E\x04\x02\x00
+MID_EV6_#003	\x0E\x05\x01\x16\x06カムイ\x0CStrike\nUtilisez mon pouvoir pour dissiper les miasmes\net dégager un passage pour vos alliés.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nRelax\n\x0E\x03\x02\x0A\x08セアダス\nNos chemins se séparent pendant un moment.\nVotre Divinité, Emblème Corrin... Merci.\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEncore ?! Votre Divinité, nous ne\npouvons pas continuer ainsi.\nIl est temps de nous échapper.\x0E\x04\x00\x00
+MID_DIE_LOCAL_Seadas_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02b\n\x0E\x05\x01\x12\x08セアダス\x06Die\n\x0E\x03\x02\x0A\x08セアダス\nTelle était donc l'intention du destin.\nJe vous en prie... Protégez l'Emblème Corrin...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nTrès bien. Nous sommes en sécurité.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nミスティラ\nAttendez. Il y a quelqu'un à l'entrée.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nLaissez-moi deviner. D'autres Aberrations ?\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nTout le monde va bien ?\nJ'ai vu arriver tous ces monstres\net je me suis inquiétée.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nVeyle ?!\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08ヴェイル\nÇa alors ! Comme on se retrouve,\n\x0E\x06\x03\x00. Avez-vous vaincu\nles monstres ?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_ED1_#008	Oui. Jusqu'au dernier.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08ヴェイル\nJ'en suis ravie. Comment allez-vous ?\x0E\x04\x02\x00
+MID_ED1_#010	Ça m'a fait un choc de vous voir errer dans\nla neige. J'espère que vous avez trouvé\nla cathédrale.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nÀ quel jeu jouez-vous ? Arrêtez immédiatement.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08ヴェイル\nPardon ? Pourquoi vous mettez-vous\nen colère ?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nNe faites pas semblant d'avoir oublié. Vos\nmensonges ne me tromperont plus, désormais.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08ヴェイル\nMes mensonges ? Que voulez-vous dire ?\nJe vous promets, \x0E\x06\x03\x00, je ne...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNe faites pas un pas de plus !\nRestez où vous êtes, Princesse déchue.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08ヴェイル\nComment avez-vous su ?!\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nLe simple fait de poser les yeux sur vous\nravive en moi la honte d'avoir perdu Père...\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0A\x08アイビー\nVous m'avez pris mon pays. Mon père.\nQue voulez-vous de plus ?\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nLes gens que vous avez tués...\nIls avaient des familles.\x0E\x04\x02\x00
+MID_ED1_#020	Mais cela vous est bien égal, n'est-ce pas ?\nToute cette souffrance... Vous n'avez même\npas pris la peine d'y songer.\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x0A\x08ヴェイル\nAttendez un instant. J'ai... J'ai tué des gens ?\nQui ?\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08リュール\nArrêtez votre petit numéro ! Vous savez\ntrès bien ce que vous avez fait !\nComment osez-vous vous montrer ici ?\x0E\x04\x02\x00
+MID_ED1_#023	Vous avez assassiné ma mère\net volé les anneaux.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x0A\x08ヴェイル\nJe n'ai rien fait de tout cela. Je vous en prie,\ncroyez-moi...\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08リュール\nVous croire ? De la même manière que j'ai cru\nque nous étions \x0E\x0A\x00\x16\x08amis\namies ? Je ne ferai pas\ncette erreur deux fois.\x0E\x04\x00\x00
+MID_ED1_#026	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIl faut faire quelque chose !\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0A\x08リュール\nLaissez-la partir. C'est probablement un piège.\x0E\x04\x00\x00
+MID_ED1_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nVous avez raison.\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nVotre Divinité, vous n'êtes pas \x0E\x0A\x00\x1E\x0Cblessé\x0Eblessée,\nj'espère ?\x0E\x04\x00\x00
+MID_ED1_#031	\x0E\x03\x02\x0A\x08リュール\nJe vais bien. Mais la prochaine fois\nque je vois Veyle, je jure de...\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x02\x00
+MID_ED2_#002	J'ai tué des gens, moi ? Et volé des anneaux ?\x0E\x04\x02\x00
+MID_ED2_#003	Pourquoi ferais-je cela ?\nC'est à n'y rien comprendre !\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x00\x0A\x04グリ\x021\n\x0E\x03\x02\x06\x04グリ\nDame Veyle ! Je vous rattrape enfin.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08ヴェイル\nOh, Griss. C'est toi.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x06\x04グリ\nEh bien, vous n'êtes pas facile à trouver.\nPourquoi aviez-vous disparu ?\nJe me suis fait un sang d'encre.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x0A\x08ヴェイル\nPapa t'a ordonné de me ramener,\nn'est-ce pas ?\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x06\x04グリ\nM'a ordonné de... pardon ?\x0E\x04\x02\x00
+MID_ED2_#009	Oh, je vois ce que c'est. Formidable...\nVous êtes le double.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0A\x08ヴェイル\nIl n'est pas question que je rentre, peu importe\nce que tu dis. Papa veut seulement me forcer\nà perpétrer je ne sais quelle cruauté.\x0E\x04\x02\x00
+MID_ED2_#011	À son réveil, j'ai cru que nous pourrions enfin\npasser du temps ensemble. Mais j'avais tort.\x0E\x04\x02\x00
+MID_ED2_#012	Il se contente de me donner des ordres.\n« Tuez le Dragon divin ». « Attaquez\nle château d'untel ». Je ne veux pas faire cela !\x0E\x04\x02\x00
+MID_ED2_#013	En dépit de tout ce que disent les gens,\nje ne suis pas une mauvaise personne.\x0E\x04\x02\x00
+MID_ED2_#014	Même le Dragon divin était furieux après moi.\nEt moi qui pensais que nous étions \x0E\x0A\x00\x16\x08amis\namies...\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x06\x04グリ\nLe Dragon divin a dit que vous étiez\nami\x0E\x0A\x00\x0A\x02s\x04es ? Attendez... vous avez rencontré\nle Dragon divin ?!\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0A\x08ヴェイル\nHmm.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x06\x04グリ\nOh, c'est... compliqué.\x0E\x04\x02\x00
+MID_ED2_#018	Écoutez, quoi que ces gens vous aient dit,\nce n'est pas vrai. Ils se sont imaginé des choses.\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0A\x08ヴェイル\nTu crois ?\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x02\x06\x04グリ\nBien sûr. Comment auriez-vous pu faire\nquelque chose de mal et l'oublier ensuite ?\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x0A\x08ヴェイル\nOui... C'est vrai ! Ça n'a aucun sens !\x0E\x04\x02\x00
+MID_ED2_#022	C'est ce que j'aurais dû répondre. Peut-être\naurions-nous évité cet affreux malentendu.\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x06\x04グリ\nVous voulez aller lui reparler ?\nPour vous réconcilier ?\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x0A\x08ヴェイル\nOui, mais... Tu n'es pas ici pour m'escorter ?\x0E\x04\x00\x00
+MID_ED2_#025	\x0E\x03\x02\x06\x04グリ\nSi c'est ce que vous voulez, bien sûr. Je suis\nla loyauté incarnée.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x02\x0A\x08ヴェイル\nTrès bien... Merci, Griss. Il semblerait que\nje t'aie mal jugé.\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x02\x06\x04グリ\nAlors, c'est réglé. En route pour Firene.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x0A\x08ヴェイル\nEn Firene ? Pourquoi donc ?\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x06\x04グリ\nParce que c'est là que se rend le Dragon divin.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0A\x08ヴェイル\nComment sais-tu cela ?\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x06\x04グリ\nAllez, allez, nous avons un programme\nà respecter ! Nous devons nous rendre au port\net mettre les voiles.\x0E\x04\x02\x00
+MID_ED2_#032	Vous voulez arranger les choses ou pas ?\x0E\x04\x00\x00
+MID_ED2_#033	\x0E\x03\x02\x0A\x08ヴェイル\nOui, oui ! Tu as raison. Nous n'avons\npas de temps à perdre !\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x02\x06\x04グリ\nHa ha ! Voilà qui devrait être intéressant.\x0E\x04\x00\x00

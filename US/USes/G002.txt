@@ -1,0 +1,67 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0E\x08ヘクトル\x023\n\x0E\x03\x02\x06\x04チキ\n¡Mira! ¡Aquí hay otro amigo\nde brazalete, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nEso parece.\n¿Será el Brazalete del General Audaz?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04チキ\n¡Sí! Creo que el Emblema está dormido,\ncomo lo estuve yo. ¿Vas a despertarlo?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nEn cuanto lo he visto, me han venido\na la mente unas palabras. Voy a intentarlo.\x0E\x04\x02\x00
+MID_OP1_#005	¡Danos valor, Emblema de la Fuerza!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nMe siento como nuevo. Hola, soy Héctor.\n¿Me has sacado tú de mi letargo?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nAsí es. Te saludo, Héctor.\nSoy el Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nEncantado de conocerte. ¡No sabes\ncuánto me alegra poder volver a moverme!\x0E\x04\x02\x00
+MID_OP2_#004	Supongo que habrás venido a buscarme\npor algún motivo, digo yo.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nEstamos intentando ponerle fin\na la guerra que arrasa nuestro mundo.\x0E\x04\x02\x00
+MID_OP2_#006	Por eso acudimos a ti con la esperanza\nde que nos brindes tu fuerza.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08ヘクトル\nMmm... Me has dado buena impresión.\nParece que tienes agallas... Igual que él.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nSi no es indiscreción, ¿a quién te refieres?\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08ヘクトル\nA mi querido amigo Eliwood.\x0E\x04\x02\x00
+MID_OP2_#010	En mi mundo, luchó para librarnos a todos\nde la destrucción. Igual que tú haces ahora.\x0E\x04\x02\x00
+MID_OP2_#011	Nosotros nos enfrentamos a los asesinos\ndel Colmillo Negro, unos tipos duros de roer.\x0E\x04\x02\x00
+MID_OP2_#012	Para Eliwood, Lyn, este servidor y el resto de\nnuestros amigos, fue la lucha de nuestra vida.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nSeguro que se alegraron de tener\na alguien como tú de su lado.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nBueno, no hace falta que me halagues.\nNecesitas ayuda, así que no se hable más.\x0E\x04\x02\x00
+MID_OP2_#015	Pero, antes de nada, quisiera proponerte\nuna competición, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\n¿A qué te refieres?\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08ヘクトル\nHace ya bastante tiempo que no combato,\ny además quisiera ver qué tal te desenvuelves.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08リュール\nEntiendo. Si es lo que deseas,\nestoy \x0E\x0A\x00(\x12dispuesto\x12dispuesta a demostrarte mi valía.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08ヘクトル\nDecidido, pues. ¡Prepárate!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nComencemos.\nVen a mí... ¡y ataca con toda tu fuerza!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nParece que de aquel lugar emana\nuna especie de niebla... Tenga precaución.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\n¡La niebla! ¡Parece venenosa! Tenga cuidado.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nRelax\n\x0E\x03\x02\x0A\x08ヘクトル\nYa va siendo hora de ponerme en marcha.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x1C\x08ヘクトル\x10Surprise\n\x0E\x03\x02\x0A\x08ヘクトル\n¡Caramba, qué sorpresa! Me alegra verte, Lyn.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04リン\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nIgualmente, Héctor. ¿Listo para medir fuerzas\ncomo en los viejos tiempos?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nClaro. Como hay confianza, espero\nque no te importe que me esfuerce al máximo.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x03\x02\x06\x04リン\nNo esperaba otra cosa de ti.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヘクトル\x02b\n\x0E\x05\x01\x16\x08ヘクトル\nSmile\n\x0E\x03\x02\x0A\x08ヘクトル\nVamos, \x0E\x06\x03\x00...\n¡Veamos qué sabes hacer!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nParece que tendré que usar toda mi fuerza\npara no sucumbir a tu hacha.\x0E\x04\x02\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\nPero no pienso rendirme. Dije que te mostraría\nmi valía ¡y eso es justo lo que pienso hacer!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x18\x08ヘクトル\x0CNormal\n\x0E\x03\x02\x0A\x08ヘクトル\nMejor así. ¡Adelante!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\n¡Has logrado derrotarme!\nEstoy impresionado, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\n¿Quiere eso decir que estás satisfecho\ncon lo que has visto?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08ヘクトル\n¡Ni lo dudes! Me ha bastado para medir\ntu espíritu de lucha.\x0E\x04\x02\x00
+MID_ED1_#004	He tenido que usar todos mis recursos.\nSeguro que te las arreglarías bien sin mí.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nNo, necesitamos toda la fuerza que podamos\nreunir, y tú la tienes a raudales.\x0E\x04\x02\x00
+MID_ED1_#006	Jamás habría podido superar tu defensa\nsin la ayuda de mis aliados.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08ヘクトル\nAférrate a esa idea.\x0E\x04\x02\x00
+MID_ED1_#008	Antes creía que yo me bastaba y me sobraba\npara proteger a toda la gente a la que quería.\x0E\x04\x02\x00
+MID_ED1_#009	Qué equivocado estaba.\x0E\x04\x02\x00
+MID_ED1_#010	Si sobreviví al Colmillo Negro, fue solo\ngracias a la ayuda de mis leales aliados.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nDebes de haberte rodeado\nde muy buenos amigos.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08ヘクトル\n¡No los había mejores! Incluso ahora\nme enorgullezco cuando hablo de ellos.\x0E\x04\x02\x00
+MID_ED1_#013	Admiro tu determinación\ny tu ánimo de lucha, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\n¿Significa eso que te unes a nuestra causa?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08ヘクトル\nMientras la necesites, mi hacha es tuya.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\nGracias, Emblema Héctor. Estoy ansios\x0E\x0A\x00\x08\x02o\x02a\npor verte en acción en el campo de batalla.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08ヘクトル\n¡Así se habla!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04リン\x021\n\x0E\x03\x00\x0E\x08ヘクトル\x022\n\x0E\x03\x02\x0A\x08ヘクトル\nHa sido un buen enfrentamiento, Lyn.\n¿Podemos hablar un momento?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x06\x04リン\nEsperaba que me pidieras la revancha.\n¿Qué deseas?\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08ヘクトル\nSolo quiero saber si estás bien.\nEn la última ronda me he dejado llevar un poco.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x06\x04リン\nGracias por interesarte.\nHa sido un golpe muy duro, pero estoy bien.\x0E\x04\x02\x00
+MID_ED2_#005	Es más, me alegro mucho.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08ヘクトル\n¿Te alegras de que te diera un hachazo?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x06\x04リン\nNo es eso. Me has recordado los momentos\nque compartimos Eliwood, tú y yo.\x0E\x04\x02\x00
+MID_ED2_#008	Entrenábamos duro y luchábamos con todo,\npero esos días quedaron en el recuerdo.\x0E\x04\x02\x00
+MID_ED2_#009	Ver cómo te esfuerzas al máximo\nme ha recordado esas sensaciones.\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0A\x08ヘクトル\nTe entiendo perfectamente.\x0E\x04\x02\x00
+MID_ED2_#011	Me tranquiliza combatir a tu lado\nporque sé que me cubrirás las espaldas.\x0E\x04\x02\x00
+MID_ED2_#012	Y porque eres una amiga muy valiosa\na quien le puedo confiar mi propia vida.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x06\x04リン\nPues espero que me permitas que te proteja\nen lugar de cargar tú solo contra el enemigo.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x0A\x08ヘクトル\nNo te preocupes. No pienso dejarte atrás.\x0E\x04\x00\x00

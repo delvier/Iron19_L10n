@@ -1,0 +1,83 @@
+MID_OP1_#001	キャラ配置(PID_ジャン, YOU_OUT_A, [服装], Normal, IdleNormal, -30)\nキャラ配置(PID_S001_ジャン_父親, YOU_IN_C, [服装], Normal, IdleNormal, 20)\nキャラ配置(PID_S001_村人_青年男, ME_MID_BC, [服装], Normal, IdleNormal, 15)\nキャラ配置(PID_S001_村人_老人男, ME_MID_A, [服装], Normal, IdleNormal, 15)\nキャラ配置(PID_S001_村人女の子, ME_IN_C, [服装], Normal, IdleNormal, -20)\n\nキャラ配置(PID_S001_異形兵_ランスペガサス, ME_OUT_D, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_S001_異形兵_アクスファイター_弱, ME_OUT_C, [服装], Normal, IdleNormal, 0)\nキャラ配置(PID_S001_異形兵_ソードナイト_弱, ME_OUT_B, [服装], Normal, IdleNormal, 0)\n\nキャラ配置調整(PID_ジャン,-0.03, -0.02, -0.19)\nキャラ回転(PID_S001_ジャン_父親, 0, 0, 0.1)\nキャラ配置調整(PID_S001_村人_老人男,0, 0, 0.5)\n\n背景(Map_Event_S001_01)\nライト(CharaLight_S001, 0, 0, 0)\n\n章タイトル(CID_S001)\n\nサウンドイベント(BGM_Evt_Amb_Filene)\n\nウェイト(2)\nフェードアウト()\n\nキャラ視線(PID_S001_ジャン_父親,PID_S001_村人_老人男, PID_S001_村人_老人男)\nキャラ視線(PID_S001_村人_老人男, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\nキャラ視線(PID_S001_村人女の子, PID_S001_村人_老人男, PID_S001_村人_老人男)\n\nシーンカメラ(SceneCam_SideYou_Right_Mid, cam_anim_track_l_slow)\nキャラモーション再生(PID_S001_ジャン_父親, Smile, EmoGive, 0.5, 0.5)\nキャラモーション再生(PID_S001_村人_老人男, Normal, EmoRelax, 0.5, 0.5)\nキャラモーション再生(PID_S001_村人女の子, Smile, RunIn)\n\nキャラ表示切替(PID_ジャン,False)\nキャラ表示切替(PID_S001_村人女の子, True)\nキャラ表示切替(PID_S001_村人_青年男,False)\nキャラ表示切替(PID_S001_異形兵_ランスペガサス,False)\nキャラ表示切替(PID_S001_異形兵_アクスファイター_弱,False)\nキャラ表示切替(PID_S001_異形兵_ソードナイト_弱,False)\n\nフェードイン()
+MID_OP1_#002	キャラモーション再生(PID_S001_村人女の子, Smile, EmoJoy2, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Smile, EmoNod, 0.5, 0.5)\nキャラモーション再生(PID_S001_村人_老人男, Smile, TurnR, 0.1, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親, PID_S001_村人女の子, PID_S001_村人女の子)\nキャラ視線(PID_S001_村人_老人男, PID_S001_村人女の子, PID_S001_村人女の子)\nキャラ視線(PID_S001_村人女の子, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Shoulder_Left_Top, PID_S001_ジャン_父親, cam_anim_fix )
+MID_OP1_#003	キャラ回転(PID_S001_村人女の子, 120, 2, 0.7)\nキャラ回転(PID_S001_ジャン_父親, 45, 3, 0.7)\n\nキャラモーション再生(PID_S001_村人女の子, Smile, TurnR, 0.1, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Normal, TurnR, 0.1, 0.5)\n\nキャラ表示切替(PID_ジャン,True)\n\nキャラモーション再生(PID_ジャン, Normal, WalkIn, 0.5, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親,PID_ジャン, PID_ジャン)\nキャラ視線(PID_ジャン, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Side_Right2_Top, PID_S001_ジャン_父親, cam_anim_track2_l_normal, 1)\n\n*\nパペット会話中断()\nウェイト(1.2)
+MID_OP1_#004	キャラカメラ(CharaCam_FrontLong_Left_Top, PID_S001_ジャン_父親, cam_anim_track2_l_normal)\n\nキャラ配置調整(PID_ジャン, 0.3, 0, -0.19)\n\nキャラ表示切替(PID_S001_村人女の子, False)\nキャラ表示切替(PID_S001_村人_老人男, False)\n\nキャラモーション再生(PID_ジャン, Normal, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Normal, EmoTalk, 0.5, 0.5)
+MID_OP1_#005	キャラモーション再生(PID_ジャン, Smile, EmoDeny2, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Normal, IdolNormal, 0.5, 0.5)
+MID_OP1_#006	キャラモーション再生(PID_ジャン, Smile, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Smile, EmoNod, 0.5, 0.5)
+MID_OP1_#007	キャラ表示切替(PID_S001_村人_青年男,True)\n\nキャラモーション再生(PID_S001_ジャン_父親, StandBy, TurnL, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, StandBy, TurnR, 0.5, 0.5)\nキャラ回転(PID_S001_ジャン_父親, 335, 1, 0.5)\nキャラ回転(PID_ジャン, 25, 1, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親, PID_S001_村人_青年男, PID_S001_村人_青年男)\nキャラ視線(PID_ジャン,PID_S001_村人_青年男, PID_S001_ジャン_父親, 0.5)\n\n*\nパペット会話中断()\nウェイト(0.8)\nキャラモーション再生(PID_S001_村人_青年男, Pain, RunIn)\nキャラカメラ(CharaCam_Front_Center_Mid, PID_S001_村人_青年男, cam_anim_zoom_out_fast)
+MID_OP1_#008	キャラ視線(PID_ジャン,PID_S001_村人_青年男, PID_S001_村人_青年男)\nキャラ視線(PID_S001_ジャン_父親, PID_S001_異形兵_ランスペガサス, PID_S001_異形兵_ランスペガサス)\n\n\n*\nパペット会話中断()\nキャラモーション再生(PID_ジャン, Surprise, EmoSurprise2,, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Surprise, EmoSurprise,, 0.5)\nキャラカメラ(CharaCam_SideLong_Right_Mid, PID_S001_ジャン_父親, cam_anim_track_l_slow)\n\nウェイト(0.8)\n\nキャラ表示切替(PID_S001_異形兵_ランスペガサス,True)\nキャラ表示切替(PID_S001_異形兵_アクスファイター_弱,True)\nキャラ表示切替(PID_S001_異形兵_ソードナイト_弱,True)\nキャラ表示切替(PID_S001_村人_青年男,False)\n\nキャラ配置調整(PID_S001_異形兵_ランスペガサス,0.1,0,-0.6)\nキャラ配置調整(PID_S001_異形兵_アクスファイター_弱,0,0,0.1)\nキャラ配置調整(PID_S001_異形兵_ソードナイト_弱,-0.1,0,-0.3)\n\nキャラ武器装備(PID_S001_異形兵_ランスペガサス, IID_鉄の槍)\nキャラ武器装備(PID_S001_異形兵_アクスファイター_弱, IID_鉄の斧)\nキャラ武器装備(PID_S001_異形兵_ソードナイト_弱, IID_鉄の剣)\n\nキャラモーション再生(PID_S001_異形兵_ランスペガサス, StandBy, WalkIn, 0.4)\nキャラモーション再生(PID_S001_異形兵_アクスファイター_弱, StandBy, WalkIn, 0.5)\nキャラモーション再生(PID_S001_異形兵_ソードナイト_弱, StandBy, WalkIn, 0.3)\n\nウェイト(0.5)\n\nキャラカメラ(CharaCam_FrontLong_Center_Bot, PID_S001_異形兵_アクスファイター_弱, cam_anim_zoom_out_fast)
+MID_OP1_#009	*\nパペット会話中断()\nキャラ視線(PID_ジャン, PID_S001_異形兵_ランスペガサス, PID_S001_異形兵_ランスペガサス)\nウェイト(0.8)
+MID_OP1_#010	キャラモーション再生(PID_ジャン, Surprise, EmoSurprise,0.5 , 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, StandBy, IdleNormal)\n\nキャラ視線リセット(PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Side_Right2_Top, PID_ジャン, cam_anim_track_l_slow)
+MID_OP1_#011	キャラモーション再生(PID_S001_ジャン_父親, StandBy, EmoLook,, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, StandBy, TurnL, 3.2, 0.5)\n\nキャラ回転(PID_S001_ジャン_父親, 250, 3, 3)\n\nキャラ視線(PID_ジャン, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Front_Right_Bot, PID_S001_ジャン_父親, cam_anim_track_r_normal)
+MID_OP1_#012	キャラモーション再生(PID_S001_ジャン_父親, Angry, RunOut, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, Surprise, IdleNormal)\n\n*\nパペット会話中断()\nウェイト(1.5)\nキャラモーション再生(PID_ジャン, StandBy, EmoSad2, 0.5, 0.5)\nキャラカメラ(CharaCam_Front_Center2_Mid, PID_ジャン, cam_anim_zoom_out_slow)\nウェイト(0.8)\n
+MID_OP1_#013	\n*\nフェードアウト()
+MID_OP2_#001	
+MID_OP2_#002	
+MID_OP2_#003	
+MID_OP2_#004	
+MID_OP2_#005	
+MID_OP3_#001	
+MID_OP3_#002	
+MID_OP3_#003	
+MID_OP3_#004	
+MID_EV1_#001	
+MID_EV2_#001	
+MID_EV2_#002	
+MID_EV2_#003	
+MID_EV2_#004	
+MID_EV2_#005	
+MID_EV3_#001	
+MID_EV4_#001	
+MID_EV4_#002	
+MID_EV4_2_#001	
+MID_EV4_2_#002	
+MID_EV5_#001	
+MID_EV5_#002	
+MID_EV5_#003	
+MID_EV5_#004	
+MID_EV5_#005	
+MID_BT1_#001	
+MID_BT2_#001	
+MID_BT3_#001	
+MID_BT4_#001	
+MID_BT6_#001	
+MID_DIE_LOCAL_Jean_#001	
+MID_DIE_CASUAL_LOCAL_Jean_#001	
+MID_ED1_#001	
+MID_ED1_#002	
+MID_ED1_#003	
+MID_ED1_#004	
+MID_ED2_#001	
+MID_ED2_#002	
+MID_ED2_#003	
+MID_ED2_#004	
+MID_ED3_#001	
+MID_ED3_#002	
+MID_ED3_#003	
+MID_ED3_#004	
+MID_ED4_#001	キャラ配置(PID_リュール, ME_IN_C, [服装], Normal, IdleNormal, 15)\nキャラ配置(PID_S001_ジャン_母親, YOU_IN_B, [服装], Normal, IdleNormal, -30)\nキャラ配置(PID_ジャン, YOU_IN_C, [服装], Normal, IdleNormal, -10)\nキャラ配置(PID_S001_ジャン_父親, YOU_IN_D, [服装], Normal, IdleNormal, 10)\n\nキャラ配置調整(PID_S001_ジャン_父親, -0.12, 0, 0.5)\nキャラ配置調整(PID_S001_ジャン_母親, 0.25, 0, 0.6)\n\n背景(Map_Event_S001_01)\nライト(CharaLight_S001, 0, 0, 0)\n\nキャラ視線(PID_S001_ジャン_父親, PID_ジャン, PID_ジャン)\nキャラ視線(PID_S001_ジャン_母親, PID_ジャン, PID_ジャン)\nキャラ視線(PID_リュール, PID_ジャン, PID_ジャン)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_track_l_slow) \nキャラモーション再生(PID_ジャン, StandBy, EmoSad2)\nキャラモーション再生(PID_S001_ジャン_母親, Shy, IdolNormal)\nキャラモーション再生(PID_S001_ジャン_父親, Shy, IdolNormal)\n\nフェードイン()
+MID_ED4_#002	キャラモーション再生(PID_S001_ジャン_父親, Shy, EmoTalk, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, Normal, IdolNormal, 0.5, 0.5)
+MID_ED4_#003	キャラモーション再生(PID_ジャン, Relax, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, , Smile, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_母親, , Smile, IdolNormal, 0.5, 0.5)\n\nキャラ視線(PID_ジャン, PID_リュール, PID_リュール)
+MID_ED4_#004	キャラモーション再生(PID_リュール, Smile, EmoTalk, 0, 0.2)\nキャラモーション再生(PID_ジャン, StandBy, IdolNormal, 0.5, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親, PID_リュール, PID_リュール)\nキャラ視線(PID_S001_ジャン_母親, PID_リュール, PID_リュール)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_ED4_#005	キャラモーション再生(PID_リュール, Smile, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, Surprise)\nキャラモーション再生(PID_ジャン, Normal, 2.5, 0.5)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_zoom_in_slow) 
+MID_ED4_#006	キャラモーション再生(PID_リュール, StatusE, EmoRelax, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, Surprise, 4.0, 4.0)\nキャラモーション再生(PID_S001_ジャン_父親, Surprise, 4.5, 4.0)\nキャラモーション再生(PID_S001_ジャン_母親, Surprise, 4.5, 4.0)
+MID_ED4_#007	キャラモーション再生(PID_ジャン, Surprise, EmoSurprise)\nキャラモーション再生(PID_S001_ジャン_父親, Surprise, EmoSurprise)\nキャラモーション再生(PID_S001_ジャン_母親, Surprise, EmoSurprise)\n\nキャラカメラ(CharaCam_Front_Center_Bot, PID_ジャン, cam_anim_zoom_out_fast)
+MID_ED4_#008	キャラモーション再生(PID_リュール, Smile, EmoDeny, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, Die, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Surprise, IdolNormal)\nキャラモーション再生(PID_S001_ジャン_母親, Surprise, IdolNormal)\n\nシーンカメラ(SceneCam_SideYou_Right_Mid, cam_anim_track_l_slow)
+MID_ED4_#009	キャラモーション再生(PID_S001_ジャン_父親, Sad, EmoTalk, 0.5, 0.5)\n\nキャラ視線(PID_リュール, PID_S001_ジャン_父親, PID_S001_ジャン_父親)
+MID_ED4_#010	キャラモーション再生(PID_リュール, Smile, EmoTalk, 0.5, 0.5)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_ED4_#011	キャラモーション再生(PID_リュール, Smile, IdolNormal, 0.5, 0.5)\nキャラモーション再生(PID_ジャン, StandBy, EmoDeny2, 0.5, 0.5)\n\nキャラ視線(PID_リュール, PID_ジャン, PID_ジャン)\n\nシーンカメラ(SceneCam_SideMe_Right_Mid, cam_anim_track_l_slow) \nキャラカメラ(CharaCam_Front_Center_Mid, PID_ジャン, cam_anim_zoom_in_normal, 4)
+MID_ED4_#012	キャラモーション再生(PID_S001_ジャン_父親, Surprise, EmoSurprise)\nキャラモーション再生(PID_S001_ジャン_母親, Surprise, IdolNormal)\n\nキャラ視線(PID_S001_ジャン_父親, PID_ジャン, PID_ジャン)\nキャラ視線(PID_S001_ジャン_母親, PID_ジャン, PID_ジャン)\n\nキャラカメラ(CharaCam_Side_Right_Mid, PID_S001_ジャン_父親, cam_anim_pan_l_slow)
+MID_ED4_#013	キャラモーション再生(PID_ジャン, StandBy, EmoSad2)\n\nキャラ視線リセット(PID_ジャン)\n\nキャラカメラ(CharaCam_Side_Right_Mid, PID_ジャン, cam_anim_track_l_slow)
+MID_ED4_#014	キャラモーション再生(PID_ジャン, Serious, EmoDeny2)\n\nキャラカメラ(CharaCam_Front_Center_Mid, PID_ジャン, cam_anim_zoom_in_normal)\n\n*\nパペット会話中断()\nキャラモーション待ち(PID_ジャン)
+MID_ED4_#015	キャラモーション再生(PID_ジャン, Angry, TurnR, 0, 0.5)\n\nキャラ回転(PID_ジャン, -15, 0.5, 0.5)\n\nキャラ視線(PID_ジャン, PID_S001_ジャン_父親, PID_S001_ジャン_父親)
+MID_ED4_#016	キャラモーション再生(PID_S001_ジャン_父親, Pein, EmoTalk, 0.5, 0.5)\n\nキャラ視線(PID_S001_ジャン_母親, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Side_Right_Mid, PID_S001_ジャン_父親, cam_anim_pan_l_slow)
+MID_ED4_#017	キャラモーション再生(PID_リュール, Smile, EmoDeny)\n\nキャラ視線(PID_S001_ジャン_父親, PID_リュール, PID_リュール)\nキャラ視線(PID_S001_ジャン_母親, PID_リュール, PID_リュール)\nキャラ視線(PID_ジャン, PID_リュール, PID_リュール)\nキャラ視線(PID_リュール, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)
+MID_ED4_#018	キャラモーション再生(PID_S001_ジャン_母親, Serious, IdleNormal, 0.5, 0.5)
+MID_ED4_#019	キャラモーション再生(PID_S001_ジャン_母親, Normal, EmoRelax, 3, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親, PID_S001_ジャン_母親, PID_S001_ジャン_母親)\n\nキャラカメラ(CharaCam_Front_Center_Bot, PID_ジャン, cam_anim_pan_u_slow)
+MID_ED4_#020	キャラモーション再生(PID_S001_ジャン_父親, Surprise, EmoTalk, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_母親, Normal, IdleNormal, 0.5, 0.5)\n\nキャラ視線(PID_S001_ジャン_母親, PID_S001_ジャン_父親, PID_S001_ジャン_父親)
+MID_ED4_#021	キャラモーション再生(PID_ジャン, StandBy, TurnR, 0, 0.5)\n\nキャラ回転(PID_ジャン, -15, 0.5, 0.5)\n\nキャラ視線(PID_S001_ジャン_父親, PID_ジャン, PID_ジャン)\nキャラ視線(PID_ジャン, PID_S001_ジャン_父親, PID_S001_ジャン_父親)\nキャラ視線(PID_S001_ジャン_母親, PID_ジャン, PID_ジャン)
+MID_ED4_#022	キャラモーション再生(PID_ジャン, StandBy, EmoJoy, 0.5, 0.5)
+MID_ED4_#023	キャラモーション再生(PID_S001_ジャン_父親, Sad)
+MID_ED4_#024	キャラモーション再生(PID_S001_ジャン_父親, Die)\nキャラモーション再生(PID_S001_ジャン_父親, Smile, 3.0, 3.0)
+MID_ED4_#025	キャラモーション再生(PID_ジャン, Smile, EmoNod, 0.5, 0.5)\nキャラモーション再生(PID_S001_ジャン_父親, Smile)\nキャラモーション再生(PID_S001_ジャン_母親, Smile)\n\nウェイト(0.5)\nキャラ視線(PID_ジャン, PID_リュール, PID_リュール)
+MID_ED4_#026	キャラモーション再生(PID_リュール, Smile, EmoJoy)\n\nキャラ視線(PID_リュール, PID_ジャン, PID_ジャン)\n\nキャラカメラ(CharaCam_Side_Left_Mid, PID_リュール, cam_anim_track_r_slow)\n\n*\nフェードアウト()

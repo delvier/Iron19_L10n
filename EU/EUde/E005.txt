@@ -1,0 +1,337 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x18\x12E005_Boss\x021\n\x0E\x03\x02\x14\x12E005_Boss\nWirst du dem Schicksal trotzen, Verzweiflung\nzurückweisen, Bande mit Verbündeten knüpfen?\x0E\x04\x02\x00
+MID_OP1_#002	Wird deine andere Hälfte\nan deiner Seite bleiben?\x0E\x04\x02\x00
+MID_OP1_#003	Die Könige und Königinnen sind entschwunden\nwie Schnee in der Sonne, wie Sand im Wind.\x0E\x04\x02\x00
+MID_OP1_#004	Wer bleibt übrig? Ein vertrauter Fremder, ein\nNahestehender, dessen Namen du nicht kennst.\x0E\x04\x02\x00
+MID_OP1_#005	Einer kennt die Wahrheit.\x0E\x04\x02\x00
+MID_OP1_#006	In dieser Welt gibt es keine Leere.\nDein Traum wird sich nicht erfüllen.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_マデリーン\x021\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x00\x16\x10M011_モーヴ\x023\n\x0E\x03\x00\x1C\x16E004_セレスティア\x024\n\x0E\x03\x02\x16\x14E004_マデリーン\nMilady Nel kommt nicht zu uns, oder?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x16\x14E004_グレゴリー\nAllein unter einem Baum sitzend, schweigend...\nSo in sich gekehrt habe ich sie noch nie erlebt.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x12\x10M011_モーヴ\nSie sitzt nun schon seit einer halben Stunde\ndort. Vielleicht sollten wir ihr unsere Hilfe\nanbieten.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x18\x16E004_セレスティア\nMauvier, du hast wirklich keine Ahnung von\nder Zartheit eines Herzens, oder?\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x12\x10M011_モーヴ\nÄh... ähm... Ich kann dir nicht folgen.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nMilady Nel hat gerade ihre innersten Gefühle\noffenbart – eine Liebe, die sie seit Jahren ver-\nborgen hielt.\x0E\x04\x02\x00
+MID_OP2_#007	Natürlich wird sie danach etwas Zeit für sich\nselbst benötigen.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x12\x10M011_モーヴ\nAh.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x16\x14E004_グレゴリー\nDie Herzen der Liebenden sind fragil. Du musst\nsanft mit ihnen umgehen, Großer.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x16\x14E004_マデリーン\nKlingt, als würdest du aus Erfahrung sprechen,\nGregory. Warst du schon mal verliebt?\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x16\x14E004_グレゴリー\nNö. Aber ich habe gehört, dass es ebenso\nfurchteinflößend wie belebend sein soll.\nUnd du?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x16\x14E004_マデリーン\nIch?! Ähä... Nun, ich...\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x12\x10M011_モーヴ\nHm?\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x16\x14E004_マデリーン\nW-wie war die Frage?\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x18\x16E004_セレスティア\nIch mag es nicht, dass wir Mylord Nil und \x0E\x0A\x00\x10\x06den\x06die\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin so lange allein lassen. Aber\nMilady Nel braucht Zeit.\x0E\x04\x02\x00
+MID_OP2_#016	Wenn es doch nur eine Möglichkeit gäbe, Milady\nNel mit ihrer Liebe wieder zu vereinen.\x0E\x04\x02\x00
+MID_OP2_#017	Wir wissen doch alle, wie nahe sie \x0E\x0A\x00\x10\x06der\x06dem\n\x0E\x0A\x00(\x14Wyrmgöttin\x10Wyrmgott stand.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x16\x14E004_グレゴリー\nJa, aber das war \x0E\x0A\x00,\x14die andere\x14der andere \x0E\x0A\x00(\x14Wyrmgöttin\x10Wyrmgott.\nNicht \x0E\x0A\x00\x1A\x0Cdieser\ndiese \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x18\x16E004_セレスティア\nGlaubst du etwa, ich wüsste das nicht? Ich\nmöchte einfach nur... Milady Nel glücklich\nsehen.\x0E\x04\x02\x00
+MID_OP2_#020	Sie verdient jedes Glück.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x16\x14E004_マデリーン\nJa. Eine loyale Bedienstete will stets nur das\nBeste für ihre Herrin oder ihren Herrn.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x12\x10M011_モーヴ\nDas kann ich nachvollziehen, selbst wenn diese\n„Zärtlichkeit des Herzens“ mir gänzlich unver-\nständlich ist.\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x18\x16E004_セレスティア\nIch bin froh, dass du es verstehst.\x0E\x04\x02\x00
+MID_OP2_#024	Und ich hoffe, ihr alle wisst, dass ich mich um\neuch genauso sehr sorge wie um Milady.\x0E\x04\x02\x00
+MID_OP2_#025	Ich möchte, dass wir zusammenbleiben und\naufeinander aufpassen.\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x02\x10\x0EE005_エル\nDanke, dass ihr mir alle etwas Freiraum\ngegeben habt.\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x18\x16E004_セレスティア\nBitte, Milady Nel. Das war doch selbstver-\nständlich.\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x16\x14E004_グレゴリー\nFühlt Ihr Euch besser?\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x10\x0EE005_エル\nSehr. Vielen Dank, dass ihr mir die Zeit zum\nNachdenken gelassen habt.\x0E\x04\x02\x00
+MID_OP2_#030	Ich glaube, ich habe mich nie richtig mit dem\nVerlust meiner großen Liebe auseinanderge-\nsetzt.\x0E\x04\x02\x00
+MID_OP2_#031	Aber ich bedaure, dass ich euch so viele\nProbleme bereitet habe. Ich hätte euch sagen\nmüssen, dass die Königlichen Verzerrte waren.\x0E\x04\x02\x00
+MID_OP2_#032	Ihr seid meine zuverlässigen Vertrauten. Und\nich hätte wissen müssen, dass ich auf euch\nsetzen kann.\x0E\x04\x00\x00
+MID_OP2_#033	\x0E\x03\x02\x12\x10M011_モーヴ\nIhr ehrt uns, Milady Nel. Ganz ohne Zweifel\nwird auch Mylord Nil durch diese Worte be-\nruhigt sein.\x0E\x04\x00\x00
+MID_OP2_#034	\x0E\x03\x02\x10\x0EE005_エル\nGewiss. Ich schulde \x0E\x0A\x00\x10\x06dem\x06der \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin ebenfalls\neine Entschuldigung. Mein Verhalten war\nfurchtbar unhöflich.\x0E\x04\x02\x00
+MID_OP2_#035	Ich hoffe, wir können von vorne anfangen, als\nFreunde.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x18\x16E004_セレスティア\nIch finde, das ist eine großartige Idee! Lasst\nuns zurück zu den beiden gehen. Sie sind\ndes Wartens bestimmt schon überdrüssig.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x10\x0EE005_エル\nDieses Mal werde ich Euch angemessen\ngegenübertreten, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x02\x00
+MID_OP2_#038	Ich werde endlich die Trauer um meine Liebe\nhinter mir lassen und werde in Euch nun die\nPerson sehen, die Ihr wirklich seid.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x1C\x16E004_セレスティア\x022\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x023\n\x0E\x03\x00\x1A\x14E004_マデリーン\x024\n\x0E\x03\x02\x10\x0EE005_エル\nWir sind da.\x0E\x04\x02\x00
+MID_OP3_#002	\x0E\x0A\x00*\x14Göttlicher\x12Göttliche? Nil?\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x02\x18\x16E004_セレスティア\nSeltsam. Hier ist niemand.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x16\x14E004_グレゴリー\nSind wir an der falschen Stelle?\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x16\x14E004_マデリーン\nGlaube ich nicht. Wir sind in die richtige Rich-\ntung gegangen, und ich erinnere mich an die\nLandschaft.\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nIch mag die Möglichkeit gar nicht laut aus-\nsprechen, aber es könnte einen Hinterhalt\ngegeben haben.\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x00\x18\x12E005_Boss\x023\n\x0E\x03\x02\x14\x12E005_Boss\nSchwester! Ich bin so froh, dass ihr alle\nwieder zurück seid.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x10\x0EE005_エル\nNil, ich bin erleichtert, dich unversehrt zu\nsehen.\x0E\x04\x00\x00
+MID_OP3_#009	\x0E\x03\x02\x14\x12E005_Boss\nWir haben ein Problem. Die Armringe sind fort.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x10\x0EE005_エル\nFort? Wieso?!\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x14\x12E005_Boss\n\x0E\x0A\x00\x10\x06Der\x06Die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin nahm sie und ging weg.\x0E\x04\x02\x00
+MID_OP3_#012	Ich befürchte, dass \x0E\x0A\x00\x0E\x04er\x06sie plant, das allein zu Ende\nzu bringen.\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x12\x10M011_モーヴ\nDann müssen wir sofort die Verfolgung\naufnehmen.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x14\x12E005_Boss\nIch konnte eine Verfolgungsmagie wirken, bevor\nwir uns trennten. Die Spur sollte noch sichtbar\nsein.\x0E\x04\x02\x00
+MID_OP3_#015	Ich bedaure, dass ich nicht den Mut fand, die\nVerfolgung aufzunehmen. Ehrlich gesagt hatte\nich Angst, von euch allen getrennt zu werden.\x0E\x04\x02\x00
+MID_OP3_#016	Ich hoffe, ihr könnt mir meine Feigheit\nverzeihen.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x10\x0EE005_エル\nDa gibt es nichts zu verzeihen, Nil. Du hast\neine kluge Entscheidung getroffen.\x0E\x04\x02\x00
+MID_OP3_#018	Wenn du uns den Weg zeigen kannst, tu es\nbitte.\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x14\x12E005_Boss\nSelbstverständlich.\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x10\x0EE005_エル\nDiese schreckliche Situation ist allein meine\nSchuld.\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x14\x12E005_Boss\n...\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x18\x12E005_Boss\x022\n\x0E\x03\x02\x10\x0EE005_エル\nWir sind nun in Solm. Ich kann gar nicht\nbegreifen, welches Ziel \x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin verfolgt.\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x02\x14\x12E005_Boss\nWir sind nah am Ziel. Besser gesagt, die Spur\nmeiner Magie endet... genau hier.\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x02\x10\x0EE005_エル\nDas ist irgendeine Art von Tempel.\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x14\x12E005_Boss\nGehen wir hinein.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x18\x12E005_Boss\x022\n\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x00\x1E\x18E005_異形兵_セイジ\x024\n\x0E\x03\x02\x10\x0EE005_エル\nEs ist dunkel hier drinnen. Passt auf, wo ihr\nhintretet.\x0E\x04\x02\x00
+MID_OP5_#002	Und du bist sicher, dass \x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin sich\nhier befindet?\x0E\x04\x00\x00
+MID_OP5_#003	\x0E\x03\x02\x14\x12E005_Boss\nZiemlich sicher.\x0E\x04\x02\x00
+MID_OP5_#004	Hinter euch!\x0E\x04\x00\x00
+MID_OP5_#005	\x0E\x03\x02\x1A\x18E005_異形兵_セイジ\nRaaarrrh!\x0E\x04\x00\x00
+MID_OP5_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nVerzerrte?!\x0E\x04\x00\x00
+MID_OP5_#007	\x0E\x03\x00\x1A\x14E004_グレゴリー\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nOh, Junge! Und dann auch noch so viele!\x0E\x04\x00\x00
+MID_OP5_#008	\x0E\x03\x02\x10\x0EE005_エル\nWir kümmern uns um sie. Bleib hinter mir, Nil.\x0E\x04\x00\x00
+MID_OP5_#009	\x0E\x03\x02\x14\x12E005_Boss\nHehehe...\x0E\x04\x00\x00
+MID_OP5_#010	\x0E\x03\x02\x10\x0EE005_エル\nNil?\x0E\x04\x00\x00
+MID_OP5_#011	\x0E\x03\x02\x14\x12E005_Boss\nIch weiß deine Rücksichtnahme zu schätzen,\nliebe Schwester. Aber ich brauche deinen\nSchutz nicht.\x0E\x04\x02\x00
+MID_OP5_#012	Ich gestehe es, ich habe das immer schon an\ndir gehasst. Deine Überlegenheit. Deine\nherablassende Art.\x0E\x04\x00\x00
+MID_OP5_#013	\x0E\x03\x02\x10\x0EE005_エル\nBitte?\x0E\x04\x00\x00
+MID_OP5_#014	\x0E\x03\x02\x14\x12E005_Boss\nHehehe. Dieser Gesichtsausdruck! Wach auf,\nNel! \x0E\x0A\x00\x10\x06Der\x06Die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin ist nicht hier!\x0E\x04\x00\x00
+MID_OP5_#015	\x0E\x03\x02\x10\x0EE005_エル\nErkläre, was das hier sein soll.\x0E\x04\x00\x00
+MID_OP5_#016	\x0E\x03\x02\x18\x16E004_セレスティア\nMylord Nil, seid Ihr für die Verzerrten hier\nverantwortlich?!\x0E\x04\x00\x00
+MID_OP5_#017	\x0E\x03\x00\x1A\x14E004_マデリーン\x024\n\x0E\x03\x02\x16\x14E004_マデリーン\nNein... Das wird gewiss ein Versehen sein.\nMylord Nil wusste nicht, wohin er uns hier führt.\x0E\x04\x00\x00
+MID_OP5_#018	\x0E\x03\x02\x14\x12E005_Boss\nDenkst du das wirklich? Vielleicht wird dies\nhier deine Meinung ändern.\x0E\x04\x00\x00
+MID_OP5_#019	\x0E\x03\x02\x10\x0EE005_エル\nEmblem Chrom. Er sollte doch schlafen.\x0E\x04\x00\x00
+MID_OP5_#020	\x0E\x03\x02\x14\x12E005_Boss\nMuss ich es dir etwa erst buchstabieren? Dein\n„unbekannter Frevler“ besitzt die Macht,\nEmbleme aufzuwecken.\x0E\x04\x02\x00
+MID_OP5_#021	Und er steht direkt vor dir.\x0E\x04\x02\x00
+MID_OP5_#022	Ich bin kein machtloser Fehlschlag. Ich werde\ndie Wünsche des verstorbenen Sombron ver-\nwirklichen!\x0E\x04\x00\x00
+MID_OP5_#023	\x0E\x03\x02\x10\x0EE005_エル\nAber du bist mein Bruder.\x0E\x04\x02\x00
+MID_OP5_#024	Wir waren immer zusammen. Wir sind zwei\nHälften eines Ganzen. Du kannst nicht unser\nFeind sein!\x0E\x04\x00\x00
+MID_OP5_#025	\x0E\x03\x02\x14\x12E005_Boss\nWer sonst könnte es dann sein? Es ist niemand\nmehr übrig. All unsere Geschwister sind tot\nund beerdigt.\x0E\x04\x02\x00
+MID_OP5_#026	Ich selbst habe mich ihrer entledigt. Mit einer\nAusnahme natürlich.\x0E\x04\x00\x00
+MID_OP5_#027	\x0E\x03\x02\x10\x0EE005_エル\n...!\x0E\x04\x00\x00
+MID_OP5_#028	\x0E\x03\x02\x14\x12E005_Boss\nHast du es nun verstanden? Gut.\x0E\x04\x02\x00
+MID_OP5_#029	Dann leb wohl, meine geliebte Schwester.\nGenieße es, mit deinen vier kleinen Brisen\nzusammen beerdigt zu werden.\x0E\x04\x02\x00
+MID_OP5_#030	Ich werde nun meine Fangzähne in \x0E\x0A\x00\x1A\x0Cdeinen\ndeine\n\x0E\x0A\x002\x18entzückenden\x16entzückende \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin schlagen.\x0E\x04\x00\x00
+MID_OP5_#031	\x0E\x03\x02\x10\x0EE005_エル\nNil... Wie kannst du nur?\x0E\x04\x00\x00
+MID_OP5_#032	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nMilady Nel, bitte... Wir müssen uns auf die\nSache konzentrieren!\x0E\x04\x00\x00
+MID_OP5_#033	\x0E\x03\x00\x1A\x14E004_グレゴリー\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nNichts davon ergibt einen Sinn, aber die\nVerzerrten werden nicht warten, bis wir den\nSinn erkannt haben!\x0E\x04\x00\x00
+MID_OP5_#034	\x0E\x03\x02\x10\x0EE005_エル\nEs sind viele, aber wir sind stark. Wenn ich mich\nerst verwandelt habe...\x0E\x04\x02\x00
+MID_OP5_#035	Nil hat meinen Drachenstein.\x0E\x04\x02\x00
+MID_OP5_#036	Und während wir hier in die Enge getrieben\nwerden, befindet sich \x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin in\nernsthafter Gefahr.\x0E\x04\x00\x00
+MID_OP5_#037	\x0E\x03\x02\x18\x16E004_セレスティア\nMilady Nel. Überlasst dies hier uns.\x0E\x04\x00\x00
+MID_OP5_#038	\x0E\x03\x02\x10\x0EE005_エル\nNein, Zelestia.\x0E\x04\x00\x00
+MID_OP5_#039	\x0E\x03\x02\x18\x16E004_セレスティア\nMag sein, dass nicht jeder von uns es hier\nhinausschafft, aber wir vier könnten für\nEuch eine Möglichkeit zur Flucht kreieren.\x0E\x04\x02\x00
+MID_OP5_#040	Schnell! Ihr müsst diesen Ort verlassen! Geht\n\x0E\x0A\x00\x10\x06zum\x06zur \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin!\x0E\x04\x00\x00
+MID_OP5_#041	\x0E\x03\x02\x10\x0EE005_エル\nNein. Ich werde euch nicht zurücklassen!\x0E\x04\x00\x00
+MID_OP5_#042	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nZelestia hat recht. Ihr müsst gehen. Ihr\nseid die Einzige, die in der Lage ist, Mylord\nNil aufzuhalten.\x0E\x04\x00\x00
+MID_OP5_#043	\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x02\x16\x14E004_グレゴリー\nWir waren immer diejenigen, die weggerannt\nsind. Lasst uns nur ein einziges Mal Helden sein.\x0E\x04\x00\x00
+MID_OP5_#044	\x0E\x03\x00\x1A\x14E004_マデリーン\x023\n\x0E\x03\x02\x16\x14E004_マデリーン\nEs wäre uns eine Ehre, für Eure sichere\nFlucht zu sorgen.\x0E\x04\x00\x00
+MID_OP5_#045	\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x02\x18\x16E004_セレスティア\nJetzt, Milady Nel. Beeilt Euch!\x0E\x04\x00\x00
+MID_OP5_#046	\x0E\x03\x02\x10\x0EE005_エル\nNun gut.\x0E\x04\x02\x00
+MID_OP5_#047	Meine geliebten Vier Winde, hört mich an und\ngehorcht.\x0E\x04\x02\x00
+MID_OP5_#048	Überlebt, bis wir uns wiedersehen! Das ist ein\nBefehl!\x0E\x04\x00\x00
+MID_OP5_#049	\x0E\x03\x02\x18\x16E004_セレスティア\nWir werden Euch nicht enttäuschen!\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x18\x12E005_Boss\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x14\x0EE005_エル\x023\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP6_#002	\x0E\x03\x02\x14\x12E005_Boss\nHier bin ich, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x00\x00
+MID_OP6_#003	\x0E\x03\x02\x0A\x08リュール\nNil.\x0E\x04\x00\x00
+MID_OP6_#004	\x0E\x03\x02\x14\x12E005_Boss\nFür meine liebe Schwester und ihre geschätzten\nVier Winde sollte nun gesorgt sein.\x0E\x04\x00\x00
+MID_OP6_#005	\x0E\x03\x02\x0A\x08リュール\nNein...\x0E\x04\x02\x00
+MID_OP6_#006	Nun... Wenn dem so ist, solltest du mich einfach\ntöten. Aber ich glaube nicht, dass du das Zeug\ndazu hast.\x0E\x04\x00\x00
+MID_OP6_#007	\x0E\x03\x02\x14\x12E005_Boss\nDa irrt Ihr Euch, aber noch habt Ihr eine Rolle\nzu spielen. Nun folgt mir.\x0E\x04\x00\x00
+MID_OP6_#008	\x0E\x03\x02\x0A\x08リュール\nIch werde nirgendwo mit dir hingehen.\x0E\x04\x00\x00
+MID_OP6_#009	\x0E\x03\x02\x14\x12E005_Boss\nWirklich nicht?\x0E\x04\x00\x00
+MID_OP6_#010	\x0E\x03\x02\x0A\x08リュール\nDu sagtest, ich habe eine Rolle zu spielen. Und\nwas ist, wenn ich mich weigere, sie zu spielen?\x0E\x04\x02\x00
+MID_OP6_#011	Ich werde nichts tun, was dir zum Sieg ver-\nhelfen wird.\x0E\x04\x00\x00
+MID_OP6_#012	\x0E\x03\x02\x14\x12E005_Boss\nWie könnt Ihr nur so grausam sein? Bedeutet\nEuch denn die Liebe meiner süßen Schwester\nso rein gar nichts?\x0E\x04\x02\x00
+MID_OP6_#013	Ich hatte doch schon angefangen, Euch als\nFamilie anzusehen. Das geht mir jetzt richtig\nans Herz.\x0E\x04\x00\x00
+MID_OP6_#014	\x0E\x03\x02\x0A\x08リュール\nDu kannst mit deinen Lügen jetzt aufhören.\x0E\x04\x00\x00
+MID_OP6_#015	\x0E\x03\x02\x14\x12E005_Boss\nHehehe. Euch entgeht aber auch nichts. Aber\nwenn Ihr Euch weigern solltet, kann ich Euch\nauch einfach dazu zwingen.\x0E\x04\x00\x00
+MID_OP6_#016	\x0E\x03\x02\x0A\x08リュール\nMach, was du willst. Ich gebe nicht nach.\x0E\x04\x00\x00
+MID_OP6_#017	\x0E\x03\x02\x14\x12E005_Boss\nEs gibt nur einen Weg zu sehen, ob das wirklich\nder Fall sein wird. Wollen wir es gemeinsam\nherausfinden?\x0E\x04\x00\x00
+MID_OP6_#018	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP6_#019	\x0E\x03\x02\x14\x12E005_Boss\nNel? Wie...\x0E\x04\x00\x00
+MID_OP6_#020	\x0E\x03\x02\x10\x0EE005_エル\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Ihr lebt!\x0E\x04\x00\x00
+MID_OP6_#021	\x0E\x03\x02\x0A\x08リュール\nNel!\x0E\x04\x00\x00
+MID_OP6_#022	\x0E\x03\x02\x14\x12E005_Boss\nHast du die Vier Winde zum Sterben allein\ngelassen? Ich hätte das kommen sehen sollen.\x0E\x04\x00\x00
+MID_OP6_#023	\x0E\x03\x02\x10\x0EE005_エル\nNil. Hör sofort damit auf.\x0E\x04\x02\x00
+MID_OP6_#024	Vater ist tot. Es gibt keinen Grund mehr, sich\nseinen Wünschen zu beugen.\x0E\x04\x02\x00
+MID_OP6_#025	Ich weiß, dass seine Ziele nicht die deinen sind.\nEin Kampf zwischen uns ist bedeutungslos!\x0E\x04\x00\x00
+MID_OP6_#026	\x0E\x03\x02\x14\x12E005_Boss\nBedeutungslos? Du weißt doch absolut gar\nnichts über meine Wünsche und Ziele.\x0E\x04\x02\x00
+MID_OP6_#027	Zeigt euch, meine Verzerrten!\x0E\x04\x00\x00
+MID_OP6_#028	\x0E\x03\x02\x0A\x08リュール\nAber das sind...\x0E\x04\x00\x00
+MID_OP6_#029	\x0E\x03\x02\x10\x0EE005_エル\nDie Assassinen, die auf Schloss Lythos waren.\nIhr Angriff war also auch dein Werk.\x0E\x04\x00\x00
+MID_OP6_#030	\x0E\x03\x02\x14\x12E005_Boss\nSicher. Du hast es gewagt, die Ziele unseres\nHerrn Vaters zu verhöhnen. Es war meine\nPflicht, dich Fehlschlag zu töten.\x0E\x04\x02\x00
+MID_OP6_#031	Genug geredet. Nimm deine Waffe.\x0E\x04\x02\x00
+MID_OP6_#032	Überzeuge dich selbst davon, ob dieser Kampf\nbedeutsam ist oder nicht!\x0E\x04\x00\x00
+MID_OP6_#033	\x0E\x03\x02\x10\x0EE005_エル\nDas bist nicht du, Nil!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nHaltet still, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Ich möchte, dass Ihr mit\neigenen Augen seht, wie jeder Eurer Verbünde-\nten untergeht.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nNimm dich vor meinen Verzerrten Wyvern in\nAcht. Sie lechzen danach, \x0E\x0A\x00\x1A\x0Cdeinen\ndeine \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin in\nStücke zu reißen.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01"\x12E005_Boss\x0CNormal\n\x0E\x03\x02\x14\x12E005_Boss\nHrmpf. Werdet ihr Insekten denn niemals\nsterben? Ich habe genug davon! Tötet sie!\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nKlingt nach Spaß! Ich will beim Töten mit-\nmachen! Ich brauche wohl noch ein paar\nMarionetten dafür.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01\x1C\x12E005_Boss\x06Shy\n\x0E\x03\x02\x14\x12E005_Boss\nDu bist hier, um mich zu töten? Aber ich\ndachte, wir wären Freunde.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01"\x12E005_Boss\x0CNormal\n\x0E\x03\x02\x14\x12E005_Boss\nDamit... hast du mich nun endlich ernsthaft\nangegriffen...\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide1\nIhr seid ein Gegner, oder? Wenn das so ist...\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nDieser Schmerz ist nichts... im Vergleich zu\nVaters...\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nWarst du auf Schloss Lythos? Tut mir leid,\nheutzutage muss man sich zu viele Dinge\nmerken.\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01$\x14E005_Hide2\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide2\nHups, ich glaub, ich habe verloren. Hahaha!\nDas wievielte Mal war das jetzt?\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EE005_エル\x02t\n\x0E\x05\x01\x1A\x0EE005_エル\x08Pain\n\x0E\x03\x02\x10\x0EE005_エル\nWir müssen nicht kämpfen, Nil. Noch haben\nwir Zeit.\x0E\x04\x00\x00
+MID_BT7_#002	\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nAngry\n\x0E\x03\x02\x14\x12E005_Boss\nZeit wozu? Zum Reden? Das haben wir doch\nschon hinter uns.\x0E\x04\x02\x00
+MID_BT7_#003	Erwartest du von mir, dass ich einfach so meine\nPläne aufgebe und kapituliere? Und wieder\nzu einem Fehlschlag werde?\x0E\x04\x00\x00
+MID_BT7_#004	\x0E\x03\x02\x10\x0EE005_エル\nWir finden eine Lösung. Erkläre mir deine Pläne.\nHilf mir, sie zu verstehen.\x0E\x04\x00\x00
+MID_BT7_#005	\x0E\x03\x02\x14\x12E005_Boss\nIch habe die Absicht, Macht zu gewinnen und\ndich zu töten. Das ist alles, was du wissen\nmusst, bevor du stirbst!\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nHallo, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Es tut mir so leid, dass wir\nletztes Mal unterbrochen wurden.\x0E\x04\x02\x00
+MID_BT8_#002	Falls Ihr nicht kämpfen möchtet, müsst Ihr\neinfach nur mit mir kommen.\x0E\x04\x00\x00
+MID_BT8_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLass mich raten. Ich soll dir zudem noch die\nsechs Armringe übergeben.\x0E\x04\x02\x00
+MID_BT8_#004	Da sich der siebte Armring in deinem Besitz\nbefindet, kannst du es bestimmt nicht erwarten,\ndeine Sammlung zu vervollständigen.\x0E\x04\x02\x00
+MID_BT8_#005	Aber das wird nicht passieren. Ich werde dich\nhier und jetzt aufhalten.\x0E\x04\x00\x00
+MID_BT8_#006	\x0E\x05\x01\x1C\x12E005_Boss\x06Die\n\x0E\x03\x02\x14\x12E005_Boss\nAn Eurer Stelle würde ich vermutlich das\nGleiche sagen. So nervtötend...\x0E\x04\x02\x00
+MID_BT8_#007	\x0E\x05\x01"\x12E005_Boss\x0CNormal\nIch habe diese Spielchen satt, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x02\x00
+MID_BT8_#008	\x0E\x05\x01 \x12E005_Boss\nAngry\nDa Ihr Vaters \x0E\x0A\x00V(meistgehasster Feind*meistgehasste Feindin seid,\nwerde ich mir einfach nehmen, was ich brauche,\nund Euch dann vernichten.\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nBist du... ich? Wenn dem so ist, komm mir bitte\nnicht in die Quere.\x0E\x04\x02\x00
+MID_BT9_#002	Ich muss die Armringe einsammeln, um Vater\nwieder zurück ins Leben zu bringen.\x0E\x04\x00\x00
+MID_BT9_#003	\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nIch weiß, was du durchmachst. Ich habe das-\nselbe durchgemacht. Aber ich kann dich nicht\ngewähren lassen.\x0E\x04\x02\x00
+MID_BT9_#004	\x0E\x05\x01\x1A\x0Cオルテンシア\nSmile\nDaher haben wir wohl keine andere Wahl, als\nuns in Stellung zu bringen, Niedlichkeit gegen\nNiedlichkeit. Möge die Bezauberndste gewinnen!\x0E\x04\x02\x00
+MID_BT9_#005	\x0E\x05\x01\x16\x0Cオルテンシア\x06Shy\nKomm schon, das verdient doch ein Lachen.\nWenn wir schon gegeneinander kämpfen\nmüssen, sollten wir versuchen, Spaß zu haben.\x0E\x04\x00\x00
+MID_BT9_#006	\x0E\x03\x02\x16\x14E005_Hide1\nDu magst denken, wir beide seien niedlich. Aber\nIvy hat mir die Wahrheit gesagt. Wir sind die\njämmerlichsten Gestalten, die je gelebt haben.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nAh! Ivy! Ich meine, Euer Majestät, meine\nKönigin...\x0E\x04\x02\x00
+MID_BT10_#002	\x0E\x05\x01 \x14E005_Hide1\x08Pain\nSeid Ihr endlich gekommen, mich zu töten,\nwie Ihr es mit allen von Vaters illegitimen\nKindern tatet?\x0E\x04\x00\x00
+MID_BT10_#003	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nHortensia... Was hat dir die Ivy dieser Welt\nangetan?\x0E\x04\x00\x00
+MID_BT10_#004	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide1\nIhr seid hier, um mich zu töten. Ich weiß es.\x0E\x04\x02\x00
+MID_BT10_#005	\x0E\x05\x01 \x14E005_Hide1\x08Pain\nEs tut mir leid, aber ich kann den Tod nicht\neinfach so akzeptieren. Ich muss kämpfen.\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ロサード\x02t\n\x0E\x05\x01\x12\x08ロサード\x06Shy\n\x0E\x03\x02\x0A\x08ロサード\nHallo, Hortensia. Wie ich sehe, bist du in dieser\nWelt genauso bezaubernd wie in meiner, du\nbesitzt nur weniger Selbstvertrauen.\x0E\x04\x00\x00
+MID_BT12_#002	\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nRosado, zurück von den Toten... Ich kann\nmeinen Augen kaum trauen. Ich habe dich so\nsehr vermisst.\x0E\x04\x02\x00
+MID_BT12_#003	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\nSeit ich meine Getreuen verlor, ist in meinem\nHerzen nichts als Verzweiflung.\x0E\x04\x02\x00
+MID_BT12_#004	Du bist zurückgeblieben, damit ich vor den\nVerzerrten fliehen konnte. Ich hatte nie die\nChance, dir dafür zu danken.\x0E\x04\x02\x00
+MID_BT12_#005	\x0E\x05\x01\x1C\x08ロサード\x10Surprise\n\x0E\x05\x01&\x14E005_Hide1\x0ESerious\nAber um die Wahrheit zu sagen... Ich glaube,\nich wäre glücklicher gewesen, wenn ich an\ndeiner Seite gestorben wäre.\x0E\x04\x00\x00
+MID_BT12_#006	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x05\x01\x12\x08ロサード\x06Sad\n\x0E\x03\x02\x0A\x08ロサード\nDu hast so viel durchlitten.\x0E\x04\x02\x00
+MID_BT12_#007	Ich bin froh, dass dein Rosado dich beschützen\nkonnte. Es tut mir leid, dass er nun nicht bei dir\nsein kann.\x0E\x04\x02\x00
+MID_BT12_#008	Das Beste, was ich tun kann, ist, dich zu ihm\nzu schicken.\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nGoldmary... Ich habe dich kaum wiedererkannt.\x0E\x04\x00\x00
+MID_BT13_#002	\x0E\x03\x00\x12\x0Cゴルドマリー\x02t\n\x0E\x05\x01\x16\x0Cゴルドマリー\x06Sad\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nVerständlich. Meine Eleganz ist zu brillant, um\nsie in einer Erinnerung festhalten zu können.\x0E\x04\x00\x00
+MID_BT13_#003	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide1\nNein, ich bin überrascht, dass du überhaupt\nEleganz besitzt.\x0E\x04\x02\x00
+MID_BT13_#004	Du warst immer so verschlossen. Du hattest\nkein Selbstvertrauen, kein Charisma...\x0E\x04\x00\x00
+MID_BT13_#005	\x0E\x05\x01 \x0Cゴルドマリー\x10Surprise\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nHahaha. Das muss ein Irrtum sein.\x0E\x04\x02\x00
+MID_BT13_#006	Das ist unmöglich. Sicherlich denkt Ihr dabei\nan jemand ganz anderen.\x0E\x04\x00\x00
+MID_BT13_#007	\x0E\x03\x02\x16\x14E005_Hide1\nUnsere ganze Gruppe war so. Wir wollten nie\ndie Aufmerksamkeit auf uns ziehen.\x0E\x04\x02\x00
+MID_BT13_#008	\x0E\x05\x01\x16\x0Cゴルドマリー\x06Sad\nSo war es einfacher, zu überleben... Dachten\nwir jedenfalls.\x0E\x04\x02\x00
+MID_BT13_#009	Wenn du nur so selbstsicher und anmutig wie\njetzt gewesen wärst. Ich hätte zu dir aufgeblickt.\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide1\nLindon... Es ist lange her.\x0E\x04\x00\x00
+MID_BT14_#002	\x0E\x03\x00\x0E\x08リンデン\x02t\n\x0E\x05\x01\x18\x08リンデン\x0CNormal\n\x0E\x03\x02\x0A\x08リンデン\nDie Prinzessin Hortensia dieser Welt ist also\nrecht ernsthaft.\x0E\x04\x02\x00
+MID_BT14_#003	\x0E\x05\x01\x12\x08リンデン\x06Sad\nSelbst wenn wir Feinde sind, fühlt es sich falsch\nan. Hier, warum probiert Ihr nicht ein paar von\nden Süßigkeiten, die ich gemacht habe?\x0E\x04\x02\x00
+MID_BT14_#004	\x0E\x05\x01\x16\x08リンデン\nSmile\nSie sind sehr niedlich, wenn ich das so sagen\ndarf.\x0E\x04\x00\x00
+MID_BT14_#005	\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nNein, danke. Niedliche Dinge passen nicht zu\nmir...\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nHey, Ich! Erlaube mir, mich vorzustellen, ich\nbin du.\x0E\x04\x00\x00
+MID_BT15_#002	\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nHuch... Das ist genau das, was ich auch gesagt\nhätte. Du bist wirklich ich.\x0E\x04\x02\x00
+MID_BT15_#003	\x0E\x05\x01\x14\nフォガート\x06Shy\nIch müsste lügen, wenn ich sagen würde, dass\ndies ein wahr gewordener Traum ist. Aber das\nist er nicht. Du bist mir zu... niederträchtig.\x0E\x04\x00\x00
+MID_BT15_#004	\x0E\x05\x01$\x14E005_Hide2\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide2\nOh, ich weiß. Ich bin wirklich ein Prachtstück.\nDieser Assassine auf Schloss Lythos? Das war\nich!\x0E\x04\x02\x00
+MID_BT15_#005	\x0E\x05\x01$\x14E005_Hide2\x0CStatus\n\x0E\x05\x01\x1E\nフォガート\x10Surprise\nUnd da ich so ein böser Kerl bin, werde ich dich\nwohl töten und deinen Platz in dieser anderen\nWelt einnehmen.\x0E\x04\x02\x00
+MID_BT15_#006	\x0E\x05\x01"\x14E005_Hide2\nRelax\n\x0E\x05\x01\x18\nフォガート\nAngry\nAber sieh es mal positiv. Das Letzte, was du\nsehen wirst, ist dein eigenes hübsches Gesicht.\x0E\x04\x00\x00
+MID_BT16_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01(\x14E005_Hide2\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide2\nTimerra? Du solltest nicht hier sein.\x0E\x04\x00\x00
+MID_BT16_#002	\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x14\nミスティラ\x06Sad\n\x0E\x03\x02\x0C\nミスティラ\nJa, ich verstehe, dass das verwirrend sein\nkann...\x0E\x04\x00\x00
+MID_BT16_#003	\x0E\x05\x01\x1E\x14E005_Hide2\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide2\nGanz genau. Das Letzte, was ich über dich\nhörte, war, dass Nel dich verspeist hat.\x0E\x04\x00\x00
+MID_BT16_#004	\x0E\x03\x02\x0C\nミスティラ\nDas war ich nicht. Das war dein echtes\nSchwesterlein. Ich stamme aus einer anderen\nWelt.\x0E\x04\x00\x00
+MID_BT16_#005	\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nAaah! Danke, dass du das geklärt hast! Weißt\ndu, ich war verärgert, dass ich dir nicht die\nletzte Ehre erweisen konnte.\x0E\x04\x02\x00
+MID_BT16_#006	\x0E\x05\x01"\x14E005_Hide2\nRelax\nIch hatte immer gehofft, dass ich meine\nSchwester töten würde.\x0E\x04\x02\x00
+MID_BT16_#007	Nun, ich werde mich dann wohl damit zufrie-\ndengeben müssen, ihr Ebenbild zu töten!\x0E\x04\x00\x00
+MID_BT18_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nPandreo, Kumpel! Mann, ist das schön, dich zu\nsehen.\x0E\x04\x02\x00
+MID_BT18_#002	Was würdest du dazu sagen, wenn wir die\nWaffen niederlegen und eine Schlachtfeldparty\nsteigen lassen? Ganz wie in alten Zeiten.\x0E\x04\x00\x00
+MID_BT18_#003	\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x14\x08パンドロ\x08pain\n\x0E\x03\x02\x0A\x08パンドロ\nNein, Fogado. Ich werde dafür sorgen, dass Ihr\nin Frieden ruhen könnt. Es ist Folter, Euch so\nzu sehen.\x0E\x04\x00\x00
+MID_BT18_#004	\x0E\x05\x01\x1C\x08パンドロ\x10Surprise\n\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nWas denkst du denn, wie es mir geht, wenn ich\ndich sehe – glücklich und gesund? Ich könnte\nfast weinen.\x0E\x04\x02\x00
+MID_BT18_#005	\x0E\x05\x01$\x14E005_Hide2\x0CStatus\nIch sah mit an, wie mein Pandreo starb... Mein\nbester Freund auf der Welt, vor meinen Augen\nniedergemetzelt.\x0E\x04\x00\x00
+MID_BT18_#006	\x0E\x05\x01\x12\x08パンドロ\x06Sad\n\x0E\x03\x02\x0A\x08パンドロ\nEs... Es tut mir leid, Fogado.\x0E\x04\x00\x00
+MID_BT18_#007	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nEh, weißt du was? Es ist in Ordnung. Ich weiß,\nwie ich mich selbst aufheitern kann.\x0E\x04\x02\x00
+MID_BT18_#008	\x0E\x05\x01"\x14E005_Hide2\nRelax\nIch stecke dir einen Pfeil in deinen selbstge-\nrechten Nacken!\x0E\x04\x00\x00
+MID_BT19_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nBunet, du bist es! Schön, dich zu sehen, mein\nFreund. Es ist lange her.\x0E\x04\x00\x00
+MID_BT19_#002	\x0E\x03\x00\x0A\x04ボネ\x02t\n\x0E\x05\x01\x0E\x04ボネ\x06Sad\n\x0E\x03\x02\x06\x04ボネ\nFogado... Was ist das für ein schreckliches\nGefühl.\x0E\x04\x02\x00
+MID_BT19_#003	Würde ich das in einem Gericht ausdrücken,\nwürdet Ihr den Geschmack sicher unappetitlich\nfinden.\x0E\x04\x00\x00
+MID_BT19_#004	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nDu kochst, hm? Lustig. Mein Bunet war in der\nKüche nutzlos.\x0E\x04\x02\x00
+MID_BT19_#005	\x0E\x05\x01"\x14E005_Hide2\nRelax\nEr hatte aber kein Problem damit, die Gegner\nzu grillen und in Stücke zu schneiden. Der Kerl\nwar richtig brutal.\x0E\x04\x02\x00
+MID_BT19_#006	\x0E\x05\x01\x1E\x14E005_Hide2\x06Sad\nDann, eines Tages, hat es ihn erwischt. Ich sah\nihn da liegen, durchnässt von seinem eigenen\nBlut.\x0E\x04\x00\x00
+MID_BT19_#007	\x0E\x03\x02\x06\x04ボネ\nVerstehe...\x0E\x04\x00\x00
+MID_BT19_#008	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nDiese strahlend rote Farbe... Ich frage mich,\nob dein Blut auch so aussieht.\x0E\x04\x02\x00
+MID_BT19_#009	\x0E\x05\x01"\x14E005_Hide2\nRelax\nAlso, ich habe da eine Idee. Wie wäre es, wenn\nwir das gemeinsam herausfinden? Ich lasse\ndich sogar davon kosten!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE005_エル\x022\n\x0E\x03\x00\x18\x12E005_敵クロム\x023\n\x0E\x06\x00*\x12E005_敵クロム\x14MPID_Chrom\n\x0E\x03\x00\x18\x12E005_Boss\x024\n\x0E\x03\x02\x0A\x08リュール\nNel. Du hast mich gerettet.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x10\x0EE005_エル\nIch könnte es nicht ertragen, Euch zu verlieren.\x0E\x04\x02\x00
+MID_ED1_#003	Bitte erlaubt mir, mich für die Art und Weise,\nwie ich Euch behandelt habe, zu entschuldigen.\nEs war unverzeihlich.\x0E\x04\x02\x00
+MID_ED1_#004	In meiner Schwäche versäumte ich es, zu\nakzeptieren, dass Ihr nicht \x0E\x0A\x00\x10\x06die\x06der \x0E\x0A\x00(\x14Wyrmgöttin\x10Wyrmgott seid,\n\x0E\x0A\x00\x10\x06die\x06den ich verloren habe.\x0E\x04\x02\x00
+MID_ED1_#005	Ich verstehe das nun sehr genau. Und wenn\nIhr es erlaubt, würde ich gerne noch einmal\nanfangen, als Freunde.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nDas würde ich auch gerne.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x10\x0EE005_エル\nIch danke Euch, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nMeinst du, Nil geht es gut?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x10\x0EE005_エル\nEr ist nur bewusstlos. Aber wir sollten uns den\nArmring nehmen, solange wir die Gelegenheit\ndazu haben.\x0E\x04\x02\x00
+MID_ED1_#010	Der Armring des erhabenen Hirten. Der\neinzige Armring, den wir bereits auf Schloss\nLythos besaßen.\x0E\x04\x02\x00
+MID_ED1_#011	Ich hätte mir niemals vorstellen können, dass\nwir gezwungen werden, gegen dich zu kämpfen,\nEmblem Chrom.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x14\x12E005_敵クロム\nIch wusste, Ihr würdet triumphieren. Die\ndunkelste Zukunft besitzt noch Hoffnung.\x0E\x04\x02\x00
+MID_ED1_#013	Möget Ihr beide Euer neues Band hegen.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nDas werden wir.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x10\x0EE005_エル\nLasst uns zu den Vier Winden eilen.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x14\x12E005_Boss\n...\x0E\x04\x02\x00
+MID_ED1_#017	Hehehe.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x021\n\x0E\x03\x00\x1A\x14E004_マデリーン\x022\n\x0E\x03\x00\x16\x10M011_モーヴ\x023\n\x0E\x03\x00\x1C\x16E004_セレスティア\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nHmpf. Es sind so viele von ihnen!\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x16\x14E004_マデリーン\nJa... Jedes Mal, wenn wir einen besiegen, taucht\nein neuer auf.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x12\x10M011_モーヴ\nWir halten das nicht mehr lange durch.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x18\x16E004_セレスティア\nWir können hinter dem Altar Schutz suchen\nund ihnen für einen Moment entkommen.\nFolgt mir!\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x021\n\x0E\x03\x00\x1A\x14E004_マデリーン\x022\n\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nPuuuh... Endlich kommen wir mal zu Atem.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x16\x14E004_マデリーン\nAber nicht für lange. Der Gegner wird jeden\nMoment zu uns durchbrechen. Was sollen wir\ntun?\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x18\x16E004_セレスティア\nEs gibt nur einen Ausgang, und der wird von\neinem Siegel blockiert, über das weitere\nVerzerrte gerufen werden.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x16\x14E004_グレゴリー\nDu meinst... wir sitzen in der Falle?\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x12\x10M011_モーヴ\nGanz genau. Gefangen in einem Tempel voller\nVerzerrter.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nWas für ein Glück, dass wir Milady Nel von hier\nfortgeschickt haben. Sie säße nun ebenfalls hier\nmit uns fest.\x0E\x04\x02\x00
+MID_ED3_#007	Ich mag es gar nicht aussprechen, aber es\nscheint für uns kein Entkommen zu geben.\nWir werden wohl nicht überleben.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x16\x14E004_マデリーン\n...\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x12\x10M011_モーヴ\nIch habe einen Plan.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x16\x14E004_グレゴリー\nHast du? Ich meine, großartig! Genau das wollte\nich von unserem Vize hören!\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x12\x10M011_モーヴ\nEinen Plan, unsere Leben zu opfern, um so viele\nVerzerrte wie möglich zu vernichten.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x16\x14E004_グレゴリー\nWas?!\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x18\x16E004_セレスティア\nAlso gut. Lass hören.\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x12\x10M011_モーヴ\nWir können sie im Moment nur einen nach dem\nanderen besiegen. Aber was wäre, wenn wir mit\neinem Schlag alle von ihnen ausschalten?\x0E\x04\x02\x00
+MID_ED3_#015	Wir könnten uns auf die vier Ecken des Tempels\nverteilen und die Säulen zerstören, die das\nDach des Tempels tragen.\x0E\x04\x02\x00
+MID_ED3_#016	Damit zerstören wir den Tempel und vernichten\ngleichzeitig alle Verzerrte.\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x02\x18\x16E004_セレスティア\nHm...\x0E\x04\x00\x00
+MID_ED3_#018	\x0E\x03\x02\x12\x10M011_モーヴ\nWenn alles gut geht, verhindern wir so außer-\ndem, dass sie Milady Nel und \x0E\x0A\x00\x10\x06den\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin\nverfolgen.\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x16\x14E004_グレゴリー\nAber ich möchte hier ganz sicher sein... Wir\nwerden dann alle plattgemacht, richtig?\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x12\x10M011_モーヴ\nRichtig.\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x18\x16E004_セレスティア\nIch bin dafür.\x0E\x04\x02\x00
+MID_ED3_#022	Wenn alle Wege in den Tod führen, sollten wir\nzumindest den nehmen, auf dem wir diese\nKreaturen mitnehmen können.\x0E\x04\x00\x00
+MID_ED3_#023	\x0E\x03\x02\x16\x14E004_マデリーン\nDas scheint mir die beste Option zu sein. Ich\nbin dabei.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x16\x14E004_グレゴリー\nAber... Ja, ich mache mit.\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x02\x12\x10M011_モーヴ\nSeid ihr euch auch alle wirklich sicher?\x0E\x04\x00\x00
+MID_ED3_#026	\x0E\x03\x02\x18\x16E004_セレスティア\nSo gehen wir wenigstens zusammen, oder?\nNiemand muss dem Ende allein ins Auge\nblicken.\x0E\x04\x00\x00
+MID_ED3_#027	\x0E\x03\x02\x16\x14E004_マデリーン\nHm... Gregory... Das wird vermutlich ein\nbisschen wehtun.\x0E\x04\x00\x00
+MID_ED3_#028	\x0E\x03\x02\x16\x14E004_グレゴリー\nJa, das glaube ich auch. Aber das ist schon in\nOrdnung. Ich kann den Schmerz ertragen, wenn\nich mir sage, dass ich zum letzten Mal leide.\x0E\x04\x02\x00
+MID_ED3_#029	Ich meine, vermutlich kann ich das... Ja. Ich\nkann das.\x0E\x04\x00\x00
+MID_ED3_#030	\x0E\x03\x02\x12\x10M011_モーヴ\nMadeline. Du bist noch so jung.\x0E\x04\x02\x00
+MID_ED3_#031	Vielleicht schaffe ich es, zwei Säulen zu\nzerstören, dann kannst du von hier fliehen.\x0E\x04\x00\x00
+MID_ED3_#032	\x0E\x03\x02\x16\x14E004_マデリーン\nWieso? Hast du Angst, dass ich der Aufgabe\nnicht gewachsen bin?\x0E\x04\x00\x00
+MID_ED3_#033	\x0E\x03\x02\x12\x10M011_モーヴ\nNein, das habe ich ganz und gar nicht...\x0E\x04\x00\x00
+MID_ED3_#034	\x0E\x03\x02\x16\x14E004_マデリーン\nDann lehne ich deinen Vorschlag ab. Ich will\ndas Schicksal meiner Windgenossen teilen, was\nauch immer es für eines sein mag.\x0E\x04\x02\x00
+MID_ED3_#035	Abgesehen davon basiert dein Plan darauf, dass\ndie vier Säulen zeitgleich zerstört werden.\x0E\x04\x00\x00
+MID_ED3_#036	\x0E\x03\x02\x12\x10M011_モーヴ\nDu darfst dieses Opfer nicht bringen, nur um als\nHeldin bekannt zu werden. Die Toten hören\nihr Lob nicht.\x0E\x04\x00\x00
+MID_ED3_#037	\x0E\x03\x02\x16\x14E004_マデリーン\nDas weiß ich. Mein Mentor lehrte mich, dass\nnicht das Lob wichtig ist, sondern das, was man\nim Leben erreicht.\x0E\x04\x02\x00
+MID_ED3_#038	Und vor allem, dass man ein Leben führt, auf\ndas man stolz sein kann.\x0E\x04\x00\x00
+MID_ED3_#039	\x0E\x03\x02\x12\x10M011_モーヴ\nAus dir ist wirklich eine vortreffliche Ritterin\ngeworden.\x0E\x04\x00\x00
+MID_ED3_#040	\x0E\x03\x02\x16\x14E004_マデリーン\nDeine Worte geben mir Kraft, mich dem zu\nstellen, was auch immer vor mir liegt.\x0E\x04\x00\x00
+MID_ED3_#041	\x0E\x03\x00"\x1CE005_異形兵_ベルセルク\x022\n\x0E\x03\x02\x1E\x1CE005_異形兵_ベルセルク\nRoaaaaaaaaar!\x0E\x04\x00\x00
+MID_ED3_#042	\x0E\x03\x02\x16\x14E004_グレゴリー\nNun, Freunde. Unsere Zeit scheint abgelaufen\nzu sein.\x0E\x04\x00\x00
+MID_ED3_#043	\x0E\x03\x02\x18\x16E004_セレスティア\nIch bin froh, dass wir noch ein letztes Mal\nbeisammen sein konnten.\x0E\x04\x02\x00
+MID_ED3_#044	Ich liebe euch alle.\x0E\x04\x02\x00
+MID_ED3_#045	Nun... lasst sie uns vernichten!\x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1C\x16E004_セレスティア\x021\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x00\x1A\x14E004_マデリーン\x023\n\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x18\x16E004_セレスティア\nMilady Nel... Wir sind am Ende angekommen.\nVergebt uns, dass wir Eurem letzten Befehl\nnicht gehorchen können.\x0E\x04\x02\x00
+MID_ED4_#002	Ich hoffe, Ihr und \x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin findet einen\nWeg, Mylord Nil zu retten... und glücklich zu\nwerden.\x0E\x04\x02\x00
+MID_ED4_#003	Hergehört, Vier Winde! Dies ist unsere letzte\nMission!\x0E\x04\x02\x00
+MID_ED4_#004	Zerstört die Säulen!\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x16\x14E004_グレゴリー\nHmpf.\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x02\x16\x14E004_マデリーン\nHyaaah.\x0E\x04\x00\x00
+MID_ED4_#007	\x0E\x03\x02\x12\x10M011_モーヴ\nHngh!\x0E\x04\x00\x00
+MID_ED5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE005_エル\x022\n\x0E\x03\x00\x18\x12E005_Boss\x023\n\x0E\x03\x02\x0A\x08リュール\nWas war das? Ich habe etwas gehört.\x0E\x04\x00\x00
+MID_ED5_#002	\x0E\x03\x02\x10\x0EE005_エル\nMeine Winde... Nein...\x0E\x04\x00\x00
+MID_ED5_#003	\x0E\x03\x02\x14\x12E005_Boss\nHahaha. AHAHAHAHAHAAA!\x0E\x04\x00\x00
+MID_ED5_#004	\x0E\x03\x02\x0A\x08リュール\nNil.\x0E\x04\x00\x00
+MID_ED5_#005	\x0E\x03\x02\x14\x12E005_Boss\nMeine Verzerrten haben bessere Arbeit geleistet,\nals ich erhofft hatte. Der Tempel ist eingestürzt.\x0E\x04\x02\x00
+MID_ED5_#006	Und sofern mich meine Sinne nicht täuschen,\nhat in den Trümmern nichts und niemand über-\nlebt.\x0E\x04\x02\x00
+MID_ED5_#007	Die Vier Winde existieren nicht mehr.\x0E\x04\x00\x00
+MID_ED5_#008	\x0E\x03\x02\x10\x0EE005_エル\nNein!\x0E\x04\x00\x00
+MID_ED5_#009	\x0E\x03\x02\x0A\x08リュール\nWie konnte dies nur passieren?\x0E\x04\x00\x00
+MID_ED5_#010	\x0E\x03\x02\x10\x0EE005_エル\nWir wurden hintergangen. Die Vier Winde und\nich wurden im Inneren des Tempels von Ver-\nzerrten angegriffen.\x0E\x04\x02\x00
+MID_ED5_#011	Sie sind dort geblieben, damit ich fliehen und\nmich zu Euch durchschlagen konnte.\x0E\x04\x00\x00
+MID_ED5_#012	\x0E\x03\x02\x0A\x08リュール\nNein...\x0E\x04\x00\x00
+MID_ED5_#013	\x0E\x03\x02\x14\x12E005_Boss\nIhr wolltet vorhin nicht mit mir kooperieren,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Vielleicht wird Euch dies zum\nHandeln zwingen.\x0E\x04\x00\x00
+MID_ED5_#014	\x0E\x03\x02\x10\x0EE005_エル\nAaah!\x0E\x04\x00\x00
+MID_ED5_#015	\x0E\x03\x02\x0A\x08リュール\nNel!\x0E\x04\x00\x00
+MID_ED5_#016	\x0E\x03\x02\x14\x12E005_Boss\nSollte Euch an ihrem Leben etwas liegen,\nwerdet Ihr zu mir auf die Insel kommen, die\neinst in den Wolken schwebte.\x0E\x04\x00\x00
+MID_ED5_#017	\x0E\x03\x02\x0A\x08リュール\nNil! Warte!\x0E\x04\x02\x00
+MID_ED5_#018	Hngh! Was soll ich tun?\x0E\x04\x02\x00
+MID_ED5_#019	Eine Insel, die einst in den Wolken schwebte...\x0E\x04\x00\x00
+MID_ED6_#001	\x0E\x02\x02\x00\n\x0E\x03\x09\x00\n\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08ソンブル\nEs ist eine Weile her, seit die Zwillinge mich\nverraten haben.\x0E\x04\x02\x00
+MID_ED6_#002	Bald schon wird mein Feind mich nieder-\nstrecken. Vielleicht werde ich ihn dabei gleich-\nfalls töten.\x0E\x04\x02\x00
+MID_ED6_#003	Aber das spielt keine Rolle. Alles ist in Bewe-\ngung. Mein Kind wird meine Wünsche wahr\nwerden lassen.\x0E\x04\x02\x00
+MID_ED6_#004	Derweil wird \x0E\x0A\x00\x10\x06die\x06der \x0E\x0A\x00(\x14Wyrmgöttin\x10Wyrmgott kinderlos sterben,\nohne Erben und ohne ein Vermächtnis. \x0E\x0A\x00\x1A\nDiese\x0CDieser\n\x0E\x0A\x00\x18\x0CNärrin\x08Narr.\x0E\x04\x02\x00
+MID_ED6_#005	Meine Schachfiguren bewegen sich so, wie ich\ndas will, ganz ohne Zweifel.\x0E\x04\x02\x00
+MID_ED6_#006	Aber ich frage mich... Wie lange wird mein\nSohn das Spiel noch weiterspielen und\nvorgeben, Nels Zwilling zu sein?\x0E\x04\x02\x00
+MID_ED6_#007	Denn schließlich existiert ihr echter Zwilling\nnicht mehr.\x0E\x04\x02\x00
+MID_ED6_#008	Dieser Fehlschlag starb schon vor langer Zeit.\x0E\x04\x00\x00

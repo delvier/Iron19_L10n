@@ -1,0 +1,288 @@
+MID_GR_Lueur_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リュール\nKönnen wir mit deiner Hilfe rechnen, während\nwir versuchen, der Welt Frieden zu bringen?\x0E\x04\x00\x00
+MID_GR_Lueur_C_#002	\x0E\x03\x02\x08\x06アイク\nKeine Sorge. Ich bin ein Söldner. Wenn ich einen\nAuftrag annehme, dann stelle ich auch sicher,\ndass er bis zum Ende ausgeführt wird.\x0E\x04\x00\x00
+MID_GR_Lueur_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リュール\nIch fühle mich immer noch nicht stark genug.\nIke, würdest du mir wohl praktischen Unterricht\ngeben?\x0E\x04\x00\x00
+MID_GR_Lueur_B_#002	\x0E\x03\x02\x08\x06アイク\nIch bin kein guter Lehrer, aber ich versuche es.\nSei aber auf der Hut. Ich weiß nicht, ob ich mich\nzurückhalten kann.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu bist besser geworden. Deine Form hat sich\nsehr verbessert.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#002	\x0E\x03\x02\x0A\x08リュール\nDas verdanke ich all dem Wissen, das ich von\ndir und den anderen bekommen habe.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#003	\x0E\x03\x02\x08\x06アイク\nNein, gar nicht. Du hast es am meisten dir selbst\nzu verdanken. Wir haben dir nur einen Schubs\ngegeben.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#004	\x0E\x03\x02\x0A\x08リュール\nTrotzdem bin ich dankbar. Ihr alle gebt mir das\nGefühl, dass ich eine Chance habe, Frieden in\ndiese Welt zu bringen.\x0E\x04\x00\x00
+MID_GR_Vandre_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nWas kann ich tun? Ich mag es nicht, untätig zu\nsein.\x0E\x04\x00\x00
+MID_GR_Vandre_C_#002	\x0E\x03\x02\x0C\nヴァンドレ\nSollte eine Schlacht stattfinden, gebe ich Euch\nBescheid. Bis dahin solltet Ihr Euch entspannen.\x0E\x04\x00\x00
+MID_GR_Vandre_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nHabe ich Euch gerade lächeln gesehen?\x0E\x04\x00\x00
+MID_GR_Vandre_B_#002	\x0E\x03\x02\x0C\nヴァンドレ\nDas muss Euch nicht überraschen. Ich bin dafür\nbekannt, ab und an zu lächeln.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nEurer Statur nach zu urteilen müsst Ihr\nseinerzeit ein guter Kämpfer gewesen sein.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#002	\x0E\x03\x02\x0C\nヴァンドレ\nIch habe in all den Jahren im Dienst der Königin\nhart trainiert, um in Form zu bleiben.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#003	\x0E\x03\x02\x0C\nヴァンドレ\nUnd ich werde längst im Ruhestand sein, bevor\nich mit Euch Jungspunden nicht mehr mithalten\nkann.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#004	\x0E\x03\x02\x08\x06アイク\nIch bin kein Jungspund... Oh. Moment. Verstehe!\nAber wenn sich eine Möglichkeit bietet, würde\nich mich gerne im Kampf mit Euch messen.\x0E\x04\x00\x00
+MID_GR_Clan_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nIst es in Ordnung für dich – als Diener \x0E\x0A\x00\x10\x06des\x06der\n\x0E\x0A\x00,\x14Wyrmgottes\x14Wyrmgöttin – stattdessen an meiner Seite zu\nkämpfen?\x0E\x04\x00\x00
+MID_GR_Clan_C_#002	\x0E\x03\x02\x08\x06クラン\nKein Grund zur Sorge. Euch zu dienen ist in\nder Tat eine große Ehre, Lord Ike!\x0E\x04\x00\x00
+MID_GR_Clan_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06クラン\nLord Ike, geht Ihr nun trainieren?\x0E\x04\x00\x00
+MID_GR_Clan_B_#002	\x0E\x03\x02\x08\x06アイク\nIch trainiere, seit ich ein kleiner Junge war. Es\nist eine Angewohnheit, und wenn ich es nicht\ntue, kann ich nicht entspannen.\x0E\x04\x00\x00
+MID_GR_Clan_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06クラン\nSagt mal... Lord Ike? Wäret Ihr damit einver-\nstanden, wenn ich heute mit Euch zusammen\ntrainierte?\x0E\x04\x00\x00
+MID_GR_Clan_A_#002	\x0E\x03\x02\x08\x06アイク\nNur zu. Aber kannst du körperlich mithalten?\nIch möchte dich nicht verletzen.\x0E\x04\x00\x00
+MID_GR_Clan_A_#003	\x0E\x03\x02\x08\x06クラン\nSicher! Ich will stärker werden, damit ich allen\nhelfen kann, die meine Hilfe benötigen.\x0E\x04\x00\x00
+MID_GR_Clan_A_#004	\x0E\x03\x02\x08\x06アイク\nAlso gut. Dann sehen wir mal, ob du bis zum\nEnde durchhältst.\x0E\x04\x00\x00
+MID_GR_Fram_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06フラン\nLord Ike! Ach du meine Güte... Ähm, darf ich ein\nAutogramm von Euch haben?\x0E\x04\x00\x00
+MID_GR_Fram_C_#002	\x0E\x03\x02\x08\x06アイク\nTut mir leid, aber... ich bin nicht in der Lage,\neinen Stift zu halten.\x0E\x04\x00\x00
+MID_GR_Fram_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06フラン\nLord Ike, ich muss das einfach fragen. Wie\nwar das Leben im Inneren des Rings?\x0E\x04\x00\x00
+MID_GR_Fram_B_#002	\x0E\x03\x02\x08\x06アイク\nDas kann ich nicht mit Sicherheit sagen. Ich\nhabe die meiste Zeit geschlafen. Mir ist, als\nhätte ich von vergangenen Schlachten geträumt.\x0E\x04\x00\x00
+MID_GR_Fram_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06フラン\nÄhm, Lord Ike, macht es Euch etwas aus, dass\nich Euch so oft begleite?\x0E\x04\x00\x00
+MID_GR_Fram_A_#002	\x0E\x03\x02\x08\x06アイク\nEigentlich gefällt mir das. Es erinnert mich\ndaran, als ich noch mit einer Gruppe Söldnern\nmeine Zeit verbrachte.\x0E\x04\x00\x00
+MID_GR_Fram_A_#003	\x0E\x03\x02\x08\x06フラン\nPuuh! Ich hatte schon Sorge. Ihr lächelt nämlich\nsehr selten, wisst Ihr?\x0E\x04\x00\x00
+MID_GR_Fram_A_#004	\x0E\x03\x02\x08\x06アイク\nHahaha. Tut mir leid, dass du dich sorgst.\nMeine Freunde haben mir auch stets erzählt, ich\nsolle an meinen sozialen Fähigkeiten arbeiten.\x0E\x04\x00\x00
+MID_GR_Alfred_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIhr seid also das Emblem aus Solms Ring, hm?\nIch muss schon sagen, dass sind wirklich\nMuskeln von Weltklasse!\x0E\x04\x00\x00
+MID_GR_Alfred_C_#002	\x0E\x03\x02\x08\x06アイク\nWeltklasse? Das ist das erste Mal, dass ich das\nhöre.\x0E\x04\x00\x00
+MID_GR_Alfred_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nSagt mal, könntet Ihr mir beibringen, wie\nman solche Muskeln bekommt?\x0E\x04\x00\x00
+MID_GR_Alfred_B_#002	\x0E\x03\x02\x08\x06アイク\nDa gibt es nicht viel beizubringen. Trainiert\ntäglich und esst Fleisch. Ich weiß nicht, ob das\nwirklich hilft, aber ich tue das gern.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEs fühlt sich an, als hätte ich nach all den\nKämpfen ganz schön Muskeln aufgebaut. Was\nmeint Ihr?\x0E\x04\x00\x00
+MID_GR_Alfred_A_#002	\x0E\x03\x02\x08\x06アイク\nWenn das der Fall ist, so habe ich es nicht\nbemerkt. Oh, tut mir leid.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\nNein, Ihr müsst Euch nicht entschuldigen. Ich\nmag Eure Direktheit!\x0E\x04\x00\x00
+MID_GR_Alfred_A_#004	\x0E\x03\x02\x08\x06アイク\nNun, meine Freunde rügen mich immer, dass\nich etwas taktvoller sein solle. Gut, wenn das\nkein Problem ist.\x0E\x04\x00\x00
+MID_GR_Boucheron_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu siehst ziemlich ernst aus. Arbeitest du an\ndeiner Taktik?\x0E\x04\x00\x00
+MID_GR_Boucheron_C_#002	\x0E\x03\x02\x0C\nブシュロン\nNein, ich lese die Geschichte eines Ritters. Das\nist inspirierendes Zeug.\x0E\x04\x00\x00
+MID_GR_Boucheron_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nIst das nicht dasselbe Buch, das ich dich\nneulich schon lesen sah? Wird dir das nicht\nlangweilig?\x0E\x04\x00\x00
+MID_GR_Boucheron_B_#002	\x0E\x03\x02\x0C\nブシュロン\nNee. Es ist nicht ohne Grund ein Klassiker.\nWenn Ihr daran interessiert seid, kann ich es\nEuch gerne vorlesen.\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu schienst dich neulich verirrt zu haben. Was\nwirst du tun, wenn wir in einem Wald kämpfen\nmüssen?\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#002	\x0E\x03\x02\x0C\nブシュロン\nDas ist kein Problem. Ich folge einfach meinen\nFreunden.\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#003	\x0E\x03\x02\x0C\nブシュロン\nSollte ich sie allerdings aus den Augen ver-\nlieren... Hmm. Ich denke, darüber mache ich\nmir Gedanken, wenn es so weit ist.\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#004	\x0E\x03\x02\x08\x06アイク\nUnd wenn Feinde dich umzingeln, während du\nallein umherirrst? Vielleicht solltest du lieber\ndicht bei mir bleiben.\x0E\x04\x00\x00
+MID_GR_Etie_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu bist klein, aber du hast ganz schön Muskeln.\x0E\x04\x00\x00
+MID_GR_Etie_C_#002	\x0E\x03\x02\x0C\nエーティエ\nFreut mich, dass Ihr das bemerkt habt! All\ndas intensive Training Tag für Tag muss sich\nauszahlen.\x0E\x04\x00\x00
+MID_GR_Etie_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nエーティエ\nEine Frage, Ike. Welche Nahrungsergänzungs-\nmittel verwendet Ihr, damit Ihr so definiert seid?\x0E\x04\x00\x00
+MID_GR_Etie_B_#002	\x0E\x03\x02\x08\x06アイク\nIch weiß nicht, was das sein soll. Ich esse\nFleisch. Ich habe keine Ahnung, ob das eine\nRolle spielt, aber da hast du die Antwort.\x0E\x04\x00\x00
+MID_GR_Etie_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nエーティエ\nWisst Ihr, wenn jeder in der Welt nur einfach\nmehr trainiert hätte, dann gäbe es keinen Krieg.\x0E\x04\x00\x00
+MID_GR_Etie_A_#002	\x0E\x03\x02\x08\x06アイク\nWie soll das gehen?\x0E\x04\x00\x00
+MID_GR_Etie_A_#003	\x0E\x03\x02\x0C\nエーティエ\nIch fühle mich nach einem guten Training\ngroßartig. Wenn jeder sich so fühlen würde,\nwozu sollte man dann noch kämpfen?\x0E\x04\x00\x00
+MID_GR_Etie_A_#004	\x0E\x03\x02\x08\x06アイク\nIch bin nicht sicher, ob das Sinn ergibt. Aber\nwenn jeder denkt, dass es funktioniert, dann\nkönnte es vielleicht wirklich funktionieren.\x0E\x04\x00\x00
+MID_GR_Celine_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nWas für schönes Wetter wir heute haben. Wenn\nich doch nur hierbleiben und in den Himmel\nsehen könnte!\x0E\x04\x00\x00
+MID_GR_Celine_C_#002	\x0E\x03\x02\x08\x06アイク\nKlingt nett. Es ist zu schade, dass nicht alle\nTage so sein können.\x0E\x04\x00\x00
+MID_GR_Celine_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nIke, wie denkt Ihr darüber, Frieden durch\nSchlachten durchzusetzen?\x0E\x04\x00\x00
+MID_GR_Celine_B_#002	\x0E\x03\x02\x08\x06アイク\nIch glaube, es gibt Leute, die einen Kampf\nwollen, und ich habe kein schlechtes Gefühl\ndabei, ihnen einen Kampf zu geben.\x0E\x04\x00\x00
+MID_GR_Celine_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nHeute noch mehr Training, Prinzessin? Ihr seid\nganz schön engagiert.\x0E\x04\x00\x00
+MID_GR_Celine_A_#002	\x0E\x03\x02\x0A\x08セリーヌ\nEs gibt Zeiten, da ist Blutvergießen nötig,\num sein Volk zu beschützen.\x0E\x04\x00\x00
+MID_GR_Celine_A_#003	\x0E\x03\x02\x0A\x08セリーヌ\nWenn diese Zeit gekommen ist, kann ich nicht\neinfach danebenstehen und die Drecksarbeit\nunseren Soldaten überlassen.\x0E\x04\x00\x00
+MID_GR_Celine_A_#004	\x0E\x03\x02\x08\x06アイク\nEine Prinzessin an vorderster Front, hm? Ihr\nseid nicht die erste Prinzessin, die ich dafür\nkenne. Eure Untertanen müssen Euch lieben.\x0E\x04\x00\x00
+MID_GR_Louis_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x06\x04ルイ\nNur mal so aus Neugierde, Ike, berührt es Euch,\nwenn Ihr eine Gruppe seht, in der sich alle\nharmonisch sozialisieren?\x0E\x04\x00\x00
+MID_GR_Louis_C_#002	\x0E\x03\x02\x08\x06アイク\nHm? Ich mag es, wenn Leute gut miteinander\nauskommen, wenn es das ist, was Ihr meint.\x0E\x04\x00\x00
+MID_GR_Louis_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x06\x04ルイ\nNun... Mit wem sollte ich Euch zusammentun,\nwenn ich eine gesellige Verbindung anstrebe?\nVielleicht mit Prinz Alfred...\x0E\x04\x00\x00
+MID_GR_Louis_B_#002	\x0E\x03\x02\x08\x06アイク\nJa, er ist interessant. Ich hätte nichts dagegen,\nmich mal Mann gegen Mann mit ihm zu messen.\x0E\x04\x00\x00
+MID_GR_Louis_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x06\x04ルイ\nIch nehme an, nicht alles in der Welt kann\nnach Plan verlaufen.\x0E\x04\x00\x00
+MID_GR_Louis_A_#002	\x0E\x03\x02\x08\x06アイク\nHast du was, Louis?\x0E\x04\x00\x00
+MID_GR_Louis_A_#003	\x0E\x03\x02\x06\x04ルイ\nIch habe alles getan, damit niemand bemerkt,\ndass ich andere betrachte, aber meine Freunde\nhaben mich dennoch gesehen.\x0E\x04\x00\x00
+MID_GR_Louis_A_#004	\x0E\x03\x02\x08\x06アイク\nDas klingt seltsam. Aber wenn du im Verbor-\ngenen bleiben willst, dann kann ich dir von\neinem Spion erzählen, den ich einst kannte.\x0E\x04\x00\x00
+MID_GR_Chloe_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06クロエ\nEin großer, starker Held tritt aus einem Ring,\num uns zu helfen... Das ist der perfekte Beginn\neines Märchens!\x0E\x04\x00\x00
+MID_GR_Chloe_C_#002	\x0E\x03\x02\x08\x06アイク\nVielleicht, wenn es ein Prinz oder so gewesen\nwäre. Aber ich bin kein Märchenheld.\x0E\x04\x00\x00
+MID_GR_Chloe_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nWas ist das, das du da immer isst?\x0E\x04\x00\x00
+MID_GR_Chloe_B_#002	\x0E\x03\x02\x08\x06クロエ\nIch mag Imbissbudengerichte. Es ist zu schade,\ndass ich nichts mit Euch teilen kann.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06クロエ\nIch hoffe, Ihr arbeitet nicht zu schwer, nur\nweil so viele Leute auf Euch zählen, Ike.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#002	\x0E\x03\x02\x08\x06アイク\nIch weiß deine Sorge zu schätzen. Aber ich\nwürde mir keine machen.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#003	\x0E\x03\x02\x08\x06アイク\nIch suche mir absichtlich starke Gegner.\nDas wird Euch vermutlich etwas seltsam\nvorkommen.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#004	\x0E\x03\x02\x08\x06クロエ\nWenn Ihr das sagt! Aber Ihr sollt wissen, dass\nIhr es mir stets sagen könnt, wenn Ihr Euch\nüberfordert fühlt.\x0E\x04\x00\x00
+MID_GR_Diamand_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nDie Gerüchte über ein mächtiges Emblem in\nSolm waren also kein Witz. Ihr seid auf dem\nSchlachtfeld beeindruckend.\x0E\x04\x00\x00
+MID_GR_Diamand_C_#002	\x0E\x03\x02\x08\x06アイク\nDanke, aber ich bin einfach nur ein weiterer\nSoldat, Ich habe ein bisschen mehr Training\nhinter mir als andere, das ist schon alles.\x0E\x04\x00\x00
+MID_GR_Diamand_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nIhr wendet beeindruckende Schwerttechniken\nan, Ike. Würdet Ihr sie mir wohl beibringen?\x0E\x04\x00\x00
+MID_GR_Diamand_B_#002	\x0E\x03\x02\x08\x06アイク\nIch habe sie von meinem Vater gelernt. Ich\nkann sie Euch beibringen, aber sie sind schwer\nzu meistern.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nFür Besserungen in meinem Königreich sorgen,\nmeinen Vater als König zu überflügeln... Ich bin\nunsicher, ob ich all das wirklich erreichen kann.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#002	\x0E\x03\x02\x08\x06アイク\nMacht Euch keine Sorge, ob Ihr das könnt oder\nnicht. Ihr müsst es einfach tun.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#003	\x0E\x03\x02\x08\x06アイク\nDafür ist engagiertes Training doch gut, oder\nnicht? Um sicherzustellen, dass man seine Ziele\nerreicht, oder?\x0E\x04\x00\x00
+MID_GR_Diamand_A_#004	\x0E\x03\x02\x0E\x0Cディアマンド\nDas ist absolut richtig. Hahaha. Ich unter-\nhalte mich gerne mit Euch, Ike.\x0E\x04\x00\x00
+MID_GR_Umber_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08アンバー\nIch bin Amber, der Meister im Alpaka-Gerangel!\nIch bin ein Held, so wie Ihr. Wir werden ein\ngroßartiges Team sein!\x0E\x04\x00\x00
+MID_GR_Umber_C_#002	\x0E\x03\x02\x08\x06アイク\nIch bin kein Held... Aber ich freue mich schon\ndarauf, an deiner Seite zu kämpfen, äh, Alpaka-\nMeister.\x0E\x04\x00\x00
+MID_GR_Umber_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nSag mal, Amber... Wie schmeckt Alpaka-\nFleisch? Ist das gut?\x0E\x04\x00\x00
+MID_GR_Umber_B_#002	\x0E\x03\x02\x0A\x08アンバー\nWie bitte? Alpakas sind nicht zum Essen da! Sie\nsind ausschließlich zum Knuddeln da und als\nbeste Freunde!\x0E\x04\x00\x00
+MID_GR_Umber_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08アンバー\nIch habe eine Legende gehört, von einem\nAlpaka mit goldenem Fell. Kommt, lasst uns\ndanach suchen, Ike!\x0E\x04\x00\x00
+MID_GR_Umber_A_#002	\x0E\x03\x02\x08\x06アイク\nEinverstanden, aber... wo genau? Hast du\nirgendwelche Hinweise, wo wir beginnen\nsollten?\x0E\x04\x00\x00
+MID_GR_Umber_A_#003	\x0E\x03\x02\x0A\x08アンバー\nAlpakas leben im Gebirge. Wenn wir jeden\nBerg absuchen, von oben bis unten, werden wir\nes ganz sicher finden!\x0E\x04\x00\x00
+MID_GR_Umber_A_#004	\x0E\x03\x02\x08\x06アイク\nOh. Dann wird das also... eine lange Reise...\x0E\x04\x00\x00
+MID_GR_Jade_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ジェーデ\nIch fühle mich in Eurer Gegenwart so ruhig,\nSir Ike. Ich weiß aber nicht wirklich, woran\ndas liegt.\x0E\x04\x00\x00
+MID_GR_Jade_C_#002	\x0E\x03\x02\x08\x06アイク\nIch vermute, weil wir beide müßiges Gerede\nvermeiden... Mit der Ausnahme von jetzt gerade.\x0E\x04\x00\x00
+MID_GR_Jade_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu siehst verärgert aus, Jade. Ist alles\nin Ordnung?\x0E\x04\x00\x00
+MID_GR_Jade_B_#002	\x0E\x03\x02\x0A\x08ジェーデ\nAlles in Ordnung. Ich lächele nur. Ist das so\nschwer zu erkennen?\x0E\x04\x00\x00
+MID_GR_Jade_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ジェーデ\nSir Ike, habt Ihr schon mal jemanden mit einer\nsonderbaren Persönlichkeit gekannt? Ich\nbenötige Ideen für neue Charaktere.\x0E\x04\x00\x00
+MID_GR_Jade_A_#002	\x0E\x03\x02\x08\x06アイク\nSonderbar? Mal überlegen... Ich kämpfte einst\nan der Seite eines Spielers. Er ertrank immer\nin Schulden.\x0E\x04\x00\x00
+MID_GR_Jade_A_#003	\x0E\x03\x02\x0A\x08ジェーデ\nInteressant. Hat es irgendwann Probleme\nverursacht, dass ein Spieler sich Euren Reihen\nangeschlossen hat?\x0E\x04\x00\x00
+MID_GR_Jade_A_#004	\x0E\x03\x02\x08\x06アイク\nDas hat es. Doch selbst unsere problema-\ntischsten Verbündeten erwiesen sich mit der\nZeit unseres Vertrauens würdig.\x0E\x04\x00\x00
+MID_GR_Staluke_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nKönnen wir eine Minute reden, Alcryst?\x0E\x04\x00\x00
+MID_GR_Staluke_C_#002	\x0E\x03\x02\x0C\nスタルーク\nOh. Ihr habt Euch an meinen Namen erinnert...\nIch danke Euch für diese große Achtung,\nLord Ike!\x0E\x04\x00\x00
+MID_GR_Staluke_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nIhr habt mir in der letzten Schlacht wirklich\ngeholfen, Alcryst. Danke.\x0E\x04\x00\x00
+MID_GR_Staluke_B_#002	\x0E\x03\x02\x0C\nスタルーク\nIhr müsst mir nicht danken! Es wäre unverzeih-\nlich, wenn so jemand Nutzloses wie ich Euch\nnicht zur Gänze beschützen würde.\x0E\x04\x00\x00
+MID_GR_Staluke_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nEuer Talent ist beeindruckend, aber Euer\nSelbstvertrauen kann es damit nicht aufnehmen.\nIch bin verwirrt.\x0E\x04\x00\x00
+MID_GR_Staluke_A_#002	\x0E\x03\x02\x0C\nスタルーク\nBitte verzeiht, Lord Ike. Würdet Ihr mich mit\nmeinem stärkeren Bruder vergleichen, so\nwürde es klar werden...\x0E\x04\x00\x00
+MID_GR_Staluke_A_#003	\x0E\x03\x02\x08\x06アイク\nIch hatte ein ähnliches Problem: Ich sah zu\nmeinem Vater auf. Ihr seid stark, Alcryst.\nVersucht, Euch stets daran zu erinnern.\x0E\x04\x00\x00
+MID_GR_Staluke_A_#004	\x0E\x03\x02\x0C\nスタルーク\nIch danke Euch, Ike. Ich weiß nicht, wieso...\naber Ihr habt dafür gesorgt, dass ich denke,\nes sei wirklich möglich.\x0E\x04\x00\x00
+MID_GR_Lapis_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ラピス\nIch bin etwas nervös, es laut auszusprechen,\naber... Ike? Danke, dass Ihr mich gerettet habt.\x0E\x04\x00\x00
+MID_GR_Lapis_C_#002	\x0E\x03\x02\x08\x06アイク\nDu musst mir nicht danken. Du bist wirklich\nstark. Ich bin mir nicht sicher, ob das über-\nhaupt nötig war.\x0E\x04\x00\x00
+MID_GR_Lapis_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ラピス\nIch muss das Eis irgendwie brechen... Also,\nhabt Ihr schon mal Bärenfleisch gegessen? Es\nschmeckt recht gut! Habe ich mir sagen lassen...\x0E\x04\x00\x00
+MID_GR_Lapis_B_#002	\x0E\x03\x02\x08\x06アイク\nJaaa! Bärenfleisch schmeckt großartig! Wir\nwurden oft angeheuert, um sie zu jagen, daher\nhabe ich schon viel Bärenfleisch gegessen.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ラピス\nIch kann nicht glauben, dass wir beide früher\nBären gejagt haben! In jeder anderen Hinsicht\nunterscheiden wir uns.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#002	\x0E\x03\x02\x08\x06ラピス\nIch wünschte, ich hätte nur ein bisschen von\nEurem Selbstvertrauen. Ich mache mir ständig\nSorgen, eine Schlacht zu verlieren.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#003	\x0E\x03\x02\x08\x06アイク\nIch habe gar nicht so viel Selbstvertrauen,\nwirklich. Ich agiere einfach, bevor ich zu viel\nnachdenke.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#004	\x0E\x03\x02\x08\x06アイク\nMach dir keine Sorgen, Lapis. Vertrau dort\ndraußen einfach deinen Instinkten. Wenn du\nstolperst, bin ich direkt neben dir.\x0E\x04\x00\x00
+MID_GR_Citrinica_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nシトリニカ\nIhr habt solchen Kampfgeist, Ike! Ihr seid ein\nwahrer Held. Wäret Ihr bereit, mit mir zu\ntrainieren?\x0E\x04\x00\x00
+MID_GR_Citrinica_C_#002	\x0E\x03\x02\x08\x06アイク\nNormalerweise trainiere ich allein. Ich bin\nvermutlich nicht der beste Lehrer, aber ich\nwerde tun, was ich kann.\x0E\x04\x00\x00
+MID_GR_Citrinica_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nシトリニカ\nMan sagt, ein schönes Lächeln sei ansteckend,\nwisst Ihr? Ihr solltet öfter lächeln!\x0E\x04\x00\x00
+MID_GR_Citrinica_B_#002	\x0E\x03\x02\x08\x06アイク\nIn Ordnung, ich werde es irgendwann mal\nversuchen.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nシトリニカ\nIch genieße Eure Gesellschaft, Ike. Ich möchte\nEuch gerne etwas Gutes tun. Was würde Euch\ngefallen?\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#002	\x0E\x03\x02\x08\x06アイク\nDa fällt mir jetzt nichts Bestimmtes ein.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#003	\x0E\x03\x02\x0C\nシトリニカ\nEs kann alles sein! Alles ist möglich.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#004	\x0E\x03\x02\x08\x06アイク\nIn dem Fall denke ich, dass Ihr mir dabei\nhelfen könnt, das Lächeln zu üben.\x0E\x04\x00\x00
+MID_GR_Ivy_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nIhr scheint Euch in meiner Anwesenheit nicht\nsonderlich wohl zu fühlen. Habe ich irgend-\netwas Falsches gesagt?\x0E\x04\x00\x00
+MID_GR_Ivy_C_#002	\x0E\x03\x02\x0A\x08アイビー\nDas ist es nicht. Doch – so wie bei jenen aus\nSolm – weiß ich nicht, wie ich mit Euch\nsprechen soll.\x0E\x04\x00\x00
+MID_GR_Ivy_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nBitte unterbrecht mich, wenn ich zu weit gehen\nsollte, aber es scheint mir, als bürdet Ihr Euch\nviel zu viel Verantwortung auf.\x0E\x04\x00\x00
+MID_GR_Ivy_B_#002	\x0E\x03\x02\x0A\x08アイビー\nIhr seid ziemlich direkt, nicht wahr? Das\nfühlt sich seltsamerweise aber gut an, das\nmuss ich zugeben.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08アイビー\nSagt mir – als Anführer einer Gruppe Söldner –\nwie geht Ihr mit Fragen des Vertrauens um?\x0E\x04\x00\x00
+MID_GR_Ivy_A_#002	\x0E\x03\x02\x08\x06アイク\nSobald ich jemandem vertraue, stelle ich seine\nMotive nicht mehr infrage. Selbst wenn derjeni-\nge mich anlügt, vermute ich einen Grund dafür.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#003	\x0E\x03\x02\x0A\x08アイビー\nDas werde ich mir merken. Solltet Ihr mich\njemals anschwindeln... so denke ich, dass es\nmir nichts ausmachen wird.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#004	\x0E\x03\x02\x08\x06アイク\nSo ist es bei mir auch, Ivy. Ich vertraue Euch.\x0E\x04\x00\x00
+MID_GR_Zelkova_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu bist immer beschäftigt, nicht wahr?\x0E\x04\x00\x00
+MID_GR_Zelkova_C_#002	\x0E\x03\x02\x0A\x08ゼルコバ\nIn der Tat. Meine verschiedenen... Betätigun-\ngen... geben mir ein Gefühl der Sinnhaftigkeit.\x0E\x04\x00\x00
+MID_GR_Zelkova_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ゼルコバ\nEin weiteres Kind ist heute vor meinem\nAnblick... weggelaufen.\x0E\x04\x00\x00
+MID_GR_Zelkova_B_#002	\x0E\x03\x02\x08\x06アイク\nMir ist schon Ähnliches widerfahren. Vielleicht\nversuchst du einfach mal, etwas freundlicher zu\nwirken?\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ゼルコバ\nDu kommst aus einer anderen... Welt... nicht\nwahr, Ike? Womit hast du dort deinen Lebens-\nunterhalt bestritten?\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#002	\x0E\x03\x02\x08\x06アイク\nIch führte eine Gruppe Söldner an. Unsere Auf-\nträge führten uns über den ganzen Kontinent.\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#003	\x0E\x03\x02\x0A\x08ゼルコバ\nWie faszinierend. Langweile wird wohl deine...\ngeringste... Sorge gewesen sein.\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#004	\x0E\x03\x02\x08\x06アイク\nJepp. Wir hatten viele schwere Konflikte zu\nbewältigen. Es war viel zu gefährlich, um sich\nzu langweilen.\x0E\x04\x00\x00
+MID_GR_Kagetsu_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06カゲツ\nIch habe dich im letzten Kampf studiert, Ike.\nDeine Schwerttechniken sind ungewöhnlich,\naber sie haben eine enorme Kraft.\x0E\x04\x00\x00
+MID_GR_Kagetsu_C_#002	\x0E\x03\x02\x08\x06アイク\nDanke. Mein Vater hat mir alles beigebracht,\nwas ich kann.\x0E\x04\x00\x00
+MID_GR_Kagetsu_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06カゲツ\nIke! Seit der letzten Schlacht habe ich dich gar\nnicht mehr gesehen. Wo warst du denn, mein\nlieber Freund?\x0E\x04\x00\x00
+MID_GR_Kagetsu_B_#002	\x0E\x03\x02\x08\x06アイク\n„Lieber Freund“, hm? Es gibt wohl Schlim-\nmeres, wie du mich nennen könntest.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06カゲツ\nDu hast viele Söldner angeführt, nicht wahr?\nDie müssen unglaublich stark gewesen sein.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#002	\x0E\x03\x02\x08\x06アイク\nJepp. Zu uns gehörte ein Magier, der den Wind\nbefehligen konnte, ein Scharfschütze mit fast\ngöttlicher Zielgenauigkeit... Starke Leute.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#003	\x0E\x03\x02\x08\x06カゲツ\nWenn du das sagst, dann wird es so gewesen\nsein! Wirst du mir von all deinen Kämpfern\nerzählen?\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#004	\x0E\x03\x02\x08\x06アイク\nSicher. Ich fange mit meiner Mentorin an – eine\nder unerschütterlichsten Personen, die ich je\nkannte.\x0E\x04\x00\x00
+MID_GR_Hortensia_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nIhr seht gut aus, Ike. Mit Euch gesehen zu\nwerden, lässt mich auch gut aussehen.\x0E\x04\x00\x00
+MID_GR_Hortensia_C_#002	\x0E\x03\x02\x08\x06アイク\nIch weiß zwar nicht wie, aber danke – denke ich.\x0E\x04\x00\x00
+MID_GR_Hortensia_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nSagt mal, Ike. Ihr habt hier noch niemanden\ngesehen, der bezaubernder aussieht als ich,\noder doch?\x0E\x04\x00\x00
+MID_GR_Hortensia_B_#002	\x0E\x03\x02\x08\x06アイク\nIch bin nicht gut darin, solche Dinge zu\nbeurteilen. Aber Eure Arbeitseinstellung ist\nbeeindruckend.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nIch hoffe, wir können Elusia wieder aufbauen,\nwenn all das hier vorbei ist.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#002	\x0E\x03\x02\x08\x06アイク\nEs wird niemals wieder so werden, wie es\neinmal war.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#003	\x0E\x03\x02\x08\x06アイク\nAber je eher wir der Welt den Frieden zurück-\nbringen, desto schneller können wir neu\nanfangen.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#004	\x0E\x03\x02\x0E\x0Cオルテンシア\nWisst Ihr was? Ihr habt recht! Ich werde alles\ngeben, was ich kann, Ike. Ihr werdet schon\nsehen.\x0E\x04\x00\x00
+MID_GR_Rosado_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nIch habe dich in der letzten Schlacht gesehen,\nRosado. Du bist ein talentierter Kämpfer.\x0E\x04\x00\x00
+MID_GR_Rosado_C_#002	\x0E\x03\x02\x0A\x08ロサード\nIhr habt mich die ganze Zeit beobachtet und\nEuer einziger Kommentar gilt meiner Fertigkeit\nim Kampf?\x0E\x04\x00\x00
+MID_GR_Rosado_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ロサード\nWisst Ihr, was ich an Euch bewundere, Ike? Ihr\nbehandelt alle gleich. Ihr gebt niemals etwas\nvor.\x0E\x04\x00\x00
+MID_GR_Rosado_B_#002	\x0E\x03\x02\x08\x06アイク\nEine nette Art zu sagen, dass ich keine\nManieren habe. Ich war niemals gut in solchen\nDingen.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ロサード\nWie kann es Euch so leicht fallen, alle auf\ndie gleiche Art zu behandeln? Was ist Euer\nGeheimnis?\x0E\x04\x00\x00
+MID_GR_Rosado_A_#002	\x0E\x03\x02\x08\x06アイク\nIch habe gesehen, wie manche nach oben\nstrebten, während andere beiseite gewischt\nwurden.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#003	\x0E\x03\x02\x08\x06アイク\nWas für ein Unsinn, dass manche denken, sie\nseien besser als andere – und diese anderen auf\nihre Plätze verweisen wollen.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#004	\x0E\x03\x02\x0A\x08ロサード\nIhr habt absolut recht. Ich wünschte, jeder\nwürde die Welt auf diese Weise sehen.\x0E\x04\x00\x00
+MID_GR_Goldmary_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nHallo, Ike. Es tut mir leid, wenn Ihr mein\nCharisma total überwältigend findet.\x0E\x04\x00\x00
+MID_GR_Goldmary_C_#002	\x0E\x03\x02\x08\x06アイク\nBitte sag mir, dass nicht jeder in deinem\nKönigreich so redet.\x0E\x04\x00\x00
+MID_GR_Goldmary_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nIch hoffe, es macht Euch nichts aus, Euch\nmit jemandem zu messen, der so überwältigen-\nden Charme wie ich besitzt, Ike.\x0E\x04\x00\x00
+MID_GR_Goldmary_B_#002	\x0E\x03\x02\x08\x06アイク\nMessen... Mit Waffen? Ich weiß zwar nicht, was\ndas mit Charme zu tun haben soll, aber von mir\naus.\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nEs muss schwer für Euch sein, so viel Zeit\nmit mir zu verbringen, ohne... Gefühle zu\nentwickeln.\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#002	\x0E\x03\x02\x08\x06アイク\nIch weiß nicht, was ich dazu sagen soll.\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#003	\x0E\x03\x02\x08\x06アイク\nIch vertraue dir, Goldmary. Ich denke, Vertrauen\nist ein Gefühl.\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#004	\x0E\x03\x02\x0E\x0Cゴルドマリー\nIch wusste es. Ich bin so froh. Danke.\x0E\x04\x00\x00
+MID_GR_Misutira_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDa Ihr den Ring so gut bewahrt habt, wurde\nich ohne Schwierigkeiten beschworen.\nIhr habt meinen aufrichtigen Dank.\x0E\x04\x00\x00
+MID_GR_Misutira_C_#002	\x0E\x03\x02\x0C\nミスティラ\nVergesst die Formalitäten. Ihr habt die ganze\nZeit im Schloss herumgelegen. Ihr gehört fast\nzur Familie!\x0E\x04\x00\x00
+MID_GR_Misutira_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nEtwas riecht gut.\x0E\x04\x00\x00
+MID_GR_Misutira_B_#002	\x0E\x03\x02\x0C\nミスティラ\nIch grille etwas Fleisch! Oh, äh, ich hoffe, Ihr\ngenießt den Duft... auch wenn Ihr es nicht essen\nkönnt.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nミスティラ\nSagt mal, Ike, was für Sachen stellt eine Gruppe\nSöldner eigentlich so an?\x0E\x04\x00\x00
+MID_GR_Misutira_A_#002	\x0E\x03\x02\x08\x06アイク\nAlles Mögliche. Banditen aufhalten, Dörfer\nretten. Eine Königin bat uns einst, einige\nInvasoren zu besiegen.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#003	\x0E\x03\x02\x0C\nミスティラ\nWie schön! Klingt, als sei Eure Gruppe mehr eine\nGruppe Helden gewesen.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#004	\x0E\x03\x02\x08\x06アイク\nDas weiß ich nicht. Wir konnten nur einfach\nnicht wegsehen, wenn Leute in Schwierigkeiten\nwaren.\x0E\x04\x00\x00
+MID_GR_Merin_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06メリン\nIch bin mir sicher, wir werden gut miteinander\nauskommen, Sir Ike! Wir Freunde des Fleisch-\ngenusses müssen zusammenhalten.\x0E\x04\x00\x00
+MID_GR_Merin_C_#002	\x0E\x03\x02\x08\x06アイク\nStimmt. Nun, ich freue mich, mit dir zusammen-\narbeiten zu dürfen, Merrin.\x0E\x04\x00\x00
+MID_GR_Merin_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06メリン\nIch möchte einige neue Techniken lernen, die\nmich lässig aussehen lassen. Was würdet Ihr\nmir da empfehlen, Sir Ike?\x0E\x04\x00\x00
+MID_GR_Merin_B_#002	\x0E\x03\x02\x08\x06アイク\nIch bevorzuge eher praktische Techniken\ngegenüber lässigen. Aber wenn ich so darüber\nnachdenke... Aithir ist recht lässig.\x0E\x04\x00\x00
+MID_GR_Merin_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06メリン\nWenn wieder Friede herrscht, will ich die Welt\nbereisen, und mir jedes seltene Viech ansehen,\ndas es gibt.\x0E\x04\x00\x00
+MID_GR_Merin_A_#002	\x0E\x03\x02\x08\x06アイク\nWas hast du mit den seltenen... Viechern... vor,\nwenn du sie gefunden hast? Wirst du sie essen?\x0E\x04\x00\x00
+MID_GR_Merin_A_#003	\x0E\x03\x02\x08\x06メリン\nNie im Leben! Sie einfach zu sehen... das ist\nmein Traum. Würdet Ihr mich vielleicht\nbegleiten, Sir Ike?\x0E\x04\x00\x00
+MID_GR_Merin_A_#004	\x0E\x03\x02\x08\x06アイク\nDu verfolgst also einen Traum? Na gut, da bin\nich dabei.\x0E\x04\x00\x00
+MID_GR_Panetone_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08パネトネ\nIch grüße Euch und sage Euch guten Tag, Ike.\nIch muss sagen, Ihr seht an diesem Tag heute\nwirklich prächtig aus.\x0E\x04\x00\x00
+MID_GR_Panetone_C_#002	\x0E\x03\x02\x08\x06アイク\nDu hast eine... einzigartige Art zu reden.\nIch frage mich, wo du das wohl aufgeschnappt\nhast.\x0E\x04\x00\x00
+MID_GR_Panetone_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08パネトネ\nIch hörte, Ihr standet in den Diensten einer\nköniglichen Familie. Ich gehe davon aus, dass\ndiese recht streng bezüglich der Etikette war.\x0E\x04\x00\x00
+MID_GR_Panetone_B_#002	\x0E\x03\x02\x08\x06アイク\nMeine Freunde sagten mir einige Male, dass ich\nmich danebenbenommen hätte – aber ich kann\nnicht sagen, dass ich das bemerkt habe.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08パネトネ\nAch, ich habe erneut einen Fehler begangen! Ich\nmuss mich bestreben, meine Techniken in\neiner Schlacht zu veredeln.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#002	\x0E\x03\x02\x08\x06アイク\nIch sehe das Problem nicht. Timerra hat dir\ndoch nichts gesagt, oder?\x0E\x04\x00\x00
+MID_GR_Panetone_A_#003	\x0E\x03\x02\x0A\x08パネトネ\nIch bin die Getreue der Prinzessin! Wenn ich\nschlecht aussehe, fällt das auch auf sie zurück.\nDas werde ich nicht zulassen!\x0E\x04\x00\x00
+MID_GR_Panetone_A_#004	\x0E\x03\x02\x08\x06アイク\nAh, tut mir leid, ich bin ein Dummkopf. Sie\nmuss dir wirklich viel bedeuten.\x0E\x04\x00\x00
+MID_GR_Fogato_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nフォガート\nIch muss schon sagen, es ist seltsam, dass\njemand, der so ernst wirkt, die ganze Zeit in\nunserem Schloss gewesen ist.\x0E\x04\x00\x00
+MID_GR_Fogato_C_#002	\x0E\x03\x02\x08\x06アイク\nHm, das war für mich nicht seltsam. Ich war\nfrüher mit meinen Söldnern zusammen, und\ndas fühlte sich ähnlich familiär an.\x0E\x04\x00\x00
+MID_GR_Fogato_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nフォガート\nWisst Ihr, Ihr seid generell schon lässig. Aber im\nKampf legt Ihr dabei noch eine Schippe drauf!\x0E\x04\x00\x00
+MID_GR_Fogato_B_#002	\x0E\x03\x02\x08\x06アイク\nIch kenn mich mit „lässig“ nicht aus, aber ich\nvermute dennoch, dass Ihr der wahre König\nder Lässigkeit seid.\x0E\x04\x00\x00
+MID_GR_Fogato_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nフォガート\nWir haben so viele neue Leute kennengelernt,\nund doch haben wir schon ewig keine Party\nmehr gefeiert. Das ist öde, nicht wahr?\x0E\x04\x00\x00
+MID_GR_Fogato_A_#002	\x0E\x03\x02\x08\x06アイク\nJetzt ist nicht die Zeit für Partys. Sobald wieder\nFrieden herrscht, könnt Ihr Eure Partys und wer\nweiß was noch feiern.\x0E\x04\x00\x00
+MID_GR_Fogato_A_#003	\x0E\x03\x02\x0C\nフォガート\nMeine Partys? Bitte, so leicht kommt Ihr nicht\ndavon. Ihr werdet eine rauschende Willkom-\nmensparty bekommen.\x0E\x04\x00\x00
+MID_GR_Fogato_A_#004	\x0E\x03\x02\x08\x06アイク\nDann sorgt aber besser dafür, dass wunderbare\nFleischgerichte serviert werden. Ich kann sie\nnicht essen, aber ich werde ihren Duft genießen!\x0E\x04\x00\x00
+MID_GR_Pandoro_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08パンドロ\nLord Ike! Seid Ihr gekommen, um zu beten?\nWarum schließt Ihr Euch nicht mir an? Je mehr,\ndesto besser.\x0E\x04\x00\x00
+MID_GR_Pandoro_C_#002	\x0E\x03\x02\x08\x06アイク\nIch bin nur hier, um zuzuhören, aber, äh...\nein Gebet ab und an wird sicherlich nicht\nschaden.\x0E\x04\x00\x00
+MID_GR_Pandoro_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDie Kirchen in dieser Welt sind ziemlich...\nübertrieben, hm?\x0E\x04\x00\x00
+MID_GR_Pandoro_B_#002	\x0E\x03\x02\x0A\x08パンドロ\nOh, tja, ich habe diese hier umgestaltet, damit\nsie superprotzig wird. Es ist wirklich zu schade,\ndass nicht alle so sein können.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08パンドロ\nLord Ike, was ist eigentlich mit den Leuten los,\ndie immer nur in den Krieg ziehen wollen? Ich,\nich wünsche mir so sehr Frieden.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#002	\x0E\x03\x02\x08\x06アイク\nJeder hat seine eigenen Gründe. Und die\nWahrheit ist, dass der reine Wunsch nach\nFrieden diesen nicht zur Realität werden lässt.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#003	\x0E\x03\x02\x08\x06アイク\nSieh uns an. Wir befinden uns im Krieg, um\nFrieden wiederherzustellen, richtig? Aber keine\nSorge, wir gehen den ganzen Weg gemeinsam.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#004	\x0E\x03\x02\x0A\x08パンドロ\nDas sind weise Worte, Lord Ike. Ich jedenfalls\nbin bereit, Euch zu folgen, wo immer Ihr mich\nauch hinführt!\x0E\x04\x00\x00
+MID_GR_Bonet_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x06\x04ボネ\nIke, Eure Kraft ist wie ein schönes Stück Fleisch.\nIch wünschte, ich könnte sie essen, um Eure\nQualitäten aufzunehmen.\x0E\x04\x00\x00
+MID_GR_Bonet_C_#002	\x0E\x03\x02\x08\x06アイク\nIch weiß nicht, ob das ein Kompliment oder ein\nScherz sein soll.\x0E\x04\x00\x00
+MID_GR_Bonet_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x06\x04ボネ\nIke, ich bin neugierig... Was für Speisen genießt\nIhr am meisten?\x0E\x04\x00\x00
+MID_GR_Bonet_B_#002	\x0E\x03\x02\x08\x06アイク\nNun, ich bin ein Emblem, also gibt es für mich\nkeine Speisen. Aber in meiner Welt war ich hin\nund weg, wenn es um Fleischgerichte ging.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nOh-oh. Dieser Gesichtsausdruck sagt, dass\netwas in der Luft liegt. Was ist los, Bunet?\x0E\x04\x00\x00
+MID_GR_Bonet_A_#002	\x0E\x03\x02\x06\x04ボネ\nIch versuche, ein Fleischgericht zuzubereiten,\ndas Euch zufriedenstellt. Aber ich befürchte,\nes... ist herausfordernd.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#003	\x0E\x03\x02\x08\x06アイク\nBunet, ich sagte es dir doch schon. Ich bin\nein Emblem. Embleme können nichts essen.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#004	\x0E\x03\x02\x06\x04ボネ\nDeshalb kreiere ich ja ein Gericht, das nicht\ngegessen werde muss, um zu befriedigen.\nNur für Euch.\x0E\x04\x00\x00
+MID_GR_Anna_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nWas? Ein Kind läuft hier herum und verkauft\nZeugs?\x0E\x04\x00\x00
+MID_GR_Anna_C_#002	\x0E\x03\x02\x08\x06アンナ\nKein „Zeugs“, sondern die feinsten Waren! Sieh\ndir alles gut an, vielleicht gefällt dir ja etwas!\x0E\x04\x00\x00
+MID_GR_Anna_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nHast du eine Minute, Anna? Es könnte sein, dass\nich etwas kaufen werde.\x0E\x04\x00\x00
+MID_GR_Anna_B_#002	\x0E\x03\x02\x08\x06アンナ\nHey, das heißt nicht Anna, es heißt unter\nFreunden Lady Anna! Nenn mich Lady oder\nhalt die Klappe!\x0E\x04\x00\x00
+MID_GR_Anna_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アンナ\nIch habe einen schönen Edelstein gefunden und\nüberlege, das mit einem Fest zu feiern. Bist\ndu dabei?\x0E\x04\x00\x00
+MID_GR_Anna_A_#002	\x0E\x03\x02\x08\x06アイク\nTut mir leid, du willst ein Fest feiern, weil...\nWarum genau?\x0E\x04\x00\x00
+MID_GR_Anna_A_#003	\x0E\x03\x02\x08\x06アンナ\nIke! Ich brauche Leute, die das Ding\norganisieren! Wenn du nicht hilfst, weine ich!\x0E\x04\x00\x00
+MID_GR_Anna_A_#004	\x0E\x03\x02\x08\x06アイク\nIst ja gut, ich tue, was immer du willst. Nur\nweine nicht.\x0E\x04\x00\x00
+MID_GR_Jean_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ジャン\nHmm. Mir ist das im Kampf gar nich' so\naufgefallen, aber aus der Nähe betrachtet sind\nEmbleme ganz schön groß.\x0E\x04\x00\x00
+MID_GR_Jean_C_#002	\x0E\x03\x02\x08\x06アイク\nDas hat mit Emblemen nichts zu tun. Ich bin\neinfach groß.\x0E\x04\x00\x00
+MID_GR_Jean_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nDu musst bereits so eine Art Arzt sein.\x0E\x04\x00\x00
+MID_GR_Jean_B_#002	\x0E\x03\x02\x08\x06ジャン\nMein Alter wird für einen Patienten nicht\nwichtig sein. Ich will ein großartiger Arzt\nwerden und ich darf keine Zeit verlieren.\x0E\x04\x00\x00
+MID_GR_Jean_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ジャン\nWie kommt es, dass Ihr mir immer so viel\nBeachtung schenkt, Ike?\x0E\x04\x00\x00
+MID_GR_Jean_A_#002	\x0E\x03\x02\x08\x06アイク\nIch empfinde Achtung gegenüber jeden, der\nWunden behandeln kann. Wenn dich das stört,\nhöre ich damit auf.\x0E\x04\x00\x00
+MID_GR_Jean_A_#003	\x0E\x03\x02\x08\x06ジャン\nOh, das stört mich nicht. Ich bin nur etwas\nbefangen deswegen, das ist alles.\x0E\x04\x00\x00
+MID_GR_Jean_A_#004	\x0E\x03\x02\x08\x06アイク\nWeißt du, meine kleine Schwester war eine\nHeilerin. Ich vermute, du erinnerst mich ein\nbisschen an sie.\x0E\x04\x00\x00
+MID_GR_Yunaka_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ユナカ\nJunge, junge. Ich dachte aus der Ferne schon,\ndass Ihr stark ausseht. Aus der Nähe betrachtet\nseid Ihr noch mehr beeindruckender!\x0E\x04\x00\x00
+MID_GR_Yunaka_C_#002	\x0E\x03\x02\x08\x06アイク\nWie kannst du so leichtfüßig sein? Ich habe\nnicht mal gehört, als du dich genähert hast.\x0E\x04\x00\x00
+MID_GR_Yunaka_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nAls ich länger darüber nachdachte, fiel mir der\nAssassine ein, mit dem ich zusammengearbeitet\nhabe. Er hatte ebenfalls so einen leisen Schritt.\x0E\x04\x00\x00
+MID_GR_Yunaka_B_#002	\x0E\x03\x02\x08\x06ユナカ\nWarum erwähnt Ihr denn so plötzlich einen\nAssassinen?! Ich habe eben harmlose, leichte\nFüße, das ist alles!\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06ユナカ\nWisst Ihr, Ike... Es überrascht mich, dass Ihr\nmich noch nicht einmal nach meiner Vergangen-\nheit gefragt habt.\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#002	\x0E\x03\x02\x08\x06アイク\nEs ist offensichtlich, dass du darüber nicht\nsprechen möchtest. Ich nehme an, dass du mir\ndavon erzählen wirst, wenn du dazu bereit bist.\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#003	\x0E\x03\x02\x08\x06ユナカ\nWas, wenn ich niemals dazu bereit sein werde?\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#004	\x0E\x03\x02\x08\x06アイク\nDas wäre auch in Ordnung. Für mich zählt nur\ndie Person, die du heute bist.\x0E\x04\x00\x00
+MID_GR_Seadas_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08セアダス\nIke, Ihr solltet heute nicht nach draußen gehen.\nIch habe die Karten für Euch gelesen... und es\nsieht nicht gut aus.\x0E\x04\x00\x00
+MID_GR_Seadas_C_#002	\x0E\x03\x02\x08\x06アイク\nIhr seid also ein Tänzer und Wahrsager?\nDa besitzt Ihr ein Paar sehr gute Fähigkeiten.\x0E\x04\x00\x00
+MID_GR_Seadas_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08セアダス\nMir ist aufgefallen, dass Ihr mich beim Tanzen\nbeobachtet. Findet Ihr Gefallen daran?\x0E\x04\x00\x00
+MID_GR_Seadas_B_#002	\x0E\x03\x02\x08\x06アイク\nDas tue ich wohl. Es ist... wunderschön. Und\nich habe Achtung vor den Jahren der Disziplin,\ndie es braucht, um sich so bewegen zu können.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08セアダス\nEuer Streben, Euch zu verbessern, ist beein-\ndruckend. Ihr seid bereits stark, aber Ihr wollt\nnoch stärker werden.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#002	\x0E\x03\x02\x08\x06アイク\nDas ist schön zu hören, aber ich habe noch\neinen langen Weg vor mir, bis ich mein Ziel\nerreicht habe.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#003	\x0E\x03\x02\x08\x06アイク\nIch möchte stärker sein als mein Vater. Mein\nverstorbener Vater. Aber ich bin noch weit\ndavon entfernt.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#004	\x0E\x03\x02\x0A\x08セアダス\nDas verstehe ich. Auch ich hoffe sehr, eines\nTages die Tanzfähigkeiten meines verstorbenen\nMeisters zu überflügeln.\x0E\x04\x00\x00
+MID_GR_Linden_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nWas war denn das für ein Lärm?! Werden\nwir angegriffen?!\x0E\x04\x00\x00
+MID_GR_Linden_C_#002	\x0E\x03\x02\x0A\x08リンデン\nHm? Oh, der „Donner“-Spruch gerade? Das\nwar ich, ich habe ein bisschen gekocht.\x0E\x04\x00\x00
+MID_GR_Linden_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リンデン\nMagie besitzt viele Feinheiten. Je mehr du\nlernst, desto mehr Verwendungsmöglichkeiten\nfindest du für sie.\x0E\x04\x00\x00
+MID_GR_Linden_B_#002	\x0E\x03\x02\x08\x06アイク\nDie Leute entwickeln auch ständig neue\nSchwerttechniken. Es wird nie langweilig.\x0E\x04\x00\x00
+MID_GR_Linden_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リンデン\nWieso ist die Menschheit dazu verdammt,\neinen Fehler nach dem anderen zu machen?\x0E\x04\x00\x00
+MID_GR_Linden_A_#002	\x0E\x03\x02\x08\x06アイク\nIch verstehe Euch. Aber niemand ist perfekt.\nEs sind die Fehler, aus denen wir lernen.\x0E\x04\x00\x00
+MID_GR_Linden_A_#003	\x0E\x03\x02\x0A\x08リンデン\nIch verstehe, was du meinst. Wenn das, was\nwir lernen, doch nur immer für etwas Gutes\nverwendet würde...\x0E\x04\x00\x00
+MID_GR_Linden_A_#004	\x0E\x03\x02\x08\x06アイク\nDa kommen Ihr und ich ins Spiel. Ich mit\nmeinem Schwert, Ihr mit Stift und Papier.\x0E\x04\x00\x00
+MID_GR_Saphir_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nVersucht Ihr mich einzuschätzen oder so?\x0E\x04\x00\x00
+MID_GR_Saphir_C_#002	\x0E\x03\x02\x0C\nザフィーア\nKein Grund, gleich in Abwehrhaltung zu gehen.\nIch dachte nur, dass wir uns vielleicht ähnlich\nseien.\x0E\x04\x00\x00
+MID_GR_Saphir_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nザフィーア\nEuer Vater hat Euch also den Umgang mit dem\nSchwert beigebracht.\x0E\x04\x00\x00
+MID_GR_Saphir_B_#002	\x0E\x03\x02\x08\x06アイク\nDas beste Geschenk, das er mir jemals machen\nkonnte. Ein wahrer Meister seiner Techniken\nwäre so gut wie unaufhaltsam.\x0E\x04\x00\x00
+MID_GR_Saphir_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0C\nザフィーア\nIhr wollte stets der Stärkste sein. Was steckt\ndahinter?\x0E\x04\x00\x00
+MID_GR_Saphir_A_#002	\x0E\x03\x02\x08\x06アイク\nNichts als das Offensichtliche. Ich will sehen,\nwie weit ich gehen kann.\x0E\x04\x00\x00
+MID_GR_Saphir_A_#003	\x0E\x03\x02\x08\x06アイク\nIhr seid genauso, nicht wahr, Saphir?\x0E\x04\x00\x00
+MID_GR_Saphir_A_#004	\x0E\x03\x02\x0C\nザフィーア\nHahaha, vermutlich bin ich das. Ich mag Euch,\nIke. Ich habe das Gefühl, dass wir einander\nverstehen.\x0E\x04\x00\x00
+MID_GR_Veyre_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nIke... Glaubst du, du könntest jemals mein\nFreund werden?\x0E\x04\x00\x00
+MID_GR_Veyre_C_#002	\x0E\x03\x02\x08\x06アイク\nWarum fragst du das? Sind wir nicht schon\nVerbündete?\x0E\x04\x00\x00
+MID_GR_Veyre_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nHast du dich an das Leben hier gewöhnt, Veyle?\x0E\x04\x00\x00
+MID_GR_Veyre_B_#002	\x0E\x03\x02\x0A\x08ヴェイル\nJa. Das ist ein wirklich schöner Ort. Und wenn\nich hier bin, fühle ich mich nicht mehr allein.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nWas ist denn los, Veyle? Du siehst aus, als\nginge es dir nicht gut.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#002	\x0E\x03\x02\x0A\x08ヴェイル\nIch kann nicht schlafen. Ich habe wirklich\nAngst, dass ich wieder an einem seltsamen\nOrt aufwache.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#003	\x0E\x03\x02\x08\x06アイク\nNun, das wird nicht passieren. Wenn ich sehe,\ndass du schlafwandelst, werde ich dich auf-\nhalten, abgemacht?\x0E\x04\x00\x00
+MID_GR_Veyre_A_#004	\x0E\x03\x02\x0A\x08ヴェイル\nDas... ist es nicht. Aber ich danke dir, Ike.\nIch glaube, heute Nacht werde ich besser\nschlafen.\x0E\x04\x00\x00
+MID_GR_Mauve_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06モーヴ\nEs ist ein seltsames Gefühl, Seite an Seite mit\neinem einstigen Feind zu kämpfen.\x0E\x04\x00\x00
+MID_GR_Mauve_C_#002	\x0E\x03\x02\x08\x06アイク\nDer Feind von gestern ist der Freund von heute.\nDas geschieht häufiger, als Ihr denkt.\x0E\x04\x00\x00
+MID_GR_Mauve_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06モーヴ\nIch bin angewidert über meine eigene Unfähig-\nkeit. Ich habe keine Vorzüge außerhalb der\nSchlachten in diesem Krieg.\x0E\x04\x00\x00
+MID_GR_Mauve_B_#002	\x0E\x03\x02\x08\x06アイク\nWenn Ihr das so seht, dann versucht, Euch\nFähigkeiten anzueignen, die außerhalb des\nKrieges von Wert sind. Die Zeit ist richtig dafür.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06モーヴ\nMilady Veyles Lächeln ist zurückgekehrt.\nBald schon wird meine Pflicht erfüllt sein.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#002	\x0E\x03\x02\x08\x06アイク\nIhr glaubt, Ihr seid aus Pflichtgefühl an ihrer\nSeite? Nein. Es war Eure Wahl, dort zu sein.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#003	\x0E\x03\x02\x08\x06アイク\nIhr braucht Veyle genauso sehr, wie sie Euch\nbraucht. Solltet Ihr nicht bis zum Ende bei ihr\nbleiben?\x0E\x04\x00\x00
+MID_GR_Mauve_A_#004	\x0E\x03\x02\x08\x06モーヴ\nDem stimme ich zu. Widerwillig. Wenn ich Ver-\ngebung finden kann, dann werde ich bis ans\nEnde meines Lebens an ihrer Seite bleiben.\x0E\x04\x00\x00

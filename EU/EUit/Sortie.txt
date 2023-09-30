@@ -1,0 +1,124 @@
+MID_SORTIE_START	Combatti!
+MID_SORTIE_START_HELP	Termina i preparativi e inizia\nla battaglia.
+MID_SORTIE_START_CONFIRM	Tutto pronto?
+MID_SORTIE_START_CONFIRM_YES	Inizia
+MID_SORTIE_BACK	Indietro
+MID_SORTIE_SELECT_UNIT	Formazione
+MID_SORTIE_SELECT_UNIT_SELECT	Seleziona un'unità.
+MID_SORTIE_SELECT_UNIT_HELP	Scegli quali unità portare\nin battaglia.
+MID_SORTIE_EQUIP_GOD	Emblemi
+MID_SORTIE_EQUIP_GOD_HELP	Assegna anelli\x0E\x01\x0B\x00\ndegli emblemi alle unità.
+MID_SORTIE_INVENTORY	Inventario
+MID_SORTIE_INVENTORY_HELP	Gestisci equipaggiamento\ne abilità.
+MID_SORTIE_CHANGE_POSITION	Scambia posto
+MID_SORTIE_CHANGE_POSITION_HELP	Posiziona gli alleati sul campo.
+MID_SORTIE_SHOP	Acquisti
+MID_SORTIE_SHOP_HELP	Compra armi e strumenti.
+MID_SORTIE_WEAPON_SHOP	Armeria
+MID_SORTIE_H_WEAPON_SHOP	Compra armi.
+MID_SORTIE_ITEM_SHOP	Emporio
+MID_SORTIE_H_ITEM_SHOP	Compra strumenti.
+MID_SORTIE_RELIANCE	Sostegno
+MID_SORTIE_RELIANCE_UNIT_SELECT	Seleziona un alleato.
+MID_SORTIE_RELIANCE_NONE	Nessuna conversazione.
+MID_SORTIE_BONDS_RELIANCE	Legame
+MID_SORTIE_BONDS_RELIANCE_NONE	Nessun emblema.
+MID_SORTIE_RELIANCE_ATTENTION	Puoi effettuare conversazioni di sostegno con\ni personaggi e conversazioni di legame con gli\nemblemi nel Somniel e nella mappa del mondo.
+MID_SORTIE_SAVE	Salva
+MID_SORTIE_SAVE_HELP	Salva i progressi attuali.
+MID_SORTIE_BACK_CONFIRM_HELP	Torna alla mappa del mondo.
+MID_SORTIE_BACK_CONFIRM	Vuoi tornare alla mappa del mondo?
+MID_SORTIE_BACK_CONFIRM_HELP_M026	Ritorna al Somniel.
+MID_SORTIE_BACK_CONFIRM_M026	Vuoi tornare al Somniel?
+MID_SORTIE_CONTINUEBATTLE_NOSELECT	Non selezionabile durante\nuna serie di battaglie.
+MID_SORTIE_COMMON_TRADE	Scambia
+MID_SORTIE_UNIT_ITEM	Gestisci strumenti
+MID_SORTIE_UNIT_ITEM_LIST	Strumenti
+MID_SORTIE_UNIT_TRADE	Scambia
+MID_SORTIE_UNIT_ENTRUST	Ottimizza equipaggiamento
+MID_SORTIE_UNIT_ENTRUST_WARNING1	Non ci sono abbastanza strumenti nei\nrifornimenti per ottimizzare l'equipaggiamento\ndi questa unità.
+MID_SORTIE_UNIT_ENTRUST_WARNING2	Impossibile ottimizzare l'equipaggiamento\nperché non c'è spazio tra i rifornimenti.
+MID_SORTIE_UNIT_STORE	Invia
+MID_SORTIE_UNIT_STORE_ALL	Invia tutto
+MID_SORTIE_UNIT_STORE_ALL_WARNING	Non c'è spazio tra i rifornimenti oppure ci sono\nstrumenti che non possono essere inviati.
+MID_SORTIE_UNIT_SKILL_OPEN	Ora puoi gestire le tue abilità.
+MID_SORTIE_UNIT_SKILL	Gestisci abilità
+MID_SORTIE_UNIT_CLASSCHANGE	Cambia classe
+MID_SORTIE_ALL_UNITS_ENTRUST	Ottimizza tutto
+MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM	Vuoi ottimizzare l'equipaggiamento\ndelle unità sul campo di battaglia?\n(Gli strumenti in mano alle altre unità\nverranno inviati ai rifornimenti.)
+MID_SORTIE_ALL_UNITS_ENTRUST_ERROR	Puoi usare "Ottimizza tutto" dopo aver\nselezionato le unità che scenderanno in\ncampo durante i preparativi per la battaglia.
+MID_SORTIE_ALL_UNITS_ENTRUST_Yes	Ottimizza
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1	Non ci sono abbastanza strumenti\nnei rifornimenti per ottimizzare\nl'equipaggiamento di tutte le unità\nsul campo di battaglia.
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2	Impossibile ottimizzare l'equipaggiamento\nperché non c'è spazio tra i rifornimenti.
+MID_SORTIE_ALL_UNITS_STORE_ALL	Svuota
+MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM	Vuoi inviare tutti gli\nstrumenti ai rifornimenti?
+MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING	Non tutti gli strumenti sono stati\ninviati ai rifornimenti poiché non\nc'è più spazio.
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD	Ottimizza tutto
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM	Vuoi ottimizzare automaticamente\ngli anelli\x0E\x01\x0B\x00 delle unità schierate?
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes	Ottimizza
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No	Annulla
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD	Rimuovi tutto
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM	Vuoi rimuovere gli anelli\x0E\x01\x0B\x00\ndi tutte le unità?
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes	Rimuovi
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No	Annulla
+MID_SORTIE_UNIT_NONE	Nessuna unità disponibile.
+MID_TROOPLIST_PAGETITLE_BASIC	Stato
+MID_TROOPLIST_PAGETITLE_STATUS	Parametri base
+MID_TROOPLIST_PAGETITLE_BATTLE	Parametri lotta
+MID_SORTIE_INVENTORY_STORE	Dai
+MID_SORTIE_INVENTORY_RECEIVE	Prendi
+MID_SORTIE_INVENTORY_EQUIP	Attiva
+MID_SORTIE_INVENTORY_REMOVE	Disattiva
+MID_SORTIE_INVENTORY_ARRANGE	Ordina
+MID_SORTIE_INVENTORY_USE	Usa
+MID_SORTIE_INVENTORY_DISCARD	Elimina
+MID_SORTIE_INVENTORY_EMPTY	Nessuno strumento.
+MID_SORTIE_SKILL_CATEGORY_PERSON	Personale
+MID_SORTIE_SKILL_CATEGORY_JOB	Classe
+MID_SORTIE_SKILL_CATEGORY_INHERITANCE	Ereditate
+MID_SORTIE_SKILL_CATEGORY_GOD	Sincro
+MID_SORTIE_SKILL_CATEGORY_ENGAGE	Unione
+MID_SORTIE_SKILL_CATEGORY_BONDS	Legame
+MID_SORTIE_SKILL_CATEGORY_EQUIPED	Attivata
+MID_SORTIE_SKILL_OVERLAPPING	Sovrapp.
+MID_SORTIE_SKILL_SUPPLEMENT_HELP	Si sovrappone con altre abilità.
+MID_SORTIE_SKILL_POOL_NONE	--
+MID_SORTIE_SKILL_POOL_TITLE	Abilità ereditate
+MID_SORTIE_CLASSCHANGE_NEED_LV	Liv richiesto
+MID_SORTIE_CLASSCHANGE_NEED_APTITUDE	Talenti rich.
+MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE	Talenti disp.
+MID_SORTIE_CLASSCHANGE_NEED_ITEM	Strumenti richiesti
+MID_SORTIE_CLASSCHANGE_SKILL_LEVEL	Appresa al Liv \x0E\x01\x00\x00
+MID_SORTIE_CLASSCHANGE_NONE	Nessuna classe disponibile.
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG	Vuoi passare alla\nclasse: \x0E\x01\x00\x00?
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES	Cambia classe
+MID_SORTIE_CLASSCHANGE_NEED_JOB	\x0E\x01\x00\x00 Liv \x0E\x01\x01\x00
+MID_SORTIE_CLASSCHANGE_BASIC_ARMOR	Corazziere spada/lancia/ascia
+MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT	Cavaliere spada/lancia/ascia
+MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS	Pegaso spada/lancia/ascia
+MID_SELECTRING_TITLE_GOD	Anelli\x0E\x01\x09\x00 degli emblemi
+MID_SELECTRING_REMOVE	Vuoi rimuovere: \x0E\x01\x00\x00?
+MID_SELECTRING_CHANGE	Vuoi rimuovere: \x0E\x01\x00\x00\ne assegnare: \x0E\x01\x01\x00?
+MID_SELECTRING_CHANGE_REMOVE	Vuoi rimuovere: \x0E\x01\x00\x00\ne assegnare: \x0E\x01\x01\x00?\nAl momento lo indossa \x0E\x01\x02\x00.
+MID_SELECTRING_SET	Vuoi assegnare: \x0E\x01\x00\x00?
+MID_SELECTRING_SET_REMOVE	Vuoi assegnare: \x0E\x01\x00\x00?\nAl momento lo indossa \x0E\x01\x01\x00.
+MID_SELECTRING_REMOVE_CONFIRM	Disattiva
+MID_SELECTRING_SET_CONFIRM	Attiva
+MID_SELECTRING_GOD_CHANGE_YES	Cambia
+MID_SELECTRING_GOD_EMPTY	Nessun anello\x0E\x01\x0A\x00 degli emblemi.
+MID_SELECTRING_COMMON_EMPTY	Nessun anello del legame.
+MID_SELECTRING_LUEUR_NOTES	L'emblema \x0E\x06\x03\x00\npuò entrare in stato di unione\nutilizzando Unione+ in battaglia.
+MID_SORTIE_TITLE_UNIT_SELECT	Formazione
+MID_SORTIE_TITLE_UNIT_SELECT_ITEM	Inventario
+MID_SORTIE_TITLE_RING_SELECT	Emblemi
+MID_SORTIE_TITLE_INVENTORY	Gestisci strumenti
+MID_SORTIE_TITLE_TRADE	Scambia
+MID_SORTIE_TITLE_SKILL	Gestisci abilità
+MID_SORTIE_TITLE_CLASSCHANGE	Cambio classe
+MID_SORTIE_TITLEHELP_UNIT_SELECT	Scegli chi portare in battaglia.
+MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM	Scegli le unità.
+MID_SORTIE_TITLEHELP_RING_SELECT	Scegli gli anelli\x0E\x01\x0B\x00 degli emblemi.
+MID_SORTIE_TITLEHELP_INVENTORY	Scegli strumenti.
+MID_SORTIE_TITLEHELP_TRADE	Scegli strumenti da scambiare.
+MID_SORTIE_TITLEHELP_SKILL	Scegli le abilità da attivare.
+MID_SORTIE_TITLEHELP_CLASSCHANGE	Scegli una classe.

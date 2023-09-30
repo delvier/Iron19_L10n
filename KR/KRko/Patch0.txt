@@ -1,0 +1,274 @@
+MID_SYS_Unknown	???
+MID_SYS_Arg_Bracelet	·팔찌
+MID_SYS_Arg_Bracelets	·팔찌
+MID_SYS_Arg_Bracelet_UNCAP	·팔찌
+MID_SYS_Arg_Bracelets_UNCAP	·팔찌
+MID_KEYHELP_MENU_TOGGLE	선택/해제
+MID_H_INFO_Emblem_GoodWeapon	\x0E\x01\x00\x00: \x0E\x01\x01\x00
+MID_MSG_DLC_NOT_FOUND	추가 콘텐츠의 데이터가 없기 때문에 시작할 수 없습니다\n추가 콘텐츠를 이미 구입하셨을 경우에는\n닌텐도 e숍에서 재다운로드해 주십시오
+MID_MSG_PATCH_NOT_FOUND	이 소프트웨어 버전에서는 아직 시작할 수 없습니다\n대응되는 버전이 배포될 때까지 기다려 주십시오
+MID_DLC_News_Patch0_Title	Ver. 1.1.0 업데이트 내용
+MID_DLC_News_Patch0	【익스팬션 패스】\n\n·문장사 에델가르트/디미트리/클로드가 추가되었습니다\n 거점의 ｢전망대｣에서 이벤트를 보면 동료가 됩니다\n\n·문장사 치키가 추가되었습니다\n 추가된 맵을 클리어하면 동료가 됩니다\n\n·익스팬션 패스 구입 특전 1이 추가되었습니다\n ｢부츠｣ 등 각종 강화 아이템을 받을 수 있습니다\n　\n·새로운 액세서리가 추가되었습니다\n 액세서리점에서 받을 수 있습니다\n　｢이국풍 페어 세트｣, ｢헤드드레스｣, ｢빅 리본｣,\n　｢싱글 이어링｣, ｢둥근 은테 안경｣\n\n【무료 업데이트】\n\n·무기 연성 세트를 선물\n 4장 클리어 이후에 거점으로 들어가면 받을 수 있습니다
+MID_MSG_GET_ITEM_DLC_Accessory1	익스팬션 패스 구입 특전 1을 받았습니다
+MID_MSG_GET_ITEM_Patch0	무료 업데이트 특전 1을 받았습니다
+MID_SYS_EncounterBattleMap	발생 중인 조우전
+MID_SYS_WorldMap	월드 맵
+MID_SYS_GodMap	신룡의 장
+MID_SysDialog_Move_Title	어디로 가겠습니까?
+MID_SysDialog_Move_Hub	솔라넬로
+MID_SysDialog_Move_WorldMap	월드 맵으로
+MID_SysDialog_Move_GodMap	신룡의 장으로
+MID_SysDialog_Move_Cancel	취소
+MID_MSG_Encount_WorldMap	월드 맵에서 조우전이 발생했습니다
+MID_MSG_Encount_GodMap	신룡의 장에서 조우전이 발생했습니다
+MID_SYS_LINK	LINK!
+MID_SYS_BondCombi4	사관학교의 인연
+MID_PLACE_God	소속 국가 불명
+MCID_G001_PREFIX	신룡의 장
+MCID_G001	선대 신룡
+MCID_G001_PLACE	용의 신전
+MCID_G001_OUTLINE	눈과 얼음으로 덮인 신비한 용의 거처에서\n수수께끼의 팔찌가 발견됐다는 말을 들었다
+MID_RULE_G001_WIN	문장사 치키에게 승리
+MTID_MagicDoor	마법의 문
+MTID_IceBarrier	얼음 결계
+MTID_Lake	호수
+MTID_Unknown	???
+MTID_IceTile	결빙
+MTID_Smoke	검은 연기
+MPID_PhantomFlyingDragon	만들어진 자
+MPID_H_PhantomFlyingDragon	비술로 만들어진 영혼 없는 비룡.\n자아는 없으며 주인의 명령에 따라 움직인다.
+MPID_Edelgard	에델가르트
+MPID_H_Edelgard	통칭 『삼정의 문장사』.\n고귀함과 위엄을 겸비한 불꽃의 황녀.
+MPID_Dimitri	디미트리
+MPID_H_Dimitri	통칭 『삼정의 문장사』.\n총명하고 예의 바른 기사의 나라에서 온 왕자.
+MPID_Claude	클로드
+MPID_H_Claude	통칭 『삼정의 문장사』.\n책략을 좋아하며 자유분방한 맹주 가문의\n적자.
+MPID_Tiki	치키
+MPID_H_Tiki	통칭 『용희의 문장사』.\n신룡족의 피를 이은 천진난만한 소녀.
+MGID_Edelgard	에델가르트
+MGID_H_Edelgard	통칭 『삼정의 문장사』.\n고귀함과 위엄을 겸비한 불꽃의 황녀.\n강력한 도끼술을 구사하며 적을 분쇄한다.
+MGID_H_EnemyEdelgard	『3반장의 팔찌』에서 깨어난 문장사.
+MGID_Dimitri	디미트리
+MGID_H_Dimitri	통칭 『삼정의 문장사』.\n총명하고 예의 바른 기사의 나라에서 온 왕자.\n뛰어난 창술과 재빠른 선제공격을 구사한다.
+MGID_H_EnemyDimitri	『3반장의 팔찌』에서 깨어난 문장사.
+MGID_Claude	클로드
+MGID_H_Claude	통칭 『삼정의 문장사』.\n책략을 좋아하며 자유분방한 맹주 가문의\n적자. 궁술이 뛰어나며 변칙적인 전술이 특기.
+MGID_H_EnemyClaude	『3반장의 팔찌』에서 깨어난 문장사.
+MGID_Tiki	치키
+MGID_H_Tiki	통칭 『용희의 문장사』.\n신룡족의 피를 이은 천진난만한 소녀.\n용으로 변할 수 있고 브레스로 적을 공격한다.
+MGID_H_EnemyTiki	『선대 신룡의 팔찌』에서 깨어난 문장사.
+MGEID_Edelgard	삼정의 문장
+MGEID_Tiki	용희의 문장
+MJID_PhantomFlyingDragon	환영비룡
+MJID_H_PhantomFlyingDragon	하늘을 날아다니는 비룡의 권속.\n행동 범위가 넓고 브레스로 적을 몰아붙인다.
+MJID_H_EmblemB	팔찌에 깃든 이계의 영웅.\n상상을 뛰어넘는 힘을 지녔다.
+MIID_IceBreath	얼음의 브레스
+MIID_H_IceBreath	얼어붙는 숨결 공격.\n방어력 무시/상대를 프리즈 상태로 만든다.
+MIID_IceBall	빙괴
+MIID_H_IceBall	사정거리가 긴 얼음 공격.\n방어력 무시/상대를 프리즈 상태로 만든다.
+MIID_Tiki_Claw	이터널 클로
+MIID_H_Tiki_Claw	용으로 변신한 문장사 치키의 공격.\n치명상을 입히기 쉽다.
+MIID_Tiki_Tail	스매시 테일
+MIID_H_Tiki_Tail	용으로 변신한 문장사 치키의 강력한 공격.\n추격 불가/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Tiki_Breath	불의 브레스
+MIID_H_Tiki_Breath	용으로 변신한 문장사 치키의 작열 숨결.\n범위 공격/상대의 수비를 반감/추격 불가.\n직접 공격 시 항상 후공이 된다.\n지형을 ｢화염｣ 상태로 만든다.
+MIID_Tiki_Breath_Dragon	안개의 브레스
+MIID_H_Tiki_Breath_Dragon	용으로 변신한 문장사 치키의 안개 숨결.\n범위 공격/상대의 수비를 반감/추격 불가.\n용 특효/직접 공격 시 항상 후공이 된다.\n지형을 ｢안개｣ 상태로 만든다.
+MIID_Tiki_Breath_Heavy	얼음의 브레스
+MIID_H_Tiki_Breath_Heavy	용으로 변신한 문장사 치키의 빙설 숨결.\n범위 공격/상대의 수비를 반감/추격 불가.\n직접 공격 시 항상 후공이 된다.\n상대를 프리즈 상태로 만든다.
+MIID_Tiki_Breath_Fly	불꽃의 브레스
+MIID_H_Tiki_Breath_Fly	용으로 변신한 문장사 치키의 작열 숨결.\n대미지 70%의 범위 공격/상대의 수비를 반감.\n추격 불가/직접 공격 시 항상 후공이 된다.\n지형을 ｢화염｣ 상태로 만든다.
+MIID_Tiki_Breath_Magic	어둠의 브레스
+MIID_H_Tiki_Breath_Magic	용으로 변신한 문장사 치키의 마력 숨결.\n범위 공격/상대의 마방을 반감/추격 불가.\n직접 공격 시 항상 후공이 된다.
+MIID_Tiki_Blessing	신룡의 축복
+MIID_Tiki_Blessing+	신룡의 축복+
+MIID_Edelgard_Aymr	아이무르
+MIID_H_Edelgard_Aymr	문장사 에델가르트가 지닌 도끼.\n추격 불가/용 특효/직접 공격 시\n항상 후공이 되지만 스매시 발생.
+MIID_Edelgard_Areadbhar	아라드바르
+MIID_H_Edelgard_Areadbhar	문장사 디미트리가 지닌 창.\n직접 공격 시, 위력 150%.
+MIID_Edelgard_Failnaught	페일노트
+MIID_H_Edelgard_Failnaught	문장사 클로드가 지닌 활.\n직접 공격 시, 회피+20.\n용 특효/비행 특효.
+MIID_SilverCard	실버 카드
+MIID_H_SilverCard	소지하고만 있어도\n무기점과 도구점에서 물건을 살 때\n가격이 30% 할인된다.
+MSID_FriendlyCompetition	절차탁마
+MSID_H_FriendlyCompetition	아군 페이즈 개시와 동시에 문장사가\n에델가르트, 디미트리, 클로드 중\n한 명으로 랜덤하게 교대한다.
+MSID_Strategy	계략
+MSID_H_Strategy	싱크로 중인 문장사에 따라\n효과가 달라지는 ｢계략｣ 커맨드 사용 가능.
+MSID_Strategy_Disturbance	계략: 인입계
+MSID_H_Strategy_Disturbance	공격 후에 인접한 적을 자신의 위치로\n이동시키고 자신도 1칸 뒤로 이동시키는\n｢계략: 인입계｣ 커맨드 사용 가능.\n(계승한 ｢계략｣ 스킬 장비 시)
+MSID_H_Strategy_Disturbance_CMD	전투 후 상대와 함께\n1칸 뒤로 이동한다
+MSID_Strategy_PowerfulFireAttack	계략: 맹화계
+MSID_H_Strategy_PowerfulFireAttack	전투 후에 상대와 그 주위의 칸을 화염 상태로\n만드는 ｢계략: 맹화계｣ 커맨드 사용 가능.\n(에델가르트와 싱크로 시)
+MSID_H_Strategy_PowerfulFireAttack_CMD	전투 후 상대와 그 주위를 불태운다
+MSID_Strategy_HolyShield	계략: 성스러운 방패 태세
+MSID_H_Strategy_HolyShield	1턴 동안 2칸 이상 떨어진 적에게 공격받았을\n때, 첫 공격의 대미지를 무효화하는 ｢계략:\n성스러운 방패 태세｣ 커맨드 사용 가능.\n(디미트리와 싱크로 시)
+MSID_H_Strategy_HolyShield_CMD	원거리에서 날아드는\n첫 공격 무효화
+MSID_Strategy_PoisonArrow	계략: 독화살
+MSID_H_Strategy_PoisonArrow	전투 후에 상대와 그 주위 1칸에 있는\n적에게 독을 부여하는\n｢계략: 독화살｣ 커맨드 사용 가능.\n(클로드와 싱크로 시)
+MSID_H_Strategy_PoisonArrow_CMD	전투 후 상대 및\n상대와 인접한 적에게 독 부여
+MSID_WeaponSynchronized	무기 싱크로
+MSID_H_WeaponSynchronized	직접 공격 시, 싱크로 중인 문장사와 같은\n종류의 무기를 장비했으면 공격력+5.\n인게이지 중에는 무기와 상관없이 공격력+5.
+MSID_WeaponSynchronized+	무기 싱크로+
+MSID_H_WeaponSynchronized+	직접 공격 시, 싱크로 중인 문장사와 같은\n종류의 무기를 장비했으면 공격력+7.\n인게이지 중에는 무기와 상관없이 공격력+7.
+MSID_Pedigree	혈통
+MSID_H_Pedigree	획득 경험치 120%.
+MSID_ClassPresidentsEngage	전투 기술
+MSID_H_ClassPresidentsEngage	인게이지 상태의 지속 턴을 소비해\n에델가르트, 디미트리, 클로드 중\n한 명의 특수 공격을 사용하는\n｢전투 기술｣ 커맨드 사용 가능.
+MSID_H_ClassPresidentsEngage_Dragon	인게이지 상태의 지속 턴을 소비해\n에델가르트, 디미트리, 클로드 중\n한 명의 특수 공격을 사용하는\n｢전투 기술｣ 커맨드 사용 가능.\n[용족]대미지 110%.
+MSID_H_ClassPresidentsEngage_Covert	인게이지 상태의 지속 턴을 소비해\n에델가르트, 디미트리, 클로드 중\n한 명의 특수 공격을 사용하는\n｢전투 기술｣ 커맨드 사용 가능.\n[은밀]회피+20.
+MSID_H_ClassPresidentsEngage_CMD	인게이지의 지속 턴을 소비해 특수 공격
+MSID_ClassPresidentsEngage_MadStorm	광풍
+MSID_H_ClassPresidentsEngage_MadStorm_CMD	전투 후 재행동한다(소비 3)
+MSID_ClassPresidentsEngage_Miserable	무참
+MSID_H_ClassPresidentsEngage_Miserable_CMD	공격할 때 무기의 위력 2배(소비 1)
+MSID_ClassPresidentsEngage_FallingStarts	낙성
+MSID_H_ClassPresidentsEngage_FallingStarts_CMD	다음 전투에서 적의 공격을 반드시 회피(소비 1)
+MSID_ClassPresidentsEngageAtk	연화월풍섬
+MSID_H_ClassPresidentsEngageAtk	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.
+MSID_H_ClassPresidentsEngageAtk_Dragon	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.\n[용족]대미지+10%.
+MSID_H_ClassPresidentsEngageAtk_Horse	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.\n[기마]아라드바르의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk_Covert	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.\n[은밀]페일노트의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk_Heavy	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.\n[중갑]아이무르의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk_Prana	아이무르(도끼), 아라드바르(창),\n페일노트(활)로 대미지 50%의 연속 공격.\n[기공]브레이크 확정.
+MSID_H_ClassPresidentsEngageAtk_CMD	도끼, 창, 활로 연속 공격
+MSID_ClassPresidentsEngageAtk+	연화월풍섬+
+MSID_H_ClassPresidentsEngageAtk+	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.
+MSID_H_ClassPresidentsEngageAtk+_Dragon	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.\n[용족]대미지+10%.
+MSID_H_ClassPresidentsEngageAtk+_Horse	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.\n[기마]아라드바르의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk+_Covert	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.\n[은밀]페일노트의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk+_Heavy	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.\n[중갑]아이무르의 대미지+10%.
+MSID_H_ClassPresidentsEngageAtk+_Prana	아라드바르(창), 페일노트(활),\n아이무르(도끼)로 대미지 50%의\n연속 공격을 하고 전투 후 재행동한다.\n[기공]브레이크 확정.
+MSID_H_ClassPresidentsEngageAtk+_CMD	창, 활, 도끼로 연속 공격 후 재행동
+MSID_BallsProtection_Light	광옥의 가호
+MSID_H_BallsProtection_Light	직접 공격 시\n상대의 필살의 일격을 받을 확률이 반감된다.
+MSID_BallsProtection_Star	성옥의 가호
+MSID_H_BallsProtection_Star	레벨 업했을 때\n기본 능력이 오를 확률이 상승한다.
+MSID_BallsProtection_Life	명옥의 가호
+MSID_H_BallsProtection_Life	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 HP 20 회복·상태 이상 회복.
+MSID_BallsProtection_Life+	명옥의 가호+
+MSID_H_BallsProtection_Life+	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 HP 30 회복·상태 이상 회복.
+MSID_BallsProtection_Life++	명옥의 가호++
+MSID_H_BallsProtection_Life++	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 HP 40 회복·상태 이상 회복.
+MSID_BallsProtection_Earth	토옥의 가호
+MSID_H_BallsProtection_Earth	아군 페이즈 개시와 동시에 인접한 아군이\n있으면 자신과 아군의 수비·마방+3.
+MSID_BallsProtection_Earth+	토옥의 가호+
+MSID_H_BallsProtection_Earth+	아군 페이즈 개시와 동시에 인접한 아군이\n있으면 자신과 아군의 수비·마방+5.
+MSID_TikiEngage	용화
+MSID_H_TikiEngage	인게이지 시 용으로 변신해 싸운다.\nHP+10/모든 기본 능력·체격+5.
+MSID_H_TikiEngage_Heavy	인게이지 시 용으로 변신해 싸운다.\nHP+10/모든 기본 능력·체격+5.\n[중갑]지형 대미지를 무효화한다.
+MSID_H_TikiEngage_Magic	인게이지 시 용으로 변신해 싸운다.\nHP+10/모든 기본 능력·체격+5.\n[마도]마방+5.
+MSID_TikiEngageAtk	신룡의 축복
+MSID_H_TikiEngageAtk	아군에게 ｢부활의 돌｣을 1개 부여한다.\n(최대 1명에게만 부여할 수 있다)
+MSID_H_TikiEngageAtk_Dragon	아군에게 ｢부활의 돌｣을 1개 부여한다.\n(최대 1명에게만 부여할 수 있다)\n[용족]HP 20 회복.
+MSID_H_TikiEngageAtk_Prana	아군에게 ｢부활의 돌｣을 1개 부여한다.\n(최대 1명에게만 부여할 수 있다)\n[기공]상태 이상 회복.
+MSID_H_TikiEngageAtk_CMD	아군에게 ｢부활의 돌｣을 1개 부여한다
+MSID_TikiEngageAtk+	신룡의 축복+
+MSID_H_TikiEngageAtk+	아군에게 ｢부활의 돌｣을 1개 부여한다.\n상대가 싱크로 중이 아니라면 HP 전부 회복.\n싱크로 중이라면 인게이지 카운트+3.\n인게이지 중이라면 지속 턴을 전부 회복.
+MSID_H_TikiEngageAtk+_Dragon	아군에게 ｢부활의 돌｣을 1개 부여한다.\n상대가 싱크로 중이 아니라면 HP 전부 회복.\n싱크로 중이라면 인게이지 카운트+3.\n인게이지 중이라면 지속 턴을 전부 회복.\n[용족]HP 20 회복.
+MSID_H_TikiEngageAtk+_Prana	아군에게 ｢부활의 돌｣을 1개 부여한다.\n상대가 싱크로 중이 아니라면 HP 전부 회복.\n싱크로 중이라면 인게이지 카운트+3.\n인게이지 중이라면 지속 턴을 전부 회복.\n[기공]상태 이상 회복.
+MSID_H_TikiEngageAtk+_CMD	아군에게 ｢부활의 돌｣과\n추가 효과를 부여
+MSID_Str_Tec_1	힘·기술+1
+MSID_H_Str_Tec_1	항상 힘과 기술이 1 상승한다.
+MSID_Str_Tec_2	힘·기술+2
+MSID_H_Str_Tec_2	항상 힘과 기술이 2 상승한다.
+MSID_Str_Tec_3	힘·기술+3
+MSID_H_Str_Tec_3	항상 힘과 기술이 3 상승한다.
+MSID_Str_Tec_4	힘·기술+4
+MSID_H_Str_Tec_4	항상 힘과 기술이 4 상승한다.
+MSID_Str_Tec_5	힘·기술+5
+MSID_H_Str_Tec_5	항상 힘과 기술이 5 상승한다.
+MSID_Hp_Lck_2	HP·행운+2
+MSID_H_Hp_Lck_2	항상 HP와 행운이 2 상승한다.
+MSID_Hp_Lck_4	HP·행운+4
+MSID_H_Hp_Lck_4	항상 HP와 행운이 4 상승한다.
+MSID_Hp_Lck_6	HP·행운+6
+MSID_H_Hp_Lck_6	항상 HP와 행운이 6 상승한다.
+MSID_Hp_Lck_8	HP·행운+8
+MSID_H_Hp_Lck_8	항상 HP와 행운이 8 상승한다.
+MSID_Hp_Lck_10	HP·행운+10
+MSID_H_Hp_Lck_10	항상 HP와 행운이 10 상승한다.
+MSID_AntiBowArts_1	궁술 대처 Lv.1
+MSID_H_AntiBowArts_1	활을 장비한 적과 전투했을 때\n받는 대미지-1.
+MSID_AntiBowArts_2	궁술 대처 Lv.2
+MSID_H_AntiBowArts_2	활을 장비한 적과 전투했을 때\n받는 대미지-2.
+MSID_AntiBowArts_3	궁술 대처 Lv.3
+MSID_H_AntiBowArts_3	활을 장비한 적과 전투했을 때\n받는 대미지-3.
+MSID_AntiBowArts_4	궁술 대처 Lv.4
+MSID_H_AntiBowArts_4	활을 장비한 적과 전투했을 때\n받는 대미지-4.
+MSID_AntiBowArts_5	궁술 대처 Lv.5
+MSID_H_AntiBowArts_5	활을 장비한 적과 전투했을 때\n받는 대미지-5.
+MSID_AntiSpecialArts_1	특수 대처 Lv.1
+MSID_H_AntiSpecialArts_1	특수 공격을 사용하는 적과 전투했을 때\n받는 대미지-1.
+MSID_AntiSpecialArts_2	특수 대처 Lv.2
+MSID_H_AntiSpecialArts_2	특수 공격을 사용하는 적과 전투했을 때\n받는 대미지-2.
+MSID_AntiSpecialArts_3	특수 대처 Lv.3
+MSID_H_AntiSpecialArts_3	특수 공격을 사용하는 적과 전투했을 때\n받는 대미지-3.
+MSID_AntiSpecialArts_4	특수 대처 Lv.4
+MSID_H_AntiSpecialArts_4	특수 공격을 사용하는 적과 전투했을 때\n받는 대미지-4.
+MSID_AntiSpecialArts_5	특수 대처 Lv.5
+MSID_H_AntiSpecialArts_5	특수 공격을 사용하는 적과 전투했을 때\n받는 대미지-5.
+MSID_JobSkill_PhantomFlyingDragon	얼음 영역
+MSID_H_JobSkill_PhantomFlyingDragon	아군 페이즈 개시와 동시에 자신의 주위\n2칸에 있는 지형을 ｢결빙｣ 상태로 만든다.
+MAID_Kimono	이국풍 페어 세트
+MAID_KimonoM	이국풍 정장
+MAID_H_KimonoM	이국풍 복장. 새로운 집사의 모습을 그리며 코디네이트한 의상이다.\n점주 피네가 신비한 우물에서 발견한 희귀한 옷을 활용했다.
+MAID_KimonoF	이국풍 에이프런
+MAID_H_KimonoF	이국풍 복장. 소매가 상당히 길기 때문에 활동성을 위해 끈으로 묶여 있다.\n점주 피네가 신비한 우물에서 발견한 희귀한 옷을 활용했다.
+MAID_JpHeadDress	헤드드레스
+MAID_H_JpHeadDress	프릴과 리본이 특징인 헤드드레스. 착용하면 귀여운 인상을 준다.\n머리 모양이 망가지지 않게 잡아 주는 기능도 있어 대청소나 요리를 할 때 추천한다.
+MAID_JpRibbon	빅 리본
+MAID_H_JpRibbon	머리 절반을 가릴 만큼 큰 리본. 존재감에 반해 가볍고 부드러운 데다\n탈착도 편하기 때문에 누구든 부담 없이 착용할 수 있다.
+MAID_JpEarrings	싱글 이어링
+MAID_H_JpEarrings	한쪽만 끼도록 만들어진 이어링. 은근슬쩍 멋을 내고 싶을 때 좋다.\n잘 흔들리게 만들어져 있어 빛을 반사하며 반짝반짝 빛난다.
+MAID_JpGlasses	둥근 은테 안경
+MAID_H_JpGlasses	완벽한 원 모양 테가 특징인 안경. 광택이 나는 은색 금속을 사용했다.\n개성적인 안경에 도전하고 싶은 사람에게 추천한다.
+MID_MAINMENU_DLC	추가 콘텐츠
+MID_MENU_SELECT_BATTLE	전투 개시
+MID_MENU_SELECT_BATTLE_HELP	조우전·회상전을 시작한다
+MID_MENU_ENTER_RECOLLECTION_BATTLE	회상전 시작
+MID_MENU_ENTER_RECOLLECTION_BATTLE_HELP	스토리를 다시 한번 재현해 싸운다
+MID_MENU_ENTER_RECOLLECTION_BATTLE_CONFIRM	회상전을 시작하겠습니까?
+MID_MENU_ENTER_CHOOSE_BATTLE_CONFIRM	어떤 전투를 개시하겠습니까?
+MID_MENU_ENTER_ENCOUNTER_YES	조우전을 시작한다
+MID_MENU_ENTER_RECOLLECTION_YES	회상전을 시작한다
+MID_MENU_TO_OTHER	이동
+MID_MENU_TO_OTHER_HELP	솔라넬 또는 다른 맵으로 이동한다
+MID_MENU_DEPARTURE	출발
+MID_MENU_DEPARTURE_HELP	월드 맵 등으로 이동한다
+MID_GMAP_MapDetails_Reference	참고 턴
+MID_GMAP_MapDetails_ReferenceTurn	\x0E\x01\x00\x00턴
+MGID_Ring_CharacterName_DLC	\x0E\x01\x00\x00의 팔찌
+MID_BONDSRING_Tiki00	이계의 대륙 아카네이아에 사는 용의 후예로\n신룡족의 왕 나가의 딸.
+MID_BONDSRING_Tiki01	오래 잠들어 있었지만 깨어나 마르스 왕자를\n전장에서 만났고, 함께 도루아 제국과 싸웠다.
+MID_BONDSRING_Edelgard00	이계의 땅 포드라에 있는\n아드라스테아 제국의 황위 계승자.
+MID_BONDSRING_Edelgard01	사관학교에서는 흑수리반의 반장을 맡아\n동료를 이끌고 이상을 위해 싸웠다.
+MID_BONDSRING_Dimitri00	이계의 땅 포드라에 있는\n퍼거스 신성 왕국의 왕위 계승자.
+MID_BONDSRING_Dimitri01	사관학교에서는 청사자반의 반장을 맡아\n동료와 함께 고난을 뛰어넘으며 싸웠다.
+MID_BONDSRING_Claude00	이계의 땅 포드라에 있는\n레스터 제후 동맹의 리건 가문 후계자.
+MID_BONDSRING_Claude01	사관학교에서는 금사슴반의 반장을 맡아\n동료를 모아 야망을 실현하기 위해 싸웠다.
+MGID_Ring_Tiki	선대 신룡의 팔찌
+MGID_H_Ring_Tiki	통칭 『용희의 문장사』 치키가 깃든 팔찌.\n신룡족의 피를 잇는 천진난만한 소녀.
+MGID_Ring_Edelgard	3반장의 팔찌
+MGID_H_Ring_Edelgard	통칭 『삼정의 문장사』 에델가르트가 깃든\n팔찌. 고귀함과 위엄을 겸비한 불꽃의 황녀.
+MGID_Ring_Dimitri	3반장의 팔찌
+MGID_H_Ring_Dimitri	통칭 『삼정의 문장사』 디미트리가 깃든 팔찌.\n총명하고 예의 바른 기사의 나라에서 온 왕자.
+MGID_Ring_Claude	3반장의 팔찌
+MGID_H_Ring_Claude	통칭 『삼정의 문장사』 클로드가 깃든 팔찌.\n책략을 좋아하며 자유분방한 맹주 가문의\n적자.
+MGID_World_Tiki	영웅왕의 세계
+MGID_World_Edelgard	인도자의 세계
+MGID_World_Dimitri	인도자의 세계
+MGID_World_Claude	인도자의 세계
+MID_RELAY_Stamp_Tiki_0	실컷 놀자!
+MID_RELAY_Stamp_Edelgard_0	혼자서는 아무것도 해낼 수 없어
+MID_RELAY_Stamp_Dimitri_0	한 걸음씩 나아가자
+MID_RELAY_Stamp_Claude_0	재미있는 걸 준비했어
+MID_Hub_ShopCard_Sale	30% OFF!
+MID_Hub_Portal	포털
+PCTMID_Tiki	계속 같이 있어 줄 거지?
+PCTMID_Edelgard	이기는 건 우리야
+PCTMID_Dimitri	한 걸음씩 나아가자
+PCTMID_Claude	하느냐 하지 않느냐, 잖아?
+MID_Movie_K14	문장사 치키
+MID_H_Movie_K14	『선대 신룡의 팔찌』에서 현현하는\n문장사 치키.
+MID_Movie_K13	문장사 에델가르트
+MID_H_Movie_K13	『3반장의 팔찌』에서 현현하는\n문장사 에델가르트, 문장사 디미트리,\n문장사 클로드.

@@ -1,0 +1,102 @@
+MID_WU_C_1_IN_#001	Es ist Morgen!\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#001	Ah!\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#002	Ihr seid wach.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#003	Lasst uns frühstücken.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#001	Ihr seid davon nicht aufgewacht?\nIhr schlaft echt fest.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#002	Aber das war es dann mit Eurem „Nickerchen“.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#003	Euer Schlaf endet nun. Seid bereit!\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#004	AUFWACHEN!\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#001	Ihr seid aufgestanden.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#002	Bitte frühstückt jetzt.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#003	Ich empfehle Miso-Suppe.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#004	Und Reis, natürlich.\x0E\x04\x00\x00
+MID_WU_C_2_IN_#001	Macht Euch bereit!\x0E\x04\x00\x00
+MID_WU_C_2_IN_#002	Kagetsu persönlich ist hier,\num Euch aufzuwecken!\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#001	Guten Morgen! Oder ist es Abend?\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#002	Ha!\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#003	Ich brauche wohl selbst jemanden,\nder mich weckt!\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#001	Verzeiht meine Verspätung.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#002	Ich habe verschlafen!\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#003	Es ist bereits Abend.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#004	Ich hoffe, Ihr hattet\nkeine wichtigen Dinge zu erledigen!\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#001	Ich sehe meine Zukunft...\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#002	Vander tadelt mich.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#003	Das sollte ich besser vermeiden! Ich muss los!\x0E\x04\x00\x00
+MID_WU_B_1_IN_#001	Wie lange wollt Ihr denn noch schlafen,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche? Wir haben schon Nachmittag!\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#001	Ich wusste, das würde Euch aufwecken.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#002	Mein listiger Plan ist aufgegangen!\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#001	Die Zeit fliegt dahin, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Beeilt Euch!\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#002	Ihr müsst frühstücken!\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#003	Ihr verpasst jedes einzelne Mahl!\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#001	Das war ein Scherz! Es ist Vormittag.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#002	Oh, den Blick kenne ich.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#003	Mhm.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#004	Prinzessin Ivy sieht mich auch oft so an.\x0E\x04\x00\x00
+MID_WU_B_2_IN_#001	Aufwachen!\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#001	Hallo!\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#002	Ihr seid früh auf!\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#003	Werdet Ihr nun mit mir ausgehen?\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#001	Ihr schlaft noch?\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#002	Ich habe noch mehr Fragen für Euch.\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#003	Nun...\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#004	Das kann bis nachher warten.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#001	Ah.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#002	Noch müde, wie ich sehe.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#003	Ruht Euch aus.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#004	Ich sorge dafür, dass Ihr nicht gestört werdet.\x0E\x04\x00\x00
+MID_WU_A_1_IN_#001	Morgenstund hat Gold im Mund,\nwie man so schön sagt!\x0E\x04\x00\x00
+MID_WU_A_1_IN_#002	Wer Euch zu dieser Stunde verlangt?\nIch bin es, Kagetsu von Elusia!\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#001	Ich habe Euch erfolgreich wecken können.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#002	Gut! Wir haben viel zu besprechen.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#001	Ihr habt Euch anscheinend\nan meine Stimme gewöhnt.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#002	\x0E\x0A\x00*\x14Göttlicher\x12Göttliche?\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#003	Ihr seid doch noch am Leben, oder?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#001	Puh, Ihr seid aufgewacht!\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#002	Wenn Ihr das nicht wärt...\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#003	wäre ich außer mir!\x0E\x04\x00\x00
+MID_WU_A_2_IN_#001	Ich bin hier!\x0E\x04\x00\x00
+MID_WU_A_2_IN_#002	Ich werde unser Band der Freundschaft ehren\nund Euch aufwecken.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#001	Raus aus den Federn!\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#002	Exzellent.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#003	Heute wird ein guter Tag.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#001	Ihr sagtet, dass Freunde einander\nin ihren dunkelsten Momenten helfen.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#002	Diese Worte haben mich verändert.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#003	Ich danke Euch für Eure Weisheit, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#001	I-Ihr habt das alles gehört?\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#002	Macht nichts. Ich meinte es, wie ich es sagte.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#003	Und ich werde Euch auch\nin Euren dunkelsten Momenten helfen!\x0E\x04\x00\x00
+MID_WU_S_1_IN_#001	\x0E\x0A\x00\*Mein liebster Partner.Meine liebste Partnerin!\x0E\x04\x00\x00
+MID_WU_S_1_IN_#002	Ich liebe es, Euch so zu nennen.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#001	War ich gerade zu laut? Bitte verzeiht.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#002	Ich war glücklich, Euch zu sehen.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#003	Erlaubt mir, es wiedergutzumachen.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#004	Hier, ich werde Euch etwas sanfter begrüßen.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#005	Guten Morgen.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#001	Ich merke, dass meine Stimme\nEuch nicht mehr weckt!\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#002	Ihr habt Euch an mich gewöhnt.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#003	Das sollte man in einer Partnerschaft\nerwarten können.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#004	Es macht mich glücklich!\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#005	Diese Liebe mag uns beide überrascht haben,\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#006	aber jedes Mal, wenn ich den Paktring\nan meiner Hand sehe, bin ich von Glück erfüllt.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#007	Ich liebe Euch, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#001	\x0E\x0A\x00:\x18Mein Partner\x1EMeine Partnerin ist wach.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#002	Ich werde für die richtige Stimmung sorgen.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#003	An diesem Tag, und an jedem anderen Tag,\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#004	werde ich Euch meine Liebe\nund meine Fähigkeiten widmen.\x0E\x04\x00\x00
+MID_WU_S_2_IN_#001	Ich bin früh dran! Ich wollte nicht warten.\x0E\x04\x00\x00
+MID_WU_S_2_IN_#002	Darf ich reinkommen?\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#001	\x0E\x0A\x00:\x18Mein Partner\x1EMeine Partnerin ist schon wach?\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#002	In aller Frühe.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#003	Ich möchte Euch halten und niemals wieder\nloslassen, aber das muss ich wohl...\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#004	Irgendwann.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#001	Schläft tief und fest.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#002	Wenn \x0E\x0A\x00\*mein liebster Partner.meine liebste Partnerin doch nur nicht\nin all den Schlachten kämpfen müsste.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#003	Ich wünschte, ich könnte Euch\nEuren Schmerz nehmen.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#004	Aber ich weiß, dass Ihr viel zu warmherzig und\ngroßzügig seid, um damit zufrieden zu sein.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#005	Was immer Ihr auch ertragen müsst,\num stärker zu werden – ich muss es zulassen.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#006	So ärgerlich es auch sein mag.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#001	Guten Morgen!\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#002	Seid Ihr bereit für die heutigen Schlachten?\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#003	Ich kenne ein Geheimnis.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#004	In der Zukunft, die ich sah,\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#005	lebten wir glücklich bis in alle Tage.\x0E\x04\x00\x00

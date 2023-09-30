@@ -1,0 +1,924 @@
+MSID_Hp_5	KP +5
+MSID_H_Hp_5	Verleiht max. KP +5.
+MSID_Hp_7	KP +7
+MSID_H_Hp_7	Verleiht max. KP +7.
+MSID_Hp_10	KP +10
+MSID_H_Hp_10	Verleiht max. KP +10.
+MSID_Hp_12	KP +12
+MSID_H_Hp_12	Verleiht max. KP +12.
+MSID_Hp_15	KP +15
+MSID_H_Hp_15	Verleiht max. KP +15.
+MSID_Str_1	Stärke +1
+MSID_H_Str_1	Verleiht Stä. +1.
+MSID_Str_2	Stärke +2
+MSID_H_Str_2	Verleiht Stä. +2.
+MSID_Str_3	Stärke +3
+MSID_H_Str_3	Verleiht Stä. +3.
+MSID_Str_4	Stärke +4
+MSID_H_Str_4	Verleiht Stä. +4.
+MSID_Str_5	Stärke +5
+MSID_H_Str_5	Verleiht Stä. +5.
+MSID_Str_6	Stärke +6
+MSID_H_Str_6	Verleiht Stä. +6.
+MSID_Tec_1	Behändigkeit +1
+MSID_H_Tec_1	Verleiht Beh. +1.
+MSID_Tec_2	Behändigkeit +2
+MSID_H_Tec_2	Verleiht Beh. +2.
+MSID_Tec_3	Behändigkeit +3
+MSID_H_Tec_3	Verleiht Beh. +3.
+MSID_Tec_4	Behändigkeit +4
+MSID_H_Tec_4	Verleiht Beh. +4.
+MSID_Tec_5	Behändigkeit +5
+MSID_H_Tec_5	Verleiht Beh. +5.
+MSID_Spd_1	Ges. +1
+MSID_H_Spd_1	Verleiht Geschwindigkeit +1.
+MSID_Spd_2	Ges. +2
+MSID_H_Spd_2	Verleiht Geschwindigkeit +2.
+MSID_Spd_3	Ges. +3
+MSID_H_Spd_3	Verleiht Geschwindigkeit +3.
+MSID_Spd_4	Ges. +4
+MSID_H_Spd_4	Verleiht Geschwindigkeit +4.
+MSID_Spd_5	Ges. +5
+MSID_H_Spd_5	Verleiht Geschwindigkeit +5.
+MSID_Lck_2	Glück +2
+MSID_H_Lck_2	Verleiht Glk. +2.
+MSID_Lck_4	Glück +4
+MSID_H_Lck_4	Verleiht Glk. +4.
+MSID_Lck_6	Glück +6
+MSID_H_Lck_6	Verleiht Glk. +6.
+MSID_Lck_8	Glück +8
+MSID_H_Lck_8	Verleiht Glk. +8.
+MSID_Lck_10	Glück +10
+MSID_H_Lck_10	Verleiht Glk. +10.
+MSID_Lck_12	Glück +12
+MSID_H_Lck_12	Verleiht Glk. +12.
+MSID_Def_1	Verteidigung +1
+MSID_H_Def_1	Verleiht Ver. +1.
+MSID_Def_2	Verteidigung +2
+MSID_H_Def_2	Verleiht Ver. +2.
+MSID_Def_3	Verteidigung +3
+MSID_H_Def_3	Verleiht Ver. +3.
+MSID_Def_4	Verteidigung +4
+MSID_H_Def_4	Verleiht Ver. +4.
+MSID_Def_5	Verteidigung +5
+MSID_H_Def_5	Verleiht Ver. +5.
+MSID_Mag_2	Magie +2
+MSID_H_Mag_2	Verleiht Mag. +2.
+MSID_Mag_3	Magie +3
+MSID_H_Mag_3	Verleiht Mag. +3.
+MSID_Mag_4	Magie +4
+MSID_H_Mag_4	Verleiht Mag. +4.
+MSID_Mag_5	Magie +5
+MSID_H_Mag_5	Verleiht Mag. +5.
+MSID_Res_2	Resistenz +2
+MSID_H_Res_2	Verleiht Res. +2.
+MSID_Res_3	Resistenz +3
+MSID_H_Res_3	Verleiht Res. +3.
+MSID_Res_4	Resistenz +4
+MSID_H_Res_4	Verleiht Res. +4.
+MSID_Res_5	Resistenz +5
+MSID_H_Res_5	Verleiht Res. +5.
+MSID_Phy_3	Figur +3
+MSID_H_Phy_3	Verleiht Fig. +3
+MSID_Phy_4	Figur +4
+MSID_H_Phy_4	Verleiht Fig. +4
+MSID_Phy_5	Figur +5
+MSID_H_Phy_5	Verleiht Fig. +5
+MSID_Mov_1	Bewegung +1
+MSID_H_Mov_1	Verleiht Bew. +1.
+MSID_Avo_10	Ausweichen +10
+MSID_H_Avo_10	Verleiht Aw. +10.
+MSID_Avo_15	Ausweichen +15
+MSID_H_Avo_15	Verleiht Aw. +15.
+MSID_Avo_20	Ausweichen +20
+MSID_H_Avo_20	Verleiht Aw. +20.
+MSID_Avo_25	Ausweichen +25
+MSID_H_Avo_25	Verleiht Aw. +25.
+MSID_Avo_30	Ausweichen +30
+MSID_H_Avo_30	Verleiht Aw. +30.
+MSID_Hit_10	Treffer +10
+MSID_H_Hit_10	Verleiht Trf. +10.
+MSID_Hit_15	Treffer +15
+MSID_H_Hit_15	Verleiht Trf. +15.
+MSID_Hit_20	Treffer +20
+MSID_H_Hit_20	Verleiht Trf. +20.
+MSID_Hit_25	Treffer +25
+MSID_H_Hit_25	Verleiht Trf. +25.
+MSID_Hit_30	Treffer +30
+MSID_H_Hit_30	Verleiht Trf. +30.
+MSID_CriAvo_10	Krit. Ausw. +10
+MSID_H_CriAvo_10	Verleiht Krit. Aw. +10.
+MSID_CriAvo_15	Krit. Ausw. +15
+MSID_H_CriAvo_15	Verleiht Krit. Aw. +15.
+MSID_CriAvo_20	Krit. Ausw. +20
+MSID_H_CriAvo_20	Verleiht Krit. Aw. +20.
+MSID_CriAvo_25	Krit. Ausw. +25
+MSID_H_CriAvo_25	Verleiht Krit. Aw. +25.
+MSID_CriAvo_30	Krit. Ausw. +30
+MSID_H_CriAvo_30	Verleiht Krit. Aw. +30.
+MSID_SwordArts_Soft_1	Schwertagilität 1
+MSID_H_SwordArts_Soft_1	Die Einheit erhält Aw. +10 und\nerleidet Krit. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Soft_2	Schwertagilität 2
+MSID_H_SwordArts_Soft_2	Die Einheit erhält Aw. +15 und\nerleidet Krit. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Soft_3	Schwertagilität 3
+MSID_H_SwordArts_Soft_3	Die Einheit erhält Aw. +20 und\nerleidet Krit. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Soft_4	Schwertagilität 4
+MSID_H_SwordArts_Soft_4	Die Einheit erhält Aw. +25 und\nerleidet Krit. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Soft_5	Schwertagilität 5
+MSID_H_SwordArts_Soft_5	Die Einheit erhält Aw. +30 und\nerleidet Krit. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Hard_1	Schwertkraft 1
+MSID_H_SwordArts_Hard_1	Die Einheit erhält Agr. +2 und\nerleidet Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Hard_2	Schwertkraft 2
+MSID_H_SwordArts_Hard_2	Die Einheit erhält Agr. +4 und\nerleidet Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Hard_3	Schwertkraft 3
+MSID_H_SwordArts_Hard_3	Die Einheit erhält Agr. +6 und\nerleidet Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Hard_4	Schwertkraft 4
+MSID_H_SwordArts_Hard_4	Die Einheit erhält Agr. +8 und\nerleidet Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Hard_5	Schwertkraft 5
+MSID_H_SwordArts_Hard_5	Die Einheit erhält Agr. +10 und\nerleidet Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Mind_1	Schwertfokus 1
+MSID_H_SwordArts_Mind_1	Die Einheit erhält Trf. +10 und\nerleidet Krit. Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Mind_2	Schwertfokus 2
+MSID_H_SwordArts_Mind_2	Die Einheit erhält Trf. +15 und\nerleidet Krit. Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Mind_3	Schwertfokus 3
+MSID_H_SwordArts_Mind_3	Die Einheit erhält Trf. +20 und\nerleidet Krit. Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Mind_4	Schwertfokus 4
+MSID_H_SwordArts_Mind_4	Die Einheit erhält Trf. +25 und\nerleidet Krit. Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_SwordArts_Mind_5	Schwertfokus 5
+MSID_H_SwordArts_Mind_5	Die Einheit erhält Trf. +30 und\nerleidet Krit. Aw. -10, wenn sie ein\nSchwert verwendet.
+MSID_LanceArts_Soft_1	Lanzenagilität 1
+MSID_H_LanceArts_Soft_1	Die Einheit erhält Aw. +10 und\nerleidet Krit. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Soft_2	Lanzenagilität 2
+MSID_H_LanceArts_Soft_2	Die Einheit erhält Aw. +15 und\nerleidet Krit. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Soft_3	Lanzenagilität 3
+MSID_H_LanceArts_Soft_3	Die Einheit erhält Aw. +20 und\nerleidet Krit. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Soft_4	Lanzenagilität 4
+MSID_H_LanceArts_Soft_4	Die Einheit erhält Aw. +25 und\nerleidet Krit. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Soft_5	Lanzenagilität 5
+MSID_H_LanceArts_Soft_5	Die Einheit erhält Aw. +30 und\nerleidet Krit. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Hard_1	Lanzenkraft 1
+MSID_H_LanceArts_Hard_1	Die Einheit erhält Agr. +2 und\nerleidet Aw. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Hard_2	Lanzenkraft 2
+MSID_H_LanceArts_Hard_2	Die Einheit erhält Agr. +4 und\nerleidet Aw. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Hard_3	Lanzenkraft 3
+MSID_H_LanceArts_Hard_3	Die Einheit erhält Agr. +6 und\nerleidet Aw. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Hard_4	Lanzenkraft 4
+MSID_H_LanceArts_Hard_4	Die Einheit erhält Agr. +8 und\nerleidet Aw. -10, wenn sie eine\nLanze verwendet.
+MSID_LanceArts_Hard_5	Lanzenkraft 5
+MSID_H_LanceArts_Hard_5	Die Einheit erhält Agr. +10 und\nerleidet Aw. -10, wenn sie eine\nLanze verwendet.
+MSID_AxeArts_Hard_1	Axtkraft 1
+MSID_H_AxeArts_Hard_1	Die Einheit erhält Agr. +2 und\nerleidet Aw. -10, wenn sie eine Axt\nverwendet.
+MSID_AxeArts_Hard_2	Axtkraft 2
+MSID_H_AxeArts_Hard_2	Die Einheit erhält Agr. +4 und\nerleidet Aw. -10, wenn sie eine Axt\nverwendet.
+MSID_AxeArts_Hard_3	Axtkraft 3
+MSID_H_AxeArts_Hard_3	Die Einheit erhält Agr. +6 und\nerleidet Aw. -10, wenn sie eine Axt\nverwendet.
+MSID_AxeArts_Hard_4	Axtkraft 4
+MSID_H_AxeArts_Hard_4	Die Einheit erhält Agr. +8 und\nerleidet Aw. -10, wenn sie eine Axt\nverwendet.
+MSID_AxeArts_Hard_5	Axtkraft 5
+MSID_H_AxeArts_Hard_5	Die Einheit erhält Agr. +10 und\nerleidet Aw. -10, wenn sie eine Axt\nverwendet.
+MSID_BowArts_Soft_1	Bogenagilität 1
+MSID_H_BowArts_Soft_1	Die Einheit erhält Aw. +10 und\nerleidet Krit. -10, wenn sie einen\nBogen verwendet.
+MSID_BowArts_Soft_2	Bogenagilität 2
+MSID_H_BowArts_Soft_2	Die Einheit erhält Aw. +15 und\nerleidet Krit. -10, wenn sie einen\nBogen verwendet.
+MSID_BowArts_Soft_3	Bogenagilität 3
+MSID_H_BowArts_Soft_3	Die Einheit erhält Aw. +20 und\nerleidet Krit. -10, wenn sie einen\nBogen verwendet.
+MSID_BowArts_Soft_4	Bogenagilität 4
+MSID_H_BowArts_Soft_4	Die Einheit erhält Aw. +25 und\nerleidet Krit. -10, wenn sie einen\nBogen verwendet.
+MSID_BowArts_Soft_5	Bogenagilität 5
+MSID_H_BowArts_Soft_5	Die Einheit erhält Aw. +30 und\nerleidet Krit. -10, wenn sie einen\nBogen verwendet.
+MSID_BowArts_Mind_1	Bogenfokus 1
+MSID_H_BowArts_Mind_1	Die Einheit erhält Trf. +10 und\nerleidet Krit. Aw. -10, wenn sie\neinen Bogen verwendet.
+MSID_BowArts_Mind_2	Bogenfokus 2
+MSID_H_BowArts_Mind_2	Die Einheit erhält Trf. +15 und\nerleidet Krit. Aw. -10, wenn sie\neinen Bogen verwendet.
+MSID_BowArts_Mind_3	Bogenfokus 3
+MSID_H_BowArts_Mind_3	Die Einheit erhält Trf. +20 und\nerleidet Krit. Aw. -10, wenn sie\neinen Bogen verwendet.
+MSID_BowArts_Mind_4	Bogenfokus 4
+MSID_H_BowArts_Mind_4	Die Einheit erhält Trf. +25 und\nerleidet Krit. Aw. -10, wenn sie\neinen Bogen verwendet.
+MSID_BowArts_Mind_5	Bogenfokus 5
+MSID_H_BowArts_Mind_5	Die Einheit erhält Trf. +30 und\nerleidet Krit. Aw. -10, wenn sie\neinen Bogen verwendet.
+MSID_MartialArts_Mind_1	Nahkampffokus 1
+MSID_H_MartialArts_Mind_1	Die Einheit erhält Trf. +10 und\nerleidet Krit. Aw. -10, wenn sie eine\nNahkampftechnik anwendet.
+MSID_MartialArts_Mind_2	Nahkampffokus 2
+MSID_H_MartialArts_Mind_2	Die Einheit erhält Trf. +15 und\nerleidet Krit. Aw. -10, wenn sie eine\nNahkampftechnik anwendet.
+MSID_MartialArts_Mind_3	Nahkampffokus 3
+MSID_H_MartialArts_Mind_3	Die Einheit erhält Trf. +20 und\nerleidet Krit. Aw. -10, wenn sie eine\nNahkampftechnik anwendet.
+MSID_MartialArts_Mind_4	Nahkampffokus 4
+MSID_H_MartialArts_Mind_4	Die Einheit erhält Trf. +25 und\nerleidet Krit. Aw. -10, wenn sie eine\nNahkampftechnik anwendet.
+MSID_MartialArts_Mind_5	Nahkampffokus 5
+MSID_H_MartialArts_Mind_5	Die Einheit erhält Trf. +30 und\nerleidet Krit. Aw. -10, wenn sie eine\nNahkampftechnik anwendet.
+MSID_KnifeArts_1	Messerpräzision 1
+MSID_H_KnifeArts_1	Die Einheit erhält Trf./Aw. +3,\nwenn sie ein Messer verwendet.
+MSID_KnifeArts_2	Messerpräzision 2
+MSID_H_KnifeArts_2	Die Einheit erhält Trf./Aw. +5,\nwenn sie ein Messer verwendet.
+MSID_KnifeArts_3	Messerpräzision 3
+MSID_H_KnifeArts_3	Die Einheit erhält Trf./Aw. +7,\nwenn sie ein Messer verwendet.
+MSID_KnifeArts_4	Messerpräzision 4
+MSID_H_KnifeArts_4	Die Einheit erhält Trf./Aw. +10,\nwenn sie ein Messer verwendet.
+MSID_KnifeArts_5	Messerpräzision 5
+MSID_H_KnifeArts_5	Die Einheit erhält Trf./Aw. +15,\nwenn sie ein Messer verwendet.
+MSID_MagicArts_1	Buchpräzision 1
+MSID_H_MagicArts_1	Die Einheit erhält Trf./Aw. +3,\nwenn sie ein Buch verwendet.
+MSID_MagicArts_2	Buchpräzision 2
+MSID_H_MagicArts_2	Die Einheit erhält Trf./Aw. +5,\nwenn sie ein Buch verwendet.
+MSID_MagicArts_3	Buchpräzision 3
+MSID_H_MagicArts_3	Die Einheit erhält Trf./Aw. +7,\nwenn sie ein Buch verwendet.
+MSID_MagicArts_4	Buchpräzision 4
+MSID_H_MagicArts_4	Die Einheit erhält Trf./Aw. +10,\nwenn sie ein Buch verwendet.
+MSID_MagicArts_5	Buchpräzision 5
+MSID_H_MagicArts_5	Die Einheit erhält Trf./Aw. +15,\nwenn sie ein Buch verwendet.
+MSID_RodArts_1	Stabkunst 1
+MSID_H_RodArts_1	Verleiht der Einheit Trf. +10, wenn\nsie einen Stab verwendet. Stäbe\nstellen 3 zusätzliche KP wieder her.
+MSID_RodArts_2	Stabkunst 2
+MSID_H_RodArts_2	Verleiht der Einheit Trf. +15, wenn\nsie einen Stab verwendet. Stäbe\nstellen 5 zusätzliche KP wieder her.
+MSID_RodArts_3	Stabkunst 3
+MSID_H_RodArts_3	Verleiht der Einheit Trf. +20, wenn\nsie einen Stab verwendet. Stäbe\nstellen 7 zusätzliche KP wieder her.
+MSID_RodArts_4	Stabkunst 4
+MSID_H_RodArts_4	Verleiht der Einheit Trf. +25, wenn\nsie einen Stab verwendet. Stäbe\nstellen 10 zusätzliche KP wieder her.
+MSID_RodArts_5	Stabkunst 5
+MSID_H_RodArts_5	Verleiht der Einheit Trf. +30, wenn\nsie einen Stab verwendet. Stäbe\nstellen 15 zusätzliche KP wieder her.
+MSID_Outclass_1	Aufmerksamkeit
+MSID_H_Outclass_1	Initiiert die Einheit den Kampf, erhält\nsie Aw. +15 im Kampf.\nAw. erhöht sich bei hohem\nGes.-Wert.
+MSID_Outclass_2	Aufmerksamkeit+
+MSID_H_Outclass_2	Initiiert die Einheit den Kampf, erhält\nsie Aw. +30 im Kampf.\nAw. erhöht sich bei hohem\nGes.-Wert.
+MSID_Fortitude_1	Unbeugsamkeit
+MSID_H_Fortitude_1	Sind die KP zu Beginn der Spieler-\nphase ≦ 20 %, werden 20 % der\nmaximalen KP der Einheit wiederher-\ngestellt.
+MSID_Fortitude_2	Unbeugsamkeit+
+MSID_H_Fortitude_2	Sind die KP zu Beginn der Spieler-\nphase ≦ 30 %, werden 30 % der\nmaximalen KP der Einheit wiederher-\ngestellt.
+MSID_Fortitude_3	Unbeugsamkeit++
+MSID_H_Fortitude_3	Sind die KP zu Beginn der Spieler-\nphase ≦ 40 %, werden 40 % der\nmaximalen KP der Einheit wiederher-\ngestellt.
+MSID_MarthEngage	Göttliche Schnelle
+MSID_H_MarthEngage	Die Einheit führt im Kampf einen\nzusätzlichen Folgeangriff mit\nSchaden = 50 % aus.
+MSID_H_MarthEngage_Covert	Die Einheit führt im Kampf einen\nzusätzlichen Folgeangriff mit\nSchaden = 50 % aus.\nVerstohlene: Trifft der zusätzliche\nFolgeangriff, wird Gegner vergiftet.
+MSID_H_MarthEngage_Dragon	Die Einheit führt im Kampf einen\nzusätzlichen Folgeangriff mit\nSchaden = 50 % aus.\nDrache: Einheit erhält KP in Höhe\nd. Schadens durch den Folgeangriff.
+MSID_BreakPursuit	Verteidigungsbruch
+MSID_H_BreakPursuit	Wenn die Einheit den Gegner bricht,\nführt sie einen Folgeangriff mit\nSchaden = 50 % aus.
+MSID_MarthEngageAtk	Sternenlord-Blitz
+MSID_H_MarthEngageAtk	Die Einheit führt 7 Angriffe in Folge\nmit dem Schwert aus, die je 30 %\nSchaden zufügen. Nur bei benach-\nbarten Gegnern.
+MSID_H_MarthEngageAtk_Dragon	Die Einheit führt 7 Angriffe in Folge\nmit dem Schwert aus, die je 30 %\nSchaden zufügen. Nur bei benach-\nbarten Gegnern.\nDrache: +2 Angriffe.
+MSID_H_MarthEngageAtk_Coop	Die Einheit führt 7 Angriffe in Folge\nmit dem Schwert aus, die je 30 %\nSchaden zufügen. Nur bei benach-\nbarten Gegnern.\nAssistent: +1 Angriffe.
+MSID_H_MarthEngageAtk_Magic	Die Einheit führt 7 Angriffe in Folge\nmit dem Schwert aus, die je 30 %\nSchaden zufügen. Nur bei benach-\nbarten Gegnern. – Mystische:\nSchaden basiert auf Mag.-Wert
+MSID_H_MarthEngageAtk_CMD	Greift mit Schauer aus Hieben an.
+MSID_Remove_1	Kanter
+MSID_H_Remove_1	Die Einheit kann sich nach ihrer\nAktion 2 Felder weit bewegen.
+MSID_Remove_2	Kanter+
+MSID_H_Remove_2	Die Einheit kann sich nach ihrer\nAktion 3 Felder weit bewegen.
+MSID_Approach_1	Kraftimpuls
+MSID_H_Approach_1	Verleiht Angr. +1 im ersten Angriff\ndes Kampfes für jedes Feld, über\ndas sich die Einheit vor dem\nAngriff bewegt hat (max. +10).
+MSID_Approach_2	Kraftimpuls+
+MSID_H_Approach_2	Verleiht Angr. +1 im ersten Angriff\ndes Kampfes für jedes Feld, über\ndas sich die Einheit vor dem\nAngriff bewegt hat.
+MSID_Rush	Wilder Ritt
+MSID_H_Rush	Verleiht Immunität gegen Einfrieren.
+MSID_SigludEngage	Galopp
+MSID_H_SigludEngage	Verleiht Bew. +5.
+MSID_H_SigludEngage_Dragon	Verleiht Bew. +5.\nDrache: Verleiht zusätzlich Bew. +1.
+MSID_H_SigludEngage_Horse	Verleiht Bew. +5.\nBerittene: Verleiht zusätzlich\nBew. +2.
+MSID_H_SigludEngage_Covert	Verleiht Bew. +5.\nVerstohlene: Für die Einheit fallen\nauf jedem Gelände keine weiteren\nBewegungskosten an.
+MSID_SigludEngageAtk	Überreiten
+MSID_H_SigludEngageAtk	Die Einheit kann alle benachbarten\nGegner in einer Reihe angreifen und\nsich auf ihre gegenüberliegende Seite\nbegeben. Nur Schwert/Lanze.
+MSID_H_SigludEngageAtk_Dragon	Die Einheit kann alle benachbarten\nGegner in einer Reihe angreifen und\nsich auf ihre gegenüberliegende Seite\nbegeben. Nur Schwert/Lanze.\nDrache: Fügt Schaden +20 % zu.
+MSID_H_SigludEngageAtk_Heavy	Die Einheit kann alle benachbarten\nGegner in einer Reihe angreifen und\nsich auf ihre gegenüberliegende Seite\nbegeben. Nur Schwert/Lanze. Gepan-\nzerte: 10 % Chance, Ziel zu brechen.
+MSID_H_SigludEngageAtk_Magic	Die Einheit kann alle benachbarten\nGegner in einer Reihe angreifen und\nsich auf ihre gegenüberliegende Seite\nbegeben. Nur Schwert/Lanze.\nMystische: Schaden +25 % von Mag.
+MSID_H_SigludEngageAtk_Prana	Die Einheit kann alle benachbarten\nGegner in einer Reihe angreifen und\nsich auf ihre gegenüberliegende Seite\nbegeben. Nur Schwert/Lanze. Qi-\nAdept: 20 % Chance, Ziel zu brechen.
+MSID_H_SigludEngageAtk_CMD	Ein Angriff in Bewegung.
+MSID_M011_SigludEngage_DarkSide	Dunkler Galopp
+MSID_H_M011_SigludEngage_DarkSide	Verleiht Bew. +3.
+MSID_EvilCounter_1	Heilige Haltung
+MSID_H_EvilCounter_1	Wird die Einheit von einem\nVerzerrten angegriffen, fügt sie dem\nGegner 10 % des erlittenen\nSchadens zu.
+MSID_EvilCounter_2	Heilige Haltung+
+MSID_H_EvilCounter_2	Wird die Einheit von einem\nVerzerrten angegriffen, fügt sie dem\nGegner 30 % des erlittenen\nSchadens zu.
+MSID_EvilCounter_3	Heilige Haltung++
+MSID_H_EvilCounter_3	Wird die Einheit von einem\nVerzerrten angegriffen, fügt sie dem\nGegner 50 % des erlittenen\nSchadens zu.
+MSID_BlackMagic_1	Resonanz
+MSID_H_BlackMagic_1	Ist die Einheit mit einem Buch ausge-\nrüstet und hat mindestens 2 KP, ver-\nliert sie zu Beginn des Kampfes 1 KP\nund fügt +2 Schaden im Kampf zu.
+MSID_BlackMagic_2	Resonanz+
+MSID_H_BlackMagic_2	Ist die Einheit mit einem Buch ausge-\nrüstet und hat mindestens 2 KP, ver-\nliert sie zu Beginn des Kampfes 1 KP\nund fügt +3 Schaden im Kampf zu.
+MSID_FavoriteFood	Leibspeise
+MSID_H_FavoriteFood	Isst die Einheit eine Ration,\nfüllt sich ihre Bündnisleiste\nvollständig.
+MSID_CelicaEngage	Echo
+MSID_H_CelicaEngage	Erlaubt einen Angriff mit Magie, der\n50 % Schaden zufügt. Erlaubt einen\nzweiten Angriff, der erneut 50 %\nSchaden zufügt.
+MSID_H_CelicaEngage_Dragon	Erlaubt einen Angriff mit Magie, der\n50 % Schaden zufügt. Erlaubt einen\nzweiten Angriff, der erneut 50 %\nSchaden zufügt.\nDrache: Reichweite +1.
+MSID_H_CelicaEngage_Magic	Erlaubt einen Angriff mit Magie, der\n50 % Schaden zufügt. Erlaubt einen\nzweiten Angriff, der erneut 50 %\nSchaden zufügt.\nMystische: Fügt Schaden +10 % zu.
+MSID_H_CelicaEngage_CMD	Zwei separate Angriffe.
+MSID_CelicaEngageAtk	Teleport-Ragna
+MSID_H_CelicaEngageAtk	Erlaubt der Einheit, sich 10 Felder\nweit zu teleportieren und eine starke\nmagische Attacke auszuführen.
+MSID_H_CelicaEngageAtk_Dragon	Erlaubt der Einheit, sich 10 Felder\nweit zu teleportieren und eine starke\nmagische Attacke auszuführen.\nDrache: Angriffsreichweite +1.
+MSID_H_CelicaEngageAtk_Horse	Erlaubt der Einheit, sich 10 Felder\nweit zu teleportieren und eine starke\nmagische Attacke auszuführen.\nBerittene: Teleportdistanz +2.
+MSID_H_CelicaEngageAtk_Fly	Erlaubt der Einheit, sich 10 Felder\nweit zu teleportieren und eine starke\nmagische Attacke auszuführen.\nFlieger: Teleportdistanz +5.
+MSID_H_CelicaEngageAtk_Magic	Erlaubt der Einheit, sich 10 Felder\nweit zu teleportieren und eine starke\nmagische Attacke auszuführen.\nMystische: Fügen Schaden +20 % zu.
+MSID_H_CelicaEngageAtk_CMD	Weiter Teleport, dann Angriff.
+MSID_M011_CelicaEngageAtk_DarkSide	Dunkler Teleport
+MSID_CelicaEngageAtk_DarkSide	Ragna-Teleport
+MSID_H_CelicaEngageAtk_DarkSide	Die Einheit führt eine kraftvolle\nmagische Attacke aus und tele-\nportiert sich danach an eine andere\nStelle der Karte.
+MSID_H_CelicaEngageAtk_DarkSide_CMD	Angriff, danach Teleport.
+MSID_H_M011_CelicaEngageAtk_DarkSide	Die Einheit teleportiert sich über\n5 Felder hinweg und führt eine\nkraftvolle magische Attacke aus.
+MSID_EvilCounter_3_DarkSide	Heillose Haltung
+MSID_H_EvilCounter_3_DarkSide	Greift ein Gegner, der kein Verzerrter\nist, die Einheit an, fügt die Einheit\ndem Gegner 50 % des erlittenen\nSchadens zu.
+MSID_EquipRod_1	Geistliche
+MSID_H_EquipRod_1	Die Einheit kann Stäbe bis Level C\nverwenden.
+MSID_EquipRod_2	Geistliche+
+MSID_H_EquipRod_2	Die Einheit kann Stäbe bis Level B\nverwenden.
+MSID_EquipRod_3	Geistliche++
+MSID_H_EquipRod_3	Die Einheit kann Stäbe bis Level A\nverwenden.
+MSID_Silenceproof	Schweigebann
+MSID_H_Silenceproof	Verleiht Immunität gegenüber\nSchweigen.
+MSID_HealingResonance	Heilendes Licht
+MSID_H_HealingResonance	Heilt die Einheit einen Verbündeten\nmittels Stab, erhält sie KP = 50 %\nder wiederhergestellten Menge.
+MSID_MicaiahEngage	Weitung
+MSID_H_MicaiahEngage	Erhöht die Reichweite des Stabes\num 5 und den Bereich des Effekts\num +1.
+MSID_H_MicaiahEngage_Dragon	Erhöht die Reichweite des Stabes\num 5 und den Bereich des Effekts\num +1.\nDrache: Zusätzliche Reichweite +1.
+MSID_H_MicaiahEngage_Prana	Erhöht die Reichweite des Stabes\num 5 und den Bereich des Effekts\num +1.\nQi-Adept: Stäbe stellen +20 % KP\nwieder her.
+MSID_MicaiahEngageAtk	Großes Opfer
+MSID_H_MicaiahEngageAtk	Heilt alle KP aller verb. Einh., auch\nder nicht vom Spieler kontrollierten.\nNach Einsatz: KP der Einheit = 1.
+MSID_H_MicaiahEngageAtk_Dragon	Heilt alle KP aller verb. Einh., auch\nder nicht vom Spieler kontrollierten.\nNach Einsatz: KP der Einheit = 1.\nDrache: KP der Einheit = 30 % der\naktuellen KP.
+MSID_H_MicaiahEngageAtk_Heavy	Heilt alle KP aller verb. Einh., auch\nder nicht vom Spieler kontrollierten.\nNach Einsatz: KP der Einheit = 1.\nGepanzerte: Verleiht allen Geheilten\nin ihrem nächsten Kampf Ver. +1.
+MSID_H_MicaiahEngageAtk_Prana	Heilt alle KP aller verb. Einh., auch\nder nicht vom Spieler kontrollierten.\nNach Einsatz: KP der Einheit = 1.\nQi-Adept: Heilt auch Statusver-\nänderungen.
+MSID_H_MicaiahEngageAtk_CMD	KP geben = alle Verb. heilen.
+MSID_M011_MicaiahEngage_DarkSide	Dunkle Weitung
+MSID_H_M011_MicaiahEngage_DarkSide	Erhöht die Reichweite des Stabes\num 3 und den Bereich des Effekts\num +1.
+MSID_HoldOut_1	Durchhalten
+MSID_H_HoldOut_1	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 30 %, überlebt sie\nimmer mit mindestens 1 KP.
+MSID_HoldOut_2	Durchhalten+
+MSID_H_HoldOut_2	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 20 %, überlebt sie\nimmer mit mindestens 1 KP.
+MSID_HoldOut_3	Durchhalten++
+MSID_H_HoldOut_3	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 10 %, überlebt sie\nimmer mit mindestens 1 KP.
+MSID_HoldOut_4	Durchhalten+++
+MSID_H_HoldOut_4	Hat die Einheit zu Beginn des\nKampfes KP ≧ 2, überlebt sie\nimmer mit mindestens 1 KP.
+MSID_ClosingAttack	Vorrücken
+MSID_H_ClosingAttack	Erlaubt der Einheit 1 Feld auf einen\n2 Felder entfernt stehenden Gegner\nzuzugehen und ihn anzugreifen.
+MSID_H_ClosingAttack_CMD	1 Feld bewegen & angreifen.
+MSID_RoyEngage	Hinauswachsen
+MSID_H_RoyEngage	Verleiht Lv. +5.
+MSID_H_RoyEngage_Dragon	Verleiht Lv. +5.\nDrache: Weiterer Lv. +1.
+MSID_H_RoyEngage_Horse	Verleiht Lv. +5.\nBerittene: Bew. +1
+MSID_H_RoyEngage_Heavy	Verleiht Lv. +5.\nGepanzerte: Max. KP +5.
+MSID_RoyEngageAtk	Flammender Löwe
+MSID_H_RoyEngageAtk	Erlaubt Angriff auf benachbarten\nGeg. u. ein Gebiet von 3 Feldern.\nSetzt Zielgebiet u. 2 Reihen dahinter\nin Brand. Nur Schwert.
+MSID_H_RoyEngageAtk_Dragon	Erlaubt Angriff auf benachbarten\nGeg. u. ein Gebiet von 3 Feldern.\nSetzt Zielgebiet u. 2 Reihen dahinter\nin Brand. Nur Schwert. – Drache:\nAngriffsgebiet wird vergrößert.
+MSID_H_RoyEngageAtk_Magic	Erlaubt Angriff auf benachbarten\nGeg. u. einem Gebiet von 3 Feldern.\nSetzt Zielgebiet u. 2 Reihen dahinter\nin Brand. Nur Schwert. – Mystische:\nVergrößert Flammengebiet.
+MSID_H_RoyEngageAtk_CMD	Gebiet angreifen & anzünden.
+MSID_M011_RoyEngage_DarkSide	Absinken
+MSID_H_M011_RoyEngage_DarkSide	Verleiht Lv. +3.
+MSID_AugmentDamage_1	Waffenschild
+MSID_H_AugmentDamage_1	Besitzt die Einheit einen\nWaffenvorteil, erleidet sie\nSchaden -3.
+MSID_AugmentDamage_2	Waffenschild+
+MSID_H_AugmentDamage_2	Besitzt die Einheit einen\nWaffenvorteil, erleidet sie\nSchaden -5.
+MSID_AugmentDamage_3	Waffenschild++
+MSID_H_AugmentDamage_3	Besitzt die Einheit einen\nWaffenvorteil, erleidet sie\nSchaden -7.
+MSID_Ambush_1	Vorteil
+MSID_H_Ambush_1	Sind die KP der Einheit ≦25 % und\ninitiiert der Gegner den Kampf, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners kontern.
+MSID_Ambush_2	Vorteil+
+MSID_H_Ambush_2	Sind die KP der Einheit ≦50 % und\ninitiiert der Gegner den Kampf, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners kontern.
+MSID_Ambush_3	Vorteil++
+MSID_H_Ambush_3	Sind die KP der Einheit ≦75 % und\ninitiiert der Gegner den Kampf, kann\ndie Einheit vor dem ersten Angriff\ndes Gegners kontern.
+MSID_LeafEngage	Anpassungsfähig
+MSID_H_LeafEngage	Initiiert der Gegner den Kampf,\nerwidert die Einheit den Angriff mit\nihrer besten verfügbaren Waffe\n(Reichweite, Waffenvorteil,\nEffektivität usw.).
+MSID_H_LeafEngage_Dragon	Initiiert der Gegner den Kampf, erwi-\ndert die Einheit den Angriff mit ihrer\nbesten verfügbaren Waffe (Reichw.,\nWaffenvorteil, Effektivität usw.).\nDrache: Trf. +30 im Kampf.
+MSID_H_LeafEngage_Coop	Initiiert der Gegner den Kampf, erwi-\ndert die Einheit den Angriff mit ihrer\nbesten verfügbaren Waffe (Reichw.,\nWaffenvorteil, Effektivität usw.).\nAssistent: Krit. +10 im Kampf.
+MSID_H_LeafEngage_Covert	Initiiert der Gegner den Kampf, erwi-\ndert die Einheit den Angriff mit ihrer\nbesten verfügbaren Waffe (Reichw.,\nWaffenvorteil, Effektivität usw.).\nVerstohlene: Aw. +20 im Kampf.
+MSID_H_LeafEngage_Heavy	Initiiert der Gegner den Kampf, erwi-\ndert die Einheit den Angriff mit ihrer\nbesten verfügbaren Waffe (Reichw.,\nWaffenvorteil, Effektivität usw.).\nGepanzerte: Ver. +5 im Kampf.
+MSID_H_LeafEngage_Fly	Initiiert der Gegner den Kampf, erwi-\ndert die Einheit den Angriff mit ihrer\nbesten verfügbaren Waffe (Reichw.,\nWaffenvorteil, Effektivität usw.).\nFlieger: Res. +5 im Kampf.
+MSID_LeafEngageAtk	Vierfachtreffer
+MSID_H_LeafEngageAtk	Die Einheit kann ein Mal jeweils mit\nSchwert, Lanze, Axt und Bogen\nangreifen.\n
+MSID_H_LeafEngageAtk_Dragon	Die Einheit kann ein Mal jeweils mit\nSchwert, Lanze, Axt und Bogen\nangreifen.\nDrache: Fügt Schaden +20 % zu.
+MSID_H_LeafEngageAtk_Covert	Die Einheit kann ein Mal jeweils mit\nSchwert, Lanze, Axt und Bogen\nangreifen.\nVerstohlene: Gegner können 1000 G\nhinterlassen. Chance in % = Glk.
+MSID_H_LeafEngageAtk_Prana	Die Einheit kann ein Mal jeweils mit\nSchwert, Lanze, Axt und Bogen\nangreifen.\nQi-Adept: Bricht den Gegner.
+MSID_H_LeafEngageAtk_CMD	Angriff mit vier Waffen.
+MSID_BondPower	Doppelschlag
+MSID_H_BondPower	Die Einheit beteiligt sich an\nKoop-Schlägen, so als sei sie\neine Assistent-Einheit.
+MSID_DualAssist_1	Doppelbeistand
+MSID_H_DualAssist_1	Ist die Einheit zu Koop-Schlägen\nfähig, beteiligt sie sich an diesen,\nwenn Verbündete Gegner in ihrer\nBewegungsreichweite angreifen.\nChance in % = 35.
+MSID_DualAssist_2	Doppelbeistand+
+MSID_H_DualAssist_2	Ist die Einheit zu Koop-Schlägen\nfähig, beteiligt sie sich an diesen,\nwenn Verbündete Gegner in ihrer\nBewegungsreichweite angreifen.\nChance in % = 70.
+MSID_DualSupport	Doppelwerte
+MSID_H_DualSupport	Verleiht einen Bonus auf Aw., der\nsich mit dem Unterstützungslevel der\nEinheit mit benachbarten Verbün-\ndeten erhöht. (Max. +90)
+MSID_LucinaEngage	Schildbund
+MSID_H_LucinaEngage_CMD	Kann erste Angriffe auf benachbarte\nVerb. verhindern. Chance in % = 80.
+MSID_H_LucinaEngage_CMD_Dragon	Kann erste Angriffe auf benachbarte\nVerb. verhindern. Chance in % = 90.
+MSID_H_LucinaEngage_CMD_Prana	Verhindert die ersten Angriffe\nauf benachbarte Verbündete.
+MSID_H_LucinaEngage	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.
+MSID_H_LucinaEngage_Dragon	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.\nDrache: Chance +10 %.
+MSID_H_LucinaEngage_Horse	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.\nBerittene: Chance in % = 100 für\nberittene Verbündete.
+MSID_H_LucinaEngage_Heavy	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.\nGepanzerte: Chance in % = 100 für\ngepanzerte Verbündete.
+MSID_H_LucinaEngage_Fly	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.\nFlieger: Chance in % = 100 für\nfliegende Verbündete.
+MSID_H_LucinaEngage_Prana	Erlaubt es der Einheit, die ersten\nAngriffe auf benachbarte Verbündete\nzu verhindern. Chance in % = 80.\nQi-Adept: Chance in % = 100.
+MSID_LucinaEngageAtk	Alle für einen
+MSID_H_LucinaEngageAtk	Erlaubt einen Schwertangriff auf\neinen benachbarten Gegner. Alle\nVerb. innerhalb von 2 Feldern\ngreifen im Koop-Schlag an.
+MSID_H_LucinaEngageAtk_Dragon	Erlaubt einen Schwertangriff auf\neinen benachbarten Gegner. Alle\nVerb. innerhalb v. 2 Feldern greifen\nim Koop-Schlag an. – Drache: Alle\nKoop-Schläge treffen garantiert.
+MSID_H_LucinaEngageAtk_Coop	Erlaubt einen Schwertangriff auf\neinen benachbarten Gegner. Alle\nVerb. innerhalb von 2 Feldern\ngreifen im Koop-Schlag an.\nAssistent: Reichweite +1.
+MSID_H_LucinaEngageAtk_CMD	Koop-Schlag aller Verb. in der Nähe.
+MSID_Pursuit_1	Vehemenz
+MSID_H_Pursuit_1	Initiiert die Einheit einen Kampf mit\neinem Ges.-Vorteil von mindestens\n9, erfolgt ihr Folgeangriff, sofern\nmöglich, bevor der Gegner kontern\nkann.
+MSID_Pursuit_2	Vehemenz+
+MSID_H_Pursuit_2	Initiiert die Einheit einen Kampf mit\neinem Ges.-Vorteil von mindestens\n7, erfolgt ihr Folgeangriff, sofern\nmöglich, bevor der Gegner kontern\nkann.
+MSID_Pursuit_3	Vehemenz++
+MSID_H_Pursuit_3	Initiiert die Einheit einen Kampf mit\neinem Ges.-Vorteil von mindestens\n5, erfolgt ihr Folgeangriff, sofern\nmöglich, bevor der Gegner kontern\nkann.
+MSID_SpeedAbsorption	Ges.-Dieb
+MSID_H_SpeedAbsorption	Initiiert die Einheit den Kampf und\nbesiegt einen Gegner, erhält sie jedes\nMal Ges. +2. Der Bonus gilt bis zum\nEnde der Schlacht. (Max. +10)
+MSID_LinEngage	Doppelgängerruf
+MSID_H_LinEngage	Kreiert 4 Doppelgängerillusionen,\ndie mit der Einheit Koop-Schläge\nausführen können.
+MSID_H_LinEngage_Dragon	Kreiert 4 Doppelgängerillusionen,\ndie mit der Einheit Koop-Schläge\nausführen können.\nDrache: Doppelgänger +1.
+MSID_H_LinEngage_Fly	Kreiert 4 Doppelgängerillusionen,\ndie mit der Einheit Koop-Schläge\nausführen können.\nFlieger: Doppelgänger besitzen\nAw. +10.
+MSID_H_LinEngage_CMD	Ruft Doppelgänger.
+MSID_LinEngage_Delete_CMD	Doppelgängerbann
+MSID_H_LinEngage_Delete_CMD	Verbannt Doppelgänger.
+MSID_LinEngageAtk	Astrasturm
+MSID_H_LinEngageAtk	Erlaubt 5 Angriffe mit dem Bogen\nmit je 30 % Schaden und einer\nReichweite bis maximal 10.
+MSID_H_LinEngageAtk_Dragon	Erlaubt 5 Angriffe mit dem Bogen\nmit je 30 % Schaden und einer\nReichweite bis maximal 10.\nDrache: Reichweite +5.
+MSID_H_LinEngageAtk_Covert	Erlaubt 5 Angriffe mit dem Bogen\nmit je 30 % Schaden und einer\nReichweite bis maximal 10.\nVerstohlene: Reichweite +10.
+MSID_H_LinEngageAtk_Prana	Erlaubt 5 Angriffe mit dem Bogen\nmit je 30 % Schaden und einer\nReichweite bis maximal 10.\nQi-Adept: Bricht das Ziel.
+MSID_H_LinEngageAtk_CMD	Pfeile mit extremer Reichw.
+MSID_H_LinEngageAtk_Weak	Erlaubt 5 Angriffe mit dem Bogen\nmit Schaden +20 % und innerhalb\neiner Rw. von bis zu 10 Feldern.\n
+MSID_H_LinEngageAtk_DarkSide_Prana	Erlaubt 5 Angriffe mit dem Bogen\nmit Schaden +20 % und innerhalb\neiner Rw. von bis zu 10 Feldern.\nQi-Adept: Bricht das Ziel.
+MSID_Ravage	Zerstören
+MSID_H_Ravage	Beseitigt zerstörbares Gelände mit\neinem einzigen Schlag, wenn\n„Durchbrechen“ verwendet wird.
+MSID_PullBack	Verlegung
+MSID_H_PullBack	Bewegt einen Verbündeten\nvon einem benachbarten Feld\nauf die gegenüberliegende Seite\nder Einheit.
+MSID_H_PullBack_CMD	Verb. Einheit auf gegenüber-\nliegendes Feld bewegen.
+MSID_Anger	Ingrimm
+MSID_H_Anger	Verleiht zu Beginn des Kampfes\nKrit. +1 im Kampf für jeden KP, den\ndie Einheit verloren hat. (Max. +30)
+MSID_BraveGeneral_1	Kühnheit
+MSID_H_BraveGeneral_1	Sind die KP der Einheit nach dem\nKampf unter 75 %, erhält sie\nVer./Res. +5, solange ihre KP\nunter 75 % bleiben.
+MSID_BraveGeneral_2	Kühnheit+
+MSID_H_BraveGeneral_2	Sind die KP der Einheit nach dem\nKampf unter 75 %, erhält sie\nVer./Res. +7, solange ihre KP\nunter 75 % bleiben.
+MSID_IkeEngage	Freund der Laguz
+MSID_H_IkeEngage	Die Einheit erleidet 50 % weniger\nSchaden, aber ihr Aw.-Wert sinkt\nauf 0.
+MSID_H_IkeEngage_Dragon	Die Einheit erleidet 50 % weniger\nSchaden, aber ihr Aw.-Wert sinkt\nauf 0.\nDrache: Zusätzliche -10 % auf\nerlittenen Schaden.
+MSID_IkeEngageAtk	Großer Aithir
+MSID_H_IkeEngageAtk	Ver./Res. +5, kein Kontern für 1 Zug.\nNächster Zug: Angriff im Bereich von\n2 Feldern, KP-Heilung = 30 % des\nzugefügten Schadens.\nNur Schwert/Axt.
+MSID_H_IkeEngageAtk_Dragon	Ver./Res. +5, kein Kontern für 1 Zug.\nNächster Zug: Angriff im Bereich von\n2 Feldern, KP-Heilung = 30 % des\nzugefüg. Schadens. Nur Schwert/Axt.\nDrache: +1 Schaden/gegn. Treffer.
+MSID_H_IkeEngageAtk_Heavy	Ver./Res. +5, kein Kontern für 1 Zug.\nNächster Zug: Angriff im Bereich von\n2 Feldern, KP-Heilung = 30 % des\nzugefüg. Schadens. Nur Schwert/Axt.\nGepanzerte: Zusätzlich Ver. +5.
+MSID_H_IkeEngageAtk_Fly	Ver./Res. +5, kein Kontern für 1 Zug.\nNächster Zug: Angriff im Bereich von\n2 Feldern, KP-Heilung = 30 % des\nzugefüg. Schadens. Nur Schwert/Axt.\nFlieger: Zusätzlich Res. +5.
+MSID_H_IkeEngageAtk_CMD	1 Zug aushalten, um danach\neinen Bereich anzugreifen.
+MSID_HeavenBeat_1	Göttlicher Puls
+MSID_H_HeavenBeat_1	Eine missglückte Attacke kann sich\nin einen Treffer verwandeln.\nChance in % = 30. Mit höherem\nGlück erhöht sich die Chance.
+MSID_HeavenBeat_2	Göttlicher Puls+
+MSID_H_HeavenBeat_2	Eine missglückte Attacke kann sich\nin einen Treffer verwandeln.\nChance in % = 50. Mit höherem\nGlück erhöht sich die Chance.
+MSID_TeacherGuidance	Respektable Lehrkraft
+MSID_H_TeacherGuidance	Gewährt der Einheit und\nbenachbarten Verbündeten\nErf. x 1,2.
+MSID_PickUp	Fundsache
+MSID_H_PickUp	Wartet oder beendet die Einheit den\nZug neben einem Verbündeten, kann\nsie ein Item finden und den Unter-\nstützungslevel mit diesem Verbünde-\nten erhöhen. Chance in % = Glk.
+MSID_PickUp_Message	Item von \x0E\x01\x00\x00 gefunden\nund zurückgegeben.
+MSID_BylethEngage	Unterricht
+MSID_H_BylethEngage	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)
+MSID_H_BylethEngage_Dragon	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nDrache: Alle 7 Statuswerte +3.
+MSID_BylethEngage_Dragon_CMD	Unterricht (Alle)
+MSID_H_BylethEngage_Dragon_CMD	Alle Werte benachb. Verb. +3
+MSID_H_BylethEngage_Coop	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nAssistent: Stä. +4.
+MSID_BylethEngage_Coop_CMD	Unterricht (Stä.)
+MSID_H_BylethEngage_Coop_CMD	Benachbarte Verb.: Stä. +4
+MSID_H_BylethEngage_Horse	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nBerittene: Beh. +10.
+MSID_BylethEngage_Horse_CMD	Unterricht (Beh.)
+MSID_H_BylethEngage_Horse_CMD	Benachbarte Verb.: Beh. +10
+MSID_H_BylethEngage_Covert	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nVerstohlene: Ges. +5.
+MSID_BylethEngage_Covert_CMD	Unterricht (Ges.)
+MSID_H_BylethEngage_Covert_CMD	Benachbarte Verb.: Ges. +5
+MSID_H_BylethEngage_Heavy	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nGepanzerte: Ver. +5.
+MSID_BylethEngage_Heavy_CMD	Unterricht (Ver.)
+MSID_H_BylethEngage_Heavy_CMD	Benachbarte Verb.: Ver. +5
+MSID_H_BylethEngage_Fly	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nFlieger: Res. +5.
+MSID_BylethEngage_Fly_CMD	Unterricht (Res.)
+MSID_H_BylethEngage_Fly_CMD	Benachbarte Verb.: Res. +5
+MSID_H_BylethEngage_Magic	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nMystische: Mag. +4.
+MSID_BylethEngage_Magic_CMD	Unterricht (Mag.)
+MSID_H_BylethEngage_Magic_CMD	Benachbarte Verb.: Mag. +4
+MSID_H_BylethEngage_Prana	Verleiht Verbündeten innerhalb\nvon 2 Feldern einen Wertebonus je\nnach Typ des Anwenders.\n(Dauer: 1 Runde)\nQi-Adept: Glk. +10.
+MSID_BylethEngage_Prana_CMD	Unterricht (Glk.)
+MSID_H_BylethEngage_Prana_CMD	Benachbarte Verb.: Glk +10.
+MSID_BylethEngageAtk	Tanz der Göttin
+MSID_H_BylethEngageAtk	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.
+MSID_H_BylethEngageAtk_Dragon	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nDrache: Erhöht die Statuswerte\naller Ziele um +3 für 1 Zug.
+MSID_H_BylethEngageAtk_Coop	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nAssistent: Verleiht den Zielen\nStä. +4 für 1 Zug.
+MSID_H_BylethEngageAtk_Horse	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nBerittene: Verleiht den Zielen\nBeh. +10 für 1 Zug.
+MSID_H_BylethEngageAtk_Covert	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nVerstohlene: Verleiht den Zielen\nGes. +5 für 1 Zug.
+MSID_H_BylethEngageAtk_Heavy	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nGepanzerte: Verleiht den Zielen\nVer. +5 für 1 Zug.
+MSID_H_BylethEngageAtk_Fly	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nFlieger: Verleiht den Zielen\nRes. +5 für 1 Zug.
+MSID_H_BylethEngageAtk_Magic	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nMystische: Verleiht den Zielen\nMag. +4 für 1 Zug.
+MSID_H_BylethEngageAtk_Prana	Erlaubt allen benachbarten\nVerbündeten eine weitere Aktion.\nQi-Adept: Verleiht den Zielen\nGlk. +10 für 1 Zug.
+MSID_H_BylethEngageAtk_CMD	Benachb. Verb. agieren erneut.
+MSID_M014_BylethEngageAtk_DarkSide	Diabolischer Tanz
+MSID_H_M014_BylethEngageAtk_DarkSide	Erlaubt Verbündeten innerhalb von\n2 Feldern eine weitere Aktion.
+MSID_DragonPulse	Drachenader
+MSID_H_DragonPulse	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.
+MSID_H_DragonPulse_CMD	Fügt Areal einen Effekt hinzu.
+MSID_H_DragonPulse_Dragon	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nDrache: Jeder der Drachenader-\nEffekte ist wählbar.
+MSID_DragonPulse_DefUp	Steinader
+MSID_H_DragonPulse_DefUp	Lässt Steinsäulen entstehen, die den\nVer./Res.-Wert erhöhen.
+MSID_H_DragonPulse_Coop	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nAssistent: Lässt Steinsäulen entste-\nhen, die den Ver./Res.-Wert erhöhen.
+MSID_DragonPulse_AvoDown	Wasserader
+MSID_H_DragonPulse_AvoDown	Erschafft Wasser, das den Aw.-Wert\nverringert.
+MSID_H_DragonPulse_Horse	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nBerittene: Erschafft Wasser, das den\nAw.-Wert verringert.
+MSID_DragonPulse_AvoUp	Nebelader
+MSID_H_DragonPulse_AvoUp	Erschafft einen Nebel, der den\nAw.-Wert erhöht.
+MSID_H_DragonPulse_Covert	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nVerstohlene: Erschafft einen Nebel,\nder den Aw.-Wert erhöht.
+MSID_DragonPulse_NotBreak	Rankenader
+MSID_H_DragonPulse_NotBreak	Erschafft Ranken, die gegen den\nEffekt „Bruch“ immunisieren.
+MSID_H_DragonPulse_Heavy	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nGepanzerte: Erschafft Ranken, die\nden Effekt „Bruch“ verhindern.
+MSID_DragonPulse_Heal	Beistandsader
+MSID_H_DragonPulse_Heal	Erschafft einen heilenden Schein,\nder KP wiederherstellt.
+MSID_H_DragonPulse_Fly	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nFlieger: Erschafft einen heilenden\nSchein, der KP wiederherstellt.
+MSID_DragonPulse_Damage	Flammenader
+MSID_H_DragonPulse_Damage	Erschafft Flammen, die Schaden\nzufügen.
+MSID_H_DragonPulse_Magic	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nMystische: Erschafft Flammen, die\nSchaden zufügen.
+MSID_DragonPulse_Block	Eisader
+MSID_H_DragonPulse_Block	Erschafft Eissäulen, die Bewegung\nbehindern.
+MSID_H_DragonPulse_Prana	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nQi-Adept: Erschafft Eissäulen, die\nBewegung behindern.
+MSID_DragonCurse	Drachenfluch
+MSID_H_DragonCurse	Initiiert die Einheit den Kampf,\nerleiden alle Gegner nach dem Kampf\n-4 auf all ihre Statuswerte\n(Verringerung sinkt pro Zug um 1).
+MSID_DefenseStyle	Kombi
+MSID_H_DefenseStyle	Verhindert Schaden von\ngegnerischen Koop-Schlägen\ngegen diese Einheit.
+MSID_PhysicalContact_1	Momente
+MSID_H_PhysicalContact_1	Nach Aktion oder Warten der Einheit\nwerden bei benachbarten Verbünde-\nten 5 KP wiederhergestellt und der\nUnterstützungslevel erhöht sich\nein wenig.
+MSID_PhysicalContact_2	Momente+
+MSID_H_PhysicalContact_2	Nach Aktion oder Warten der Einheit\nwerden bei benachbarten Verbünde-\nten 10 KP wiederhergestellt und der\nUnterstützungslevel erhöht sich\nein wenig.
+MSID_KamuiEngage	Furchtbare Aura
+MSID_H_KamuiEngage	Initiiert die Einheit den Kampf,\nkönnen sich Ziel und benachbarte\nGegner des Ziels 1 Runde lang nicht\nbewegen.
+MSID_H_KamuiEngage_Covert	Initiiert die Einheit den Kampf,\nkönnen sich Ziel und benachbarte\nGegner des Ziels 1 Runde lang nicht\nbewegen. Verstohlene: Fügt dem Ziel\nzudem Aw. -20 zu.
+MSID_KamuiEngageAtk	Reißendes Gebrüll
+MSID_H_KamuiEngageAtk	Erlaubt einen Angriff über 3 Felder\nin einer Reihe, die Felder werden\ndadurch in Gelände aus Wasser\nverwandelt.
+MSID_H_KamuiEngageAtk_Dragon	Erlaubt einen Angriff über 3 Felder\nin einer Reihe, die Felder werden\ndadurch in Gelände aus Wasser\nverwandelt.\nDrache: Reichweite +1.
+MSID_H_KamuiEngageAtk_CMD	Angreifen und Gebiet fluten.
+MSID_God_Change_CMD	Tag und Nacht
+MSID_H_God_Change	Erlaubt für alle Verbündeten den\nWechsel zwischen den Emblemen\nsowie zwischen Luna-Band/Behut-\nsamkeit und Sol-Band/Beherztheit.
+MSID_H_God_Change_CMD	Wechsel zwischen Emblemen.
+MSID_MoonBracelet_1	Luna-Band
+MSID_H_MoonBracelet_1	Initiiert die Einheit den Kampf mit\neinem physischen Angriff, fügt sie\nzusätzlichen Schaden = 20 % des\nVer.-Werts des Gegners zu.
+MSID_MoonBracelet_2	Luna-Band+
+MSID_H_MoonBracelet_2	Initiiert die Einheit den Kampf mit\neinem physischen Angriff, fügt sie\nzusätzlichen Schaden = 30 % des\nVer.-Werts des Gegners zu.
+MSID_SunBracelet_1	Sol-Band
+MSID_H_SunBracelet_1	Initiiert die Einheit den Kampf,\nerholen sich ihre KP = 30 % des\nzugefügten Schadens.
+MSID_SunBracelet_2	Sol-Band+
+MSID_H_SunBracelet_2	Initiiert die Einheit den Kampf,\nerholen sich ihre KP = 50 % des\nzugefügten Schadens.
+MSID_SunMoonBracelet_1	Eklipse-Band
+MSID_H_SunMoonBracelet_1	Initiiert die Einheit den Kampf,\nerholen sich ihre KP = 30 % des\nzugefügten Schadens. Sie fügt durch\nphysische Angriffe zusätzlichen\nSchaden = 20 % der gegn. Ver. zu.
+MSID_SunMoonBracelet_2	Eklipse-Band+
+MSID_H_SunMoonBracelet_2	Initiiert die Einheit den Kampf,\nerholen sich ihre KP = 50 % des\nzugefügten Schadens. Sie fügt durch\nphysische Angriffe zusätzlichen\nSchaden = 30 % der gegn. Ver. zu.
+MSID_GentleWind_1	Behutsamkeit
+MSID_H_GentleWind_1	Die Einheit erleidet -3 Schaden.
+MSID_GentleWind_2	Behutsamkeit+
+MSID_H_GentleWind_2	Die Einheit erleidet -5 Schaden.
+MSID_BraveSky_1	Beherztheit
+MSID_H_BraveSky_1	Die Einheit fügt +3 Schaden zu.
+MSID_BraveSky_2	Beherztheit+
+MSID_H_BraveSky_2	Die Einheit fügt +5 Schaden zu.
+MSID_Azure_1	Blaue Himmel
+MSID_H_Azure_1	Die Einheit erleidet -3 Schaden und\nfügt +3 Schaden zu.
+MSID_Azure_2	Blaue Himmel+
+MSID_H_Azure_2	Die Einheit erleidet -5 Schaden und\nfügt +5 Schaden zu.
+MSID_EirikEngage	Heilige Zwillinge
+MSID_H_EirikEngage	Erlaubt im Bündnis mit Eirika von\nLuna-Band zu Eklipse-Band zu\nwechseln, und von Behutsamkeit zu\nBlaue Himmel. Für alle Verbündeten.
+MSID_EirikEngageAtk	Zwillingsschlag
+MSID_H_EirikEngageAtk	Erlaubt einen Schwertangriff, gefolgt\nvon einem Lanzenangriff durch\nEphraim auf benachbarte Gegner.\nEffektiv gegen: Verzerrte.
+MSID_H_EirikEngageAtk_Dragon	Erlaubt einen Schwertangriff, gefolgt\nvon einem Lanzenangriff durch\nEphraim auf benachbarte Gegner.\nEffektiv gegen: Verzerrte.\nDrache: Fügt Schaden +20 % zu.
+MSID_H_EirikEngageAtk_Horse	Erlaubt einen Schwertangriff, gefolgt\nvon einem Lanzenangriff durch\nEphraim auf benachbarte Gegner.\nEffektiv gegen: Verzerrte. – Berittene:\nEphraim fügt Schaden +50 % zu.
+MSID_H_EirikEngageAtk_CMD	Ephraim greift an.
+MSID_EvilDragonSpecialEffect	Heilige Aura
+MSID_H_EvilDragonSpecialEffect	Einheit ist „Effektiv gegen: Dämonen-\ndrachen“. Verb. innerhalb von 2 Fel-\ndern mit „Effektiv gegen: Drachen“\nsind „Effektiv gegen: Dämonen-\ndrachen“.
+MSID_GodDragonProtection	Heiliger Schild
+MSID_H_GodDragonProtection	Hebt „Effektiv“ gegen diese\nEinheit auf.
+MSID_ConnectPerson_1	Bandeschmied
+MSID_H_ConnectPerson_1	Verleiht der Einheit und Verbündeten\ninnerhalb von 2 Feldern, die mit\neinem Emblem synchronisiert oder\nverbunden sind, Trf./Aw. +20.
+MSID_ConnectPerson_2	Bandeschmied+
+MSID_H_ConnectPerson_2	Verleiht der Einheit und Verbündeten\ninnerhalb von 2 Feldern, die mit\neinem Emblem synchronisiert oder\nverbunden sind, Trf./Aw. +30.
+MSID_BlessingOfEleos	Segen von Elyos
+MSID_H_BlessingOfEleos	Verleiht einen Bonus auf Krit. und\nKrit. Aw. = 2x die Anzahl der\nVerb., die in dieser Runde bereits\neine Aktion ausgeführt haben, wenn\ndie Einheit den Kampf initiiert.
+MSID_LueurEngage	Eingespieltheit
+MSID_H_LueurEngage	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.
+MSID_H_LueurEngage_Dragon	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nDrache: Zusätzlich +1 auf alle Werte.
+MSID_H_LueurEngage_Coop	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nAssistent: Zusätzlich +2 auf Stä.
+MSID_H_LueurEngage_Horse	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nBerittene: Zusätzlich +2 auf Beh.
+MSID_H_LueurEngage_Covert	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nVerstohlene: Zusätzlich +2 auf Ges.
+MSID_H_LueurEngage_Heavy	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nGepanzerte: Zusätzlich +2 auf Ver.
+MSID_H_LueurEngage_Fly	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nFlieger: Zusätzlich +2 auf Res.
+MSID_H_LueurEngage_Magic	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nMystische: Zusätzlich +2 auf Mag.
+MSID_H_LueurEngage_Prana	Initiiert die Einheit den Kampf und\nbesiegt sie den Gegner, erhält der\nBündnispartner +4 auf alle Status-\nwerte, während sie verbunden sind.\nQi-Adept: Zusätzlich +2 auf Glk.
+MSID_LueurEngageAtk	Drachenschlag
+MSID_H_LueurEngageAtk	Erlaubt 2 Angriffe gegen einen\nbenachbarten Gegner – mit einem\nSchwert und einem mächtigen\nMagiestrahl.
+MSID_H_LueurEngageAtk_Dragon	Erlaubt 2 Angriffe gegen einen\nbenachbarten Gegner – mit einem\nSchwert und einem mächtigen\nMagiestrahl.\nDrache: Fügt Schaden +20 % zu.
+MSID_H_LueurEngageAtk_Coop	Erlaubt 2 Angriffe gegen einen\nbenachbarten Gegner – mit einem\nSchwert und einem mächtigen\nMagiestrahl. – Assistent: +X auf den\nSchwertangriff (X = 20 % der Stä.)
+MSID_H_LueurEngageAtk_Magic	Erlaubt 2 Angriffe gegen einen\nbenachbarten Gegner – mit einem\nSchwert und einem mächtigen\nMagiestrahl. – Mystische: +X auf den\nMagiestrahl (X = 20 % der Mag.)
+MSID_H_LueurEngageAtk_Prana	Erlaubt 2 Angriffe gegen einen\nbenachbarten Gegner – mit einem\nSchwert und einem mächtigen\nMagiestrahl.\nQi-Adept: Bricht den Gegner.
+MSID_H_LueurEngageAtk_CMD	Schwert/Magie als Kombo.
+MSID_LueurEngageAtk_p	Bündnisschlag
+MSID_H_LueurEngageAtk_p	Erlaubt der Einheit und ihrem\nBündnispartner einen Schwertangriff\ngefolgt von einem Magiestrahl\nauf benachbarten Gegner.
+MSID_H_LueurEngageAtk_p_Dragon	Erlaubt der Einheit und ihrem\nBündnispartner einen Schwertangriff\ngefolgt von einem Magiestrahl\nauf benachbarten Gegner.\nDrache: Fügt Schaden +20 % zu.
+MSID_H_LueurEngageAtk_p_Coop	Erlaubt der Einheit und ihrem\nBündnispartner einen Schwertangriff\ngefolgt von einem Magiestrahl\nauf benachbarten Gegner.\nAssistent: Stä. +20 % auf Schwert.
+MSID_H_LueurEngageAtk_p_Magic	Erlaubt der Einheit und ihrem\nBündnispartner einen Schwertangriff\ngefolgt von einem Magiestrahl\nauf benachbarten Gegner.\nMystische: Mag. +20 % auf Ma.strahl.
+MSID_H_LueurEngageAtk_p_Prana	Erlaubt der Einheit und ihrem\nBündnispartner einen Schwertangriff\ngefolgt von einem Magiestrahl\nauf benachbarten Gegner.\nQi-Adept: Bricht den Gegner.
+MSID_H_LueurEngageAtk_p_CMD	Angriff mit Bündnispartner.
+MSID_PrivateSkill_Lueur	Göttl. Inspiration
+MSID_H_PrivateSkill_Lueur	Benachbarte Verbündete fügen\n+3 Schaden zu und erleiden\n-1 Schaden.
+MSID_PrivateSkill_Vandre	Weiße Pflicht
+MSID_H_PrivateSkill_Vandre	Befindet sich die Einheit neben\n\x0E\x0A\x00\x10\x06dem\x06der \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin, erhalten beide\nKrit. +5 im Kampf.
+MSID_PrivateSkill_Clan	Grüner Glaube
+MSID_H_PrivateSkill_Clan	Befindet sich die Einheit neben\n\x0E\x0A\x00\x10\x06dem\x06der \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin, erhalten beide\nTrf. +10 im Kampf.
+MSID_PrivateSkill_Fran	Roter Jubel
+MSID_H_PrivateSkill_Fran	Befindet sich die Einheit neben\n\x0E\x0A\x00\x10\x06dem\x06der \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin, erhalten beide\nAw. +10 im Kampf.
+MSID_PrivateSkill_Alfred	Selbstverbesserer
+MSID_H_PrivateSkill_Alfred	Verwendet die Einheit „Warten“,\nohne anzugreifen oder Items zu\nverwenden, erhält sie Stä. +2\nfür 1 Zug.
+MSID_PrivateSkill_Boucheron	Zu Tränen gerührt
+MSID_H_PrivateSkill_Boucheron	Beteiligt sich ein Verbündeter\nwährend des Kampfes dieser Einheit\nan einem Koop-Schlag, fügt die\nEinheit +2 Schaden zu.
+MSID_PrivateSkill_Atie	Energiegeladen
+MSID_H_PrivateSkill_Atie	Verwendet die Einheit ein Item, um\nKP zu heilen, erhält sie Stä. +2 für\n1 Runde.
+MSID_PrivateSkill_Celine	Sanfte Blume
+MSID_H_PrivateSkill_Celine	Erholungsitems, die von Verb. im\nUmfeld von 2 Feldern verwendet\nwerden, heilen KP +50 %.
+MSID_PrivateSkill_Chloe	Feenvolk
+MSID_H_PrivateSkill_Chloe	Sind im Umkreis von 2 Feldern\n1 männlicher Verbündeter und\n1 weibliche Verbündete benachbart,\nfügt die Einheit +2 Schaden zu.
+MSID_PrivateSkill_Louis	Bewunderung
+MSID_H_PrivateSkill_Louis	Sind im Umkreis von 2 Feldern\n2 weibliche Verbündete benachbart,\nerleidet die Einheit -2 Schaden im\nKampf.
+MSID_PrivateSkill_Diamand	Fairer Kampf
+MSID_H_PrivateSkill_Diamand	Initiiert die Einheit den Kampf,\nerhalten sie und der Gegner Trf. +15,\nund der Gegner kann einen\nGegenangriff ausführen.
+MSID_PrivateSkill_Umber	Ehrgeiziger Held
+MSID_H_PrivateSkill_Umber	Befinden sich keine Einheiten im\nUmkreis von 1 Feld zur Einh. oder\nihrem Gegner, erhält sie Trf. +20\nund erleidet Aw. -10 im Kampf.\n
+MSID_PrivateSkill_Jade	Meditation
+MSID_H_PrivateSkill_Jade	Verwendet die Einheit „Warten“,\nohne anzugreifen oder Items zu\nverwenden, erhält sie Res. +2 für\n1 Zug.
+MSID_PrivateSkill_Staluke	Ich beschütze dich
+MSID_H_PrivateSkill_Staluke	Wird ein Verbündeter innerhalb von\n2 Feldern angegriffen, erhält die\nEinheit Stä. +3 für 1 Runde.
+MSID_PrivateSkill_Lapis	Geteilte Ausbeute
+MSID_H_PrivateSkill_Lapis	Befindet sich innerhalb 1 Feldes\num die Einheit ein Verbündeter,\nerhält sie Trf./Aw. +10 und erleidet\nKrit. -10.
+MSID_PrivateSkill_Citrinica	Großzügigkeit
+MSID_H_PrivateSkill_Citrinica	Verwendet diese Einheit ein Heil-\nmittel, wird auch bei benachbarten\nVerbündeten die gleiche Menge KP\nwiederhergestellt.
+MSID_PrivateSkill_Ivy	Zielstrebigkeit
+MSID_H_PrivateSkill_Ivy	Während eines Kampfes mit einem\nGegner, mit dem die Einheit davor\nzuletzt gekämpft hat, erhält die\nEinheit Trf. +20.
+MSID_PrivateSkill_Zelkova	Nicht so... ganz...
+MSID_H_PrivateSkill_Zelkova	Initiiert der Gegner den Kampf,\nerleidet dieser Trf. -10.
+MSID_PrivateSkill_Kagetsu	Blendender Blitz
+MSID_H_PrivateSkill_Kagetsu	Initiiert die Einheit den Kampf,\nfügt sie dem Gegner im Kampf\nAw. -10 zu.
+MSID_PrivateSkill_Hortensia	Großes Ego
+MSID_H_PrivateSkill_Hortensia	Verwendet die Einheit einen\nHeilstab, erhält sie Rw. +1.
+MSID_PrivateSkill_Rosado	Pure Niedlichkeit
+MSID_H_PrivateSkill_Rosado	Ist der Gegner männlich, fügt die\nEinheit ihm im Kampf Aw. -20 zu.
+MSID_PrivateSkill_Goldmary	Lieblicher Seufzer
+MSID_H_PrivateSkill_Goldmary	Ist der Gegner männlich, fügt die\nEinheit ihm im Kampf Trf. -20 zu.
+MSID_PrivateSkill_Misutira	Solmer Lärmtröte
+MSID_H_PrivateSkill_Misutira	Gegner im Umkreis von 3 Feldern\nerleiden Krit. -5.
+MSID_PrivateSkill_Merin	Ritter-Eskorte
+MSID_H_PrivateSkill_Merin	Befinden sich mindestens 2 weib-\nliche Verbündete im Umkreis von\n2 Feldern, erhalten die Einheit und\ndiese Verbündeten Trf./Aw. +5.
+MSID_PrivateSkill_Panetone	Blutige Wut
+MSID_H_PrivateSkill_Panetone	Sind die KP der Einheit nach dem\nKampf unter 100 %, erhält sie\nKrit. +10, solange ihre KP unter\n100 % bleiben.\n
+MSID_PrivateSkill_Fogato	Charmeur
+MSID_H_PrivateSkill_Fogato	Während eines Kampfes mit einem\nGegner, mit dem die Einheit davor\nzuletzt gekämpft hat, fügt die Einheit\ndem Gegner Krit. -10 zu.
+MSID_PrivateSkill_Pandoro	Partylöwe
+MSID_H_PrivateSkill_Pandoro	Verleiht einen Bonus auf Trf. und\nAw. = 3x die Anzahl der Verbün-\ndeten und Gegner im Umkreis von\n2 Feldern.
+MSID_PrivateSkill_Bonet	Nachschlag?
+MSID_H_PrivateSkill_Bonet	Nimmt die Einheit eine Ration\nzu sich, kann sie eventuell die\ngleiche Speise noch mal erhalten.\nChance in % = Glk.
+MSID_PrivateSkill_Anna	Bombengeschäft
+MSID_H_PrivateSkill_Anna	Die Einheit erhält eventuell 500 G,\nwenn sie einen Gegner besiegt.\nChance in % = Glk.
+MSID_PrivateSkill_Jean	Expertise
+MSID_H_PrivateSkill_Jean	Verleiht der Einheit einen erhöhten\nStatuswertezuwachs beim Level Up.
+MSID_PrivateSkill_Yunaka	Kunst des Tötens
+MSID_H_PrivateSkill_Yunaka	Befindet sich die Einheit auf einem\nGelände, das ihr einen Aw.-Bonus\ngewährt, erhält sie Trf. +15.
+MSID_PrivateSkill_Seadas	Mysteriöser Tanz
+MSID_H_PrivateSkill_Seadas	Zu Beginn der Runde werden bei\nVerbündeten im Umkreis von\n2 Feldern zur Einheit 10 % ihrer\nmaximalen KP wiederhergestellt.
+MSID_PrivateSkill_Linden	Waffenexperte
+MSID_H_PrivateSkill_Linden	Ist die Einheit im Kampf mit einer\nWaffe ausgerüstet, deren Level\nniedriger ist als der der gegnerischen\nWaffe, erhält sie im Kampf Krit. +20.
+MSID_PrivateSkill_Saphir	Siegeswille
+MSID_H_PrivateSkill_Saphir	Sind die KP der Einheit bei Kampf-\nbeginn ≦ 50 %, erhält sie im Kampf\nTrf./Aw. +20.
+MSID_PrivateSkill_Veyre	Dämonenschutz
+MSID_H_PrivateSkill_Veyre	Benachbarte Verbündete fügen +1\nSchaden zu und erleiden -3 Schaden.
+MSID_PrivateSkill_Mauve	In Gedanken
+MSID_H_PrivateSkill_Mauve	Verwendet die Einheit „Warten“,\nohne anzugreifen oder Items zu\nverwenden, erhält sie Ver. +2 für\n1 Zug.
+MSID_JobSkill_SwordMaster	Durchlauf
+MSID_H_JobSkill_SwordMaster	Erlaubt der Einheit, einen benach-\nbarten Gegner anzugreifen und sich\ndanach auf das Feld gegenüber dem\nGegner zu bewegen.
+MSID_H_JobSkill_SwordMaster_CMD	Angriff & durch Gegner laufen.
+MSID_JobSkill_BraveHero	Tapferer Helfer
+MSID_H_JobSkill_BraveHero	Sind die KP der Einheit = 100 %,\nwährend die Einheit einen Koop-\nSchlag ausführt, greift sie zweimal\nan.
+MSID_JobSkill_Halberdier	Zangenangriff
+MSID_H_JobSkill_Halberdier	Initiiert die Einheit den Kampf, wenn\nsich ein Verbündeter auf der gegen-\nüberliegenden Seite des Gegners\nbefindet, führt sie einen Folgeangriff\naus, sofern die Waffe es zulässt.
+MSID_JobSkill_RoyalKnight	Reparatur
+MSID_H_JobSkill_RoyalKnight	Hat die Einheit mindestens 11 KP\nund befindet sich neben einem\nVerbündeten, der nach dem Kampf\nunter „Bruch“ leidet, opfert sie\n10 KP u. entfernt d. „Bruch“-Status.
+MSID_JobSkill_Berserker	Schmetterschlag+
+MSID_H_JobSkill_Berserker	Führt die Einheit einen Schmetter-\nschlag aus, stößt sie das Ziel\n2 Felder weit weg (statt 1 Feld).
+MSID_JobSkill_Warrior	Gnadenlos
+MSID_H_JobSkill_Warrior	Die Einheit fügt Gegnern mit dem\nStatus „Bruch“ +50 % Schaden zu.
+MSID_JobSkill_Sniper	Konzentration
+MSID_H_JobSkill_Sniper	Verleiht der Einheit im Kampf gegen\neinen Gegner, der nicht kontern\nkann, Krit. +10.
+MSID_JobSkill_BowKnight	Zielsicherheit
+MSID_H_JobSkill_BowKnight	Initiiert die Einheit den Kampf,\nohne sich vorher bewegt zu haben,\nerhält sie im Kampf Trf. +40.
+MSID_JobSkill_General	Rochade
+MSID_H_JobSkill_General	Erlaubt der Einheit, den Platz mit\neinem benachbarten Verbündeten\nzu tauschen.
+MSID_H_JobSkill_General_CMD	Den Platz mit Verb. tauschen.
+MSID_JobSkill_GrateKnight	Verteidigungshilfe
+MSID_H_JobSkill_GrateKnight	Befindet sich die Einheit zwischen\neinem Verbündeten und einem\nGegner, verringert sich ihr erlittener\nSchaden im Kampf gegen diesen\nGegner um 3.
+MSID_JobSkill_Paladin	Drehung
+MSID_H_JobSkill_Paladin	Erlaubt es der Einheit, sich auf\ndie gegenüberliegende Seite eines\nbenachbarten Verbündeten zu\nbewegen.
+MSID_H_JobSkill_Paladin_CMD	Neben einen Verb. ziehen.
+MSID_JobSkill_WolfKnight	Lahmheit
+MSID_H_JobSkill_WolfKnight	Initiiert die Einheit den Kampf und\nverwendet dabei ein Messer, fügt sie\ndem Gegner Bew. -2 für 1 Runde zu.
+MSID_JobSkill_GriffinKnight	Freier Weg
+MSID_H_JobSkill_GriffinKnight	Das Feld, auf dem sich die Einheit\nbefindet, und benachbarte Felder\nerhalten Bewegungskosten von 1\nfür alle Verbündeten.
+MSID_JobSkill_DragonKnight	Luftangriff
+MSID_H_JobSkill_DragonKnight	Initiiert die Einheit den Kampf von\neinem Feld aus, das vom Gegner\nnicht besetzt werden kann, erhält sie\nim Kampf Ges. +5.
+MSID_JobSkill_Thief	Passieren
+MSID_H_JobSkill_Thief	Die Einheit wird in ihrer Bewegung\nnicht durch Gegner behindert.
+MSID_JobSkill_Sage	Magieharmonie
+MSID_H_JobSkill_Sage	Initiiert die Einheit den Kampf und\nverwendet dabei ein Buch, erhält\nsie Angr. +X.\nX = Anzahl der benachbarten\nVerbündeten mit Buch.
+MSID_JobSkill_MageKnight	Chaosstil
+MSID_H_JobSkill_MageKnight	Initiiert die Einheit den Kampf und\nverwendet eine andere Schadensart\nals der Gegner (physischer/\nmagischer Schaden), erhält sie\nim Kampf Ges. +3.
+MSID_JobSkill_MasterMonk	Weite Heilung
+MSID_H_JobSkill_MasterMonk	Wird die Einheit durch einen Stab\ngeheilt, werden bei allen benachbar-\nten Verbündeten 50 % der KP\nwiederhergestellt, die die Einheit\nerhalten hat.
+MSID_JobSkill_HighPriest	Selbstheilung
+MSID_H_JobSkill_HighPriest	Die Einheit kann Heilstäbe auf sich\nselbst anwenden.
+MSID_JobSkill_DragonKing	Göttlicher Geist
+MSID_H_JobSkill_DragonKing	Die Bündnisleiste der Einheit wird\num einen Schritt verringert.
+MSID_JobSkill_ShadowPrincess	Dämonengeist
+MSID_H_JobSkill_ShadowPrincess	Zu Beginn jeder Runde füllt sich die\nBündnisleiste um +1.
+MSID_JobSkill_ShadowDragon	Dunkler Geist
+MSID_H_JobSkill_ShadowDragon	Zu Beginn der Runde reduziert sich\ndie Bündnisleiste von Gegnern\ninnerhalb von 2 Feldern um -1.
+MSID_JobSkill_Avenir	Goldener Lotus
+MSID_H_JobSkill_Avenir	Während des Kampfes kann der\nphysische Schaden, der erlitten\nwird, um 50 % reduziert sein.\nChance in % = Beh.
+MSID_JobSkill_Fleurage	Ignus
+MSID_H_JobSkill_Fleurage	Während des Kampfes können\nMagieattacken 50 % der Stä. hinzu-\ngewinnen – oder 50 % der Mag. den\nanderen Attacken hinzugefügt\nwerden. Chance in % = Beh.
+MSID_JobSkill_Successeur	Sonne
+MSID_H_JobSkill_Successeur	Die Einheit kann KP = 50 % des\nzugefügten Schadens erhalten.\nChance in % = Beh.
+MSID_JobSkill_Tirailleur	Mond
+MSID_H_JobSkill_Tirailleur	Der Kampf kann so verlaufen, als ob\nder Gegner Ver./Res. -50 % erlitten\nhätte.\nChance in % = Beh.
+MSID_JobSkill_Lindwurm	Zupackende Leere
+MSID_H_JobSkill_Lindwurm	Greift die Einheit mit einem Buch\nan, kann sie zusätzlichen Schaden\n= 50 % des gegnerischen Mag.-Werts\nzufügen.\nChance in % = Beh.
+MSID_JobSkill_Sleipnir	Weltenbaum
+MSID_H_JobSkill_Sleipnir	Verwendet die Einheit einen Stab,\nkann es sein, dass die Anwendung\nnicht als verbraucht gezählt wird.\nChance in % = Beh.
+MSID_JobSkill_Pitchfork	Sandsturm
+MSID_H_JobSkill_Pitchfork	Greift die Einheit mit einer physi-\nschen Attacke an, kann der Schaden\nmit 150 % von Ver. statt Stä. zuge-\nfügt werden. Chance in % = Beh.
+MSID_JobSkill_Cupido	Gleichfalls
+MSID_H_JobSkill_Cupido	Kontert die Einheit, kann sie\nzusätzlichen Schaden zufügen\n= 50 % des erlittenen Schadens.\nChance in % = Beh.
+MSID_JobSkill_Melusine	Seelenklinge
+MSID_H_JobSkill_Melusine	Greift die Einheit mit einem Schwert\nan, berechnet sich der zugefügte\nSchaden anhand des Durchschnitts-\nwerts der gegnerischen Ver. und\nRes.
+MSID_JobSkill_Dancer	Derwischtanz
+MSID_H_JobSkill_Dancer	Setzt die Einheit „Tanzen“ ein,\nerhält das Ziel Beh./Ges./Glk. +3 für\n1 Runde.
+MSID_MarthRing_Sheeda	Mitgefühl
+MSID_H_MarthRing_Sheeda	Initiiert der Gegner den Kampf und\nsind die KP der Einheit ≦ 50 %,\nerleidet sie Schaden -5.
+MSID_MarthRing_Nabarl	Tödliche Klinge
+MSID_H_MarthRing_Nabarl	Initiiert die Einheit den Kampf mit\neinem Schwert, erhält sie Krit. +10\nim Kampf.
+MSID_SigludRing_Celice	Kampferfahrung
+MSID_H_SigludRing_Celice	Initiiert die Einheit den Kampf und\nbesiegt einen Gegner, erhält sie jedes\nMal Krit. +1. Der Bonus gilt bis zum\nEnde der Schlacht. (Max. +10)
+MSID_SigludRing_Diadora	Heilung
+MSID_H_SigludRing_Diadora	Die Einheit erholt sich in jeder\nRunde um 5 KP.
+MSID_CelicaRing_Alm	Windfeger
+MSID_H_CelicaRing_Alm	Initiiert die Einheit den Kampf mit\neinem Schwert, kann der Gegner\neventuell nicht kontern.\nChance in % = Glk.
+MSID_CelicaRing_Mae	Großer Donner
+MSID_H_CelicaRing_Mae	Setzt die Einheit Donner,\nElfendonner oder Thoron ein, fügt\nsie Schaden + 20 % zu.
+MSID_MicaiahRing_Sothe	Verderben
+MSID_H_MicaiahRing_Sothe	Kann die KP des Gegners auf 1\nreduzieren.\nChance in % = halbe Beh.\n(Bestimmte Gegner sind gegen\ndiesen Effekt immun.)
+MSID_MicaiahRing_Erincia	Barmherzigkeit
+MSID_H_MicaiahRing_Erincia	Fügt die Einheit dem Gegner einen\neigentlich tödlichen Schaden zu,\nüberlebt dieser mit 1 KP.
+MSID_RoyRing_Lilina	Wütendes Feuer
+MSID_H_RoyRing_Lilina	Verwendet die Einheit Feuer, Elfen-\nlicht oder Bolganone, fügt sie\nSchaden +20 % zu.
+MSID_RoyRing_Dieck	Starker Arm
+MSID_H_RoyRing_Dieck	Ist die Einheit mit einer Schmetter-\nwaffe ausgerüstet, erhält sie\nTrf. +20.
+MSID_LeafRing_Fin	Arkanum
+MSID_H_LeafRing_Fin	Würde die Einheit durch einen\nAngriff besiegt werden, kann sie dem\ngegn. Angriff ausweichen.\nChance in % = Glk. (Max. 50 %)
+MSID_LeafRing_Olwen	Fataler Donner
+MSID_H_LeafRing_Olwen	Initiiert die Einheit den Kampf,\nwährend sie mit Donner ausgerüstet\nist, kann sie einen 2. Angriff ausfüh-\nren. (Ausgenommen: Elfendonner\nund Thoron.)
+MSID_LucinaRing_Chrom	Wahre Regentin
+MSID_H_LucinaRing_Chrom	Fügt allen Fähigkeiten, die eine\n„Chance“ beinhalten, +5 % zu dieser\nChance hinzu.
+MSID_LucinaRing_Lissa	Hände auflegen
+MSID_H_LucinaRing_Lissa	Heilt die Einheit einen Verbündeten\nmit einem Stab, werden beim Ziel\n+5 KP wiederhergestellt.
+MSID_LinRing_Eliwod	Mitziehen
+MSID_H_LinRing_Eliwod	Erlaubt es der Einheit, sich 1 Feld\nvon einem benachbarten Verbün-\ndeten zu entfernen und diesen\nmitzuziehen.
+MSID_H_LinRing_Eliwod_CMD	Einh. & Verb. über 1 Feld ziehen.
+MSID_LinRing_Nino	Giga-Excalibur
+MSID_H_LinRing_Nino	Initiiert die Einheit den Kampf mit\nExcalibur, fügt sie Schaden +20 %\nzu.
+MSID_IkeRing_Senerio	Wind-Adept
+MSID_H_IkeRing_Senerio	Initiiert die Einheit den Kampf,\nwährend sie mit Wind ausgerüstet\nist, kann sie zweimal angreifen.\nChance in % = Beh. (Gilt nicht für\nElfenwind und Excalibur.)
+MSID_IkeRing_Wayu	Stoß
+MSID_H_IkeRing_Wayu	Erlaubt es der Einheit, einen\nbenachbarten Verbündeten mit\ngeringerer Fig. 1 Feld\nzurückzustoßen.
+MSID_H_IkeRing_Wayu_CMD	Leichteren Verb. 1 Feld weit\nstoßen.
+MSID_BylethRing_Edelgard	Leuchtende Blume
+MSID_H_BylethRing_Edelgard	Initiiert die Einheit den Kampf,\nfriert sie den Gegner ein.\nChance in % = zugefügter\nGesamtschaden.
+MSID_BylethRing_Dimitri	Paraselene
+MSID_H_BylethRing_Dimitri	Erlaubt der Einheit, sich nach der\nAusführung einer Attacke gegen\neinen benachbarten Gegner 1 Feld\nvom Gegner zu entfernen.
+MSID_H_BylethRing_Dimitri_CMD	Angreifen, dann wegbewegen.
+MSID_BylethRing_Claude	Windgott
+MSID_H_BylethRing_Claude	Sind die KP der Einheit = 100 %,\nerhält sie mit dem Bogen Reich-\nweite +1.
+MSID_KamuiRing_Marks	Ritterlichkeit
+MSID_H_KamuiRing_Marks	Initiiert die Einheit den Kampf und\nsind die KP des Gegners = 100 %,\nfügt sie +2 Schaden zu und erleidet\n-2 Schaden.
+MSID_KamuiRing_Ryoma	Bushido
+MSID_H_KamuiRing_Ryoma	Wenn der Lv. der Einheit höher ist\nals der des Gegners, erhält sie im\nKampf Krit. +10, fügt +2 Schaden zu\nund erleidet -2 Schaden.
+MSID_EirikRing_Marica	Exitus
+MSID_H_EirikRing_Marica	Trifft die Einheit den Gegner mit\neinem kritischen Treffer, wird der\nGegner sofort besiegt.\nChance in % = 30. (Ausnahme:\nBestimmte mächtige Gegner.)
+MSID_EirikRing_Heanius	Volltreffer
+MSID_H_EirikRing_Heanius	Initiiert die Einheit den Kampf,\nlandet sie garantiert einen Treffer.\nChance in % = Beh.
+MSID_SpecialRing_Alfonse	Agr. anspornen
+MSID_H_SpecialRing_Alfonse	Verleiht benachbarten Verbündeten\nAgr. +2.
+MSID_SpecialRing_Sharena	Ver. stärken
+MSID_H_SpecialRing_Sharena	Verleiht benachbarten Verbündeten\nfür 1 Zug Ver. +2 zu Beginn der\nSpielerphase.
+MSID_SpecialRing_Anna	Res. ansporn.
+MSID_H_SpecialRing_Anna	Verleiht benachbarten Verbündeten\nRes. +2.
+MSID_SombreBarrier1	Dämonenwall
+MSID_H_SombreBarrier1	Barriere, von Dunklen Emblemen\nerrichtet. Hebt „Effektiv gegen:\nDämonendrachen“ auf und verhin-\ndert für die Einheit 50 % des zu\nerleidenden Schadens.
+MSID_SombreBarrier2	Dämonenwall+
+MSID_H_SombreBarrier2	Barriere, von Dunklen Emblemen\nerrichtet. Hebt „Effektiv gegen:\nDämonendrachen“ auf und verhin-\ndert für die Einheit 70 % des zu\nerleidenden Schadens.
+MSID_SombreBarrier3	Dämonenwall++
+MSID_H_SombreBarrier3	Barriere, von Dunklen Emblemen\nerrichtet. Hebt „Effektiv gegen:\nDämonendrachen“ auf und verhin-\ndert für die Einheit 85 % des zu\nerleidenden Schadens.
+MSID_SombreBarrier4	Dämonenwall+++
+MSID_H_SombreBarrier4	Barriere, von Dunklen Emblemen\nerrichtet.\nHebt „Effektiv gegen: Dämonen-\ndrachen“ auf und verhindert allen\nSchaden für die Einheit.
+MSID_SombreBarrier1_Normal	Dunkler Wall
+MSID_H_SombreBarrier1_Normal	Barriere, von Dunklen Emblemen\nerrichtet. Verhindert für die Einheit\n20 % des zu erleidenden Schadens.
+MSID_SombreBarrier2_Normal	Dunkler Wall+
+MSID_H_SombreBarrier2_Normal	Barriere, von Dunklen Emblemen\nerrichtet. Verhindert für die Einheit\n40 % des zu erleidenden Schadens.
+MSID_SombreBarrier3_Normal	Dunkler Wall++
+MSID_H_SombreBarrier3_Normal	Barriere, von Dunklen Emblemen\nerrichtet. Verhindert für die Einheit\n60 % des zu erleidenden Schadens.
+MSID_SombreBarrier4_Normal	Dunkler Wall+++
+MSID_H_SombreBarrier4_Normal	Barriere, von Dunklen Emblemen\nerrichtet. Verhindert für die Einheit\n80 % des zu erleidenden Schadens.
+MSID_ChainAttackDamageWeaken	Bandbrecher
+MSID_H_ChainAttackDamageWeaken	Reduziert die Genauigkeit von\ngegnerischen Koop-Schlägen auf\n30 %. Reduziert erlittenen Schaden.
+MSID_SnakeVenom	Vergiftete Klinge
+MSID_H_SnakeVenom	Initiiert die Einheit den Kampf,\nfügt sie dem Gegner nach dem\nKampf Schaden = X zu.\n(X = 20 % der max. KP des\nGegners.)
+MSID_SighOfDeath	Wilder Hieb
+MSID_H_SighOfDeath	Initiiert die Einheit den Kampf,\nerleiden Gegner im Umkreis von\n2 Feldern nach dem Kampf Schaden.\nSchadenshöhe = jeweils 20 %\nihrer max. KP.
+MSID_SwordKilling	Schwertbrecher
+MSID_H_SwordKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einem Schwert ausgerüs-\ntet, kann die Einheit einen Folgean-\ngriff ausführen, der Gegner nicht.
+MSID_LanceKilling	Lanzenbrecher
+MSID_H_LanceKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einer Lanze ausgerüstet,\nkann die Einheit einen Folgeangriff\nausführen, der Gegner nicht.
+MSID_AxeKilling	Axtbrecher
+MSID_H_AxeKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einer Axt ausgerüstet,\nkann die Einheit einen Folgeangriff\nausführen, der Gegner nicht.
+MSID_MagicKilling	Zauberbrecher
+MSID_H_MagicKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einem Buch ausgerüstet,\nkann die Einheit einen Folgeangriff\nausführen, der Gegner nicht.
+MSID_BowKilling	Bogenbrecher
+MSID_H_BowKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einem Bogen ausgerüs-\ntet, kann die Einheit einen Folgean-\ngriff ausführen, der Gegner nicht.
+MSID_KnifeKilling	Messerbrecher
+MSID_H_KnifeKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und ist der\nGegner mit einem Messer ausgerüs-\ntet, kann die Einheit einen Folgean-\ngriff ausführen, der Gegner nicht.
+MSID_PranaKilling	Nahkampfbrecher
+MSID_H_PranaKilling	Sind die KP der Einheit zu Beginn\ndes Kampfes ≧ 50 % und hat der\nGegner eine Nahkampffähigkeit\nausgerüst., kann die Einheit einen\nFolgeangriff ausführen, d. Geg. nicht.
+MSID_PowerSeal	Stä. rauben
+MSID_H_PowerSeal	Initiiert die Einheit den Kampf,\nerleidet der Gegner nach dem Kampf\nStä. -6 (Verringerung sinkt pro Zug\num 1).
+MSID_MagicSeal	Mag. rauben
+MSID_H_MagicSeal	Initiiert die Einheit den Kampf,\nerleidet der Gegner nach dem Kampf\nMag. -6 (Verringerung sinkt pro Zug\num 1).
+MSID_DefenseSeal	Ver. rauben
+MSID_H_DefenseSeal	Initiiert die Einheit den Kampf,\nerleidet der Gegner nach dem Kampf\nVer. -6 (Verringerung sinkt pro Zug\num 1).
+MSID_SpeedSeal	Ges. rauben
+MSID_H_SpeedSeal	Initiiert die Einheit den Kampf,\nerleidet der Gegner nach dem Kampf\nGes. -6 (Verringerung sinkt pro Zug\num 1).
+MSID_MagicDefenseSeal	Res. rauben
+MSID_H_MagicDefenseSeal	Initiiert die Einheit den Kampf,\nerleidet der Gegner nach dem Kampf\nRes. -6 (Verringerung sinkt pro Zug\num 1).
+MSID_DemonStance	Wilde Haltung
+MSID_H_DemonStance	Initiiert der Gegner den Kampf,\nerhält die Einheit Stä. +6 im Kampf.
+MSID_VajraStance	Fester Stand
+MSID_H_VajraStance	Initiiert der Gegner den Kampf,\nerhält die Einheit Ver. +6 im Kampf.
+MSID_SwallowStance	Sturzflugstand
+MSID_H_SwallowStance	Initiiert der Gegner den Kampf,\nerhält die Einheit Ges. +6 im Kampf.
+MSID_MingMirrorStance	Bannhaltung
+MSID_H_MingMirrorStance	Initiiert der Gegner den Kampf,\nerhält die Einheit Res. +6 im Kampf.
+MSID_Deadline	Lebensfaden
+MSID_H_Deadline	Während des Kampfes fügt die\nEinheit +10 Schaden zu und erleidet\n+10 Schaden.
+MSID_EnhancedCompatibility	Dreiecksadept
+MSID_H_EnhancedCompatibility	Verfügt die Einheit über einen\nWaffenvorteil, führt sie immer einen\nFolgeangriff aus. Hat sie einen\nWaffennachteil, wird der Gegner\nimmer einen Folgeangriff ausführen.
+MSID_CatBites	In der Klemme
+MSID_H_CatBites	Sind die KP der Einheit zu Beginn\ndes Kampfes ≦ 50 %, erhält sie im\nKampf Krit. +30.
+MSID_SelfDestruction	Selbstzerstörung
+MSID_H_SelfDestruction	Sind die KP der Einheit zu Beginn\nder Spielerphase ≦ 50 %, stirbt die\nEinheit und fügt Gegnern im Umkreis\nvon 2 Feldern Schaden = 50 % ihrer\nmax. KP zu.
+MSID_BreakInvalid	Unzerbrechlich
+MSID_H_BreakInvalid	Verhindert, dass die Einheit „Bruch“\nerleidet.
+MSID_Immovable	Anker
+MSID_H_Immovable	Die Einheit kann durch Fähigkeiten,\nSchmetterwaffen etc. nicht bewegt\nwerden.
+MSID_CurseOfNihility	Fluch der Leere
+MSID_H_CurseOfNihility	Gegner, die gegen diese Einheit\nkämpfen, erhalten keine Erf.
+MSID_ClearStreamHit	Duellistenschlag
+MSID_H_ClearStreamHit	Initiiert die Einheit den Kampf,\nerhält sie Aw. +30 während des\nKampfes.
+MSID_SwallowHit	Sturzflughieb
+MSID_H_SwallowHit	Initiiert die Einheit den Kampf,\nerhält sie Ges. +5 während des\nKampfes.
+MSID_DemonHit	Voll ins Schwarze
+MSID_H_DemonHit	Initiiert die Einheit den Kampf,\nerhält sie Krit. +20 während des\nKampfes.
+MSID_BadBirdHit	Gezielter Hieb
+MSID_H_BadBirdHit	Initiiert die Einheit den Kampf,\nerhält sie Trf. +40 während des\nKampfes.
+MSID_VajraHit	Defensiver Hieb
+MSID_H_VajraHit	Initiiert die Einheit den Kampf,\nerleidet sie -10 Schaden durch\nphysische Angriffe während des\nKampfes.
+MSID_MingMirrorHit	Bannender Hieb
+MSID_H_MingMirrorHit	Initiiert die Einheit den Kampf,\nerleidet sie -20 Schaden durch\nMagie während des Kampfes.
+MSID_FrenzyHit	Trennungshieb
+MSID_H_FrenzyHit	Trifft die Einheit den Gegner bei\nihrem Angriff, leert sie die\nBündnisleiste des Gegners um -5.
+MSID_EffectResistance	Standhaftigkeit
+MSID_H_EffectResistance	Reduziert Schaden durch „Effektiv\ngegen“.
+MSID_EffectInvalid	Gleichmut
+MSID_H_EffectInvalid	Negiert Schaden durch „Effektiv\ngegen“.
+MSID_Expert_1	Alte Garde
+MSID_H_Expert_1	Verhindert bei der Einheit „Bruch“.\nReduziert Schaden durch „Effektiv\ngegen“.
+MSID_Expert_2	Alte Garde+
+MSID_H_Expert_2	Verhindert bei der Einheit „Bruch“.\nReduziert Schaden durch „Effektiv\ngegen“.
+MSID_SkillSuccession	Fähigkeitenerbe
+MSID_H_SkillSuccession	Erlaubt der Einheit, Fähigkeiten\ndieses Emblems zu erben.
+MSID_EngageContinueTurn	Starkes Band
+MSID_H_EngageContinueTurn	Die Einheit bleibt für 1 weiteren\nZug im Bündnis.
+MSID_EngageCount	Tiefe Synergie
+MSID_H_EngageCount	Die Bündnisleiste der Einheit wird\num einen Schritt verringert.
+MSID_RefineGodWeapon_Effect_Fly	Effektiv: Flieger
+MSID_RefineGodWeapon_Effect_Horse	Effektiv: Beritt.
+MSID_RefineGodWeapon_Effect_Armor	Effektiv: Gepanz.
+MSID_RefineGodWeapon_Effect_Dragon	Effektiv: Drachen
+MSID_RefineGodWeapon_Effect_Morph	Effektiv: Verzerrte
+MSID_H_Effect_Fly	Anfällig für Waffen, die „Effektiv\ngegen: Flieger“ sind.
+MSID_H_Effect_Horse	Anfällig für Waffen, die „Effektiv\ngegen: Berittene“ sind.
+MSID_H_Effect_Armor	Anfällig für Waffen, die „Effektiv\ngegen: Gepanzerte“ sind.
+MSID_H_Effect_Dragon	Anfällig für Waffen, die „Effektiv\ngegen: Drachen“ sind.
+MSID_H_Effect_Morph	Anfällig für Waffen, die „Effektiv\ngegen: Verzerrte“ sind.
+MSID_H_Effect_EvilDragon	Anfällig für Waffen, die „Effektiv\ngegen: Dämonendrachen“ sind.
+MSID_H_Effect_Mediuth	Von Marth ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Duma	Von Celica ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Loptous	Von Sigurd ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Veld	Von Leif ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Idenn	Von Roy ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Nergal	Von Lyn ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Fodeth	Von Eirika oder Ephraim ausgeführte\nAngriffe gegen diese Einheit gelten\nals „Effektiv“.
+MSID_H_Effect_Ashnard	Von Ike ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Astarte	Von Micaiah ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Gimle	Von Lucina ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Hydra	Von Corrin ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.
+MSID_H_Effect_Nemesis	Von Byleth ausgeführte Angriffe\ngegen diese Einheit gelten als\n„Effektiv“.

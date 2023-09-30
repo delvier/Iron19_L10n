@@ -1,0 +1,63 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x00\x0A\x04チキ\x023\n\x0E\x03\x02\x0A\x08リュール\nEste sitio es como un horno.\n¿Seguro que hay un brazalete Emblema aquí?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nMmm... ¡Sí! ¡Aquí está!\n¡Es el Brazalete del Estratega!\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nEso es genial. Gracias, Tiki.\nInvocaré al Emblema ahora mismo.\x0E\x04\x02\x00
+MID_OP1_#004	¡Aconséjanos, Emblema de la Perspicacia!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nAsí que por fin ha llegado el momento...\nMentiría si dijese que me alegro.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nHola. Gracias por acudir a nuestra llamada.\nSoy el Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08セネリオ\nY yo soy Soren.\nSupongo que han venido a pedirme ayuda.\x0E\x04\x02\x00
+MID_OP2_#004	Preferiría que fuesen a importunar\na otra gente.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\n¿Perdona?\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08セネリオ\nSolo soy leal a cierta persona. Y tú no eres él.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nPor favor, no digas eso. Necesitamos tu ayuda.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08セネリオ\nVeo que estás \x0E\x0A\x00$\x10empeñado\x10empeñada en doblegar\nmis reticencias.\x0E\x04\x02\x00
+MID_OP2_#009	Si de verdad tu situación es tan desesperada,\nno debe de quedarte otra alternativa.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\nTienes razón, pero preferiría llegar\na un acuerdo.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08セネリオ\n(...)\x0E\x04\x02\x00
+MID_OP2_#012	Está bien. Si me demuestras estar a la altura,\nlo pensaré.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\n¿De verdad? ¿Eso harías?\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08セネリオ\nQué remedio. No pareces el tipo de persona\nque acepta un no por respuesta.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0A\x08リュール\nSea como sea, me alegra oír eso.\nGracias, Emblema Soren.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08セネリオ\nSolo he mencionado que lo pensaría.\nEstá visto que escuchar no es tu fuerte, ¿no?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セネリオ\x02b\n\x0E\x05\x01\x16\x08セネリオ\nAngry\n\x0E\x03\x02\x0A\x08セネリオ\nVamos, terminemos con esto de una vez.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¡Bombas volcánicas!\nEviten las zonas donde puedan caer.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nEl humo nos dificulta la visión.\nDebemos avanzar con cautela.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02t\n\x0E\x05\x01\x14\x06アイク\nSmile\n\x0E\x03\x02\x08\x06アイク\nSiempre te ha gustado ponérselo difícil\na los demás.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08セネリオ\x02b\n\x0E\x05\x01\x1C\x08セネリオ\x10Surprise\n\x0E\x03\x02\x0A\x08セネリオ\n¡¿Ike?!\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06アイク\x0CNormal\n\x0E\x03\x02\x08\x06アイク\nVeamos si estoy a tu altura.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x08セネリオ\x08Pain\n\x0E\x03\x02\x0A\x08セネリオ\n¡Detente!\n¡No tienes necesidad de demostrarme nada!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セネリオ\x02b\n\x0E\x05\x01\x1A\x08セネリオ\x0ESerious\n\x0E\x03\x02\x0A\x08セネリオ\nHa llegado la hora de desplegar todo mi poder.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n\x0E\x05\x01\x16\x08セネリオ\nAngry\n¡Enséñanos lo que sabes hacer,\nEmblema Soren!\x0E\x04\x02\x00
+MID_BT2_#003	¡Danos la oportunidad de probarte\nque somos aliados dignos de ti!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nYa basta. He visto suficiente.\x0E\x04\x02\x00
+MID_ED1_#002	Cálmate. Lo han hecho relativamente bien.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Significa eso que te unirás a nuestras filas?\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08セネリオ\nAsí lo haré. Aunque sospecho que mi ayuda\npodría causarte algún conflicto.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\n¿Por qué dices eso?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08セネリオ\nPresiento que vas a tener problemas\npara seguir mis consejos.\x0E\x04\x02\x00
+MID_ED1_#007	Por ejemplo, una vez mi grupo fue contratado\npara escoltar a la princesa de un país arruinado.\x0E\x04\x02\x00
+MID_ED1_#008	En cierto momento, nos rodeó el enemigo,\nque pretendía capturarla.\x0E\x04\x02\x00
+MID_ED1_#009	Como estratega, le recomendé a nuestro\ncomandante que la entregase de inmediato.\x0E\x04\x02\x00
+MID_ED1_#010	Mi lógica dictaba que, como mercenarios,\nel oro era prioritario. No había obligación\nmoral de protegerla.\x0E\x04\x02\x00
+MID_ED1_#011	La situación cambió más adelante, pero no me\narrepiento del consejo que di. Lo haría otra vez.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nEstás en lo cierto. No seguiría tu sugerencia,\npero te equivocas si crees que la desdeñaría.\x0E\x04\x02\x00
+MID_ED1_#013	Hay que considerar las decisiones difíciles\ndesde todos los ángulos.\x0E\x04\x02\x00
+MID_ED1_#014	De hecho, me alegra saber que aportarás\nuna perspectiva diferente a la mía.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08セネリオ\nPodría debatir ese asunto contigo,\npero no creo que nos condujese a nada.\x0E\x04\x02\x00
+MID_ED1_#016	En su lugar, permite que te dé este consejo:\nsigue tus propios ideales.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\n¿A qué te refieres con eso?\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08セネリオ\nLa guerra es cruel. Los buenos deseos no te dan\nla victoria, pero sí aferrarte a tus convicciones.\x0E\x04\x02\x00
+MID_ED1_#019	Si algo he aprendido, es que la determinación\nes capaz de cambiar el rumbo de la historia.\x0E\x04\x02\x00
+MID_ED1_#020	Por eso, no traiciones tus ideales.\nSigue avanzando por tu propio camino.\x0E\x04\x02\x00
+MID_ED1_#021	Contarás con todo mi apoyo.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08リュール\nEntendido. Gracias, Emblema Soren.\x0E\x04\x02\x00
+MID_ED1_#023	Sé que nos esperan decisiones difíciles.\nContaré con tu sabiduría para no errar.\x0E\x04\x02\x00
+MID_ED1_#024	Solo puedo decir que me alegra contar contigo.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アイク\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06アイク\nParece que volvemos a formar equipo.\nMe alegra verte, Soren.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08セネリオ\nDe saber que estabas con ellos, me habría unido\nal momento. Deberías habérmelo dicho antes.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x08\x06アイク\nNunca está de más un poco de entrenamiento.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x0A\x08セネリオ\n¿Puedo pedirte un favor?\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06アイク\nClaro.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08セネリオ\nMe gustaría retomar mi antiguo puesto,\nsi te parece. Mi sitio está a tu lado.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06アイク\nSabía que más tarde o más temprano\nme lo pedirías. Eso está hecho.\x0E\x04\x02\x00
+MID_ED2_#008	Eres la persona en la que más confío.\nYa lo sabes.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x0A\x08セネリオ\nGracias, Ike. Solo deseo servirte.\x0E\x04\x00\x00

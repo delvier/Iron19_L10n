@@ -1,0 +1,383 @@
+MID_NET_SettingOn	Las funciones en línea están deshabilitadas.\n¿Quieres activarlas?
+MID_NET_TowerNetwork_On	Las funciones en línea están inhabilitadas.\n¿Quieres activarlas para poder\njugar con otros usuarios?
+MID_NET_RANKING_On	Las funciones en línea están inhabilitadas.\n¿Quieres activarlas para ver los datos\nde despliegue de unidades de otros jugadores?
+MID_NET_SettingOn_Yes	Sí
+MID_NET_Setting	No se ha habilitado la conexión en los ajustes.
+MID_NET_Connecting	Conectando...
+MID_NET_Error_TROPE	Sin conexión.
+MID_NET_Connecting_Error	Se ha producido un error.\nVuelve a intentarlo más tarde.
+MID_NET_Title_Help	Elige un reto.
+MID_NET_Notes_Terms	Otros jugadores verán tu nombre de usuario de Nintendo Switch en los retos por relevos y alóctonos. Tu ficha de perfil también será visible si eliges hacerla pública en las opciones de privacidad. En el sitio web de Nintendo se pueden consultar las reglas comunitarias que se aplican al comportamiento dentro del juego y al contenido compartido. Trata siempre con respeto al resto de jugadores.
+MID_NET_Notes_Report	Si tu comportamiento o el contenido que compartas infringen las reglas comunitarias, puede que tus datos se borren del servidor y que se te restrinja el acceso a jugar en línea. Puedes denunciar cualquier contenido inapropiado desde el menú "Sistema".
+MID_MATCH_Title	Reto alóctono
+MID_MATCH_Help	Lucha contra los ejércitos de otros\njugadores en línea en mapas\nseleccionados o editados.
+MID_MATCH_Title_Help	Elige un modo.
+MID_RELAY_Title	Reto por relevos
+MID_RELAY_Help	Afronta un mapa con otros\njugadores en línea en un modo\ncooperativo por relevos.\nNecesitas boletos para jugar.
+MID_RELAY_Title_Help	Elige cómo empezar el reto.
+MID_CHALLENGE_Title	La Tormenta
+MID_CHALLENGE_Help	En este reto te enfrentarás\na varias batallas consecutivas.\nLas recompensas aumentan\nsegún el nivel de dificultad.
+MID_CHALLENGE_Closed_Dialog	La Tormenta estará disponible cuando superes\nel capítulo 11.
+MID_NETWORK_Map_Outline	Info. del mapa
+MID_NETWORK_Map_Name	Mapa
+MID_NETWORK_Map_Name_Content	\x0E\x01\x00\x00 (\x0E\x01\x01\x00)
+MID_NETWORK_LimitTurn_Content	\x0E\x01\x00\x00 (Jugadores: \x0E\x01\x01\x00)
+MID_NETWORK_Reward	Recompensa
+MID_NETWORK_Degree	Título
+MID_NETWORK_Clear_Reward	Recompensas por victoria
+MID_NETWORK_Map_Select	Seleccionar mapa
+MID_NETWORK_BACK_CONFIRM	¿Volver al menú?
+MID_NETWORK_BACK_CONFIRM_YES	Volver al menú
+MID_NETWORK_H_BACK_CONFIRM	Vuelve al menú.
+MID_NET_Error	Se ha producido un error.
+MID_NET_NFC_Error	Se ha interrumpido la conexión\ncon el mando que puede leer amiibo.
+MID_MATCH_Easy	Batalla rápida
+MID_MATCH_H_Easy	Elige un mapa y lucha contra\nel ejército de otro jugador.
+MID_MATCH_Easy_TitleHelp	Elige un mapa.
+MID_V001	Jardín
+MID_V002	Cristales
+MID_V003	Fortaleza
+MID_V004	Tesoro
+MID_V005	Columnas
+MID_V006	Ventisca
+MID_MATCH_Search	Buscar rival
+MID_MATCH_Search_Help	Elige un método de selección.
+MID_MATCH_Random	Aleatorio
+MID_MATCH_H_Random	Lucha contra el ejército de otro\njugador elegido de forma aleatoria.
+MID_MATCH_Serious_H_Random	Se seleccionará un mapa de otro\njugador de forma automática.\nEsta batalla contará para\ntu clasificación.
+MID_MATCH_Matching	Rival encontrado: \x0E\x01\x00\x00
+MID_MATCH_Matching_Empty	No se han encontrado rivales.
+MID_MATCH_Matching_Verification	¿Luchar contra \x0E\x01\x00\x00?
+MID_MATCH_NoData	No se han encontrado datos.
+MID_MATCH_Friend	Amigo
+MID_MATCH_H_Friend	Selecciona un rival al que\nenfrentarte desde la lista\nde ejércitos de tus amigos.
+MID_MATCH_Serious_H_Friend	Puedes elegir un mapa de una lista\ndonde aparecen los de tus amigos.\nEsta batalla no contará\npara tu clasificación.
+MID_MATCH_Friend_Select_Prompt	Selecciona un amigo.
+MID_MATCH_Friend_Select	Seleccionar amigo
+MID_MATCH_Friend_Corps	\x0E\x01\x00\x00
+MID_MATCH_Friend_Code	Introducir ID
+MID_MATCH_H_Friend_Code	Introduce un ID para luchar contra\nel ejército de un jugador concreto.
+MID_MATCH_Serious_H_Friend_Code	Introduce un ID para luchar usando\nel mapa de un jugador concreto.\nEsta batalla no contará\npara tu clasificación.
+MID_MATCH_Friend_Code_Input_Easy	Introduce el ID de tu rival para la batalla rápida.
+MID_MATCH_Friend_ID	¿Buscar este ID?
+MID_MATCH_Friend_ID_Search	Usar este ID
+MID_MATCH_My_ID_Attention	No puedes introducir tu propio ID de batalla.
+MID_MATCH_Profile	Fichas de perfil
+MID_MATCH_H_Profile	Puedes elegir de entre las fichas\nque hayas recibido de otros jugadores.
+MID_MATCH_Serious_H_Profile	Puedes elegir de entre las fichas\nque hayas recibido de otros jugadores.\n(El resultado no afectará a tu clasificación.)
+MID_MATCH_Profile_Select_Prompt	Elige un jugador.
+MID_MATCH_Profile_Select	Disponibles
+MID_ProfileCard_Match_NoProfile	No tienes fichas de perfil que se puedan\nusar para la batalla.
+MID_MATCH_MAP_Error	La batalla se ha suspendido debido a un error\nen los datos.
+MID_MATCH_Serious	Batalla personalizada
+MID_MATCH_H_Serious	Lucha en un mapa personalizado\nuniendo uno subido por ti\ncon el de otro jugador.
+MID_MATCH_H_Serious_Attention	Para jugar una batalla personalizada,\nnecesitas al menos dos unidades de tu ejército.
+MID_MATCH_H_Serious_OldMap	La batalla no puede comenzar porque los datos\ndel mapa subido actualmente al servidor\nson más antiguos que los datos presentes\nen la consola. Selecciona "Editar mapa"\ny sube los datos más recientes para continuar.
+MID_MATCH_Serious_Help	Elige una acción.
+MID_MATCH_Friend_Code_Input_Serious	Introduce el ID de tu rival para la batalla personalizada.
+MID_MATCH_Battle_Start	Iniciar batalla
+MID_MATCH_H_Battle_Start	Lucha contra el ejército\nde otro jugador usando tu mapa.
+MID_MATCH_Battle_Win	¡Victoria!
+MID_MATCH_H_Battle_Lose	Derrota
+MID_MATCH_GET_PIECE	Obtienes: \x0E\x01\x00\x00 Fragmento de lazo × \x0E\x01\x01\x00.
+MID_MATCH_GET_GOLD	Obtienes: \x0E\x01\x00\x00 \x0E\x01\x01\x00 M.
+MID_MATCH_GET_ITEM	Obtienes: \x0E\x01\x00\x00 \x0E\x01\x01\x00.
+MID_MATCH_GET_ITEM_PLURAL	Obtienes: \x0E\x01\x00\x00 \x0E\x01\x01\x00 × \x0E\x01\x02\x00.
+MID_MATCH_Map_EditName	Preparativos
+MID_MATCH_Map_Edit	Editar mapa
+MID_MATCH_H_Map_Edit	Crea un mapa de batalla\ny un equipo para defenderlo.
+MID_MATCH_Map_Reset	Restablecer
+MID_MATCH_H_Map_Reset	Restablece la disposición\ndel mapa.
+MID_MATCH_H_Map_Reset_Confirmation	¿Restablecer la disposición actual del mapa?
+MID_MATCH_Map_Save	Guardar
+MID_MATCH_H_Map_Save	Guarda tu mapa\npersonalizado.
+MID_MATCH_Map_Edit_Finish	Finalizar
+MID_MATCH_H_Map_Edit_Finish	Termina de editar el mapa.
+MID_MATCH_Map_Edit_Finish_Confirmation	¿Quieres terminar de editar el mapa?
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	¿Quieres terminar de editar sin guardar?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	Terminar
+MID_MATCH_Map_Edit_Finish_Confirmation_No	Continuar
+MID_MATCH_Map_HealPanel_Duplicated	Solo se puede colocar una casilla\nde suelo sanador o de protección.
+MID_MATCH_Map_Cannon_Duplicated	Solo se puede colocar una balista,\nartillería mágica o cañón.
+MID_MATCH_Map_Save_Error	No se ha podido guardar el mapa.\n\x0E\x01\x00\x00
+MID_MATCH_Map_Save_Error_NoUnit	Despliega 1 unidad al menos.
+MID_MATCH_Map_Save_Error_AllUnit	Todas las unidades se encuentran\nen batallas defensivas.
+MID_MATCH_Serious_Error_AllUnit	No tienes unidades disponibles para formar\nun batallón de asalto. Selecciona "Editar mapa"\ny reduce el número de aliados asignados\na tu batallón defensivo.
+MID_MATCH_Map_Save_Error_BanAreaUnit	Al menos una unidad se encuentra\nen una zona inaccesible.
+MID_MATCH_Map_Save_Error_InvalidData	No se ha podido guardar.\nLos datos podrían estar dañados.
+MID_MATCH_Map_Save_Success	Mapa guardado.
+MID_MATCH_Map_UpRoad	¿Quieres subir tu mapa para usarlo en batallas \ndefensivas? Solo se puede subir un mapa por\ncuenta Nintendo. Los mapas que hayas subido\nanteriormente, incluidos los creados con otros\ndatos de guardado, se sobrescribirán.
+MID_MATCH_Map_UpRoad_Yes	Subir
+MID_MATCH_Map_UpRoad_No	Cancelar
+MID_MATCH_Map_UpRoad_Success	Tu mapa se ha subido correctamente.
+MID_MATCH_Map_UpRoad_Failure	No se ha podido subir el mapa.
+MID_MATCH_Unit_Duplicate	\x0E\x01\x00\x00 está en posición defensiva.
+MID_MATCH_Map_Edit_AI_NotMove	Esperar
+MID_MATCH_H_Map_Edit_AI_NotMove	Mantén la posición inicial.
+MID_MATCH_Map_Edit_AI_Defense	Defender
+MID_MATCH_H_Map_Edit_AI_Defense	Ataca a los enemigos\nque estén al alcance.
+MID_MATCH_Map_Edit_AI_Rush	Atacar
+MID_MATCH_H_Map_Edit_AI_Rush	Hostiga a los enemigos\ncomenzando por el más débil.
+MID_MATCH_Map_Edit_AI_ResponseA	Grupo A
+MID_MATCH_H_Map_Edit_AI_ResponseA	El grupo A actúa cuando los\nenemigos estén a su alcance.
+MID_MATCH_Map_Edit_AI_ResponseB	Grupo B
+MID_MATCH_H_Map_Edit_AI_ResponseB	El grupo B actúa cuando los\nenemigos estén a su alcance.
+MID_MATCH_Map_Edit_AI_ResponseC	Grupo C
+MID_MATCH_H_Map_Edit_AI_ResponseC	El grupo C actúa cuando los\nenemigos estén a su alcance.
+MID_MATCH_Map_Replay	Ver resultados
+MID_MATCH_H_Map_Replay	Mira los resultados de las batallas\ndefensivas que han tenido lugar.
+MID_MATCH_History	Ha habido una batalla en uno de los mapas\nque has subido. ¿Quieres ver los resultados?
+MID_MATCH_NoHistory	No ha habido ninguna batalla defensiva\nen los mapas que has subido.
+MID_MATCH_MockCombat	Simulacro
+MID_MATCH_H_MockCombat	Prueba tu mapa.
+MID_MATCH_Surrender	Rendirse
+MID_MATCH_H_Surrender	Ríndete y vuelve al menú.
+MID_MATCH_Surrender_Attention	¿Quieres rendirte?
+MID_MATCH_Surrender_Yes	Rendirse
+MID_MATCH_MyRate	Clasificación
+MID_MATCH_ID	ID de batalla
+MID_MATCH_Victory	¡VICTORIA!
+MID_MATCH_Defeat	DERROTA
+MID_REPORT_TITLE	Denunciar
+MID_REPORT_MAP_DELETE	Tu mapa ha sido denunciado y posteriormente\nborrado tras su evaluación.
+MID_REPORT_TITLE_HELP	Informa sobre un mapa\ncon contenido inapropiado.
+MID_REPORT_NOTES	Vas a informar sobre un mapa con contenido\nque viola las reglas comunitarias de Nintendo.\n\nEsta denuncia se enviará a Nintendo,\nno a la persona que subió el mapa.
+MID_REPORT__CONFIRM_DIALOG	¿Quieres denunciar este contenido?
+MID_REPORT__CONFIRM_DIALOG_YES	Sí
+MID_REPORT_CATEGORY_SELECT	Selecciona el tipo de denuncia que se enviará.
+MID_REPORT_MAP	Denunciar mapa
+MID_REPORT_CATEGORY	Tipo
+MID_REPORT_REASON	Motivo
+MID_REPORT_REASON_INPUT	Indica el motivo de la denuncia.
+MID_REPORT_CATEGORY_PERSONAL	Intromisión en la privacidad
+MID_REPORT_CATEGORY_CRIMINAL	Violencia/Agresión
+MID_REPORT_CATEGORY_IMMORAL	Abuso/Acoso/Intimidación
+MID_REPORT_CATEGORY_HARASSMENT	Discriminación/Insultos
+MID_REPORT_CATEGORY_COMMERCIAL	Publicidad/Spam
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	Contenido sexual explícito
+MID_REPORT_CATEGORY_OTHER	Otro tipo de contenido inapropiado
+MID_REPORT_RESULT	Tu denuncia se ha enviado y será evaluada.
+MID_RELAY_Ticket	Boletos de relevos obtenidos: \x0E\x01\x00\x00.
+MID_RELAY_Ticket_Stock	Boletos de relevos:
+MID_RELAY_NewData	Nuevo reto
+MID_RELAY_H_NewData	Usa un boleto para crear datos y\nempezar un reto desde el principio.
+MID_RELAY_TakeOver_START_CONFIRM	¿Comenzar batalla? Esto fijará\nla posición de tus unidades.
+MID_RELAY_Unit_Select	Debes enviar \x0E\x01\x00\x00 aliados al combate.\nSelecciona más efectivos en "Unidades".
+MID_RELAY_Ticket_Lack	Para empezar un nuevo reto\nnecesitas un boleto.
+MID_RELAY_Unit_Lack	No tienes suficientes unidades.
+MID_RELAY_TakeOver	Relevar
+MID_RELAY_H_TakeOver	Toma los datos de un reto\nempezado por otro jugador.
+MID_RELAY_TakeOver_Outline	Reto
+MID_RELAY_TakeOver_Empty	No hay ninguna batalla\nen la que tomar el relevo.
+MID_RELAY_Joining_players	Participantes
+MID_RELAY_TakeOver_Help	Elige un método de selección.
+MID_RELAY_TakeOver_ID	ID de relevo
+MID_RELAY_Random	Aleatorio
+MID_RELAY_H_Random	Continúa un reto elegido\naleatoriamente.
+MID_RELAY_ID_Search	Introducir ID
+MID_RELAY_H_ID_Search	Introduce un ID para tomar\nlos datos del reto de\nun jugador concreto.
+MID_RELAY_ID_Input	Introduce un ID de relevo.
+MID_RELAY_ID_Search_Attention	¿Buscar este ID de relevo:\n\x0E\x01\x00\x00?
+MID_RELAY_ID_Search_OK	Buscar
+MID_RELAY_Data_Error	No se han encontrado datos.
+MID_RELAY_ID_Search_MyMap_Error	No puedes continuar un reto que empezaste tú.
+MID_RELAY_ID_Search_Again_Error	No puedes continuar un reto\nen el que ya has participado.
+MID_RELAY_ID_Search_Finish_Error	No puedes continuar un reto\nque ya ha terminado.
+MID_RELAY_ID_Search_Other_Error	No puedes continuar un reto al que otro \nusuario está jugando ahora mismo. Espera\na que haya enviado sus resultados o vuelve\na probar en 24 horas.
+MID_RELAY_ID_Search_Error	No puedes continuar este reto.
+MID_RELAY_ID_Search_NoData	No se han podido obtener los datos.\nPuede que hayan sido borrados desde\nla última actualización.
+MID_RELAY_Replay	Ver resultados
+MID_RELAY_H_Replay	Mira los resultados de las batallas\nen las que participaste. Reclama\nlas recompensas y ve repeticiones\nparciales o completas.
+MID_RELAY_Map_Select	Selecciona un mapa.
+MID_RELAY_Replay_Select	Mis batallas
+MID_RELAY_Replay_Datetime	\x0E\x01\x02\x00/\x0E\x01\x01\x00/\x0E\x01\x00\x00 \x0E\x01\x03\x00:\x0E\x01\x04\x00
+MID_RELAY_Replay_Select_Prompt	Elige qué datos quieres ver.
+MID_RELAY_Reselect	Otro jugador ha tomado el relevo en esta\nbatalla. Se seleccionarán datos diferentes.
+MID_RELAY_Replay_Empty	No hay datos disponibles. (Los datos\nse borran transcurrido cierto tiempo.)
+MID_RELAY_Replay_NotUpdate	No se han podido actualizar estos datos\nporque otro jugador ha tomado el relevo.
+MID_RELAY_Replay_NotSeeYet	No hay datos del reto por relevos.
+MID_RELAY_Replay_Beginning_NoFinish	¿Ver la repetición parcial? (La batalla no ha\nterminado aún, pero puedes ver el progreso\nhasta ahora.)
+MID_RELAY_Replay_Beginning_NoFinish_Yes	Ver
+MID_RELAY_Replay_Beginning	¿Ver la repetición?
+MID_RELAY_Replay_Beginning_Yes	Ver
+MID_RELAY_Replay_Beginning_No	Solo los resultados
+MID_RELAY_Replay_Reward_Received	Ya has reclamado la recompensa por este reto.
+MID_RELAY_UpdateContents_Attention	Elige una opción para los datos del reto:\nPúblicos: Cualquiera podrá continuar tu reto.\nPrivados: Será necesario un ID para poder\ncontinuar tu reto.
+MID_RELAY_UpdateContents_Yes	Públicos
+MID_RELAY_UpdateContents_No	Privados
+MID_RELAY_MyMap_ID	El ID de relevo para este reto es:\n\x0E\x01\x00\x00\nDale este ID a quien quieras\nque continúe este reto.
+MID_RELAY_Redo	¿Intentar conectarse de nuevo?
+MID_RELAY_PlayUser	Repetición de los turnos de \x0E\x01\x00\x00...
+MID_RELAY_UserMessage	Mensaje de \x0E\x01\x00\x00
+MID_RELAY_PlayerChange	¡CAMBIO DE JUGADOR!
+MID_RELAY_Win	Victoria
+MID_RELAY_Lose	Derrota
+MID_RELAY_FinalRecord	Resultados
+MID_RELAY_UpRoad	Estos datos se subirán.
+MID_RELAY_Failure	LÁSTIMA
+MID_RELAY_OPEN_N006	Ahora puedes seleccionar el mapa\n"Zona volcánica" en los retos por relevos.
+MCID_N001_1	Pradera
+MCID_N002_1	Campo florido
+MCID_N003_1	Cumbre montañosa
+MCID_N004_1	Bosque invernal
+MCID_N005_1	Dunas desérticas
+MCID_N006_1	Zona volcánica
+MID_RELAY_Award_All	Todos los participantes
+MID_RELAY_Award_Regret	Finalista
+MID_RELAY_Award_Count_Kill	Más enemigos derrotados
+MID_RELAY_Award_Count_Damage	Más daño sufrido
+MID_RELAY_Award_Count_Recovered	Más aliados sanados
+MID_RELAY_Award_Count_Break	Más rupturas de enemigos
+MID_RELAY_Award_Count_Engage	Más fusiones
+MID_RELAY_Award_Count_Item	Más objetos usados
+MID_RELAY_Award_Count_Poison	Más enemigos envenenados
+MID_RELAY_Award_Count_LongWalk	Más distancia recorrida
+MID_RELAY_Award_Count_Skill	Más habilidades usadas
+MID_RELAY_Award_Invisible	Ningún daño sufrido
+MID_RELAY_Award_Count_Critical	Más golpes críticos
+MID_RELAY_Award_Count_SpecialAttack	Más golpes eficaces
+MID_RELAY_Award_Count_EngageAttack	Más ataques de fusión
+MID_RELAY_Award_Count_ChainGuard	Más defensas en cadena
+MID_RELAY_Award_Count_Smash	Más golpes rotundos
+MID_RELAY_Award_Count_Adjacent	Más ataques adyacentes
+MID_RELAY_Award_Count_Indirect	Más ataques a distancia
+MID_RELAY_Award_Count_NoKill	Más ataques sin derrotar enemigos
+MID_RELAY_Award_Count_ChainAttack	Más ataques en cadena
+MID_RELAY_Award_Sabotage_Comment	Menos participativo
+MID_RELAY_Award_MyPace	Menor distancia recorrida
+MID_RELAY_Award_Strike	Menor daño infligido
+MID_RELAY_Award_Count_Standby	Más esperas
+MID_RELAY_Award_TroubleMaker	Más veces sanado por aliados
+MID_RELAY_Award_Sabotage_Unlucky	Mayor n.º de técnicas ene. activadas
+MID_RELAY_Award_Kill	Asesino
+MID_RELAY_Award_Damage	Superviviente
+MID_RELAY_Award_Recovered	Sanador
+MID_RELAY_Award_Break	Rompedor
+MID_RELAY_Award_Engage	As de la fusión
+MID_RELAY_Award_Item	As de los objetos
+MID_RELAY_Award_Poison	Envenenador
+MID_RELAY_Award_LongWalk	Corredor
+MID_RELAY_Award_Skill	As de las habilidades
+MID_RELAY_Award_NoDamage	Intocable
+MID_RELAY_Award_Critical	As de los críticos
+MID_RELAY_Award_SpecialAttack	Depredador
+MID_RELAY_Award_EngageAttack	Un solo corazón
+MID_RELAY_Award_ChainGuard	Guardián
+MID_RELAY_Award_Smash	As de los golpes rotundos
+MID_RELAY_Award_Adjacent	Agresor
+MID_RELAY_Award_Indirect	Francotirador
+MID_RELAY_Award_NoKill	Ayudante
+MID_RELAY_Award_ChainAttack	Atacante en cadena
+MID_RELAY_Award_Sabotage	Prudente
+MID_RELAY_Award_EnergySaving	Tortuga
+MID_RELAY_Award_Peace	Pacifista
+MID_RELAY_Award_Standby	Vagabundo
+MID_RELAY_Award_Protected	Camorrista
+MID_RELAY_Award_SkillTarget	Blanco ambulante
+MID_RELAY_Stamp_Message	Mensajes para el siguiente jugador.
+MID_RELAY_Stamp_Lueur_M_0	Dejo el resto en tus manos.
+MID_RELAY_Stamp_Lueur_F_0	Es un placer trabajar contigo.
+MID_RELAY_Stamp_Vandre_0	Ve con cuidado, por favor.
+MID_RELAY_Stamp_Clan_0	¡No ha sido nada fácil!
+MID_RELAY_Stamp_Fram_0	¡Ojalá ocurra un milagro!
+MID_RELAY_Stamp_Alfred_0	¡Mira qué resultados!
+MID_RELAY_Stamp_Boucheron_0	Se me saltan las lágrimas...
+MID_RELAY_Stamp_Etie_0	¿Vamos a por ello?
+MID_RELAY_Stamp_Celine_0	Necesito tu fuerza.
+MID_RELAY_Stamp_Louis_0	Te estaré observando.
+MID_RELAY_Stamp_Chloe_0	¡Cuántas posibilidades!
+MID_RELAY_Stamp_Diamand_0	Juntos lo conseguiremos.
+MID_RELAY_Stamp_Umber_0	¡Vamos a ser leyendas!
+MID_RELAY_Stamp_Jade_0	La cosa se pone interesante.
+MID_RELAY_Stamp_Staluke_0	Es terrible. Lo siento mucho...
+MID_RELAY_Stamp_Lapis_0	Hagamos uso de la fuerza.
+MID_RELAY_Stamp_Citrinica_0	Cuentas con todo mi apoyo.
+MID_RELAY_Stamp_Ivy_0	Creo en ti.
+MID_RELAY_Stamp_Zelkova_0	¿Cómo *interpretas* esto?
+MID_RELAY_Stamp_Kagetsu_0	¡Confío en ti, camarada!
+MID_RELAY_Stamp_Hortensia_0	¡Regresa de una pieza!
+MID_RELAY_Stamp_Rosado_0	Me he pasado un poco.
+MID_RELAY_Stamp_Goldmary_0	Siento intimidarte.
+MID_RELAY_Stamp_Misutira_0	¡Verás qué fácil!
+MID_RELAY_Stamp_Merin_0	Mira y aprende.
+MID_RELAY_Stamp_Panetone_0	¡Ahora te toca a ti!
+MID_RELAY_Stamp_Fogato_0	¡Eres genial!
+MID_RELAY_Stamp_Pandoro_0	¡Aúuuu!
+MID_RELAY_Stamp_Bonet_0	Será pan comido.
+MID_RELAY_Stamp_Anna_0	¡Un regalo de la casa!
+MID_RELAY_Stamp_Jean_0	Cuento contigo.
+MID_RELAY_Stamp_Yunaka_0	¡Fantabuloso! ¡Todo tuyo!
+MID_RELAY_Stamp_Seadas_0	El escenario es todo tuyo.
+MID_RELAY_Stamp_Linden_0	Mi experimento ha salido mal.
+MID_RELAY_Stamp_Saphir_0	Trabajemos las tácticas.
+MID_RELAY_Stamp_Veyre_0	Hice cuanto pude.
+MID_RELAY_Stamp_Mauve_0	Lo siento. Ahora es tu turno.
+MID_RELAY_Stamp_Lumiere_0	Mantente a salvo, ¿vale?
+MID_RELAY_Stamp_Marth_0	¡Fusionémonos!
+MID_RELAY_Stamp_Celica_0	Oh, detesto la violencia...
+MID_RELAY_Stamp_Siglud_0	No me arrepiento de nada.
+MID_RELAY_Stamp_Leaf_0	¡Lo conseguiremos!
+MID_RELAY_Stamp_Roy_0	La batalla empieza ahora.
+MID_RELAY_Stamp_Lin_0	Que el viento esté de tu lado.
+MID_RELAY_Stamp_Eirik_0	Mucha suerte.
+MID_RELAY_Stamp_Ike_0	No abandones a tus amigos.
+MID_RELAY_Stamp_Micaiah_0	Encantada de ayudar.
+MID_RELAY_Stamp_Lucina_0	¡Desafiemos al destino!
+MID_RELAY_Stamp_Kamui_0	Sé que puedes hacerlo.
+MID_RELAY_Stamp_Byleth_0	Recuerda todo lo aprendido.
+MID_RANKING_Title	Clasificación
+MID_H_RANKING_Title	Ve los datos de despliegue.
+MID_RANKING_First	\x0E\x01\x00\x00
+MID_RANKING_Second	\x0E\x01\x00\x00
+MID_RANKING_Third	\x0E\x01\x00\x00
+MID_RANKING_Other	\x0E\x01\x00\x00
+MID_RANKING_Fail	No se han podido obtener\nlos datos de clasificación.
+MID_CHALLENGE_EXP_TITLE	Exp
+MID_CHALLENGE_MapSelect_Help	Elige el mapa que quieres intentar.
+MID_CHALLENGE_MapSelect_MenuCaption	Mapa
+MID_CHALLENGE_MapInfo_N_Battles	\x0E\x01\x00\x00 batallas
+MID_CHALLENGE_MapInfo_BestRecort	Récord
+MID_CHALLENGE_MapInfo_Turn	Turnos
+MID_CHALLENGE_MapInfo_Materials	Materiales extra
+MID_CHALLENGE_DifficultyMenu_Help	Elige un nivel de dificultad.
+MID_CHALLENGE_DifficultyMenu_Recommended	Recomendado: \x0E\x01\x00\x00
+MID_CHALLENGE_DifficultyMenu_Difficulty	Dificultad
+MID_CHALLENGE_DifficultyMenu_Start	¡A luchar!
+MID_CHALLENGE_Start_CONFIRM	¿Usar un boleto para empezar la batalla?\nTienes \x0E\x01\x00\x00.
+MID_CHALLENGE_GiveUp	Rendirse
+MID_CHALLENGE_H_GiveUp	Termina el reto\ny vuelve al menú.
+MID_CHALLENGE_GiveUp_CONFIRM	¿Quieres terminar el reto y volver al menú?\nNo obtendrás recompensas por completarlo,\npero sí mantendrás la experiencia acumulada\nen los mapas que hayas superado.
+MID_CHALLENGE_Confirm	¿Empezar el mapa "\x0E\x01\x00\x00"\nen dificultad \x0E\x01\x01\x00?
+MID_CHALLENGE_MAP1	Primera batalla
+MID_CHALLENGE_MAP2	Segunda batalla
+MID_CHALLENGE_MAP3	Batalla final
+MID_CHALLENGE_Get_Item	-
+MID_CHALLENGE_Get_EXP	Exp obtenida
+MID_CHALLENGE_Join_MAP1	Batalla 1
+MID_CHALLENGE_Join_MAP2	Batalla 2
+MID_CHALLENGE_Join_MAP3	Batalla 3
+MID_CHALLENGE_Get_SP	Libros obtenidos
+MID_CHALLENGE_OPEN_LEVEL41	Se han desbloqueado los niveles de dificultad\n41 y superiores para los retos por relevos.
+MID_CHALLENGE_C001_TITLE	Pradera
+MID_CHALLENGE_C002_TITLE	Campo florido
+MID_CHALLENGE_C003_TITLE	Cumbre montañosa
+MID_CHALLENGE_C004_TITLE	Bosque invernal
+MID_CHALLENGE_C005_TITLE	Dunas desérticas
+MID_CHALLENGE_C006_TITLE	Zona volcánica
+MID_AMIIBO_Ticket_Music	\x0E\x08\x02\x18\x16SoundTicket Has obtenido un boleto musical.
+MID_AMIIBO_Ticket_Accessories	\x0E\x08\x02\x14\x12AccTicket Has obtenido un boleto de moda.
+MID_AMIIBO_Touch_Count	Lecturas de amiibo disponibles: \x0E\x01\x00\x00/5.
+MID_AMIIBO_Touch_Interval	Podrás leer más amiibo\nen \x0E\x01\x00\x00 h y \x0E\x01\x01\x00 min.
+MID_AMIIBO_Touch	Lee los datos del amiibo.
+MID_AMIIBO_Accessories_Attention	No disponible para esta unidad
+MID_AMIIBO_Trade_Ticket	¿Canjear por \x0E\x01\x00\x00?\n(Cuesta 1 boleto. Tienes: \x0E\x01\x01\x00)
+MID_AMIIBO_Trade_Ticket_Use	Usar boleto
+MID_AMIIBO_Trade_Ticket_Have	Número de boletos
+MID_AMIIBO_Trade_Music_Select	Elige música.
+MID_AMIIBO_Trade_Ticket_Music	Boleto musical
+MID_AMIIBO_Music	Música
+MID_AMIIBO_Trade_Accessories_Select	Elige ropa.
+MID_AMIIBO_Trade_Ticket_Accessories	Boleto de moda
+MID_AMIIBO_Accessories	Moda
+MID_AMIIBO_Trade_Nothing	Nada
+MID_AMIIBO_Trade_Information	Ya has obtenido todo lo disponible.\nTus boletos se canjearán por fragmentos\nde lazo.

@@ -1,0 +1,83 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x022\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nCon queste medicine dovreste sentirvi subito\nmeglio. Fatemi sapere se il dolore persiste, va\nbene?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x18\x16S001_ジャン_父親\nVi vedo in forma! Sapevo che quel raffreddore\nsarebbe passato in men che non si dica.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06ジャン\nPapà, forse dovresti fare una pausa... Ti ho\npreparato del tè.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x18\x16S001_ジャン_父親\nGrazie, Jean. Non ti sarai bruciato preparando\nil tè, spero.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ジャン\nNon sono più un marmocchio, sono capace\ndi fare il tè, non preoccuparti.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x18\x16S001_ジャン_父親\nAhah... Lo so, cresci così in fretta! Sono felice\ndi vederti diventare un così bravo ragazzo.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x18\x16S001_ジャン_父親\nMh? Ma che succede?\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x00\x1C\x16S001_村人_青年男\x023\n\x0E\x03\x02\x18\x16S001_村人_青年男\nDottore, aiuto! Ci stanno attaccando dei mostri!\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x00\x1C\x16S001_異形兵_ボス\x023\n\x0E\x03\x02\x18\x16S001_異形兵_ボス\nGrrr... Graaaaargh!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ジャン\nE queste che razza di bestie sono?!\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x18\x16S001_ジャン_父親\nLe cose si mettono male. Jean, corri\na nasconderti! Io intanto cercherò di portare\ni feriti alla clinica.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x18\x16S001_ジャン_父親\nDa questa parte! Chi è sano assista i feriti!\nInsieme ce la faremo!\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06ジャン\nSo che mi ha detto di nascondermi, ma è più\nforte di me! Voglio fare la mia parte anch'io!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nOh, no...\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x1C\x16S001_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S001_異形兵_ボス\nGhhhh...\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x1C\x16S001_村人_青年男\x02t\n\x0E\x05\x01"\x16S001_村人_青年男\x08Pain\n\x0E\x03\x02\x18\x16S001_村人_青年男\nPresto, andiamo! Troviamo riparo alla clinica!\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x01\x18\x16S001_異形兵_ボス\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02b\n\x0E\x05\x01$\x16S001_ジャン_父親\nAngry\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nMantenete la calma! Quando l'emergenza sarà\npassata, vi rimetterò tutti in sesto.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x01\x18\x16S001_ジャン_父親\n\x0E\x03\x01\x18\x16S001_村人_青年男\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNon possiamo starcene a guardare.\nLe aberrazioni stanno attaccando quei\ncittadini indifesi! Aiutiamoli!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nStai bene?! Mettiti in salvo e lascia fare a noi!\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x00\x1C\x16S001_村人_青年女\x02b\n\x0E\x05\x01 \x16S001_村人_青年女\x06Sad\n\x0E\x03\x02\x18\x16S001_村人_青年女\nNon me lo faccio ripetere due volte! Purtroppo,\nalcuni di noi sono rimasti indietro.\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x02\x0A\x08リュール\nFaremo tutto il possibile per salvarli.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x18\x16S001_村人_青年女\nSiete la loro ultima speranza. Ve ne saranno\nriconoscenti!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02b\n\x0E\x05\x01"\x16S001_ジャン_父親\x08Pain\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nMolti feriti non possono essere trasportati fino\nalla clinica... Come faccio a curare tutti?!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02t\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02b\n\x0E\x05\x01\x18\x06ジャン\x0EStandBy\n\x0E\x03\x02\x08\x06ジャン\nPapà, ti aiuto io! Se ci dividiamo, potremo\nassistere tutti i pazienti!\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x05\x01*\x16S001_ジャン_父親\x10Surprise\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nJean?! Ti avevo detto di correre a nasconderti!\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x05\x01\x16\x06ジャン\x0CStrike\n\x0E\x03\x02\x08\x06ジャン\nNon accetto di starmene nascosto a non fare\nniente, quando qui c'è bisogno del mio aiuto!\x0E\x04\x00\x00
+MID_EV2_#004	\x0E\x03\x02\x08\x06ジャン\nSono o non sono tuo figlio? Me lo hai insegnato\ntu che un dottore non si tira mai indietro!\x0E\x04\x00\x00
+MID_EV2_#005	\x0E\x05\x01$\x16S001_ジャン_父親\nRelax\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nVedo che ti sono rimasti impressi i miei\ninsegnamenti. Bene, allora! Vieni a darmi\nuna mano!\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14S001_村人_訪問\x02t\n\x0E\x05\x01\x1E\x14S001_村人_訪問\x06Sad\n\x0E\x03\x02\x16\x14S001_村人_訪問\nNon so quanto potrà esservi utile, ma un aiuto\nè pur sempre un aiuto, no?\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_ジャン_母親\x02t\n\x0E\x05\x01 \x16S001_ジャン_母親\x06Sad\n\x0E\x03\x02\x18\x16S001_ジャン_母親\nGrazie dell'aiuto. Aspettate, ho qualcosa da\ndarvi.\x0E\x04\x00\x00
+MID_EV4_#002	\x0E\x03\x02\x18\x16S001_ジャン_母親\nA me non serve, tanto vale darlo a un soldato.\x0E\x04\x00\x00
+MID_EV4_2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_ジャン_母親\x02t\n\x0E\x05\x01*\x16S001_ジャン_母親\x10Surprise\n\x0E\x03\x02\x18\x16S001_ジャン_母親\nJean, torna dentro! È troppo pericoloso qua\nfuori... Eh? Stai aiutando la gente del villaggio?\x0E\x04\x00\x00
+MID_EV4_2_#002	\x0E\x05\x01 \x16S001_ジャン_母親\x06Shy\n\x0E\x03\x02\x18\x16S001_ジャン_母親\nMh, so che non mi ascolterai. Allora prendi\nquesto. Ma torna tutto intero, ci siamo capiti?\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNon è sicuro qui! Scappa, finché puoi!\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x0C\x06ジャン\x02b\n\x0E\x05\x01\x16\x06ジャン\x0CStrike\n\x0E\x03\x02\x08\x06ジャン\nNon posso, sono il figlio del dottore. È mio\ndovere curare i feriti!\x0E\x04\x00\x00
+MID_EV5_#003	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nAh... Sei giovane, ma hai un cuore d'oro.\x0E\x04\x00\x00
+MID_EV5_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nD'accordo. Uniamo le forze e salviamo\nquella gente!\x0E\x04\x00\x00
+MID_EV5_#005	\x0E\x05\x01\x14\x06ジャン\nSmile\n\x0E\x03\x02\x08\x06ジャン\nGrazie, apprezzo l'aiuto. Mi chiamo Jean.\nMa ora andiamo, non c'è tempo da perdere!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02t\n\x0E\x05\x01\x16\x06ジャン\x0CStrike\n\x0E\x03\x02\x08\x06ジャン\nNon mi fai paura!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02t\n\x0E\x05\x01$\x16S001_ジャン_父親\nAngry\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nBrutto mostro! Non ci lasceremo trattare così!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S001_異形兵_ボス\nGraaaah...\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S001_異形兵_ボス\nAAAGH!\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02b\n\x0E\x05\x01"\x16S001_ジャン_父親\x08Pain\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nSo quando è il caso di ritirarsi. Vado\na medicarmi le ferite...\x0E\x04\x00\x00
+MID_DIE_LOCAL_Jean_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02b\n\x0E\x05\x01\x12\x06ジャン\x08Pain\n\x0E\x03\x02\x08\x06ジャン\nPapà... Perdonami... Non potrò seguire\nle tue orme.\x0E\x04\x00\x00
+MID_DIE_CASUAL_LOCAL_Jean_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02b\n\x0E\x05\x01\x12\x06ジャン\x08Pain\n\x0E\x03\x02\x08\x06ジャン\nAhia, che brutto taglio... Meglio se mi ritiro.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_村人_青年女\x02t\n\x0E\x05\x01*\x16S001_村人_青年女\x10Surprise\n\x0E\x03\x02\x18\x16S001_村人_青年女\nEvviva! I mostri se ne sono andati!\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x00\x1C\x16S001_村人_青年男\x02b\n\x0E\x05\x01$\x16S001_村人_青年男\nSmile\n\x0E\x03\x02\x18\x16S001_村人_青年男\nCi avete salvati! Grazie infinite.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x01\x18\x16S001_村人_青年女\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nPer fortuna stanno tutti bene.\nEro in pensiero.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x01\x18\x16S001_村人_青年男\n\x0E\x03\x00\x1C\x16S001_村人_青年女\x02b\n\x0E\x05\x01$\x16S001_村人_青年女\nSmile\n\x0E\x03\x02\x18\x16S001_村人_青年女\nQuesto è per voi, per ringraziarvi. Vi siamo\ndebitori.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_村人_青年女\x02t\n\x0E\x05\x01*\x16S001_村人_青年女\x10Surprise\n\x0E\x03\x02\x18\x16S001_村人_青年女\nSono spariti quei mostri?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x00\x1C\x16S001_村人_青年男\x02b\n\x0E\x05\x01$\x16S001_村人_青年男\nSmile\n\x0E\x03\x02\x18\x16S001_村人_青年男\nSembrerebbe che ora siamo al sicuro. Purtroppo\nnon tutti ce l'hanno fatta, ma so che avete fatto\nil possibile. Grazie.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x01\x18\x16S001_村人_青年女\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nNon dovresti ringraziarmi. Se avessi perso\nmeno tempo, non ci sarebbero state vittime.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x01\x18\x16S001_村人_青年男\n\x0E\x03\x00\x1C\x16S001_村人_青年女\x02b\n\x0E\x05\x01$\x16S001_村人_青年女\nSmile\n\x0E\x03\x02\x18\x16S001_村人_青年女\nMa senza il vostro intervento non ci sarebbero\nneanche sopravvissuti. Accettate questo\nomaggio.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S001_村人_青年女\x02t\n\x0E\x05\x01"\x16S001_村人_青年女\x08Pain\n\x0E\x03\x02\x18\x16S001_村人_青年女\nMio marito... Dov'è mio marito?!\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x00\x1A\x14S001_村人女の子\x02b\n\x0E\x05\x01\x1E\x14S001_村人女の子\x06Sad\n\x0E\x03\x02\x16\x14S001_村人女の子\nP-Papàààà!\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x01\x18\x16S001_村人_青年女\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nHo tradito le loro aspettative. Non ho fatto in\ntempo ad aiutarli e tanti di loro non ci sono\npiù...\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x01\x16\x14S001_村人女の子\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x02b\n\x0E\x05\x01 \x16S001_ジャン_父親\x06Sad\n\x0E\x03\x02\x18\x16S001_ジャン_父親\nAvete fatto del vostro meglio, non avete niente\nda rimproverarvi. Non eravate tenut\x0E\x0A\x00\x08\x02o\x02a a\nintervenire, e invece avete contribuito tanto.\x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x1C\x16S001_ジャン_父親\x023\n\x0E\x03\x00\x1C\x16S001_ジャン_母親\x024\n\x0E\x03\x02\x08\x06ジャン\nMmmh...\x0E\x04\x00\x00
+MID_ED4_#002	\x0E\x03\x02\x18\x16S001_ジャン_父親\nJean, vieni qui. Di' grazie a queste persone\ngentili.\x0E\x04\x00\x00
+MID_ED4_#003	\x0E\x03\x02\x08\x06ジャン\nGrazie per avere salvato il villaggio.\x0E\x04\x00\x00
+MID_ED4_#004	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nAnche tu ci hai aiutato. Hai fatto un ottimo\nlavoro, Jean.\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x08\x06ジャン\nOh! Mi sono presentato, ma non vi ho chiesto\nil vostro nome, che sbadato!\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x02\x0A\x08リュール\nNel bel mezzo della battaglia, era difficile.\nSono il Drago Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED4_#007	\x0E\x03\x02\x08\x06ジャン\nIl Drago Divino?! Quello che viene dal Lythos?!\nOh, perdonate la mia maleducazione!\x0E\x04\x00\x00
+MID_ED4_#008	\x0E\x03\x02\x0A\x08リュール\nNon preoccuparti. Avevamo altro per la testa\npoco fa.\x0E\x04\x00\x00
+MID_ED4_#009	\x0E\x03\x02\x18\x16S001_ジャン_父親\nE cosa porta qualcuno come voi nel nostro\numile villaggio?\x0E\x04\x00\x00
+MID_ED4_#010	\x0E\x03\x02\x0A\x08リュール\nHo intrapreso un viaggio per sconfiggere\nil Drago Maligno e riportare la pace.\x0E\x04\x00\x00
+MID_ED4_#011	\x0E\x03\x02\x08\x06ジャン\nWow, che obiettivo ambizioso. Mi piacerebbe\nvenire con voi. Posso, Drago Divino?!\x0E\x04\x00\x00
+MID_ED4_#012	\x0E\x03\x02\x18\x16S001_ジャン_父親\nJean! Ma cosa ti passa per la testa?!\x0E\x04\x00\x00
+MID_ED4_#013	\x0E\x03\x02\x08\x06ジャン\nHo sempre sognato di diventare un medico e\nsalvare la vita delle persone. E quello resta il\nmio sogno.\x0E\x04\x00\x00
+MID_ED4_#014	\x0E\x03\x02\x08\x06ジャン\nMa con tutti questi mostri in circolazione,\npotrei non sopravvivere per realizzarlo.\nPensa a cosa è successo oggi, per esempio!\x0E\x04\x00\x00
+MID_ED4_#015	\x0E\x03\x02\x08\x06ジャン\nAl fianco del Drago Divino, sono sicuro che\nimparerei a combattere e curare gli altri allo\nstesso tempo.\x0E\x04\x00\x00
+MID_ED4_#016	\x0E\x03\x02\x18\x16S001_ジャン_父親\nQuello che dici può anche avere senso, ma\ncosa ne pensa il Drago Divino? Non saresti\nun peso per \x0E\x0A\x00\x10\x06lui\x06lei?\x0E\x04\x00\x00
+MID_ED4_#017	\x0E\x03\x02\x0A\x08リュール\nMa no, quale peso? Prima ci è stato molto di\naiuto.\x0E\x04\x00\x00
+MID_ED4_#018	\x0E\x03\x02\x0A\x08リュール\nSe Jean vuole venire con noi, per me non c'è\nproblema. Naturalmente capisco le vostre\npreoccupazioni di genitori.\x0E\x04\x00\x00
+MID_ED4_#019	\x0E\x03\x02\x18\x16S001_ジャン_母親\nBeh, se ha il vostro permesso, penso che lo\nlasceremo partire... Ma vi prego di prendervene\ncura. È il mio bambino.\x0E\x04\x00\x00
+MID_ED4_#020	\x0E\x03\x02\x18\x16S001_ジャン_父親\nCosa? Stai dicendo che può partire?\x0E\x04\x00\x00
+MID_ED4_#021	\x0E\x03\x02\x08\x06ジャン\nPapà, non so come ripetertelo. Non serve che\nti preoccupi per me. E poi, prometto di tornare\nsano e salvo.\x0E\x04\x02\x00
+MID_ED4_#022	Quando tornerò qui, sarò un dottore fatto\ne finito! Parola mia!\x0E\x04\x00\x00
+MID_ED4_#023	\x0E\x03\x02\x18\x16S001_ジャン_父親\nCome crescono in fretta...\x0E\x04\x00\x00
+MID_ED4_#024	\x0E\x03\x02\x18\x16S001_ジャン_父親\nMi raccomando, Jean. Fai il bravo, studia\ntanto e lavora sodo. E torna a casa tutto\nintero.\x0E\x04\x00\x00
+MID_ED4_#025	\x0E\x03\x02\x08\x06ジャン\nCi puoi contare! Grazie, mamma, grazie papà.\nNon sto più nella pelle! Sto partendo in viaggio\ncon il Drago Divino!\x0E\x04\x00\x00
+MID_ED4_#026	\x0E\x03\x02\x0A\x08リュール\nAnche io sono content\x0E\x0A\x00\x08\x02o\x02a, Jean. Sento che\nil tuo prezioso aiuto mi sarà molto utile.\x0E\x04\x00\x00

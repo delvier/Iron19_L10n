@@ -1,0 +1,454 @@
+MID_MENU_YES	OK
+MID_MENU_START	Start
+MID_MENU_NO	Nein
+MID_MENU_CANCEL	Zurück
+MID_MENU_CANCEL_NO	Abbrechen
+MID_MONETARY_UNIT	G
+MID_MENU_UNIT_LIST	Einheiten
+MID_MENU_UNIT_LIST_HELP	Sieh dir die Werte aller\nVerbündeten an.
+MID_MENU_UNIT_LIST_TITLEHELP	Sieh dir die Werte aller Verb. an.
+MID_MENU_ORDER	Auto-Kampf
+MID_MENU_ORDER_HELP	Wähle eine Strategie und lasse\nEinheiten automatisch kämpfen.
+MID_MENU_REWIND	Zeitkristall
+MID_MENU_REWIND_HELP	Drehe die Zeit zurück, um\netwas anderes auszuprobieren.
+MID_MENU_SYSTEM	System
+MID_MENU_H_SYSTEM	Sieh dir das Tutorial an oder\npasse die Einstellungen an.
+MID_MENU_TUTORIAL	Tutorial
+MID_MENU_TUTORIAL_HELP	Wähle eine Kategorie.
+MID_MENU_H_TUTORIAL	Rufe verschiedene\nTutorials auf.
+MID_MENU_CONFIG	Einstellungen
+MID_MENU_CONFIG_HELP	Verwalte deine Einstellungen.
+MID_MENU_H_CONFIG	Nimm verschiedene\nEinstellungen vor.
+MID_MENU_RESTART	Neuer Versuch
+MID_MENU_RESTART_HELP	Beginne diesen Kampf noch\neinmal von vorn.
+MID_MENU_RESTART_CONFIRM	Möchtest du diesen Kampf erneut beginnen?\n(Sämtlicher Fortschritt, inklusive bereits\ngesammelter Erf., wird hierbei zurückgesetzt.)
+MID_MENU_RESTART_CONFIRM_YES	Erneut versuchen
+MID_MENU_CONTINUEBATTLE_RESTART	Von Anfang an
+MID_MENU_CONTINUEBATTLE_RESTART_HELP	Starte die Serie vom ersten\nKampf an neu.
+MID_MENU_CONTINUEBATTLE_CONFIRM	Möchtest du die Serie neu starten?\n(Sämtlicher Fortschritt, inklusive bereits\ngesammelter Erf., wird hierbei zurückgesetzt.)
+MID_MENU_RESET	Beenden
+MID_MENU_RESET_HELP	Kehre zum Titelbildschirm\nzurück.
+MID_MENU_RESET_CONFIRM	Zum Titelbildschirm zurückkehren?\nNicht gespeicherter Fortschritt geht verloren.
+MID_MENU_RESET_CONFIRM_YES	Ja
+MID_MENU_TEMPORARY_SAVE	Lesezeichen
+MID_MENU_TEMPORARY_SAVE_HELP	Fortschritt speichern und\ndas Spiel aussetzen.
+MID_MENU_END_TURN	Zug beenden
+MID_MENU_END_TURN_HELP	Spielerphase beenden.
+MID_MENU_MVP	Held:
+MID_MENU_TURN_COUNT	Zug:
+MID_MENU_TURNS_COUNT	Züge:
+MID_MENU_WAIT_UNIT_COUNT	Bereite Einh.:
+MID_STATUS_STYLE	Typ
+MID_STATUS_ATTACK_DEFENSE	Ph.Agr./Ver.
+MID_STATUS_MAGIC_ATTACK_DEFENSE	Ma.Agr./Res.
+MID_STATUS_HIT_AVOIDANCE	Trf./Aw.
+MID_STATUS_CRITICAL_SECURE	Krit./Krit. Aw.
+MID_STATUS_TECHNIQUE_SPEED	Beh./Ges.
+MID_STATUS_MOVE_PHYSIQUE	Bew./Fig.
+MID_STATUS_NONE	Ausblen.
+MID_STATUS_MINIMAP	Minikarte
+MID_STATUS_MINIMAP_SMALL	Klein
+MID_STATUS_MINIMAP_BIG	Groß
+MID_CONFIG_INITIALIZE	Standardeinstellungen wiederherstellen?
+MID_CONFIG_GRID	Raster-Sichtbarkeit
+MID_CONFIG_H_GRID	Lege die Stärke der Rasterlinien fest oder blende sie aus.
+MID_CONFIG_OVERALLINFORMATION	Gefahrenzone
+MID_CONFIG_OVERALLINFORMATION_TOGGLE	Ein und aus
+MID_CONFIG_H_OVERALLINFORMATION_TOGGLE	Gefahrenzone wird durch Drücken von \x0E\x08\x02\x06\x04ZL ein- und ausgeblendet.
+MID_CONFIG_OVERALLINFORMATION_PUSH	Gedrückt halten
+MID_CONFIG_H_OVERALLINFORMATION_PUSH	Gefahrenzone erscheint nur, wenn \x0E\x08\x02\x06\x04ZL gedrückt gehalten wird.
+MID_CONFIG_COMBATANIME	Kampfanimationen
+MID_CONFIG_COMBATANIME_ON	Ein
+MID_CONFIG_H_COMBATANIME_ON	Kampfanimationen werden immer gezeigt.
+MID_CONFIG_COMBATANIME_OFF	Aus
+MID_CONFIG_H_COMBATANIME_OFF	Kampfanimationen werden nie gezeigt.
+MID_CONFIG_COMBATANIME_MYUNIT	Nur Verbündete
+MID_CONFIG_H_COMBATANIME_MYUNIT	Kampfanimationen werden nur bei verbündeten Einheiten gezeigt.
+MID_CONFIG_COMBATANIME_MYTURN	Eigener Zug
+MID_CONFIG_H_COMBATANIME_MYTURN	Kampfanimationen werden nur bei dem eigenen Zug gezeigt.
+MID_CONFIG_ROD_DANCE	Stab-/Tanzanimationen
+MID_CONFIG_ROD_DANCE_ON	Ein
+MID_CONFIG_H_ROD_DANCE_ON	Stab- und Tanzanimationen werden gezeigt.
+MID_CONFIG_ROD_DANCE_OFF	Aus
+MID_CONFIG_H_ROD_DANCE_OFF	Stab- und Tanzanimationen werden nicht gezeigt.
+MID_CONFIG_ROD_DANCE_MYUNIT	Nur Verbündete
+MID_CONFIG_H_ROD_DANCE_MYUNIT	Stab-/Tanzanimationen werden nur bei verbünd. Einheiten gezeigt.
+MID_CONFIG_ROD_DANCE_MYTURN	Eigener Zug
+MID_CONFIG_H_ROD_DANCE_MYTURN	Stab-/Tanzanimationen werden nur bei dem eigenen Zug gezeigt.
+MID_CONFIG_ENGAGE	Bündnis-Animationen
+MID_CONFIG_ENGAGE_ON	Ein
+MID_CONFIG_H_ENGAGE_ON	Bündnis-Animationen werden gezeigt.
+MID_CONFIG_ENGAGE_OFF	Aus
+MID_CONFIG_H_ENGAGE_OFF	Bündnis-Animationen werden nicht gezeigt.
+MID_CONFIG_ENGAGE_ONCE	Erste
+MID_CONFIG_H_ENGAGE_ONCE	Nur die erste Bündnis-Animation eines Zuges wird gezeigt.
+MID_CONFIG_AI_SKIP	Aktion überspringen
+MID_CONFIG_AI_SKIP_ON	Ein
+MID_CONFIG_H_AI_SKIP_ON	Während des Auto-Kampfes werden Aktionen nicht gezeigt.
+MID_CONFIG_AI_SKIP_OFF	Aus
+MID_CONFIG_H_AI_SKIP_OFF	Während des Auto-Kampfes werden Aktionen gezeigt.
+MID_CONFIG_UNITHELP_PAGE	Zusatzinfos
+MID_CONFIG_UNITHELP_PAGE_H_STYLE	Einheitentyp unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_ATTACK_DEFENSE	Ph.Agr. und Ver. unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_MAGIC_ATTACK_DEFENSE	Ma.Agr. und Res. unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_HIT_AVOIDANCE	Trf. und Aw. unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_CRITICAL_SECURE	Krit. und Krit. Aw. unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_TECHNIQUE_SPEED	Beh. und Ges. unter Zusatzinfos anzeigen.
+MID_CONFIG_UNITHELP_PAGE_H_MOVE_PHYSIQUE	Bew. und Fig. unter Zusatzinfos anzeigen.
+MID_CONFIG_BATTLE_MINIMAP	Kampf-Minikarte
+MID_CONFIG_H_BATTLE_MINIMAP_BIG	Große Minikarte
+MID_CONFIG_H_BATTLE_MINIMAP_SMALL	Kleine Minikarte
+MID_CONFIG_H_BATTLE_MINIMAP_OFF	Keine Minikarte
+MID_CONFIG_MAPUNIT	Steuerung von Einheiten
+MID_CONFIG_MAPUNIT_DIRECT	Direkt
+MID_CONFIG_H_MAPUNIT_DIRECT	Einheiten direkt durch Auswählen steuern.
+MID_CONFIG_MAPUNIT_INDIRECT	Cursor
+MID_CONFIG_H_MAPUNIT_INDIRECT	Einheiten durch Auswählen eines Zielfelds mit dem Cursor steuern.
+MID_CONFIG_MINIMAP_ROTATION	Rotation Minikarte
+MID_CONFIG_MINIMAP_ROTATION_ON	Ein
+MID_CONFIG_H_MINIMAP_ROTATION_ON	Die Minikarte dreht sich beim Erkunden mit der Kamerabewegung.
+MID_CONFIG_MINIMAP_ROTATION_OFF	Aus
+MID_CONFIG_H_MINIMAP_ROTATION_OFF	Die Minikarte dreht sich nicht beim Erkunden.
+MID_CONFIG_CAMERA_SPEED	Kamera-Empfindlichkeit
+MID_CONFIG_H_CAMERA_SPEED	Reguliere die Kameraempfindlichkeit beim Erkunden/im Somniel.
+MID_CONFIG_COMBATCAMERA_HORIZON	Kampfkamera (horizontal)
+MID_CONFIG_COMBATCAMERA_HORIZON_NOMAL	Normal
+MID_CONFIG_H_COMBATCAMERA_HORIZON_NOMAL	Standardeinstellung für horizontale Steuerung der Kampfkamera.
+MID_CONFIG_COMBATCAMERA_HORIZON_REVERSE	Invertiert
+MID_CONFIG_H_COMBATCAMERA_HORIZON_REVERSE	Horizontale Steuerung der Kampfkamera umkehren.
+MID_CONFIG_COMBATCAMERA_VERTICAL	Kampfkamera (vertikal)
+MID_CONFIG_COMBATCAMERA_VERTICAL_NOMAL	Normal
+MID_CONFIG_H_COMBATCAMERA_VERTICAL_NOMAL	Standardeinstellung für vertikale Steuerung der Kampfkamera.
+MID_CONFIG_COMBATCAMERA_VERTICAL_REVERSE	Invertiert
+MID_CONFIG_H_COMBATCAMERA_VERTICAL_REVERSE	Vertikale Steuerung der Kampfkamera umkehren.
+MID_CONFIG_HABCAMERA_HORIZON	Laufkamera (horizontal)
+MID_CONFIG_HABCAMERA_HORIZON_NOMAL	Normal
+MID_CONFIG_H_HABCAMERA_HORIZON_NOMAL	Standardeinstellung für horizontale Steuerung der Laufkamera.
+MID_CONFIG_HABCAMERA_HORIZON_REVERSE	Invertiert
+MID_CONFIG_H_HABCAMERA_HORIZON_REVERSE	Horizontale Steuerung der Laufkamera umkehren.
+MID_CONFIG_HABCAMERA_VERTICAL	Laufkamera (vertikal)
+MID_CONFIG_HABCAMERA_VERTICAL_NOMAL	Normal
+MID_CONFIG_H_HABCAMERA_VERTICAL_NOMAL	Standardeinstellung für vertikale Steuerung der Laufkamera.
+MID_CONFIG_HABCAMERA_VERTICAL_REVERSE	Invertiert
+MID_CONFIG_H_HABCAMERA_VERTICAL_REVERSE	Vertikale Steuerung der Laufkamera umkehren.
+MID_CONFIG_GAMESPEED	Spielgeschwindigkeit
+MID_CONFIG_GAMESPEED_FAST	Schnell
+MID_CONFIG_H_GAMESPEED_FAST	Spielablauf (Bewegungen usw.) auf Schnell setzen.
+MID_CONFIG_GAMESPEED_NOMAL	Normal
+MID_CONFIG_H_GAMESPEED_NOMAL	Spielablauf (Bewegungen usw.) auf Normal setzen.
+MID_CONFIG_GAMESPEED_SLOW	Langsam
+MID_CONFIG_H_GAMESPEED_SLOW	Spielablauf (Bewegungen usw.) auf Langsam setzen.
+MID_CONFIG_HPGAGE	KP-Balken
+MID_CONFIG_HPGAGE_ON	Ein
+MID_CONFIG_H_HPGAGE_ON	KP-Balken werden angezeigt.
+MID_CONFIG_HPGAGE_OFF	Aus
+MID_CONFIG_H_HPGAGE_OFF	KP-Balken werden nicht angezeigt.
+MID_CONFIG_SPEAKMODE	Dialogeinstellungen
+MID_CONFIG_SPEAKMODE_MANUAL	Manuell
+MID_CONFIG_H_SPEAKMODE_MANUAL	Dialoge werden manuell fortgesetzt.
+MID_CONFIG_SPEAKMODE_AUTOMATIC	Automatisch
+MID_CONFIG_H_SPEAKMODE_AUTOMATIC	Dialoge werden automatisch fortgesetzt.
+MID_CONFIG_BGM	Musiklautstärke
+MID_CONFIG_H_BGM	Lautstärke der Musik einstellen.
+MID_CONFIG_SE	SFX-Lautstärke
+MID_CONFIG_H_SE	Lautstärke der Soundeffekte einstellen.
+MID_CONFIG_VOICE	Sprachlautstärke
+MID_CONFIG_H_VOICE	Lautstärke der Stimmen einstellen.
+MID_CONFIG_BGM_CHANGE_MYTURN	Musik (Spielerphase)
+MID_CONFIG_H_BGM_CHANGE_MYTURN	In Spielerphasen (nicht Story) wird \x0E\x01\x00\x00 gespielt.
+MID_CONFIG_H_BGM_CHANGE_MYTURN_NONE	In Spielerphasen (nicht Story) ändert sich die Musik nicht.
+MID_CONFIG_BGM_CHANGE_ENEMYTURN	Musik (Gegnerphase)
+MID_CONFIG_H_BGM_CHANGE_ENEMYTURN	In Gegnerphasen (nicht Story) wird \x0E\x01\x00\x00 gespielt.
+MID_CONFIG_H_BGM_CHANGE_ENEMYTURN_NONE	In Gegnerphasen (nicht Story) ändert sich die Musik nicht.
+MID_CONFIG_BGM_CHANGE_DECIDE	Ändern
+MID_CONFIG_BGM_CHANGE_NOSELECT	Nichts ausgewählt
+MID_CONFIG_TUTORIAL	Tutorials
+MID_CONFIG_TUTORIAL_ON	Ein
+MID_CONFIG_H_TUTORIAL_ON	Im Spiel werden dir Tutorials angeboten.
+MID_CONFIG_TUTORIAL_OFF	Aus
+MID_CONFIG_H_TUTORIAL_OFF	Im Spiel werden dir nur essenzielle Tutorials angeboten.
+MID_CONFIG_NETWORK	Netzwerkfunktionen
+MID_CONFIG_NETWORK_ON	Ein
+MID_CONFIG_H_NETWORK_ON	Online-Funktionen aktivieren.
+MID_CONFIG_NETWORK_OFF	Aus
+MID_CONFIG_H_NETWORK_OFF	Online-Funktionen deaktivieren.
+MID_MENU_TITLE_GMAP	Weltkartenmenü
+MID_MENU_TITLE_KIZUNA	Erkundungsmenü
+MID_MENU_TITLE_HUB	Somniel-Menü
+MID_MENU_TITLE_FASTTRAVEL	Schnellreise
+MID_MENU_TITLE_FASTTRAVEL_HELP	Wähle das Ziel deiner Reise.
+MID_MENU_ENTER_CHAPTER	Kapitel beginnen
+MID_MENU_ENTER_CHAPTER_HELP	Setze die Story fort.
+MID_MENU_ENTER_ENCOUNTER	Gefecht beginnen
+MID_MENU_ENTER_ENCOUNTER_HELP	Bekämpfe hier Gegner.
+MID_MENU_ENTER_TRAINING	Training beginnen
+MID_MENU_ENTER_TRAINING_HELP	Trainiere hier mit den\nSoldaten.
+MID_MENU_ENTER_CHAPTER_CONFIRM	Dieses Kapitel beginnen?
+MID_MENU_ENTER_CHAPTER_CONFIRM_M010	Beginnst du dieses Kapitel, kannst du erst nach\nmehreren Kämpfen zum Somniel zurückkehren.
+MID_MENU_ENTER_ENCOUNTER_CONFIRM	Gefecht beginnen?
+MID_MENU_ENTER_TRAINING_CONFIRM	Training beginnen?
+MID_MENU_ENTER_YES	Beginnen
+MID_MENU_ENTER_CHAPTER_OPEN_M026	Über den Balkon im ersten Stock des Cafés\ngelangst du zum letzten Kampf mit dem\nDämonendrachen Sombron.
+MID_MENU_FRIEND	Enzyklopädie
+MID_MENU_FRIEND_HELP	Sieh dir Informationen über\nVerbündete und Ringe an.
+MID_MENU_FRIEND_LIST	Verbündete
+MID_MENU_FRIEND_LIST_HELP	Sieh dir Notizen zu deinen\nVerbündeten an.
+MID_MENU_FRIEND_LIST_SELECT_HELP	Wähle einen Verbündeten.
+MID_MENU_FRIEND_LIST_NONE	Du hast noch keine Notizen.\nUnterhalte dich im Somniel\ndoch mal mit deinen\nVerbündeten.
+MID_MENU_RING_LIST	Ringe
+MID_MENU_RING_LIST_HELP	Sieh dir deine Emblem-Ringe\nund Ringe des Bandes an.
+MID_MENU_RING_LIST_SELECT_HELP	Wähle einen Ring.
+MID_MENU_HUB_MATERIAL	Lagerhaus
+MID_MENU_HUB_MATERIAL_HELP	Material. & Geschenke sehen.
+MID_MENU_HUB_MAP_CHECK	Somniel-Karte
+MID_MENU_HUB_MAP_CHECK_HELP	Schnellreise an andere Orte\nund Infos zu Einrichtungen.
+MID_MENU_KIZUNA_DEPART	Aufbrechen
+MID_MENU_KIZUNA_DEPART_HELP	Brich zum nächsten Ziel auf.
+MID_MENU_TO_SOLANEL	Zum Somniel
+MID_MENU_TO_SOLANEL_HELP	Zur Basis im Somniel reisen.
+MID_MENU_TO_SOLANEL_CONFIRM	Zum Somniel reisen?
+MID_MENU_TO_GMAP	Zur Weltkarte
+MID_MENU_TO_GMAP_HELP	Betritt die Weltkarte.
+MID_MENU_SHOPPING	Marktplatz
+MID_MENU_SHOPPING_HELP	Kaufe und verkaufe\nWaffen und Items.
+MID_MENU_Recall_Reliance	Unterstützung
+MID_MENU_H_Recall_Reliance	Unterstützungsbeziehungen\nansehen.
+MID_MENU_Recall_Reliance_Unit	Unterstütz.
+MID_MENU_Recall_GodReliance	Band
+MID_MENU_H_Recall_GodReliance	Bande ansehen.
+MID_MENU_Recall_GodReliance_Unit	Bande
+MID_MENU_SoundList	Musik
+MID_GMAP_MapDetails_TRAINING	Training!
+MID_GMAP_MapDetails_ENCOUNTER	Gefecht!
+MID_GMAP_MapDetails_RarEnemy_EXP	Silberner Verzerrter!
+MID_GMAP_MapDetails_RarEnemy_Gold	Goldener Verzerrter!
+MID_GMAP_MapDetails_Position	Empfohlen:
+MID_GMAP_MapDetails_PositionLv	\x0E\x01\x00\x00 Lv. \x0E\x01\x01\x00
+MID_GMAP_MapDetails_Investment	Spendenlevel \x0E\x01\x00\x00
+MID_GMAP_MapDetails_Material	Materialien
+MID_GMAP_MapDetails_Food	Zutaten
+MID_GMAP_MapDetails_Animal	Tiere
+MID_GMAP_MapDetails_Animal_Capture_OK	Aufnehmbar
+MID_GMAP_MapDetails_Animal_Capture_NG	Nicht aufnb.
+MID_GMAP_MapDetails_Animal_Capture_Verification	\x0E\x01\x00\x00 aufnehmen?
+MID_GMAP_MapDetails_Animal_Capture_Yes	Aufnehmen
+MID_GMAP_MapDetails_Animal_Capture_Attention	Du kannst dieses Tier (\x0E\x01\x00\x00)\nnicht aufnehmen, da du nicht weißt, wie man es\naufzieht. Sieh dir den Abschnitt „Spenden“ auf\nder Pinnwand im Café an, um mehr zu erfahren.
+MID_GMAP_MapDetails_Animal_Capture_Get	Aufnehmen
+MID_GMAP_MapDetails_Animal_Capture_Got	Aufgenommen!
+MID_MENU_ORDER_ADVANCE	Ausgewogen
+MID_MENU_ORDER_ADVANCE_HELP	Den Kampf ausgewogen und\nflexibel angehen.
+MID_MENU_ORDER_RUSH	Angriff
+MID_MENU_ORDER_RUSH_HELP	Aggressiv angreifen.
+MID_MENU_ORDER_ESCORT	Beschützen
+MID_MENU_ORDER_ESCORT_HELP	Auf das Beschützen von\n\x0E\x06\x03\x00 konzentrieren.
+MID_MENU_ORDER_WITHDRAW	Zurückfallen
+MID_MENU_ORDER_WITHDRAW_HELP	Distanz zum Gegner halten.
+MID_MENU_BREAK_DOWN	Besetzen
+MID_MENU_HELP_BREAK_DOWN	Karte abschließen.
+MID_MENU_ESCAPE	Fliehen
+MID_MENU_HELP_ESCAPE	Schlachtfeld verlassen.
+MID_MENU_ATTACK	Angreifen
+MID_MENU_HELP_ATTACK	Einen Gegner angreifen.
+MID_MENU_ENGAGE_COMMAND	Bündnis
+MID_MENU_ENGAGE_COMMAND_RELEASE	Bündnis lösen
+MID_MENU_HELP_ENGAGE_COMMAND	Mit einem Emblem eins\nwerden.
+MID_MENU_ENGAGE_HELP_TITLE	Band-Effekte
+MID_MENU_ALTERNATE_HELP_TITLE	Veränd. Effekte
+MID_MENU_ENGAGE_LINK	Bündnis+
+MID_MENU_HELP_ENGAGE_LINK	Ein Bündnis zw. Einheit und\nbenachb. Verbünd. eingehen.
+MID_MENU_ENGAGE_LINK_OUT_OF_MOVE_RANGE	Du bist nicht innerhalb der Reichweite,\num dies auszuführen.
+MID_MENU_CANNON	Abfeuern
+MID_MENU_HELP_CANNON	Feststehende Waffe nutzen,\num einen Feind anzugreifen.
+MID_MENU_CANNON_NO_AVAILABLE_BOW	Einheit hat keinen Bogen.
+MID_MENU_CANNON_NO_AVAILABLE_MAGIC	Einheit hat kein Buch.
+MID_MENU_CANNON_OUT_OF_AMMO	Keine Anwendungen mehr verfügbar.
+MID_MENU_CANNON_OUT_OF_RANGE	Keine Gegner in Reichweite.
+MID_MENU_DESTROY	Durchbrechen
+MID_MENU_HELP_DESTROY	Eine Mauer oder ein anderes\nHindernis durchbrechen.
+MID_MENU_ROD	Stab
+MID_MENU_HELP_ROD	Verbündete heilen, Feinde\nbeeinträchtigen usw.
+MID_MENU_VISIT	Besuch
+MID_MENU_HELP_VISIT	Mit Bewohnern in Häusern\nsprechen.
+MID_MENU_TREASURE_BOX	Truhe
+MID_MENU_HELP_TREASURE_BOX	Ein Item aus einer\nSchatztruhe erhalten.
+MID_MENU_TORCH_ON	Anzünden
+MID_MENU_HELP_TORCH_ON	Die Umgebung erhellen.
+MID_MENU_DOOR	Tür
+MID_MENU_HELP_DOOR	Eine Tür öffnen.
+MID_MENU_ITEM	Items
+MID_MENU_HELP_ITEM	Items einsetzen oder\nEinheiten damit ausrüsten.
+MID_MENU_TRADE	Tausch
+MID_MENU_HELP_TRADE	Items mit einem\nVerbündeten tauschen.
+MID_MENU_TRANSPORTER	Vorrat
+MID_MENU_HELP_TRANSPORTER	Items lagern/hervorholen.
+MID_MENU_TITLEHELP_TRANSPORTER	Items lagern/hervorholen.
+MID_MENU_TALK	Reden
+MID_MENU_HELP_TALK	Mit einer Einheit auf der\nKarte reden.
+MID_MENU_GUARD	Protektion
+MID_MENU_HELP_GUARD	Benachbarte Verbündete\nvor Angriffen beschützen.
+MID_MENU_GUARD_FULL_HP	Kann nur mit vollen KP verwendet werden.
+MID_MENU_DANCE	Tanzen
+MID_MENU_HELP_DANCE	Verbündeten einen weiteren\nZug gewähren.
+MID_MENU_WAIT	Warten
+MID_MENU_HELP_WAIT	Den Zug der Einheit beenden.
+MID_MENU_ITEM_EQUIP	Ausrüsten
+MID_MENU_ITEM_REMOVE	Entfernen
+MID_MENU_ITEM_ARRANGE	Sortieren
+MID_MENU_ITEM_USE	Verwenden
+MID_MENU_ITEM_USE_CONFIRM	\x0E\x01\x00\x00 verwenden?
+MID_MENU_ITEM_USE_DOPING_FOREVER	\x0E\x01\x00\x00 um \x0E\x01\x01\x00 gestiegen.
+MID_MENU_ITEM_USE_DOPING_TEMPORARY	\x0E\x01\x00\x00 wird für die Dauer der Karte\num \x0E\x01\x01\x00 erhöht.
+MID_MENU_ITEM_TRADE	Tausch
+MID_MENU_ITEM_DISCARD	Wegwerfen
+MID_MENU_ITEM_DISCARD_NOTIFY	Das Inventar ist voll.\nWähle ein Item zum Wegwerfen.
+MID_MENU_ITEM_SEND_NOTIFY	Kein Platz für\nItems. Sende ein\nItem in den Vorrat.
+MID_MENU_ITEM_SEND_EQUIP	Waffen, die gerade ausgerüstet sind, kannst\ndu nicht senden oder wegwerfen.
+MID_MENU_ITEM_DISCARD_CONFIRM	\x0E\x01\x00\x00\x0E\x01\x01\x00 wegwerfen?
+MID_MENU_ITEM_DISCARD_CONFIRM_YES	Wegwerfen
+MID_MENU_ITEM_SEND_CONFIRM	\x0E\x01\x00\x00\x0E\x01\x01\x00 in den Vorrat senden?
+MID_MENU_ITEM_SEND_YES	Ja
+MID_MENU_ITEM_CASH_ANNOUNCE	Der Vorrat ist voll. Um Platz zu schaffen,\nwurde die notwendige Anzahl an weniger\nwertvollen Items verkauft.
+MID_ITEMMENU_TITLE_ITEM	Items
+MID_ITEMMENU_TITLE_ATTACK	Waffe wählen
+MID_ITEMMENU_TITLE_ROD	Stab wählen
+MID_ITEMMENU_TITLE_TRANSPORTER	Vorrat
+MID_ITEMMENU_ITEM_COUNT	Anzahl
+MID_ITEMMENU_ITEM_ALL	Alles
+MID_MENU_REWIND_INFO_TURN	Zug:
+MID_MENU_REWIND_INFO_TURNS	Züge:
+MID_MENU_REWIND_INFO_REST_UNIT	Bereite Einh.:
+MID_MENU_REWIND_INFO_TIMES	Ladungen
+MID_MENU_REWIND_CONFIRM	Dieser Zeitpunkt ist nicht in der Phase deiner\nArmee. Trotzdem dorthin zurückspringen?
+MID_MENU_REWIND_DECIDE_YES	Zurückspringen
+MID_MENU_SHOP_HELP	Was möchtest du tun?
+MID_MENU_SHOP_BUY	Kaufen
+MID_MENU_SHOP_BUY_EMPTY	Nichts verfügbar.
+MID_MENU_SHOP_BUY_CONFIRM	Möchtest du dieses Item kaufen?
+MID_MENU_SHOP_PurchasedItem	Ausgewählt
+MID_MENU_SHOP_BUY_CONFIRM_YES	Kaufen
+MID_MENU_SHOP_BUY_NOTICE_FULL	Kauf nicht möglich. Mehr kannst du nicht tragen.
+MID_MENU_SHOP_SELL	Verkaufen
+MID_MENU_SHOP_SELL_EMPTY	--
+MID_MENU_SHOP_SELL_CANNOT	Unverkäufl.
+MID_MENU_SHOP_SELL_CONFIRM	Dieses Item verkaufen?
+MID_MENU_SHOP_SELL_CONFIRM_Multiple	Diese Items verkaufen?
+MID_MENU_SHOP_SELL_CONFIRM_Other	Andere: \x0E\x01\x00\x00
+MID_MENU_SHOP_SaleItem	Items
+MID_MENU_SHOP_SELL_CONFIRM_YES	Verkaufen
+MID_MENU_SHOP_ITEM	Items
+MID_MENU_SHOP_STOCK	Anzahl
+MID_MENU_SHOP_USABLE_COUNT	Anw.
+MID_MENU_SHOP_PRICE	Preis
+MID_MENU_SHOP_SELLING_COUNT	Anzahl
+MID_MENU_SHOP_SELLING_TOTAL	Preis
+MID_MENU_WEAPON_SHOP	Arsenal
+MID_MENU_WEAPON_SHOP_BUY_HELP	Wähle eine Waffe, um sie zu kaufen.
+MID_MENU_WEAPON_SHOP_HOLDING_COUNT	Inventar
+MID_MENU_WEAPON_SHOP_EQUIPPED_POSSIBLE	Ausrüstbar
+MID_MENU_ITEM_SHOP	Laden
+MID_MENU_ITEM_SHOP_BUY_HELP	Wähle ein Item aus, um es zu kaufen.
+MID_MENU_ITEM_SHOP_SELL_HELP	Wähle Items zum Verkaufen aus.
+MID_MENU_ITEM_SHOP_HOLDING_COUNT	Inventar 
+MID_MENU_ACCESSORY_SHOP	Boutique
+MID_MENU_ACCESSORY_SHOP_CHANGE	Ändern
+MID_MENU_ACCESSORY_SHOP_BUY_HELP	Wähle ein Item aus, um es zu kaufen.
+MID_MENU_ACCESSORY_SHOP_BUY_CONFIRM	Dieses Accessoire kaufen?
+MID_MENU_ACCESSORY_SHOP_ACCESSORY	Accessoires
+MID_MENU_ACCESSORY_SHOP_PART_BODY	Körper
+MID_MENU_ACCESSORY_SHOP_PART_HEAD	Kopf
+MID_MENU_ACCESSORY_SHOP_PART_FACE	Gesicht
+MID_MENU_ACCESSORY_SHOP_PART_BACK	Rücken
+MID_MENU_ACCESSORY_SHOP_CHANGE_HELP	Wähle, welche Kleidung/welches Accessoire getragen werden soll.
+MID_MENU_ACCESSORY_SHOP_CHANGE_EMPTY	--
+MID_MENU_REFINE_SHOP	Schmiede
+MID_MENU_REFINE_SHOP_REFINE	Veredeln
+MID_MENU_REFINE_SHOP_REFINE_WEAPONS	Waffen
+MID_MENU_REFINE_SHOP_REFINE_GODSYMBOL	Embleme
+MID_MENU_REFINE_SHOP_ENGRAVE	Gravieren
+MID_MENU_REFINE_SHOP_EXCHANGE	Tauschen
+MID_MENU_REFINE_SHOP_REFINE_BASE_HELP	Wähle eine Waffe zum Verbessern aus.
+MID_MENU_REFINE_SHOP_REFINE_BASE_EMPTY	(Keine Waffen)
+MID_MENU_REFINE_SHOP_REFINE_TARGET_HELP	Wähle, wie die Waffe veredelt wird.
+MID_MENU_REFINE_SHOP_REFINE_TARGET_UNKNOWN	???
+MID_MENU_REFINE_SHOP_REFINE_CONFIRM	Diese Waffe veredeln?
+MID_MENU_REFINE_SHOP_REFINE_CONTENTS	Veredeln:
+MID_MENU_REFINE_SHOP_REFINE_CONFIRM_YES	Veredeln
+MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM	Diese Waffe umwandeln?
+MID_MENU_REFINE_SHOP_EVOLVE_CONTENTS	Umwandeln:
+MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM_YES	Umwandeln
+MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_HELP	Wähle eine Waffe zum Gravieren aus.
+MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_EMPTY	(keine Waffen)
+MID_MENU_REFINE_SHOP_ENGRAVE_GOD_HELP	Wähle ein Emblem.
+MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM	Dieses Emblem gravieren?
+MID_MENU_REFINE_SHOP_ENGRAVE_CONTENTS	Graviert
+MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_YES	Gravieren
+MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_TO_REPLACE	Das Emblem von \x0E\x01\x00\x00 ist bereits auf \x0E\x01\x01\x00 graviert. Stattdessen auf diese Waffe gravieren?
+MID_MENU_REFINE_SHOP_ENGRAVE_EMPTY	(Keine Embleme)
+MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_TARGET	Welches Mineral erhalten?
+MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_SOURCE	Welches Mineral anbieten?
+MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_COUNT	Wie viele Exemplare tauschen?
+MID_MENU_REFINE_SHOP_EXCHANGE_SOURCE	Angeboten
+MID_MENU_REFINE_SHOP_EXCHANGE_GET	Erhalten
+MID_MENU_REFINE_SHOP_EXCHANGE_POSSIBLE	Tauschbar
+MID_MENU_REFINE_SHOP_EXCHANGE_ADJUSTMENT	Änderung
+MID_MENU_REFINE_SHOP_EXCHANGE_IMPOSSIBLE	Nicht genug Platz für Tausch.
+MID_MENU_REFINE_SHOP_EXCHANGE_Lack	Nicht genug Mineral.
+MID_MENU_REFINE_SHOP_EXCHANGE_01	Diesen Tausch durchführen?
+MID_MENU_REFINE_SHOP_EXCHANGE_02	\x0E\x01\x01\x00 \x0E\x01\x00\x00 kann nicht erhalten werden, da du\ndie maximale Kapazität erreicht hast.
+MID_MENU_REFINE_SHOP_EXCHANGE_YES	Tausch
+MID_MENU_FLEA_MARKET	Flohmarkt
+MID_MENU_FLEA_MARKET_NOUNIT	Es ist niemand im Laden, aber du kannst\ntrotzdem einkaufen.
+MID_MENU_FORTUNE_TELLING_TITLE	Wahrsager
+MID_MENU_FORTUNE_TELLING_HELP	Wähle eine Einheit.
+MID_MENU_FORTUNE_TELLING_RESULT0	Besorgt über
+MID_MENU_FORTUNE_TELLING_RESULT1	Denkt an
+MID_MENU_PROFILE_CARD	Visitenkarte
+MID_MENU_PROFILE_CARD_HELP	Sieh dir deine Karte an und\ntausch sie online mit anderen.
+MID_RINGLIST_SKILLLIST_TITLE	Band-Effekte
+MID_RINGLIST_BONDSRING_NAME	Ring des Bandes
+MID_RINGLIST_BONDSRING_NAME_MULTIPLE	Ringe des Bandes
+MID_RINGLIST_BONDSRINGLIST_TITLE	Effekte (Ring des Bandes)
+MID_MAINMENU_START	Neues Spiel
+MID_MAINMENU_CONTINUE	Fortsetzen
+MID_MAINMENU_OPTION	Optionen
+MID_MAINMENU_SAVEDATA_COPY	Kopieren
+MID_MAINMENU_SAVEDATA_DELETE	Löschen
+MID_MAINMENU_LANGUAGE_SETTING	Sprache ändern
+MID_MAINMENU_LANGUAGE_SETTING_HELP	Ändere die Sprache, in der Spieltexte dargestellt werden.
+MID_MAINMENU_LANGUAGE_MESS	Text
+MID_MAINMENU_LANGUAGE_VOICE	Stimmen
+MID_MAINMENU_LANGUAGE_CONFIRM	Sprache ändern?
+MID_MAINMENU_LANGUAGE_CONFIRM_YES	Ändern
+MID_MAINMENU_PRIVILEFE_LABEL	© Nintendo / INTELLIGENT SYSTEMS
+MID_MAINMENU_GAME_VERSION	Ver. \x0E\x01\x00\x00
+MID_GAMESTART_PRESS_ANY_BUTTON	DRÜCKE EINEN KNOPF
+MID_GAMESTART_MODE_TITLE	Modus
+MID_GAMESTART_PLAYER_NAME_TITLE	Name
+MID_GAMESTART_PLAYER_BIRTHDAY_TITLE	Geburtstag
+MID_GAMESTART_DIFFICULTY_TITLE	Schwierigkeit
+MID_GAMESTART_GROWMODE_TITLE	Entwicklung
+MID_GAMESTART_NETWORK_SERVICE_TITLE	Netzwerk
+MID_GAMESTART_DIFFICULTY_SELECT_TITLE	Schwierigkeitsgrad
+MID_GAMESTART_DIFFICULTY_SELECT_HELP	Wähle einen Schwierigkeitsgrad.
+MID_GAMESTART_MODE_SELECT_TITLE	Modus
+MID_GAMESTART_MODE_SELECT_HELP	Wähle einen Modus.
+MID_GAMESTART_GROWMODE_SELECT_TITLE	Statuswerte
+MID_GAMESTART_GROWMODE_SELECT_HELP	Wähle die Art der Entwicklung.
+MID_GAMESTART_GROEMODE_LOCKED_BY_LUNATIC	Du musst das Spiel auf „Extrem“ abschließen,\nbevor du auf „Extrem“ den Entwicklungstyp\n„Zufall“ für deine Einheiten wählen kannst.
+MID_GAMESTART_NETWORK_SERVICE_ON	Verbunden
+MID_GAMESTART_NETWORK_SERVICE_OFF	Nicht verbunden
+MID_GAMESTART_PLAYER_GENDER_SELECT_TITLE	Aussehen
+MID_GAMESTART_PLAYER_GENDER_SELECT_HELP	Wähle ein Aussehen.
+MID_GAMESTART_PLAYER_NAME_INPUT	Gib deinen Namen ein.
+MID_GAMESTART_PLAYER_NAME_CHECK	Ist dieser Name in Ordnung? (Nicht anzeigbare\nZeichen werden als \x0E\x01\x00\x00 dargestellt.)
+MID_GAMESTART_PLAYER_NAME_CHECK_YES	Ja
+MID_GAMESTART_PLAYER_NAME_CHECK_NO	Nein
+MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_TITLE	Geburtstag
+MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_HELP	Gib deinen Geburtstag ein.
+MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH	Monat
+MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_DAY	Tag
+MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH_DAY	\x0E\x01\x01\x00.\x0E\x01\x00\x00.
+MID_GAMESTART_NETWORK_SERVICE_SELECT_TITLE	Netzwerk-Einstellungen
+MID_GAMESTART_NETWORK_SERVICE_SELECT_HELP	Richte das Online-Spiel ein.
+MID_GAMESTART_CONFIRM_FINAL	Spiel beginnen?
+MID_GAMESTART_CONFIRM_FINAL_OK	Beginnen

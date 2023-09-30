@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nSeltsam. Dies scheint Schloss Altea zu sein.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nSchloss Altea? Ist das ein Ort in Eurer Welt?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x08\x06マルス\nJa, das ist es. Dort bin ich aufgewachsen.\nNachdem es in Feindeshand gefallen war, er-\noberten meine Verbündeten und ich es zurück.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nIhr habt Eure Heimat verloren?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06マルス\nDas Imperium von Doluna griff uns an, ange-\nführt vom Schattendrachen Medeus. Seine\nTruppen nahmen das Schloss ein.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マルス\nDie Ritter im Schloss baten Schutz an, und\nviele Soldaten ließen ihr Leben, während sie mir\nbei meiner Flucht halfen.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06マルス\nAn jenem Tag lernte ich die wahre Bedeutung\nvon Machtlosigkeit kennen.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マルス\nVerbündete – wie Prinzessin Shiida und der\nSöldner Ogma – halfen mir dabei, mein Heimat-\nland zurückzuerobern.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06マルス\nMein Volk nennt mich den Heldenkönig, aber\nfür mich sind diejenigen, die mir zum Sieg ver-\nhalfen, die wahren Helden.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nDeshalb kämpfe ich. Für jene, die an mich\nglaubten, wenn ich das Gefühl hatte, es sei\nkein Grund dafür gegeben.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nIch glaube... ich weiß, was Ihr meint.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nIch wünsche mir eine Zukunft voller Frieden,\nmit meinen Freunden und Verbündeten. Diese\nVision treibt mich an, mein Bestes zu geben.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マルス\nIhr habt in Euren Schlachten an Stärke\ngewonnen und seid ihres Vertrauens mehr als\nwürdig.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nUnd Eure Kameraden stehen an Eurer Seite,\num Eure Last zu teilen. Euer Leben ist nicht\nnur das Eure.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nMeine Freunde und meine Familie haben mich\nbis hierhergebracht. Ich verdanke ihnen so viel.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06マルス\nBehaltet Eure Gefühle nah bei Eurem Herzen,\nund Ihr werdet ganz sicher diese Prüfung\nüberstehen.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nPrüfung?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マルス\nKämpft gegen mich, \x0E\x06\x03\x00.\nDies ist die Prüfung, die Euch gewährt wird.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06マルス\nSchlagt mich im Kampf, um unser Band zu\nstärken. Gewinnt, und Ihr werdet noch mehr\nMacht aus mir ziehen.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nLasst den Kampf beginnen. Ich werde Euch\nzeigen, dass ich diese – und jede andere –\nPrüfung bestehen werde!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x16\x06マルス\x0CStatus\n\x0E\x03\x02\x08\x06マルス\nIch will mich im Kampf gegen Euch nicht\nblamieren, also denkt nicht, dies würde ein\nleichter Kampf.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nIch habe schon auf Euch gewartet! Glaubt Ihr,\ndass Ihr gegen mich bestehen könnt?\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x18\x06マルス\x0EStandBy\n\x0E\x03\x02\x08\x06マルス\nWir haben so viele Begegnungen, Wiedersehen\nund Abschiede erlebt... Wie fühlt Ihr Euch\ngerade?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStatus\n\x0E\x03\x02\x0A\x08リュール\nIch könnte diese Gefühle niemals in Worte\nfassen. Daher... antworte ich Euch mit meiner\nWaffe.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nIch möchte nichts anderes sehen!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIch komme!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nMarth? Muss ich wirklich gegen Euch kämpfen?\nIch... ich möchte keinen meiner Freunde ver-\nletzen.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nSmile\n\x0E\x03\x02\x08\x06マルス\nIch falle hier nicht ins Gewicht. Es geht darum,\nsich selbst zu überwinden.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nSich selbst zu überwinden... Ah, verstehe!\nIch muss die Veyle überwinden, die ich einst\nwar!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nKopf hoch. Ihr seid nicht mehr allein. Vergesst\ndies nicht – und triumphiert!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x02\x08\x06マルス\nAusgezeichnet. Ich konnte die Macht Eurer aller\nHoffnung fühlen, und Eure Stärke als Krieger.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マルス\nAls ich kämpfte, wurde ich an eine alte Freundin\nerinnert.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06マルス\nIch begegnete der Wyrmgöttin Tiki zum ersten\nMal inmitten einer Schlacht. Ähnlich wie dieser.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nEs ist großartig, dass es in Eurer Welt ebenfalls\neine Wyrmgöttin gibt.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06マルス\nJa. So wie Ihr hat sie für uns Menschen\ngekämpft.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nTiki wurde in einen sehr langen Schlaf versetzt\nund schlief in einem Tempel, der ihr Schutz bot.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06マルス\nSie erwachte und war unglaublich einsam. Als\nwir uns trafen, sagte sie sofort, dass sie bei uns\nbleiben möchte.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nSie nannte mich „Mar-Mar“, so wie eine kleine\nSchwester es tun würde. Mensch oder Drache,\nwir wurden Freunde fürs Leben.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nDann habe ich etwas mit ihr gemeinsam,\nungeachtet unserer Spezies - Euch.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nMarth, der Kämpfer, der das Leid anderer\nbeenden will. Ich bin ebenso froh wie sie, einem\nsolchen Helden so nah zu sein.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06マルス\nAuch mir ergeht es so, schon seit unserem\nersten Treffen.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nIch bin Euch dankbar. Denn ich wurde stärker,\nda Ihr an meiner Seite seid.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nMit meinen Freunden an der Seite, ist alles\nmöglich. Ich könnte dies nicht allein schaffen.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06マルス\nDann habt Ihr es verstanden. Wir werden Euch\nstets folgen.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

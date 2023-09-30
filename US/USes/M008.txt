@@ -1,0 +1,215 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0C\nスタルーク\nHemos llegado al castillo de Brodia.\x0E\x04\x02\x00
+MID_OP1_#002	No veo soldados elusianos por ningún lado.\nGracias al cielo, aún no han iniciado el asalto.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nEspera. Hay alguien delante de la puerta,\ny no parece un guardia.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0C\nスタルーク\n¿Será un soldado enemigo?\x0E\x04\x02\x00
+MID_OP1_#005	No. Ese es...\x0E\x04\x02\x00
+MID_OP1_#006	¡Es Diamant! ¡Ha debido de venir a recibirnos!\x0E\x04\x00\x00
+MID_MOVIE1_#003	\x0E\x03\x02\x0E\x0Cディアマンド\n\x0E\x0A\x00\x0C\x04Lo\x04La estábamos esperando, Divinidad.\x0E\x04\x02\x00
+MID_MOVIE1_#004	\x0E\x0A\x00\x0C\x04Lo\x04La saludo como príncipe heredero de Brodia.\x0E\x04\x02\x00
+MID_MOVIE1_#004_2	Me llamo Diamant.\x0E\x04\x02\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nHe oído hablar mucho sobre usted. Es un honor\nconocer por fin a la leyenda en persona.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nEs un placer conocerte, príncipe Diamant.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nPríncipe Alfred, sé bienvenido. Estoy al tanto\nde todo gracias a la misiva de la reina Ève.\x0E\x04\x02\x00
+MID_OP2_#004	Gracias por venir desde tan lejos.\nMe alegro mucho de verte.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIgualmente. Es triste que debamos coincidir\ntras tanto tiempo en un momento como este.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0E\x0Cディアマンド\nOh, Alcryst, gracias por escoltar a nuestros\ninvitados. Sé que el camino es peligroso.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x00\x10\nスタルーク\x023\n\x0E\x03\x02\x0C\nスタルーク\nNo ha sido nada, de verdad...\x0E\x04\x02\x00
+MID_OP2_#008	Pero traigo malas noticias: el ejército de Elusia\nnos ha atacado en el Gran Puente.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0E\x0Cディアマンド\n¿De verdad?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0C\nスタルーク\nUn pelotón liderado por la princesa Hortensia.\nLogramos vencerla, pero dijo algo inquietante...\x0E\x04\x02\x00
+MID_OP2_#011	que la princesa heredera planea asaltar\nel castillo de Brodia.\x0E\x04\x02\x00
+MID_OP2_#012	Si buscan nuestro anillo Emblema,\nhabrá que impedírselo por la fuerza...\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0E\x0Cディアマンド\nTendremos que reforzar nuestras defensas.\nGracias por el aviso, Alcryst.\x0E\x04\x02\x00
+MID_OP2_#014	Vamos. Entremos al castillo a informar a padre\nde lo acontecido.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08モリオン\x021\n\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0A\x08モリオン\n¿Por qué están tan tensos?\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x04\x03\x04
+MID_OP3_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nPadre, debías esperar dentro.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x0A\x08モリオン\nYa lo sé, pero tenía el presentimiento\nde que Alcryst había vuelto.\x0E\x04\x02\x00
+MID_OP3_#005	¡Parece que mi instinto paterno ha vuelto\na dar en el clavo! Bienvenido a casa, hijo.\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x00\x10\nスタルーク\x024\n\x0E\x03\x02\x0C\nスタルーク\nGracias, padre.\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x02\x0E\x0Cディアマンド\nApreciaría que dejases de buscar excusas\npara salir del castillo. Es peligroso.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x0A\x08モリオン\nPor favor, Diamant, no me eches otro sermón.\x0E\x04\x02\x00
+MID_OP3_#009	¿Qué hay de malo en salir a recibir\na mi querido hijo?\x0E\x04\x02\x00
+MID_OP3_#010	En fin... No discutamos delante\nde nuestros invitados.\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nNo pasa nada...\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x0A\x08モリオン\nDisculpen mis modales, Divinidad\ny príncipe Alfred. Les doy la bienvenida.\x0E\x04\x02\x00
+MID_OP3_#013	Soy Morion, rey de Brodia.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x0A\x08リュール\nEs un honor.\x0E\x04\x00\x00
+MID_OP3_#015	\x0E\x03\x02\x0A\x08モリオン\n¡Lo mismo digo! Nunca imaginé que tendría\nla oportunidad de hablar con el Dragón Divino.\x0E\x04\x02\x00
+MID_OP3_#016	¡Una ocasión tan especial se merece\nun duelo de bienvenida!\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x0E\x0Cディアマンド\nNo hay tiempo para eso.\nTenemos asuntos urgentes que tratar.\x0E\x04\x02\x00
+MID_OP3_#018	Alcryst ha sido atacado por soldados elusianos\ncuando escoltaba a nuestros invitados.\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x0A\x08モリオン\nUgh... Elusianos...\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x0E\x0Cディアマンド\nParece que la princesa heredera\nplanea asaltar el castillo.\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x0A\x08モリオン\n¿Ya han movido ficha? ¡Soldados!\n¡Adelante! ¡Refuercen las defensas!\x0E\x04\x00\x00
+MID_OP3_#022	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00$\x1Eブロディア兵士_ソードナイト1\x023\n\x0E\x03\x02 \x1Eブロディア兵士_ソードナイト1\n¡Sí, majestad!\x0E\x04\x00\x00
+MID_OP3_#023	\x0E\x03\x01 \x1Eブロディア兵士_ソードナイト1\n\x0E\x03\x02\x0A\x08モリオン\nHas hecho un buen trabajo\nobteniendo esa información, Alcryst.\x0E\x04\x00\x00
+MID_OP3_#024	\x0E\x03\x02\x0C\nスタルーク\nPor favor... No merezco palabras tan amables.\x0E\x04\x00\x00
+MID_OP3_#025	\x0E\x03\x02\x0A\x08モリオン\nA veces te pasas de humilde, hijo mío...\x0E\x04\x00\x00
+MID_OP3_#026	\x0E\x03\x02\x0A\x08リュール\nRey Morion, disculpa, pero necesito tu ayuda.\x0E\x04\x00\x00
+MID_OP3_#027	\x0E\x03\x02\x0A\x08モリオン\nQuiere el anillo Emblema, ¿verdad?\x0E\x04\x00\x00
+MID_OP3_#028	\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x00\x00
+MID_OP3_#029	\x0E\x03\x02\x0A\x08モリオン\n¡Sabía que lo pediría! Por eso lo he traído.\nAquí está: ¡el Anillo del Joven León!\x0E\x04\x02\x00
+MID_OP3_#030	Eh, Diamant, ¡a ver esos reflejos!\x0E\x04\x00\x00
+MID_OP3_#031	\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nNo, por favor. Se supone que debemos\ncuidarlo, no lanzarlo por ahí.\x0E\x04\x00\x00
+MID_OP3_#032	\x0E\x03\x02\x0A\x08モリオン\nBah, qué aguafiestas...\x0E\x04\x00\x00
+MID_OP3_#033	\x0E\x03\x02\x0A\x08リュール\nEste... Alfred.\x0E\x04\x00\x00
+MID_OP3_#034	\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Sí?\x0E\x04\x00\x00
+MID_OP3_#035	\x0E\x03\x02\x0A\x08リュール\nEl rey Morion parece muy... buena gente.\x0E\x04\x02\x00
+MID_OP3_#036	¿Es el mismo que se dedica a invadir Elusia?\nMe esperaba alguien más intimidante...\x0E\x04\x00\x00
+MID_OP3_#037	\x0E\x03\x02\x0E\x0Cアルフレッド\nAhora es Morion, amigo y padre de familia.\nDicen que tiene un gran corazón.\x0E\x04\x02\x00
+MID_OP3_#038	Pero en la batalla se transforma en un demonio.\nNo quisiera tenerlo como enemigo.\x0E\x04\x00\x00
+MID_OP3_#039	\x0E\x03\x02\x0E\x0Cディアマンド\nPadre a veces no sabe estar serio.\nDivinidad, aquí tiene el anillo.\x0E\x04\x00\x00
+MID_OP3_#040	\x0E\x03\x02\x0A\x08リュール\nGracias.\x0E\x04\x00\x00
+MID_OP3_#041	\x0E\x03\x02\x0A\x08モリオン\n¿Qué va a hacer con él?\x0E\x04\x00\x00
+MID_OP3_#042	\x0E\x03\x02\x0A\x08リュール\nVoy a invocar un Emblema.\x0E\x04\x02\x00
+MID_OP3_#043	¡Álzate, Emblema del Sello!\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08モリオン\x021\n\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0A\x04ロイ\x024\n\x0E\x03\x02\x06\x04ロイ\nSoy Roy. Si me has invocado,\nsignifica que la guerra ha empezado.\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x02\x0E\x0Cディアマンド\n¿Había una persona ahí dentro?\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x02\x0A\x08モリオン\nQué curioso... Resulta que había un Emblema\ndentro del anillo de nuestra familia.\x0E\x04\x02\x00
+MID_OP4_#004	Y ahora lo ha liberado...\nSu divinidad no es exageración, ¿eh?\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x01\x06\x04ロイ\n\x0E\x03\x00& ブロディア兵士_ランスアーマー1\x024\n\x0E\x03\x02" ブロディア兵士_ランスアーマー1\n¡Noticias urgentes, majestad! ¡Un jinete\nwyvern de Elusia se dirige al castillo!\x0E\x04\x02\x00
+MID_OP4_#006	Ha esquivado todos los ataques\nde nuestros arqueros.\x0E\x04\x00\x00
+MID_OP4_#007	\x0E\x03\x02\x0A\x08リュール\n¿Qué?\x0E\x04\x00\x00
+MID_OP4_#008	\x0E\x03\x02\x0E\x0Cディアマンド\nEs ella.\x0E\x04\x02\x00
+MID_OP4_#009	Divinidad, ¿puedo contar con la ayuda\nde Roy para proteger el castillo?\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x03\x02\x0A\x08リュール\nPor supuesto.\x0E\x04\x00\x00
+MID_MOVIE2_#001	\x0E\x03\x02\x0A\x08アイビー\nYo, la princesa Ivy, hablo en nombre\ndel trono de Elusia.\x0E\x04\x02\x00
+MID_MOVIE2_#001_2	\x0E\x03\x02\x0A\x08アイビー\nVoy a arrebatarles la vida, el alma...\x0E\x04\x02\x00
+MID_MOVIE2_#002	y los anillos.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08モリオン\x022\n\x0E\x03\x00\x10\nスタルーク\x023\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nNo esperaba que lograras adentrarte\ntanto en nuestro territorio, princesa Ivy.\x0E\x04\x00\x00
+MID_OP5_#002	\x0E\x03\x02\x0A\x08アイビー\nMis soldados no tardarán en llegar.\nLes doy la oportunidad de rendirse antes.\x0E\x04\x00\x00
+MID_OP5_#003	\x0E\x03\x02\x0A\x08モリオン\nUuuh, estoy impaciente por luchar.\x0E\x04\x00\x00
+MID_OP5_#004	\x0E\x03\x02\x0E\x0Cディアマンド\nPadre, regresa al castillo.\x0E\x04\x00\x00
+MID_OP5_#005	\x0E\x03\x02\x0A\x08モリオン\n¿Qué? ¿Por qué?\x0E\x04\x00\x00
+MID_OP5_#006	\x0E\x03\x02\x0E\x0Cディアマンド\nSi algo te ocurriera, sería la ruina\npara el reino. Deja que nos ocupemos.\x0E\x04\x00\x00
+MID_OP5_#007	\x0E\x03\x02\x0A\x08モリオン\nClaro... ¿Por qué debería un rey intervenir\nen asuntos como este? Está bien, tú ganas...\x0E\x04\x02\x00
+MID_OP5_#008	Pero, Diamant, Alcryst... ni se les ocurra morir.\x0E\x04\x00\x00
+MID_OP5_#009	\x0E\x03\x02\x0E\x0Cディアマンド\nNo lo haremos.\x0E\x04\x00\x00
+MID_OP5_#010	\x0E\x03\x02\x0C\nスタルーク\nLo intentaremos, padre.\x0E\x04\x00\x00
+MID_OP5_#011	\x0E\x03\x01\x0A\x08モリオン\n\x0E\x03\x02\x0A\x08アイビー\nTú debes de ser\nel Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP5_#012	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nAsí es.\x0E\x04\x00\x00
+MID_OP5_#013	\x0E\x03\x02\x0A\x08アイビー\nEres tan atractiv\x0E\x0A\x00\x08\x02o\x02a como dijo mi hermana.\nEs un placer conocerte...\x0E\x04\x02\x00
+MID_OP5_#014	Mi anillo también se alegra de verte.\x0E\x04\x00\x00
+MID_OP5_#015	\x0E\x03\x02\x0A\x08リュール\n¡Eso es...!\x0E\x04\x00\x00
+MID_OP5_#016	\x0E\x03\x02\x0A\x08アイビー\nEl Anillo del Lord Sabio.\nEs un regalo de mi padre.\x0E\x04\x02\x00
+MID_OP5_#017	Siento decirte que te quitaré la vida\ncon su poder...\x0E\x04\x00\x00
+MID_OP5_#018	\x0E\x03\x02\x0E\x0Cディアマンド\nNo lo permitiré.\nTú serás quien muerda el polvo, princesa Ivy.\x0E\x04\x00\x00
+MID_OP5_#019	\x0E\x03\x02\x0A\x08アイビー\n¿No se van a rendir?\nEn tal caso, mi ejército se dispondrá a luchar.\x0E\x04\x00\x00
+MID_OP5_#020	\x0E\x03\x02\x0E\x0Cディアマンド\n¡El nuestro también!\x0E\x04\x00\x00
+MID_OP5_#021	\x0E\x03\x02\x0A\x08リュール\nHaré lo que sea para recuperar los anillos.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アンバー\x02t\n\x0E\x05\x01\x14\x08アンバー\x08Pain\n\x0E\x03\x02\x0A\x08アンバー\n¡Por fin te has detenido, caballito!\n¿Adónde me has traído?...\x0E\x04\x02\x00
+MID_EV1_#002	\x0E\x05\x01\x1C\x08アンバー\x10Surprise\nUn momento, ¿es el castillo?\n¿Es ese el príncipe Diamant?\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x00\x12\x0Cディアマンド\x02b\n\x0E\x05\x01 \x0Cディアマンド\x10Surprise\n\x0E\x03\x02\x0E\x0Cディアマンド\n¿Amber?\x0E\x04\x00\x00
+MID_EV1_#004	\x0E\x03\x02\x0A\x08アンバー\n¿Por qué hay soldados elusianos aquí?\x0E\x04\x00\x00
+MID_EV1_#005	\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nNos están atacando. Pero, Amber,\n¿tú no estabas en una cacería de bestias?\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x05\x01\x12\x08アンバー\x06Die\n\x0E\x03\x02\x0A\x08アンバー\nA eso iba, hasta que mi caballo se asustó\ny no quiso hacerme ni caso.\x0E\x04\x02\x00
+MID_EV1_#007	\x0E\x05\x01\x18\x08アンバー\x0CStrike\nYo hacía lo posible por no caerme...\n¡Y de repente terminamos aquí!\x0E\x04\x00\x00
+MID_EV1_#008	\x0E\x05\x01\x1A\x0Cディアマンド\nSmile\n\x0E\x03\x02\x0E\x0Cディアマンド\nNunca entenderé cómo te las arreglas siempre\npara meterte en situaciones tan peculiares.\x0E\x04\x02\x00
+MID_EV1_#009	\x0E\x05\x01\x1A\x0Cディアマンド\nRelax\nAunque esta vez nos ha venido de maravilla.\nTe estaba extrañando.\x0E\x04\x00\x00
+MID_EV1_#010	\x0E\x05\x01\x16\x08アンバー\nRelax\n\x0E\x03\x02\x0A\x08アンバー\nQuizá mi montura sintió el peligro...\n¡Qué listo eres, caballito!\x0E\x04\x00\x00
+MID_EV1_#011	\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\n¿Estás listo para defender el castillo\ncon nosotros?\x0E\x04\x00\x00
+MID_EV1_#012	\x0E\x05\x01\x16\x08アンバー\nAngry\n\x0E\x03\x02\x0A\x08アンバー\n¡Estoy más que listo!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1E\x0Cディアマンド\x0EStandBy\n\x0E\x03\x02\x0E\x0Cディアマンド\nSi el enemigo llega hasta la puerta,\nel castillo caerá en sus garras.\x0E\x04\x02\x00
+MID_EV2_#002	\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\nNo podemos permitir que eso ocurra.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSi todos los enemigos nos atacan a la vez,\nnuestras defensas no resistirán.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02b\n\x0E\x05\x01\x1E\x0Cディアマンド\x0EStandBy\n\x0E\x03\x02\x0E\x0Cディアマンド\nHay una balista en el castillo.\nPodemos usarla para atacarlos.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02t\n\x0E\x05\x01\x12\x04ロイ\nAngry\n\x0E\x03\x02\x06\x04ロイ\nJuntos defenderemos el castillo.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_アイビー\x02b\n\x0E\x05\x01$\x12M008_アイビー\x0EStandBy\n\x0E\x03\x02\x14\x12M008_アイビー\nNo nos detendremos hasta que el castillo\ncaiga a nuestros pies.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_アイビー\x02b\n\x0E\x05\x01$\x12M008_アイビー\x0EStandBy\n\x0E\x03\x02\x14\x12M008_アイビー\nSon muy obstinados...\nMuy bien, ahora me toca a mí.\x0E\x04\x02\x00
+MID_EV6_#002	\x0E\x05\x01 \x12M008_アイビー\nAngry\nCon este anillo, nada ni nadie\npodrá vencerme.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nHemos recuperado el anillo, pero el Emblema\nestá bajo el influjo del Dragón Caído.\x0E\x04\x02\x00
+MID_EV7_#002	Tendré que invocarlo de nuevo\ncon mi propio poder.\x0E\x04\x02\x00
+MID_EV7_#003	¡Libéranos, Emblema de la Genealogía!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_アイビー\x02b\n\x0E\x05\x01 \x12M008_アイビー\nAngry\n\x0E\x03\x02\x14\x12M008_アイビー\nCon el poder de este anillo y el mío propio,\n¡nunca podrán derrotarme!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_アイビー\x02b\n\x0E\x05\x01 \x12M008_アイビー\nSmile\n\x0E\x03\x02\x14\x12M008_アイビー\nEs un auténtico placer poder verte\nde cerca, Divinidad.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nEse anillo debería estar en el castillo de Lythos.\nDevuélvelo.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x14\x12M008_アイビー\n¿Si me niego te acercarás más?\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_アイビー\x02b\n\x0E\x05\x01\x1E\x12M008_アイビー\x08Pain\n\x0E\x03\x02\x14\x12M008_アイビー\n¡No! ¡El anillo!\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_ゼルコバ\x02b\n\x0E\x05\x01"\x12M008_ゼルコバ\x0CStrike\n\x0E\x03\x02\x14\x12M008_ゼルコバ\nLárgate o tendré que hacerte *desaparecer*.\nNo es nada personal.\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M008_ゼルコバ\x02b\n\x0E\x05\x01\x1E\x12M008_ゼルコバ\x08Pain\n\x0E\x03\x02\x14\x12M008_ゼルコバ\nQué giro tan *desafortunado*.\nHe de volver con la princesa Ivy...\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M008_カゲツ\x02b\n\x0E\x05\x01 \x10M008_カゲツ\x0CStatus\n\x0E\x03\x02\x12\x10M008_カゲツ\n¡Soy Kagetsu, es un verdadero placer!\nOjalá las circunstancias fuesen más agradables...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M008_カゲツ\x02b\n\x0E\x05\x01\x1C\x10M008_カゲツ\x08Pain\n\x0E\x03\x02\x12\x10M008_カゲツ\nMe han derrotado... He de retirarme...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06リーフ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x08\x06リーフ\nSoy Leif. Gracias por permitirme\nempuñar mi espada de nuevo.\x0E\x04\x02\x00
+MID_ED1_#002	Haré lo que sea necesario para recuperar\naquello que nos ha sido robado.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nGracias, Leif.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x020\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0A\x08アイビー\n¿Cómo he podido fallar?\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0E\x0Cディアマンド\nSe acabó, princesa Ivy. Ríndete.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08アイビー\nNi hablar. Aún tengo cosas que hacer.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x02\x0E\x0Cディアマンド\n¡No!\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08リュール\nSe ha ido.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x00& ブロディア兵士_ランスアーマー1\x021\n\x0E\x03\x02" ブロディア兵士_ランスアーマー1\n¡Alteza! ¡Noticias urgentes de la frontera!\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x0E\x0Cディアマンド\n¿Qué ocurre?\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02" ブロディア兵士_ランスアーマー1\n¡Hay un batallón elusiano listo para la batalla!\x0E\x04\x02\x00
+MID_ED2_#009	¡El mismísimo rey Hyacinth de Elusia\nse ha puesto al frente de su ejército!\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x0E\x0Cディアマンド\n¡¿Qué?!\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02" ブロディア兵士_ランスアーマー1\nSí, y ha pedido ver al rey Morion.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x0E\x0Cディアマンド\n(...)\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x00\x0E\x08モリオン\x023\n\x0E\x03\x02\x0A\x08モリオン\nDebo enfrentarme a él.\nRehuir su desafío sería deshonroso para Brodia.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x0E\x0Cディアマンド\nPadre, seguramente se trate de una trampa.\nNo hagas caso y vuelve adentro.\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08モリオン\n¡Ja! Ninguna trampa que haya ideado\nesa sabandija podrá conmigo.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0E\x0Cディアマンド\nTe ruego que lo reconsideres.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x0A\x08モリオン\nOye, que yo soy tu padre y tú, mi hijo.\nDeja de intentar protegerme.\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x02\x0E\x0Cディアマンド\n(...)\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0A\x08モリオン\nÚltimamente lo haces cada vez más.\n¿A qué se debe?\x0E\x04\x02\x00
+MID_ED2_#020	¿Te preocupa que Brodia pierda esta guerra?\n¿Que el reino pierda a su rey?\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x0E\x0Cディアマンド\n(...)\x0E\x04\x02\x00
+MID_ED2_#022	Brodia no está preparada para perder a su rey,\nni yo a mi padre.\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x0C\nスタルーク\nDiamant...\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x0E\x0Cディアマンド\nDe niño me explicaron que mi deber\nera gobernar Brodia cuando tú murieras.\x0E\x04\x02\x00
+MID_ED2_#025	Me obligaron a anticiparme a la muerte de mi\npadre. Eso significa para mí ese trono vacío.\x0E\x04\x02\x00
+MID_ED2_#026	Ahora que el Dragón Caído ha vuelto y suenan\ntambores de guerra, ese futuro se acerca...\x0E\x04\x02\x00
+MID_ED2_#027	Y aún no estoy listo.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x0A\x08モリオン\nNo te aflijas, Diamant. Si he de morir,\nque así sea. Brodia seguirá adelante.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x0E\x0Cディアマンド\nPero ¡padre!\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0A\x08モリオン\n¿Es que ya no crees en mí? Cuando no esté,\nsé que dirigirás el país con rectitud.\x0E\x04\x02\x00
+MID_ED2_#031	Aunque me ofende que pienses\nque ese día llegará pronto.\x0E\x04\x02\x00
+MID_ED2_#032	¿Crees que no sobreviviré? ¿Me tomas por\nun viejo débil que necesita que lo protejas?\x0E\x04\x02\x00
+MID_ED2_#033	Ah, esta juventud y su soberbia.\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x02\x0E\x0Cディアマンド\nNo pretendía decir eso.\x0E\x04\x00\x00
+MID_ED2_#035	\x0E\x03\x02\x0A\x08モリオン\nEl rey Hyacinth me aguarda en el campo\nde batalla. ¿Qué será de Brodia si no acudo?\x0E\x04\x02\x00
+MID_ED2_#036	Tras años de enfrentamientos con Elusia,\n¿vamos a acobardarnos ahora?\x0E\x04\x02\x00
+MID_ED2_#037	Escúchame, Diamant. Lucharé con valentía\npor nuestro reino. No tengo miedo a la muerte.\x0E\x04\x02\x00
+MID_ED2_#038	Temo más a que digan que soy un rey\nque huye con el rabo entre las piernas.\x0E\x04\x00\x00
+MID_ED2_#039	\x0E\x03\x02\x0E\x0Cディアマンド\n(...)\x0E\x04\x00\x00
+MID_ED2_#040	\x0E\x03\x02\x0A\x08モリオン\n¿Tú qué opinas, Alcryst?\x0E\x04\x00\x00
+MID_ED2_#041	\x0E\x03\x02\x0C\nスタルーク\n¿Yo?\x0E\x04\x00\x00
+MID_ED2_#042	\x0E\x03\x02\x0A\x08モリオン\nSi tanto Diamant como yo perecemos,\ntú deberás asumir el trono.\x0E\x04\x00\x00
+MID_ED2_#043	\x0E\x03\x02\x0C\nスタルーク\n(...)\x0E\x04\x00\x00
+MID_ED2_#044	\x0E\x03\x02\x0E\x0Cディアマンド\nPadre, no le digas eso...\x0E\x04\x00\x00
+MID_ED2_#045	\x0E\x03\x02\x0C\nスタルーク\nYo...\x0E\x04\x02\x00
+MID_ED2_#046	No permitiré que ocurra.\nProtegeré a Diamant hasta el final.\x0E\x04\x00\x00
+MID_ED2_#047	\x0E\x03\x02\x0E\x0Cディアマンド\nAlcryst...\x0E\x04\x00\x00
+MID_ED2_#048	\x0E\x03\x02\x0A\x08モリオン\n¡Bien! ¡Así se habla! Diamant, más te valdría\naprender de tu hermano.\x0E\x04\x02\x00
+MID_ED2_#049	El miedo no tiene cabida en mi reino.\x0E\x04\x02\x00
+MID_ED2_#050	Sucumbir a él es como renunciar a Brodia.\x0E\x04\x00\x00
+MID_ED2_#051	\x0E\x03\x02\x0E\x0Cディアマンド\n(...)\x0E\x04\x00\x00
+MID_ED2_#052	\x0E\x03\x02\x0A\x08モリオン\nBien... ¡A la frontera!\x0E\x04\x00\x00
+MID_ED2_#053	\x0E\x03\x02\x0E\x0Cディアマンド\nNo tiene sentido intentar hacerte cambiar\nde opinión. Solo me queda acompañarte.\x0E\x04\x02\x00
+MID_ED2_#054	¡Adelante! ¡Le enseñaremos a Elusia\npor qué nos llaman el "reino de los guerreros"!\x0E\x04\x00\x00
+MID_ED2_#055	\x0E\x03\x02\x0A\x08モリオン\n¡Así se habla! Esta no será la última\nvez que vea el castillo.\x0E\x04\x02\x00
+MID_ED2_#056	Cuando regrese, organizaré un torneo con\nlos mejores guerreros. Eso \x0E\x0A\x00\x0C\x04lo\x04la incluye, Divinidad.\x0E\x04\x00\x00
+MID_ED2_#057	\x0E\x03\x02\x0A\x08リュール\n¿A mí?\x0E\x04\x00\x00
+MID_ED2_#058	\x0E\x03\x02\x0A\x08モリオン\n¡Sí! Quiero ver cómo se transforma\nen un temible dragón. ¡Roaar!\x0E\x04\x00\x00
+MID_ED2_#059	\x0E\x03\x02\x0A\x08リュール\nDe acuerdo...\x0E\x04\x00\x00
+MID_ED2_#060	\x0E\x03\x02\x0A\x08モリオン\n¿Qué pasa?\x0E\x04\x00\x00
+MID_ED2_#061	\x0E\x03\x02\x0A\x08リュール\nNada. Como bien dices, supongo que podría\ntransformarme en dragón.\x0E\x04\x00\x00
+MID_ED2_#062	\x0E\x03\x02\x0A\x08モリオン\n¡Estoy ansioso por verlo!\x0E\x04\x00\x00
+MID_ED2_#063	\x0E\x03\x02\x0E\x0Cディアマンド\nYo también quisiera batirme con usted,\nDivinidad. Después de mi padre, claro está.\x0E\x04\x02\x00
+MID_ED2_#064	Pero lo dejaremos para otra ocasión.\nDebemos prepararnos para ir a la frontera.\x0E\x04\x00\x00
+MID_ED2_#065	\x0E\x03\x02\x0A\x08モリオン\nBien dicho.\x0E\x04\x00\x00
+MID_ED2_#066	\x0E\x03\x01\x0A\x08モリオン\n\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x02\x00
+MID_ED2_#067	Madre podía transformarse en dragón,\npero ¿podré yo?\x0E\x04\x02\x00
+MID_ED2_#068	No recuerdo si puedo ni cómo hacerlo...\x0E\x04\x02\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x020\n\x0E\x03\x00\x10\nザフィーア\x022\n\x0E\x03\x00& ブロディア兵士_ランスアーマー1\x024\n\x0E\x03\x00\x0E\x08モリオン\x021\n\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0A\x08モリオン\nNo tardaremos en volver. Hasta ese momento,\ndejo el castillo en manos de la guardia real.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02" ブロディア兵士_ランスアーマー1\nA la orden, majestad.\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x0C\nザフィーア\nPuede confiar en nosotros. No en vano,\nhemos protegido este castillo durante años.\x0E\x04\x02\x00
+MID_ED3_#004	Y lo seguiremos defendiendo\naunque usted no esté.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x0A\x08モリオン\nExcelente. Y, cuando volvamos,\n¡celebraremos la victoria con un banquete!\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x0C\nザフィーア\nSerá un verdadero honor.\nNos veremos pronto, majestad.\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02" ブロディア兵士_ランスアーマー1\n¡Cuerpo fuerte!\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x0A\x08モリオン\n¡Corazón fuerte!\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x0E\x0Cディアマンド\nBien. Es hora de partir.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0C\nスタルーク\nAllá vamos...\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x01\x0A\x08モリオン\n\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0C\nザフィーア\n\x0E\x03\x01" ブロディア兵士_ランスアーマー1\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nParece que ya han terminado\ncon las despedidas.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x0A\x08リュール\nSí, vayamos a la frontera.\x0E\x04\x00\x00

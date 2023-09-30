@@ -1,0 +1,62 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x10\nヴェロニカ\x023\n\x0E\x03\x02\x0A\x08リュール\nEs increíble. Otra isla en las nubes.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nNoto la presencia de otro brazalete.\nEstoy segura de que está muy cerca.\x0E\x04\x02\x00
+MID_OP1_#003	¡Ahí está!\n¡El Brazalete de la Heredera Solitaria!\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nEspero que su Emblema sea cordial.\nEn fin, enseguida lo averiguaremos.\x0E\x04\x02\x00
+MID_OP1_#005	¡Escucha nuestra invocación,\nEmblema de los Héroes!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\nSoy Veronica, princesa imperial de Embla.\nDime tu nombre.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nSaludos, Emblema Veronica.\nSoy el Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_OP2_#003	Es un honor.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x0C\nヴェロニカ\nUn honor. Qué ocurrencia tan extraña.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nEs un honor hablar con un Emblema\ntan distinguido. No tiene nada de extraño.\x0E\x04\x02\x00
+MID_OP2_#006	Además, necesitamos cuantos aliados\npodamos ganar. ¿Te unirías a nuestra causa?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0C\nヴェロニカ\n¿Unirme a vosotros? ¿Como aliada?\x0E\x04\x02\x00
+MID_OP2_#008	Te has equivocado. Eres tú quien debería\nengrosar las filas del ejército de Embla.\x0E\x04\x02\x00
+MID_OP2_#009	Pero acepto tu oferta. Puedes unirte\na los héroes de otros mundos que he invocado.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\n¿Eres capaz de hacer eso?\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0C\nヴェロニカ\nSí. En el lugar de donde procedo,\nese poder le pertenece al invocador.\x0E\x04\x02\x00
+MID_OP2_#012	Cuando me convertí en Emblema,\nyo también adquirí esa capacidad.\x0E\x04\x02\x00
+MID_OP2_#013	Ahora reúno héroes de otros mundos\npara aplastar al Reino de Askr.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nNunca he oído hablar del Reino de Askr...\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0C\nヴェロニカ\nEso es irrelevante.\nSerás un peón más en mi estrategia.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nEspera un momento...\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0C\nヴェロニカ\nNo hay tiempo que perder. He de convertirte\nen mi \x0E\x0A\x00\x1C\nhéroe\x0Eheroína antes de que lo haga el invocador.\x0E\x04\x02\x00
+MID_OP2_#018	Prepárate para luchar.\nQuien venza tomará el control.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\n¡Espera! ¡No quiero luchar!\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0C\nヴェロニカ\nNo tienes elección. Comencemos.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\n\x0E\x03\x02\x0C\nヴェロニカ\nCuando te derrote, te haré \x0E\x0A\x00\x10\x06mío\x06mía.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nDivinidad... Me temo que no podremos llegar\nhasta el Emblema Veronica en este terreno...\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\nUsad esas losas para llegar hasta mí.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nDeberíamos dividirnos y dirigirnos\na las losas que controlan los mecanismos.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nNo ocurre nada si solo se activa uno.\n¿Y si probamos a accionar dos a la vez?\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nQuizá deberíamos activar también\naquella losa resorte, Divinidad.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\n¡¿Qué?! ¡Las islas tiemblan!\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nBien... Parece que hemos abierto un camino.\nYa podemos enfrentarnos al Emblema Veronica.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x18\nヴェロニカ\nRelax\n\x0E\x03\x02\x0C\nヴェロニカ\nHas llegado muy lejos. Bien hecho.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSi te derrotamos,\n¿prometes unirte a nuestra causa?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nNo ganarás mucho con eso.\x0E\x04\x02\x00
+MID_BT1_#004	\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\nYo, por el contrario, aspiro a adquirir\n\x0E\x0A\x00B\x1Cun nuevo héroe"una nueva heroína para mis huestes.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\n¿Perteneces a los Guardianes de Askr?\nNo, claro que no. Eres muy... pequeña.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x16\x06アンナ\x0CNormal\n\x0E\x03\x02\x08\x06アンナ\n¿Los Guardianes de Askr? Suena bien, pero no.\n¡Quizá me confundes con una de mis hermanas!\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06アンナ\nSupongo que también estarán en tu mundo.\n¡Me pregunto qué mercancías venderán!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nLo que dices es muy... raro.\nTu familia debe de ser muy interesante.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\n¿Por qué? ¿Por qué pierdo siempre?\nNo es justo...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nDijiste que quien venciera tomaría el control.\n¿Significa eso que te unirás a nosotros?\x0E\x04\x02\x00
+MID_ED1_#003	Estamos luchando para restaurar\nla paz en este mundo.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0C\nヴェロニカ\nTu causa no es la mía.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nComo princesa de un imperio, seguro\nque tomaste las armas por el bien de tu pueblo.\x0E\x04\x02\x00
+MID_ED1_#006	Estamos haciendo lo mismo.\nSé que lo entenderás.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0C\nヴェロニカ\nUn gobernante se debe a su pueblo. Cierto.\nYo misma he pronunciado esas palabras antes...\x0E\x04\x02\x00
+MID_ED1_#008	Hice cuanto pude por Embla,\npero jamás logré alcanzar mis objetivos.\x0E\x04\x02\x00
+MID_ED1_#009	Tú tienes muchos aliados\ny el poder de invocar Emblemas...\x0E\x04\x02\x00
+MID_ED1_#010	¿No te basta eso?\nYa tienes todo cuanto necesitas.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nToda ayuda es poca. Me sentiría mucho mejor\nsabiendo que podemos contar contigo.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0C\nヴェロニカ\nNo tengo nada que ofrecer.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nNo es cierto. Eres una dirigente fuerte y capaz.\nSerías una amiga muy poderosa.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0C\nヴェロニカ\nDices cosas muy extrañas.\x0E\x04\x02\x00
+MID_ED1_#015	No me interesa la amistad,\npero quizá sea preferible a la soledad.\x0E\x04\x02\x00
+MID_ED1_#016	Sea. Te prestaré mi poder por el momento.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nGracias, Emblema Veronica.\x0E\x04\x02\x00
+MID_ED1_#018	Volvamos ya. Tus nuevos aliados\nse alegrarán mucho de conocerte.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0C\nヴェロニカ\nMmm... Eso ya lo veremos.\x0E\x04\x02\x00
+MID_ED1_#020	Hace mucho que no me mezclo con la multitud.\nNo estoy acostumbrada a tales cosas.\x0E\x04\x02\x00
+MID_ED1_#021	Aunque he de decir que me intriga la idea.\nEstá bien. Hablaré con esos aliados tuyos.\x0E\x04\x00\x00

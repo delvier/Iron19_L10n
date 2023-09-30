@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x0A\x08リュール\nWo sind wir hier?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06アイク\nSchloss Gebal. Zumindest sieht es danach aus.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nEin Ort, an dem du schon mal warst?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06アイク\nJa. Er befindet sich nahe der Grenze zwischen\nden Ländern Crimea und Gallia.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06アイク\nIch finde es sehr interessant, dass dies der Ort\nist, an dem unsere Prüfung stattfinden wird.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nPrüfung?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06アイク\nStreitkräfte des Königreichs Daein hatten uns\nbis hierher zum Schloss verfolgt, uns belagert\nund festgesetzt.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06アイク\nUnser Fluchtweg war abgeschnitten. Die Stärke\nihrer Streitkräfte war erdrückend.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06アイク\nMein Vater wurde getötet und ich übernahm\nseine Rolle als Anführer von Greils Söldnern.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06アイク\nUnd hier habe ich mich meiner ersten großen\nPrüfung stellen müssen.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nDas klingt heftig. Wie hast du dich geschlagen?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06アイク\nIch kämpfte. Um meine Schwester zu beschüt-\nzen – und Greils Söldner.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06アイク\nWenn du in so einer Situation gewesen wärest,\nwas hättest du getan?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nIch würde sagen, ich hätte ebenfalls gekämpft.\nIch möchte nicht, dass denen, die mir nahe-\nstehen, ein Leid geschieht.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06アイク\nUnd ich glaube, du würdest dich gut schlagen.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06アイク\nDann zeig mir, wie du jene, die dir nahestehen,\nverteidigen würdest. Nicht mit Worten, mit\nTaten.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nEine Prüfung? Du willst, dass ich gegen dich\nkämpfe.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06アイク\nSchaffst du es, diesen Kampf zu gewinnen,\nwerden unsere Bande noch stärker.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nVerstanden! Ich werde nicht verlieren.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06アイク\nSo ist es richtig! Also, lass uns anfangen!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nGib mir dein Bestes!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nMein Zug!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\nIch mag den Ausdruck in deinen Augen. Er\nzeigt, dass du einen starken Kampfgeist besitzt.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nIch weiß, dass ich dich nur schlagen kann, wenn\nich härter kämpfe als du.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06アイク\nDu hast also verstanden, was vor dir liegt.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nNun zeig mir, dass du im Kampf genauso gut\nbist wie im Umgang mit Worten.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x14\nミスティラ\x06Shy\n\x0E\x03\x02\x0C\nミスティラ\nEs ist irgendwie seltsam, Euch entgegenzu-\ntreten. Ich meine, es war meine Aufgabe, Euren\nRing zu bewahren.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nRelax\n\x0E\x03\x02\x08\x06アイク\nFällt es Euch schwer, mich als Euren Gegner\nzu sehen?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x18\nミスティラ\nRelax\n\x0E\x03\x02\x0C\nミスティラ\nNein! Ich würde Euch gerne zeigen, wie stark\nich bin!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nGut gesprochen. Nun zeigt mir, was Ihr könnt!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02b\n\x0E\x05\x01\x14\x06アイク\nSmile\n\x0E\x03\x02\x08\x06アイク\nIrgendetwas an Euch ist anders, Fogado.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nDa ich gegen Euch antreten werde, habe ich\nmich entschlossen, mit besonderem Ernst an\ndie Sache heranzugehen!\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x06アイク\nAngry\n\x0E\x03\x02\x08\x06アイク\nIhr habt also nicht vor, zu verlieren, wie ich\nsehe.\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\nフォガート\nRelax\n\x0E\x03\x02\x0C\nフォガート\nNiemals! Ich muss Euch besiegen, wenn wir\nhier schon kämpfen!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06アイク\x022\n\x0E\x03\x02\x08\x06アイク\nGut gemacht, \x0E\x06\x03\x00!\nDu hast die Prüfung hervorragend gemeistert.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nDanke schön, Ike.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06アイク\nDu sollst wissen, dass die Kämpfe von nun an\nviel fordernder sein werden.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06アイク\nEs ist wichtig, dass dir stets bewusst ist, dass\ndu \x0E\x0A\x00:\x18ein Anführer\x1Eeine Anführerin bist und dem Druck niemals\nnachgeben darfst.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06アイク\nIn diesem Krieg darf es keinen Rückzug geben.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nDu hast recht. Würden wir wegrennen, wäre die\nWelt bald in Finsternis gehüllt.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nAber ich habe Sorge, dass diese schweren\nKämpfe für jeden zu viel sein werden. Oder zu\nviel für mich.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06アイク\nEs gibt viele, die deine Hilfe benötigen. Mach\ndir keine Sorgen. Du bist mehr als fähig.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06アイク\nUnd wenn es dir scheint, dass dein Geist\nzerbricht, dann sind es die Bande, die du\ngeknüpft hast, die obsiegen werden.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nIch werde mir deine Worte im Herzen bewahren.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06アイク\nKeine Sorge. Wenn es so scheint, als hättest du\nsie vergessen, dann bin ich da, um dich zu\nerinnern.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nWirst du immer an meiner Seite bleiben?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06アイク\nImmer.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nDanke, Ike. Zu wissen, dass du bei mir bist,\nmacht mich froh.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

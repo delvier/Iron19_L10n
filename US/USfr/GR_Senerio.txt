@@ -1,0 +1,288 @@
+MID_GR_Lueur_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08リュール\nSoren, auriez-vous un peu de temps pour\ndiscuter ? J'aimerais en savoir davantage\nsur le monde d'où vous venez.\x0E\x04\x00\x00
+MID_GR_Lueur_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe peux vous accorder quelques minutes,\nmais pas plus.\x0E\x04\x00\x00
+MID_GR_Lueur_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08リュール\nEn combat, vous avez toujours une stratégie\ncalme et logique. Il faudrait que j'essaie\nde réfléchir de la même façon...\x0E\x04\x00\x00
+MID_GR_Lueur_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nChacun a des domaines qui lui conviennent plus\nou moins bien. La réflexion calme et rationnelle\nne fait peut-être pas partie des vôtres.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08リュール\nVous avez toujours l'air intrépide en combat.\nJ'aimerais être comme vous... Moi, je me sens\nen général nerveu\x0E\x0A\x00\x0A\x02x\x04se, au début.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nUn stratège ne peut se permettre de céder à\nla panique. Et il en va de même pour quelqu'un\nqui assume un rôle tel que le vôtre.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#003	\x0E\x03\x02\x0A\x08リュール\nVous avez raison. Je dois m'efforcer de faire\npreuve de confiance, malgré les incertitudes.\x0E\x04\x00\x00
+MID_GR_Lueur_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nConcentrez-vous sur les décisions à prendre,\nl'une après l'autre. Il n'y a qu'a posteriori que\nvous saurez si vous avez fait les bons choix.\x0E\x04\x00\x00
+MID_GR_Vandre_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nヴァンドレ\nMessire Soren, j'ai hâte de découvrir les plans\nque vous avez mis au point au cours du\nconseil de guerre.\x0E\x04\x00\x00
+MID_GR_Vandre_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJ'ignore dans quelle mesure je peux être utile\nà ce groupe, mais je ferai de mon mieux.\x0E\x04\x00\x00
+MID_GR_Vandre_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nヴァンドレ\nLe Dragon divin pèche parfois par excès de\npolitesse. Votre franchise est la bienvenue.\x0E\x04\x00\x00
+MID_GR_Vandre_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nMerci... Il y a bien longtemps qu'on ne m'avait\nplus adressé de telles paroles.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nヴァンドレ\nJe vous présente de nouveau mes excuses\npour vous avoir demandé d'exprimer ce que\ntous craignaient de formuler à voix haute.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe n'ai fait que vous prodiguer un conseil.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#003	\x0E\x03\x02\x0C\nヴァンドレ\nEt pourtant... Il est rassurant de disposer\nd'un conseiller tel que vous.\x0E\x04\x00\x00
+MID_GR_Vandre_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nEspérons que je saurai me montrer digne\nde la confiance dont vous m'honorez.\x0E\x04\x00\x00
+MID_GR_Clan_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nCela fait un moment que vous êtes planté là.\nQu'est-ce que vous fabriquez, au juste ?\x0E\x04\x00\x00
+MID_GR_Clan_C_#002	\x0E\x03\x02\x08\x06クラン\nOh, je me contente d'admirer le Dragon divin\nde loin. Regardez ! Cette attitude royale... c'est\ntellement sublime.\x0E\x04\x00\x00
+MID_GR_Clan_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06クラン\nJe travaille dur pour servir le Dragon divin.\nIl n'y a rien de plus satisfaisant que de rendre\nquelqu'un heureux.\x0E\x04\x00\x00
+MID_GR_Clan_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nVoilà un sentiment que je comprends bien.\x0E\x04\x00\x00
+MID_GR_Clan_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06クラン\nMessire Soren, aimez-vous la viande ? Je crois\nvous avoir vu vous y intéresser, l'autre jour.\x0E\x04\x00\x00
+MID_GR_Clan_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nPas particulièrement, non.\x0E\x04\x00\x00
+MID_GR_Clan_A_#003	\x0E\x03\x02\x08\x06クラン\nAh bon. Eh bien tant pis. La super recette\nque j'ai trouvée ne va pas vous tenter, alors...\x0E\x04\x00\x00
+MID_GR_Clan_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nPas si vite ! Je voudrais en savoir davantage.\x0E\x04\x00\x00
+MID_GR_Fram_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06フラン\nVous ne trouvez pas que le Dragon divin est\nparticulièrement éblouissant, aujourd'hui ?\nUn don du ciel qu'on apprécie jour après jour...\x0E\x04\x00\x00
+MID_GR_Fram_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nUn don du ciel ? Mais de quoi vous parlez ?\nJe ne comprends rien à ce que vous dites.\x0E\x04\x00\x00
+MID_GR_Fram_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06フラン\nMessire Soren, pourriez-vous m'aider à trouver\nun encouragement pour soutenir le Dragon divin\npendant ses entraînements ?\x0E\x04\x00\x00
+MID_GR_Fram_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nUn encouragement ? Cela pourrait en effet\ns'avérer bénéfique pour son moral...\x0E\x04\x00\x00
+MID_GR_Fram_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06フラン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06フラン\nMerci pour vos conseils de l'autre jour.\nJe peux à présent aider le Dragon divin\npar mes encouragements !\x0E\x04\x00\x00
+MID_GR_Fram_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nAh, vraiment ?\x0E\x04\x00\x00
+MID_GR_Fram_A_#003	\x0E\x03\x02\x08\x06フラン\nOui. Mais j'avoue être surprise. Je pensais que\nvous alliez me dire d'être moins bruyante.\x0E\x04\x00\x00
+MID_GR_Fram_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nSi vos hurlements stridents peuvent apporter\nun bénéfice quelconque à notre armée,\nje ne vois rien à y redire.\x0E\x04\x00\x00
+MID_GR_Alfred_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nJ'ai confiance en ma force, mais je dois\nm'améliorer en stratégie, et c'est là que\nvous intervenez.\x0E\x04\x00\x00
+MID_GR_Alfred_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nS'il le faut...\x0E\x04\x00\x00
+MID_GR_Alfred_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nÀ votre avis, Soren... Les gens sont-ils de\nnaissance fondamentalement bons ou mauvais ?\x0E\x04\x00\x00
+MID_GR_Alfred_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nIl faut partir du principe qu'ils sont méchants.\nMême si l'on se trompe, on risque moins de\ndégâts qu'en croyant par erreur en leur bonté.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nAh, vous êtes là. Il est tout à fait irresponsable\nde disparaître au beau milieu d'un conseil\nde guerre.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\nDésolé, je suis parti courir. C'est comme ça\nque me viennent mes meilleures idées.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nJ'attends encore de voir le commencement\nd'une bonne idée venant de votre part.\x0E\x04\x00\x00
+MID_GR_Alfred_A_#004	\x0E\x03\x02\x0E\x0Cアルフレッド\nC'est la preuve que je dois courir davantage !\nMerci du conseil, je vais accélérer ma foulée !\x0E\x04\x00\x00
+MID_GR_Boucheron_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nブシュロン\nJe trouve rassurant de voir l'ancien conseiller\nstratégique d'un groupe de mercenaires\nrejoindre nos rangs.\x0E\x04\x00\x00
+MID_GR_Boucheron_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nIl serait sage de ne pas laisser naître en vous\nd'espoirs démesurés.\x0E\x04\x00\x00
+MID_GR_Boucheron_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nブシュロン\nJ'aurais besoin d'un conseil. Comment puis-je\nfaire pour éviter de me perdre sans arrêt ?\x0E\x04\x00\x00
+MID_GR_Boucheron_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nAvez-vous déjà envisagé de ne plus jamais\nvous aventurer en plein air ?\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nブシュロン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nブシュロン\nJ'ai tenté de suivre votre conseil, mais j'ai les\narticulations qui s'encrassent à force de rester à\nl'intérieur. Vous n'auriez pas une autre idée ?\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nMa foi... vous pourriez trouver quelqu'un\nqui vous accompagne partout.\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#003	\x0E\x03\x02\x0C\nブシュロン\nExcellente idée ! Je voulais justement partir\nà la pêche. Venez, allons-y !\x0E\x04\x00\x00
+MID_GR_Boucheron_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJe ne proposais pas mes services...\x0E\x04\x00\x00
+MID_GR_Etie_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nエーティエ\nJe vous ai apporté ceci, en gage d'amitié.\nC'est un stimulant musculaire qui vous\ndonnera un bon coup de tonus !\x0E\x04\x00\x00
+MID_GR_Etie_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nVoilà qui est... généreux de votre part. Mais mon\ntonus actuel me semble déjà tout à fait adéquat.\x0E\x04\x00\x00
+MID_GR_Etie_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nエーティエ\nVoudriez-vous venir courir avec moi ? Un peu\nd'activité physique améliorera votre humeur.\x0E\x04\x00\x00
+MID_GR_Etie_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe ne suis pas de mauvaise humeur.\nC'est juste mon caractère habituel.\x0E\x04\x00\x00
+MID_GR_Etie_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nエーティエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nエーティエ\nÇa doit être plutôt dur pour vous aussi, hein ?\nInutile de le cacher : je sens que nous avons\nle même problème, vous et moi.\x0E\x04\x00\x00
+MID_GR_Etie_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nPardon ?\x0E\x04\x00\x00
+MID_GR_Etie_A_#003	\x0E\x03\x02\x0C\nエーティエ\nNe pas réussir à développer ses muscles, même\nen s'entraînant activement... C'est déprimant.\x0E\x04\x00\x00
+MID_GR_Etie_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJe crains ne pas voir du tout de quoi\nvous me parlez...\x0E\x04\x00\x00
+MID_GR_Celine_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nJe vous suis si reconnaissante de m'aider,\nSoren. Accepteriez-vous de déguster une\ntasse de thé en ma compagnie ?\x0E\x04\x00\x00
+MID_GR_Celine_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nUn Emblème ne peut ni manger ni boire,\nje me vois donc contraint de décliner\nvotre invitation.\x0E\x04\x00\x00
+MID_GR_Celine_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nAinsi... C'est cela que vous nommez\nun « pot-pourri » ?\x0E\x04\x00\x00
+MID_GR_Celine_B_#002	\x0E\x03\x02\x0A\x08セリーヌ\nL'odeur n'est-elle pas enchanteresse ?\nJe serais si heureuse de vous voir apprécier\nles plaisirs simples que nous offre ce monde.\x0E\x04\x00\x00
+MID_GR_Celine_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セリーヌ\nJ'ai toujours voulu protéger mon pays.\nC'est la raison qui m'a poussée à apprendre\nà manier les armes.\x0E\x04\x00\x00
+MID_GR_Celine_A_#002	\x0E\x03\x02\x0A\x08セリーヌ\nMais quelle que soit la force que je développe,\nd'aucuns continuent d'affirmer que c'est là\nle devoir d'un prince, et pas d'une princesse.\x0E\x04\x00\x00
+MID_GR_Celine_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nCela vient du fait que le vulgaire ignore tout\nde la dignité royale.\x0E\x04\x00\x00
+MID_GR_Celine_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nC'est le devoir de tout membre d'une famille\nroyale que de défendre son peuple. C'est à cela\nque servent les impôts dont celui-ci s'acquitte.\x0E\x04\x00\x00
+MID_GR_Louis_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x06\x04ルイ\nIl émane de vous une certaine aura...\nLa compagnie d'une personne chère à votre\ncœur compléterait à merveille le tableau.\x0E\x04\x00\x00
+MID_GR_Louis_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nPourquoi me fixez-vous ainsi ? Je vous\nsaurais gré de me laisser tranquille.\x0E\x04\x00\x00
+MID_GR_Louis_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x06\x04ルイ\nJe n'ai pas mon pareil pour préparer du thé,\naussi surprenante que puisse paraître une\ntelle compétence pour un chevalier.\x0E\x04\x00\x00
+MID_GR_Louis_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nCe n'est nullement surprenant. J'ai connu\ndes chevaliers qui excellaient aux fourneaux.\x0E\x04\x00\x00
+MID_GR_Louis_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ルイ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x06\x04ルイ\nLe temps est encore superbe aujourd'hui,\nn'est-ce pas ? Et sinon, tout se passe comme\nvous le voulez, dans votre monde ?\x0E\x04\x00\x00
+MID_GR_Louis_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nInutile de vous exténuer à conquérir mon\namitié. Je n'ai nulle intention de montrer\nla plus infime... familiarité.\x0E\x04\x00\x00
+MID_GR_Louis_A_#003	\x0E\x03\x02\x06\x04ルイ\nJe m'assure seulement du bonheur des amis\nchers à mon cœur. Tel est mon tempérament.\x0E\x04\x00\x00
+MID_GR_Louis_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJe vois... Vous êtes un grand excentrique.\x0E\x04\x00\x00
+MID_GR_Chloe_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06クロエ\nVous avez connu deux autres mondes\navant celui-ci, n'est-ce pas ? Qu'est-ce\nqu'on y mangeait ?\x0E\x04\x00\x00
+MID_GR_Chloe_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nEn tant qu'Emblème, je ne saurais trop que\nvous dire des saveurs. Dans leur apparence\nen tout cas, les plats y était assez similaires.\x0E\x04\x00\x00
+MID_GR_Chloe_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06クロエ\nQuand vous pouviez manger, quelles\nsaveurs préfériez-vous ?\x0E\x04\x00\x00
+MID_GR_Chloe_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe mangeais tout ce qui était comestible.\nEn temps de guerre, on ne peut pas\nse permettre de faire le difficile.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06クロエ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06クロエ\nVous avez dit que vous mangiez tout ce\nqui était comestible, mais vous est-il déjà\narriver de trouver un goût étrange ?\x0E\x04\x00\x00
+MID_GR_Chloe_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nPas particulièrement. Enfin, maintenant\nque vous m'y refaites songer...\x0E\x04\x00\x00
+MID_GR_Chloe_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nJe me souviens de gouttes énergisantes\ndont la saveur était assez particulière.\x0E\x04\x00\x00
+MID_GR_Chloe_A_#004	\x0E\x03\x02\x08\x06クロエ\nOh ! Voilà qui m'intéresse. Pourriez-vous\nm'en dire plus ?\x0E\x04\x00\x00
+MID_GR_Diamand_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nDu point de vue d'un pays et de son peuple,\nquelles sont à votre avis les qualités que\ndevrait posséder un roi idéal ?\x0E\x04\x00\x00
+MID_GR_Diamand_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nVous posez cette question à un mercenaire ?\nVous voulez que les membres vous expliquent\ncomment la tête doit se comporter ?\x0E\x04\x00\x00
+MID_GR_Diamand_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nVous n'avez pas voulu me donner votre\ndéfinition du roi idéal. Mais que feriez-vous\nsi vous deviez servir un roi écervelé ?\x0E\x04\x00\x00
+MID_GR_Diamand_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nSi j'avais affaire à un roi qui rejetait les conseils\navisés, je prendrais tout simplement congé.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nJ'ai cru comprendre que vous étiez le conseiller\nen stratégie d'un groupe de mercenaires, et\nque vous étiez un mage exceptionnel.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe ne sais pas si j'étais exceptionnel,\nmais j'avais une bonne maîtrise des arts.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nOn n'exerce pas une science aussi délicate\nsans mérite. J'ai moi-même essayé un jour,\nmais la tâche s'est révélée bien trop ardue.\x0E\x04\x00\x00
+MID_GR_Diamand_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nIl se trouve que j'avais des dispositions.\nIl n'y a aucun mérite à cela.\x0E\x04\x00\x00
+MID_GR_Umber_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08アンバー\nJe suis Amber, le prodige du village des alpagas.\nEnchanté de faire votre connaissance !\x0E\x04\x00\x00
+MID_GR_Umber_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nC'est aussi un plaisir pour moi.\nVous m'avez l'air de bonne humeur.\x0E\x04\x00\x00
+MID_GR_Umber_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08アンバー\nJe vais partir à la recherche des pépites d'or\nlégendaires que recèlent les déserts de Solm !\x0E\x04\x00\x00
+MID_GR_Umber_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nLa mine abandonnée des confins de Solm\nsemble encore être à peu près en état, mais\nsoyez quand même prudent.\x0E\x04\x00\x00
+MID_GR_Umber_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アンバー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08アンバー\nSoren ! Connaîtriez-vous une bonne technique\nd'entraînement pour améliorer sa vitesse ?\x0E\x04\x00\x00
+MID_GR_Umber_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nPour les alpagas ou pour vous-même ?\x0E\x04\x00\x00
+MID_GR_Umber_A_#003	\x0E\x03\x02\x0A\x08アンバー\nAussi bien pour eux que pour moi, voyons !\nVous êtes quelqu'un de très futé, je suis sûr\nque vous avez une idée.\x0E\x04\x00\x00
+MID_GR_Umber_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJe ne vais pas vraiment pouvoir vous aider...\nVous devriez poser la question à quelqu'un\nde plus expérimenté en matière d'alpagas.\x0E\x04\x00\x00
+MID_GR_Jade_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nJ'ai... trouvé ce livre. Les « Aventures d'Amber,\nchevalier sans peur et sans caboche »...\x0E\x04\x00\x00
+MID_GR_Jade_C_#002	\x0E\x03\x02\x0A\x08ジェーデ\nAh ! C'est un texte... confidentiel. C'est moi\nqui l'ai écrit. Vous m'avez rendu un grand\nservice en mettant la main dessus.\x0E\x04\x00\x00
+MID_GR_Jade_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ジェーデ\nAu fait... Ce texte confidentiel que vous aviez\ntrouvé l'autre fois... Vous ne l'avez pas lu ?\x0E\x04\x00\x00
+MID_GR_Jade_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nVotre roman dont Amber est le personnage\ncentral ? Si, j'en ai parcouru une bonne partie.\x0E\x04\x00\x00
+MID_GR_Jade_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ジェーデ\nLes gens me trouvent froide et inamicale...\net pourtant, je ne déteste pas m'amuser.\x0E\x04\x00\x00
+MID_GR_Jade_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe vois... Vous êtes juste une personne\npeu expressive.\x0E\x04\x00\x00
+MID_GR_Jade_A_#003	\x0E\x03\x02\x0A\x08ジェーデ\nÀ mon avis, vous comprenez ce que je ressens\nparce que vous avez lu mon livre jusqu'au bout.\x0E\x04\x00\x00
+MID_GR_Jade_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nVous vous faites trop de soucis, Jade. Cela ne\nvous suffit-il pas que nous nous soutenions\nmutuellement sur le champ de bataille ?\x0E\x04\x00\x00
+MID_GR_Staluke_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nスタルーク\nM'accorderiez-vous un bref entretien ? Même si\nje sais que ma présence doit vous importuner...\x0E\x04\x00\x00
+MID_GR_Staluke_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nElle ne m'importune pas spécialement, mais\nje préfère malgré tout éviter les bavardages.\x0E\x04\x00\x00
+MID_GR_Staluke_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nスタルーク\nOh... Je voulais vous interroger sur les tactiques\nde combat, mais... ce thème est-il suffisamment\ndigne d'intérêt pour vous, Messire Soren ?\x0E\x04\x00\x00
+MID_GR_Staluke_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nSi vous avez quelque chose à me demander,\nfaites-le sans perdre de temps. Cela m'agace\nque vous restiez là à me dévisager.\x0E\x04\x00\x00
+MID_GR_Staluke_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nスタルーク\nVous devez sûrement être très occupé, mais...\ncomment dire... j'aimerais disputer un combat\nd'entraînement avec vous !\x0E\x04\x00\x00
+MID_GR_Staluke_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nTrès bien.\x0E\x04\x00\x00
+MID_GR_Staluke_A_#003	\x0E\x03\x02\x0C\nスタルーク\nCe n'est pas grave, je... Pardon ?! Vous... Vous\nvoulez dire que vous acceptez, vraiment ?!\x0E\x04\x00\x00
+MID_GR_Staluke_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nSi vous comptiez sur un refus de ma part, il ne\nfallait pas me poser la question. Cela s'annonce\nintéressant... Que le meilleur gagne !\x0E\x04\x00\x00
+MID_GR_Lapis_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nPourquoi gardez-vous ces vieilles armes et\nces morceaux d'armure qui ne servent plus ?\x0E\x04\x00\x00
+MID_GR_Lapis_C_#002	\x0E\x03\x02\x08\x06ラピス\nJe les réutilise comme matériaux pour bricoler.\nFabriquer soi-même ce dont on a besoin, c'est\nplus économique... euh, plus pratique !\x0E\x04\x00\x00
+MID_GR_Lapis_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nOù allez-vous donc ? Toutes nos installations\nd'entraînement se trouvent ici, à Somniel.\x0E\x04\x00\x00
+MID_GR_Lapis_B_#002	\x0E\x03\x02\x08\x06ラピス\nJe me rends en forêt pour chasser des ours...\nEuh ! Je veux dire, pour trouver un partenaire\nd'entraînement aussi fort qu'un ours !\x0E\x04\x00\x00
+MID_GR_Lapis_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ラピス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06ラピス\nJe me suis coupé la main en réparant une arme.\nJ'ai eu beau y appliquer cet onguent de ma\nfabrication, c'est encore douloureux.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#002	\x0E\x03\x02\x08\x06ラピス\nVous avez l'air fâché... Laissez-moi deviner :\nvous allez me reprocher de toujours chercher\nà économiser mon équipement ?\x0E\x04\x00\x00
+MID_GR_Lapis_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nEn tant que mercenaires, il nous arrivait aussi\nde devoir réparer des choses nous-mêmes.\nMais vous allez bien trop loin.\x0E\x04\x00\x00
+MID_GR_Lapis_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nUne combattante comme vous devrait laisser\ndes professionnels se charger des réparations.\nOu suivre un vrai apprentissage de forgeron...\x0E\x04\x00\x00
+MID_GR_Citrinica_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nシトリニカ\nVous avez tellement de charme, Soren...\nPourquoi le montrez-vous si peu ?\x0E\x04\x00\x00
+MID_GR_Citrinica_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe consacre déjà toute mon attention à\nme soucier uniquement de mes affaires.\nVous devriez essayer.\x0E\x04\x00\x00
+MID_GR_Citrinica_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nシトリニカ\nJe suis désolée de vous avoir agacé auparavant.\nY a-t-il quelque chose que je puisse vous offrir\nen guise d'excuses ?\x0E\x04\x00\x00
+MID_GR_Citrinica_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nCe que je désire ne s'achète pas.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nシトリニカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nシトリニカ\nJ'aurais dû me douter qu'un Emblème\nn'aurait cure des choses matérielles.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#002	\x0E\x03\x02\x0C\nシトリニカ\nMerci de me l'avoir dit sans détour. J'apprécie\nles personnes sincères telles que vous, Soren.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nVotre avis m'est indifférent, mais... entre nous,\nj'ai un peu de mal avec les gens comme vous.\x0E\x04\x00\x00
+MID_GR_Citrinica_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJ'ignore pourquoi, mais quand j'ai affaire à\nun cœur trop pur... ça a tendance à m'irriter.\x0E\x04\x00\x00
+MID_GR_Ivy_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nDans le monde dont je viens, mon bracelet\navait été confié au royaume d'Elusia.\x0E\x04\x00\x00
+MID_GR_Ivy_C_#002	\x0E\x03\x02\x0A\x08アイビー\nIl est bon de le savoir, même si cela ne changera\nrien du tout entre nous.\x0E\x04\x00\x00
+MID_GR_Ivy_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08アイビー\nLes flagorneurs pullulaient à la cour d'Elusia.\nJ'apprécie votre franc-parler.\x0E\x04\x00\x00
+MID_GR_Ivy_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe n'ai nulle raison de chercher à vous flatter.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08アイビー\nEn combat, je souhaite toujours ardemment\nque ceux auxquels je tiens puissent rentrer\nchez eux sains et saufs.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#002	\x0E\x03\x02\x0A\x08アイビー\nC'est peut-être une forme d'égoïsme de ma\npart. Ce tourment vous est-il familier, Soren ?\x0E\x04\x00\x00
+MID_GR_Ivy_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nPas du tout.\x0E\x04\x00\x00
+MID_GR_Ivy_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nTout ce qui compte pour moi, c'est de me tenir\naux côtés de la personne que je sers.\x0E\x04\x00\x00
+MID_GR_Zelkova_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ゼルコバ\nJe m'efforce *d'accumuler* le plus possible de\ntâches à accomplir. C'est pour moi la seule\nfaçon de trouver un sommeil réparateur.\x0E\x04\x00\x00
+MID_GR_Zelkova_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nQuelle approche surprenante... Ne croyez-vous\npas qu'il serait plus efficace de vous concentrer\nsur une tâche à la fois ?\x0E\x04\x00\x00
+MID_GR_Zelkova_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ゼルコバ\nJe n'hésiterais pas à *donner ma vie* pour\nmon travail. Je me demande si vous seriez\nprêt à un tel sacrifice ?\x0E\x04\x00\x00
+MID_GR_Zelkova_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe préfère rester en vie, pour continuer à être\naussi utile que possible à ceux que je sers.\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nJ'ai une question au sujet du nouveau remède\nque vous avez préparé... Les instructions quant\nà son utilisation me semblent... peu claires.\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#002	\x0E\x03\x02\x0A\x08ゼルコバ\nVous parlez de la *teinture écarlate*, je suppose.\nC'est un onguent destiné à calmer les accès\nde rougeur des lésions cutanées.\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nC'est donc pour la peau, mais sa présentation\nliquide pourrait laisser croire qu'il faut la boire.\nVoyez-vous ce qui pose problème ?\x0E\x04\x00\x00
+MID_GR_Zelkova_A_#004	\x0E\x03\x02\x0A\x08ゼルコバ\nVoilà une observation tout à fait judicieuse.\nVous êtes quelqu'un de *perspicace*, Soren.\x0E\x04\x00\x00
+MID_GR_Kagetsu_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06カゲツ\nVous êtes beaucoup trop solitaire, Soren.\nAllez, venez donc vous entraîner avec moi.\x0E\x04\x00\x00
+MID_GR_Kagetsu_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nNon merci. J'ai des stratégies à étudier.\x0E\x04\x00\x00
+MID_GR_Kagetsu_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06カゲツ\nSoren ! À présent que nous nous sommes enfin\nentraînés ensemble, nos liens seront éternels !\x0E\x04\x00\x00
+MID_GR_Kagetsu_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nCela semble représenter un engagement bien\nplus important que je ne l'imaginais.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06カゲツ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06カゲツ\nJe souhaite ardemment visiter le monde entier.\nY a-t-il un lieu où vous aimeriez aller, Soren ?\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nAucun en particulier.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#003	\x0E\x03\x02\x08\x06カゲツ\nAlors j'en suis heureux pour vous. Cela veut\ndire que vous avez déjà trouvé l'endroit où\nvous vous plaisez le plus.\x0E\x04\x00\x00
+MID_GR_Kagetsu_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nCela n'est pas faux. Je sais pour qui je veux\ncombattre, alors je sais où je dois me trouver.\x0E\x04\x00\x00
+MID_GR_Hortensia_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nJ'espère que vous n'imaginez pas que\nvotre air détaché de tout vous dispense\nde complimenter ma beauté, Soren.\x0E\x04\x00\x00
+MID_GR_Hortensia_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJ'avoue que vous me prenez au dépourvu.\nMais quoi que vous attendiez de moi, je crois\nqu'il est peu probable que vous l'obteniez.\x0E\x04\x00\x00
+MID_GR_Hortensia_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nHé, pourquoi n'êtes-vous pas intervenu pour\nm'aider, pendant le dernier combat ? C'est\nà ça que servent les Emblèmes, non ?!\x0E\x04\x00\x00
+MID_GR_Hortensia_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJ'ai évalué la situation et jugé que vous\nla maîtrisiez déjà parfaitement.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nVous semblez totalement imperméable à ma\nbeauté, Soren. Quel est donc votre problème ?!\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe n'ai aucun problème, et cette conversation\nest absolument sans intérêt.\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#003	\x0E\x03\x02\x0E\x0Cオルテンシア\nVous pensez qu'il y a une autre personne plus\nmignonne que moi, hein ? Qui ?! Dites-le-moi !\x0E\x04\x00\x00
+MID_GR_Hortensia_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nVous êtes épuisante. Même si je vous donnais\nun nom, vous ne sauriez que vous méprendre\nsur le sens de ma réponse.\x0E\x04\x00\x00
+MID_GR_Rosado_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ロサード\nVous êtes assez mignon, Soren. Vous le seriez\nsans doute encore plus si vous acceptiez de\nvous détendre et de rire de temps en temps !\x0E\x04\x00\x00
+MID_GR_Rosado_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe n'ai pas souvenir de vous avoir demandé\nvotre opinion.\x0E\x04\x00\x00
+MID_GR_Rosado_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ロサード\nVotre chevelure est tellement abondante...\nSi vous voulez, je peux vous donner des astuces\npour les rendre plus soyeux.\x0E\x04\x00\x00
+MID_GR_Rosado_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe vous ferais remarquer qu'ils n'ont\npas de forme matérielle.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ロサード\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ロサード\nJ'apprécie bien des choses chez vous, Soren,\nà commencer par votre vocabulaire. Même\nquand vous êtes cinglant, vous êtes mignon.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nDe mon côté, je vous trouve perturbant\net bien difficile à supporter.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#003	\x0E\x03\x02\x0A\x08ロサード\nÇa ne vous empêche pas de faire attention\nà moi pendant les combats, n'est-ce pas ?\nVous êtes très attentionné, en réalité.\x0E\x04\x00\x00
+MID_GR_Rosado_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJe fais tout ce qu'il faut pour obtenir\nle meilleur rendement tactique.\x0E\x04\x00\x00
+MID_GR_Goldmary_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nMes performances en combat augmentent à\nmesure que l'on me complimente. Félicitez-moi\ndonc chaleureusement et en détail.\x0E\x04\x00\x00
+MID_GR_Goldmary_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe préférerais évaluer vos performances sans\néloges, et ajuster notre stratégie en fonction.\x0E\x04\x00\x00
+MID_GR_Goldmary_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nJe comprends que mon charme puisse vous\nintimider, Soren, mais cela ne sert à rien de\nvous en prendre à moi pour autant.\x0E\x04\x00\x00
+MID_GR_Goldmary_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nDe toute évidence, il y a un malentendu.\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nJ'ai relevé quelques points à améliorer, lors de\nla dernière bataille. Vous devriez par exemple...\nDites, vous m'écoutez ?\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#002	\x0E\x03\x02\x0E\x0Cゴルドマリー\nPourquoi est-ce que je fournis autant d'efforts\npour quelqu'un qui ne me fait même pas\nde compliments ?\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nÉvitez de m'interrompre, s'il vous plaît. Alors,\nà propos de votre positionnement en combat...\x0E\x04\x00\x00
+MID_GR_Goldmary_A_#004	\x0E\x03\x02\x0E\x0Cゴルドマリー\nVoilà que je me mets à accepter les critiques\nconstructives... Qu'avez-vous fait de moi ?!\x0E\x04\x00\x00
+MID_GR_Misutira_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nVous êtes la princesse héritière de Solm, c'est\nbien cela ? Je vous remercie d'avoir protégé Ike.\x0E\x04\x00\x00
+MID_GR_Misutira_C_#002	\x0E\x03\x02\x0C\nミスティラ\nIl m'a tellement parlé de vous... J'attends\nde grands exploits d'un conseiller stratégique\nde votre envergure !\x0E\x04\x00\x00
+MID_GR_Misutira_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nミスティラ\nChaque fois que vous ouvrez la bouche,\nvous évoquez Ike. J'ai l'impression que\nvous l'aimez beaucoup, hein ?\x0E\x04\x00\x00
+MID_GR_Misutira_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nAimer. Détester. Ce sont des mots vides de sens\net qui n'ont pas le moindre intérêt pour moi.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nミスティラ\nDites-moi, je serais curieuse d'en savoir plus\nsur le groupe de mercenaires d'Ike. Ils sont\ntous d'humeur aussi morose que vous ?\x0E\x04\x00\x00
+MID_GR_Misutira_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nNon, c'est un groupe plutôt animé,\nvoire même bruyant.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#003	\x0E\x03\x02\x0C\nミスティラ\nHa ha ! Voilà qui est intéressant ! Continuez,\nça pourrait m'aider à vous comprendre,\nIke et vous.\x0E\x04\x00\x00
+MID_GR_Misutira_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nPff... Que voulez-vous savoir, au juste ?\nJe dois pouvoir répondre à quelques\nquestions, si c'est vraiment nécessaire.\x0E\x04\x00\x00
+MID_GR_Merin_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06メリン\nVous pourriez m'aider à trouver une répartie\npour mon prochain duel ? Je veux avoir\nle dernier mot avec un truc classe !\x0E\x04\x00\x00
+MID_GR_Merin_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nAvoir de la classe ? Mais à quoi bon ? Si vous\nvoulez que cette guerre se termine, cherchez\navant tout à tuer les ennemis.\x0E\x04\x00\x00
+MID_GR_Merin_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nVotre programme d'entraînement est plus\nintense que je ne m'y serais attendu.\x0E\x04\x00\x00
+MID_GR_Merin_B_#002	\x0E\x03\x02\x08\x06メリン\nJe tiens à être élégante, mais l'apparence ne fait\npas tout. Il faut qu'on puisse compter sur moi.\nFaisons un petit duel, et vous allez voir.\x0E\x04\x00\x00
+MID_GR_Merin_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06メリン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nVous êtes sans arrêt à la recherche de\ncréatures étranges... Cela fait-il aussi partie\nde votre programme d'entraînement ?\x0E\x04\x00\x00
+MID_GR_Merin_A_#002	\x0E\x03\x02\x08\x06メリン\nHein ? Mais pas du tout. J'ai juste envie\nd'apprivoiser des petites bêtes rares.\x0E\x04\x00\x00
+MID_GR_Merin_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nJe vois. Et moi qui m'imaginais que vous\npreniez l'entraînement très au sérieux...\nVous êtes parfois difficile à comprendre.\x0E\x04\x00\x00
+MID_GR_Merin_A_#004	\x0E\x03\x02\x08\x06メリン\nIl y a bien des activités qui vous plaisent, non ?\nVous devriez vous aussi vous consacrer un peu\nà vos passions, de temps en temps.\x0E\x04\x00\x00
+MID_GR_Panetone_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08パネトネ\nVous êtes une des rares personnes à m'épargner\ndes regards perplexes quand je mets des\ninsectes en bouteille.\x0E\x04\x00\x00
+MID_GR_Panetone_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nJ'interviendrais si cette manie risquait de\nnuire à nos efforts en combat, mais elle\nest sans conséquence particulière.\x0E\x04\x00\x00
+MID_GR_Panetone_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08パネトネ\nC'est une gageure de s'exprimer avec élégance.\nDans le feu du combat, il m'arrive de ne pas\npouvoir tenir ma langue.\x0E\x04\x00\x00
+MID_GR_Panetone_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nSi vous avez de l'énergie à dépenser pour\nbavarder, peut-être devriez-vous vous\nentraîner davantage.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パネトネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08パネトネ\nJ'aimerais vous faire don de ceci, Soren. C'est\nmagnifique, n'est-ce pas ? On dirait un joyau.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nC'est un de vos insectes embouteillés.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#003	\x0E\x03\x02\x0A\x08パネトネ\nSes coloris changent selon l'angle sous lequel\nvous l'observez. Il s'agit d'une espèce très\nrare, vous savez.\x0E\x04\x00\x00
+MID_GR_Panetone_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nAussi inutile qu'elle soit, j'avoue que\ncette babiole m'intrigue.\x0E\x04\x00\x00
+MID_GR_Fogato_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nフォガート\nSoren, j'aime bien ce motif sur votre front !\nIl vous ajoute de la prestance.\x0E\x04\x00\x00
+MID_GR_Fogato_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nDe la prestance ? Alors ça... C'est bien\nla première fois qu'on me le dit.\x0E\x04\x00\x00
+MID_GR_Fogato_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nフォガート\nVous n'êtes vraiment pas loquace. Mais cela ne\nfait rien. Vous n'êtes pas un homme de parole,\nmais un homme d'action. Je vous comprends.\x0E\x04\x00\x00
+MID_GR_Fogato_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe vous parlerais volontiers si la discussion\nétait en rapport avec les combats, mais\nc'est si rarement le cas...\x0E\x04\x00\x00
+MID_GR_Fogato_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nフォガート\nSoren, mon ami ! Nous devrions faire une\nvirée nocturne dans le désert, vous et moi.\x0E\x04\x00\x00
+MID_GR_Fogato_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe préfère autant m'abstenir...\x0E\x04\x00\x00
+MID_GR_Fogato_A_#003	\x0E\x03\x02\x0C\nフォガート\nAllez ! Vous verrez, vous ne le regretterez pas.\nEt je sais que c'est dur à croire, mais la vue\nest encore plus belle de nuit.\x0E\x04\x00\x00
+MID_GR_Fogato_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nVous n'avez vraiment peur de rien. Votre\nassurance à toute épreuve ne me laisse rien\nprésager de bon quant à votre avenir.\x0E\x04\x00\x00
+MID_GR_Pandoro_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08パンドロ\nVous savez, votre tenue ne paraîtrait nullement\ndéplacée dans une église. Ça vous dirait de\nvenir prier avec moi ?\x0E\x04\x00\x00
+MID_GR_Pandoro_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nNon. La foi... ne me sied guère.\x0E\x04\x00\x00
+MID_GR_Pandoro_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nLa prière n'a jamais sauvé de vies. Seul\nl'accomplissement scrupuleux de son devoir\nle permet.\x0E\x04\x00\x00
+MID_GR_Pandoro_B_#002	\x0E\x03\x02\x0A\x08パンドロ\nC'est vrai. Mais bien des gens trouvent dans\nla prière un moyen d'affermir leur cœur.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08パンドロ\nLa prière est aussi un moyen d'apaiser l'esprit,\npar exemple lorsqu'on pleure des amis disparus.\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nNe serait-il pas pour autant possible d'apaiser\nson esprit sans avoir recours à la prière ?\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#003	\x0E\x03\x02\x0A\x08パンドロ\nEh bien, ma foi... Que diriez-vous alors de prier\npour le bonheur des gens qu'on aime ?\x0E\x04\x00\x00
+MID_GR_Pandoro_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nHmm... Le bonheur des gens qu'on aime...\nPeut-être n'est-ce pas une mauvaise idée.\x0E\x04\x00\x00
+MID_GR_Bonet_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x06\x04ボネ\nOn m'a raconté que vous faisiez partie\nd'une bande de mercenaires. J'ai moi-même\nété mercenaire, c'était très difficile.\x0E\x04\x00\x00
+MID_GR_Bonet_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nAussi banale qu'elle puisse paraître, la vie\nd'un mercenaire n'est pas exempte de défis.\x0E\x04\x00\x00
+MID_GR_Bonet_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x06\x04ボネ\nVotre odeur est aussi mystérieuse que\ndélicieuse. Il s'agit là d'un intéressant\nmélange de parfums...\x0E\x04\x00\x00
+MID_GR_Bonet_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nVous seriez bien avisé de garder vos distances.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0A\x04ボネ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nVous semblez en difficulté. Si celle-ci est\nd'ordre stratégique, vous pouvez m'en parler.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#002	\x0E\x03\x02\x06\x04ボネ\nEn fait, je pensais à vous. Ou plutôt, je me\ndemandais quel plat pourrait bien vous\nrendre heureux.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#003	\x0E\x03\x02\x06\x04ボネ\nJ'aimerais, pour une fois, vous voir arborer\nun air comblé. Ah, si seulement les Emblèmes\npouvaient manger.\x0E\x04\x00\x00
+MID_GR_Bonet_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nSachez que mon air me convient parfaitement.\x0E\x04\x00\x00
+MID_GR_Anna_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06アンナ\nÇa ne saute peut-être pas aux yeux, mais je\nsuis une marchande. J'ai voyagé aux quatre\ncoins du monde !\x0E\x04\x00\x00
+MID_GR_Anna_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nTes expériences m'intriguent au plus haut\npoint. Oserais-je m'enquérir des dernières\nnouvelles de ces régions lointaines ?\x0E\x04\x00\x00
+MID_GR_Anna_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06アンナ\nSoren, venez jeter un œil à mes derniers\narrivages ! C'est de l'artisanat de première\nqualité, garanti à cent pour cent.\x0E\x04\x00\x00
+MID_GR_Anna_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nS'il s'agit d'instruments de combat efficaces,\nje ne peux que partager ton enthousiasme.\nLes présenteras-tu au conseil de guerre ?\x0E\x04\x00\x00
+MID_GR_Anna_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06アンナ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06アンナ\nJ'ai envie de vous faire un petit cadeau à\nl'œil. Vous savez... pour vous remercier\nd'être toujours prêt à m'écouter.\x0E\x04\x00\x00
+MID_GR_Anna_A_#002	\x0E\x03\x02\x08\x06アンナ\nMais je n'ai absolument aucune idée de ce qui\nvous ferait plaisir. Rien, néant. Vous n'auriez\npas quelque chose à me suggérer ?\x0E\x04\x00\x00
+MID_GR_Anna_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nCe geste cacherait-il quelque arrière-pensée ?\nNon, cela serait étonnant... En tout état de\ncause, non, je n'ai besoin de rien.\x0E\x04\x00\x00
+MID_GR_Anna_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nMais je te remercie pour\ncette généreuse attention.\x0E\x04\x00\x00
+MID_GR_Jean_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nNe devrais-tu point te contenter d'assister\nles blessés ? Assurément, leur porter secours\nest à même de mobiliser ton entière attention.\x0E\x04\x00\x00
+MID_GR_Jean_C_#002	\x0E\x03\x02\x08\x06ジャン\nJe veux pas juste être un docteur, je veux\naussi aider mes alliés au coude-à-coude\nsur le champ de bataille.\x0E\x04\x00\x00
+MID_GR_Jean_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06ジャン\nDites, si quelque chose vous tracasse, vous\npouvez m'en parler. Les bobos de l'esprit\nfont encore plus mal que les autres, des fois.\x0E\x04\x00\x00
+MID_GR_Jean_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nÀ quoi cela servirait-il ? Même dans les\npires épreuves, nous n'avons d'autre choix\nque d'aller de l'avant.\x0E\x04\x00\x00
+MID_GR_Jean_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ジャン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06ジャン\nOn me donne de plus en plus de responsabilités,\nces derniers temps. Je suis content, mais ça\nveut peut-être dire que...\x0E\x04\x00\x00
+MID_GR_Jean_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nCela signifie que le conflit s'embrase.\x0E\x04\x00\x00
+MID_GR_Jean_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nPour autant, je doute que cela s'éternise\nencore, tu retrouveras bientôt le calme\nauquel tu étais habitué.\x0E\x04\x00\x00
+MID_GR_Jean_A_#004	\x0E\x03\x02\x08\x06ジャン\nOn veut tous que la guerre se termine\ntrès vite, alors on va faire de notre mieux\npour que ça arrive.\x0E\x04\x00\x00
+MID_GR_Yunaka_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06ユナカ\nJe suis assez douée pour les imitations.\nVous voulez que je vous fasse le Dragon divin ?\x0E\x04\x00\x00
+MID_GR_Yunaka_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nVoilà un talent qui pourrait s'avérer utile.\nVous devriez l'utiliser sur le champ de bataille.\x0E\x04\x00\x00
+MID_GR_Yunaka_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nNous avions quelqu'un un peu comme vous\ndans notre groupe de mercenaires. Il était très\ndoué pour se dissimuler.\x0E\x04\x00\x00
+MID_GR_Yunaka_B_#002	\x0E\x03\x02\x08\x06ユナカ\nQuoi ? Mais je ne me cache pas. Les gens ne\nfont souvent pas attention à moi, c'est tout.\nQu'est-ce que j'y peux ?\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ユナカ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06ユナカ\nCoucou, Soren ! C'est moi, Yunaka, là, juste\ndevant vous !\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nOui, je vous vois. Mais que cherchez-vous\nà faire, au juste ?\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#003	\x0E\x03\x02\x08\x06ユナカ\nJe voulais vous prouver que je ne me cache pas.\nJe suis là, à découvert. Il est impossible de ne\npas me remarquer !\x0E\x04\x00\x00
+MID_GR_Yunaka_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nVoilà qui m'oblige à réviser mon avis sur vous.\nJe me demande si c'était bien votre objectif.\x0E\x04\x00\x00
+MID_GR_Seadas_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セアダス\nC'est ce que j'appelle un long soupir.\nQuelque chose vous turlupine ? Je peux\nvous tirer les cartes, si vous le souhaitez.\x0E\x04\x00\x00
+MID_GR_Seadas_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nFort peu pour moi. Je n'accorde aucun crédit\naux arts divinatoires de toutes sortes.\x0E\x04\x00\x00
+MID_GR_Seadas_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セアダス\nDanser, lire l'avenir, combattre... On ne chôme\npas. Vivement que cette guerre se termine, un\npeu de repos serait le bienvenu.\x0E\x04\x00\x00
+MID_GR_Seadas_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nJe comprends votre sentiment, mais j'ai\ngrand mal à entrevoir concrètement la fin\nde cette guerre.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08セアダス\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セアダス\nHm... Cette nourriture est tellement délicieuse\nqu'on en oublierait toute retenue. Vous pensez\nque je peux en manger juste un petit bout ?\x0E\x04\x00\x00
+MID_GR_Seadas_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nVous devriez manger à satiété, être bien nourri\nest primordial avant d'aller au combat.\x0E\x04\x00\x00
+MID_GR_Seadas_A_#003	\x0E\x03\x02\x0A\x08セアダス\nQuoi ?! Ne me dites pas des choses\npareilles avec cet air sérieux, je pourrais\nvous prendre aux mots !\x0E\x04\x00\x00
+MID_GR_Seadas_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nJ'étais on ne peut plus sérieux. Vous ne\nrisquez absolument rien, et un esprit dûment\nsustenté n'est que plus efficace au combat.\x0E\x04\x00\x00
+MID_GR_Linden_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nEncore vous ? Faut-il vraiment que vous\nme sollicitiez à toute heure du jour ?\x0E\x04\x00\x00
+MID_GR_Linden_C_#002	\x0E\x03\x02\x0A\x08リンデン\nJe vous en prie, Soren, c'est important.\nJ'ai besoin de l'aide d'un second mage\npour cuire ces pommes !\x0E\x04\x00\x00
+MID_GR_Linden_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nQue se passe-t-il ? Pourquoi m'avez-vous\nfait mander ?\x0E\x04\x00\x00
+MID_GR_Linden_B_#002	\x0E\x03\x02\x0A\x08リンデン\nAh, vous êtes là. Cette pâtisserie a besoin\nde deux bonnes décharges de foudre, et\nje ne peux compter sur personne d'autre.\x0E\x04\x00\x00
+MID_GR_Linden_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リンデン\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08リンデン\nSoren ? Soren ! Pouvez-vous venir ici,\nje vous prie ? J'ai besoin de votre aide.\x0E\x04\x00\x00
+MID_GR_Linden_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nEst-ce encore pour l'une de vos\nexpériences ? Avez-vous conscience\nque j'ai mieux à faire de mon temps ?\x0E\x04\x00\x00
+MID_GR_Linden_A_#003	\x0E\x03\x02\x0A\x08リンデン\nPeut-être, mais contrairement au mien,\nvotre temps n'est pas compté. Allons,\nne soyez pas revêche.\x0E\x04\x00\x00
+MID_GR_Linden_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nPff. Je capitule, mais si le feu se déclare\nencore dans votre atelier, je nierai toute\nimplication de ma part.\x0E\x04\x00\x00
+MID_GR_Saphir_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nザフィーア\nVous avez l'air du genre prudent, Soren.\nC'est pas vous qui iriez avaler une arête\nen dégustant un poisson.\x0E\x04\x00\x00
+MID_GR_Saphir_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nVoilà un sujet de conversation qui m'est\nparfaitement indifférent.\x0E\x04\x00\x00
+MID_GR_Saphir_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nザフィーア\nÇa vous dit, d'échanger quelques passes\nd'armes ? J'ai pas encore pu bien cerner\nvotre style.\x0E\x04\x00\x00
+MID_GR_Saphir_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nSoit. Cela me donnera aussi l'occasion de me\nfaire une idée plus exacte de vos compétences.\x0E\x04\x00\x00
+MID_GR_Saphir_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nザフィーア\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0C\nザフィーア\nVous avez eu le dessus la dernière fois,\nmais ce coup-ci, ce sera pas pareil.\nAllez, accordez-moi une revanche !\x0E\x04\x00\x00
+MID_GR_Saphir_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nRevenez me voir dans une heure.\nJ'aurai davantage de temps.\x0E\x04\x00\x00
+MID_GR_Saphir_A_#003	\x0E\x03\x02\x0C\nザフィーア\nVous savez, pour quelqu'un qui se soucie des\ngens comme d'une guigne, vous êtes drôlement\nattentionné de consacrer du temps aux autres.\x0E\x04\x00\x00
+MID_GR_Saphir_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nIl est dans l'intérêt de cette armée de fournir\nà ses membres l'occasion de s'améliorer.\x0E\x04\x00\x00
+MID_GR_Veyre_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nJe vous remercie d'avoir rejoint nos rangs.\nJ'ignore pourquoi, mais je craignais que vous\nrefusiez de vous associer à moi.\x0E\x04\x00\x00
+MID_GR_Veyre_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nGardez-vous de tout jugement hâtif.\nLa force d'un combattant s'apprécie\nau nombre de ses alliés.\x0E\x04\x00\x00
+MID_GR_Veyre_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nIl m'arrive de succomber à la tristesse, quand\nje pense à mon père. Si cela a pu affecter ma\ncapacité à combattre, je m'en excuse.\x0E\x04\x00\x00
+MID_GR_Veyre_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nOn en vient à se demander s'il vaut mieux\navoir une famille qui vous cause du tourment,\nou ne point avoir de famille du tout.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x0A\x08セネリオ\nVous avez une fâcheuse propension à charger\ntête baissée. Si vous persistez dans cette voie,\nje serai contraint de vous mettre à pied.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#002	\x0E\x03\x02\x0A\x08ヴェイル\nVeuillez me pardonner, je ferai en\nsorte que ça ne se reproduise plus.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#003	\x0E\x03\x02\x0A\x08ヴェイル\nJe vous en prie, laissez-moi aller au combat,\nje veux me montrer utile.\x0E\x04\x00\x00
+MID_GR_Veyre_A_#004	\x0E\x03\x02\x0A\x08セネリオ\nSe priver d'une combattante telle que vous\nserait dommageable, je gage que vous\napprendrez rapidement à vous contrôler.\x0E\x04\x00\x00
+MID_GR_Mauve_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06モーヴ\nMerci de nous avoir accueillis à bras ouverts,\nDame Veyle et moi. J'ai cru comprendre que\nnous n'avions pas toujours été amis.\x0E\x04\x00\x00
+MID_GR_Mauve_C_#002	\x0E\x03\x02\x0A\x08セネリオ\nIl aurait été puéril de refuser des alliés ainsi que\ndes renseignements. Je suis content que vous\nsoyez des nôtres.\x0E\x04\x00\x00
+MID_GR_Mauve_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06モーヴ\nVous avez d'abord refusé la demande d'aide\ndu Dragon divin. Qu'est-ce qui vous a fait\nchanger d'avis ?\x0E\x04\x00\x00
+MID_GR_Mauve_B_#002	\x0E\x03\x02\x0A\x08セネリオ\nSa persévérance, je crois. Et à présent que\nje suis ici, je ne vois aucune raison de ne pas\nfaire tout mon possible pour cette armée.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0E\x08セネリオ\x022\n\x0E\x03\x02\x08\x06モーヴ\nVous montrez rarement vos émotions.\nJ'ai néanmoins remarqué que vous étiez moins\nréservé avec ceux en qui vous aviez confiance.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#002	\x0E\x03\x02\x0A\x08セネリオ\nS'il en est vraiment ainsi, ce n'est\nnullement intentionnel.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#003	\x0E\x03\x02\x0A\x08セネリオ\nJe peux toutefois dire la même chose de vous,\nvoire de toute personne ayant quelqu'un\nà qui elle tient.\x0E\x04\x00\x00
+MID_GR_Mauve_A_#004	\x0E\x03\x02\x08\x06モーヴ\nJe suppose que vous avez raison. Je vous\nai fait une observation que vous avez réussi\nà me renvoyer par quelque tour de force...\x0E\x04\x00\x00

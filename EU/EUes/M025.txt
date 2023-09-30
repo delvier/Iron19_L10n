@@ -1,0 +1,242 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08リュール\n¿Así que la última lasca del Dragón Caído\nestá aquí, en el templo de Gradlon?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08ヴェイル\nSí...\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Qué sucede, Veyle? No tienes buen aspecto.\n¿Necesitas más tiempo para descansar?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08ヴェイル\nNo, no es eso. Es solo que... tengo una petición.\x0E\x04\x02\x00
+MID_OP1_#005	Déjame entrar. Sola. Destruiré la lasca\ny volveré lo antes posible.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\n¡¿Qué?! No puedo dejar que hagas eso.\nEs demasiado peligroso.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08ヴェイル\nConfía en mí. Más te vale no enfrentarte\na este enemigo.\x0E\x04\x02\x00
+MID_OP1_#008	Será mejor que tú y tus amigos os quedéis aquí.\nHermano... permite que te libre...\x0E\x04\x00\x00
+MID_OP1_#008_F	Será mejor que tú y tus amigos os quedéis aquí.\nHermana... permite que te libre...\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\n¿Librarme de qué? No lo entiendo.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x18\x12M025_ルミエル\x021\n\x0E\x06\x00.\x12M025_ルミエル\x18MPID_Lumiere\n\x0E\x03\x02\x14\x12M025_ルミエル\nJa, ja... ¿Eres tú, \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x14\x12M025_ルミエル\nEres tú, ¿verdad?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\n¡¿Madre?!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x14\x12M025_ルミエル\nOh, \x0E\x0A\x00$\x10hijo mío\x10hija mía...\n¡Tenía tantas ganas de volver a verte!\x0E\x04\x02\x00
+MID_OP1_#015	¡Cuando sentí tu presencia, volé tan rauda\ncomo mis alas me lo permitieron!\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nNo puede ser. ¿Cómo...?\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x14\x12M025_ルミエル\n¡Cuánto te he echado de menos!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nNo te acerques más, Dragón Divino,\no quizá debería decir "aberración de Lumera".\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x06\x008\x12M025_ルミエル"MPID_MorphLumiere\n\x0E\x03\x02\x14\x12M025_ルミエル\nOh... Ahora que por fin podía disfrutar\nde la compañía de mi hij\x0E\x0A\x00\x08\x02o\x02a...\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08ヴェイル\nNo me esperaba esto. Pensé que permanecería\ndentro, con la lasca.\x0E\x04\x00\x00
+MID_OP1_#021	\x0E\x03\x02\x0A\x08リュール\n¿Veyle? ¿Ha sido obra tuya?\x0E\x04\x00\x00
+MID_OP1_#022	\x0E\x03\x02\x0A\x08ヴェイル\nNo. Fue papá. Los anillos le otorgaron\nel poder de crear aberraciones más elaboradas.\x0E\x04\x02\x00
+MID_OP1_#023	Se llevó su cuerpo de Lythos como último\nrecurso para proteger las lascas.\x0E\x04\x00\x00
+MID_OP1_#024	\x0E\x03\x02\x0A\x08リュール\nYa lo sabías, ¿verdad?\nSabías lo que le había ocurrido a mi madre...\x0E\x04\x00\x00
+MID_OP1_#025	\x0E\x03\x02\x0A\x08ヴェイル\nSí... Y también sabía que no es posible salvarla.\x0E\x04\x02\x00
+MID_OP1_#026	Los Emblemas ya han usado su milagro.\nPodían revivir a una persona y te eligieron a ti...\x0E\x04\x02\x00
+MID_OP1_#027	No existe otro modo de salvar\na alguien que se ha convertido en aberración.\x0E\x04\x00\x00
+MID_OP1_#028	\x0E\x03\x02\x0A\x08リュール\nPor lo que dices, no queda otra elección.\nTenemos que enfrentarnos a ella.\x0E\x04\x00\x00
+MID_OP1_#029	\x0E\x03\x02\x0A\x08ヴェイル\nNo tienes que hacerlo, hermano.\nDéjamelo a mí.\x0E\x04\x00\x00
+MID_OP1_#029_F	\x0E\x03\x02\x0A\x08ヴェイル\nNo tienes que hacerlo, hermana.\nDéjamelo a mí.\x0E\x04\x00\x00
+MID_OP1_#030	\x0E\x03\x02\x0A\x08リュール\nPero...\x0E\x04\x00\x00
+MID_OP1_#031	\x0E\x03\x02\x14\x12M025_ルミエル\nFuera hace mucho frío. ¿Por qué no entras?\nQuieres romper la lasca, ¿verdad?\x0E\x04\x02\x00
+MID_OP1_#032	No pasa nada. No voy a hacerte daño.\nSolo quiero charlar tranquilamente.\x0E\x04\x00\x00
+MID_OP1_#033	\x0E\x03\x01\x14\x12M025_ルミエル\n\x0E\x03\x02\x0A\x08リュール\nMadre...\x0E\x04\x02\x00
+MID_OP1_#034	\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x00\x00
+MID_OP1_#035	\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nApenas lo puedo creer... La reina Lumera\nen carne y hueso... ¿Qué debemos hacer?\x0E\x04\x00\x00
+MID_OP1_#036	\x0E\x03\x02\x0A\x08リュール\nTenemos que derrotarla.\nNo hay otra solución.\x0E\x04\x02\x00
+MID_OP1_#037	Pero... no sé si podré reunir la fuerza.\x0E\x04\x00\x00
+MID_OP1_#038	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nYo me siento igual. Era mi diosa...\n¿Y ahora debo enfrentarme a ella?\x0E\x04\x00\x00
+MID_OP1_#039	\x0E\x03\x00\x10\nミスティラ\x023\n\x0E\x03\x02\x0C\nミスティラ\nEso... No es que Solm sea un país muy devoto,\npero también amábamos a la reina Lumera.\x0E\x04\x02\x00
+MID_OP1_#040	\x0E\x03\x02\x0A\x08リュール\nNo podemos flaquear. Si lo hacemos, el mundo\nestará condenado. Avancemos.\x0E\x04\x02\x00
+MID_OP1_#041	(...)\x0E\x04\x02\x00
+MID_OP1_#042	La puerta... no se abre.\x0E\x04\x00\x00
+MID_OP1_#043	\x0E\x03\x00\x0E\x08アイビー\x024\n\x0E\x03\x02\x0A\x08アイビー\nEchemos un vistazo. Mmm... Han lanzado\nun hechizo a la puerta desde dentro.\x0E\x04\x02\x00
+MID_OP1_#044	Qué extraño. Si nos había invitado a entrar...\x0E\x04\x00\x00
+MID_OP1_#045	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x02\x0E\x0Cディアマンド\n¡Un momento! ¿Dónde está lady Veyle?\nNo habrá entrado, ¿verdad?\x0E\x04\x00\x00
+MID_OP1_#046	\x0E\x03\x02\x0A\x08リュール\n¡¿Qué?! ¡No!\x0E\x04\x02\x00
+MID_OP1_#047	No puede entrar ahí sola...\n¡Veyle, abre la puerta!\x0E\x04\x00\x00
+MID_OP2C_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nPerdóname.\x0E\x04\x00\x00
+MID_OP2C_#002	\x0E\x03\x00\x18\x12M025_ルミエル\x021\n\x0E\x03\x02\x14\x12M025_ルミエル\nOh, cielos, ¿has venido a verme tú sola?\x0E\x04\x00\x00
+MID_OP2C_#003	\x0E\x03\x02\x0A\x08ヴェイル\nNo permitiré que te quite la vida tu \x0E\x0A\x000\x16propio hijo\x16propia hija.\x0E\x04\x00\x00
+MID_OP2C_#004	\x0E\x03\x02\x14\x12M025_ルミエル\nQué noble. En fin, me alegra tener\nun momento para hablar contigo, Veyle.\x0E\x04\x02\x00
+MID_OP2C_#005	Dicen que eres la hermana pequeña de mi hij\x0E\x0A\x00\x08\x02o\x02a.\nSi es así, prácticamente soy tu madre también.\x0E\x04\x02\x00
+MID_OP2C_#006	Puedes considerarme tu madre, si te apetece.\x0E\x04\x00\x00
+MID_OP2C_#007	\x0E\x03\x02\x0A\x08ヴェイル\nMuchas gracias, pero no necesito\nuna segunda madre. Ya tuve una.\x0E\x04\x00\x00
+MID_OP2C_#008	\x0E\x03\x02\x14\x12M025_ルミエル\n¡Ah! Murió, ¿verdad?... Dime, ¿cómo era?\x0E\x04\x00\x00
+MID_OP2C_#009	\x0E\x03\x02\x0A\x08ヴェイル\nEra amable, cariñosa y estaba llena de amor.\nPero murió antes de que pudiera valorarla.\x0E\x04\x02\x00
+MID_OP2C_#010	Siempre hizo todo lo que pudo por protegerme.\nAun así, me dijo que, si papá se liberaba...\x0E\x04\x02\x00
+MID_OP2C_#011	Si empezaba a hacer cosas terribles...\nYo, como familia suya, debía detenerlo.\x0E\x04\x00\x00
+MID_OP2C_#012	\x0E\x03\x02\x14\x12M025_ルミエル\nSupongo que eso significa que tienes\nintención de volver a matarme.\x0E\x04\x00\x00
+MID_OP2C_#013	\x0E\x03\x02\x0A\x08ヴェイル\nExacto.\x0E\x04\x00\x00
+MID_OP2C_#014	\x0E\x03\x02\x14\x12M025_ルミエル\n¡Aún tiemblo al recordar el dolor de aquel día!\nY lo que es peor: ¡me rompiste el corazón!\x0E\x04\x02\x00
+MID_OP2C_#015	Me separaste de mi \x0E\x0A\x00,\x14amado hijo\x14amada hija.\n¿Puedes imaginar la agonía que sentí?\x0E\x04\x02\x00
+MID_OP2C_#016	De no ser por ti, mi hij\x0E\x0A\x00\x08\x02o\x02a y yo\nhabríamos permanecido junt\x0E\x0A\x00\x08\x02o\x02as para siempre.\x0E\x04\x00\x00
+MID_OP2C_#017	\x0E\x03\x02\x0A\x08ヴェイル\nSoy consciente de que fue por mi culpa.\nTu muerte... Todo esto.\x0E\x04\x02\x00
+MID_OP2C_#018	Es cierto que me manipulaban, pero te maté\ny robé los anillos. Fui yo quien lo hizo.\x0E\x04\x02\x00
+MID_OP2C_#019	Puedes odiarme todo lo que quieras.\x0E\x04\x02\x00
+MID_OP2C_#019_2	Pero... ¡aquí termina todo!\x0E\x04\x02\x00
+MID_OP2C_#020	¡Ah!\x0E\x04\x00\x00
+MID_OP2C_#021	\x0E\x03\x02\x14\x12M025_ルミエル\nVeyle... ¿Pensabas que eso me haría daño?\x0E\x04\x02\x00
+MID_OP2C_#022	Habrás observado que, gracias a la generosidad\nde lord Sombron, ahora tengo más poder...\x0E\x04\x02\x00
+MID_OP2C_#023	Es una lástima. De verdad esperaba\nllevarme bien contigo...\x0E\x04\x02\x00
+MID_OP2C_#024	pero quien se interpone entre mi hij\x0E\x0A\x00\x08\x02o\x02a y yo\nno puede vivir.\x0E\x04\x02\x00
+MID_OP2C_#025	Qué majadería pensar que podrías matarme\npor segunda vez. Ahora podré vengarme.\x0E\x04\x02\x00
+MID_OP2C_#026	¡Muere, pequeña tarada!\x0E\x04\x00\x00
+MID_OP2C_#027	\x0E\x03\x02\x0A\x08ヴェイル\n \x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x18\x12M025_ルミエル\x021\n\x0E\x03\x02\x0A\x08リュール\n¡Veyle!\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\n¡¿Hermano?!\x0E\x04\x00\x00
+MID_OP2_#002_F	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\n¡¿Hermana?!\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x04\x03\x04
+MID_OP2_#004	\x0E\x03\x02\x0A\x08リュール\n¡Gracias al cielo que estás bien!\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08ヴェイル\nLa puerta tendría que estar sellada. ¿Cómo...?\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08リュール\nEsto... Nos hemos abierto paso.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x14\x12M025_ルミエル\n¡Ja, ja! Oh, \x0E\x0A\x00$\x10hijo mío\x10hija mía...\n¿Tanto echabas de menos a tu madre?\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nAsí es. No ha habido un solo día\nen que no pensara en ti.\x0E\x04\x02\x00
+MID_OP2_#009	Por eso me enfurece verte así.\n¿No ha causado Sombron bastante dolor ya?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x14\x12M025_ルミエル\n¿Por qué hablas mal de lord Sombron?\nGracias a él nos hemos vuelto a encontrar.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\n¿"Lord" Sombron? Veo que estás realmente\nperdida, ¿no?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x14\x12M025_ルミエル\nSí... Durante la guerra de hace mil años\nme sentí muy sola. No tenía a nadie.\x0E\x04\x02\x00
+MID_OP2_#013	Mi madre, mi padre, mis amigos... Muertos.\nTuve que seguir luchando, yo sola.\x0E\x04\x02\x00
+MID_OP2_#014	Si yo, el Dragón Divino, me rendía o huía,\nhabría sido el final de este mundo.\x0E\x04\x02\x00
+MID_OP2_#015	Y, en medio de tanto sufrimiento, te encontré.\x0E\x04\x02\x00
+MID_OP2_#016	Inocente y pur\x0E\x0A\x00\x08\x02o\x02a. Sin ninguna maldad.\nY nunca te habían tratado con amor.\x0E\x04\x02\x00
+MID_OP2_#017	Aunque eras mi enemig\x0E\x0A\x00\x08\x02o\x02a, no fui capaz\nde matarte. En vez de eso, me encariñé contigo.\x0E\x04\x02\x00
+MID_OP2_#018	Dejé de sentirme sola el día que nos conocimos.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nMadre...\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x14\x12M025_ルミエル\nTe lo suplico. No me dejes sola otra vez.\nQuédate aquí, conmigo, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x0A\x08リュール\nNo. No puedo hacerlo.\x0E\x04\x02\x00
+MID_OP2_#022	La última vez que hablamos,\nme animaste a seguir luchando.\x0E\x04\x02\x00
+MID_OP2_#023	Me pediste que trajera la paz al mundo,\na pesar de los recuerdos que recuperase...\x0E\x04\x02\x00
+MID_OP2_#024	¿No te acuerdas, madre?\x0E\x04\x00\x00
+MID_OP2_#025	\x0E\x03\x02\x14\x12M025_ルミエル\n¿A quién le importa lo que dijese entonces?\nAhora quiero que seamos una familia.\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x02\x0A\x08リュール\nAhora lo entiendo.\x0E\x04\x02\x00
+MID_OP2_#027	Tú no piensas como mi madre.\nNo deseas lo mismo que ella.\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x14\x12M025_ルミエル\nNo digas tonterías. Estoy aquí.\n¡Soy tu madre, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x0A\x08リュール\nNo. Mi madre, la que anhelaba volver a ver...\nLa que amaba... Ya no está.\x0E\x04\x02\x00
+MID_OP2_#030	Ella querría que te derrotase.\x0E\x04\x02\x00
+MID_OP2_#031	Ella me enseñó que debía ser fuerte\ny hacer frente a cualquier rival.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x14\x12M025_ルミエル\nTus palabras me entristecen.\nMe estás rompiendo el corazón...\x0E\x04\x02\x00
+MID_OP2_#033	¿Quién te ha vuelto contra mí? ¿Los Emblemas?\n¿Los siervos? ¿Esa hermana tuya?\x0E\x04\x02\x00
+MID_OP2_#034	Supongo que no tengo más remedio\nque matarlos.\x0E\x04\x00\x00
+MID_OP2_#035	\x0E\x03\x02\x0A\x08リュール\nPreparaos para la batalla.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x0A\x08ヴェイル\nLo siento. Yo quería luchar en tu lugar.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x0A\x08リュール\nMuchas gracias, Veyle.\nPero me corresponde a mí llevar esta carga.\x0E\x04\x02\x00
+MID_OP2_#038	Si no lo hago, no seré dign\x0E\x0A\x00\x08\x02o\x02a de considerarme\nDragón Divino, Emblema o hij\x0E\x0A\x00\x08\x02o\x02a de mi madre.\x0E\x04\x02\x00
+MID_OP2_#039	Hagamos esto junt\x0E\x0A\x00\x08\x02o\x02as. A continuación,\npodremos enfrentarnos por fin a Sombron.\x0E\x04\x00\x00
+MID_OP2_#040	\x0E\x03\x02\x0A\x08ヴェイル\nHermano...\x0E\x04\x02\x00
+MID_OP2_#040_F	\x0E\x03\x02\x0A\x08ヴェイル\nHermana...\x0E\x04\x02\x00
+MID_OP2_#041	\x0E\x04\x03\x04
+MID_OP2_#042	Estás llorando.\x0E\x04\x00\x00
+MID_OP2_#043	\x0E\x03\x02\x0A\x08リュール\n¡A las armas! ¡Debemos liberar el alma\nde mi madre y romper la última lasca!\x0E\x04\x00\x00
+MID_EV1_0_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x03\x02\x14\x12M025_ルミエル\nAunque ya no poseo los anillos Emblema...\x0E\x04\x02\x00
+MID_EV1_0_#002	\x0E\x05\x01"\x12M025_ルミエル\x0CStatus\naún puedo usar el poder de la lasca.\n¿Quieres que te lo demuestre?\x0E\x04\x00\x00
+MID_EV1_1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¡Madre! ¡¿Qué estás haciendo?!\x0E\x04\x02\x00
+MID_EV1_1_#002	\x0E\x05\x01\x16\x08リュール\nAngry\n¡Deprisa! ¡Colocaos tras los pilares!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01\x1C\x12M025_ルミエル\x06Sad\n\x0E\x03\x02\x14\x12M025_ルミエル\nSolo quiero estar con mi hij\x0E\x0A\x00\x08\x02o\x02a.\nEs lo único que deseo. ¡No os entrometáis!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¡Madre!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01 \x12M025_ルミエル\nSmile\n\x0E\x03\x02\x14\x12M025_ルミエル\nPor fin, \x0E\x06\x03\x00...\x0E\x04\x02\x00
+MID_BT2_#003	¿Y si entrenamos aquí? Tú serás quien luche;\nel Emblema... ¡Arg!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¿Qué? Eso es lo que me dijiste en...\x0E\x04\x00\x00
+MID_BT2_#005	\x0E\x05\x01\x1E\x12M025_ルミエル\x08Pain\n\x0E\x03\x02\x14\x12M025_ルミエル\nEl Emblema te prestará su... ¡Arg!\n¡No! Esos recuerdos...\x0E\x04\x02\x00
+MID_BT2_#006	Solo quería pasar tiempo contigo.\nCharlar sin parar, pasear y comer junt\x0E\x0A\x00\x08\x02o\x02as.\x0E\x04\x02\x00
+MID_BT2_#007	Y después... ¡Después!\x0E\x04\x00\x00
+MID_BT2_#008	\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¡Alto! Ya basta. ¡Está bien! A mí también\nme gustaría haber hecho muchas cosas.\x0E\x04\x02\x00
+MID_BT2_#009	No fue posible, pero no pasa nada.\nEso es mejor que verte sufrir así.\x0E\x04\x02\x00
+MID_BT2_#010	\x0E\x05\x01\x12\x08リュール\x06Sad\nTodavía estás a tiempo de rendirte, madre.\nPor favor. Hazlo por mí.\x0E\x04\x00\x00
+MID_BT2_#011	\x0E\x05\x01 \x12M025_ルミエル\nAngry\n\x0E\x03\x02\x14\x12M025_ルミエル\nNo. Lord Sombron me concedió más tiempo\ncon mi hij\x0E\x0A\x00\x08\x02o\x02a. Me niego a desperdiciarlo.\x0E\x04\x02\x00
+MID_BT2_#012	\x0E\x05\x01\x1C\x12M025_ルミエル\x06Sad\nNo permitiré que nadie me lo impida.\nNi siquiera tú. ¡Ha sido una espera muy larga!\x0E\x04\x02\x00
+MID_BT2_#013	\x0E\x05\x01 \x12M025_ルミエル\nAngry\n¡Una espera de mil años!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01 \x12M025_ルミエル\nRelax\n\x0E\x03\x02\x14\x12M025_ルミエル\nCuánto tiempo, Vander.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x14\nヴァンドレ\x06Sad\n\x0E\x03\x02\x0C\nヴァンドレ\nReina Lumera, no puedo creer que tenga\nla oportunidad de volver a hablar con vos.\x0E\x04\x02\x00
+MID_BT3_#003	\x0E\x05\x01\x16\nヴァンドレ\x08Pain\nLamento haberos fallado en mi último cometido\ncomo vuestro siervo.\x0E\x04\x02\x00
+MID_BT3_#004	\x0E\x05\x01\x1A\nヴァンドレ\x0CStrike\nY rezo para que podáis perdonarme\npor derrotaros aquí.\x0E\x04\x00\x00
+MID_BT3_#005	\x0E\x05\x01 \x12M025_ルミエル\nRelax\n\x0E\x03\x02\x14\x12M025_ルミエル\nVander, eres un caballero al servicio de mi hij\x0E\x0A\x00\x08\x02o\x02a.\nDebes cumplir tu labor lo mejor que puedas.\x0E\x04\x02\x00
+MID_BT3_#006	\x0E\x05\x01 \x12M025_ルミエル\nSmile\nAtácame con todo tu poder.\x0E\x04\x00\x00
+MID_BT3_#007	\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\n(...)\x0E\x04\x02\x00
+MID_BT3_#008	\x0E\x05\x01\x14\nヴァンドレ\x06Sad\nCuánto desearía poder volver a aquel día,\nantes de todo esto...\x0E\x04\x02\x00
+MID_BT3_#009	Si pudiésemos volver a aquel patio, yo...\x0E\x04\x02\x00
+MID_BT3_#010	\x0E\x05\x01\x18\nヴァンドレ\nAngry\nNo. Aunque pudiese permitirme ese egoísmo,\nmi deber prevalece. Os detendré aquí y ahora.\x0E\x04\x02\x00
+MID_BT3_#011	¡Preparaos, reina Lumera!\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x10\x06クラン\x06Sad\n\x0E\x03\x02\x08\x06クラン\nReina Lumera... Yo... Yo...\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01"\x12M025_ルミエル\x0CStatus\n\x0E\x03\x02\x14\x12M025_ルミエル\nConcéntrate, Clanne, si no quieres\nerrar tu ataque.\x0E\x04\x00\x00
+MID_BT4_#003	\x0E\x05\x01\x1A\x06クラン\x10Surprise\n\x0E\x03\x02\x08\x06クラン\nEso ya me lo dijisteis una vez.\x0E\x04\x00\x00
+MID_BT4_#004	\x0E\x05\x01 \x12M025_ルミエル\nSmile\n\x0E\x03\x02\x14\x12M025_ルミエル\n¡Veamos si basta para salvarte la vida!\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x18\x06フラン\x0EStandBy\n\x0E\x03\x02\x08\x06フラン\nLo siento, reina Lumera. No tengo otra elección.\x0E\x04\x00\x00
+MID_BT5_#002	\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01"\x12M025_ルミエル\x0CStatus\n\x0E\x03\x02\x14\x12M025_ルミエル\nAsí me gusta, Framme.\x0E\x04\x00\x00
+MID_BT5_#003	\x0E\x05\x01\x10\x06フラン\x06Sad\n\x0E\x03\x02\x08\x06フラン\n¿Qué? Es casi lo mismo que aquella vez...\x0E\x04\x00\x00
+MID_BT5_#004	\x0E\x05\x01 \x12M025_ルミエル\nRelax\n\x0E\x03\x02\x14\x12M025_ルミエル\n¿Qué "vez"? ¿Tendría que haberte\nmatado entonces?\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01 \x12M025_ルミエル\nAngry\n\x0E\x03\x02\x14\x12M025_ルミエル\nOtra vez intentas matarme. ¿Por qué insistes?\nQue sepas que el resultado no cambiará.\x0E\x04\x00\x00
+MID_BT6_#002	\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x16\x08ヴェイル\nAngry\n\x0E\x03\x02\x0A\x08ヴェイル\nDebo seguir intentándolo.\nPor más veces que falle, no pienso rendirme.\x0E\x04\x02\x00
+MID_BT6_#003	¡Mi hermano me enseñó\nque puedo crear un futuro mejor!\x0E\x04\x00\x00
+MID_BT6_#003_F	¡Mi hermana me enseñó\nque puedo crear un futuro mejor!\x0E\x04\x00\x00
+MID_BT6_#004	\x0E\x05\x01\x1C\x12M025_ルミエル\x06Sad\n\x0E\x03\x02\x14\x12M025_ルミエル\n¿Mi hij\x0E\x0A\x00\x08\x02o\x02a te enseñó eso? Oh, cómo te envidio.\nQué recuerdo... El tiempo que pasamos junt\x0E\x0A\x00\x08\x02o\x02as...\x0E\x04\x02\x00
+MID_BT6_#005	\x0E\x05\x01 \x12M025_ルミエル\nAngry\nParece que todo el mundo tiene futuro.\nAdemás de esperanzas y sueños.\x0E\x04\x02\x00
+MID_BT6_#006	\x0E\x05\x01"\x12M025_ルミエル\x0CStrike\n¡¿Por qué puedes tú disfrutar de los tesoros\nque a mí me son negados?! ¡No es justo!\x0E\x04\x02\x00
+MID_BT6_#007	\x0E\x05\x01 \x12M025_ルミエル\nAngry\n¡Fuera de mi vista! ¡De una vez por todas!\x0E\x04\x02\x00
+MID_BT6_#008	¡Desaparece!\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M025_ルミエル\x02b\n\x0E\x05\x01\x1E\x12M025_ルミエル\x08Pain\n\x0E\x03\x02\x14\x12M025_ルミエル\nEl tiempo pasa... demasiado rápido.\nNo puedo seguirlo...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLo siento, madre.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x03\x02\x0A\x08ルミエル\n¿\x0E\x06\x03\x00? Esa voz...\n¿Eres tú, hij\x0E\x0A\x00\x08\x02o\x02a mí\x0E\x0A\x00\x08\x02o\x02a?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08ルミエル\nEntonces... ¿al final recibiste... mi anillo?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\n¡Madre! ¡Vuelves a ser tú!\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08ルミエル\n¿Has recordado la promesa que te hice?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\n¡Sí! Todo lo que me dijiste\nantes de que cayese en el letargo.\x0E\x04\x02\x00
+MID_ED1_#008	¿Ves? Ahora soy un Emblema.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08ルミエル\n¿Mi hij\x0E\x0A\x00\x08\x02o\x02a? ¿Un Emblema? Casi no me lo creo.\nOh, seguro que te has esforzado mucho.\x0E\x04\x02\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nHa sido duro, pero me alegra que puedas verlo.\nDeseaba tanto que te sintieras orgullosa de mí.\x0E\x04\x02\x00
+MID_ED1_#013	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x0A\x08ルミエル\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nParece que la reina Lumera está...\ndesapareciendo.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08ヴェイル\nEl hechizo que la convirtió en aberración\nse está disipando. Por eso su cuerpo desvanece.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLo siento mucho, madre. Parece que debemos\nsepararnos una vez más...\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08ルミエル\nTe equivocas... Desde el momento que creamos\nun vínculo, he permanecido a tu lado.\x0E\x04\x02\x00
+MID_ED1_#017	Tras perder a mi familia, sufrí durante años\nun enorme dolor, pero entonces te encontré.\x0E\x04\x02\x00
+MID_ED1_#018	Aunque te eché de menos mientras dormías,\nsabía que un día despertarías y nos reuniríamos.\x0E\x04\x02\x00
+MID_ED1_#019	Con esa certeza, ¿cómo podía sentirme sola?\nTú y yo... nunca volveremos... a separarnos.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nYo siento lo mismo. Desde que te conocí,\nnunca volví a sentirme realmente sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x02\x00
+MID_ED1_#021	Me has enseñado la calidez de un vínculo real,\nuno que es más fuerte que la muerte.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08ルミエル\n\x0E\x06\x03\x00... Tu luz siempre me dio ánimos.\nEstoy muy agradecida de que fueras mi hij\x0E\x0A\x00\x08\x02o\x02a...\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08リュール\nGracias, madre. Haber sido tu hij\x0E\x0A\x00\x08\x02o\x02a\nes mi mayor felicidad.\x0E\x04\x02\x00
+MID_ED1_#024	Si volvemos a vernos, deseo que pasemos\nmucho más tiempo junt\x0E\x0A\x00\x08\x02o\x02as. ¿Me lo prometes?\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08ルミエル\nAsí será, hij\x0E\x0A\x00\x08\x02o\x02a. Recordaré... esta promesa.\nY te recordaré a ti.\x0E\x04\x02\x00
+MID_ED1_#026	Ah... El cielo está tan hermoso...\x0E\x04\x02\x00
+MID_ED1_#027	Justo como... aquel día que despertaste.\x0E\x04\x02\x00
+MID_ED1_#028	A partir de ahora... debes protegerlo todo...\nTodo... lo que esté bajo este hermoso cielo.\x0E\x04\x00\x00
+MID_ED1_#029	\x0E\x03\x01\x0A\x08ルミエル\n\x0E\x03\x02\x0A\x08リュール\nLo prometo.\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nHermano, yo...\x0E\x04\x00\x00
+MID_ED1_#030_F	\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nHermana, yo...\x0E\x04\x00\x00
+MID_ED1_#031	\x0E\x03\x02\x0A\x08リュール\nEstoy bien, no hay motivo para estar triste.\x0E\x04\x02\x00
+MID_ED1_#032	Madre está... donde le corresponde.\nSé que volveremos a encontrarnos.\x0E\x04\x02\x00
+MID_ED1_#033	Es hora de marchar.\nDebemos comprobar la barrera.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nLa barrera se está desvaneciendo.\nAl fin la hemos destruido.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08ヴェイル\nPero... mirad lo que ha pasado en el cielo...\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nSombron ha abierto el portal.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x0A\x08ヴェイル\nPapá... Está ahí.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06マルス\nSi esto sigue así, el poder de otros mundos\nse verterá sobre el nuestro y lo destruirá.\x0E\x04\x02\x00
+MID_ED2_#006	Será el fin de Elyos.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x0A\x08リュール\nNo. No lo permitiré. Mi madre me encomendó\nla protección de este mundo.\x0E\x04\x02\x00
+MID_ED2_#008	Defenderé a todos quienes habitan\nbajo este cielo...\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06マルス\n(...)\x0E\x04\x02\x00
+MID_ED2_#010	No me cabe duda de que un mundo\ngobernado por ti sería un lugar de ensueño.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x0A\x08リュール\n¿A qué ha venido eso?\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x08\x06マルス\nSentí que había que decirlo.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x0A\x08リュール\nMarth, necesitaré que me ayudes a construir ese\nmundo. Ayúdame a protegerlo. Para siempre.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x08\x06マルス\nPara siempre.\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08リュール\nEntonces, es una promesa.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEso sí es una idea inspiradora. Un mundo\ngobernado por el Dragón Divino \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x0A\x08リュール\nVeamos... ¿En qué estado se encuentran\nnuestras tropas?\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0A\x08アイビー\nEstamos tratando a los heridos graves.\nEl resto debe descansar antes de avanzar.\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x02\x0E\x0Cディアマンド\nEstáis impasible y optimista ante la batalla final.\nTengo tanto que aprender de vos.\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x10\nミスティラ\x023\n\x0E\x03\x02\x0C\nミスティラ\nCuando esto termine y haya reconstruido\nel país, iré de viaje a conocer los vuestros.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x0A\x08リュール\nNo olvides traer a los Emblemas.\x0E\x04\x02\x00
+MID_ED2_#022	Después de tanto tiempo confinados\nen los anillos, seguro que querrán ver mundo.\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nCierto. Como ya se ha usado el poder\nde los doce anillos, nadie intentará robarlos.\x0E\x04\x02\x00
+MID_ED2_#024	Los Emblemas ya no corren peligro y pueden\nser invocados para ir adonde lo deseen.\x0E\x04\x00\x00
+MID_ED2_#025	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nLos llevaremos a nuestros países. La ciudadanía\npodrá celebrarlos como héroes de guerra.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x10\nミスティラ\x021\n\x0E\x03\x02\x0C\nミスティラ\nNo me opondré a tener un...\nno, dos nuevos compañeros de acampada.\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0A\x08アイビー\nImagino que su experiencia hará de ellos\nbuenos asesores en la reconstrucción de Elusia.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nEs fantástico, ¿verdad? Tener esperanzas.\nNos dan una motivación para luchar.\x0E\x04\x02\x00
+MID_ED2_#029	Por primera vez en mi vida, me emociona\npensar en lo que nos depara el destino.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0A\x08リュール\nAntes de llegar a ese futuro, debemos\nenfrentarnos a Sombron. ¿Estás lista?\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x0A\x08ヴェイル\nLo estoy. No temo enfrentarme a él.\x0E\x04\x02\x00
+MID_ED2_#032	Antes me sentía demasiado sola para admitirlo,\npero hace mucho que dejó de ser mi padre.\x0E\x04\x02\x00
+MID_ED2_#033	Así que no hay ningún vínculo que romper.\x0E\x04\x00\x00
+MID_ED2_#034	\x0E\x03\x02\x0A\x08リュール\nVeyle...\x0E\x04\x00\x00
+MID_ED2_#035	\x0E\x03\x00\x10\nヴァンドレ\x024\n\x0E\x03\x02\x0C\nヴァンドレ\nDivinidad, ya ha sido tratado\nhasta el último soldado herido.\x0E\x04\x00\x00
+MID_ED2_#036	\x0E\x03\x02\x0A\x08リュール\nGracias, Vander.\x0E\x04\x02\x00
+MID_ED2_#037	Partamos pues.\nPor fin estamos ante la batalla final.\x0E\x04\x00\x00
+MID_ED2_#038	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\n(...)\x0E\x04\x02\x00
+MID_ED2_#039	Esta aventura os ha vuelto mucho más fuertes\na ti y a tus aliados.\x0E\x04\x02\x00
+MID_ED2_#040	Ojalá pudiera permanecer aquí para ayudaros\na construir un mundo en paz.\x0E\x04\x02\x00
+MID_ED2_#041	Aunque es posible que pronto tengamos\nque separarnos.\x0E\x04\x00\x00

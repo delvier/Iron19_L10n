@@ -1,0 +1,211 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nNo veo ningún soldado elusiano.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\nSe habrán dirigido al castillo.\nVayamos directamente al puerto de Florra.\x0E\x04\x02\x00
+MID_OP1_#003	Es el puerto más cercano al castillo. Pasamos\npor allí la primera vez que estuvo en Firene,\n¿se acuerda?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nCierto... Recuerdo que me quedé prendad\x0E\x0A\x00\x08\x02o\x02a\nde la belleza de sus colinas...\x0E\x04\x02\x00
+MID_OP1_#005	Oh, no.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Qué ocurre?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nHay humo al noreste.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0E\x0Cアルフレッド\nEl puerto de Florra está en esa dirección.\nNo habrán... ¡No, no, no!\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nVamos.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nFlorra...\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Por qué lo han hecho? Aquí viven familias\nde granjeros, no son soldados.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nNo desesperes, Alfred. Debemos ser fuertes\npor el bien de tu reino.\x0E\x04\x02\x00
+MID_OP2_#004	Vienen más navíos de guerra elusianos.\nSi dejamos que desembarquen, Firene caerá.\x0E\x04\x02\x00
+MID_OP2_#005	Debemos impedir que atraquen más barcos\ny rescatar a tanta gente como podamos.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\nVaya, ¡qué desastre!\nEste humo huele fatal. ¡Qué asco!\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nZephia.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\n(...)\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nVeyle, ¿tú también?\nSupongo que esto es obra suya.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08ヴェイル\n¡No, te equivocas! Acabamos de llegar.\x0E\x04\x02\x00
+MID_OP2_#011	He venido porque oí que te dirigías\na Firene y quería hablar contigo.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0A\x08リュール\n¿Por qué crees que estamos aquí?\nVimos a la flota elusiana de camino a Firene.\x0E\x04\x02\x00
+MID_OP2_#013	Tu flota, la misma que ha incendiado Florra.\x0E\x04\x02\x00
+MID_OP2_#014	Eres la hija de Sombron. ¿Cómo no vas\na saber qué está haciendo su ejército?\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0A\x08ヴェイル\nYo... No lo sé...\x0E\x04\x02\x00
+MID_OP2_#016	Griss, ¿ordenaste tú este ataque?\n¿Por eso sabías adónde debíamos dirigirnos?\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x02\x06\x04グリ\n\x0E\x03\x02\x06\x04グリ\n(...)\x0E\x04\x02\x00
+MID_OP2_#018	\x0E\x03\x02\x0A\x08ヴェイル\n¡Griss! ¡Responde!\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x06\x04グリ\nSí, sabía lo del ataque,\npero no fui yo quien dio la orden.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0A\x08ヴェイル\n¿Quién fue? ¿Qué monstruo ordenó a nuestras\ntropas que atacaran a gente inocente?\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\n\x0E\x03\x02\x08\x06セピア\nFue usted.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x0A\x08ヴェイル\n¿Q-qué?\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x08\x06セピア\nLas casas en llamas, la gente muriendo\nquemada y pidiendo ayuda en vano...\x0E\x04\x02\x00
+MID_OP2_#024	Era su plan. Usted dio la orden.\x0E\x04\x00\x00
+MID_OP2_#025	\x0E\x03\x02\x0A\x08ヴェイル\n¿Fui yo?\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x02\x08\x06マロン\n¡Uf, por fin hemos llegado!\n¿Qué me he perdido?\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x00\x0C\x06モーヴ\x023\n\x0E\x03\x02\x08\x06モーヴ\nPerdón por la tardanza.\nHemos sufrido un contratiempo.\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x0A\x08ヴェイル\nMarni, Mauvier...\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x02\x08\x06マロン\n¡Hola, lady Veyle! Espero que haya recuperado\nfuerzas tras este largo viaje. Siento llegar tarde.\x0E\x04\x02\x00
+MID_OP2_#030	Ya estoy lista para aniquilar a todos\nlos habitantes de la ciudad como pidió.\x0E\x04\x00\x00
+MID_OP2_#031	\x0E\x03\x02\x0A\x08ヴェイル\n¿Qué? ¿Por qué quieres hacer algo\ntan horrible? ¡Esta gente es inocente!\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x08\x06マロン\n¿Inocente? ¿Desde cuándo\nle importan esas bobadas?\x0E\x04\x02\x00
+MID_OP2_#033	Ah, ya entiendo. Es la otra, ¿no?\nLa aburrida.\x0E\x04\x00\x00
+MID_OP2_#034	\x0E\x03\x02\x0A\x08ヴェイル\n¿La otra? Aburrida... ¿A qué te refieres?\n¡Que alguien me lo explique!\x0E\x04\x00\x00
+MID_OP2_#035	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\n¡Ja, ja, ja!\x0E\x04\x02\x00
+MID_OP2_#036	Basta de juegos. Ha sido un verdadero\nincordio lidiar con usted.\x0E\x04\x02\x00
+MID_OP2_#037	Le contaré la verdad.\nTambién te interesa oírla, Dragón Divino.\x0E\x04\x00\x00
+MID_OP2_#038	\x0E\x03\x02\x0A\x08リュール\n¿La verdad?\x0E\x04\x00\x00
+MID_OP2_#039	\x0E\x03\x02\x08\x06セピア\n¿Quiere saber por qué no recuerda\nhaber ordenado el ataque?\x0E\x04\x02\x00
+MID_OP2_#040	Porque lo ordenó la otra Veyle... igual que\ntodo lo demás que hemos hecho hasta ahora.\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x02\x0A\x08リュール\n¿La otra Veyle?\x0E\x04\x00\x00
+MID_OP2_#042	\x0E\x03\x02\x08\x06セピア\nLord Sombron deseaba un vástago digno\nque continuase su legado.\x0E\x04\x02\x00
+MID_OP2_#043	Pero usted lo desobedeció. No usó sus poderes\nde Dragón Caído... ¡Deseaba la paz!\x0E\x04\x02\x00
+MID_OP2_#044	Esa renuencia lo dejaba claro: no era más que\nun defecto... una hija indigna.\x0E\x04\x02\x00
+MID_OP2_#045	Por eso, lord Sombron me otorgó el poder\npara realizar unos pequeños... ajustes.\x0E\x04\x00\x00
+MID_OP2_#046	\x0E\x03\x02\x0A\x08ヴェイル\n¿Qué clase de ajustes?\x0E\x04\x00\x00
+MID_OP2_#047	\x0E\x03\x02\x0A\x08リュール\n¿Qué le hiciste?\x0E\x04\x00\x00
+MID_OP2_#048	\x0E\x03\x02\x08\x06セピア\nFue muy simple. Solo reforcé un poquito\nel instinto dragontino que ya poseía.\x0E\x04\x02\x00
+MID_OP2_#049	Entonces dejó de importarle la vida humana.\nAceptó la voluntad de lord Sombron.\x0E\x04\x02\x00
+MID_OP2_#050	Matar a Lumera, robar los anillos, soltar a las\naberraciones por Elyos... Todo fue obra suya.\x0E\x04\x00\x00
+MID_OP2_#051	\x0E\x03\x02\x0A\x08ヴェイル\nPor... Por eso me despertaba\nen lugares que no reconocía.\x0E\x04\x00\x00
+MID_OP2_#052	\x0E\x03\x02\x08\x06セピア\nSí. Cuando una consciencia dormía,\nla otra despertaba y hacía lo contrario.\x0E\x04\x02\x00
+MID_OP2_#053	¡Incluso se dedicaba a luchar contra\nlas aberraciones que había creado usted misma!\x0E\x04\x02\x00
+MID_OP2_#054	Y ahí no para todo: la hija del Dragón Caído\nse hizo amiga... ¡del Dragón Divino nada menos!\x0E\x04\x02\x00
+MID_OP2_#055	¡Ja! ¿No es absurdo? Además de patético.\x0E\x04\x00\x00
+MID_OP2_#056	\x0E\x03\x02\x0A\x08ヴェイル\nNo... ¡No!\x0E\x04\x02\x00
+MID_OP2_#057	Lo siento. Tú estabas en lo cierto...\n¡He hecho cosas horribles!\x0E\x04\x02\x00
+MID_OP2_#058	\x0E\x03\x02\x0A\x08リュール\nLa persona que mató a mi madre\ny robó los anillos...\x0E\x04\x02\x00
+MID_OP2_#059	Era Veyle, pero... ¿no era ella?\x0E\x04\x00\x00
+MID_OP2_#060	\x0E\x03\x02\x08\x06セピア\n¡Ya lo sabe, lady Veyle! Me alegra haberla\nayudado a aclarar el malentendido.\x0E\x04\x00\x00
+MID_OP2_#061	\x0E\x03\x02\x0A\x08ヴェイル\nZephia, Griss, Marni, Mauvier...\n¡No eran mis amigos!\x0E\x04\x02\x00
+MID_OP2_#062	Estoy sola. Siempre lo he estado...\x0E\x04\x00\x00
+MID_OP2_#063	\x0E\x03\x02\x0A\x08リュール\n¡Veyle, tranquilízate!\nDéjame ayudarte, por favor.\x0E\x04\x00\x00
+MID_OP2_#064	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0A\x04グリ\x021\n\x0E\x03\x02\x06\x04グリ\nDe eso nada.\x0E\x04\x00\x00
+MID_OP2_#065	\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x00\x06\x04TS\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x08\x06セピア\nYa no voy a necesitarte más.\x0E\x04\x00\x00
+MID_OP3_#001_2	\x0E\x02\x00\x06\x04TS\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x08\x06セピア\nDuerme, es hora de dormir.\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0A\x08ヴェイル\nN-no...\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x02\x08\x06セピア\nHora de despertar, lady Veyle. La necesitamos.\nNo quisiera perderse este baño de sangre.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x0A\x08ヴェイル\nMientes... Yo no soy... así...\x0E\x04\x02\x00
+MID_OP3_#005	 
+MID_OP3_#006	Gracias por despertarme, querida Zephia.\nTenía ganas de salir a divertirme.\x0E\x04\x02\x00
+MID_OP3_#007	Tráeme el Anillo del Rey Heroico.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x08\x06セピア\nSí, señora.
+MID_OP3_#009	\x0E\x03\x00\x0C\x06マルス\x024\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n¡Marth!
+MID_OP3_#010	\x0E\x03\x02\x0A\x08ヴェイル\nMastines míos, prepárense.\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x08\x06セピア\nComo desee, mi señora.\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x0A\x08ヴェイル\n¡Ah, qué emocionante!\x0E\x04\x02\x00
+MID_OP3_#013	Espero que se resistan un poquito.\nMe aburre cuando se mueren enseguida.\x0E\x04\x02\x00
+MID_OP3_#014	Es cierto. ¿No crees, \x0E\x06\x03\x00?\x0E\x04\x02\x00
+MID_OP3_#015	Como no comparto los recuerdos de esa niñita,\nno sabía que tú y yo éramos amig\x0E\x0A\x00\x08\x02o\x02as.\x0E\x04\x02\x00
+MID_OP3_#016	Espero que puedas perdonarme.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x0A\x08リュール\nTus disculpas no valen de nada.\nNo eres Veyle. Tráela de vuelta.\x0E\x04\x00\x00
+MID_OP3_#018	\x0E\x03\x02\x0A\x08ヴェイル\nTe aseguro que sí lo soy.\nEs más: yo soy la verdadera.\x0E\x04\x02\x00
+MID_OP3_#019	Solo una de nosotras es digna de llamar padre\nal Dragón Caído, y ese honor es todo mío.\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x0A\x08リュール\nAmigos, ha llegado la hora de pelear.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¡Cierto, casi se me olvida!\nLes tengo preparada una gran sorpresa.\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x01\x14\x12M017_ヴェイル\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01,\x1EM017_異形兵_ハイアシンス\nSmile\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nIvy... Y el Dragón Divino...\nCuánto tiempo, ¿no?\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¿Rey Hyacinth?\x0E\x04\x00\x00
+MID_EV1_#004	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x1C\x08アイビー\x10Surprise\n\x0E\x03\x02\x0A\x08アイビー\n¡Padre! ¿Está vivo?\x0E\x04\x00\x00
+MID_EV1_#005	\x0E\x03\x01 \x1EM017_異形兵_ハイアシンス\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\nNo lo está. Es la aberración de Hyacinth.\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¿Quieres decir...?\x0E\x04\x00\x00
+MID_EV1_#007	\x0E\x03\x02\x14\x12M017_ヴェイル\nParece el de verdad, ¿cierto? No como el rey\nMorion que hizo padre. A mí se me da mejor.\x0E\x04\x02\x00
+MID_EV1_#008	Cuando yo creo aberraciones,\nsu consciencia sigue intacta.\x0E\x04\x02\x00
+MID_EV1_#009	Aunque eso a veces supone un problema,\nasí que he hecho algunas modificaciones.\x0E\x04\x00\x00
+MID_EV1_#010	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nEs horrible.\x0E\x04\x00\x00
+MID_EV1_#011	\x0E\x05\x01 \x12M017_ヴェイル\nAngry\n\x0E\x03\x02\x14\x12M017_ヴェイル\nEs lo que se merece la princesa Ivy.\x0E\x04\x00\x00
+MID_EV1_#012	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\n¿Por qué?\x0E\x04\x00\x00
+MID_EV1_#013	\x0E\x05\x01\x1C\x12M017_ヴェイル\x06Sad\n\x0E\x03\x02\x14\x12M017_ヴェイル\nPor robarnos los anillos en la catedral\nde Destinea.\x0E\x04\x02\x00
+MID_EV1_#014	\x0E\x05\x01 \x12M017_ヴェイル\nSmile\nEn cuanto supe lo que hiciste,\nempecé a planear mi venganza.\x0E\x04\x00\x00
+MID_EV1_#015	\x0E\x05\x01\x1C\x08アイビー\x10Surprise\n\x0E\x03\x02\x0A\x08アイビー\n(...)\x0E\x04\x00\x00
+MID_EV1_#016	\x0E\x0B\x00n
+MID_EV1_#017	Así que, en su lugar, te entregaré\nel Anillo del Lord Sabio.\x0E\x04\x00\x00
+MID_EV1_#018	\x0E\x0B\x01>
+MID_EV1_#019	\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\n¿De verdad va a obligarme\na luchar contra mi propio padre?\x0E\x04\x00\x00
+MID_EV1_#020	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¡No! ¡No puedes tratar así a la gente!\x0E\x04\x02\x00
+MID_EV1_#021	¿No te das cuenta de lo cruel que es esto?\x0E\x04\x00\x00
+MID_EV1_#022	\x0E\x03\x01 \x1EM017_異形兵_ハイアシンス\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¿Cruel? Pero si esto es divertidísimo.\x0E\x04\x02\x00
+MID_EV1_#023	\x0E\x05\x01 \x12M017_ヴェイル\nAngry\nHablando de diversión... Resulta que\ntodos los anillos Emblema están aquí juntitos.\x0E\x04\x02\x00
+MID_EV1_#024	\x0E\x05\x01"\x12M017_ヴェイル\x0CStrike\nSeis en mi poder y seis en el suyo.\nEs imposible saber quién ganará.\x0E\x04\x00\x00
+MID_EV1_#025	\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nVeyle...\x0E\x04\x00\x00
+MID_EV1_#026	\x0E\x05\x01 \x12M017_ヴェイル\nAngry\n\x0E\x03\x02\x14\x12M017_ヴェイル\nBueno, \x0E\x06\x03\x00, que empiece la matanza.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01"\x12M017_ヴェイル\x0CStrike\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¡Vamos, Rey Heroico!\nHagámoslos sufrir.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¿Les impresiona el poder de padre? Nuestra\nestirpe es superior a la de los Dragones Divinos.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_セピア\x02b\n\x0E\x05\x01 \x10M017_セピア\x0CStrike\n\x0E\x03\x02\x12\x10M017_セピア\nNo te contengas, Sigurd.\n¡Desata todo tu poder!\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_セピア\x02b\n\x0E\x05\x01"\x10M017_セピア\x0EStandBy\n\x0E\x03\x02\x12\x10M017_セピア\n¡Ja, ja, ja! ¡Arrodíllense ante el poder\nde lord Sombron!\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01,\x1EM017_異形兵_ハイアシンス\nSmile\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nDéjate llevar por tus impulsos, Emblema Leif.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01,\x1EM017_異形兵_ハイアシンス\nSmile\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nEl poder de lord Sombron no conoce límites.\nHice bien en seguirlo.\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nEl Emblema ha enloquecido.\nEs lo mismo que ocurrió en el palacio de Solm.\x0E\x04\x02\x00
+MID_EV8_#002	\x0E\x05\x01\x16\x08リュール\nAngry\nVencerlo en ese estado no va a ser fácil.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\nMe alegra que hayas venido.\x0E\x04\x02\x00
+MID_BT1_#002	Tremendo escenario, ¿eh? Florra está mucho\nmejor envuelta en llamas.\x0E\x04\x02\x00
+MID_BT1_#003	Sabía que esto te haría salir.\x0E\x04\x02\x00
+MID_BT1_#004	Y las aberraciones ya no te asustan tanto...\nSi están bien hechas, dan menos miedo, ¿no?\x0E\x04\x00\x00
+MID_BT1_#005	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¿Te refieres al rey Hyacinth?\x0E\x04\x00\x00
+MID_BT1_#006	\x0E\x03\x02\x14\x12M017_ヴェイル\nSí. Pensé que volver a verlo te haría feliz.\nPara eso están l\x0E\x0A\x00\x08\x02o\x02as amig\x0E\x0A\x00\x08\x02o\x02as.\x0E\x04\x02\x00
+MID_BT1_#007	Aunque hemos tenido una pequeña riña, ¿no?\nLa otra Veyle debe de estar devastada.\x0E\x04\x00\x00
+MID_BT1_#008	\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01 \x12M017_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¡Por fin ha llegado mi juguetito nuevo!\nQué bien la voy a pasar.\x0E\x04\x02\x00
+MID_BT2_#002	\x0E\x05\x01"\x12M017_ヴェイル\x0CStrike\n¿Podrás luchar contra tu viejo amigo Marth?\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M017_ヴェイル\x02b\n\x0E\x05\x01\x1E\x12M017_ヴェイル\x08Pain\n\x0E\x03\x02\x14\x12M017_ヴェイル\n¿Cómo es posible? Juro que no saldrás\ncon vida de nuestro próximo encuentro.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_セピア\x02b\n\x0E\x05\x01 \x10M017_セピア\x0CStrike\n\x0E\x03\x02\x12\x10M017_セピア\n¿Crees que puedes vencernos?\nAdelante, inténtalo.\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_セピア\x02b\n\x0E\x05\x01\x1C\x10M017_セピア\x08Pain\n\x0E\x03\x02\x12\x10M017_セピア\nAgh... No he podido ganar\nni con todo este poder.\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM017_グリ\x02b\n\x0E\x05\x01\x1E\x0EM017_グリ\x0CStatus\n\x0E\x03\x02\x10\x0EM017_グリ\nVamos, yo te pego y tú me pegas a mí.\n¡Que empiece el dolor!\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM017_グリ\x02b\n\x0E\x05\x01\x1C\x0EM017_グリ\nSmile\n\x0E\x03\x02\x10\x0EM017_グリ\nMmm, dulce dolor...\nEspero que lo repitamos otro día.\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_マロン\x02b\n\x0E\x05\x01\x1E\x10M017_マロン\nSmile\n\x0E\x03\x02\x12\x10M017_マロン\nCon este anillo, ¡soy invencible!\n¡Te eliminaré!\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_マロン\x02b\n\x0E\x05\x01\x1C\x10M017_マロン\x08Pain\n\x0E\x03\x02\x12\x10M017_マロン\n¡No es justo, no es justo, no es justooo!\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_モーヴ\x02b\n\x0E\x05\x01\x1E\x10M017_モーヴ\nAngry\n\x0E\x03\x02\x12\x10M017_モーヴ\nNada me impedirá proteger a lady Veyle.\x0E\x04\x00\x00
+MID_BT11_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M017_モーヴ\x02b\n\x0E\x05\x01\x1C\x10M017_モーヴ\x08Pain\n\x0E\x03\x02\x12\x10M017_モーヴ\n¿Acaso podría haber hecho algo más?\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01,\x1EM017_異形兵_ハイアシンス\nSmile\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nIvy.\x0E\x04\x00\x00
+MID_BT12_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nPadre, no lo había visto desde la batalla\nen la frontera de Brodia.\x0E\x04\x02\x00
+MID_BT12_#003	Ahí nos despedimos,\nal menos en esta vida.\x0E\x04\x00\x00
+MID_BT12_#004	\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nNo tiene que ser así. Pediré a lord Sombron\nque vuelva a aceptarte entre sus filas.\x0E\x04\x00\x00
+MID_BT12_#005	\x0E\x05\x01\x16\x08アイビー\nAngry\n\x0E\x03\x02\x0A\x08アイビー\nNo. No es usted... Me niego a aferrarme\na la sombra de mi padre.\x0E\x04\x02\x00
+MID_BT12_#006	\x0E\x05\x01\x12\x08アイビー\x06Die\nPero agradezco esta oportunidad.\x0E\x04\x02\x00
+MID_BT12_#007	\x0E\x05\x01\x12\x08アイビー\x06Sad\nPorque ahora puedo darle las gracias\npor todo, despedirme de usted y decirle...\x0E\x04\x02\x00
+MID_BT12_#008	\x0E\x05\x01\x1A\x08アイビー\x0EStandBy\nque seré mejor que usted.\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01,\x1EM017_異形兵_ハイアシンス\nSmile\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nHortensia.\x0E\x04\x00\x00
+MID_BT13_#002	\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Padre, lo he extrañado tanto!\nTenía muchas ganas de volver a verlo.\x0E\x04\x02\x00
+MID_BT13_#003	He estado muy triste desde que murió...\x0E\x04\x00\x00
+MID_BT13_#004	\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nEntonces, sígueme, hija mía.\nMata a tus amigos y tráeme sus anillos.\x0E\x04\x00\x00
+MID_BT13_#005	\x0E\x03\x02\x0E\x0Cオルテンシア\nNo puedo. Quiero ser como mi padre,\nel rey sabio de Elusia...\x0E\x04\x02\x00
+MID_BT13_#006	\x0E\x05\x01\x1C\x0Cオルテンシア\x0CStrike\nEl de antes de que el Dragón Caído\nle lavara el cerebro.\x0E\x04\x00\x00
+MID_BT13_#007	\x0E\x05\x01.\x1EM017_異形兵_ハイアシンス\x0CStrike\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\n(...)\x0E\x04\x00\x00
+MID_BT13_#008	\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nAdiós, padre. Siento que no tuviéramos\nmás tiempo. Lo quiero muchísimo.\x0E\x04\x02\x00
+MID_BT13_#009	Todo terminará pronto, ¿de acuerdo?\nY podrá descansar en paz...\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01*\x1EM017_異形兵_ハイアシンス\x08Pain\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nNo recuerdo nada...\n¿Esa expresión es de miedo o de odio?\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00$\x1EM017_異形兵_ハイアシンス\x02b\n\x0E\x05\x01*\x1EM017_異形兵_ハイアシンス\x08Pain\n\x0E\x03\x02 \x1EM017_異形兵_ハイアシンス\nMi destino quedó sellado cuando\ndecidí servir al Dragón Caído.\x0E\x04\x02\x00
+MID_BT15_#002	\x0E\x05\x01(\x1EM017_異形兵_ハイアシンス\x06Sad\nIvy, Hortensia... Perdónenme. Solo quiero\nque sepan que siempre las amaré.\x0E\x04\x02\x00
+MID_BT15_#003	\x0E\x05\x01*\x1EM017_異形兵_ハイアシンス\x08Pain\nEn sus manos queda el destino de Elusia...\nSalven el reino...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x00\x0A\x04グリ\x024\n\x0E\x03\x02\x06\x04グリ\n¡Maldición! Se han llevado el anillo\nque le dimos a Hyacinth.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06マロン\nHay que proteger al resto.\n¡Súbanlos al barco, deprisa!\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06モーヴ\nYo me llevaré el del Rey Heroico.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06セピア\nVenga, mi señora. Debemos darnos prisa.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x00\x0E\x08ヴェイル\x022\n\x0E\x03\x02\x0A\x08ヴェイル\n(...)\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06セピア\n¿Algo va mal?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08ヴェイル\nZephia. Dame tu anillo.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06セピア\n¿Qué piensa hacer?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08ヴェイル\n¡Hazlo!\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06セピア\nComo diga.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x03\x02\x0A\x08ヴェイル\nToma, llévatelo.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08リュール\n¿Por qué?\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0A\x08ヴェイル\nSé que no podrás perdonarme por todas\nlas cosas horribles que he hecho, pero...\x0E\x04\x02\x00
+MID_ED2_#004	Quiero que sepas que nuestra amistad,\naunque fuese breve...\x0E\x04\x00\x00
+MID_ED2_#004_2	¡Significó mucho para mí!\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06セピア\x024\n\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x06\x04グリ\nPero ¿qué?\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x08\x06セピア\nMaldito defecto...\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x0A\x08ヴェイル\n¡Aaaah!\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n¡Veyle!\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06セピア\nCuando regresemos, me aseguraré\nde que no vuelvas a despertarte jamás.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x08\x06マロン\n¡Mauvier, no pierdas de vista los otros anillos!\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x08\x06モーヴ\nEntendido.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nEl Anillo del Caballero Sagrado...\x0E\x04\x02\x00
+MID_ED3_#009	Gracias, Veyle.\x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08シグルド\x021\n\x0E\x03\x00\x0C\x06リーフ\x023\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nEmblema Sigurd, Emblema Leif...\nMe alegro de volver a verlos.\x0E\x04\x00\x00
+MID_ED4_#002	\x0E\x03\x02\x0A\x08シグルド\nYo también. Siento no haberte\nprotegido en la catedral.\x0E\x04\x02\x00
+MID_ED4_#003	Aunque mi consciencia estuvo embotada\ntodo este tiempo, temía no volver a verte.\x0E\x04\x00\x00
+MID_ED4_#004	\x0E\x03\x02\x0A\x08リュール\nSigurd... Lo que ocurrió fue culpa mía, no tuya.\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x08\x06リーフ\nComo han visto, jugaron con la mente\nde Veyle y la convirtieron en su títere.\x0E\x04\x02\x00
+MID_ED4_#006	Mientras Sombron no pueda moverse,\nella seguirá ejecutando su voluntad.\x0E\x04\x00\x00
+MID_ED4_#007	\x0E\x03\x02\x0A\x08リュール\nEntiendo...\x0E\x04\x00\x00
+MID_ED4_#008	\x0E\x03\x01\x0A\x08シグルド\n\x0E\x03\x01\x08\x06リーフ\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x02\x0E\x0Cディアマンド\n¿Deberíamos ir a rescatarla?\x0E\x04\x00\x00
+MID_ED4_#009	\x0E\x03\x02\x0A\x08リュール\nPrimero ayudaremos a la gente de Florra.\x0E\x04\x02\x00
+MID_ED4_#010	Iremos a Elusia cuando hayamos extinguido\nel fuego y salvado a los sobrevivientes.\x0E\x04\x02\x00
+MID_ED4_#011	Ahora tenemos ocho anillos; eso nos da\nventaja para recuperar los otros cuatro.\x0E\x04\x00\x00
+MID_ED4_#012	\x0E\x03\x02\x0E\x0Cディアマンド\nSí, la victoria pronto será nuestra.\x0E\x04\x00\x00
+MID_ED4_#013	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08セリーヌ\x023\n\x0E\x03\x02\x0A\x08リュール\nAlfred, ¿por qué no vas al castillo?\x0E\x04\x02\x00
+MID_ED4_#014	Informa a la reina Ève sobre lo ocurrido.\x0E\x04\x00\x00
+MID_ED4_#015	\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nSí, nosotros nos encargaremos de lo demás.\x0E\x04\x00\x00
+MID_ED4_#016	\x0E\x03\x02\x0E\x0Cアルフレッド\nGracias, se lo agradezco.\x0E\x04\x00\x00
+MID_ED4_#017	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08リュール\n(...)\x0E\x04\x02\x00
+MID_ED4_#018	Cuídate mucho, Veyle.\x0E\x04\x00\x00

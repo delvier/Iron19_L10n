@@ -1,0 +1,266 @@
+MID_H_INFO_WLV_Bullet	Proyectil
+MID_MSG_LOST_ITEM	Pierdes: \x0E\x01\x00\x00 \x0E\x01\x01\x00.
+MID_DLC_News_Patch2_Title	Ver. 1.3.0
+MID_DLC_News_Patch2	Pase de expansión\n\n・ Se han añadido el Emblema Chrom (al que acompaña Robin)\n   y el Emblema Verónica. Se unirán al grupo al completar\n   sus respectivos Anexos Divinos.\n\nContenido gratuito\n\n・ Se ha añadido el pozo antiguo al Somniel. Puedes usarlo\n   para intercambiar artículos que no necesites por otros.\n\n・ Ahora es posible heredar habilidades tanto en el coliseo\n  como en la Sala de Emblemas.
+MCID_G003_PREFIX	Anexo Divino
+MCID_G003	Heredera solitaria
+MCID_G003_PLACE	Santuario de los héroes
+MCID_G003_OUTLINE	Se ha avistado un brazalete\nen una isla que flota en el cielo.
+MCID_G006_PREFIX	Anexo Divino
+MCID_G006	Custodio venerable
+MCID_G006_PLACE	Altar del destino
+MCID_G006_OUTLINE	Se ha avistado un brazalete\nen lo más profundo de un templo\nsolemne.
+MID_RULE_G003_WIN	Derrota al Emblema Verónica.
+MID_RULE_G006_WIN	Derrota a los Emblemas Chrom y Robin.
+MTID_StartupTile	Losa resorte
+MTID_MagicWall	Barrera
+MTID_Pond	Estanque
+MPID_PhantomWolf	Creación
+MPID_H_PhantomWolf	Bestia sin alma creada con artes\narcanas. Carece de voluntad propia\ny obedece órdenes ciegamente.
+MPID_Veronica	Verónica
+MPID_H_Veronica	Emblema de los Héroes.\nPrincesa que tiene el poder de\ncontrolar héroes de otros mundos.
+MPID_Chrom	Chrom
+MPID_H_Chrom	Emblema de los Lazos.\nVenerable príncipe que confía en sus\naliados y desea cambiar el destino.
+MPID_Reflet	Robin
+MPID_H_Reflet	Emblema de los Lazos.\nEstratega que perdió la memoria,\npero no su habilidad para la táctica.
+MGID_Veronica	Verónica
+MGID_H_Veronica	Emblema de los Héroes.\nPrincesa de enorme poder mágico\nque lucha con grimorios y bastones.
+MGID_H_EnemyVeronica	Emblema surgido del Brazalete\nde la Heredera Solitaria.
+MGID_Chrom	Chrom
+MGID_H_Chrom	Emblema de los Lazos.\nGuerrero que gana batallas con la\nespada y el vínculo con sus aliados.
+MGID_H_EnemyChrom	Emblema surgido del Brazalete\ndel Venerable Custodio.
+MGID_Reflet	Robin
+MGEID_Veronica	Héroes
+MGEID_Chrom	Lazos
+MJID_MageCannon	Mago artillero
+MJID_H_MageCannon	Soldado de infantería acorazado\nque usa un cañón portátil para\nlanzar ataques a distancia.
+MJID_PhantomWolf	Lobo espectral
+MJID_H_PhantomWolf	Lobo que se desplaza a gran\nvelocidad. Confunde al enemigo\ny ataca con colmillos maléficos.
+MIID_Trahison	Insidia
+MIID_H_Trahison	Lanza de combate que emite\nun aura de otro mundo.
+MIID_Levanche	Revancha
+MIID_H_Levanche	Hacha de combate que emite\nun aura de otro mundo.
+MIID_Chocolate	Chocoespada
+MIID_H_Chocolate	Espada con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_SoftCream	Helanza
+MIID_H_SoftCream	Lanza con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Lollipop	Hachaleta
+MIID_H_Lollipop	Hacha con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Croissant	Croissarco
+MIID_H_Croissant	Arco con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Tiramisu	Grimorisú
+MIID_H_Tiramisu	Grimorio con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Dango	Dagolosina
+MIID_H_Dango	Daga con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Cupcake	Bastelito
+MIID_H_Cupcake	Bastón con un aroma dulce.\nRestaura PV de un aliado.
+MIID_Rollcake	Puño goloso
+MIID_H_Rollcake	Pergamino con un aroma dulce.\nDesaparece si se consume\ncomo objeto, pero restaura PV.
+MIID_Bullet_Power	Proyectil común
+MIID_H_Bullet_Power	Proyectil ordinario.\nNo asesta ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Magic	Proyectil mágico
+MIID_H_Bullet_Magic	Proyectil imbuido de magia.\nNo asesta ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Freeze	Proyectil gélido
+MIID_H_Bullet_Freeze	Proyectil mágico. Probabilidad\ndel 50 % de congelar al rival.\nNo permite ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Silence	Proyectil silente
+MIID_H_Bullet_Silence	Proyectil mágico. Probabilidad\ndel 50 % de silenciar al rival.\nNo permite ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Collapse	Proyectil ruptura
+MIID_H_Bullet_Collapse	Proyectil mágico. Probabilidad\ndel 50 % de romper al rival.\nNo permite ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Poison	Proyectil venenoso
+MIID_H_Bullet_Poison	Proyectil mágico que envenena\nal objetivo. No permite ataques\ndobles. Gol baja con la distancia.
+MIID_Bullet_Slayer_Fly	Proyectil tornado
+MIID_H_Bullet_Slayer_Fly	Proyectil de magia de viento.\nNo permite ataques dobles.\nGol baja con la distancia.\nEficacia: Voladores.
+MIID_Bullet_Slayer_Armor	Proyectil perforador
+MIID_H_Bullet_Slayer_Armor	Proyectil con efecto perforante.\nNo permite ataques dobles.\nGol baja con la distancia.\nEficacia: Acorazados.
+MIID_Bullet_Slayer_Horse	Proyectil pesado
+MIID_H_Bullet_Slayer_Horse	Proyectil para enemigos a caballo.\nNo permite ataques dobles. Gol baja\ncon la distancia. Eficacia: Caballería.
+MIID_Bullet_Slayer_Dragon	Proyectil draco
+MIID_H_Bullet_Slayer_Dragon	Proyectil especial para dragones.\nNo permite ataques dobles. Gol baja\ncon la distancia. Eficacia: Dragones.
+MIID_Bullet_Slayer_Morph	Proyectil sagrado
+MIID_H_Bullet_Slayer_Morph	Proyectil especial para aberraciones.\nNo permite ataques dobles. Gol baja\ncon la distancia. Efic.: Aberraciones.
+MIID_Bullet_Power+	Proyectil potente
+MIID_H_Bullet_Power+	Proyectil de gran poder destructivo.\nNo permite ataques dobles.\nGol baja con la distancia.
+MIID_Bullet_Magic+	Proyectil siniestro
+MIID_H_Bullet_Magic+	Proyectil imbuido de magia\npoderosa. No permite ataques\ndobles. Gol baja con la distancia.
+MIID_Bullet_Penetration	Proyectil agudo
+MIID_H_Bullet_Penetration	Proyectil que ignora la Def/Res.\nNo permite ataques dobles.\nGol baja con la distancia.
+MIID_Fang	Colmillo
+MIID_H_Fang	Si la unidad inicia el enfrentamiento\ny acierta, inflige PV máx. - 5 al rival\ntras el lance. (Máximo - 20)
+MIID_Veronica_Hlidskjalf	Hliðskjálf
+MIID_H_Veronica_Hlidskjalf	Bastón del Emblema Verónica.\nSi la unidad inicia el enfrentamiento,\nel enemigo no puede contratacar.
+MIID_Veronica_WholeHeal	Fortalecer +
+MIID_H_Veronica_WholeHeal	Bastón del Emblema Verónica.\nSana PV y alteraciones de estado\na aliados en un radio de 7 casillas.
+MIID_Veronica_Elivagar	Élivágar
+MIID_H_Veronica_Elivagar	Magia del Emblema Verónica.\nAnula mejoras de atributos básicos\ndel rival durante 1 turno tras luchar.
+MIID_Veronica_EngageAtk_R	Piedra roja
+MIID_Veronica_EngageAtk_B	Piedra azul
+MIID_Veronica_EngageAtk_G	Piedra verde
+MIID_Veronica_EngageAtk_N	Piedra gris
+MIID_Chrom_ThunderSword	Espada trueno
+MIID_H_Chrom_ThunderSword	Espada mágica del Emblema Robin.\nPermite atacar a distancia\ncon un rayo mágico.
+MIID_Chrom_Thoron	Thoron
+MIID_H_Chrom_Thoron	Grimorio de poderosa magia\nde trueno del Emblema Robin.
+MIID_Chrom_Falchion	Falchion
+MIID_H_Chrom_Falchion	Espada legendaria del Emblema\nChrom. Eficacia: Dragones.
+MSID_SPConvert	Conversión de PH
+MSID_H_SPConvert	Otorga 20 PH por cada enemigo\nderrotado. Se activa incluso si\nla unidad no se equipa con anillo\nni brazalete.
+MSID_BloodyRevenge	Represalia
+MSID_H_BloodyRevenge	Si la unidad no tiene el máximo\nde PV, el 30 % de la cantidad\nfaltante se suma al Ata.
+MSID_BloodyRevenge+	Represalia +
+MSID_H_BloodyRevenge+	Si la unidad no tiene el máximo\nde PV, el 50 % de la cantidad\nfaltante se suma al Ata.
+MSID_BreakThroughLimit	Mejora de nivel
+MSID_H_BreakThroughLimit	Cada vez que la unidad derrota\na un enemigo de nivel superior,\nsu nivel aumenta + 1 hasta el final\nde la batalla. (Máx. + 3)
+MSID_AnotherWorldsPower	Libro ultramundano
+MSID_H_AnotherWorldsPower	Libro ultramundano sube un nivel\n(máx. 5) por cada turno consecutivo\nque la unidad espere. Vuelve al valor\nbase si la unidad activa el efecto.
+MSID_AnotherWorldsPower+1	Libro I: Sello
+MSID_H_AnotherWorldsPower+1	Si la unidad inicia el enfrentamiento,\ntras el lance, congela al rival.
+MSID_AnotherWorldsPower+2	Libro II: La llama
+MSID_H_AnotherWorldsPower+2	Si la unidad inicia el enfrentamiento,\ntras el lance, congela al rival\ne incendia su casilla.
+MSID_AnotherWorldsPower+3	Libro III: Muerte
+MSID_H_AnotherWorldsPower+3	Si la unidad inicia el enfrentamiento,\ntras el lance, inflige 10 PV de daño,\ncongela al rival e incendia su casilla.
+MSID_AnotherWorldsPower+4	Libro IV: El sueño
+MSID_H_AnotherWorldsPower+4	Si la unidad inicia el enfrentamiento,\nrecupera PV = daño total infligido.\nTras el lance, inflige 10 PV de daño,\ncongela al rival e incendia su casilla.
+MSID_AnotherWorldsPower+5	Libro V: Ciencia
+MSID_H_AnotherWorldsPower+5	Si la unidad inicia el enfrentamiento,\nella y los aliados adyacentes\nrecuperan PV = daño total infligido.\nTras el lance, inflige 10 PV de daño,\ncongela al rival e incendia su casilla.
+MSID_VeronicaEngage	Contrato
+MSID_H_VeronicaEngage	Permite otorgar una nueva acción\n(sin moverse) a un aliado adyacente\nque ya haya agotado su turno.
+MSID_H_VeronicaEngage_CMD	Otorga una acción extra\n(sin moverse) a un aliado.
+MSID_H_VeronicaEngage_Dragon	Permite otorgar una nueva acción\n(sin moverse) a un aliado adyacente\nque ya haya agotado su turno.\nDragón: El aliado obtiene Fue, Mag,\nDef y Res + 2 durante esa acción.
+MSID_H_VeronicaEngage_Coop	Permite otorgar una nueva acción\n(sin moverse) a un aliado adyacente\nque ya haya agotado su turno.\nRefuerzo: La unidad asesta un\nataque en cadena en esa acción.
+MSID_H_VeronicaEngage_Covert	Permite otorgar una nueva acción\n(sin moverse) a un aliado adyacente\nque ya haya agotado su turno.\nFurtivo: El aliado obtiene Gol y Esq\n+ 30 durante esa acción.
+MSID_VeronicaEngageAtk	Invocar héroe
+MSID_H_VeronicaEngageAtk	Permite invocar una unidad al azar.
+MSID_H_VeronicaEngageAtk_CMD	Invoca una unidad al azar.
+MSID_VeronicaEngageAtk_CMD_R	\x0E\x08\x02\x12\x10RedStone Piedra roja
+MSID_H_VeronicaEngageAtk_CMD_R	Invoca una unidad que usa\nespada.
+MSID_VeronicaEngageAtk_CMD_B	\x0E\x08\x02\x14\x12BlueStone Piedra azul
+MSID_H_VeronicaEngageAtk_CMD_B	Invoca una unidad que usa\nlanza.
+MSID_VeronicaEngageAtk_CMD_G	\x0E\x08\x02\x16\x14GreenStone Piedra verde
+MSID_H_VeronicaEngageAtk_CMD_G	Invoca una unidad que usa\nhacha.
+MSID_VeronicaEngageAtk_CMD_W	\x0E\x08\x02\x16\x14WhiteStone Piedra gris
+MSID_H_VeronicaEngageAtk_CMD_W	Invoca una unidad que no usa\nespada, lanza ni hacha.
+MSID_H_VeronicaEngageAtk_Dragon	Permite invocar una unidad al azar.\nDragón: Invoca una unidad poderosa.
+MSID_H_VeronicaEngageAtk_Coop	Permite invocar una unidad al azar.\nRefuerzo: Invoca una unidad que\nposea la habilidad Golpe doble.
+MSID_H_VeronicaEngageAtk_Horse	Permite invocar una unidad al azar.\nCaballería: La unidad invocada\nobtiene Mov + 1.
+MSID_ByForce	Fuerza bruta
+MSID_H_ByForce	Si la unidad asesta un golpe crítico\ndurante un ataque físico, el daño\ninfligido se incrementa.
+MSID_Charisma	Carisma
+MSID_H_Charisma	Si el ataque de la unidad activa un\nataque en cadena, aumenta al 90 %\nla probabilidad de que acierte.
+MSID_SuckerPunch	Celada
+MSID_H_SuckerPunch	Si la unidad inicia el enfrentamiento\nen un terreno con bonificación\nde Esq, el rival no puede contratacar.
+MSID_RainbowCry	Potenciar: Todo
+MSID_H_RainbowCry	Permite otorgar a los aliados\nadyacentes una mejora de + 3\na los 7 atributos básicos durante\n1 turno.
+MSID_Rooting	Potenciar
+MSID_H_Rooting_CMD	Otorga atributos básicos + 3\na aliados adyacentes.
+MSID_RainbowCry+	Potenciar: Todo +
+MSID_H_RainbowCry+	Permite otorgar a los aliados\nsituados en un radio de 2 casillas\nuna mejora de + 3 a los 7 atributos\nbásicos durante 1 turno.
+MSID_Rooting+	Potenciar +
+MSID_H_Rooting+_CMD	Otorga + 3 a los 7 atributos\nbásicos a aliados a 2 casillas.
+MSID_ChromEngage	Otra mitad
+MSID_H_ChromEngage	Si la unidad inicia el enfrentamiento,\nRobin asesta un ataque en cadena.\nOtorga Mag + 10.
+MSID_H_ChromEngage_Dragon	Si la unidad inicia el enfrentamiento,\nRobin asesta un ataque en cadena.\nOtorga Mag + 10.\nDragón: Robin asesta el ataque\nen cadena 2 veces.
+MSID_H_ChromEngage_Coop	Si la unidad inicia el enfrentamiento,\nRobin asesta un ataque en cadena.\nOtorga Mag + 10.\nRefuerzo: El ataque en cadena\ntiene acierto garantizado.
+MSID_H_ChromEngage_Covert	Si la unidad inicia el enfrentamiento,\nRobin asesta un ataque en cadena.\nOtorga Mag + 10.\nFurtivo: Mov + 1.
+MSID_H_ChromEngage_Single	Los ataques en cadena activados\npor esta unidad tienen acierto\ngarantizado. Fue + 5, Mag + 10.
+MSID_ChromEngageAtk	Espada gigatrueno
+MSID_H_ChromEngageAtk	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada.
+MSID_H_ChromEngageAtk_Dragon	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada.\nDragón: Suma el 50 % de Fue\nal daño infligido.
+MSID_H_ChromEngageAtk_Fly	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada.\nVolador: Añade el valor de Con\nal daño infligido.
+MSID_H_ChromEngageAtk_Magic	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada.\nMístico: Suma el 50 % de Mag\nal daño infligido.
+MSID_H_ChromEngageAtk_CMD	Asesta un ataque con\nespada mágica.
+MSID_ChromEngageAtk+	Espada gigatrueno +
+MSID_H_ChromEngageAtk+	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada. Los aliados adyacentes\nasestan ataques en cadena.
+MSID_H_ChromEngageAtk+_Dragon	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada. Los aliados adyacentes\nasestan ataques en cadena.\nDragón: Suma 50 % de Fue al daño.
+MSID_H_ChromEngageAtk+_Fly	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada. Los aliados adyacentes\nasestan ataques en cadena.\nVolador: Suma Con al daño.
+MSID_H_ChromEngageAtk+_Magic	Permite asestar un ataque mágico\nque usa la potencia de ataque físico.\nSolo espada. Los aliados adyacentes\nasestan ataques en cadena.\nMístico: Suma 50 % de Mag al daño.
+MSID_H_ChromEngageAtk+_CMD	Las unidades adyacentes\nasestan ataques en cadena.
+MSID_Mag_Tec_1	Mag/Hab + 1
+MSID_H_Mag_Tec_1	Otorga Mag y Hab + 1.
+MSID_Mag_Tec_2	Mag/Hab + 2
+MSID_H_Mag_Tec_2	Otorga Mag y Hab + 2.
+MSID_Mag_Tec_3	Mag/Hab + 3
+MSID_H_Mag_Tec_3	Otorga Mag y Hab + 3.
+MSID_Mag_Tec_4	Mag/Hab + 4
+MSID_H_Mag_Tec_4	Otorga Mag y Hab + 4.
+MSID_Mag_Tec_5	Mag/Hab + 5
+MSID_H_Mag_Tec_5	Otorga Mag y Hab + 5.
+MSID_Tec_Spd_1	Vel/Hab + 1
+MSID_H_Tec_Spd_1	Otorga Vel y Hab + 1.
+MSID_Tec_Spd_2	Vel/Hab + 2
+MSID_H_Tec_Spd_2	Otorga Vel y Hab + 2.
+MSID_Tec_Spd_3	Vel/Hab + 3
+MSID_H_Tec_Spd_3	Otorga Vel y Hab + 3.
+MSID_Tec_Spd_4	Vel/Hab + 4
+MSID_H_Tec_Spd_4	Otorga Vel y Hab + 4.
+MSID_Tec_Spd_5	Vel/Hab + 5
+MSID_H_Tec_Spd_5	Otorga Vel y Hab + 5.
+MSID_AntiKnifeArts_1	Guardia daga 1
+MSID_H_AntiKnifeArts_1	Si el enemigo usa daga, la unidad\nsufre daño - 1 en el enfrentamiento.
+MSID_AntiKnifeArts_2	Guardia daga 2
+MSID_H_AntiKnifeArts_2	Si el enemigo usa daga, la unidad\nsufre daño - 2 en el enfrentamiento.
+MSID_AntiKnifeArts_3	Guardia daga 3
+MSID_H_AntiKnifeArts_3	Si el enemigo usa daga, la unidad\nsufre daño - 3 en el enfrentamiento.
+MSID_AntiKnifeArts_4	Guardia daga 4
+MSID_H_AntiKnifeArts_4	Si el enemigo usa daga, la unidad\nsufre daño - 4 en el enfrentamiento.
+MSID_AntiKnifeArts_5	Guardia daga 5
+MSID_H_AntiKnifeArts_5	Si el enemigo usa daga, la unidad\nsufre daño - 5 en el enfrentamiento.
+MSID_AntiSwordArts_1	Guardia espada 1
+MSID_H_AntiSwordArts_1	Si el enemigo usa espada, la unidad\nsufre daño - 1 en el enfrentamiento.
+MSID_AntiSwordArts_2	Guardia espada 2
+MSID_H_AntiSwordArts_2	Si el enemigo usa espada, la unidad\nsufre daño - 2 en el enfrentamiento.
+MSID_AntiSwordArts_3	Guardia espada 3
+MSID_H_AntiSwordArts_3	Si el enemigo usa espada, la unidad\nsufre daño - 3 en el enfrentamiento.
+MSID_AntiSwordArts_4	Guardia espada 4
+MSID_H_AntiSwordArts_4	Si el enemigo usa espada, la unidad\nsufre daño - 4 en el enfrentamiento.
+MSID_AntiSwordArts_5	Guardia espada 5
+MSID_H_AntiSwordArts_5	Si el enemigo usa espada, la unidad\nsufre daño - 5 en el enfrentamiento.
+MSID_JobSkill_MageCanon	Cañonazo
+MSID_H_JobSkill_MageCanon	Permite ejecutar un ataque con\nacierto garantizado en una zona\nal inicio del siguiente turno del\njugador. La unidad pierde el\nproyectil empleado.
+MSID_H_JobSkill_MageCanon_CMD	Disparo de larga distancia\ncon acierto garantizado.
+MSID_JobSkill_Wolf	Caza en manada
+MSID_H_JobSkill_Wolf	Los aliados de la misma clase que\nla unidad situados en un radio de\n3 casillas participan en un ataque\nen cadena.
+MID_BONDSRING_Chrom00	Príncipe del Sacro Reino de Ylisse,\nuna tierra de otro mundo.
+MID_BONDSRING_Chrom01	Hizo posible un futuro de esperanza\ngracias a la espada sagrada Falchion.
+MID_BONDSRING_Reflet00	Misterioso forastero que fue acogido\npor Chrom, con quien trabó amistad.
+MID_BONDSRING_Reflet01	Las llamas de la batalla forjaron\nentre ellos un vínculo indestructible.
+MID_BONDSRING_Veronica00	Hija del emperador de Embla,\nuna tierra de otro mundo.
+MID_BONDSRING_Veronica01	Su apariencia tranquila apenas logra\nocultar su aura inquietante.
+MGID_Ring_Chrom	Brazalete del Venerable Custodio
+MGID_H_Ring_Chrom	Alberga el Emblema de Chrom,\nvenerable príncipe que confía en sus\naliados y desea cambiar el destino.
+MGID_Ring_Reflet	Brazalete del Venerable Custodio
+MGID_H_Ring_Reflet	Alberga el Emblema de Robin,\nestratega que perdió la memoria,\npero no su habilidad para la táctica.
+MGID_Ring_Veronica	Brazalete de la Heredera Solitaria
+MGID_H_Ring_Veronica	Alberga el Emblema de Verónica,\nprincesa que tiene el poder de\ncontrolar héroes de otros mundos.
+MGID_World_Chrom	Mundo de la Venerable
+MGID_World_Reflet	Mundo de la Venerable
+MGID_World_Veronica	Mundo de la Joven Princesa
+MID_RELAY_Stamp_Chrom_0	Puedes contar conmigo.
+MID_RELAY_Stamp_Reflet_0	Tengo una nueva estrategia...
+MID_RELAY_Stamp_Veronica_0	Son tantos... No es justo.
+MID_BGM_DLC_Field_S16_Combat_ST_Play	Prueba heroica (escucha la invocación)
+MID_BGM_DLC_Field_S16_Map_ST_Play	Prueba heroica
+MID_BGM_Evt_Advent_Veronica_ST_Play	Escucha la invocación
+MID_Hub_Well	Pozo antiguo
+MID_Hub_Area_Event	Nuevo evento
+MID_Hub_Area_ItemReturn	Nuevos objetos
+MID_Hub_Well_TitleHelp	Elige una acción.
+MID_Hub_Well_ItemExchange	Trocar objetos
+MID_Hub_Well_ItemExchange_TitleHelp	Elige objetos que no quieras.
+MID_Hub_Well_ItemExchange_Expected	Expectativa
+MID_Hub_Well_ItemExchange_Dialog_Title	¿Quieres transformar estos objetos?
+MID_Hub_Well_ItemExchange_Dialog_Before	Objetos a dejar
+MID_Hub_Well_ItemExchange_Dialog_Yes	Sí
+MID_Hub_Well_ItemExchange_Get	Adquiridos
+MID_Hub_Well_ItemExchange_Message	Has arrojado algo al pozo. Después\nde la próxima batalla, aparecerá algo nuevo.
+MID_Hub_Well_Nothing1	Sientes una presencia misteriosa...
+MID_Hub_Well_Nothing2	Parece que ahora mismo no hay nada.
+PCTMID_Chrom	"Cuenta conmigo."
+PCTMID_Reflet	"Necesito una estrategia..."
+PCTMID_Veronica	"Serán míos..."
+MID_Movie_K19	Emblema Verónica
+MID_H_Movie_K19	Emblema Verónica, invocado desde\nel Brazalete de la Heredera Solitaria.
+MID_Movie_K18	Emblema Chrom
+MID_H_Movie_K18	Emblema Chrom, invocado desde\nel Brazalete del Venerable Custodio.
+MID_MAP_HIS_EngageSummon	\x0E\x01\x00\x00 usó Invocar héroe.
+MID_MAP_HIS_Contract	\x0E\x01\x00\x00 usó Contrato.
+MID_MAP_HIS_FullBullet	\x0E\x01\x00\x00 usó Cañonazo.

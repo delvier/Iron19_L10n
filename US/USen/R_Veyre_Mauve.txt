@@ -1,0 +1,61 @@
+MID_RELIANCE_C_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x02\x08\x06モーヴ\nLady Veyle, I've found you.\x0E\x04\x00\x00
+MID_RELIANCE_C_#002	\x0E\x03\x02\x0A\x08ヴェイル\nOh, I didn't know you were looking for me.\x0E\x04\x00\x00
+MID_RELIANCE_C_#003	\x0E\x03\x02\x08\x06モーヴ\nI was, indeed.\x0E\x04\x00\x00
+MID_RELIANCE_C_#004	\x0E\x03\x02\x08\x06モーヴ\nPerhaps you don't realize, it is not safe for\nyou to walk through town alone.\x0E\x04\x00\x00
+MID_RELIANCE_C_#005	\x0E\x03\x02\x0A\x08ヴェイル\nNot safe?\x0E\x04\x00\x00
+MID_RELIANCE_C_#006	\x0E\x03\x02\x0A\x08ヴェイル\nWhy do you say that? This town is full of\ngood people.\x0E\x04\x00\x00
+MID_RELIANCE_C_#007	\x0E\x03\x02\x08\x06モーヴ\nConsidering what we have done, some of these\ngood people might rightfully want revenge.\x0E\x04\x00\x00
+MID_RELIANCE_C_#008	\x0E\x03\x02\x0A\x08ヴェイル\nIf that happens, then I'll apologize. We did...truly\nawful things.\x0E\x04\x00\x00
+MID_RELIANCE_C_#009	\x0E\x03\x02\x08\x06モーヴ\nAn apology might well not be enough.\nIf something were to happen to you...\x0E\x04\x00\x00
+MID_RELIANCE_C_#010	\x0E\x03\x02\x0A\x08ヴェイル\nI'm not a child. I can take care of myself.\nNow stop following me.\x0E\x04\x00\x00
+MID_RELIANCE_C_#011	\x0E\x03\x02\x08\x06モーヴ\nWait. Please!\x0E\x04\x00\x00
+MID_RELIANCE_C_#012	\x0E\x03\x02\x0A\x08ヴェイル\nNo. I have something I need to do...on my own.\x0E\x04\x00\x00
+MID_RELIANCE_C_#013	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x02\x08\x06モーヴ\nThere she goes.\x0E\x04\x00\x00
+MID_RELIANCE_C_#014	\x0E\x03\x02\x08\x06モーヴ\nShe has no idea what she is risking.\x0E\x04\x00\x00
+MID_RELIANCE_B_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_RELIANCE_B_#002	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x02\x08\x06モーヴ\nLady Veyle seems safe enough. For the time\nbeing anyway.\x0E\x04\x00\x00
+MID_RELIANCE_B_#003	\x0E\x03\x02\x08\x06モーヴ\nI must not be noticed following her. I will stay\nback and observe without being seen.\x0E\x04\x00\x00
+MID_RELIANCE_B_#004	\x0E\x03\x02\x08\x06モーヴ\nI cannot imagine explaining to Marni that\nI allowed harm to befall Lady Veyle.\x0E\x04\x00\x00
+MID_RELIANCE_B_#005	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nMauvier! I see you following me.\x0E\x04\x00\x00
+MID_RELIANCE_B_#006	\x0E\x03\x02\x08\x06モーヴ\nLady Veyle?!\x0E\x04\x00\x00
+MID_RELIANCE_B_#007	\x0E\x03\x02\x0A\x08ヴェイル\nSo, you don't think I can take care of myself?\nIs that what this is?\x0E\x04\x00\x00
+MID_RELIANCE_B_#008	\x0E\x03\x02\x08\x06モーヴ\nNo. Or, rather, yes. I mean, I know you are very\ncapable. But I also worry.\x0E\x04\x00\x00
+MID_RELIANCE_B_#009	\x0E\x03\x02\x08\x06モーヴ\nIt is my duty as a knight to keep you safe.\x0E\x04\x00\x00
+MID_RELIANCE_B_#010	\x0E\x03\x02\x0A\x08ヴェイル\nYou're not just a knight, you're also my friend.\nInstead of worrying about me, try trusting me.\x0E\x04\x00\x00
+MID_RELIANCE_B_#011	\x0E\x03\x02\x08\x06モーヴ\nA friend? I did not know.\x0E\x04\x00\x00
+MID_RELIANCE_B_#012	\x0E\x03\x02\x08\x06モーヴ\nIf that is the case, please tell me why you walk\nthrough town alone.\x0E\x04\x00\x00
+MID_RELIANCE_B_#013	\x0E\x03\x02\x08\x06モーヴ\nAs your friend, I am concerned for your safety.\nI want to understand why you would do that.\x0E\x04\x00\x00
+MID_RELIANCE_B_#014	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_RELIANCE_B_#015	\x0E\x03\x02\x0A\x08ヴェイル\nI do it to atone for my sins.\x0E\x04\x00\x00
+MID_RELIANCE_B_#016	\x0E\x03\x02\x0A\x08ヴェイル\nA lot of people were hurt because of me. I need\nto find something good I can do for this town.\x0E\x04\x00\x00
+MID_RELIANCE_B_#017	\x0E\x03\x02\x08\x06モーヴ\nLady Veyle... Since that is the case, it is\nimportant that I be by your side.\x0E\x04\x00\x00
+MID_RELIANCE_B_#018	\x0E\x03\x02\x08\x06モーヴ\nAs one of the Four Hounds, I also committed\nsins for which I must atone.\x0E\x04\x00\x00
+MID_RELIANCE_B_#019	\x0E\x03\x02\x08\x06モーヴ\nYou are not alone in your feelings...or your goal.\x0E\x04\x00\x00
+MID_RELIANCE_B_#020	\x0E\x03\x02\x0A\x08ヴェイル\nYou have such a good heart, Mauvier.\x0E\x04\x00\x00
+MID_RELIANCE_B_#021	\x0E\x03\x02\x0A\x08ヴェイル\nAnd I'm lucky to have you as a friend.\x0E\x04\x00\x00
+MID_RELIANCE_B_#022	\x0E\x03\x02\x0A\x08ヴェイル\nSo, will you help me? Can we find something\ngood to do for this town together?\x0E\x04\x00\x00
+MID_RELIANCE_B_#023	\x0E\x03\x02\x08\x06モーヴ\nOf course, Lady Veyle...\x0E\x04\x00\x00
+MID_RELIANCE_A_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x02\x0A\x08ヴェイル\nOh, the townsfolk seem so pleased! I can barely\nbelieve all the thanks pouring in.\x0E\x04\x00\x00
+MID_RELIANCE_A_#002	\x0E\x03\x02\x08\x06モーヴ\nYes, the people do seem most appreciative.\nBut our work has only just begun.\x0E\x04\x00\x00
+MID_RELIANCE_A_#003	\x0E\x03\x02\x0A\x08ヴェイル\nI hope they know our feelings are genuine and\nthat we mean them well.\x0E\x04\x00\x00
+MID_RELIANCE_A_#004	\x0E\x03\x02\x08\x06モーヴ\nI was concerned they would hold a grudge.\nRevenge makes more sense than forgiveness.\x0E\x04\x00\x00
+MID_RELIANCE_A_#005	\x0E\x03\x02\x0A\x08ヴェイル\nI told you. The people here are good.\x0E\x04\x00\x00
+MID_RELIANCE_A_#006	\x0E\x03\x02\x08\x06モーヴ\nIndeed. You were right.\x0E\x04\x00\x00
+MID_RELIANCE_A_#007	\x0E\x03\x02\x08\x06モーヴ\nIt is wonderful that they welcomed us so.\x0E\x04\x00\x00
+MID_RELIANCE_A_#008	\x0E\x03\x02\x0A\x08ヴェイル\n...\x0E\x04\x00\x00
+MID_RELIANCE_A_#009	\x0E\x03\x02\x0A\x08ヴェイル\nYou know, there's something I've been\nthinking about. \x0E\x04\x00\x00
+MID_RELIANCE_A_#010	\x0E\x03\x02\x0A\x08ヴェイル\nI wonder if Marni would have ever been willing\nto walk through these streets with us.\x0E\x04\x00\x00
+MID_RELIANCE_A_#011	\x0E\x03\x02\x08\x06モーヴ\nLady Veyle...\x0E\x04\x00\x00
+MID_RELIANCE_A_#012	\x0E\x03\x02\x08\x06モーヴ\nI do not dare to guess. But this much I know...\x0E\x04\x00\x00
+MID_RELIANCE_A_#013	\x0E\x03\x02\x08\x06モーヴ\nIf Marni would have fought on this side, she'd\nhave been a knight beloved by the people.\x0E\x04\x00\x00
+MID_RELIANCE_A_#014	\x0E\x03\x02\x0A\x08ヴェイル\nOh yes, they would have loved her.\x0E\x04\x00\x00
+MID_RELIANCE_A_#015	\x0E\x03\x02\x0A\x08ヴェイル\nIf it weren't for Marni, I would have never had\nthis chance to make things right.\x0E\x04\x00\x00
+MID_RELIANCE_A_#016	\x0E\x03\x02\x0A\x08ヴェイル\nIt's impossible to express how grateful I am for\nwhat she did.\x0E\x04\x00\x00
+MID_RELIANCE_A_#017	\x0E\x03\x02\x08\x06モーヴ\nShe would have loved to hear your praise.\x0E\x04\x00\x00
+MID_RELIANCE_A_#018	\x0E\x03\x02\x08\x06モーヴ\nLet the two of us live to save as many people as\nwe can. For Marni.\x0E\x04\x00\x00
+MID_RELIANCE_A_#019	\x0E\x03\x02\x0A\x08ヴェイル\nI like that.\x0E\x04\x00\x00
+MID_RELIANCE_A_#020	\x0E\x03\x02\x0A\x08ヴェイル\nWe have so many wrongs to make up for.\nI don't know how we'll ever balance the scales.\x0E\x04\x00\x00
+MID_RELIANCE_A_#021	\x0E\x03\x02\x0A\x08ヴェイル\nI guess we'll just have to add as much good\nto this world as we possibly can.\x0E\x04\x00\x00
+MID_RELIANCE_A_#022	\x0E\x03\x02\x0A\x08ヴェイル\nWill you help me, Mauvier?\x0E\x04\x00\x00
+MID_RELIANCE_A_#023	\x0E\x03\x02\x08\x06モーヴ\nOf course. As a knight...and as a friend.\x0E\x04\x00\x00
+MID_RELIANCE_A_#024	\x0E\x03\x02\x08\x06モーヴ\nWe do this together, Lady Veyle.\x0E\x04\x00\x00

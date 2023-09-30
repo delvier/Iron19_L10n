@@ -1,0 +1,304 @@
+MID_SYS_Difficulty_Normal	Normal
+MID_H_Difficulty_Normal	Für Neulinge und Spieler mit etwas Erfahrung.
+MID_SYS_Difficulty_Hard	Schwer
+MID_H_Difficulty_Hard	Für erfahrene Spieler.
+MID_SYS_Difficulty_Lunatic	Extrem
+MID_H_Difficulty_Lunatic	Für jene, die wahre Herausforderung suchen.
+MID_SYS_Mode_Select	Wähle einen Modus.
+MID_SYS_Mode_Casual	Anfänger
+MID_H_Mode_Casual	Gefallene Einheiten kehren im nächsten Kampf\nzurück.
+MID_SYS_Mode_Classic	Klassisch
+MID_H_Mode_Classic	Gefallene Einheiten sind für immer verloren.\nJede Entscheidung zählt.
+MID_SYS_Grow_Random	Zufall
+MID_H_Grow_Random	Statusverbesserungen beim Level Up\ngeschehen zufällig, werden aber von der\nEinheit und ihrer Klasse beeinflusst.
+MID_SYS_Grow_Fixed	Fix
+MID_H_Grow_Fixed	Statusverbesserungen beim Level Up basieren\nausschließlich auf der Einheit und ihrer Klasse.
+MID_Decision	Bestätigen
+MID_ToNext	Weiter
+MID_SYS_BattleRecord	Kampfdaten
+MID_SYS_Time	Zeit:
+MID_SYS_None	–
+MID_SYS_Battle_Count	 Kämpfe
+MID_SYS_Win_Count	 Siege
+MID_SYS_FoughtTogetherGod	Meistgenutztes Emblem
+MID_SYS_TypeSection	Klasse
+MID_SYS_SeniorPosition	Erfahren
+MID_SYS_BasicPosition	Basis
+MID_SYS_SpecialPosition	Spezial
+MID_SYS_Position	Klasse: \x0E\x01\x00\x00
+MID_SYS_UseWeapon	Waffen
+MID_SYS_TypeOfWepon_1	Typ 1
+MID_SYS_TypeOfWepon_2	Typ 2
+MID_SYS_Status	Kampfwerte
+MID_SYS_Capability	Grundwerte
+MID_SYS_EquipedStatus	Verw. Werte
+MID_SYS_Spec	Leistung
+MID_SYS_Detail	Details
+MID_SYS_EngageWeapon	Bündniswaffen
+MID_SYS_Class	Klasse
+MID_SYS_Item	Items
+MID_SYS_Skill	Fähigkeiten
+MID_SYS_SP	FP
+MID_H_INFO_SP	Fähigkeitspunkte. Werden benötigt,\num Fähigkeiten von Emblemen zu\nerben.
+MID_SYS_Rating	Macht
+MID_H_INFO_Rating	Die Summe der wichtigsten\nWerte der Einheit.
+MID_SYS_LV	Lv.
+MID_H_INFO_LV	Die Gesamtmacht der Einheit.\nSteigt mit Erfahrung. Bis zum\nnächsten Level: \x0E\x01\x00\x00 Erf.
+MID_H_INFO_LV_MAX	Die Gesamtmacht der Einheit.\nSteigt mit Erfahrung. Die Einheit\nhat den maximalen Level erreicht.
+MID_H_INFO_LV_ENEMY	Die Gesamtmacht der Einheit.\nSteigt mit Erfahrung.
+MID_H_INFO_BOND_LV	Die Stärke des Bandes zwischen\nEinheit und Emblem. Je höher, desto\nmehr Macht gewährt das Emblem.
+MID_SYS_Exp	Erf.
+MID_SYS_HP_MAX_UP	Max. KP
+MID_SYS_HP	KP
+MID_H_INFO_HP	Die Gesundheit der Einheit. Fallen\ndie KP auf 0, ist die Einheit besiegt.
+MID_H_COMBAT_INFO_HP	Eine Vorhersage von KP-Änderungen\nals Ergebnis dieses Kampfes.
+MID_SYS_Str	Stä.
+MID_H_INFO_Str	Stärke. Beeinflusst den mit phys.\nAngriffen ausgeteilten Schaden.
+MID_SYS_Mag	Mag.
+MID_H_INFO_Mag	Magie. Beeinflusst den mit magischen\nAngriffen ausgeteilten Schaden.
+MID_SYS_Tec	Beh.
+MID_H_INFO_Tec	Behändigkeit. Beeinflusst die Treffer-\nchance & Häufigkeit krit. Treffer.
+MID_SYS_Spd	Ges.
+MID_H_INFO_Spd	Geschwindigkeit. Beeinflusst Aw.\nDoppelter Angriff, wenn mindestens\n5 höher als Ges. des Gegners.
+MID_SYS_Lck	Glk.
+MID_H_INFO_Lck	Glück. Verschiedene Effekte. Senkt\nRisiko gegnerischer kritischer\nAngriffe.
+MID_SYS_Def	Ver.
+MID_H_INFO_Def	Verteidigung. Senkt durch physische\nAngriffe erhaltenen Schaden.
+MID_SYS_Res	Res.
+MID_H_INFO_Res	Resistenz. Senkt durch magische\nAngriffe erhaltenen Schaden.
+MID_SYS_Mov	Bew.
+MID_H_INFO_Mov	Bewegung. Bestimmt, wie viele\nFelder eine Einheit ziehen kann.
+MID_SYS_Phy	Fig.
+MID_H_INFO_Phy	Figur. Verhindert Einfluss von\nschweren Waffen auf die\nAngriffsgeschwindigkeit.
+MID_SYS_Vis	Vis.
+MID_H_INFO_Vis	Vision. Bestimmt Sichtweite bei\nDunkelheit oder ähnlichen\nBedingungen.
+MID_SYS_Atk	Agr.
+MID_SYS_Dmg	Schd.
+MID_H_INFO_Atk	Angriff. Die Stärke physischer\nund magischer Angriffe.
+MID_H_COMBAT_INFO_Dmg	Die Menge an Schaden, die dem\nGegner bei einem Treffer zugefügt\nwird.
+MID_SYS_Weapon_Attack	Ph.Agr.
+MID_SYS_H_Weapon_Attack	Physischer Angriff. Die Angriffs-\nstärke, wenn die Einheit eine\nphysische Waffe verwendet.
+MID_SYS_Magic_Attack	Ma.Agr.
+MID_SYS_H_Magic_Attack	Magischer Angriff. Die Angriffs-\nstärke, wenn die Einheit eine\nmagische Waffe verwendet.
+MID_SYS_Special_Attack	Spz.
+MID_SYS_H_Special_Attack	Spezialangriff. Die Angriffsstärke der\nEinheit mit Spezialangriffen, die\nnicht von Ver. oder Res. abhängen.
+MID_SYS_Hit	Trf.
+MID_H_INFO_Hit	Treffer. Bestimmt die Wahrschein-\nlichkeit, dass ein Angriff trifft.
+MID_H_COMBAT_INFO_Hit	Trefferquote für Angriffe und andere\nEffekte.
+MID_SYS_Avo	Aw.
+MID_H_INFO_Avo	Ausweichen. Bestimmt die\nWahrscheinlichkeit, einem Angriff\nauszuweichen.
+MID_SYS_Crit	Krit.
+MID_H_INFO_Crit	Krit. Chance: Chance, kritische\nTreffer zu landen (3x Schaden).
+MID_H_COMBAT_INFO_Crit	Die Chance, einen kritischen Treffer\nzu landen.
+MID_SYS_Secure	Krit. Aw.
+MID_H_INFO_Secure	Kritisches Ausweichen. Legt fest,\nwie hoch die Chance ist, einem\nkritischen Treffer auszuweichen.
+MID_COMBAT_INFO_Recovery	Erh.
+MID_H_COMBAT_INFO_Recovery	Die Menge an KP, die beim Ziel der\nEinheit durch Heilen wiederherge-\nstellt wird.
+MID_H_INFO_WLV	\x0E\x01\x00\x00-Level
+MID_H_INFO_WLV_Special	Spz.
+MID_H_INFO_WLV_Sword	Schwert
+MID_H_INFO_WLV_Lance	Lanzen
+MID_H_INFO_WLV_Magic	Buch
+MID_H_INFO_WLV_Dagger	Messer
+MID_H_INFO_WLV_Axe	Axt
+MID_H_INFO_WLV_Bow	Bogen
+MID_H_INFO_WLV_Rod	Stab
+MID_H_INFO_WLV_Fist	Ka.tech.
+MID_SYS_BondCombi	Das Band von \x0E\x01\x00\x00 und \x0E\x01\x01\x00
+MID_SYS_BOND_LV	Bandlv.
+MID_SYS_MAX	MAX
+MID_SYS_Infinity	∞
+MID_SYS_STYLE_BONUS	Typ-Bonus!
+MID_SYS_QUALITY_Sword	Schwert-Fertgk.
+MID_SYS_H_QUALITY_Sword	Fertigkeit im Umgang mit\nSchwertern. Wird für den Aufstieg\nin bestimmte Klassen benötigt.
+MID_SYS_QUALITY_Lance	Lanzen-Fertgk.
+MID_SYS_H_QUALITY_Lance	Fertigkeit im Umgang mit Lanzen.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Magic	Magie-Fertgk.
+MID_SYS_H_QUALITY_Magic	Fertigkeit im Umgang mit Magie.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Knife	Messer-Fertgk.
+MID_SYS_H_QUALITY_Knife	Fertigkeit im Umgang mit Messern.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Axe	Axt-Fertgk.
+MID_SYS_H_QUALITY_Axe	Fertigkeit im Umgang mit Äxten.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Bow	Bogen-Fertgk.
+MID_SYS_H_QUALITY_Bow	Fertigkeit im Umgang mit Bogen.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Rod	Stab-Fertgk.
+MID_SYS_H_QUALITY_Rod	Fertigkeit im Umgang mit Stäben.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_QUALITY_Fist	Kampf-Fertgk.
+MID_SYS_H_QUALITY_Fist	Fertigkeiten in Kampftechniken.\nWird für den Aufstieg in bestimmte\nKlassen benötigt.
+MID_SYS_H_HPStock	Erweckungssteine\nStellen alle KP einer Einheit wieder\nher, wenn ihre KP auf 0 fallen.
+MID_SYS_ValueEmpty	--
+MID_SYS_Mt	Kft.
+MID_SYS_Rec	Mt.
+MID_SYS_Eff	Eff.
+MID_SYS_Weight	Gew.
+MID_SYS_Rng	Rw.
+MID_SYS_WLV_Short	Lv.
+MID_H_SYS_Equip	A
+MID_SYS_Target	Ziel
+MID_SYS_Me	Einh.
+MID_H_INFO_DISABLE_ENGAGE	Erfordert Bündnis
+MID_H_INFO_DISABLE_WEAPONLEVEL	Nicht kompatibel mit Einheit
+MID_SYS_GodWeapon_LV	Lv.
+MID_SYS_ExpNext	Noch
+MID_SYS_GOLD_COUNT	Geld
+MID_SYS_ABRIDGEMENT	...
+MID_H_INFO_Param_Base	Grundwert: 
+MID_H_INFO_Param_Correction_Weight	Waffengewicht 
+MID_H_INFO_Param_Correction_God	Emblem 
+MID_H_INFO_Param_Correction_Support	Unterstützung 
+MID_H_INFO_Param_Correction_Terrain	Gelände 
+MID_H_INFO_Param_Correction_Effect	Ausr.-Effekt 
+MID_H_INFO_Param_Correction_Hub	Tätigkeit 
+MID_Material_Iron	Eisen
+MID_Material_Steel	Stahl
+MID_Material_Silver	Silber
+MID_PieceOfBonds	Band-Fragmente
+MID_B_INFO_DAMAGE	Schaden
+MID_MSG_GET	Erhalten
+MID_MSG_COST	Kosten
+MID_MSG_JOIN_UNIT	\x0E\x01\x00\x00 hat sich deiner Gruppe angeschlossen.
+MID_MSG_JOIN_UNIT2	\x0E\x01\x00\x00 und \x0E\x01\x01\x00 haben sich\ndeiner Gruppe angeschlossen.
+MID_MSG_JOIN_UNIT3	\x0E\x01\x00\x00, \x0E\x01\x01\x00 und \x0E\x01\x02\x00\nhaben sich deiner Gruppe angeschlossen.
+MID_MSG_GET_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00 erhalten.
+MID_MSG_GET_ALREADY	Du kannst dieses amiibo erst einlesen, wenn\ndeine Scans zurückgesetzt wurden.
+MID_MSG_GET_ITEM_PLURAL	\x0E\x01\x00\x00\x0E\x01\x01\x00×\x0E\x01\x02\x00 erhalten.
+MID_MSG_GET_GOLD	\x0E\x01\x00\x00\x0E\x01\x01\x00 G erhalten.
+MID_MSG_GET_PIECE	\x0E\x01\x01\x00 \x0E\x01\x00\x00 Fragment(e) des Bandes erhalten.
+MID_MSG_BREAK_ITEM	\x0E\x01\x00\x00\x0E\x01\x01\x00 zerbrach.
+MID_MSG_DEPRIVED_ITEM	Der Gegner stahl \x0E\x01\x00\x00\x0E\x01\x01\x00.
+MID_MSG_LEARN_SKILL	Erlernte Klassenfähigkeit: \x0E\x01\x00\x00\x0E\x01\x01\x00
+MID_MSG_SUPPORT_LEVEL_UP	Der Unterstützungslevel von \x0E\x01\x00\x00\nund \x0E\x01\x01\x00 hat Stufe \x0E\x01\x02\x00 erreicht.
+MID_MSG_POPUP_RELIANCE_EXP_UP	Unterstützungslv. Up!
+MID_MSG_POPUP_RELIANCE_ADDITION	Gespräch verfügbar!
+MID_MSG_TUTORIAL_NEW	\x0E\x01\x00\x00 wurde zum Tutorial hinzugefügt.
+MID_MSG_BOND_LV_CAP	Band-Gespräche sind jetzt verfügbar.
+MID_MSG_FRIENDLIST_NEWPAGE	Neue Seite über \x0E\x01\x00\x00 in „Verbündete“.
+MID_MSG_BONDRING_NEWPAGE	Neue Informationen unter „Ringe“.
+MID_MSG_BOND_LV_CAP_Talk_Attention	Band-Erf. zwischen \x0E\x01\x00\x00 und \x0E\x01\x01\x00 hat das Maximum erreicht. Wähle „Band“ im Enzyklopädie-Menü des Somniel oder auf der Weltkarte, um den Band-Level zu erhöhen.
+MID_MSG_BOND_LV_CAP_RELEASE	Max. Band-Level freigeschaltet!
+MID_MSG_BOND_LV_MAX_amiiboItem	Emblem \x0E\x01\x00\x00 hat mit vielen Verbündeten\nden maximalen Band-Level erreicht.\nDu erhältst: \x0E\x01\x01\x00\x0E\x01\x02\x00.
+MID_MSG_POPUP_BOND_EXP_UP	Bandlv. Up!
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION	Wenn du den Zeitkristall nicht einsetzt, wirst du\nbesiegt und das Spiel ist beendet. Ist das in\nOrdnung?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK	Wenn du den Zeitkristall nicht verwendest,\nwirst du besiegt und die Prüfung ist vorbei.\nIst das in Ordnung?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES	Ja (Game Over)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK	Ja (Prüfung beenden)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO	Nein (Kristall einsetzen)
+MID_MSG_GAMEOVER_CONFIRM	Diesen Kampf von vorn beginnen? Du kannst\ndeine erhaltene Erfahrung behalten.
+MID_MSG_GAMEOVER_YES_EXP_ON	Erf. behalten & Neuversuch
+MID_MSG_GAMEOVER_YES_EXP_OFF	Erf. zurücks. & Neuversuch
+MID_MSG_GAMEOVER_NO	Zum Titelbildschirm
+MID_MSG_BGM_CHANGE	Im Einstellungsmenü gibt es jetzt Optionen für\nMusik. Du kannst die Musik für Spieler- und\nGegnerphasen in Kämpfen außerhalb der Story\nändern.
+MID_MSG_ENGAGE_PLUS_ATTENTION	Die Fähigkeit Bündnis+ von Emblem\n\x0E\x06\x03\x00 kann nicht in Staffelprüfungen\noder Dimensionsprüfungen genutzt werden.
+MID_MSG_STORY_COMPLETE_REWARD	Belohnungen
+MID_MSG_PLAYER_PHASE	SPIELERPHASE
+MID_MSG_ENEMY_PHASE	GEGNERPHASE
+MID_MSG_ALLY_PHASE	VERBÜNDETENPHASE
+MID_MSG_OFFENSE_PHASE	ANGREIFERPHASE
+MID_MSG_DEFENSE_PHASE	VERTEIDIGERPHASE
+MID_MSG_PHASE_TURN	Verbleibende Züge: \x0E\x01\x00\x00
+MID_MSG_AUTO_TROPE	Auto-Kampf...
+MID_MSG_SKIP_TROPE	Überspringen...
+MID_MSG_LEVEL_UP	LEVEL UP!
+MID_MSG_CLASS_CHANGE	NEUE KLASSE!
+MID_MSG_STAGE_CLEAR	ABGESCHLOSSEN!
+MID_MSG_GAME_OVER	GAME OVER
+MID_MSG_POPUP_CRITICAL	Kritisch!
+MID_MSG_POPUP_BREAK	Bruch!
+MID_MSG_POPUP_MISS	Daneben!
+MID_MSG_POPUP_NO_DAMAGE	Kein Schaden!
+MID_MSG_POPUP_SMASH	Schmettern!
+MID_MSG_POPUP_CHAINATTACK	Koop-Schlag!
+MID_MSG_POPUP_CHAINGUARD	Protektion!
+MID_MSG_POPUP_DUALGUARD	Doppelverteidigung!
+MID_KEYHELP_MYFACE_SELECT	Aussehen wählen
+MID_KEYHELP_BIRTHDAY_SELECT	Tag/Monat
+MID_KEYHELP_MAP_HELP	Details
+MID_KEYHELP_MINIGAME_OPERATION_HELP	Steuerung
+MID_KEYHELP_MAP_NOT_ACTION	Einh. wechseln
+MID_KEYHELP_MAP_UNIT_VIEWER	Einheitendetails
+MID_KEYHELP_MAP_CANCEL_ORDERS	Auto-Kampf abbr.
+MID_KEYHELP_MAP_SKIP	Überspringen
+MID_KEYHELP_GMAP_LOOK_OVER	Herauszoomen
+MID_KEYHELP_GMAP_MOVE_NEWEST	Nächstes Kapitel
+MID_KEYHELP_GMAP_FREE_CAMERA	Freie Kamera
+MID_KEYHELP_MAP_ACTION	Karte wechseln
+MID_KEYHELP_DASH	Rennen
+MID_KEYHELP_MENU	Menü
+MID_KEYHELP_MENU_ACTION	Menü wechseln
+MID_KEYHELP_CATEGORY_ACTION	Kategorie wechseln
+MID_KEYHELP_TALK_AUTOPLAY	Auto-Dialoge
+MID_KEYHELP_TALK_AUTOPLAY_CANCEL	Auto-Dialoge abbr.
+MID_KEYHELP_TALK_LOG	Verlauf
+MID_KEYHELP_TALK_LOG_VOICE	Stimme anhören
+MID_KEYHELP_MENU_DECIDE	Bestätigen
+MID_KEYHELP_MENU_SELECT	Auswählen
+MID_KEYHELP_MENU_RETURN	Zurück
+MID_KEYHELP_MENU_AUTO	Alle optimieren
+MID_KEYHELP_MENU_TROOPLIST_CHANGE	Einh. wechseln
+MID_KEYHELP_MENU_HELP	Details
+MID_KEYHELP_MENU_ASSISTINFO_CHANGE	Zusatzinfos
+MID_KEYHELP_MENU_WEAPON_CHANGE	Waffe wechseln
+MID_KEYHELP_MENU_UNIT_CHANGE	Einh. wechseln
+MID_KEYHELP_MENU_CHARACTER_CHANGE	Verb. wechsel.
+MID_KEYHELP_MENU_GOD_CHANGE	Embleme wechseln
+MID_KEYHELP_MENU_HELP_CHANGE	Info wechseln
+MID_KEYHELP_MENU_ABILITY	Band-Effekte
+MID_KEYHELP_MENU_BATTLE_START	Los!
+MID_KEYHELP_MENU_TUTORIAL	Tutorial
+MID_KEYHELP_MENU_COUNTRY_CHANGE	Länder wechs.
+MID_KEYHELP_MENU_ZOOM_PICTURE	Porträt-Zoom
+MID_KEYHELP_MENU_UNIT_SELECT	Übersicht
+MID_KEYHELP_MENU_LOOK_UNIT	Ansicht
+MID_KEYHELP_MENU_CAMERA_CHANGE	Kamera bewegen
+MID_KEYHELP_MENU_CAMERA_IN_OUT	Vertikale Kamera
+MID_KEYHELP_MENU_CAMERA_OPERATION	Kamera steuern
+MID_KEYHELP_MENU_BACK_CHANGE	Hintergrund
+MID_KEYHELP_MENU_UI_HIDE	Anzeige
+MID_KEYHELP_MENU_EYES	Kamerablick
+MID_KEYHELP_MENU_RESET	Zurücksetzen
+MID_KEYHELP_MENU_SORT	Sortieren
+MID_KEYHELP_MENU_FISHING_CAST	Auswerfen
+MID_KEYHELP_MENU_FISHING_CAST_STOP	Abbrechen
+MID_KEYHELP_MENU_ACHIEVEMENT	Belohnung holen
+MID_KEYHELP_MENU_ACHIEVEMENT_ALL	Alle abholen
+MID_KEYHELP_MOVIE_CAPTION	Untertitel
+MID_KEYHELP_EDIT_TURN	Drehen
+MID_KEYHELP_EDIT_PUT	Platzieren
+MID_KEYHELP_EDIT_DELETE	Löschen
+MID_KEYHELP_EDIT_TACTICS_CHANGE	Befehl
+MID_KEYHELP_EDIT_LIST	Geländeliste
+MID_KEYHELP_EDIT_OBJCHANGE	Gelände wechseln
+MID_KEYHELP_EDIT_UNDO	Rückgängig
+MID_KEYHELP_NEXT	Weiter
+MID_KEYHELP_ANIMAL_VIEW	Ansehen
+MID_KEYHELP_ANIMAL_ACTION	Aktion
+MID_KEYHELP_REWIND_TURN	Vor./Nächst. Zug
+MID_KEYHELP_REWIND_ACTION	Auswählen
+MID_WEAPON_NAME_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE	\x0E\x01\x00\x00\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00\x0E\x01\x02\x00
+MID_RING_RANK_S	S
+MID_RING_RANK_A	A
+MID_RING_RANK_B	B
+MID_RING_RANK_C	C
+MID_LOCALIZE_COLON	
+MID_LOCALIZE_HYPHEN	 - 
+MID_LOCALIZE_CN_THIRD_M	他
+MID_LOCALIZE_CN_THIRD_F	她
+MID_LOCALIZE_TW_THIRD_M	他
+MID_LOCALIZE_TW_THIRD_F	她
+MID_LANGUAGE_JP_JAPANESE	Japanisch
+MID_LANGUAGE_US_ENGLISH	Englisch (Nordamerika)
+MID_LANGUAGE_US_FRENCH	Französisch (Kanada)
+MID_LANGUAGE_US_SPANISH	Spanisch (Lateinamerika)
+MID_LANGUAGE_EU_ENGLISH	Englisch (Europa)
+MID_LANGUAGE_EU_FRENCH	Französisch (Europa)
+MID_LANGUAGE_EU_SPANISH	Spanisch (Europa)
+MID_LANGUAGE_EU_GERMAN	Deutsch
+MID_LANGUAGE_EU_ITALIAN	Italienisch
+MID_LANGUAGE_CN_TRADITIONAL	Chinesisch (Langzeichen)
+MID_LANGUAGE_CN_SIMPLIFIED	Chinesisch (Kurzzeichen)
+MID_LANGUAGE_KR_KOREAN	Koreanisch
+MID_LANGUAGE_VOICE_JAPANESE	Japanisch
+MID_LANGUAGE_VOICE_ENGLISH	Englisch
+MID_MSG_GET_ITEM_FEH	Du hast eine besondere Belohnung erhalten!

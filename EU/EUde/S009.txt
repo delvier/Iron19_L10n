@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08リュール\nIrgendetwas fühlt sich an diesem Ort...\nunnatürlich an.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08シグルド\nIhr spürt es ebenfalls? Ich habe keine Erklärung\ndafür, doch dieser Ort besitzt große Ähnlichkeit\nmit Chalphy.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nChalphy? Davon habe ich noch nie gehört.\nIst das ein Ort in Eurer Welt?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08シグルド\nJa, genau. Das ist mein Heimatland.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08シグルド\nIch hatte einst gedacht, ich würde dort in\nChalphy ein ruhiges Leben führen, zusammen\nmit meiner Frau, Deirdre.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nWas ist passiert?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08シグルド\nDeirdre wurde von den Anhängern eines\ndunklen Glaubens entführt. Ihr Leben wurde\nnach den Begierden ihrer Entführer verzerrt.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08シグルド\nSie sollte bei der Wiedererweckung eines dunk-\nlen Gottes helfen, welche ein neues Zeitalter\nvon Schrecken und Zerstörung verkündete.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nW-wie? Was? Das ist furchtbar!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08シグルド\nAh, doch es gab ein Licht... Eine Hoffnung\nfür unsere Zukunft.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nWie das?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08シグルド\nIch glaube, ich werde diesen Teil der Geschichte\nnach der Prüfung mit Euch teilen.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08シグルド\nNehmt Eure Waffe. Denn ich bin die Prüfung,\nder Ihr Euch stellen müsst, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08シグルド\nBesteht diese Prüfung, und unser Band wird\nstärker werden. Meine Macht wird die Eure\nwerden.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nUnd wir müssen an diesem Ort kämpfen, der\naussieht wie Eure Heimat... Das muss von\nBedeutung sein.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08シグルド\nGanz genau. Nun, verdient Euch den Sieg. Zeigt\nmir, dass Eure Fähigkeiten ausreichen, um die\nmeinen zu übertreffen!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nIch werde Euch besiegen, Sigurd. Ich werde\nalles geben, was ich habe!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nDie Prüfung verlangt Folgendes von Euch:\nBahnt Euch einen Weg zu mir und beansprucht\nden Sieg für Euch!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nUm Sigurd zu erreichen, müssen wir die Brücke\ndort überqueren.\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nUnd wenn wir die Festung dort einnehmen\nkönnen, wären wir in der Lage, sie zu nutzen.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x03\x02\x0E\x0Cアルフレッド\nDer Kommandant der Festung ist gefallen! Die\nBrücke gehört uns! Lasst uns hier etwas rasten,\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nRelax\n\x0E\x03\x02\x0A\x08シグルド\nWoran setzt Ihr Euer Leben? Sagt mir, wie\nIhr Euch die Welt vorstellt, nachdem Euer Krieg\nvorüber sein wird.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nIch erhoffe mir eine friedliche Welt... für mich,\nmeine Freunde, für alle!\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x0A\x08リュール\nEine Welt, die wir für uns bauen, in der keiner\ndurch die Gier anderer Leid erfährt.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nFür die Verwirklichung dieser Träume braucht\nes Macht. Zeigt mir, dass Ihr diese Macht\nbesitzt!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1A\nヴァンドレ\x0CStatus\n\x0E\x03\x02\x0C\nヴァンドレ\nEs ist nicht das erste Mal, dass wir unsere\nSchwerter kreuzen. Erinnert Ihr Euch an das\nTraining mit Königin Lumera?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x1A\x08シグルド\x0ESerious\n\x0E\x03\x02\x0A\x08シグルド\nNatürlich. Wie könnte ich es mir jemals erlauben,\nes zu vergessen? Ach, diese Tage liegen weit\nhinter uns.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nSo müssen wir weiterziehen, Ihr und ich, in die\nZukunft. Wir dürfen es nicht zulassen, dass ihre\nWünsche vergebens waren.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\nヴァンドレ\x0CStrike\n\x0E\x03\x02\x0C\nヴァンドレ\nMacht Euch auf etwas gefasst, Lord Sigurd.\nDiesen Schlag widme ich... Königin Lumera!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08シグルド\nGut gemacht. Ihr habt die Prüfung bestanden,\nund Eure Fähigkeiten überwältigend gezeigt.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nDas war ich nicht allein. Wir alle haben den Sieg\ngemeinsam errungen.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08シグルド\nRichtig. Freunde, Verbündete, Familie... Jeder,\nmit dem Euch ein Band verbindet, wird Euch\nKraft geben.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08シグルド\nNun ist der Moment der Wahrheit gekommen.\nMöchtet Ihr den Tod Eurer Mutter, Lumera,\nrächen?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nIch...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nAls ich sie verlor, war ich traurig... und wütend.\nIch dachte, ich könnte demjenigen niemals\nverzeihen, der ihr das Leben nahm.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nUnd nun fragt Ihr mich, ob ich Rache will...\nund ich weiß es nicht mehr.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08シグルド\nIch habe viele Freunde, auch Familie, in der\nSchlacht damals verloren. Und doch hege ich\nkeinen Groll.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08シグルド\nIch weiß nur zu gut, was Leid bedeutet.\nGenauso wie ich weiß, dass es nicht nur eine\nWahrheit gibt.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08シグルド\nDieses Wissen habe ich auch meinem Sohn\nSeliph mit auf den Weg gegeben. Ich hoffte, es\nwürde ihn in seiner Zukunft leiten.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nEurem Sohn? Ihr und Deirdre hattet einen\nSohn?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08シグルド\nIn der Tat. Nun hört gut zu. Ihr tragt eine stolze\nund edle Überzeugung im Herzen.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08シグルド\nDas Wissen um Leid, Gerechtigkeit und\nWahrheit ist subjektiv. Könnt Ihr dennoch mit\nÜberzeugung zur Waffe greifen?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nNatürlich. Dieser Krieg wird enden – und ich\nwerde dafür Sorge tragen, dass danach auf der\nWelt dauerhaft Frieden herrschen wird.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08シグルド\nEine perfekte Antwort, \x0E\x0A\x006\x16mein Freund\x1Cmeine Freundin.\nUnd die, die ich zu hören hoffte.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08シグルド\nDas bedeutet, dass ich an Eurer Seite bleibe\nund über Euch wachen werde, bis das Kämpfen\nsein Ende gefunden hat.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

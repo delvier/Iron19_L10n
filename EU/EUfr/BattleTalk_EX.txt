@@ -1,0 +1,58 @@
+MID_DIE_El_E	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x10\x04エル\x08Pain\n\x0E\x03\x02\x06\x04エル\nNon ! Je ne puis succomber... Pas encore...\x0E\x04\x00\x00
+MID_DIE_CASUAL_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x10\x04エル\x08Pain\n\x0E\x03\x02\x06\x04エル\nJe ne peux tomber ici... Pour le salut\ndu Dragon divin, je dois... me replier.\x0E\x04\x00\x00
+MID_DIE_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x10\x04エル\x08Pain\n\x0E\x03\x02\x06\x04エル\nPardonnez-moi, Votre Divinité. Le repos éternel\nm'attend... Quoi qu'il advienne, restez en vie...\x0E\x04\x00\x00
+MID_DIE_Il	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04イル\x02t\n\x0E\x05\x01\x10\x04イル\x08Pain\n\x0E\x03\x02\x06\x04イル\nJe ne peux plus combattre...\x0E\x04\x00\x00
+MID_DIE_CASUAL_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x16\nラファール\x08Pain\n\x0E\x03\x02\x0C\nラファール\nPardonnez-moi, Votre Divinité...\nJe dois... battre en retraite.\x0E\x04\x00\x00
+MID_DIE_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x16\nラファール\x08Pain\n\x0E\x03\x02\x0C\nラファール\nLa mort est le seul sort que je mérite...\x0E\x04\x00\x00
+MID_DIE_CASUAL_Selestia_E	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x18\x0Cセレスティア\x08Pain\n\x0E\x03\x02\x0E\x0Cセレスティア\nDésolée de vous décevoir... Je dois me retirer\nde la ligne de front.\x0E\x04\x00\x00
+MID_DIE_CASUAL_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x18\x0Cセレスティア\x08Pain\n\x0E\x03\x02\x0E\x0Cセレスティア\nMon échec jette le déshonneur sur les Quatre\nZéphyrs. Il ne me reste plus qu'à me retirer.\x0E\x04\x00\x00
+MID_DIE_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x18\x0Cセレスティア\x08Pain\n\x0E\x03\x02\x0E\x0Cセレスティア\nJe vais retrouver les amis que j'aime tant...\nJ'ai été vraiment... heureuse.\x0E\x04\x00\x00
+MID_DIE_CASUAL_Gregory_E	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x16\nグレゴリー\x08Pain\n\x0E\x03\x02\x0C\nグレゴリー\nJ'ai mal, très mal... Je ferais bien de me\nretirer avant d'y rester pour de bon...\x0E\x04\x00\x00
+MID_DIE_CASUAL_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x16\nグレゴリー\x08Pain\n\x0E\x03\x02\x0C\nグレゴリー\nAïe aïe aïe... Cette douleur est insupportable !\nMa vie est trop précieuse, je dois me retirer.\x0E\x04\x00\x00
+MID_DIE_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x16\nグレゴリー\x08Pain\n\x0E\x03\x02\x0C\nグレゴリー\nCette douleur... ce doit être la vie qui me quitte.\nEt ces larmes... la vie heureuse que je délaisse...\x0E\x04\x00\x00
+MID_DIE_CASUAL_Madeline_E	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x16\nマデリーン\x08Pain\n\x0E\x03\x02\x0C\nマデリーン\nMe voilà blessée... Je suis désolée,\nmais il me faut me retirer.\x0E\x04\x00\x00
+MID_DIE_CASUAL_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x16\nマデリーン\x08Pain\n\x0E\x03\x02\x0C\nマデリーン\nJe ne suis plus utile à personne dans cet état.\nC'est regrettable, mais il me faut me retirer.\x0E\x04\x00\x00
+MID_DIE_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x16\nマデリーン\x08Pain\n\x0E\x03\x02\x0C\nマデリーン\nMauvier... est-ce vraiment toi ? J'ai mené\nune vie heureuse, comme tu le souhaitais...\x0E\x04\x00\x00
+MID_EX1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01 \x0Cセレスティア\x10Surprise\n\x0E\x03\x02\x0E\x0Cセレスティア\nAlors voici le « moi » de ce monde ?!\x0E\x04\x00\x00
+MID_EX1_#002	\x0E\x03\x00\x0C\x06セピア\x02b\n\x0E\x05\x01\x14\x06セピア\nAngry\n\x0E\x03\x02\x08\x06セピア\nVous avez mon visage ? J'ignore quelle est\ncette illusion, mais elle ne me sied guère.\nHors de ma vue !\x0E\x04\x00\x00
+MID_EX1_#003	\x0E\x05\x01\x1A\x0Cセレスティア\nAngry\n\x0E\x03\x02\x0E\x0Cセレスティア\nQuel pouvoir formidable... Alors dans ce monde,\nmon autre moi a juré allégeance à l'ennemi ?\x0E\x04\x02\x00
+MID_EX1_#004	Et moi qui pensais naïvement qu'il aidait le\nDragon divin dans sa lutte contre Sombron...\x0E\x04\x00\x00
+MID_EX2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1E\nグレゴリー\x10Surprise\n\x0E\x03\x02\x0C\nグレゴリー\nJe refusais d'y croire, mais... me voici bien\nface au « moi » de ce monde.\x0E\x04\x00\x00
+MID_EX2_#002	\x0E\x03\x00\x0A\x04グリ\x02b\n\x0E\x05\x01\x18\x04グリ\x10Surprise\n\x0E\x03\x02\x06\x04グリ\nQuel choc... On se ressemble comme deux\ngouttes d'eau ! C'est un tour du Dragon divin ?\x0E\x04\x02\x00
+MID_EX2_#003	\x0E\x05\x01\x12\x04グリ\nSmile\nSi tu es moi, alors la douleur doit te plaire...\nJe répondrai à tes attentes avant de te tuer !\x0E\x04\x00\x00
+MID_EX2_#004	\x0E\x05\x01\x16\nグレゴリー\x08Pain\n\x0E\x03\x02\x0C\nグレゴリー\nHein ? Mais qu'est-ce que tu racontes ?\nArrête de dire n'importe quoi !\x0E\x04\x02\x00
+MID_EX2_#005	Soit. Je déteste l'idée de me frapper moi-même,\nmais... je n'ai pas d'autre choix, je le crains.\x0E\x04\x00\x00
+MID_EX3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マロン\x02b\n\x0E\x05\x01\x18\x06マロン\x0EStandBy\n\x0E\x03\x02\x08\x06マロン\nHé, mais qu'est-ce que... Tu me ressembles !\nBien, ta défaite me vaudra le plein d'éloges.\x0E\x04\x00\x00
+MID_EX3_#002	\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nAngry\n\x0E\x03\x02\x0C\nマデリーン\nC'est impensable. En ce monde, j'ai donc\npris les armes contre le Dragon divin ?\x0E\x04\x02\x00
+MID_EX3_#003	Et je me vois si avide de flagorneries...\nTu n'en tireras rien, crois-moi.\x0E\x04\x00\x00
+MID_EX3_#004	\x0E\x05\x01\x14\x06マロン\nAngry\n\x0E\x03\x02\x08\x06マロン\nÉpargne-moi tes sermons, la pâquerette bleue !\nTu es jalouse de mon aplomb, c'est tout.\x0E\x04\x00\x00
+MID_EX3_#005	\x0E\x05\x01\x16\x06マロン\x0CStrike\n\x0E\x05\x01\x14\nマデリーン\x06Sad\n\x0E\x03\x02\x0C\nマデリーン\nJe ne t'envie en rien, si ce n'est d'avoir\nencore Mauvier à tes côtés.\x0E\x04\x02\x00
+MID_EX3_#006	\x0E\x05\x01\x18\nマデリーン\nAngry\nJ'espère que tu sauras profiter de chaque\ninstant passé avec lui...\x0E\x04\x00\x00
+MID_TK_El1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nN'ayez crainte, \x0E\x01\x00\x00. Je suis ici désormais,\net je prendrai soin de vous.\x0E\x04\x00\x00
+MID_TK_Rafale1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nCessez vos jérémiades, \x0E\x01\x00\x00.\nVous allez venir avec moi.\x0E\x04\x00\x00
+MID_TK_Selestia1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x16\x0Cセレスティア\x06Shy\n\x0E\x03\x02\x0E\x0Cセレスティア\nJ'étais si inquiète à votre sujet, \x0E\x01\x00\x00...\nAcceptez-vous de me suivre ?\x0E\x04\x00\x00
+MID_TK_Gregory1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\nJ'imagine votre solitude et votre désarroi,\n\x0E\x01\x00\x00. Mais nous voilà ensemble à présent !\x0E\x04\x00\x00
+MID_TK_Madeline1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x1A\nマデリーン\x0CNormal\n\x0E\x03\x02\x0C\nマデリーン\nVous voici, \x0E\x01\x00\x00. Partons retrouver\nles autres, si vous le voulez bien.\x0E\x04\x00\x00
+MID_TK_El2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nJe ne puis utiliser un autre Emblème, néanmoins\nje peux vous mettre en sûreté. Venez.\x0E\x04\x00\x00
+MID_TK_Rafale2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nContrôler deux Emblèmes à la fois, c'est hors\nde ma portée... Je me contenterai de vous\nemmener avec moi.\x0E\x04\x00\x00
+MID_TK_Selestia2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1C\x0Cセレスティア\x0CNormal\n\x0E\x03\x02\x0E\x0Cセレスティア\nJe ne peux emprunter le pouvoir d'un autre\nEmblème, mais je vous mettrai en lieu sûr.\x0E\x04\x00\x00
+MID_TK_Gregory2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\nUn Emblème m'accompagne déjà,\nmais je ne peux vous laisser ici...\nJe vous emmène avec moi.\x0E\x04\x00\x00
+MID_TK_Madeline2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nAngry\n\x0E\x03\x02\x0C\nマデリーン\nJe ne puis m'allier à deux Emblèmes à la fois,\nmais je ne vous laisserai pas pour autant. Venez.\x0E\x04\x00\x00
+MID_OP5_El1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nAngry\n\x0E\x03\x02\x06\x04エル\nJe suis venue en ce monde pour vous mener\nà la victoire, Votre Divinité. N'ayez crainte !\x0E\x04\x00\x00
+MID_OP5_Rafale1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nVous m'avez sauvé du désespoir. À moi de vous\nrendre la pareille... Abattons donc ce monstre !\x0E\x04\x00\x00
+MID_OP5_Selestia1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nAngry\n\x0E\x03\x02\x0E\x0Cセレスティア\nNotre Dragon divin a disparu à jamais.\nLes Quatre Zéphyrs s'assureront qu'une\ntelle tragédie ne se reproduise pas !\x0E\x04\x00\x00
+MID_OP5_Gregory1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\nNous sommes arrivés jusqu'ici, et la douleur ne\nm'arrêtera pas... Je vous offre ma protection,\nVotre Divinité. Vous pouvez compter sur nous !\x0E\x04\x00\x00
+MID_OP5_Madeline1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nAngry\n\x0E\x03\x02\x0C\nマデリーン\nJe me suis entraînée en vue de ce jour. Je me\nbattrai avec honneur pour vous, pour Mauvier.\x0E\x04\x00\x00
+MID_EX4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x0E\x04エル\x06Die\n\x0E\x03\x02\x06\x04エル\nJe refuse de me laisser envahir par la nostalgie,\nmais votre aura est exactement comme dans\nmes souvenirs.\x0E\x04\x00\x00
+MID_EX4_#002	\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01&\x18M026_ソンブル_人型\nAngry\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nTon visage m'est familier...\x0E\x04\x00\x00
+MID_EX4_#003	\x0E\x05\x01\x12\x04エル\nAngry\n\x0E\x03\x02\x06\x04エル\nJe suis la fille d'un autre Sombron,\ndans un autre monde.\x0E\x04\x02\x00
+MID_EX4_#004	\x0E\x05\x01\x16\x04エル\x0ESerious\nMes traits doivent vous rappeler l'un de vos\nenfants disparus depuis longtemps désormais...\x0E\x04\x02\x00
+MID_EX4_#005	\x0E\x05\x01\x12\x04エル\nAngry\nNous sommes tous deux des Dragons déchus,\nmais nous luttons dans des camps opposés.\nRien de plus.\x0E\x04\x02\x00
+MID_EX4_#006	\x0E\x05\x01\x14\x04エル\x0CStrike\nEt je compte bien défendre le Dragon divin\njusqu'à mon dernier souffle. Préparez-vous !\x0E\x04\x00\x00
+MID_EX5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x14\nラファール\x06Sad\n\x0E\x03\x02\x0C\nラファール\nSouvent me suis-je demandé ce que je\nressentirais en revoyant mon père...\x0E\x04\x02\x00
+MID_EX5_#002	\x0E\x05\x01\x14\nラファール\x06Die\nJe le sais, désormais.\x0E\x04\x00\x00
+MID_EX5_#003	\x0E\x05\x01\x1A\nラファール\x0CNormal\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01&\x18M026_ソンブル_人型\nAngry\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nTu ne peux être mon enfant.\nIls ont tous disparu.\x0E\x04\x00\x00
+MID_EX5_#004	\x0E\x03\x02\x0C\nラファール\nJe suis un Dragon déchu d'un autre monde.\nNos liens sont, au mieux, théoriques.\x0E\x04\x02\x00
+MID_EX5_#005	\x0E\x05\x01\x14\nラファール\x06Sad\nLe Sombron que je connaissais m'a poussé\nà commettre de terribles exactions afin de\ndevenir son héritier...\x0E\x04\x02\x00
+MID_EX5_#006	\x0E\x05\x01\x18\nラファール\nAngry\nJ'ai mené mon monde à la ruine. Peut-être\npuis-je me racheter en rendant espoir à celui-ci.\x0E\x04\x02\x00
+MID_EX5_#007	En vous réduisant à néant, je prouverai une fois\npour toutes que je vaux mieux que mon père !\x0E\x04\x00\x00

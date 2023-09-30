@@ -1,0 +1,159 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nCosì questo è il Solm. È un po'... sabbioso.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08アイビー\nIl deserto ricopre la maggior parte del regno.\nQuesto si chiama Tullah.\x0E\x04\x02\x00
+MID_OP1_#003	E come avrete già notato, fa ben più caldo che\nin Elusia. Mi sento sciogliere.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nCosa facciamo adesso, Drago Divino?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nPenso che dovremmo correre al palazzo.\nSperando che i Segugi non ci abbiano preceduti.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08アイビー\nMentre ero in Elusia, in effetti i Quattro Segugi\nhanno fatto visita al Solm più volte.\x0E\x04\x02\x00
+MID_OP1_#007	Ma tornavano sempre a mani vuote, quindi\nimmagino che il palazzo sia ben difeso.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nGrazie, Ivy. È utile avere una nemica come\namica.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08アイビー\nLo prenderò come un complimento.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nQual è l'anello che è stato affidato al Solm?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08アイビー\nL'anello dell'Eroe della Fiamma. Si dice sia\nuno dei più potenti.\x0E\x04\x02\x00
+MID_OP1_#012	Inutile sottolineare che sarebbe un bel vantaggio\nper noi.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nSembra proprio ciò di cui abbiamo bisogno.\nDiamoci da fare.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nUhm... da che parte era il palazzo?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08アイビー\nDrago Divino... mi sa che siamo già passati\nvicino a quella roccia enorme.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nCosa? Davvero?! Mi devo essere confus\x0E\x0A\x00\x08\x02o\x02a...\nIl terreno mi sembra tutto uguale.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x0A\x08アイビー\nVorrei aiutarti, ma la mia conoscenza della\ngeografia solmica viene solo dalle mappe.\x0E\x04\x02\x00
+MID_OP2_#005	Un momento, principe Alfred, principe Diamant.\x0E\x04\x02\x00
+MID_OP2_#006	Le vostre nazioni sono alleate del Solm.\nNon avete mai fatto visita al palazzo?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nSì, ma molto tempo fa. Non mi ricordo la strada.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0E\x0Cアルフレッド\nIo partii dal Firene, quindi non ho idea di\ncome ci si arrivi dall'Elusia.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08アイビー\nE dunque, nessuno di noi sa come arrivarci.\x0E\x04\x02\x00
+MID_OP2_#010	...\x0E\x04\x02\x00
+MID_OP2_#011	Tocca a me dirlo. Ci siamo persi.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0A\x08リュール\nPare proprio di sì.\x0E\x04\x02\x00
+MID_OP2_#013	Non possiamo permetterci di perdere tempo\ncosì. Dobbiamo cercare un punto di riferimento.\x0E\x04\x00\x00
+MID_OP2C_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x10\nフォガート\x021\x0E\x06\x00&\nフォガート\x18MPID_Unknown\n\x0E\x03\x02\x0C\nフォガート\nEhi, sembrate forestieri! Come vi siete\nabbigliati?\x0E\x04\x00\x00
+MID_OP2C_#002	\x0E\x03\x02\x0A\x08リュール\nUhm...\x0E\x04\x00\x00
+MID_OP2C_#003	\x0E\x03\x02\x0C\nフォガート\nScusate, non volevo spaventarvi,\nma è chiaro che non sapete dove andare.\x0E\x04\x00\x00
+MID_OP2C_#004	\x0E\x03\x02\x0A\x08リュール\nE tu chi sei?\x0E\x04\x00\x00
+MID_OP2C_#005	\x0E\x03\x02\x0C\nフォガート\nIo sono quello che si occupa di mantenere la\npace nel deserto di Tullah. Chiamatemi Fogado.\x0E\x04\x02\x00
+MID_OP2C_#006	\x0E\x06\x00$\nフォガート\x16MPID_Fogato\nCome capo delle sentinelle, do una mano a chi\nne ha bisogno. Se vi serve aiuto, chiamatemi.\x0E\x04\x00\x00
+MID_OP2C_#007	\x0E\x03\x02\x0A\x08リュール\nGrazie mille. Io sono il Drago Divino\n\x0E\x06\x03\x00. Vengo dal Lythos.\x0E\x04\x00\x00
+MID_OP2C_#008	\x0E\x03\x02\x0C\nフォガート\nChi sei?! Cioè, volete dire che il Drago Divino\nè qui nel mio deserto? Non state scherzando?\x0E\x04\x00\x00
+MID_OP2C_#009	\x0E\x03\x02\x0A\x08リュール\nGià.\x0E\x04\x00\x00
+MID_OP2C_#010	\x0E\x03\x02\x0C\nフォガート\nE chi se lo aspettava!\nScusate, non volevo essere scortese!\x0E\x04\x00\x00
+MID_OP2C_#011	\x0E\x03\x02\x0A\x08リュール\nNon ti preoccupare... dammi pure del tu.\x0E\x04\x00\x00
+MID_OP2C_#012	\x0E\x03\x02\x0C\nフォガート\nNon mi aspettavo che fossi così alla mano.\nFantastico!\x0E\x04\x00\x00
+MID_OP2C_#012_2	\x0E\x03\x02\x0C\nフォガート\nAllora, cosa ti porta qui?\x0E\x04\x00\x00
+MID_OP2C_#013	\x0E\x03\x02\x0A\x08リュール\nDobbiamo raggiungere il palazzo di Solm,\nma non sappiamo da che parte andare.\x0E\x04\x00\x00
+MID_OP2C_#014	\x0E\x03\x02\x0C\nフォガート\nÈ il vostro giorno fortunato. Forza, seguitemi.\nConosco la strada a memoria.\x0E\x04\x00\x00
+MID_OP2C_#015	\x0E\x03\x02\x0A\x08リュール\nDavvero?\x0E\x04\x00\x00
+MID_OP2C_#016	\x0E\x03\x02\x0C\nフォガート\nMa certo! Da qui si estende un'immensa distesa\ndi sabbia ed è difficile orientarsi.\x0E\x04\x00\x00
+MID_OP2C_#016_2	\x0E\x03\x02\x0C\nフォガート\nSiete stati fortunati a incontrarmi!\x0E\x04\x00\x00
+MID_OP2_2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nGrazie, Fogado! Apprezziamo davvero il tuo\naiuto.\x0E\x04\x00\x00
+MID_OP2_2_#002	\x0E\x03\x00\x10\nフォガート\x022\n\x0E\x03\x02\x0C\nフォガート\nFigurati! Però prima ho una piccola faccenda\nda sbrigare.\x0E\x04\x00\x00
+MID_OP2_2_#003	\x0E\x03\x02\x0A\x08リュール\nUna faccenda? Di che tipo?\x0E\x04\x00\x00
+MID_OP2_2_#004	\x0E\x03\x02\x0C\nフォガート\nUna missione, diciamo. Sai, qualche tempo fa\nsono cominciate a spuntare dappertutto delle\ncreature mostruose.\x0E\x04\x02\x00
+MID_OP2_2_#005	Come capitano delle sentinelle, quando mi\ncomunicano un problema nel deserto, devo\nandare subito a occuparmene.\x0E\x04\x02\x00
+MID_OP2_2_#006	Mi dispiace, riposatevi un attimo e vi porterò\nal palazzo appena ho finito.\x0E\x04\x00\x00
+MID_OP2_2_#007	\x0E\x03\x02\x0A\x08リュール\nPerché non ci porti con te, invece? Possiamo\naiutarti.\x0E\x04\x00\x00
+MID_OP2_2_#008	\x0E\x03\x02\x0C\nフォガート\nSarebbe fantastico! I miei amici sono andati\navanti, raggiungiamoli.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x024\n\x0E\x03\x02\x0C\nフォガート\nÈ peggio di quanto pensassi.\x0E\x04\x02\x00
+MID_OP3_#002	Ah, eccoli là! Pandreo! Bunet!\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x00\x0E\x08パンドロ\x021\n\x0E\x03\x00\x0A\x04ボネ\x023\n\x0E\x03\x02\x0A\x08パンドロ\nFogado? Perché ci hai messo così tanto?\nCominciavo a pensare che volessi farci fuori.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x06\x04ボネ\nSe ci avessi fatto aspettare ancora un po',\nsaremmo finiti in pasto a questi mostri.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x0C\nフォガート\nScusate, amici! Ma guardate, ho portato rinforzi!\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x02\x0A\x08パンドロ\nRinforzi? Che intendi?\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x02\x0C\nフォガート\nOh, Pandreo, non so se le tue pie orecchie\nsono pronte per questa notizia. Tieniti forte.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nSalve, sono il Drago Divino \x0E\x06\x03\x00.\nPiacere di conoscervi.\x0E\x04\x00\x00
+MID_OP3_#009	\x0E\x03\x02\x0A\x08パンドロ\nAh, il Drago Divino.\x0E\x04\x02\x00
+MID_OP3_#010	IL DRAGO DIVINO?!\x0E\x04\x02\x00
+MID_OP3_#011	Come ti è venuto in mente di portare qui\nil Drago Divino?!\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x06\x04ボネ\nI suoi capelli... sembrano due sorbetti che\nsi sciolgono nel caldo del deserto...\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x0A\x08パンドロ\nEhi, stai parlando di una divinità, attento a\nquello che dici!\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x0C\nフォガート\nSapevo che vi sareste agitati.\nDrago Divino, questi due sono i miei amici,\nsentinelle anche loro.\x0E\x04\x02\x00
+MID_OP3_#015	Va bene, allora? Sei pront\x0E\x0A\x00\x08\x02o\x02a a combattere\ncon noi?\x0E\x04\x00\x00
+MID_OP3_#016	\x0E\x03\x02\x0A\x08リュール\nPront\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M012_村人Ａ\x02t\n\x0E\x05\x01\x1C\x10M012_村人Ａ\x08Pain\n\x0E\x03\x02\x12\x10M012_村人Ａ\nAiuto! Aiuto!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nRelax\n\x0E\x03\x02\x0C\nフォガート\nForza, mettiamoci al lavoro, sentinelle... e ospiti!\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x0E\x08パンドロ\x02b\n\x0E\x05\x01\x18\x08パンドロ\x0CStatus\n\x0E\x03\x02\x0A\x08パンドロ\nFinalmente comincia la festa! Auuuuh!\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x03\x01\x0A\x08パンドロ\n\x0E\x03\x00\x0A\x04ボネ\x02b\n\x0E\x05\x01\x14\x04ボネ\x0CStatus\n\x0E\x03\x02\x06\x04ボネ\nFarò i nemici arrosto.\x0E\x04\x00\x00
+MID_EV2_#004	\x0E\x03\x01\x06\x04ボネ\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nPrima che mi dimentichi... state attenti alle\nsabbie mobili. Quella roba vi rallenta un sacco.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x16\x08パンドロ\nSmile\n\x0E\x03\x02\x0A\x08パンドロ\nDrago Divino, che onore! Vi prego, servitevi dei\nmiei poteri come ritenete opportuno.\x0E\x04\x02\x00
+MID_EV3_#002	Posso usare il mio bastone per teletrasportare\nvoi o un vostro alleato in un luogo lontano.\x0E\x04\x00\x00
+MID_KR1_#001	\x0E\x02\x04\x00\n\x0E\x03\x00\x16\x10M012_村人Ａ\x022\n\x0E\x03\x02\x12\x10M012_村人Ａ\n\x0E\x05\x01\x1E\x10M012_村人Ａ\nSmile\n\x0E\x05\x00"\x10M012_村人Ａ\x0EEmoTalk\nFiuuu! Mi avete proprio tirato fuori dai guai!\nAccettate questo dono come ringraziamento.\x0E\x04\x00\x00
+MID_KR2_#001	\x0E\x02\x04\x00\n\x0E\x03\x00\x16\x10M012_村人Ｂ\x022\n\x0E\x03\x02\x12\x10M012_村人Ｂ\n\x0E\x05\x01\x1A\x10M012_村人Ｂ\x06Shy\n\x0E\x05\x00$\x10M012_村人Ｂ\x10EmoRelax\nFinalmente è tornata la pace da queste parti!\nCurate le vostre ferite con questo umile dono.\x0E\x04\x00\x00
+MID_KR3_#001	\x0E\x02\x04\x00\n\x0E\x03\x00\x16\x10M012_村人Ｃ\x022\n\x0E\x03\x02\x12\x10M012_村人Ｃ\n\x0E\x05\x01\x1E\x10M012_村人Ｃ\nSmile\n\x0E\x05\x00"\x10M012_村人Ｃ\x0EEmoTalk\nSenza il vostro aiuto, sarei già morto.\nTenete, spero vi sarà utile.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0C\nフォガート\nFantastico! Gli hai fatto davvero vedere\ncosa sa fare il Drago Divino.\x0E\x04\x02\x00
+MID_ED1_#002	E adesso, dritti al palazzo di Solm!\nNon vi allontanate, non vorrei che vi perdeste.\nDi nuovo.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nGrazie, Fogado.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x01\x0C\nフォガート\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNon vedo l'ora. Sono passati anni dall'ultima\nvolta che ho visto il palazzo.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nAnni? Ma pensavo che il Solm e il Firene\nfossero in buoni rapporti.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0E\x0Cアルフレッド\nI nostri paesi sono alleati, è vero, ma non\nsignifica che le famiglie reali siano in\nconfidenza.\x0E\x04\x02\x00
+MID_ED1_#007	Anzi, di tutta la famiglia reale solmica, io e mia\nmadre abbiamo conosciuto solo la regina\nSeforia.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nCosa?! Nessun altro?!\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0E\x0Cアルフレッド\nNo... né il marito della regina, né la principessa\nereditaria, né suo fratello, il principe.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nAh... che strano.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nNon li ho mai visti nemmeno io...\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0E\x0Cアルフレッド\nÈ la stessa cosa per voi, eh?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0E\x0Cディアマンド\nMi sarò anche scordato come arrivare al\npalazzo, ma ricordo bene cosa vi successe.\x0E\x04\x02\x00
+MID_ED1_#014	Restammo davvero sorpresi. La regina ci\nricevette completamente sola, senza nessuno\na scortarla.\x0E\x04\x02\x00
+MID_ED1_#015	E quando chiedemmo di poter incontrare\nanche la principessa e il principe, ci rispose\nche non erano lì.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0E\x0Cアルフレッド\nÈ esattamente la stessa cosa che disse a noi!\nQuando le chiesi quando sarebbero tornati,\nrispose "Non lo so".\x0E\x04\x02\x00
+MID_ED1_#017	Non è normale che un membro della famiglia\nreale lasci il castello quando vuole.\x0E\x04\x02\x00
+MID_ED1_#018	Ho avuto l'impressione che volesse nasconderli\nda noi. Ma perché? Forse sono malati? Timidi?\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nMi stupirei se fossero timidi...\x0E\x04\x02\x00
+MID_ED1_#020	Tutti quelli che abbiamo incontrato finora\nsono stati così amichevoli.\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x0E\x0Cアルフレッド\nE lo è anche la regina! È solo che ci sono un\npaio di dettagli sulla famiglia reale che non\nriesco a spiegarmi.\x0E\x04\x02\x00
+MID_ED1_#022	Cerchiamo di non abbassare la guardia, eh?\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08リュール\nChiaro.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0C\nフォガート\nSiamo arrivati! Il palazzo di Solm... Ora non\nresta che chiedere a quelle guardie di farci\nentrare.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08リュール\nGrazie per averci fatto strada, Fogado.\nNon so come avremmo fatto ad arrivare qui\nsenza di te.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x0C\nフォガート\nFigurati! Normale amministrazione per le\nsentinelle!\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x0A\x08リュール\nNon scorderò di tessere le tue lodi con la\nregina... ma ora è meglio che ci affrettiamo...\x0E\x04\x02\x00
+MID_ED2_#005	\x0E\x03\x01\x0C\nフォガート\nEh? Fogado, dove vai?\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x02\x0C\nフォガート\nA parlare con le guardie, dove sennò?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x01\x0C\nフォガート\n\x0E\x03\x00\x12\x0Cディアマンド\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nAnche lui ha un'udienza con la regina?\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNon ne ho idea. Forse è qui per qualche\nfaccenda delle sentinelle.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nFogado, aspetta...\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x02\x0C\nフォガート\nEhi! Sono a casa!\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x01\x0C\nフォガート\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nA casa...?\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x00\x1A\x14ソルム兵士_モンク1\x023\n\x0E\x03\x00 \x1Aソルム兵士_ソードナイト3\x024\n\x0E\x03\x02\x16\x14ソルム兵士_モンク1\nBentornato, principe Fogado.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x1C\x1Aソルム兵士_ソードナイト3\nVi apro i cancelli.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x0C\nフォガート\nBene! Che i cancelli... si aprano!\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x01\x0C\nフォガート\n\x0E\x03\x01\x16\x14ソルム兵士_モンク1\n\x0E\x03\x01\x1C\x1Aソルム兵士_ソードナイト3\n\x0E\x03\x00\x0E\x08アイビー\x022\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0A\x08アイビー\nPrincipe? Sbaglio o la guardia ha detto\nprincipe?\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0E\x0Cアルフレッド\nA meno che non abbiamo capito male...\nentrambi e allo stesso modo...\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x00\x10\nフォガート\x021\n\x0E\x03\x02\x0C\nフォガート\nScusate l'attesa, ragazzi.\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nFogado, siamo un po' confusi... Ma tu per\ncaso sei il principe di Solm?\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0C\nフォガート\nNon ve l'avevo detto?\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nAh... no.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x0C\nフォガート\nOps! Scusate, mi sono dimenticato.\nMi presento come si deve.\x0E\x04\x02\x00
+MID_ED2_#022	Sono Fogado, capitano delle sentinelle e\nprincipe di Solm. Benvenuti al mio palazzo.\x0E\x04\x02\x00
+MID_ED2_#023	Forza, volevate incontrare mia madre, no?\x0E\x04\x02\x00
+MID_ED2_#024	Mammaaaaa! Abbiamo ospitiiii!\x0E\x04\x00\x00
+MID_ED2_#025	\x0E\x03\x01\x0C\nフォガート\n\x0E\x03\x02\x0A\x08リュール\nChe succede?\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x02\x0A\x08アイビー\nNon avevo idea che fosse nobile.\x0E\x04\x00\x00
+MID_ED2_#027	\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nUn principe che pattuglia il territorio\npersonalmente... non si vede tutti i giorni.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x0E\x0Cディアマンド\nChissà perché non l'avevamo mai incontrato\nprima... non sembra né malato né timido.\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x0A\x08リュール\nÈ un gran mistero... ma adesso entriamo.\x0E\x04\x02\x00
+MID_ED2_#030	Non facciamo aspettare il principe Fogado.\x0E\x04\x02\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x1E\x18ヴェイル_フード_顔出し\x021\n\x0E\x03\x02\x08\x06マルス\n...\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nEheh...\x0E\x04\x02\x00
+MID_ED3_#003	Miserabile. Lontano dai tuoi amici... che delizia.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x0C\x06セピア\x022\n\x0E\x03\x02\x08\x06セピア\nLady Veyle.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nZephia, dimmi... che intenzioni ha il Drago\nDivino con la sua armata?\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x08\x06セピア\nHanno attraversato la Valle Fosca, e adesso\nsono arrivati in Solm.\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nDunque non sono tornati in Brodia... invece\nstanno cercando di trovare altri anelli. Bene.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x0C\x06マロン\x022\n\x0E\x03\x02\x08\x06マロン\nPossiamo inseguirli, lady Veyle?\nLe mie mani fremono per una rivincita!\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nAbbi pazienza, Marni.\x0E\x04\x02\x00
+MID_ED3_#010	Se aspettiamo un po', potremo accaparrarci\nl'anello del Solm insieme a tutti gli altri.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x08\x06マロン\nGeniale! Allora farò la brava e aspetterò.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nSei un tesoro, Marni.\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\nTrovate anche voi? Il vero orgoglio dei Quattro\nSegugi.\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x08\x06マロン\nEheh... non risparmiate mai i complimenti, eh?\nÈ per questo che vi adoro!\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x00\x0A\x04グリ\x024\n\x0E\x03\x02\x06\x04グリ\nTsk... che bamboccia.\x0E\x04\x02\x00
+MID_ED3_#016	I complimenti sono per gli idioti.\nÈ molto meglio quando ti puniscono.\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nNon ti preoccupare, Griss. Presto avrai tutta\nl'agonia che il tuo cuore brama.\x0E\x04\x00\x00
+MID_ED3_#018	\x0E\x03\x02\x06\x04グリ\nQuesta è musica per le mie orecchie!\nEcco la bellezza di questo lavoro...\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nE tu, Mauvier? Come ti piacerebbe essere\nricompensato?\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x02\x08\x06モーヴ\nOh... niente per me, mia signora.\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nNon mi chiami nemmeno per nome...\nQuanta freddezza.\x0E\x04\x00\x00
+MID_ED3_#022	\x0E\x03\x02\x08\x06モーヴ\n...\x0E\x04\x00\x00
+MID_ED3_#023	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nA posto così. Per ora aspettiamo. Osserviamo.\nE poi, al momento giusto...\x0E\x04\x02\x00
+MID_ED3_#024	...\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x00\x0C\x06セピア\x022\n\x0E\x03\x02\x08\x06セピア\nLady Veyle?\x0E\x04\x00\x00
+MID_ED3_#026	\x0E\x03\x02\x1A\x18ヴェイル_フード_顔出し\nSono rimasta sveglia troppo tempo.\x0E\x04\x02\x00
+MID_ED3_#027	Ho bisogno di dormire. Qui ci sono i miei ordini.\nZephia, prendi il comando.\x0E\x04\x00\x00
+MID_ED3_#028	\x0E\x03\x02\x08\x06セピア\nCome desiderate.\x0E\x04\x00\x00

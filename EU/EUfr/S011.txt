@@ -1,0 +1,44 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ミカヤ\x022\n\x0E\x03\x02\x0A\x08リュール\nOh, regardez ! Il commence à neiger...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ミカヤ\nJe suis persuadée d'être déjà venue ici.\nOu du moins, dans un endroit qui y ressemble\nbeaucoup.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nQuel est ce lieu, à votre avis, Micaiah ?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ミカヤ\nIl ressemble au château de Nox. Un jour,\nj'y ai affronté Ike.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nHein ? Le château de Nox ? Et vous avez\naffronté Ike ?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06ミカヤ\nIl neigeait, ce jour-là aussi.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06ミカヤ\nIke était un puissant commandant, tout comme\nmoi. Mais nous avions tous deux une vision\ndifférente de la victoire.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ミカヤ\nIl voulait nous sauver, mais je ne pouvais pas\nle laisser faire. Nous avions besoin d'aide, c'est\nvrai, mais pas de la sienne.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ミカヤ\nMon peuple était maudit par un pacte de sang\nmagique, et condamné à la déchéance.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nQue s'est-il passé ?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06ミカヤ\nJe me suis battue contre Ike, pour rompre\nle pacte. Je n'ai jamais perdu espoir.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ミカヤ\nMes yeux sont restés rivés sur l'avenir tel que\nje l'imaginais. Jusque dans les moments les\nplus sombres.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06ミカヤ\nJ'ai tout donné pour protéger ceux qui\nm'étaient chers. J'aurais fait encore plus de\nsacrifices s'il l'avait fallu.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ミカヤ\nC'est cette vision de l'avenir qui m'a permis\nde survivre à la guerre.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nJe crois comprendre la raison de notre présence\nici.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nApprenez-moi à résister à la peur et au\ndésespoir sans faillir, Micaiah !\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06ミカヤ\nAinsi, vous avez compris le but de\ncette épreuve ?\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06ミカヤ\nAlors affrontez-moi, \x0E\x06\x03\x00.\nEt faites de votre mieux pour remporter\nla victoire.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06ミカヤ\nSi vous triomphez, notre lien s'en trouvera\nrenforcé, et vous pourrez encore davantage\npuiser dans mon pouvoir.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ミカヤ\x02b\n\x0E\x05\x01\x14\x06ミカヤ\nRelax\n\x0E\x03\x02\x08\x06ミカヤ\nVous devez mériter cette victoire,\n\x0E\x06\x03\x00. Défendez-vous !\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x00\x0C\x06ミカヤ\x02b\n\x0E\x05\x01\x14\x06ミカヤ\nAngry\n\x0E\x03\x02\x08\x06ミカヤ\nFinissons-en rapidement. Que toutes les unités\npassent à l'attaque !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ミカヤ\x02b\n\x0E\x05\x01\x10\x06ミカヤ\x06Die\n\x0E\x03\x02\x08\x06ミカヤ\nJe me souviens de ce combat, comme si c'était\nhier.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x16\x06ミカヤ\x0CStatus\n\x0E\x03\x02\x08\x06ミカヤ\nC'est comme si j'y étais à nouveau. Le passé\net l'avenir se conjuguent dans mon cœur !\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nVous êtes une adversaire redoutable, mais je\nne vous laisserai pas l'emporter !\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06ミカヤ\nAngry\n\x0E\x03\x02\x08\x06ミカヤ\nTant mieux ! Je me sentirais trahie, si vous\nreteniez vos coups !\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ユナカ\x02t\n\x0E\x05\x01\x10\x06ユナカ\x06Sad\n\x0E\x03\x02\x08\x06ユナカ\nJe n'ai jamais été très douée face à la magie,\nalors si vous pouvez y aller mollo...\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ミカヤ\x02b\n\x0E\x05\x01\x14\x06ミカヤ\nSmile\n\x0E\x03\x02\x08\x06ミカヤ\nHa ha ! Désolée, mais je ne suis pas là pour ça.\nJe ne me retiendrai pas.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06ミカヤ\nRelax\n\x0E\x03\x02\x08\x06ミカヤ\nVous m'avez tirée du sanctuaire, et voilà que\nc'est à mon tour de vous servir de guide.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x06ユナカ\nAngry\n\x0E\x03\x02\x08\x06ユナカ\nDans ce cas, je suis prête !\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ミカヤ\x022\n\x0E\x03\x02\x08\x06ミカヤ\nJe vous félicite, vous avez réussi l'épreuve.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nMerci, Micaiah.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06ミカヤ\nVous sentez comme notre lien s'est renforcé ?\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nEn effet. Il me semble vous comprendre mieux\nencore.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nEn revanche...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06ミカヤ\nQu'y a-t-il ?\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nEh bien... Je dois dire que j'espérais bénéficier\nde vos talents de divination...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ミカヤ\nHa ha, n'ayez crainte ! Vous n'en avez pas\nbesoin.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06ミカヤ\nVous pouvez déjà voir l'avenir, puisque vous\nle bâtissez vous-même.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nJe bâtis l'avenir ? Est-ce là une prédiction ?\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06ミカヤ\nNon, c'est une évidence, juste là sous mes yeux.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06ミカヤ\nJe vois quelqu'un d'assez fort pour ne\njamais perdre courage, quels que soient les\névénements. Un\x0E\x0A\x00\x06
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nC'est un honneur de savoir que vous me voyez\nainsi. Je ferai de mon mieux pour ne pas vous\ndécevoir.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06ミカヤ\nMe décevoir ? Aucun risque ! À présent, allons\nsauver le monde !\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

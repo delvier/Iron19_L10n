@@ -1,0 +1,51 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x0A\x08リュール\n¿Dónde estamos?\nNo conozco este lugar.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04ロイ\nSe parece a... No puede ser.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Roy? ¿Sabes qué sitio es este?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04ロイ\nPuede que mis ojos me estén engañando,\npero se parece mucho...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x06\x04ロイ\na cierto lugar donde una vez libré\nuna batalla muy importante.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\n¿Te refieres en tu mundo?\n¿Podrías contarme qué pasó?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04ロイ\nEstaba justo aquí, junto a mis aliados,\nante el ejército del Reino de Biran.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04ロイ\nEl comandante enemigo, Murdock,\nera un hombre fuerte y un estratega temible.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x06\x04ロイ\nSu hacha de guerra...\nJamás olvidaré la potencia de sus golpes.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04ロイ\nFue una batalla tan cruenta que aún no sé\ncómo mis aliados y yo logramos sobrevivir.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04ロイ\nAunque doloroso, es un recuerdo\nque conservo con cierto cariño.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nDebió de ser un momento decisivo\nen tu vida.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04ロイ\nSí, supongo que sí. He de admitir\nque me siento revitalizado estando aquí.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04ロイ\n\x0E\x06\x03\x00, ¿me concederías una extraña\npetición? Lucha contra mí aquí y ahora.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\n¿Luchar contra ti? ¿Por qué?\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04ロイ\nEste lugar forma parte de mis recuerdos,\npero es una prueba diseñada para ti.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x06\x04ロイ\nVénceme, alcanza una gloriosa victoria,\ny nuestro vínculo será aún más fuerte.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x06\x04ロイ\nMi poder y, por ende, también el tuyo, crecerá.\n¿Te interesa? ¿Harás lo que te pido?\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nDe acuerdo, lucharé contra ti...\ny voy a ganar.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\nA ver cómo afrontas esta batalla.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n¿Eso que se oye es un aleteo?\nDiría que suena como un wyvern...\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nPodrían ser refuerzos para las tropas de Roy.\nAvanzaré con cautela.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nPareces más concentrado de lo habitual.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x0E\x04ロイ\x06Die\n\x0E\x03\x02\x06\x04ロイ\nMi arma, la Espada de los Sellos, permaneció\ncustodiada en esta tierra durante siglos.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nRecordar el momento en el que la recuperé\nme da nuevos bríos.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nSi un recuerdo puede dar fuerzas...\nharé que esta sea una pelea memorable.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nRelax\n\x0E\x03\x02\x06\x04ロイ\n¿Vas a ser tú mi oponente?\nBien, será mejor que no me relaje.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1C\x0Cディアマンド\x0CStrike\n\x0E\x03\x02\x0E\x0Cディアマンド\nMe halaga que digas eso\nporque yo pienso lo mismo.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x0E\x0Cディアマンド\nEs mi deber ofrecer al Emblema que se confió\na Brodia un combate espectacular.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nEsta lucha promete. Venga, Diamant. ¡Pelea!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x14\nスタルーク\x06Sad\n\x0E\x03\x02\x0C\nスタルーク\n¿Roy? ¿No deberías enfrentarte\na un contrincante más digno?\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04ロイ\x02b\n\x0E\x05\x01\x12\x04ロイ\nSmile\n\x0E\x03\x02\x06\x04ロイ\n¿Qué tonterías dices, Alcryst?\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x14\x04ロイ\x0CStatus\n\x0E\x03\x02\x06\x04ロイ\nEres el príncipe de Brodia, el reino que\nme custodiaba. No podría desear mejor rival.\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x16\x04ロイ\x0EStandBy\n\x0E\x03\x02\x06\x04ロイ\nVamos, ¡que empiece el combate!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04ロイ\x022\n\x0E\x03\x02\x06\x04ロイ\nGracias por deleitarme con esta pelea.\nEres impresionante.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nHabrías vencido si me hubiese despistado.\nNo quiero volver a tenerte de enemigo.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x06\x04ロイ\nVas a hacer que me sonroje.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04ロイ\n(...)\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\n¿Qué ocurre, Roy? ¿Por qué me miras así?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04ロイ\nMe recuerdas a una persona que conocía.\nSe llamaba Idunn...\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04ロイ\nEra un dragón demoniaco. El rey Zephiel de\nBiran quería usarlo para destruir la humanidad.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\n¿Un dragón demoniaco?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x06\x04ロイ\nTambién tenía un ojo de cada color\ny se comportaba de un modo similar.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nNo sabía que existiera alguien así...\n¿Luchaste contra ese dragón demoniaco?\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04ロイ\nPude elegir: matarlo y extinguir a los dragones\no salvar a un enemigo de la humanidad.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04ロイ\n¿Adivinas qué decidí?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nNo, ¿qué?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x06\x04ロイ\nTe contaré el resto de la historia cuando acabe\nla guerra y traigamos la paz a este mundo.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nVale, pero prométeme que me lo contarás.\nQuiero saber el desenlace.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x06\x04ロイ\nLo prometo, \x0E\x06\x03\x00. Hasta entonces,\nserá un placer seguir a tu lado.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

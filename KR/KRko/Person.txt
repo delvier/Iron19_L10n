@@ -1,0 +1,353 @@
+MPID_Unknown	???
+MPID_H_Unknown	?????
+MPID_Hide	???
+MPID_H_Hide	정체불명의 적.\n악한 기운이 감돌고 있다.
+MPID_Morph_Prefix	이형의 \x0E\x01\x00\x00
+MPID_God_Prefix	문장사 \x0E\x01\x00\x00
+MPID_PastLueur	과거의 \x0E\x06\x03\x00
+MPID_Lueur	뤼에르
+MPID_Lueur_M000	\x0E\x06\x03\x00
+MPID_H_Lueur	긴 잠에서 깨어난 신룡의 후계자.\n문장사를 현현시켜 세상을 평화로 인도한다.
+MPID_H_Lueur_M000	문장사와 함께 싸우는 검사.\n아직 깨어나지 않은 자.
+MPID_H_Lueur_1	베일의 손에 의해 이형병으로 부활한 신룡.\n사룡의 힘으로 문장사를 현현시킬 수 있다.
+MPID_H_Lueur_2	『파이어 엠블렘』으로 부활한 신룡.\n문장사와 신룡의 힘을 동시에 지니고 있다.
+MPID_H_PastLueur	천 년 전의 \x0E\x06\x03\x00.\n자신의 의지 없이 사룡의 명령에 따른다.
+MPID_Vandre	반드레
+MPID_H_Vandre	대대로 신룡을 섬기는 용의 수호자.\n성실하고 엄격하며 고지식한 신사.
+MPID_Lumiere	뤼미에르
+MPID_H_Lumiere	성지 리토스의 당대 신룡왕.\n천 년 전의 사룡 전쟁에서 대륙을 구한 영웅.
+MPID_MorphLumiere	이형의 뤼미에르
+MPID_H_MorphLumiere	목숨을 잃었을 터인 뤼미에르를\n솜브르가 정교한 이형병으로 만든 존재.
+MPID_Clan	클랜
+MPID_H_Clan	대대로 신룡을 섬기는 차기 용의 수호자.\n대범한 성격을 지닌 쌍둥이 오빠.
+MPID_Fram	프랑
+MPID_H_Fram	대대로 신룡을 섬기는 차기 용의 수호자.\n승부욕과 자신감 넘치는 성격인 쌍둥이 동생.
+MPID_Alfred	알프레드
+MPID_H_Alfred	솔직하고 순수한 피레네 왕자.\n강인한 육체를 갖기 위해 단련하고 있다.
+MPID_Etie	에티에
+MPID_H_Etie	알프레드의 신하.\n근육 단련이 취미인 기품 있는 여성.
+MPID_Boucheron	부셰론
+MPID_H_Boucheron	알프레드의 신하.\n천부적으로 근육 체질인 상냥한 거한.
+MPID_Celine	셀린
+MPID_H_Celine	온화하며 꽃처럼 아름다운 피레네 왕녀.\n백성을 위해서라면 어떤 일도 마다치 않는다.
+MPID_Chloe	클로에
+MPID_H_Chloe	셀린의 신하.\n동화와 별미를 아주 좋아하는 여성.
+MPID_Louis	루이
+MPID_H_Louis	셀린의 신하.\n항상 상냥하고 예의 바른 신사.
+MPID_Yunaka	유나카
+MPID_H_Yunaka	산마루 부락에서 만난 유랑 도적.\n정체는 베일에 싸여 있다.
+MPID_Staluke	스타루크
+MPID_H_Staluke	자기 비하적인 망상이 지나친 브로디아 왕자.\n자각하고 있지는 않지만 비범한 재능을 지녔다.
+MPID_Citrinica	시트리니카
+MPID_H_Citrinica	스타루크의 신하.\n겉모습과 달리 다정하며 동료를 아끼는 귀족.
+MPID_Lapis	라피스
+MPID_H_Lapis	스타루크의 신하.\n가냘프고 겸허하지만, 괴력을 지닌 여성.
+MPID_Diamand	디아만드
+MPID_H_Diamand	당당한 풍격을 갖춘 브로디아 왕자.\n꾸밈없고 강건해 백성들의 신뢰도 두텁다.
+MPID_Umber	앰버
+MPID_H_Umber	디아만드의 신하.\n한없이 밝고 활기찬 로맨티시스트.
+MPID_Jade	제이데
+MPID_H_Jade	디아만드의 신하.\n항상 냉정하고 침착하며 말수가 적은 무인.
+MPID_Ivy	아이비
+MPID_H_Ivy	신비로우면서도 울적해 보이는 이르시온 왕녀.\n왕족다운 위엄은 한 점의 흐트러짐도 없다.
+MPID_Kagetsu	카게츠
+MPID_H_Kagetsu	아이비의 신하.\n이국적인 말투와 수려한 용모가 특징인 청년.
+MPID_Zelkova	젤코바
+MPID_H_Zelkova	아이비의 신하.\n항상 뭔가에 몰두하고 있는 조용한 남자.
+MPID_Fogato	포가토
+MPID_H_Fogato	자유분방하고 낙천적인 자경단의 청년.\n종잡을 수 없는 가벼운 성격의 소유자.
+MPID_H_Fogato_1	자유분방하고 낙천적인 솔룸 왕자.\n왕족답지 않은 가벼운 성격의 소유자.
+MPID_Pandoro	판도로
+MPID_H_Pandoro	자경단의 일원.\n즐거운 일을 정말 좋아하는 신앙심 깊은 성직자.
+MPID_H_Pandoro_1	포가토의 신하.\n즐거운 일을 정말 좋아하는 신앙심 깊은 성직자.
+MPID_Bonet	보네
+MPID_H_Bonet	자경단의 일원.\n요리를 즐기며 예민한 미각과 후각을 지녔다.
+MPID_H_Bonet_1	포가토의 신하.\n요리를 즐기며 예민한 미각과 후각을 지녔다.
+MPID_Misutira	미스티라
+MPID_H_Misutira	천진난만하고 활기찬 솔룸 왕녀.\n자유분방하며 누구나 거리낌 없이 대한다.
+MPID_Panetone	파네토네
+MPID_H_Panetone	미스티라의 신하.\n특이한 말투를 쓰며 상당히 정중한 여성.
+MPID_Merin	메린
+MPID_H_Merin	미스티라의 신하.\n산뜻하고 화사한 분위기를 풍기는 미인.
+MPID_Hortensia	오르텐시아
+MPID_H_Hortensia	순수하며 제멋대로인 이르시온 왕녀.\n가족과 동료들에 대한 애정이 깊다.
+MPID_H_MindHortensia	세피아의 주술에 조종당하고 있는 오르텐시아.\n이성을 잃은 상태라 대화가 통하지 않는다.
+MPID_Seadas	세아다스
+MPID_H_Seadas	솔룸에서 유명한 댄서.\n점을 잘 치며 신비한 분위기가 감돈다.
+MPID_Rosado	로사도
+MPID_H_Rosado	오르텐시아의 신하.\n귀여운 걸 좋아하며 밝고 긍정적인 성격.
+MPID_Goldmary	골드마리
+MPID_H_Goldmary	오르텐시아의 신하.\n소심해 보이지만 자신감이 넘친다.
+MPID_Linden	린덴
+MPID_H_Linden	이르시온 출신 학자.\n지식욕이 많은 사람으로 독서와 실험이 취미.
+MPID_Saphir	자피아
+MPID_H_Saphir	브로디아 출신 무인.\n용맹하고 과감하며 정신력이 강한 구도자.
+MPID_Anna	안나
+MPID_H_Anna	이르시온 출신 행상인.\n밝고 약삭빠른 구두쇠.
+MPID_Jean	장
+MPID_H_Jean	피레네 출신으로 의사의 아들.\n사람들을 구하기 위해 최선을 다하는 노력가.
+MPID_Mauve	모브
+MPID_H_EnemyMauve	사구의 일원.\n충성심이 깊고 말재주 없는 무인.
+MPID_H_Mauve	과거 사구의 일원. 베일의 기사로\n신룡 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02과\x02와 함께 싸울 것을 맹세했다.
+MPID_Sombre	솜브르
+MPID_H_Sombre	사룡족의 왕.\n강대한 암흑의 마력을 가진 사악한 존재.
+MPID_SombreDragon	대사룡 솜브르
+MPID_H_SombreDragon	문장사의 반지로 힘을 얻은 사룡.\n이계의 문을 열 정도로 강대한 마력을 지녔다.
+MPID_Veyre	베일
+MPID_H_EnemyVeyre	사룡 솜브르의 딸.\n강압적이며 악의로 가득 찬 잔인한 성격.
+MPID_H_MindVeyre	사룡의 티아라를 쓴 베일.\n파괴 본능이 강해져 사악함이 증가했다.
+MPID_H_Veyre	\x0E\x06\x03\x00의 동생.\n암흑의 인격을 이겨내고 평화를 위해 싸운다.
+MPID_H_VersusVeyre	사룡의 아이.\n암흑의 인격을 이겨내고 평화를 위해 싸운다.
+MPID_Sepia	세피아
+MPID_H_Sepia	사구의 리더.\n수천 년을 살아온 마룡족의 후예.
+MPID_Gris	그리
+MPID_H_Gris	사구의 일원.\n난폭하고 광기에 찬 위험한 마술사.
+MPID_Marron	마론
+MPID_H_Marron	사구의 일원.\n밝고 순수하며, 기분파인 중갑 기사.
+MPID_Eve	이브
+MPID_H_Eve	피레네 왕국의 온화하고 상냥한 여왕.\n분쟁이 없는 세계를 바라고 있다.
+MPID_Morion	모리온
+MPID_H_Morion	브로디아 왕국의 용맹한 왕.\n긍지와 명예, 전장에서의 예의를 중시하는 무인.
+MPID_MorphMorion	이형의 모리온
+MPID_H_MorphMorion	사룡 부활을 위한 제물이 된 모리온 왕.\n사후 이형병이 되었다.
+MPID_Hyacinth	하이아신스
+MPID_H_Hyacinth	이르시온 왕국의 노회한 왕.\n사룡을 숭배하며 자국의 번영을 꾀한다.
+MPID_MorphHyacinth	이형의 하이아신스
+MPID_H_MorphHyacinth	사룡에게 죽은 하이아신스 왕.\n베일이 만든 정교한 이형병.
+MPID_Sfoglia	스폴리아
+MPID_H_Sfoglia	솔룸 왕국의 자유분방한 여왕.\n호쾌하게 나라를 통치하고 있다.
+MPID_M003_Boss	아비움
+MPID_H_M003_Boss	수수께끼의 집단을 통솔하는 병사장.\n주어진 임무를 충실하게 수행한다.
+MPID_H_M018_Boss	이르시온 왕국의 장교.\n주어진 임무를 충실하게 수행한다.
+MPID_M004_Boss	로단
+MPID_H_M004_Boss	이르시온 왕국의 장교.\n조국의 명령에 따라 이형병을 지휘한다.
+MPID_M005_Boss	네르케
+MPID_H_M005_Boss	이르시온 왕국의 장교.\n문장사의 반지를 노리고, 피레네를 습격한다.
+MPID_M006_Boss	테란다
+MPID_H_M006_Boss	산마루 부락을 거점으로 하는 도적단의 두목.\n보물을 위해서라면 악행도 서슴지 않는다.
+MPID_S002_Boss	미탄
+MPID_H_S002_Boss	변경 도적단을 통솔하는 두목.\n부하와 함께 조직적으로 도둑질을 한다.
+MPID_M013_BossA	테시
+MPID_H_M013_BossA	도적단의 두목. 토시의 쌍둥이 형.\n오아시스에 출몰하는 이형병을 길들였다.
+MPID_M013_BossB	토시
+MPID_H_M013_BossB	도적단의 두목. 테시의 쌍둥이 동생.\n오아시스에 출몰하는 이형병을 길들였다.
+MPID_Morph	이형병
+MPID_H_Morph	사룡의 비술로 되살아난 산송장.\n자아는 없으며 주인의 명령에 따라 움직인다.
+MPID_H_Morph_Hide	정체불명의 괴물.
+MPID_MorphGold	금의 이형병
+MPID_H_MorphGold	드물게 사룡의 비술로 생겨나는 흑금의 산송장.\n금품에 집착하고, 큰돈을 가지고 다닌다.
+MPID_MorphSilver	은의 이형병
+MPID_H_MorphSilver	드물게 사룡의 비술로 생겨나는 흑은의 산송장.\n쓰러뜨리면 많은 경험치를 얻을 수 있다.
+MPID_MorphDragon	이형룡
+MPID_H_MorphDragon	사룡의 부활로 인해 되살아난 거대룡.\n비늘이 단단하며 강력한 브레스를 내뿜는다.
+MPID_Phantom	만들어진 자
+MPID_H_Phantom	비술로 만들어진 영혼 없는 병사.\n자아는 없으며 주인의 명령에 따라 움직인다.
+MPID_PhantomDragon	만들어진 자
+MPID_H_PhantomDragon	비술로 만들어진 영혼 없는 짐승.\n자아는 없으며 주인의 명령에 따라 움직인다.
+MPID_MysteriousGroup	수수께끼의 집단
+MPID_H_MysteriousGroup	돌연 습격해 온 이국의 군대.
+MPID_Troublemaker	불량배
+MPID_H_Troublemaker	파괴와 강탈을 생업으로 하는 난폭한 사람들.
+MPID_Bandits	도적
+MPID_H_Bandits	전쟁을 틈타 도둑질을 하는 자.
+MPID_IrcionSoldier	이르시온병
+MPID_H_IrcionSoldier	이르시온 왕국군의 정규병.
+MPID_BrodiaSoldier	브로디아병
+MPID_H_BrodiaSoldier	브로디아 왕국군의 정규병.
+MPID_SolumSoldier	솔룸병
+MPID_H_SolumSoldier	솔룸 왕국군의 정규병.
+MPID_FileneSoldier	피레네병
+MPID_H_FileneSoldier	피레네 왕국군의 정규병.
+MPID_Marth	마르스
+MPID_H_Marth	통칭 『시작의 문장사』.\n고결하고 카리스마가 넘치는 영웅 중의 영웅.
+MPID_Siglud	시구르드
+MPID_H_Siglud	통칭 『성전의 문장사』.\n성전사의 피를 이은 청렴한 기사.
+MPID_Celica	세리카
+MPID_H_Celica	통칭 『울림의 문장사』.\n풍요로운 나라의 왕녀이자 신관 전사이다.
+MPID_Micaiah	미카야
+MPID_H_Micaiah	통칭 『새벽의 문장사』.\n치유와 미래 예지 등, 신비한 힘을 지녔다.
+MPID_Roy	로이
+MPID_H_Roy	통칭 『봉인의 문장사』.\n용감하고 지혜로운 장군의 자질을 가진 공자.
+MPID_Lin	린
+MPID_H_Lin	통칭 『열화의 문장사』.\n대자연과 공생하는 유목민이자 뛰어난 검사.
+MPID_Ike	아이크
+MPID_H_Ike	통칭 『창염의 문장사』.\n용병단장으로 전투 기술은 견줄 사람이 없다.
+MPID_Lucina	루키나
+MPID_H_Lucina	통칭 『각성의 문장사』.\n희망을 믿고 절망과 맞서는 성스러운 왕녀.
+MPID_Leaf	리프
+MPID_H_Leaf	통칭 『계보의 문장사』.\n두 성전사의 피를 이은 용맹한 왕자.
+MPID_Kamui	카무이
+MPID_H_Kamui	통칭 『선택의 문장사』.\n선조룡의 피를 이은 굳센 마음을 가진 왕족.
+MPID_Eirik	에이리카
+MPID_H_Eirik	통칭 『성마의 문장사』.\n평화를 위해 검을 휘두르는 마음씨 착한 왕녀.
+MPID_Byleth	벨레트
+MPID_H_Byleth	통칭 『풍화의 문장사』.\n용병 출신이자 사관학교의 지도자.
+MGID_Hide	???
+MGID_Marth	마르스
+MGID_H_Marth	통칭 『시작의 문장사』.\n고결하고 카리스마가 넘치는 영웅 중의 영웅.\n적의 공격을 간파해 회피하고 연격을 펼친다.
+MGID_Siglud	시구르드
+MGID_H_Siglud	통칭 『성전의 문장사』.\n성전사의 피를 이은 청렴한 기사.\n높은 이동력을 자랑하며 창으로 적을 무찌른다.
+MGID_Celica	세리카
+MGID_H_Celica	통칭 『울림의 문장사』.\n풍요로운 나라의 왕녀이자 신관 전사이다.\n성스러운 마법으로 몬스터에게 대미지를 준다.
+MGID_Micaiah	미카야
+MGID_H_Micaiah	통칭 『새벽의 문장사』.\n치유와 미래 예지 등, 신비한 힘을 지녔다.\n마법과 회복의 지팡이로 동료를 서포트한다.
+MGID_Roy	로이
+MGID_H_Roy	통칭 『봉인의 문장사』.\n용감하고 지혜로운 장군의 자질을 가진 공자.\n적의 공격을 견디고 검으로 활로를 연다.
+MGID_Lin	린
+MGID_H_Lin	통칭 『열화의 문장사』.\n대자연과 공생하는 유목민이자 뛰어난 검사.\n검으로 적을 농락하고, 예리한 활로 꿰뚫는다.
+MGID_H_EnemyLin	이르시온에 맡겨진\n『초원의 공녀의 반지』에 깃든 문장사.
+MGID_Ike	아이크
+MGID_H_Ike	통칭 『창염의 문장사』.\n용병단장으로 전투 기술은 견줄 사람이 없다.\n검과 도끼를 호쾌하게 다루며 장애물을 부순다.
+MGID_Lucina	루키나
+MGID_H_Lucina	통칭 『각성의 문장사』.\n희망을 믿고 절망과 맞서는 성스러운 왕녀.\n동료와 인연을 맺고 힘을 합쳐 적을 물리친다.
+MGID_H_EnemyLucina	신룡왕성에서 빼앗긴\n『성왕녀의 반지』에 깃든 문장사.
+MGID_Leaf	리프
+MGID_H_Leaf	통칭 『계보의 문장사』.\n두 성전사의 피를 이은 용맹한 왕자.\n검, 창, 도끼 등 다양한 무기를 능숙하게 다룬다.
+MGID_H_EnemyLeaf	신룡왕성에서 빼앗긴\n『현왕의 반지』에 깃든 문장사.
+MGID_Kamui	카무이
+MGID_H_Kamui	통칭 『선택의 문장사』.\n선조룡의 피를 이은 굳센 마음을 가진 왕족.\n대지에 잠든 힘인 『용맥』을 사용할 수 있다.
+MGID_Eirik	에이리카
+MGID_H_Eirik	통칭 『성마의 문장사』.\n평화를 위해 검을 휘두르는 마음씨 착한 왕녀.\n섬광의 검으로 적의 방어를 무너뜨린다.
+MGID_Ephraim	에브라임
+MGID_H_Ephraim	또 한 명의 『성마의 문장사』.\n에이리카의 쌍둥이 오빠. 무용이 뛰어나다.\n불패의 창술로 적진에 뛰어든다.
+MGID_Byleth	벨레트
+MGID_H_Byleth	통칭 『풍화의 문장사』.\n용병 출신이자 사관학교의 지도자.\n『영웅의 유산』을 가지고 다양한 전법을 펼친다.
+MGID_H_EnemyByleth	신룡왕성에서 빼앗긴\n『인도자의 반지』에 깃든 문장사.
+MGID_Lueur	뤼에르
+MGID_H_Lueur	통칭 『파이어 엠블렘』.\n특별한 문장사가 된 신룡의 후계자.\n신룡의 가호를 받아 사룡을 멸한다.
+MGID_Mediuth	암흑룡의 문장사
+MGID_H_Mediuth	솜브르가 현현시킨 어둠의 문장사.\n마르스와 같은 이계에서 소환된 존재로\n강대하고 무서운 암흑룡의 힘을 지녔다.
+MGID_Loptous	암흑신의 문장사
+MGID_H_Loptous	솜브르가 현현시킨 어둠의 문장사.\n시구르드와 같은 이계에서 소환된 존재로\n사람들을 공포에 빠뜨린 암흑신의 힘을 지녔다.
+MGID_Duma	투신의 문장사
+MGID_H_Duma	솜브르가 현현시킨 어둠의 문장사.\n세리카와 같은 이계에서 소환된 존재로\n광기에 찬 난폭한 투신의 힘을 지녔다.
+MGID_Veld	어둠의 사제의 문장사
+MGID_H_Veld	솜브르가 현현시킨 어둠의 문장사.\n리프와 같은 이계에서 소환된 존재로\n사악한 암흑 교단 사제의 힘을 지녔다.
+MGID_Idenn	마룡의 문장사
+MGID_H_Idenn	솜브르가 현현시킨 어둠의 문장사.\n로이와 같은 이계에서 소환된 존재로\n인류를 멸하려고 했던 마룡의 힘을 지녔다.
+MGID_Nergal	사지의 문장사
+MGID_H_Nergal	솜브르가 현현시킨 어둠의 문장사.\n린과 같은 이계에서 소환된 존재로\n금단의 지식을 가지고 그 힘으로 재앙을 부른다.
+MGID_Fodeth	마왕의 문장사
+MGID_H_Fodeth	솜브르가 현현시킨 어둠의 문장사.\n에이리카와 같은 이계에서 소환된 존재로\n불길한 마왕의 힘을 지녔다.
+MGID_Ashnard	광왕의 문장사
+MGID_H_Ashnard	솜브르가 현현시킨 어둠의 문장사.\n아이크와 같은 이계에서 소환된 존재로\n세계에 전란을 일으킨 폭군의 힘을 지녔다.
+MGID_Astarte	심판의 문장사
+MGID_H_Astarte	솜브르가 현현시킨 어둠의 문장사.\n미카야와 같은 이계에서 소환된 존재로\n인류의 심판을 바라던 여신의 힘을 지녔다.
+MGID_Gimle	절망의 문장사
+MGID_H_Gimle	솜브르가 현현시킨 어둠의 문장사.\n루키나와 같은 이계에서 소환된 존재로\n파멸과 절망을 가져오는 사룡의 힘을 지녔다.
+MGID_Hydra	광룡의 문장사
+MGID_H_Hydra	솜브르가 현현시킨 어둠의 문장사.\n카무이와 같은 이계에서 소환된 존재로\n파멸로 이끄는 광기 어린 용의 힘을 지녔다.
+MGID_Nemesis	해방왕의 문장사
+MGID_H_Nemesis	솜브르가 현현시킨 어둠의 문장사.\n벨레트와 같은 이계에서 소환된 존재로\n선조의 권속을 학살한 고대 왕의 힘을 지녔다.
+MGEID_Marth	시작의 문장
+MGEID_Siglud	성전의 문장
+MGEID_Celica	울림의 문장
+MGEID_Micaiah	새벽의 문장
+MGEID_Roy	봉인의 문장
+MGEID_Lin	열화의 문장
+MGEID_Ike	창염의 문장
+MGEID_Lucina	각성의 문장
+MGEID_Leaf	계보의 문장
+MGEID_Kamui	선택의 문장
+MGEID_Eirik	성마의 문장
+MGEID_Byleth	풍화의 문장
+MGEID_Lueur	불꽃의 문장
+MPID_WeaponShop	더튼
+MPID_ItemShop	아니스
+MPID_AccessoriesShop	피네
+MPID_BlackSmith	카르네이
+MPID_JeanFather	숀
+MPID_H_JeanFather	다원 마을에서 진료소를 운영하는 남성.\n장의 아버지.
+MPID_JeanMother	안쥬
+MPID_SolumVillager	솔룸 백성
+MPID_H_SolumVillager	솔룸 왕국에 사는 백성.
+MPID_FileneVillager	피레네 백성
+MPID_H_FileneVillager	피레네 왕국에 사는 백성.
+MPID_Vision	잔상
+MPID_H_Vision	인게이지 스킬로 만들어 낸 잔상.
+MPID_alias_Lueur	신룡왕
+MPID_alias_Vandre	노련한 수호자
+MPID_alias_Clan	냉정한 수호자
+MPID_alias_Fram	정열의 수호자
+MPID_alias_Alfred	미소를 지키는 꽃
+MPID_alias_Boucheron	늠름한 울보 도끼
+MPID_alias_Etie	강한 완력을 지닌 영애
+MPID_alias_Celine	행복한 왕녀
+MPID_alias_Louis	화원의 문지기
+MPID_alias_Chloe	공상을 배회하는 날개
+MPID_alias_Diamand	맞서 싸우는 검은 강철
+MPID_alias_Umber	알파카 용사
+MPID_alias_Jade	보석의 수호자
+MPID_alias_Staluke	섬세한 궁수
+MPID_alias_Lapis	굳센 들꽃
+MPID_alias_Citrinica	넘치는 우애
+MPID_alias_Ivy	몰아치는 눈
+MPID_alias_Zelkova	｢충실｣한 그림자
+MPID_alias_Kagetsu	주먹밥 무사
+MPID_alias_Hortensia	사랑스러운 설화
+MPID_alias_Rosado	그림 같은 귀여움
+MPID_alias_Goldmary	부끄럼 없는 미모
+MPID_alias_Misutira	전장의 뜨거운 모래알
+MPID_alias_Merin	아름다운 희귀 동물 기사
+MPID_alias_Panetone	타고난 싸움꾼
+MPID_alias_Fogato	사교성 좋은 왕자
+MPID_alias_Pandoro	파티 성자
+MPID_alias_Bonet	무엇이든 맛보는 요리사
+MPID_alias_Anna	어린 행상인
+MPID_alias_Jean	부지런한 어린 의사
+MPID_alias_Yunaka	보이지 않는 가면
+MPID_alias_Seadas	달빛 아래의 무용수
+MPID_alias_Linden	뇌정의 현자
+MPID_alias_Saphir	대담한 왕성병
+MPID_alias_Veyre	상냥한 용
+MPID_alias_Mauve	구제의 기사
+MPID_Mascot	솔라
+MPID_H_Mascot	솔라넬에 오래전부터 살고 있던 생물.
+MPID_EleosGoat	엘레오스 푹신 양
+MPID_H_EleosGoat	엘레오스 대륙 전역에 서식하고\n푹신푹신한 털이 특징인 양.
+MPID_WhitePyonRabbit	하얀 깡충 토끼
+MPID_H_WhitePyonRabbit	엘레오스 대륙 전역에 서식하는 토끼.\n귀가 길고 깡충깡충 움직인다.\n털이 하얗지 않은 종도 존재한다고 한다.
+MPID_PyonRabbit	깡충 토끼
+MPID_H_PyonRabbit	엘레오스 대륙 전역에 서식하는 토끼.\n귀가 길고 깡충깡충 움직인다.\n털이 하얀 종도 존재한다고 한다.
+MPID_EastCat	동쪽 고양이
+MPID_H_EastCat	대륙의 동쪽에서 기원했다고 알려진 종.\n사는 지역에 맞게 개별적 진화를 거쳐\n서식하는 나라마다 외형과 이름이 다르다.
+MPID_WestCat	서쪽 고양이
+MPID_H_WestCat	대륙의 서쪽에서 기원했다고 알려진 종.\n사는 지역에 맞게 개별적 진화를 거쳐\n서식하는 나라마다 외형과 이름이 다르다.
+MPID_SouthCat	남쪽 고양이
+MPID_H_SouthCat	대륙의 남쪽에서 기원했다고 알려진 종.\n사는 지역에 맞게 개별적 진화를 거쳐\n서식하는 나라마다 외형과 이름이 다르다.
+MPID_NorthCat	북쪽 고양이
+MPID_H_NorthCat	대륙의 북쪽에서 기원했다고 알려진 종.\n사는 지역에 맞게 개별적 진화를 거쳐\n서식하는 나라마다 외형과 이름이 다르다.
+MPID_FileneCat	피레네 고양이
+MPID_H_FileneCat	피레네에서만 서식하는 고양이.\n서식하는 나라마다 외형과 이름이 다르며\n흰색과 검은색만 있는 털이 특징이다.
+MPID_BrodiaCat	브로디아 고양이
+MPID_H_BrodiaCat	브로디아에서만 서식하는 고양이.\n서식하는 나라마다 외형과 이름이 다르며\n검은색과 갈색이 뒤섞인 털이 특징이다.
+MPID_IrcionCat	이르시온 고양이
+MPID_H_IrcionCat	이르시온에서만 서식하는 고양이.\n서식하는 나라마다 외형과 이름이 다르며\n발과 얼굴, 귀와 꼬리만 검은 게 특징이다.
+MPID_SolumCat	솔룸 고양이
+MPID_H_SolumCat	솔룸에서만 서식하는 고양이.\n서식하는 나라마다 외형과 이름이 다르며\n표범 같은 털을 가지고 있는 게 특징이다.
+MPID_KarisonCoco	칼리손 닭
+MPID_H_KarisonCoco	주로 피레네에서 서식하는 닭.\n둥근 외형을 보면 상상이 안 가지만\n날 수 있어 전서구로 사용하기도 한다.
+MPID_AuraEagle	아오라 독수리
+MPID_H_AuraEagle	주로 브로디아에서 서식하는 독수리.\n계곡에서 불어오는 상승 기류를 이용해\n날갯짓 없이 날며, 장거리 비행이 특기다.
+MPID_IrisOwl	아이리스 올빼미
+MPID_H_IrisOwl	주로 이르시온에서 서식하는 올빼미.\n상당히 빠르며, 큰 날개로 체온을 유지하고\n추운 날씨에도 힘차게 비행한다.
+MPID_PannaCamel	판나 낙타
+MPID_H_PannaCamel	주로 솔룸에서 서식하는 낙타.\n솔룸에선 집집마다 있다는 소문이 있다.\n사람을 태우고 많은 짐을 운반할 수 있다.
+MPID_EleosPigeon	엘레오스 비둘기
+MPID_H_EleosPigeon	엘레오스 대륙 전역에 서식하는 잡식 들새.\n가끔 무리 지어 나타나 주변을\n떠들썩하게 하며 어디에서나 볼 수 있다.
+MPID_EleosSeagull	엘레오스 갈매기
+MPID_H_EleosSeagull	엘레오스 대륙 전역의 해변에서 서식하는\n들새로, 물고기를 좋아해서 호시탐탐\n낚시꾼을 노린다.
+MPID_EleosDog	엘레오스 개
+MPID_H_EleosDog	엘레오스 대륙 전역에 서식하는 개.\n사람을 잘 따르며 교육도 어렵지 않다.\n실내에서 기르기도 하는 영리한 동물.
+MPID_EleosBlackDog	검은 엘레오스 개
+MPID_H_EleosBlackDog	엘레오스 대륙 전역에 서식하는 개.\n검은 털이 특징으로\n사람을 잘 따르며 교육도 어렵지 않다.
+MPID_EleosWhiteDog	하얀 엘레오스 개
+MPID_H_EleosWhiteDog	엘레오스 대륙 전역에 서식하는 개.\n흰색 털이 특징으로\n사람을 잘 따르며 교육도 어렵지 않다.
+MPID_MailDonkey	메르 당나귀
+MPID_H_MailDonkey	피레네에서만 서식하는 희귀 동물. 깨끗한\n물과 신선한 작물을 좋아한다. 야생에서\n발견되면 풍년을 맞는다는 전설이 있다.
+MPID_RutileMarmot	루틸 마멋
+MPID_H_RutileMarmot	브로디아에서만 서식하는 희귀 동물.\n높은 벼랑 등 사람이 없는 장소를 좋아한다.\n브로디아의 수호신이라고 불리기도 한다.
+MPID_LizardsReindeer	리자즈 순록
+MPID_H_LizardsReindeer	이르시온에서만 서식하는 희귀 동물.\n깊은 숲속에서 종종 발견되곤 한다.\n뿔로 만든 약은 만병통치약이라고 전해진다.
+MPID_BavaroFlamingo	바바로 플라밍고
+MPID_H_BavaroFlamingo	솔룸에서만 서식하는 희귀 동물.\n왕족 사이에서 가끔 전서구로도 활약한다.\n주로 오아시스 주변에서 발견된다.

@@ -1,0 +1,45 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x0A\x08リュール\nWhat is this place, Lucina? I feel a magical\npower here.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ルキナ\nThis appears very similar to Arena Ferox.\nMost curious.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nFerox? That's a place from your world, right?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ルキナ\nYes. Ferox is a kingdom divided by east and\nwest, with a militaristic khan overseeing each.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ルキナ\nEvery so many years, a fighting tournament is\nheld to determine which khan will rule them all.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06ルキナ\nArena Ferox is where I crossed swords with\nmy father.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nHe taught you swordsmanship, yes? It must\nhave been an interesting, if fierce, bout.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ルキナ\nYes. It was a hard fight. He had no idea who\nI was and held nothing back.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ルキナ\nHe'd trained me well, but that fight was when I\nfirst saw just how strong my father really was.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ルキナ\nThat must be precisely why this familiar place\nwas chosen as a trial ground.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nTrial ground? What does that mean?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ルキナ\nWe each feel the extraordinary power here.\nTell me what it feels like, deep down.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nIt's almost like I'm sensing your power...but also\nlike you're far away.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ルキナ\nWell then, draw your weapon. Fight me. If you\npass the trial, our bond will grow stronger.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06ルキナ\nWith a stronger bond, you will be able to draw\nupon more of my power as an Emblem.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nI hope I can learn as much in this arena as\nyou did.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06ルキナ\nThat's good to hear. However...\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06ルキナ\nIt's going to require more than hope for you to\nwin this battle.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0A\x08リュール\nYou're going to be surprised if you think I'm\nonly bringing hope to this fight.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06ルキナ\nThat's the spirit, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x18\x06ルキナ\x0EStandBy\n\x0E\x03\x02\x08\x06ルキナ\nDon't hold back. Strengthen our bond. Fight\nwith everything you've got, \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x05\x01\x14\x06ルキナ\nAngry\n\x0E\x03\x02\x08\x06ルキナ\nWhat's wrong, \x0E\x06\x03\x00? You won't win\njust by standing there.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nYour stance has no openings. I don't see how\nI could hit you, no matter where I strike.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x08\x06ルキナ\nDoubt will only dull your attacks. Trust in\nyourself, and come at me with everything!\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nUnderstood! Here I come!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWow, the khans fought in the arena for the right\nto rule? It's almost like fate brought us here.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ルキナ\x02b\n\x0E\x03\x02\x08\x06ルキナ\nThe khans didn't battle. They picked champions\nto fight on their behalf.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x1C\x0Cアルフレッド\x0CStatus\n\x0E\x03\x02\x0E\x0Cアルフレッド\nPhew! If that is the case, I think it fortunate that\nthis place is not the true arena.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x08\x06ルキナ\n\x0E\x05\x01\x16\x06ルキナ\x0CStatus\nHaha, indeed. Now, come at me!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ルキナ\x022\n\x0E\x03\x02\x08\x06ルキナ\nI lost... Your combat skills have grown\nadmirably, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ルキナ\nCompared to when we first met, you've grown\nstrong and become a formidable opponent.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nThank you. It is in no small part because of your\nguidance, Lucina.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ルキナ\nSuch kind words. If I helped you at all, then\nI couldn't be happier.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06ルキナ\nThere's a lesson there, you know. What one\nperson can achieve on their own is limited.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nI agree. I couldn't have come this far by myself.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nEverything I've accomplished has been thanks\nto those who have fought beside me. \x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ルキナ\nI'm relieved to hear that. I feel my friends close\nby, even now. Their spirits live on in me.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nTheir spirits live on...\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルキナ\nThe power of my bonds with them helped us to\nchange a hopeless future.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06ルキナ\nThe same as you are now, with your own allies.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08リュール\nYou're one of those allies, Lucina. Aren't you?\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ルキナ\nOf course! I'll fight with you until the very last.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nThen we can't lose. No matter what the world\nsends our way.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06ルキナ\nYou're right! Our bonds are far stronger\nthan destiny!\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

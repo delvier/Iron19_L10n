@@ -1,0 +1,510 @@
+MID_Hub_ThisTime	Moment
+MID_Hub_Time_Morning	\x0E\x08\x02\x10\x0EMorningMatin
+MID_Hub_Time_Noon	\x0E\x08\x02\x08\x06DayAprès-midi
+MID_Hub_Time_Evening	\x0E\x08\x02\x10\x0EEveningSoir
+MID_Hub_Time_Night	\x0E\x08\x02\x0C\nNightNuit
+MID_Hub_Move	OK
+MID_Hub_Enter	Entrer
+MID_Hub_Talk	Parler
+MID_Hub_Check	Examiner
+MID_Hub_Ring_Cleaning_Brush	Polir
+MID_Hub_Ring_Cleaning_BrushStrong	Polir fermement
+MID_Hub_Ring_Cleaning_Stop	Terminer
+MID_Hub_Unknown	???
+MID_Hub_WeaponShop	Armurerie
+MID_Hub_ItemShop	Magasin
+MID_Hub_Blacksmith	Forge
+MID_Hub_AccessoryShop	Boutique
+MID_Hub_Mascot	Autel mystérieux
+MID_Hub_Mascot_After	Autel de \x0E\x06\x05\x00
+MID_Hub_FortuneStore	Prédictions
+MID_Hub_FreeMarket	Brocante
+MID_Hub_Photoshop	Archives
+MID_Hub_amiibo	Pavillon amiibo
+MID_H_Hub_amiibo	Choisissez une action.
+MID_Hub_amiibo_Read	Scanner
+MID_Hub_amiibo_Accessory_Trade	Tenues
+MID_Hub_amiibo_Music_Trade	Morceaux
+MID_Hub_Animal	Étable
+MID_Hub_Here_Unit	Alliés
+MID_Hub_Area_List	Lieux
+MID_Hub_Area_News	Notifications
+MID_Hub_Area_News_Nothing	Aucune notification.
+MID_Hub_Area_Open	NOUVEAU
+MID_Hub_Area_NewItem	Nouveau stock
+MID_Hub_Area_NewSystem	Nouvelle fonction
+MID_Hub_Area_NewLevel	Nouvelle difficulté
+MID_Hub_Area_Count	Reste : \x0E\x01\x00\x00
+MID_Hub_Area_NewStage	Nouvelle carte
+MID_Hub_Next	Partir
+MID_Hub_Next_Move	OK
+MID_Hub_Next_Confirm	Quitter la zone ?
+MID_Hub_Next_Confirm_Where	Quelle est votre destination ?
+MID_Hub_Next_Confirm_Solanel	Somniel
+MID_Hub_Next_Confirm_Gmap	Carte du monde
+MID_Hub_Next_Go	Chapitre suivant
+MID_Hub_Confirm_Cancel	Rester sur place
+MID_Hub_Gmap	Carte du monde
+MID_Hub_Gmap_Confirm	Aller à la carte du monde ?
+MID_Hub_M026	Bataille finale
+MID_Hub_Solanel	Somniel
+MID_Hub_OtherWorld_Confirm	Franchir le portail pour se rendre\ndans un autre monde ?
+MID_Hub_OtherWorld_Go	OK
+MID_Hub_MyRoom	Ma chambre
+MID_H_Hub_MyRoom	La somptueuse chambre à coucher du Dragon divin.\nRemémorez-vous des souvenirs ou allez vous reposer.
+MID_Hub_GodRoom	Salle des Emblèmes
+MID_H_Hub_GodRoom	Ici se trouvent vos Anneaux\x0E\x01\x09\x00 d'Emblèmes.\nHéritez de techniques ou créez des anneaux de lien.
+MID_Hub_Cafe	Café
+MID_H_Hub_Cafe	Un espace convivial et détendu équipé d'une cuisine.\nPassez vos commandes et mangez avec vos amis.
+MID_Hub_Arena	Arène
+MID_H_Hub_Arena	Espace d'entraînement extradimensionnel. Affrontez\nalliés ou Emblèmes pour gagner de l'expérience.
+MID_Hub_Arena_Closed	Elle n'est pas ouverte pour le moment.
+MID_Hub_Tower	Tour des épreuves
+MID_H_Hub_Tower	Un petit bâtiment sur le cap où vous pouvez vous\nmesurer à des épreuves traversant l'espace et le temps.
+MID_Hub_CentralStores	Place
+MID_H_Hub_CentralStores	La place centrale au niveau de la porte principale\nde Somniel abrite de nombreux commerces.
+MID_Hub_Poolside	Piscine
+MID_H_Hub_Poolside	Un élégant bassin. Parfait pour se détendre\navec quelques amis entre deux batailles.
+MID_Hub_Orchard	Verger
+MID_H_Hub_Orchard	Plantation d'arbres fruitiers parfaitement entretenue.\nRécoltez des ingrédients pour les faire cuisiner au café.
+MID_Hub_Pond	Étang
+MID_H_Hub_Pond	Une petite étendue d'eau abritant\npoissons et autres créatures.
+MID_Hub_TrainingSpot	Arrière-cour
+MID_H_Hub_TrainingSpot	Une zone un peu reculée où les alliés peuvent effectuer\ndiverses activités, comme l'entraînement physique.
+MID_Hub_Farm	Ferme
+MID_H_Hub_Farm	Pâturages où les animaux peuvent brouter. On peut\ny prendre soin de tous les animaux trouvés en Elyos.
+MID_Hub_GoodViewSpot	Belvédère
+MID_H_Hub_GoodViewSpot	Falaise naturelle offrant une vue splendide sur les\ncieux. Lieu idéal pour la contemplation et la méditation.
+MID_Hub_Cave	Grotte
+MID_H_Hub_Cave	Située à Somniel, cette ancienne grotte calcaire\nabrite une sorte d'autel dans sa fraîcheur souterraine.
+MID_Hub_MyRoom_Chest	Commode
+MID_Hub_H_MyRoom_Chest_Nothing	Il semble qu'un objet important y ait sa place.
+MID_Hub_H_MyRoom_Chest_Ring_PickUp	L'Anneau du Pacte est à l'intérieur.\nL'en sortir ?
+MID_Hub_MyRoom_Chest_Ring_PickUp	(Vous reposer dans votre lit peut changer\nles alliés que vous voyez à Somniel. Si l'allié\nà qui vous voulez donner l'anneau ne semble\npas être dans les environs, essayez de vous\nreposer.)
+MID_Hub_H_MyRoom_Chest_Ring_PickUp_Yes	Prendre l'anneau
+MID_Hub_H_MyRoom_Chest_Ring_Return	Ranger l'anneau ?
+MID_Hub_H_MyRoom_Chest_Ring_Return_Yes	Ranger
+MID_Hub_MyRoom_Bed	Lit
+MID_Hub_MyRoom_Bed_TitleHelp	Choisissez une action.
+MID_Hub_MyRoom_MovieChoice	Choisissez une cinématique.
+MID_Hub_MyRoom_SoundChoice	Choisissez un morceau.
+MID_Hub_MyRoom_SoundChoice_Stopping	En cours : aucun
+MID_Hub_MyRoom_SoundChoice_Playing	En cours : \x0E\x01\x00\x00
+MID_Hub_Bed_Sleep	Se reposer
+MID_Hub_Bed_Sleep_CameHere	On dirait que quelqu'un arrive...
+MID_Hub_Bed_Sleep_Guide	Se reposer un peu ?\n(Le temps s'écoulera à Somniel.)
+MID_Hub_Bed_Sleep_Yes	Se reposer
+MID_Hub_Bed_Recall	Souvenirs
+MID_Hub_Bed_Recall_Wakeup	Réveils
+MID_Hub_Bed_Recall_Wakeup_List	Liste des réveils
+MID_Hub_Bed_Recall_Movie	Cinématiques
+MID_Hub_Bed_Recall_MovieList	Cinématiques
+MID_Hub_Bed_Recall_Music	Musique
+MID_Hub_Bed_Difficulty_Change	Difficulté
+MID_Hub_Bed_Difficulty_Change_Confirm	Vous pouvez uniquement réduire la difficulté\ndu jeu et non l'accroître, et ce de manière\nirréversible. Voulez-vous modifier la difficulté ?
+MID_Hub_Bed_Difficulty_Change_Before	Difficulté actuelle
+MID_Hub_Bed_Difficulty_Change_After	Nouvelle Difficulté
+MID_Hub_Bed_Difficulty_Change_Yes	Modifier
+MID_Hub_Bed_Difficulty_Change_Dialog	Nouvelle difficulté : \x0E\x01\x00\x00.
+MID_Hub_Bed_Difficulty_Change_NG	La Difficulté normale ne peut être réduite.
+MID_Hub_MyRoom_Piano	Piano
+MID_Hub_MyRoom_Piano_Release	Vous pouvez désormais accéder au piano\ndans votre chambre à Somniel.
+MID_Hub_MyRoom_Piano_Confirmation	Voir les crédits ?
+MID_Hub_MyRoom_Piano_Confirmation_Yes	Voir
+MID_Hub_Talk_Gift	Cadeau
+MID_Hub_Talk_PromisedRing	Anneau du Pacte
+MID_Hub_Talk_Fishing	Pêche
+MID_Hub_Talk_DragonRide	Vol sur wyverne
+MID_Hub_Talk_MuscleExercises	Entraînement physique
+MID_Hub_Talk_Gift_PickUp	Choisissez un cadeau à offrir.
+MID_Hub_Talk_Gift_Confirmation	Offrir ce cadeau : \x0E\x01\x00\x00 ?
+MID_Hub_Talk_Gift_Yes	Offrir
+MID_Hub_Mascot_Where	On dirait une sorte d'autel.
+MID_Hub_Mascot_Spot	\x0E\x06\x05\x00
+MID_Hub_H_Mascot_Spot	Comment en prendre soin ?
+MID_Hub_Mascot_Name	Choisissez un nom pour l'esprit de Somniel.
+MID_Hub_Mascot_Feeding	Nourrir
+MID_Hub_Mascot_FoodChoice	Choisissez la nourriture à donner.
+MID_Hub_Mascot_FoodChoice_Nothing	Rien à donner.
+MID_Hub_Mascot_Gift_Confirmation	Donner ceci : \x0E\x01\x00\x00 ?
+MID_Hub_Mascot_Stroking	Caresser
+MID_Hub_Mascot_Accessories	Habiller
+MID_Hub_Mascot_Accessories_Help	Que voulez-vous changer ?
+MID_Hub_Mascot_Accessories_Choice	Choisissez un accessoire.
+MID_Hub_Mascot_Accessories_Parts	Accessoires
+MID_Hub_Mascot_Accessories_Head	Tête
+MID_Hub_Mascot_Accessories_Tail	Queue
+MID_Hub_Mascot_Accessories_Color	Foulard
+MID_Hub_Mascot_Accessories_Color_Choice	Choisissez la couleur du foulard.
+MID_Hub_Mascot_Accessories_None	-
+MID_Hub_Pedestal	Piédestal
+MID_Hub_Skill_Inheritance	Hériter de techniques
+MID_Hub_Ring_Gacha	Créer des anneaux de lien
+MID_Hub_Ring_Merge	Unir des anneaux de lien
+MID_Hub_Ring_Cleaning	Polir des anneaux\x0E\x01\x0B\x00
+MID_Hub_RefineGodWeapon	Armes de fusion
+MID_Hub_Inheritance_End	Héritée
+MID_Hub_Inheritance_Level	Requis : niv. \x0E\x01\x00\x00
+MID_Hub_Inheritance_Invalid	Cet effet ne se cumulera pas s'il\nest équipé pendant un engagement\navec l'Emblème \x0E\x01\x00\x00.
+MID_Hub_Inheritance_Skill	Technique
+MID_Hub_Inheritance_Skill_HELP	De quelle technique hériter ?
+MID_Hub_Inheritance_LevelHelp	Niv. de lien \x0E\x01\x00\x00 requis
+MID_Hub_GodBodLevel	Niveaux de lien
+MID_Hub_Inheritance_Skill_Confirmation	Hériter de cette technique ?
+MID_Hub_Inheritance_Skill_Yes	Hériter
+MID_Hub_Inheritance_Skill_Finish	Technique héritée : \x0E\x01\x00\x00\x0E\x01\x01\x00.
+MID_Hub_Ring_Common_God_Empty	Vous n'avez aucun anneau\x0E\x01\x0A\x00.
+MID_Hub_H_Ring_Gacha	Choisissez un Emblème pour créer les anneaux.
+MID_Hub_Ring_Gacha_TotalRefinedCount	Total d'anneaux créés
+MID_Hub_Ring_Gacha_RingList	Anneaux de lien obtenus
+MID_Hub_Ring_Gacha_1_Time_TitleHelp	Déterminez une quantité.
+MID_Hub_Ring_Gacha_1_Time	En créer 1.
+MID_Hub_Ring_Gacha_10_Times	En créer 10.
+MID_Hub_Ring_Gacha_New	NOUV.
+MID_Hub_Ring_Merge_Help	Choisissez des anneaux de lien.
+MID_Hub_Ring_Merge_Empty	Aucun anneau.
+MID_Hub_Ring_Merge_Needed_Count	Matériaux requis :
+MID_Hub_Ring_Merge_Failed_Full	Vous ne pouvez détenir d'autres anneaux.
+MID_Hub_Ring_Merge_Confirm	Unir ces anneaux de lien ?
+MID_Hub_Ring_Merge_Yes	Unir
+MID_Hub_Ring_Cleaning_GodSelect	Choisissez un anneau\x0E\x01\x0A\x00 à polir.
+MID_Hub_Ring_Cleaning_Help	Choisissez qui le polira.
+MID_Hub_Ring_Cleaning_Confirm	\x0E\x01\x01\x00 polira :\n\x0E\x01\x00\x00.\nConfirmer ?
+MID_Hub_Ring_Cleaning_Yes	Polir
+MID_Hub_Ring_Cleaning_Finish	Terminer
+MID_Hub_Ring_Cleaning_Finish_Confirm	Arrêter de polir ?
+MID_Hub_RefineGodWeapon_Refine	Améliorer
+MID_Hub_RefineGodWeapon_Refine_Help	Quelle arme de fusion améliorer ?
+MID_Hub_RefineGodWeapon_RefineCapacity	Capacité
+MID_Hub_RefineGodWeapon_RefineStatus	Caractéristiques
+MID_Hub_RefineGodWeapon_Empty	Aucune arme de fusion dispo.
+MID_Hub_RefineGodWeapon_Nothing	Aucune amélioration.
+MID_Hub_RefineGodWeapon_SelectParam_Help	Quelle caractéristique améliorer ?
+MID_Hub_RefineGodWeapon_Comfirm	Améliorer l'arme \x0E\x01\x01\x00\n(\x0E\x01\x00\x00) ?
+MID_Hub_RefineGodWeapon_Contents	Améliorer :
+MID_Hub_RefineGodWeapon_Comfirm_Skill	Ajouter l'effet d'efficacité\nà l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00) ?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Yes	Ajouter
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change	Remplacer l'effet d'efficacité\nsur l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00) ?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change_Yes	Remplacer
+MID_Hub_RefineGodWeapon_Comfirm_Yes	Améliorer
+MID_Hub_RefineGodWeapon_Comfirm2	Arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00)\naméliorée : \x0E\x01\x02\x00 niv. \x0E\x01\x03\x00.
+MID_Hub_RefineGodWeapon_Comfirm2_Skill	Technique \x0E\x01\x02\x00 ajoutée\nà l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00).
+MID_Hub_RefineGodWeapon_PowerUpValue	Coût cap.
+MID_Hub_RefineGodWeapon_Reset	Expurger
+MID_Hub_RefineGodWeapon_Reset_Help	Choisissez l'arme à expurger.
+MID_Hub_RefineGodWeapon_ResetParam_Help	Quelle amélioration retirer ?
+MID_Hub_RefineGodWeapon_Reset_Comfirm	Expurger l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00) afin\nde revenir à ceci : \x0E\x01\x02\x00 niv. \x0E\x01\x03\x00 ?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Skill	Retirer la technique \x0E\x01\x02\x00\nde l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00) ?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Yes	Expurger
+MID_Hub_RefineGodWeapon_Reset_Comfirm2	Arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00) expurgée et\nrevenue à ceci : \x0E\x01\x02\x00 niv. \x0E\x01\x03\x00.
+MID_Hub_RefineGodWeapon_Reset_Comfirm2_Skill	Technique \x0E\x01\x02\x00 retirée\nde l'arme \x0E\x01\x01\x00 (\x0E\x01\x00\x00).
+MID_Hub_Arena_Gate	Sceau d'entraînement
+MID_Hub_Arena_Limit	Restant :
+MID_Hub_Arena_Lv_MAX	Le niveau de lien est au maximum.
+MID_Hub_Arena_Lv_Cap	Voir le dialogue pour\naugmenter le niveau de lien.
+MID_Hub_Arena_Lv_Cap_Look	Voir le dialogue de lien
+MID_Hub_Arena_Lv_Once	Vous ne pouvez augmenter un\nlien que de 5 niveaux à la fois.
+MID_Hub_Arena_Help	Choisissez une action.
+MID_Hub_Arena_Start	Standard
+MID_Hub_Arena_Start_Help	Choisissez l'unité à entraîner.
+MID_Hub_Arena_GodRelianceUp_Start	Emblème
+MID_Hub_Arena_GodRelianceUp_Start_Got_Select_Help	Choisissez un Emblème.
+MID_Hub_Arena_GodRelianceUp_Lv_Select	Choisissez un niveau de lien.
+MID_Hub_Arena_GodRelianceUp_Help	Une unité et un Emblème\npeuvent s'entraîner pour\naugmenter leur niveau de\nlien. Le coût en fragments\ndépend de votre objectif.
+MID_Hub_Arena_GodRelianceUp_Start_Confirm	Débuter l'entraînement avec \x0E\x01\x00\x00\net \x0E\x01\x01\x00 ?
+MID_Hub_Arena_NoWeapon	Ce personnage ne peut pas s'entraîner\ncar il n'a pas d'arme dont il peut s'équiper\ndans son inventaire.
+MID_Hub_Arena_Start_Confirm	Débuter l'entraînement pour \x0E\x01\x00\x00 ?
+MID_Hub_Arena_Win	VICTOIRE
+MID_Hub_Arena_Lose	DÉFAITE
+MID_Hub_Arena_Draw	ÉGALITÉ
+MID_Hub_Arena_BattleStart	VS
+MID_Hub_Level_Choice	Choisissez la difficulté.
+MID_Hub_NewLevel_Open	Se déverrouille à mesure\nque l'histoire progresse.
+MID_Hub_MiniGame_Expert	Expert
+MID_Hub_MiniGame_Start	C'EST PARTI !
+MID_Hub_MiniGame_Finish	TERMINÉ !
+MID_Hub_MiniGame_Stop	TERMINÉ !
+MID_Hub_Mascot_Take_MuscleExercises	S'entraîner en bénéficiant de l'aide fournie\npar \x0E\x06\x05\x00 ?
+MID_Hub_Mascot_Take_MuscleExercises_Yes	S'entraîner ensemble
+MID_Hub_Mascot_NoTake_MuscleExercises	S'entraîner en solo
+MID_Hub_Mascot_Take_Fishing	Pêcher en bénéficiant de l'aide fournie par\n\x0E\x06\x05\x00 ?
+MID_Hub_Mascot_Take_Fishing_Yes	Pêcher ensemble
+MID_Hub_Mascot_NoTake_Fishing	Pêcher en solo
+MID_Hub_Mascot_Take_DragonRide	Chevaucher en bénéficiant de l'aide fournie par\n\x0E\x06\x05\x00 ?
+MID_Hub_Mascot_Take_DragonRide_Yes	Chevaucher ensemble
+MID_Hub_Mascot_NoTake_DragonRide	Chevaucher en solo
+MID_Hub_MiniGame_AddDifficulty	Le niveau de difficulté \x0E\x01\x00\x00\nest à présent disponible.
+MID_Hub_MiniGame_AddDifficulty_Muscle	Le niveau de difficulté Culturiste est à présent\ndisponible (il vous permet de battre votre\nprécédent record, sans gain de récompenses\nni bonus de caractéristiques).
+MID_Hub_MiniGame_MascotHelp	Assistance
+MID_Hub_MiniGame_MascotHelp_Count	Total
+MID_Hub_MiniGame_ThisTimeScore	Score
+MID_Hub_MiniGame_BestScore	Record
+MID_Hub_MiniGame_NoScore	Aucun
+MID_Hub_MiniGame_TryResult	Résultats
+MID_Hub_MiniGame_DifficultyTipe	Difficulté : \x0E\x01\x00\x00
+MID_Hub_MiniGame_NewRecord	Nouveau record !
+MID_Hub_MiniGame_Result_SSS	S++
+MID_Hub_MiniGame_Result_SS	S+
+MID_Hub_MiniGame_Result_S	S
+MID_Hub_MiniGame_Result_A	A
+MID_Hub_MiniGame_Result_B	B
+MID_Hub_MiniGame_Result_C	C
+MID_Hub_MiniGame_Result_D	D
+MID_Hub_MiniGame_Result_E	E
+MID_Hub_MiniGame_Result_F	F
+MID_Hub_MuscleExercises_Menu_Choice	Choisissez un exercice.
+MID_Hub_MuscleExercises_Rule	Règles
+MID_Hub_MuscleExercises_Effect	Effet
+MID_Hub_MuscleExercises_Continuity	Continuer l'entraînement physique ? Vous ne\ntoucherez aucun avantage ou récompense.
+MID_Hub_MuscleExercises_Continuity_Unacquired	Continuer l'entraînement physique ?
+MID_Hub_MuscleExercises_Continuity_Yes	Continuer
+MID_Hub_MuscleExercises_Muscle	Culturiste
+MID_Hub_MuscleExercises_Perfect	Parfait
+MID_Hub_MuscleExercises_Good	Correct
+MID_Hub_MuscleExercises_Bad	Échec
+MID_Hub_MuscleExercises_Assist	Assistance
+MID_Hub_MuscleExercises_SpeedUp	Accélérer !
+MID_Hub_MuscleExercises_Record	Score actuel
+MID_Hub_MuscleExercises_SuccessCount	Réussites
+MID_Hub_MuscleExercises_ErrorCount	Erreurs
+MID_Hub_MuscleExercises_Result	Résultats
+MID_Hub_MuscleExercises_StatusUp	\x0E\x01\x00\x00 augmentera de \x0E\x01\x01\x00\npour la prochaine bataille.
+MID_Hub_MuscleExercises_PushUps	Pompes
+MID_Hub_MuscleExercises_PushUps_Rule_0	Bloquez la barre au bon\nendroit et au bon moment.
+MID_Hub_MuscleExercises_PushUps_Rule_1	La vitesse va augmenter.\nRatez trois fois et c'est fini.
+MID_Hub_MuscleExercises_PushUps_Rule_2	\x0E\x06\x03\x00 verra peut-être\nsa Frc augmenter pour la\nprochaine bataille.
+MID_Hub_MuscleExercises_Ads	Abdominaux
+MID_Hub_MuscleExercises_Ads_Rule_0	Appuyez de manière répétée sur\nle bouton pour remplir la jauge.
+MID_Hub_MuscleExercises_Ads_Rule_1	Le score dépend de votre rapidité.\nTout s'arrête si la jauge se vide.
+MID_Hub_MuscleExercises_Ads_Rule_2	\x0E\x06\x03\x00 verra peut-être\nses PV augmenter pour la\nprochaine bataille.
+MID_Hub_MuscleExercises_Squat	Flexions
+MID_Hub_MuscleExercises_Squat_Rule_0	Déplacez les sticks en rythme\nen fonction des indications.
+MID_Hub_MuscleExercises_Squat_Rule_1	Suivez les flèches. La partie\ns'arrête après trois échecs.
+MID_Hub_MuscleExercises_Squat_Rule_2	\x0E\x06\x03\x00 verra peut-être\nsa Tec augmenter pour la\nprochaine bataille.
+MID_Hub_Fishing_Continue_RodSelect	Choisissez une canne à pêche.
+MID_Hub_Fishing_Continue	Continuer de pêcher ?
+MID_Hub_Fish_Pcture_Book	Guide poissons
+MID_Hub_Fishing_BonusFish	Espèces bonus
+MID_Hub_Fishing_Rod	Canne à pêche
+MID_Hub_Fishing_Fish	Prises possibles
+MID_Hub_Fishing_Limit	Essais restants
+MID_Hub_Fishing_Count	Prises
+MID_Hub_Fishing_Success	Bien joué !
+MID_Hub_Fishing_Perfect	Parfait
+MID_Hub_Fishing_Escaped_Fast	Trop tôt...
+MID_Hub_Fishing_Escaped_Late	Trop tard...
+MID_Hub_Fishing_Escaped	Le poisson s'est échappé...
+MID_Hub_Fishing_BestSize	Record
+MID_Hub_Fishing_Centimeter	cm
+MID_Hub_Fishing_Size	Taille
+MID_Hub_Fishing_TinySize	Minuscule
+MID_Hub_Fishing_SmallSize	Petit
+MID_Hub_Fishing_MiddleSize	Moyen
+MID_Hub_Fishing_LargeSize	Gros
+MID_Hub_Fishing_BigSize	Très gros
+MID_Hub_Fishing_GiantSize	Gigantesque
+MID_Hub_Fishing_Shadow_Small	Petite ombre
+MID_Hub_Fishing_Shadow_Big	Grande ombre
+MID_Hub_Fishing_Shadow_Giant	Ombre géante
+MID_Hub_Fishing_GetItem	Objets obtenus
+MID_Hub_Fishing_Conditions	Conseils de pêche
+MID_Hub_Fishing_TimeZone	Horaire
+MID_Hub_Fishing_TimeZone_Night	\x0E\x08\x02\x10\x0EEveningSoir/\x0E\x08\x02\x0C\nNightNuit
+MID_Hub_Fishing_FishType	Espèces capturées
+MID_Hub_Fishing_Continue_Yes	Continuer
+MID_Hub_Fishing_End	Quitter
+MID_Hub_Fishing_Bonus	BONUS !
+MID_Hub_Fishing_Hit	ÇA MORD !
+MID_Hub_Fishing_UnicornChar	Omble cornu
+MID_Hub_H_Fishing_UnicornChar	L'épaisse défense qui pousse sur\nsa tête se brise parfois. Sa chair\nest souvent consommée hachée.
+MID_Hub_Fishing_PonYamame	Truite daphnée
+MID_Hub_H_Fishing_PonYamame	Les motifs à pois sur ses flancs\ns'estompent avec l'âge. Sa chair\noffre un goût délicat.
+MID_Hub_Fishing_HellKoi	Carpe cario
+MID_Hub_H_Fishing_HellKoi	Animal de compagnie populaire\npour ses couleurs vives. Riche en\nnutriments et délicieux frit.
+MID_Hub_Fishing_RavanaTrout	Truite tiradène
+MID_Hub_H_Fishing_RavanaTrout	S'attrape facilement avec un peu\nde pratique. Souvent élevée en\nElusia et conservée séchée.
+MID_Hub_Fishing_SlitFinSalmon	Saumon tipa
+MID_Hub_H_Fishing_SlitFinSalmon	Poisson star de Brodia. Connu\npour ses longues nageoires et sa\nchair rouge due à sa nourriture.
+MID_Hub_Fishing_MandCobbBass	Bar monville
+MID_Hub_H_Fishing_MandCobbBass	Un poids lourd, champion des\ntournois de pêche en Solm.\nOn en fait de fameux sashimi.
+MID_Hub_Fishing_BanganHerring	Hareng samien
+MID_Hub_H_Fishing_BanganHerring	Nage souvent en larges bancs, ce\nqui offre de grosses prises aux\npêcheurs. Goût délicat.
+MID_Hub_Fishing_TeoteSquid	Calamar tabril
+MID_Hub_H_Fishing_TeoteSquid	Poisson intelligent qui aime\nmanger tout ce qui brille.\nConsommé haché.
+MID_Hub_Fishing_BlosEel	Anguille mycèle
+MID_Hub_H_Fishing_BlosEel	Difficile de retirer l'hameçon à\ncause de son corps visqueux.\nSa chair salée est appréciée.
+MID_Hub_Fishing_LogerOctopus	Pieuvre dolomine
+MID_Hub_H_Fishing_LogerOctopus	Assurez-vous de la remonter\navant qu'elle ne s'accroche à un\nrocher. Se cuisine entière.
+MID_Hub_Fishing_HegeBeardCatfish	Poisson-chat myr
+MID_Hub_H_Fishing_HegeBeardCatfish	Grâce à ses longues moustaches,\nil navigue au toucher. Peut se\nconsommer bouilli, frit ou séché.
+MID_Hub_Fishing_SarriaDogMorayEel	Anguille canissaire
+MID_Hub_H_Fishing_SarriaDogMorayEel	Poisson fougueux et agressif\navec des dents acérées. Sa chair\nriche récompense une dure lutte.
+MID_Hub_Fishing_OmemeSardine	Sardine globuleuse
+MID_Hub_H_Fishing_OmemeSardine	Fretin firénien qui se protège\nen formant de larges bancs.\nSe nettoie facilement à la main.
+MID_Hub_Fishing_AvidCrab	Crabe sammar
+MID_Hub_H_Fishing_AvidCrab	Se pêche surtout à l'aube, car\nil s'enfouit dans le sable le jour.\nSa coquille est aussi comestible.
+MID_Hub_Fishing_MunonTailHorseMackerel	Maquereau luxequeue
+MID_Hub_H_Fishing_MunonTailHorseMackerel	Adapté aux novices de la\npréparation de poisson. Séché,\nil révèle toute sa saveur.
+MID_Hub_Fishing_DosmaRay	Raie précipice
+MID_Hub_H_Fishing_DosmaRay	Sa queue venimeuse surprend\nceux qui aperçoivent le motif en\nforme de sourire sur son ventre.
+MID_Hub_Fishing_DemonFangCod	Morue valamone
+MID_Hub_H_Fishing_DemonFangCod	Très répandue en Firene et en\nBrodia. Dans les régions froides,\ntoutes ses parties sont utilisées.
+MID_Hub_Fishing_TephraSkipjack	Thon bisotin
+MID_Hub_H_Fishing_TephraSkipjack	Puissant poisson qui résistera à\nsa capture. On apprécie les plats\nfrais préparés avec sa chair.
+MID_Hub_Fishing_RainbowTrout	Truite chromatique
+MID_Hub_H_Fishing_RainbowTrout	Poisson extrêmement rare et\nmystérieux aux écailles colorées.\nSa chair est un mets fin.
+MID_Hub_Fishing_EnchantSkipjack	Thon enchanté
+MID_Hub_H_Fishing_EnchantSkipjack	On connaît peu de choses de\ncette variété rare de thon, car\nil est difficile à pêcher.
+MID_Hub_DragonRide_NowScore	Score
+MID_Hub_DragonRide_BreakTarget	Cibles touchées
+MID_Hub_DragonRide_Target_Pattern	Types
+MID_Hub_DragonRide_Target_Normals	Standard
+MID_Hub_DragonRide_Target_Normals_Help	Une cible standard qui\nse brise quand elle est\ntouchée.
+MID_Hub_DragonRide_Target_Big	Explosive
+MID_Hub_DragonRide_Target_Big_Help	Brise toutes les cibles\nadjacentes lorsqu'elle\nest touchée.
+MID_Hub_DragonRide_Target_Link	Chaîne
+MID_Hub_DragonRide_Target_Link_Help	Brise en chaîne les cibles\nadjacentes lorsqu'elle\nest touchée.
+MID_Hub_DragonRide_Target_Special	Amélioration
+MID_Hub_DragonRide_Target_Special_Help	Améliore votre tir\npendant un moment\nlorsqu'elle est touchée.
+MID_Hub_DragonRide_Target_Rroulette	Aléatoire
+MID_Hub_DragonRide_Target_Rroulette_Help	Cette cible change sans\ncesse de type jusqu'à ce\nqu'elle soit touchée.
+MID_Hub_DragonRide_Operation	Commandes
+MID_Hub_DragonRide_Operation_Title_Stick	Sticks
+MID_Hub_DragonRide_Operation_Title_Gyro	Gyroscope
+MID_Hub_DragonRide_Operation_To_Stick	Utiliser les sticks
+MID_Hub_DragonRide_Operation_To_Gyro	Utiliser le gyroscope
+MID_Hub_DragonRide_Operation_Plus	Pause/Reprendre
+MID_Hub_DragonRide_Operation_A	Tirer
+MID_Hub_DragonRide_Operation_Y	Vit. visée
+MID_Hub_DragonRide_Operation_StickLR	Com. visée
+MID_Hub_DragonRide_Operation_StickLR_Push	Réinit. visée
+MID_Hub_DragonRide_Operation_StickLR_Push_Sub	Le gyroscope\ns'active du côté\ndu stick utilisé.
+MID_Hub_DragonRide_Operation_ZLZR	Tirer
+MID_Hub_DragonRide_Operation_LR	Vit. visée
+MID_Hub_DragonRide_Operation_Gyro0	Incliner :
+MID_Hub_DragonRide_Operation_Gyro1	Viser
+MID_Hub_DragonRide_Operation_Suspension	Terminer Vol sur wyverne
+MID_Hub_CafeTerrace_Jukebox	Boîte à musique
+MID_Hub_CafeTerrace_H_Jukebox	Changez la musique jouée à Somniel.
+MID_Hub_CafeTerrace_Board	Tableau d'affichage
+MID_Hub_CafeTerrace_Cook	Commander
+MID_Hub_CafeTerrace_Cook_Choice_Unit	Choisissez deux convives.
+MID_Hub_CafeTerrace_Cook_Choice_Menu	Choisissez un plat.
+MID_Hub_CafeTerrace_Cook_Choice_Foods	Choisissez des ingrédients.
+MID_Hub_CafeTerrace_Cook_Specialty	Spécialité
+MID_Hub_CafeTerrace_Cook_StrongPoint	Excelle
+MID_Hub_CafeTerrace_Cook_Experienced	Maîtrise
+MID_Hub_CafeTerrace_Cook_Challenging	Débute
+MID_Hub_CafeTerrace_Cook_BasicEffect	Effets
+MID_Hub_CafeTerrace_Cook_Favorite	Goûte
+MID_Hub_CafeTerrace_Cook_Favorite_Good	Aime
+MID_Hub_CafeTerrace_Cook_Favorite_Normal	Neutre
+MID_Hub_CafeTerrace_Cook_Favorite_Bad	N'aime pas
+MID_Hub_CafeTerrace_Cook_Chef	Chef
+MID_Hub_CafeTerrace_Friend	Convives
+MID_Hub_CafeTerrace_CookMenu	Plat
+MID_Hub_CafeTerrace_Cook_CallFriend	Convives
+MID_Hub_CafeTerrace_Cook_RelianceStatus	Soutien
+MID_Hub_CafeTerrace_Cook_AddFood	Ajout d'ingrédients
+MID_Hub_CafeTerrace_Cook_AddFood_Nothing	Aucun
+MID_Hub_CafeTerrace_Cook_CanAddFood	Ingrédients utilisables
+MID_Hub_CafeTerrace_Cook_Confirmation	Commencer à cuisiner ?
+MID_Hub_CafeTerrace_Cook_Everyone	Tous gagnent
+MID_Hub_CafeTerrace_Cook_Effect_Nothing	Aucun effet
+MID_Hub_CafeTerrace_Cook_Also	Les \x0E\x01\x00\x00 gagnent aussi
+MID_Hub_CafeTerrace_Cook_Workmanship	Rang
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS	S+
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S	S
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A	A
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B	B
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C	C
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D	D
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E	E
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F	F
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G	G
+MID_Hub_CafeTerrace_Bento_Get	Le cuisinier a emballé les restes pour emporter.
+MID_Hub_CafeTerrace_Bento_Discard	Plat jeté : \x0E\x01\x00\x00
+MID_MENU_NOTICE_BOARD_TITLE	Tableau d'affichage
+MID_MENU_NOTICE_BOARD_HELP	Choisissez une catégorie.
+MID_MENU_NOTICE_BOARD_INVESTMENT	Dons
+MID_MENU_NOTICE_BOARD_INVESTMENT_HELP	Choisissez un royaume.
+MID_MENU_NOTICE_SOLANEL_INFO	Carte de Somniel
+MID_MENU_NOTICE_ACHIEVEMENT	Exploits
+MID_MENU_INVESTMENT_AmountOfMoney	Choisissez la somme à donner.
+MID_MENU_INVESTMENT_G	\x0E\x01\x00\x00\x0E\x01\x01\x00 É
+MID_MENU_INVESTMENT_NEXT_LEVEL	Prochain niveau
+MID_MENU_INVESTMENT_TOTAL	Total des dons
+MID_MENU_INVESTMENT_LEVEL_EFFECT	Effets de montée de niveau
+MID_MENU_INVESTMENT_LEVEL_BONUS	Récompense
+MID_MENU_INVESTMENT_RESULT	Exploration
+MID_MENU_INVESTMENT_LEVEL_EFFECT_MAX	Niveau max atteint
+MID_MENU_INVESTMENT_COMPLETE	COMPLET !
+MID_MENU_INVESTMENT_COMPLETE_INFO	Dons max atteints
+MID_MENU_INVESTMENT_COMPLETE_HELP	\x0E\x08\x02\x04\x02X Afficher le contenu détaillé.
+MID_MENU_INVESTMENT_GOLD_ENEMY	Aberrations dorées
+MID_MENU_INVESTMENT_EXP_ENEMY	Aberrations argentées
+MID_MENU_INVESTMENT_ANIMAL_ENABLE	Adoptable
+MID_MENU_NATIONDATA_TITLE	\x0E\x01\x00\x00 - Ressources trouvées
+MID_MENU_NATIONDATA_REFINE_ITEM	Minéraux
+MID_MENU_NATIONDATA_FOOD	Ingrédients
+MID_MENU_NATIONDATA_ANIMAL	Animaux
+MID_MENU_INVESTMENT_BONUS_FILENE_1	Moisson abondante
+MID_MENU_INVESTMENT_BONUS_BRODIA_1	Filons inépuisables
+MID_MENU_INVESTMENT_BONUS_IRCION_1	Soins miraculeux
+MID_MENU_INVESTMENT_BONUS_SOLUM_1	Marchés opulents
+MID_MENU_INVESTMENT_BONUS_2	Tenues nationales
+MID_MENU_INVESTMENT_BONUS_3	Fidèles compagnons
+MID_MENU_INVESTMENT_BONUS_4	Tenues locales
+MID_MENU_INVESTMENT_BONUS_Get	Reçu : \x0E\x01\x00\x00.
+MID_MENU_INVESTMENT_DIALOG_NEXT_ITEM	Proch. niveau (\x0E\x01\x00\x00)
+MID_MENU_SOLANEL_INFO_TITLE	Carte de Somniel
+MID_MENU_SOLANEL_INFO_COMMENT	Choisissez un lieu à visiter.
+MID_MENU_SOLANEL_INFO_CONFIRM_TEXT	\x0E\x01\x00\x00 - Rejoindre cet endroit ?
+MID_MENU_SOLANEL_INFO_CONFIRM_YES	Rejoindre
+MID_MENU_ACHIEVEMENT_TITLE	Exploits
+MID_MENU_ACHIEVEMENT_COUNT_TITLE	Complétés
+MID_MENU_ACHIEVEMENT_COUNT_UNIT	Alliés
+MID_MENU_ACHIEVEMENT_COUNT_BATTLE	Batailles
+MID_MENU_ACHIEVEMENT_COUNT_SOLANEL	Somniel
+MID_MENU_ACHIEVEMENT_COUNT_SHOP	Commerces
+MID_MENU_ACHIEVEMENT_COUNT_SYSTEM	Système
+MID_MENU_ACHIEVEMENT_COUNT_TOTAL	Total
+MID_MENU_ACHIEVEMENT_NOW	Total
+MID_MENU_ACHIEVEMENT_BONUS	Récomp.
+MID_MENU_ACHIEVEMENT_CLEAR	TERMINÉ !
+MID_MENU_ACHIEVEMENT_COMPLETE	COMPLÉTÉ
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE	Vous avez accepté la récompense associée à l'exploit suivant :\n\x0E\x01\x00\x00
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL	Accepter toutes les récompenses d'exploits ?
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALLGET	Toutes les récompenses d'exploits acceptées.
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL_YES	Accepter
+MID_MENU_ACHIEVEMENT_UNIT_HUMAN	 unité(s)
+MID_MENU_ACHIEVEMENT_UNIT_ITEM	 objet(s)
+MID_MENU_ACHIEVEMENT_UNIT_COUNT	 fois
+MID_MENU_ACHIEVEMENT_UNIT_TIME	 heure(s)
+MID_MENU_ACHIEVEMENT_UNIT_ENEMY	 ennemi(s)
+MID_MENU_ACHIEVEMENT_Clear_Nothing	Aucun nouvel exploit.
+MID_Hub_AnimalCoop_Nothing	Il n'y a aucun animal pour l'instant...
+MID_Hub_AnimalCoop_Choice	Choisissez les animaux à sortir.
+MID_Hub_AnimalCoop_Trade	Intervertir
+MID_Hub_AnimalCoop_FreeAnimal	À l'extérieur
+MID_Hub_AnimalCoop_InAnimal	À l'intérieur
+MID_Hub_AnimalCoop_Number	Total
+MID_Hub_AnimalCoop_Entrust	Rentrer
+MID_Hub_AnimalCoop_Contact	Observer
+MID_TUT_HUB_RECORD_HALL_TITLE	Archives
+MID_TUT_HUB_RECORD_HALL_0	Dans les archives, vous pouvez modifier\nvotre carte de profil et consulter les cartes\ndes autres joueurs.
+MID_TUT_HUB_RECORD_HALL_1	Vous avez accès aux mêmes actions dans le\nmenu Références. Vous ne pouvez prendre de\nphotos que dans les lieux extérieurs de Somniel.
+MID_TUT_HUB_PROFILE_TITLE	Carte de profil
+MID_TUT_HUB_PROFILE_0	Votre carte de profil est un espace pouvant être\npersonnalisé pour afficher vos exploits en jeu.
+MID_TUT_HUB_PROFILE_1	Les fonctionnalités en ligne vous permettent\nde rendre votre carte publique et d'échanger\ndes cartes avec d'autres joueurs.
+MID_TUT_HUB_PROFILE_EDIT_TITLE	Modifier la carte de profil
+MID_TUT_HUB_PROFILE_EDIT_0	Choisissez Ma carte pour personnaliser\nvotre carte de profil.
+MID_TUT_HUB_PROFILE_EDIT_1	Vous débloquerez davantage d'options pour\npersonnaliser votre carte au fur et à mesure\nde votre progression dans le jeu.
+MID_TUT_HUB_PROFILE_PHOTO_TITLE	Séance photo
+MID_TUT_HUB_PROFILE_PHOTO_0	Vous pouvez prendre une photo qui apparaîtra\nensuite sur votre carte de profil.
+MID_TUT_HUB_PROFILE_PHOTO_1	Affichez votre style et faites prendre la pose à\nvos alliés dans le lieu de votre choix à Somniel.
+MID_TUT_HUB_PROFILE_PHOTO_2	Quand la scène est prête, appuyez sur \x0E\x08\x02\x0A\x08Plus\npour accéder au mode photo, puis sur \x0E\x08\x02\x04\x02L ou \x0E\x08\x02\x04\x02R\npour prendre un cliché.
+MID_TUT_HUB_PROFILE_TRADE_TITLE	Échanger des cartes de profil
+MID_TUT_HUB_PROFILE_TRADE_0	Vous pouvez échanger des cartes de profil\navec les joueurs que vous rencontrez dans\nles épreuves de Relais et du Multivers.
+MID_TUT_HUB_PROFILE_TRADE_1	Si vous ne voulez pas que les autres joueurs\nvoient votre carte, vous pouvez changer\nson niveau de confidentialité.
+MID_TUT_HUB_PROFILE_TRADE_2	Vous pouvez consulter et supprimer les\ncartes des autres joueurs depuis le menu.

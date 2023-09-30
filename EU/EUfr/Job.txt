@@ -1,0 +1,126 @@
+MJID_DragonLord	Enfant dragon
+MJID_H_DragonLord	Descendant de la lignée des dragons\nremontant aux temps anciens. Utilise\ndes épées propres au Dragon divin.
+MJID_DragonKing	Dragon divin
+MJID_H_DragonKing	Gardien du pouvoir du grand dragon\nrégnant. Utilise les arts martiaux et\nles épées du Dragon divin.
+MJID_ShadowLord	Enfant déchu\x0E\x0A\x00\x06
+MJID_H_ShadowLord	Sbire sous l'emprise du Dragon\ndéchu. Utilise de puissantes\ntechniques d'épée.
+MJID_ShadowPrincess	Enfant déchue
+MJID_H_ShadowPrincess	Héritière de sang du Dragon déchu.\nExcelle dans les compétences des\ndéchus et la puissante magie noire.
+MJID_ShadowKing	Roi déchu
+MJID_H_ShadowKing	Son rêve est de régner sur le monde\nainsi qu'un tyran. Manie les arts des\nténèbres et sème la destruction.
+MJID_ShadowDragon	Grand déchu
+MJID_H_ShadowDragon	Le Dragon déchu doté des Anneaux\nd'Emblèmes. Peut désormais ouvrir\nun portail vers d'autres mondes.
+MJID_AvenirLC	Noble
+MJID_H_AvenirLC	Issu d'une famille royale.\nRemarquable lancier très à l'aise\nà cheval.
+MJID_Avenir	Avenir
+MJID_H_Avenir	Élégant prince montant un destrier\nblanc au combat. Excellent lancier,\négalement capable de manier l'épée.
+MJID_FleurageLC	Noble
+MJID_H_FleurageLC	Issue d'une famille royale.\nRemarquable mage sachant\négalement manier l'épée.
+MJID_Fleurage	Vidame
+MJID_H_Fleurage	Mage se servant de son épée pour\ntaillader les mages ennemis. Sait\négalement manier le bâton.
+MJID_SuccesseurLC	Lord
+MJID_H_SuccesseurLC	Issu d'une famille régnant sur une\nnation. Remarquable épéiste.
+MJID_Successeur	Successeur
+MJID_H_Successeur	Son sang charrie la volonté et la\nforce nécessaires pour régner sur la\nnation. Doué à l'épée et à la hache.
+MJID_TirailleurLC	Lord
+MJID_H_TirailleurLC	Issu d'une famille régnant sur une\nnation. Remarquable archer.
+MJID_Tirailleur	Tireur d'élite
+MJID_H_Tirailleur	Archer à la précision inégalable.\nChacune de ses flèches peut éliminer\nun ennemi.
+MJID_LindwurmLC	Dompteuse
+MJID_H_LindwurmLC	Chevalier en communion avec\nles animaux. Manie la magie et\nles bâtons à dos de wyverne.
+MJID_Lindwurm	Lindwurm
+MJID_H_Lindwurm	Mage montant une wyverne afin de\nsemer la destruction depuis les airs.\nManie de puissants bâtons et sorts.
+MJID_SleipnirLC	Dompteuse
+MJID_H_SleipnirLC	Chevalier en communion avec les\nanimaux. Survole la mêlée à dos de\npégase avec un tome ou un bâton.
+MJID_Sleipnir	Chev. Sleipnir
+MJID_H_Sleipnir	Chevalier montant le charmant\npégase Sleipnir. Manie de puissants\nbâtons ainsi que des tomes.
+MJID_PitchforkLC	Sentinelle
+MJID_H_PitchforkLC	Sentinelle défendant son pays\nl'arme à la main, notamment la\nlance qu'elle manie avec maestria.
+MJID_Pitchfork	Piquière
+MJID_H_Pitchfork	Lancière pourfendant les lignes\nennemies. Ses assauts chorégraphiés\nsont le prélude à une mort certaine.
+MJID_CupidoLC	Sentinelle
+MJID_H_CupidoLC	Sentinelle défendant son pays l'arme\nà la main, notamment l'arc qu'il\nmanie volontiers à dos de monture.
+MJID_Cupido	Cupidon
+MJID_H_Cupido	Charmant cavalier archer se battant\navec désinvolture. Excelle à l'arc et\nà l'épée et se joue de l'ennemi.
+MJID_SwordFighter	Soldat (épée)
+MJID_H_SwordFighter	Fantassin dont l'excellence à l'épée\nn'a d'égale que les capacités\nd'esquive.
+MJID_SwordMaster	Bretteur
+MJID_H_SwordMaster	Expert de la lame esquivant les\nattaques d'un cheveu et ripostant\navec de puissantes techniques.
+MJID_BraveHero	Héros
+MJID_H_BraveHero	Ce combattant aguerri capable\nde manier diverses armes perce\nles lignes ennemies avec aisance.
+MJID_LanceFighter	Soldat (lance)
+MJID_H_LanceFighter	Soldat combattant à la lance et\nincarnant un parfait équilibre entre\nl'attaque et la défense.
+MJID_Halberdier	Hallebardier
+MJID_H_Halberdier	Soldat à la lance fort d'une longue\nexpérience au front. Nettement\nsupérieur au lancier de base.
+MJID_RoyalKnight	Chevalier royal
+MJID_H_RoyalKnight	Noble chevalier maniant aussi le\nbâton et filant comme le vent sur\nson destrier afin de rallier ses alliés.
+MJID_AxFighter	Soldat (hache)
+MJID_H_AxFighter	Combattant ayant fait ses preuves\nla hache à la main. Ses attaques\npuissantes l'exposent à la riposte.
+MJID_Berserker	Berserker
+MJID_H_Berserker	Puissant combattant à la force\nincomparable qui fend l'ennemi\nen deux avec sa hache massive.
+MJID_Warrior	Guerrier
+MJID_H_Warrior	Combattant de valeur expert dans\nl'art d'anéantir l'ennemi, aussi bien\nà l'arc qu'à la hache.
+MJID_Archer	Archer
+MJID_H_Archer	Fantassin léger se battant l'arc à la\nmain. Peut attaquer à distance.
+MJID_Sniper	Archer d'élite
+MJID_H_Sniper	Expert du maniement de l'arc\ndécochant ses flèches droit sur\nles points faibles de l'ennemi.
+MJID_BowKnight	Cavalier archer
+MJID_H_BowKnight	Archer décochant ses flèches\nà dos de monture et contournant les\nennemis grâce à sa grande mobilité.
+MJID_SwordArmor	Cuirassier (épée)
+MJID_H_SwordArmor	Soldat cuirassé armé d'une épée,\nbénéficiant d'une défense élevée\nmais très vulnérable à la magie.
+MJID_LanceArmor	Cuirassier (lance)
+MJID_H_LanceArmor	Soldat cuirassé armé d'une lance,\nbénéficiant d'une défense élevée\nmais très vulnérable à la magie.
+MJID_AxArmor	Cuirassier (hache)
+MJID_H_AxArmor	Soldat cuirassé armé d'une hache,\nbénéficiant d'une défense élevée\nmais très vulnérable à la magie.
+MJID_General	Général
+MJID_H_General	Combattant cuirassé bénéficiant\nd'une impénétrable défense et\nd'une terrifiante attaque.
+MJID_GreatKnight	Grand chevalier
+MJID_H_GreatKnight	Chevalier cuirassé en armure lourde,\nprotégeant ses alliés à l'aide\nde diverses armes.
+MJID_SwordKnight	Cavalier (épée)
+MJID_H_SwordKnight	Chevalier épéiste aux attributs\nbien équilibrés et très mobile sur\nle champ de bataille.
+MJID_LanceKnight	Cavalier (lance)
+MJID_H_LanceKnight	Chevalier lancier aux attributs\nbien équilibrés galopant à travers\nle champ de bataille.
+MJID_AxKnight	Cavalier (hache)
+MJID_H_AxKnight	Chevalier armé d'une hache, aux\nattributs bien équilibrés et galopant\nà travers le champ de bataille.
+MJID_Paladin	Paladin
+MJID_H_Paladin	Chevalier de haut rang fort d'une\nlongue expérience. Il se déplace\nvite et lance de puissants sorts.
+MJID_WolfKnight	Cavalier lupin
+MJID_H_WolfKnight	Chevalier galopant sur le champ de\nbataille à dos de loup. Ses dagues\nsont le cauchemar de l'ennemi.
+MJID_SwordPegasus	Pégase (épée)
+MJID_H_SwordPegasus	Soldat à l'épée zébrant le ciel à dos\nde pégase. Résistant contre la magie,\nmais vulnérable aux arcs.
+MJID_LancePegasus	Pégase (lance)
+MJID_H_LancePegasus	Soldat à la lance zébrant le ciel à\ndos de pégase. Résistant contre\nla magie, mais vulnérable aux arcs.
+MJID_AxPegasus	Pégase (hache)
+MJID_H_AxPegasus	Soldat à la hache zébrant le ciel à\ndos de pégase. Résistant contre\nla magie, mais vulnérable aux arcs.
+MJID_GriffonKnight	Chevalier griffon
+MJID_H_GriffonKnight	Chevalier expérimenté et équilibré\nparcourant le ciel à dos de griffon et\nmaniant volontiers les bâtons.
+MJID_DragonKnight	Chevalier wyverne
+MJID_H_DragonKnight	Chevalier expérimenté volant à\ndos de wyverne. Puissant mais\nvulnérable aux flèches et à la magie.
+MJID_Mage	Mage
+MJID_H_Mage	Mage tirant ses sorts d'anciens\ntomes. Fort contre les ennemis\nà la défense élevée.
+MJID_Sage	Sage
+MJID_H_Sage	Mage expérimenté tirant de\npuissants sorts des pages de\ntomes ou de la pointe de bâtons.
+MJID_MageKnight	Chevalier mage
+MJID_H_MageKnight	Chevalier mage maniant la magie à\ndos de cheval. Le combat rapproché\nne l'effraie pas pour autant.
+MJID_Monk	Moine guerrier
+MJID_H_Monk	Moine guerrier soignant les alliés\nà l'aide de bâtons et pratiquant les\narts martiaux pour se défendre.
+MJID_MasterMonk	Moine supérieur
+MJID_H_MasterMonk	Moine expérimenté entraîné aux\narts martiaux. Excellent au corps à\ncorps et dans l'art de la guérison.
+MJID_HighPriest	Prêtre d'élite
+MJID_H_HighPriest	Guérisseur providentiel sur le\nchamp de bataille, il est passé\nmaître dans le maniement du bâton.
+MJID_Thief	Voleur
+MJID_H_Thief	Voleur auquel ne résiste aucune\nserrure. Son habileté le rend\nredoutable une dague à la main.
+MJID_Dancer	Danseur
+MJID_H_Dancer	Artiste prompt à remonter le moral\nde ses alliés, qui peuvent ainsi agir\nune fois de plus au combat.
+MJID_Villager	Villageois
+MJID_H_Villager	Une personne ordinaire, étrangère\nà l'art de la guerre.
+MJID_Melusine	Mélusine
+MJID_H_Melusine	Chevalier mage montant un dragon\nmaléfique. Envoie des sorts de haute\nvolée et est redoutable à l'épée.
+MJID_Barbarian	Barbare
+MJID_H_Barbarian	Féroce guerrier à la rage insatiable,\nà la force et à la vitesse élevées,\nmais souffrant d'une faible défense.
+MJID_MorphDragon	Vouivre corrompue
+MJID_H_MorphDragon	Sbire du Dragon déchu au souffle\ndes ténèbres dévastateur rêvant de\nmettre le monde à feu et à sang.
+MJID_PhantomDragon	Vouivre fantôme
+MJID_H_PhantomDragon	Sbire draconique gigantesque.\nSon souffle à longue portée\ncompense sa relative lenteur.
+MJID_Emblem	Emblème
+MJID_H_Emblem	Hôte d'un anneau et héros\nd'un monde éloigné d'Elyos. D'une\npuissance défiant l'imagination.

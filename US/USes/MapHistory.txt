@@ -1,0 +1,31 @@
+MID_MAP_HIS_PhaseBegin_Player	Turno del jugador
+MID_MAP_HIS_PhaseBegin_Enemy	Turno del enemigo
+MID_MAP_HIS_PhaseBegin_Ally	Turno de los aliados
+MID_MAP_HIS_Fixed	\x0E\x01\x00\x00 esperó.
+MID_MAP_HIS_Talk	\x0E\x01\x00\x00 habló.
+MID_MAP_HIS_Attack	\x0E\x01\x00\x00 atacó.
+MID_MAP_HIS_Rod	\x0E\x01\x00\x00 usó un bastón.
+MID_MAP_HIS_EngageCharge	\x0E\x01\x00\x00 usó Gran Éter.
+MID_MAP_HIS_Destroy	\x0E\x01\x00\x00 destruyó algo.
+MID_MAP_HIS_ItemUse	\x0E\x01\x00\x00 usó un objeto.
+MID_MAP_HIS_Trade	\x0E\x01\x00\x00 intercambió objetos.
+MID_MAP_HIS_PutOff	\x0E\x01\x00\x00 descartó objetos.
+MID_MAP_HIS_Visit	\x0E\x01\x00\x00 visitó un lugar.
+MID_MAP_HIS_Breakdown	\x0E\x01\x00\x00 tomó una posición.
+MID_MAP_HIS_Escape	\x0E\x01\x00\x00 escapó.
+MID_MAP_HIS_Door	\x0E\x01\x00\x00 abrió una puerta.
+MID_MAP_HIS_Torch_Off	\x0E\x01\x00\x00 apagó una almenara.
+MID_MAP_HIS_Torch_On	\x0E\x01\x00\x00 encendió una almenara.
+MID_MAP_HIS_TreasureBox	\x0E\x01\x00\x00 abrió un cofre.
+MID_MAP_HIS_Transporter	\x0E\x01\x00\x00 usó el convoy.
+MID_MAP_HIS_Dance	\x0E\x01\x00\x00 bailó.
+MID_MAP_HIS_Guard	\x0E\x01\x00\x00 usó Defensa en cadena.
+MID_MAP_HIS_LucinaEngage	\x0E\x01\x00\x00 usó Refuerzo escudo.
+MID_MAP_HIS_OverlapSkill	\x0E\x01\x00\x00 usó Vena de dragón.
+MID_MAP_HIS_CommandSkill	\x0E\x01\x00\x00 usó \x0E\x01\x01\x00.
+MID_MAP_HIS_VisionCreate	\x0E\x01\x00\x00 invocó dobles ilusorios.
+MID_MAP_HIS_VisionDelete	\x0E\x01\x00\x00 disipó dobles ilusorios.
+MID_MAP_HIS_DestroyVillage	\x0E\x01\x00\x00 destruyó una casa.
+MID_MAP_HIS_EngageBreak	\x0E\x01\x00\x00 usó Escisión.
+MID_MAP_HIS_EngageAttack	\x0E\x01\x00\x00 usó \x0E\x01\x01\x00.
+MID_MAP_HIS_PickUp	\x0E\x01\x00\x00 actuó.

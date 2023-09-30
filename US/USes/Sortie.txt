@@ -1,0 +1,124 @@
+MID_SORTIE_START	¡Combatir!
+MID_SORTIE_START_HELP	Finaliza los preparativos e inicia la batalla.
+MID_SORTIE_START_CONFIRM	¿Todo listo?
+MID_SORTIE_START_CONFIRM_YES	Comenzar
+MID_SORTIE_BACK	Atrás
+MID_SORTIE_SELECT_UNIT	Unidades
+MID_SORTIE_SELECT_UNIT_SELECT	Selecciona una unidad.
+MID_SORTIE_SELECT_UNIT_HELP	Elige a las unidades que van a luchar.
+MID_SORTIE_EQUIP_GOD	Emblemas
+MID_SORTIE_EQUIP_GOD_HELP	Asigna anillos\x0E\x01\x0B\x00 Emblema a las unidades.
+MID_SORTIE_INVENTORY	Inventario
+MID_SORTIE_INVENTORY_HELP	Gestiona objetos, habilidades, etc.
+MID_SORTIE_CHANGE_POSITION	Despliegue
+MID_SORTIE_CHANGE_POSITION_HELP	Coloca a las unidades en el mapa.
+MID_SORTIE_SHOP	Mercado
+MID_SORTIE_SHOP_HELP	Compra armas y objetos.
+MID_SORTIE_WEAPON_SHOP	Armería
+MID_SORTIE_H_WEAPON_SHOP	Compra armas.
+MID_SORTIE_ITEM_SHOP	Bazar
+MID_SORTIE_H_ITEM_SHOP	Compra objetos.
+MID_SORTIE_RELIANCE	Apoyo
+MID_SORTIE_RELIANCE_UNIT_SELECT	Selecciona un aliado.
+MID_SORTIE_RELIANCE_NONE	Sin apoyos.
+MID_SORTIE_BONDS_RELIANCE	Lazos
+MID_SORTIE_BONDS_RELIANCE_NONE	Sin Emblemas.
+MID_SORTIE_RELIANCE_ATTENTION	Puedes tener conversaciones de lazo\ny de apoyo en el Somniel y en el mapa.
+MID_SORTIE_SAVE	Guardar
+MID_SORTIE_SAVE_HELP	Guarda la partida.
+MID_SORTIE_BACK_CONFIRM_HELP	Vuelve al mapa.
+MID_SORTIE_BACK_CONFIRM	¿Quieres volver al mapa?
+MID_SORTIE_BACK_CONFIRM_HELP_M026	Vuelve al Somniel.
+MID_SORTIE_BACK_CONFIRM_M026	¿Quieres volver al Somniel?
+MID_SORTIE_CONTINUEBATTLE_NOSELECT	No se puede seleccionar\ndurante una serie de batallas.
+MID_SORTIE_COMMON_TRADE	Cambiar
+MID_SORTIE_UNIT_ITEM	Objetos
+MID_SORTIE_UNIT_ITEM_LIST	Objetos
+MID_SORTIE_UNIT_TRADE	Intercambiar
+MID_SORTIE_UNIT_ENTRUST	Optimizar equipamiento
+MID_SORTIE_UNIT_ENTRUST_WARNING1	No había suficientes objetos\nen el convoy para optimizar\nel equipamiento de esta unidad.
+MID_SORTIE_UNIT_ENTRUST_WARNING2	No se ha podido optimizar\nel equipamiento por falta\nde espacio en el convoy.
+MID_SORTIE_UNIT_STORE	Depositar
+MID_SORTIE_UNIT_STORE_ALL	Depositar todo
+MID_SORTIE_UNIT_STORE_ALL_WARNING	No hay espacio en el convoy\no alguno de los objetos no se\npuede depositar allí.
+MID_SORTIE_UNIT_SKILL_OPEN	Ahora puedes gestionar tus habilidades.
+MID_SORTIE_UNIT_SKILL	Habilidades
+MID_SORTIE_UNIT_CLASSCHANGE	Cambiar de clase
+MID_SORTIE_ALL_UNITS_ENTRUST	Optimizar todo
+MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM	¿Quieres optimizar el equipamiento\nde tus unidades combatientes?\n(Los objetos que tengan otras\nunidades se enviarán al convoy.)
+MID_SORTIE_ALL_UNITS_ENTRUST_ERROR	Puedes usar la opción "Optimizar todo"\ntras haber seleccionado a todas tus unidades\ncombatientes durante los preparativos\npara la batalla.
+MID_SORTIE_ALL_UNITS_ENTRUST_Yes	Optimizar
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1	No hay objetos suficientes en el\nconvoy para equipar a tus unidades\nadecuadamente.
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2	No se ha podido optimizar\nel equipamiento por falta\nde espacio en el convoy.
+MID_SORTIE_ALL_UNITS_STORE_ALL	Depositar todo
+MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM	¿Enviar todos los objetos al convoy?
+MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING	El convoy está lleno. No han podido\ndepositarse todos los objetos.
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD	Optimizar todo
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM	¿Quieres optimizar los anillos\x0E\x01\x0B\x00\nde tus unidades combatientes?
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes	Sí
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No	Cancelar
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD	Quitar todo
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM	¿Quieres quitarles todos los anillos\x0E\x01\x0B\x00\na tus unidades?
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes	Sí
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No	Cancelar
+MID_SORTIE_UNIT_NONE	No hay unidades disponibles.
+MID_TROOPLIST_PAGETITLE_BASIC	Estado
+MID_TROOPLIST_PAGETITLE_STATUS	Atributos básicos
+MID_TROOPLIST_PAGETITLE_BATTLE	Atributos combate
+MID_SORTIE_INVENTORY_STORE	Depositar
+MID_SORTIE_INVENTORY_RECEIVE	Tomar
+MID_SORTIE_INVENTORY_EQUIP	Equipar
+MID_SORTIE_INVENTORY_REMOVE	Quitar
+MID_SORTIE_INVENTORY_ARRANGE	Ordenar
+MID_SORTIE_INVENTORY_USE	Usar
+MID_SORTIE_INVENTORY_DISCARD	Descartar
+MID_SORTIE_INVENTORY_EMPTY	(Sin objetos)
+MID_SORTIE_SKILL_CATEGORY_PERSON	Personal
+MID_SORTIE_SKILL_CATEGORY_JOB	Clase
+MID_SORTIE_SKILL_CATEGORY_INHERITANCE	Heredadas
+MID_SORTIE_SKILL_CATEGORY_GOD	Sincronía
+MID_SORTIE_SKILL_CATEGORY_ENGAGE	Fusión
+MID_SORTIE_SKILL_CATEGORY_BONDS	Lazo
+MID_SORTIE_SKILL_CATEGORY_EQUIPED	Equipada
+MID_SORTIE_SKILL_OVERLAPPING	Se solapa
+MID_SORTIE_SKILL_SUPPLEMENT_HELP	Se solapa con las hab. actuales.
+MID_SORTIE_SKILL_POOL_NONE	(Ninguna)
+MID_SORTIE_SKILL_POOL_TITLE	Habilidades heredadas
+MID_SORTIE_CLASSCHANGE_NEED_LV	Niv. necesario
+MID_SORTIE_CLASSCHANGE_NEED_APTITUDE	Requiere
+MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE	Dominio armas
+MID_SORTIE_CLASSCHANGE_NEED_ITEM	Costo
+MID_SORTIE_CLASSCHANGE_SKILL_LEVEL	Se adquiere al niv. \x0E\x01\x00\x00
+MID_SORTIE_CLASSCHANGE_NONE	No es posible cambiar ahora.
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG	¿Cambiar a la clase\n"\x0E\x01\x00\x00"?
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES	Cambiar de clase
+MID_SORTIE_CLASSCHANGE_NEED_JOB	\x0E\x01\x00\x00 niv. \x0E\x01\x01\x00
+MID_SORTIE_CLASSCHANGE_BASIC_ARMOR	Caballero espada/lanza/hacha
+MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT	Jinete espada/lanza/hacha
+MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS	Jin. alado espada/lanza/hacha
+MID_SELECTRING_TITLE_GOD	Anillos\x0E\x01\x0B\x00 Emblema
+MID_SELECTRING_REMOVE	¿Quitar el \x0E\x01\x00\x00?
+MID_SELECTRING_CHANGE	¿Quitar el \x0E\x01\x00\x00\ny asignar el \x0E\x01\x01\x00?
+MID_SELECTRING_CHANGE_REMOVE	¿Quitar el \x0E\x01\x00\x00\ny asignar el \x0E\x01\x01\x00?\nAhora lo lleva \x0E\x01\x02\x00.
+MID_SELECTRING_SET	¿Asignar el \x0E\x01\x00\x00?
+MID_SELECTRING_SET_REMOVE	¿Asignar el \x0E\x01\x00\x00?\nAhora lo lleva \x0E\x01\x01\x00.
+MID_SELECTRING_REMOVE_CONFIRM	Quitar
+MID_SELECTRING_SET_CONFIRM	Asignar
+MID_SELECTRING_GOD_CHANGE_YES	Cambiar
+MID_SELECTRING_GOD_EMPTY	No hay anillos\x0E\x01\x0B\x00 Emblema.
+MID_SELECTRING_COMMON_EMPTY	No hay anillos lazo.
+MID_SELECTRING_LUEUR_NOTES	El Emblema \x0E\x06\x03\x00\npuede fusionarse usando\nFusión + durante la batalla.
+MID_SORTIE_TITLE_UNIT_SELECT	Unidades
+MID_SORTIE_TITLE_UNIT_SELECT_ITEM	Inventario
+MID_SORTIE_TITLE_RING_SELECT	Emblemas
+MID_SORTIE_TITLE_INVENTORY	Objetos
+MID_SORTIE_TITLE_TRADE	Intercambiar
+MID_SORTIE_TITLE_SKILL	Habilidades
+MID_SORTIE_TITLE_CLASSCHANGE	Cambiar de clase
+MID_SORTIE_TITLEHELP_UNIT_SELECT	Elige qué unidades lucharán.
+MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM	Selecciona unidades.
+MID_SORTIE_TITLEHELP_RING_SELECT	Selecciona anillos\x0E\x01\x0B\x00 Emblema.
+MID_SORTIE_TITLEHELP_INVENTORY	Selecciona objetos.
+MID_SORTIE_TITLEHELP_TRADE	Elige qué objetos intercambiar.
+MID_SORTIE_TITLEHELP_SKILL	Elige qué habilidades equipar.
+MID_SORTIE_TITLEHELP_CLASSCHANGE	Selecciona una clase.

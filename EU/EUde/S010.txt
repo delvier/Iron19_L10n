@@ -1,0 +1,43 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x0A\x08リュール\nIrgendetwas an diesem Ort ist wirklich seltsam.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06リーフ\nDies scheint der Fluss Thracia zu sein.\nZumindest ist er ihm sehr ähnlich.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nIst das ein Ort in Eurer Welt?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06リーフ\nEr sieht so aus. Er sieht fast aus wie der Boden,\nauf dem ich einst stand.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06リーフ\nDer Fluss Thracia war ein schöner, weiter Fluss.\nDoch an seinen Ufern wurde so viel Blut\nvergossen.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nIch kann mir gar nicht vorstellen, dass so ein\nfriedlicher Ort zu einem Schlachtfeld wurde.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06リーフ\nHier trat ich gegen den genialen Taktiker\nSaias an. Einige hielten ihn für einen Helden.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06リーフ\nReinhardt, ein Mann voller Macht, der die\nWiedergeburt des Heiligen Ritters Thrud sein\nsoll, war ebenfalls hier.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06リーフ\nEs war eine schwere Schlacht. Es gab viele\nMomente, in denen ich dachte, alles wäre\nverloren.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nAber warum sieht der Ort hier genauso aus?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06リーフ\nIch bin mir da nicht sicher.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06リーフ\nIch spüre eine gewaltige Kraft, die von diesem\nOrt ausgeht. Das muss die Prüfung sein, die von\nEuch verlangt wird.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nEine... Prüfung?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00. Ihr werdet hier gegen mich\nantreten.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06リーフ\nBesteht Ihr diese Prüfung, wird das Band\nzwischen uns stärker.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06リーフ\nDieses Band wird eine Macht mit sich bringen,\nohne die wir nicht sein können, wenn wir die\nSchlachten überleben wollen, die vor uns liegen.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nEine Schlacht gegen Euch zu gewinnen, ist\nmeine Prüfung? Verstanden!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06リーフ\nGut. Der Sieg ist der einzige Weg für Euch,\num voranzuschreiten.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nIch werde hier die Stellung halten. Kein Weg-\nrennen. Kein Verstecken. Also, greift mich an!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x18\x06リーフ\x0EStandBy\n\x0E\x03\x02\x08\x06リーフ\nJetzt! Zerstört die Brücke!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nRelax\n\x0E\x03\x02\x08\x06リーフ\nIch habe auf Euch gewartet, \x0E\x06\x03\x00.\nSeit Ihr so weit?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nNatürlich, Leif! Ich stelle mich Euch – überall\nund zu jeder Zeit.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06リーフ\x0CStrike\n\x0E\x03\x02\x08\x06リーフ\nDann lasst uns beginnen. Ein fairer Kampf\nunter Gleichen.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nSeid ehrlich zu Euch. Was wünscht Ihr Euch?\nWie sieht Eure Hoffnung aus, tief in Eurem\nHerzen?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nAber ich... Was, wenn ich erneut versage?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06リーフ\nSmile\n\x0E\x03\x02\x08\x06リーフ\nDas Leben zeichnet keinen einfachen Weg vor.\nFehler sind nur Fehler – korrigiert sie, indem Ihr\nsie wiedergutmacht.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06リーフ\x0CNormal\n\x0E\x03\x02\x08\x06リーフ\nIhr habt Euch bereits Euren eigenen Schwächen\ngestellt. Tut dies erneut und Ihr werdet an\nStärke gewinnen.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x08\x06リーフ\nIhr seid seit unserem ersten Treffen viel\nstärker geworden, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nIch habe das Gefühl, noch einen langen Weg\nvor mir zu haben. Ich weiß Eure Anleitung zu\nschätzen.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06リーフ\nAnleitung? Eine interessante Wortwahl.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06リーフ\nIch glaube nun zu verstehen, warum die\nPrüfung an diesem Ort stattfinden musste.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nOh? Warum?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06リーフ\nIch war ein junger Prinz, unerfahren in der\nFührung einer Armee. Ich habe viele Fehler\ngemacht. Einige davon waren fatal.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06リーフ\nAm Tag dieser Schlacht sagte mir jemand\netwas. Seine Worte blieben mir seitdem im\nGedächtnis.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06リーフ\nBlut, das einmal vergossen wurde, kann nicht\nwieder zurückgegeben werden. Sorge dafür,\ndass ein Opfer einen Wert besitzt.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00. Das Leben ist eine Serie von\nEntscheidungen.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06リーフ\nEs gibt keine Möglichkeit zu wissen, ob Ent-\nscheidungen der Vergangenheit richtig oder\nfalsch waren.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06リーフ\nAlles, was wir tun können, ist, die Zukunft in\netwas Gutes und Gerechtes zu verwandeln.\nDanach müssen wir streben.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06リーフ\nDas ist es, wofür ein Anführer verantwortlich\nist. Und das ist es, was ich an einem Ort wie\ndiesem gelernt habe.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nIch danke Euch, Leif, dass Ihr Eure Geschichte\nmit mir geteilt habt. Ich habe das Gefühl, nun\nmehr zu verstehen als vorher.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nIch werde daran arbeiten, eine gute Zukunft\naufzubauen. Und Ihr, werdet Ihr bis zum Ende\ndieses Krieges an meiner Seite sein?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06リーフ\nHier, an den Ufern dieses schönen Flusses,\ngelobe ich, Euch zu dienen, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

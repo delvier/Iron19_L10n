@@ -1,0 +1,383 @@
+MID_NET_SettingOn	Die Online-Funktionen sind deaktiviert.\nMöchtest du sie aktivieren?
+MID_NET_TowerNetwork_On	Die Online-Funktionen sind deaktiviert.\nMöchtest du sie aktivieren, um das Spiel\nmit anderen zu spielen?
+MID_NET_RANKING_On	Die Online-Funktionen sind deaktiviert.\nMöchtest du sie aktivieren, um Platzierungen\nvon Einheiten anderer Spieler zu sehen?
+MID_NET_SettingOn_Yes	Ja
+MID_NET_Setting	Die Verbindung wurde in den \nEinstellungen nicht aktiviert.
+MID_NET_Connecting	Verbindungsaufbau...
+MID_NET_Error_TROPE	Keine Verbindung.
+MID_NET_Connecting_Error	Ein Fehler ist aufgetreten.\nBitte versuche es später erneut.
+MID_NET_Title_Help	Wähle eine Prüfung.
+MID_NET_Notes_Terms	Dein Nintendo Switch-Spitzname ist in Staffel- und Dimensionsprüfungen für andere Spieler sichtbar. Auch deine Visitenkarte wird sichtbar sein, wenn du die Einstellung zur Privatsphäre für deine Visitenkarte auf „Öffentlich“ setzt. Die Community-Richtlinien zum Verhalten im Spiel und zu geteilten Inhalten kannst du auf der Nintendo-Website einsehen. Bitte nimm Rücksicht auf andere Spieler.
+MID_NET_Notes_Report	Verstößt dein Verhalten oder verstoßen geteilte Inhalte gegen die Community-Richtlinien, können deine Daten gelöscht oder dein Zugang zum Online-Spiel gesperrt werden. Melde unangemessene Inhalte unter System > Melden.
+MID_MATCH_Title	Dim.-Prüfung
+MID_MATCH_Help	Kämpfe online gegen die Armeen\nanderer Spieler auf ausgewählten\noder selbst gestalteten Karten.
+MID_MATCH_Title_Help	Wähle einen Modus.
+MID_RELAY_Title	Staffelprüfung
+MID_RELAY_Help	Spiele online und kämpfe dich mit\nanderen Spielern in einer Koop-Staffel\ndurch eine Karte. Zum Spielen werden\nTickets benötigt.
+MID_RELAY_Title_Help	Prüfung wie beginnen?
+MID_CHALLENGE_Title	Sturmprüfung
+MID_CHALLENGE_Help	In dieser Prüfung musst du\nmehrere Kämpfe in Folge bestehen.\nHöhere Schwierigkeitsgrade bieten\nattraktivere Belohnungen.
+MID_CHALLENGE_Closed_Dialog	Sobald du Kapitel 11 abschließt, werden die\nSturmprüfungen freigeschaltet.
+MID_NETWORK_Map_Outline	Karten-Info
+MID_NETWORK_Map_Name	Karte
+MID_NETWORK_Map_Name_Content	\x0E\x01\x00\x00 (\x0E\x01\x01\x00)
+MID_NETWORK_LimitTurn_Content	\x0E\x01\x00\x00 (\x0E\x01\x01\x00 Spieler)
+MID_NETWORK_Reward	Belohnung
+MID_NETWORK_Degree	Titel
+MID_NETWORK_Clear_Reward	Abschluss-Belohng.
+MID_NETWORK_Map_Select	Kartenauswahl
+MID_NETWORK_BACK_CONFIRM	Möchtest du zum Menü zurückkehren?
+MID_NETWORK_BACK_CONFIRM_YES	Zurück zum Menü
+MID_NETWORK_H_BACK_CONFIRM	Zurück zum Menü
+MID_NET_Error	Ein Fehler ist aufgetreten.
+MID_NET_NFC_Error	Die Verbindung zu dem Controller, mit\ndem amiibo gelesen werden können,\nwurde unterbrochen.
+MID_MATCH_Easy	Schnellkampf
+MID_MATCH_H_Easy	Wähle eine Karte und tritt gegen\ndie Armee eines anderen Spielers\nan.
+MID_MATCH_Easy_TitleHelp	Wähle eine Karte.
+MID_V001	Garten
+MID_V002	Kristalle
+MID_V003	Festung
+MID_V004	Schatz
+MID_V005	Säulen
+MID_V006	Schnee
+MID_MATCH_Search	Gegner suchen
+MID_MATCH_Search_Help	Wie soll gesucht werden?
+MID_MATCH_Random	Zufällig
+MID_MATCH_H_Random	Kämpfe gegen die Armee eines zufällig\nausgewählten Spielers.
+MID_MATCH_Serious_H_Random	Die Karte eines anderen Spielers\nwird automatisch ausgewählt. Der\nKampf beeinflusst deine Bewertung.
+MID_MATCH_Matching	Gegner gefunden: \x0E\x01\x00\x00
+MID_MATCH_Matching_Empty	Keine Gegner gefunden.
+MID_MATCH_Matching_Verification	Gegen \x0E\x01\x00\x00 kämpfen?
+MID_MATCH_NoData	Daten konnten nicht gefunden werden.
+MID_MATCH_Friend	Freund
+MID_MATCH_H_Friend	Wähle eine gegnerische Armee aus\neiner Liste von Armeen, die deine\nFreunde hochgeladen haben.
+MID_MATCH_Serious_H_Friend	Wähle aus einer Liste von Karten deiner\nFreunde. Der Kampf beeinflusst deine\nBewertung nicht.
+MID_MATCH_Friend_Select_Prompt	Wähle einen Freund.
+MID_MATCH_Friend_Select	Auswahl
+MID_MATCH_Friend_Corps	\x0E\x01\x00\x00
+MID_MATCH_Friend_Code	ID eingeben
+MID_MATCH_H_Friend_Code	Gib eine ID ein, um gegen die\nArmee eines spezifischen Spielers\nanzutreten.
+MID_MATCH_Serious_H_Friend_Code	Gib die ID für eine Karte eines bestimmten\nSpielers ein. Der Kampf beeinflusst deine\nBewertung nicht.
+MID_MATCH_Friend_Code_Input_Easy	Gib die ID eines Gegners ein, um einen Schnellkampf zu starten.
+MID_MATCH_Friend_ID	Möchtest du nach dieser ID suchen?
+MID_MATCH_Friend_ID_Search	Diese ID verwenden
+MID_MATCH_My_ID_Attention	Das ist deine eigene ID.\nBitte gib eine andere ID ein.
+MID_MATCH_Profile	Visitenkarten
+MID_MATCH_H_Profile	Wähle aus einer Liste von Karten anderer\nSpieler, die du derzeit hast.
+MID_MATCH_Serious_H_Profile	Wähle aus einer Liste von Karten anderer\nSpieler, die du derzeit hast. (Deine Bewertung\nwird von dem Ergebnis nicht beeinflusst.)
+MID_MATCH_Profile_Select_Prompt	Wähle einen Spieler.
+MID_MATCH_Profile_Select	Spielerliste
+MID_ProfileCard_Match_NoProfile	Du hast keine Visitenkarten, die für einen\nKampf verwendet werden können.
+MID_MATCH_MAP_Error	Der Kampf wurde aufgrund eines Datenfehlers unterbrochen.
+MID_MATCH_Serious	Spezialkampf
+MID_MATCH_H_Serious	Spiele auf einer Karte, die durch die\nVerbindung einer von dir hochgeladenen\nKarte mit der eines anderen Spielers\nentsteht.
+MID_MATCH_H_Serious_Attention	Du brauchst mindestens 2 Einheiten aus deiner\nArmee, um einen Spezialkampf zu spielen.
+MID_MATCH_H_Serious_OldMap	Der Kampf konnte nicht gestartet werden, da\ndie Kartendaten, die auf den Server hoch-\ngeladen wurden, älter sind als deine Karten-\ndaten. Wähle „Karte editieren“ und lade die\naktuellen Kartendaten hoch, um fortzufahren.
+MID_MATCH_Serious_Help	Wähle eine Aktion.
+MID_MATCH_Friend_Code_Input_Serious	Bitte gib die Gegner-ID für den Spezialkampf ein.
+MID_MATCH_Battle_Start	Kampf starten
+MID_MATCH_H_Battle_Start	Tritt auf deiner Karte gegen die Armee\neines anderen Spielers an.
+MID_MATCH_Battle_Win	Gewonnen!
+MID_MATCH_H_Battle_Lose	Verloren...
+MID_MATCH_GET_PIECE	\x0E\x01\x01\x00 \x0E\x01\x00\x00 Fragment(e) des Bandes erhalten.
+MID_MATCH_GET_GOLD	\x0E\x01\x00\x00\x0E\x01\x01\x00 G erhalten.
+MID_MATCH_GET_ITEM	\x0E\x01\x00\x00 \x0E\x01\x01\x00 erhalten.
+MID_MATCH_GET_ITEM_PLURAL	\x0E\x01\x00\x00\x0E\x01\x01\x00 x\x0E\x01\x02\x00 erhalten.
+MID_MATCH_Map_EditName	Vorbereitungen
+MID_MATCH_Map_Edit	Karte editieren
+MID_MATCH_H_Map_Edit	Gestalte deine eigene Karte und\nstelle ein Defensivteam zusammen.
+MID_MATCH_Map_Reset	Karte zurücks.
+MID_MATCH_H_Map_Reset	Verwirft den aktuellen Aufbau.
+MID_MATCH_H_Map_Reset_Confirmation	Aktuellen Kartenaufbau zurücksetzen?
+MID_MATCH_Map_Save	Karte speichern
+MID_MATCH_H_Map_Save	Speichert deine Karte.
+MID_MATCH_Map_Edit_Finish	Fertigstellen
+MID_MATCH_H_Map_Edit_Finish	Beendet den Editor.
+MID_MATCH_Map_Edit_Finish_Confirmation	Bearbeiten der Karte beenden?
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	Bearbeiten ohne Speichern beenden?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	Fertigstellen
+MID_MATCH_Map_Edit_Finish_Confirmation_No	Weiter bearbeiten
+MID_MATCH_Map_HealPanel_Duplicated	Du kannst immer nur ein Heilfeld oder\nSchutzfeld platzieren.
+MID_MATCH_Map_Cannon_Duplicated	Du kannst immer nur eine Ballista, magische\nArtillerie oder Flammenkanone platzieren.
+MID_MATCH_Map_Save_Error	Karte konnte nicht gespeichert werden.\n\x0E\x01\x00\x00
+MID_MATCH_Map_Save_Error_NoUnit	Stelle mindestens 1 Einheit auf.
+MID_MATCH_Map_Save_Error_AllUnit	Es sind bereits alle Einheiten in Verteidigungs-\nteams aufgestellt.
+MID_MATCH_Serious_Error_AllUnit	Du hast keine Einheiten für eine Raubgruppe.\nVerringere unter „Karte editieren“ die Anzahl\nvon Verbündeten in deinem Defensivteam.
+MID_MATCH_Map_Save_Error_BanAreaUnit	Manche Einheiten wurden an unerreichbaren\nOrten platziert.
+MID_MATCH_Map_Save_Error_InvalidData	Speichern nicht möglich. Die Daten sind\nmöglicherweise beschädigt.
+MID_MATCH_Map_Save_Success	Karte gespeichert.
+MID_MATCH_Map_UpRoad	Willst du deine Karte für Verteidigungskämpfe\nhochladen? Du kannst pro Nintendo-Account\nnur 1 Karte hochladen. Zuvor hochgeladene\nKarten, auch wenn sie mit anderen Speicher-\ndaten erstellt wurden, werden überschrieben.
+MID_MATCH_Map_UpRoad_Yes	Hochladen
+MID_MATCH_Map_UpRoad_No	Nicht hochladen
+MID_MATCH_Map_UpRoad_Success	Erfolgreich hochgeladen.
+MID_MATCH_Map_UpRoad_Failure	Hochladen fehlgeschlagen.
+MID_MATCH_Unit_Duplicate	\x0E\x01\x00\x00 wurde für die Verteidigung\naufgestellt.
+MID_MATCH_Map_Edit_AI_NotMove	Halten
+MID_MATCH_H_Map_Edit_AI_NotMove	Halte deine Startposition.
+MID_MATCH_Map_Edit_AI_Defense	Verteidigung
+MID_MATCH_H_Map_Edit_AI_Defense	Schalte Gegner aus, die in\nReichweite kommen.
+MID_MATCH_Map_Edit_AI_Rush	Angriff
+MID_MATCH_H_Map_Edit_AI_Rush	Jage Gegner in Reichweite, an-\ngefangen beim Schwächsten.
+MID_MATCH_Map_Edit_AI_ResponseA	Gruppe A
+MID_MATCH_H_Map_Edit_AI_ResponseA	Gruppe A wird aktiv, sobald\nGegner in Reichweite sind.
+MID_MATCH_Map_Edit_AI_ResponseB	Gruppe B
+MID_MATCH_H_Map_Edit_AI_ResponseB	Gruppe B wird aktiv, sobald\nGegner in Reichweite sind.
+MID_MATCH_Map_Edit_AI_ResponseC	Gruppe C
+MID_MATCH_H_Map_Edit_AI_ResponseC	Gruppe C wird aktiv, sobald\nGegner in Reichweite sind.
+MID_MATCH_Map_Replay	Ergebnisse
+MID_MATCH_H_Map_Replay	Sieh dir die Ergebnisse von\nVerteidigungskämpfen an.
+MID_MATCH_History	Auf einer von dir hochgeladenen Karte kam es\nzu einem Kampf. Möchtest du die Ergebnisse\nansehen?
+MID_MATCH_NoHistory	Auf deinen hochgeladenen Karten kam es zu\nkeinen Verteidigungskämpfen.
+MID_MATCH_MockCombat	Übungskampf
+MID_MATCH_H_MockCombat	Teste deine Karte.
+MID_MATCH_Surrender	Kapitulieren
+MID_MATCH_H_Surrender	Aufgeben und zum Menü\nzurückkehren.
+MID_MATCH_Surrender_Attention	Willst du kapitulieren?
+MID_MATCH_Surrender_Yes	Kapitulieren
+MID_MATCH_MyRate	Rangliste
+MID_MATCH_ID	Kampf-ID
+MID_MATCH_Victory	GEWONNEN!
+MID_MATCH_Defeat	VERLOREN
+MID_REPORT_TITLE	Melden
+MID_REPORT_MAP_DELETE	Deine Karte wurde gemeldet und nach erfolgter\nPrüfung gelöscht.
+MID_REPORT_TITLE_HELP	Melde eine unangemessene\nKarte.
+MID_REPORT_NOTES	Du meldest eine Karte aufgrund von Inhalten,\ndie gegen die Community-Richtlinien von\nNintendo of Europe verstoßen.\nDie Meldung wird an Nintendo gesendet, nicht\nan den Spieler, der die Karte hochgeladen hat.
+MID_REPORT__CONFIRM_DIALOG	Diesen Verstoß melden?
+MID_REPORT__CONFIRM_DIALOG_YES	Melden
+MID_REPORT_CATEGORY_SELECT	Wähle die Art des zu meldenen Verstoßes.
+MID_REPORT_MAP	Karte melden
+MID_REPORT_CATEGORY	Art des Verstoßes
+MID_REPORT_REASON	Grund der Meldung
+MID_REPORT_REASON_INPUT	Gib den Grund für die Meldung ein.
+MID_REPORT_CATEGORY_PERSONAL	Verletzung der Privatsphäre
+MID_REPORT_CATEGORY_CRIMINAL	Gewalt/Körperverletzung
+MID_REPORT_CATEGORY_IMMORAL	Beleidigung/Belästigung/Mobbing
+MID_REPORT_CATEGORY_HARASSMENT	Diskriminierung/Hetze
+MID_REPORT_CATEGORY_COMMERCIAL	Werbung/Spam
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	Sexuell expliziter Inhalt
+MID_REPORT_CATEGORY_OTHER	Sonstige unangemessene Inhalte
+MID_REPORT_RESULT	Deine Meldung wurde übermittelt und wird\nüberprüft.
+MID_RELAY_Ticket	\x0E\x01\x00\x00 Staffelticket(s) erhalten.
+MID_RELAY_Ticket_Stock	Staffeltickets:
+MID_RELAY_NewData	Neue Prüfung
+MID_RELAY_H_NewData	Löse ein Ticket ein, um Daten\nanzulegen und eine neue Prüfung\nzu starten.
+MID_RELAY_TakeOver_START_CONFIRM	Kampf starten? Damit werden die Positionen\ndeiner Einheiten finalisiert.
+MID_RELAY_Unit_Select	Bitte entsende \x0E\x01\x00\x00 Einheiten in den Kampf. \nWähle „Einheiten“, um weitere Einheiten \nauszuwählen.
+MID_RELAY_Ticket_Lack	Um eine neue Prüfung zu starten, benötigst du\nein Ticket.
+MID_RELAY_Unit_Lack	Du hast nicht genügend Einheiten.
+MID_RELAY_TakeOver	Übernahme
+MID_RELAY_H_TakeOver	Übernimm die Daten eines anderen\nSpielers und setze seine begonne-\nne Prüfung fort.
+MID_RELAY_TakeOver_Outline	Prüfung
+MID_RELAY_TakeOver_Empty	Keine Daten zum Übernehmen.
+MID_RELAY_Joining_players	Teilnehmer
+MID_RELAY_TakeOver_Help	Wie soll gesucht werden?
+MID_RELAY_TakeOver_ID	Übernahme-ID
+MID_RELAY_Random	Zufällig
+MID_RELAY_H_Random	Übernimm eine zufällig ausgewählte\nPrüfung.
+MID_RELAY_ID_Search	ID eingeben
+MID_RELAY_H_ID_Search	Gib eine ID ein, um die Prüfung eines\nspezifischen Spielers zu übernehmen.
+MID_RELAY_ID_Input	Gib eine Übernahme-ID ein.
+MID_RELAY_ID_Search_Attention	Nach dieser Übernahme-ID suchen?\n\x0E\x01\x00\x00
+MID_RELAY_ID_Search_OK	Suchen
+MID_RELAY_Data_Error	Keine Daten gefunden.
+MID_RELAY_ID_Search_MyMap_Error	Du kannst keine Prüfung übernehmen, die du\nselbst gestartet hast.
+MID_RELAY_ID_Search_Again_Error	Du kannst keine Prüfung übernehmen, an der\ndu bereits teilgenommen hast.
+MID_RELAY_ID_Search_Finish_Error	Du kannst keine Prüfung übernehmen, die\nbereits beendet wurde.
+MID_RELAY_ID_Search_Other_Error	Du kannst keine Prüfung übernehmen, die\naktuell von einem anderen Spieler betreut wird.\nBitte warte, bis das Ergebnis hochgeladen\nwurde oder 24 Stunden vergangen sind.
+MID_RELAY_ID_Search_Error	Du kannst diese Prüfung nicht übernehmen.
+MID_RELAY_ID_Search_NoData	Keine Daten gefunden. Möglicherweise wurden\ndie Daten seit dem letzten Update gelöscht.
+MID_RELAY_Replay	Ergebnisse
+MID_RELAY_H_Replay	Sieh dir die Ergebnisse oder Wie-\nderholungen der Prüfungen an, an\ndenen du teilgenommen hast, oder\nnimm Belohnungen entgegen.
+MID_RELAY_Map_Select	Wähle eine Karte.
+MID_RELAY_Replay_Select	Meine Kämpfe
+MID_RELAY_Replay_Datetime	\x0E\x01\x02\x00.\x0E\x01\x01\x00.\x0E\x01\x00\x00 \x0E\x01\x03\x00:\x0E\x01\x04\x00
+MID_RELAY_Replay_Select_Prompt	Wähle die Daten, die du dir ansehen möchtest.
+MID_RELAY_Reselect	Ein anderer Spieler hat diese Prüfung über-\nnommen. Andere Daten werden ausgewählt.
+MID_RELAY_Replay_Empty	Es sind keine Daten verfügbar. (Daten werden\nnach einer gewissen Zeit automatisch gelöscht.)
+MID_RELAY_Replay_NotUpdate	Daten konnten nicht aktualisiert werden,\nda die Prüfung von einem anderen Spieler\nübernommen wurde.
+MID_RELAY_Replay_NotSeeYet	Keine Daten für die Staffelprüfung verfügbar.
+MID_RELAY_Replay_Beginning_NoFinish	Bisherige Wiederholung ansehen? (Der Kampf\nist noch nicht abgeschlossen, aber du kannst dir das bisherige Geschehen ansehen.)
+MID_RELAY_Replay_Beginning_NoFinish_Yes	Ansehen
+MID_RELAY_Replay_Beginning	Wiederholung ansehen?
+MID_RELAY_Replay_Beginning_Yes	Ansehen
+MID_RELAY_Replay_Beginning_No	Nur Ergebnis ansehen
+MID_RELAY_Replay_Reward_Received	Du hast die Belohnung für diese Prüfung\nbereits abgeholt.
+MID_RELAY_UpdateContents_Attention	Wähle eine Einstellung für Prüfungsdaten.\nÖffentlich: Jeder kann deine Prüfung\nübernehmen.\nPrivat: Es wird eine ID benötigt, um deine\nPrüfung zu übernehmen.
+MID_RELAY_UpdateContents_Yes	Öffentlich
+MID_RELAY_UpdateContents_No	Privat
+MID_RELAY_MyMap_ID	Die Übernahme-ID für diese Prüfung ist:\n\x0E\x01\x00\x00\nMöchtest du, dass jemand diese Prüfung für\ndich übernimmt, musst du ihm die ID geben.
+MID_RELAY_Redo	Neuen Verbindungsversuch starten?
+MID_RELAY_PlayUser	Wiederholung der Züge von \x0E\x01\x00\x00...
+MID_RELAY_UserMessage	Nachricht von \x0E\x01\x00\x00
+MID_RELAY_PlayerChange	SPIELERWECHSEL!
+MID_RELAY_Win	Gewonnen
+MID_RELAY_Lose	Verloren
+MID_RELAY_FinalRecord	Ergebnis
+MID_RELAY_UpRoad	Diese Daten werden hochgeladen.
+MID_RELAY_Failure	GESCHEITERT
+MID_RELAY_OPEN_N006	Du kannst bei den Staffelprüfungen jetzt das\nVulkanland auswählen.
+MCID_N001_1	Grasebene
+MCID_N002_1	Blumenfeld
+MCID_N003_1	Berggipfel
+MCID_N004_1	Winterwald
+MCID_N005_1	Wüstensand
+MCID_N006_1	Vulkanland
+MID_RELAY_Award_All	Alle Teilnehmer
+MID_RELAY_Award_Regret	2. Platz
+MID_RELAY_Award_Count_Kill	Meiste besiegte Gegner
+MID_RELAY_Award_Count_Damage	Meister erlittener Schaden
+MID_RELAY_Award_Count_Recovered	Meiste geheilte Verbündete
+MID_RELAY_Award_Count_Break	Meiste gebrochene Gegner
+MID_RELAY_Award_Count_Engage	Meiste Bündnisse
+MID_RELAY_Award_Count_Item	Meiste genutzte Items
+MID_RELAY_Award_Count_Poison	Meiste vergiftete Gegner
+MID_RELAY_Award_Count_LongWalk	Meiste zurückgelegte Distanz
+MID_RELAY_Award_Count_Skill	Meiste genutzte Fähigkeiten
+MID_RELAY_Award_Invisible	Kein erlittener Schaden
+MID_RELAY_Award_Count_Critical	Meiste kritische Treffer
+MID_RELAY_Award_Count_SpecialAttack	Meiste effektive Treffer
+MID_RELAY_Award_Count_EngageAttack	Meiste Bündnis-Angriffe
+MID_RELAY_Award_Count_ChainGuard	Meiste Protektionen
+MID_RELAY_Award_Count_Smash	Meiste Schmetterangriffe
+MID_RELAY_Award_Count_Adjacent	Meiste Nahkampfangriffe
+MID_RELAY_Award_Count_Indirect	Meiste Fernkampfangriffe
+MID_RELAY_Award_Count_NoKill	Meiste Angriffe ohne besiegte Gegner
+MID_RELAY_Award_Count_ChainAttack	Meiste Koop-Schläge
+MID_RELAY_Award_Sabotage_Comment	Geringste Aktivität
+MID_RELAY_Award_MyPace	Geringste zurückgelegte Distanz
+MID_RELAY_Award_Strike	Geringster verursachter Schaden
+MID_RELAY_Award_Count_Standby	Am meisten gewartet
+MID_RELAY_Award_TroubleMaker	Meiste Heilungen durch Verbündete
+MID_RELAY_Award_Sabotage_Unlucky	Die meisten geg. Fähigkeit. aktiviert
+MID_RELAY_Award_Kill	Vollstrecker
+MID_RELAY_Award_Damage	Hart im Nehmen
+MID_RELAY_Award_Recovered	Heilende Hand
+MID_RELAY_Award_Break	Haltungsbrecher
+MID_RELAY_Award_Engage	Bündnisfreudig
+MID_RELAY_Award_Item	Item-Eifer
+MID_RELAY_Award_Poison	Giftmischer
+MID_RELAY_Award_LongWalk	Langstreckenläufer
+MID_RELAY_Award_Skill	Hochbefähigt
+MID_RELAY_Award_NoDamage	Unberührt
+MID_RELAY_Award_Critical	Krit.-Quotenjäger
+MID_RELAY_Award_SpecialAttack	Effekthascher
+MID_RELAY_Award_EngageAttack	Im Bündnis stark
+MID_RELAY_Award_ChainGuard	Beschützer
+MID_RELAY_Award_Smash	Schmetterer
+MID_RELAY_Award_Adjacent	Schlagfertig
+MID_RELAY_Award_Indirect	Distanzdominator
+MID_RELAY_Award_NoKill	Assistent
+MID_RELAY_Award_ChainAttack	Kooperativ
+MID_RELAY_Award_Sabotage	Vorsichtig
+MID_RELAY_Award_EnergySaving	Bummelant
+MID_RELAY_Award_Peace	Pazifist
+MID_RELAY_Award_Standby	Wartender
+MID_RELAY_Award_Protected	Sorgenkind
+MID_RELAY_Award_SkillTarget	Pechvogel
+MID_RELAY_Stamp_Message	Nachricht für den nächsten Spieler.
+MID_RELAY_Stamp_Lueur_M_0	Ich verlasse mich auf Euch.
+MID_RELAY_Stamp_Lueur_F_0	Ich arbeite gerne mit Euch.
+MID_RELAY_Stamp_Vandre_0	Bleibt bitte vorsichtig.
+MID_RELAY_Stamp_Clan_0	Puh! Mir ist ganz schwindelig...
+MID_RELAY_Stamp_Fram_0	Ein Wunder wäre jetzt gut!
+MID_RELAY_Stamp_Alfred_0	Na, wie war ich bisher?
+MID_RELAY_Stamp_Boucheron_0	Ich werde ganz rührselig...
+MID_RELAY_Stamp_Etie_0	Bereit, alles zu geben?
+MID_RELAY_Stamp_Celine_0	Ich brauche Eure Hilfe.
+MID_RELAY_Stamp_Louis_0	Ich habe ein Auge auf Euch.
+MID_RELAY_Stamp_Chloe_0	So viele Möglichkeiten!
+MID_RELAY_Stamp_Diamand_0	Vereinen wir unsere Kräfte.
+MID_RELAY_Stamp_Umber_0	Das wird legendär!
+MID_RELAY_Stamp_Jade_0	Jetzt wird es spannend.
+MID_RELAY_Stamp_Staluke_0	Furchtbar, ich weiß...
+MID_RELAY_Stamp_Lapis_0	Hier hilft nur eins: Stärke.
+MID_RELAY_Stamp_Citrinica_0	Ich stehe hinter Euch.
+MID_RELAY_Stamp_Ivy_0	Ich glaube an Euch.
+MID_RELAY_Stamp_Zelkova_0	Was... sagt... Ihr dazu?
+MID_RELAY_Stamp_Kagetsu_0	Wir sind doch Freunde, oder?
+MID_RELAY_Stamp_Hortensia_0	Dass Ihr Euch nicht wehtut!
+MID_RELAY_Stamp_Rosado_0	Habe ich es übertrieben...?
+MID_RELAY_Stamp_Goldmary_0	Verzeiht meine Perfektion.
+MID_RELAY_Stamp_Misutira_0	Das wird ein Kinderspiel!
+MID_RELAY_Stamp_Merin_0	Ich hab's eben drauf.
+MID_RELAY_Stamp_Panetone_0	Pustet zum Angriff!
+MID_RELAY_Stamp_Fogato_0	Ihr schaukelt das schon.
+MID_RELAY_Stamp_Pandoro_0	ARUUUU!
+MID_RELAY_Stamp_Bonet_0	Ein feines Appetithäppchen.
+MID_RELAY_Stamp_Anna_0	Bin in Vorleistung gegangen!
+MID_RELAY_Stamp_Jean_0	Ich zähle auf Euch.
+MID_RELAY_Stamp_Yunaka_0	Das wird sicher superduper!
+MID_RELAY_Stamp_Seadas_0	Die Bühne gehört Euch.
+MID_RELAY_Stamp_Linden_0	Mein Experiment...!
+MID_RELAY_Stamp_Saphir_0	Wir brauchen eine Strategie.
+MID_RELAY_Stamp_Veyre_0	Ich habe mein Bestes gegeben.
+MID_RELAY_Stamp_Mauve_0	Alles Weitere liegt an Euch.
+MID_RELAY_Stamp_Lumiere_0	Gebt auf Euch acht, ja?
+MID_RELAY_Stamp_Marth_0	Zeit für das Bündnis!
+MID_RELAY_Stamp_Celica_0	Ich verabscheue Gewalt...
+MID_RELAY_Stamp_Siglud_0	Ich bereue nichts.
+MID_RELAY_Stamp_Leaf_0	Wir stehen das durch.
+MID_RELAY_Stamp_Roy_0	Der Kampf geht jetzt erst los.
+MID_RELAY_Stamp_Lin_0	Möge der Wind Euch leiten.
+MID_RELAY_Stamp_Eirik_0	Ich wünsche Euch Glück.
+MID_RELAY_Stamp_Ike_0	Lasst Eure Leute nicht im Stich.
+MID_RELAY_Stamp_Micaiah_0	Auf gute Zusammenarbeit.
+MID_RELAY_Stamp_Lucina_0	Gegen das Schicksal!
+MID_RELAY_Stamp_Kamui_0	Ich weiß, Ihr schafft das.
+MID_RELAY_Stamp_Byleth_0	Setzt um, was Ihr gelernt habt.
+MID_RANKING_Title	Rangliste
+MID_H_RANKING_Title	Einsatzstatistik dieser Karte.
+MID_RANKING_First	\x0E\x01\x00\x00
+MID_RANKING_Second	\x0E\x01\x00\x00
+MID_RANKING_Third	\x0E\x01\x00\x00
+MID_RANKING_Other	\x0E\x01\x00\x00
+MID_RANKING_Fail	Daten konnten nicht abgerufen werden.
+MID_CHALLENGE_EXP_TITLE	Erf.
+MID_CHALLENGE_MapSelect_Help	Wähle eine Karte, die du spielen möchtest.
+MID_CHALLENGE_MapSelect_MenuCaption	Karte
+MID_CHALLENGE_MapInfo_N_Battles	Kämpfe: \x0E\x01\x00\x00
+MID_CHALLENGE_MapInfo_BestRecort	Rekord
+MID_CHALLENGE_MapInfo_Turn	Züge
+MID_CHALLENGE_MapInfo_Materials	Bonusmaterialien
+MID_CHALLENGE_DifficultyMenu_Help	Wähle einen Schwierigkeitsgrad.
+MID_CHALLENGE_DifficultyMenu_Recommended	Empfohlen: \x0E\x01\x00\x00
+MID_CHALLENGE_DifficultyMenu_Difficulty	Schwier.
+MID_CHALLENGE_DifficultyMenu_Start	Los!
+MID_CHALLENGE_Start_CONFIRM	Möchtest du ein Ticket einlösen und den\nKampf starten? Du hast \x0E\x01\x00\x00 Ticket(s) in deinem\nBesitz.
+MID_CHALLENGE_GiveUp	Aufgeben
+MID_CHALLENGE_H_GiveUp	Beende die Prüfung und\nkehre zum Menü zurück.
+MID_CHALLENGE_GiveUp_CONFIRM	Prüfung beenden und zum Menü zurückkeh- ren? Du erhältst keine Abschlussbelohnung, aber Erfahrung für die abgeschlossenen Karten.
+MID_CHALLENGE_Confirm	„\x0E\x01\x00\x00“ auf Schwierigkeitsgrad\n\x0E\x01\x01\x00 starten?
+MID_CHALLENGE_MAP1	Erster Kampf
+MID_CHALLENGE_MAP2	Zweiter Kampf
+MID_CHALLENGE_MAP3	Letzter Kampf
+MID_CHALLENGE_Get_Item	-
+MID_CHALLENGE_Get_EXP	Erf. erhalten
+MID_CHALLENGE_Join_MAP1	Kampf 1 beitreten
+MID_CHALLENGE_Join_MAP2	Kampf 2 beitreten
+MID_CHALLENGE_Join_MAP3	Kampf 3 beitreten
+MID_CHALLENGE_Get_SP	Bücher erhalten
+MID_CHALLENGE_OPEN_LEVEL41	Schwierigkeiten 41 und höher für\nStaffelprüfungen sind jetzt freigeschaltet.
+MID_CHALLENGE_C001_TITLE	Grasebene
+MID_CHALLENGE_C002_TITLE	Blumenfeld
+MID_CHALLENGE_C003_TITLE	Berggipfel
+MID_CHALLENGE_C004_TITLE	Winterwald
+MID_CHALLENGE_C005_TITLE	Wüstensand
+MID_CHALLENGE_C006_TITLE	Vulkanland
+MID_AMIIBO_Ticket_Music	\x0E\x08\x02\x18\x16SoundTicket Musikticket erhalten.
+MID_AMIIBO_Ticket_Accessories	\x0E\x08\x02\x14\x12AccTicket Modeticket erhalten.
+MID_AMIIBO_Touch_Count	Dir bleiben noch \x0E\x01\x00\x00 von 5 Scans.
+MID_AMIIBO_Touch_Interval	Scans werden in \x0E\x01\x00\x00 Std. und\n\x0E\x01\x01\x00 Min. zurückgesetzt.
+MID_AMIIBO_Touch	Bitte lies dein amiibo ein.
+MID_AMIIBO_Accessories_Attention	Für diese Einheit nicht verfügbar
+MID_AMIIBO_Trade_Ticket	Gegen \x0E\x01\x00\x00 eintauschen?\n(Es wird 1 Ticket verbraucht.\nAktuelle Anzahl von Tickets: \x0E\x01\x01\x00)
+MID_AMIIBO_Trade_Ticket_Use	Ticket einlösen
+MID_AMIIBO_Trade_Ticket_Have	Tickets in Besitz
+MID_AMIIBO_Trade_Music_Select	Wähle einen Titel.
+MID_AMIIBO_Trade_Ticket_Music	Musikticket
+MID_AMIIBO_Music	Musik
+MID_AMIIBO_Trade_Accessories_Select	Wähle ein Outfit.
+MID_AMIIBO_Trade_Ticket_Accessories	Modeticket
+MID_AMIIBO_Accessories	Kleidung
+MID_AMIIBO_Trade_Nothing	Nichts
+MID_AMIIBO_Trade_Information	In der Kategorie \x0E\x01\x00\x00 ist nichts verfügbar.\nDeine Tickets werden gegen Fragmente des\nBandes eingetauscht.

@@ -1,0 +1,124 @@
+MID_SORTIE_START	Combattre !
+MID_SORTIE_START_HELP	Achever les préparatifs et débuter la bataille.
+MID_SORTIE_START_CONFIRM	Débuter la bataille ?
+MID_SORTIE_START_CONFIRM_YES	Commencer
+MID_SORTIE_BACK	Retour
+MID_SORTIE_SELECT_UNIT	Unités
+MID_SORTIE_SELECT_UNIT_SELECT	Choisissez une unité.
+MID_SORTIE_SELECT_UNIT_HELP	Choisir les unités qui combattront.
+MID_SORTIE_EQUIP_GOD	Emblèmes
+MID_SORTIE_EQUIP_GOD_HELP	Assigner des Anneaux\x0E\x01\x09\x00\nd'Emblèmes aux unités.
+MID_SORTIE_INVENTORY	Inventaire
+MID_SORTIE_INVENTORY_HELP	Gérer l'équipement\net les techniques.
+MID_SORTIE_CHANGE_POSITION	Permuter
+MID_SORTIE_CHANGE_POSITION_HELP	Positionner les unités\nsur la carte.
+MID_SORTIE_SHOP	Marché
+MID_SORTIE_SHOP_HELP	Acheter des armes et\ndes objets.
+MID_SORTIE_WEAPON_SHOP	Armurerie
+MID_SORTIE_H_WEAPON_SHOP	Acheter des armes.
+MID_SORTIE_ITEM_SHOP	Magasin
+MID_SORTIE_H_ITEM_SHOP	Acheter des objets.
+MID_SORTIE_RELIANCE	Soutien
+MID_SORTIE_RELIANCE_UNIT_SELECT	Choisir un allié.
+MID_SORTIE_RELIANCE_NONE	Aucun soutien.
+MID_SORTIE_BONDS_RELIANCE	Liens
+MID_SORTIE_BONDS_RELIANCE_NONE	Aucun Emblème.
+MID_SORTIE_RELIANCE_ATTENTION	Vous pouvez entamer des dialogues de lien et\nde soutien à Somniel et sur la carte du monde.
+MID_SORTIE_SAVE	Sauvegarder
+MID_SORTIE_SAVE_HELP	Sauvegarder votre progression.
+MID_SORTIE_BACK_CONFIRM_HELP	Retourner à la carte du monde.
+MID_SORTIE_BACK_CONFIRM	Retourner à la carte du monde ?
+MID_SORTIE_BACK_CONFIRM_HELP_M026	Retourner à Somniel
+MID_SORTIE_BACK_CONFIRM_M026	Retourner à Somniel ?
+MID_SORTIE_CONTINUEBATTLE_NOSELECT	Sélection impossible au cours\nd'une série de batailles.
+MID_SORTIE_COMMON_TRADE	Permuter
+MID_SORTIE_UNIT_ITEM	Gérer objets
+MID_SORTIE_UNIT_ITEM_LIST	Objets
+MID_SORTIE_UNIT_TRADE	Échanger
+MID_SORTIE_UNIT_ENTRUST	Optimiser équipement
+MID_SORTIE_UNIT_ENTRUST_WARNING1	Le convoi ne contient pas assez\nd'objets pour équiper cette unité.
+MID_SORTIE_UNIT_ENTRUST_WARNING2	L'équipement n'a pas pu être optimisé car\nil n'y a pas assez de place dans le convoi.
+MID_SORTIE_UNIT_STORE	Stocker
+MID_SORTIE_UNIT_STORE_ALL	Tout stocker
+MID_SORTIE_UNIT_STORE_ALL_WARNING	Soit le convoi est plein, soit certains\nobjets ne peuvent pas être mis de côté.
+MID_SORTIE_UNIT_SKILL_OPEN	Vous pouvez maintenant gérer vos techniques.
+MID_SORTIE_UNIT_SKILL	Gérer techniques
+MID_SORTIE_UNIT_CLASSCHANGE	Changer classe
+MID_SORTIE_ALL_UNITS_ENTRUST	Tout optimiser
+MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM	Optimiser l'équipement des unités déployées ?\n(Les objets équipés sur d'autres unités seront\nenvoyés dans le convoi.)
+MID_SORTIE_ALL_UNITS_ENTRUST_ERROR	Vous pouvez utiliser Tout optimiser après\navoir choisi les unités déployées pendant\nles préparatifs de la bataille.
+MID_SORTIE_ALL_UNITS_ENTRUST_Yes	Optimiser
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1	Le convoi ne contient pas assez d'objets pour\néquiper complètement les unités déployées.
+MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2	L'équipement n'a pas pu être optimisé car\nil n'y a pas assez de place dans le convoi.
+MID_SORTIE_ALL_UNITS_STORE_ALL	Tout stocker
+MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM	Envoyer tous les objets dans le convoi ?
+MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING	Le convoi ne contient pas assez d'espace\npour stocker tous les objets de cette unité.
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD	Tout optimiser
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM	Optimiser les anneaux\x0E\x01\x0B\x00 des unités déployées ?
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes	Optimiser
+MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No	Annuler
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD	Tout retirer
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM	Retirer les anneaux\x0E\x01\x0B\x00 de toutes les unités ?
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes	Retirer
+MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No	Annuler
+MID_SORTIE_UNIT_NONE	Aucune unité disponible.
+MID_TROOPLIST_PAGETITLE_BASIC	Statut
+MID_TROOPLIST_PAGETITLE_STATUS	Carac. de base
+MID_TROOPLIST_PAGETITLE_BATTLE	Carac. de combat
+MID_SORTIE_INVENTORY_STORE	Stocker
+MID_SORTIE_INVENTORY_RECEIVE	Prendre
+MID_SORTIE_INVENTORY_EQUIP	Équiper
+MID_SORTIE_INVENTORY_REMOVE	Retirer
+MID_SORTIE_INVENTORY_ARRANGE	Ranger
+MID_SORTIE_INVENTORY_USE	Utiliser
+MID_SORTIE_INVENTORY_DISCARD	Jeter
+MID_SORTIE_INVENTORY_EMPTY	(Aucun objet)
+MID_SORTIE_SKILL_CATEGORY_PERSON	Perso.
+MID_SORTIE_SKILL_CATEGORY_JOB	Classe
+MID_SORTIE_SKILL_CATEGORY_INHERITANCE	Héritée
+MID_SORTIE_SKILL_CATEGORY_GOD	Engag.
+MID_SORTIE_SKILL_CATEGORY_ENGAGE	Fusion
+MID_SORTIE_SKILL_CATEGORY_BONDS	Lien
+MID_SORTIE_SKILL_CATEGORY_EQUIPED	Assignée
+MID_SORTIE_SKILL_OVERLAPPING	Doublon
+MID_SORTIE_SKILL_SUPPLEMENT_HELP	Déjà parmi les techniques actuelles.
+MID_SORTIE_SKILL_POOL_NONE	(Aucune)
+MID_SORTIE_SKILL_POOL_TITLE	Techniques héritées
+MID_SORTIE_CLASSCHANGE_NEED_LV	Niv. requis
+MID_SORTIE_CLASSCHANGE_NEED_APTITUDE	Aptitude req.
+MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE	Aptitudes
+MID_SORTIE_CLASSCHANGE_NEED_ITEM	Objets nécessaires
+MID_SORTIE_CLASSCHANGE_SKILL_LEVEL	Apprise au niv. \x0E\x01\x00\x00
+MID_SORTIE_CLASSCHANGE_NONE	Impossible pour le moment.
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG	Affecter l'unité à la classe\n\x0E\x01\x00\x00 ?
+MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES	Changer de classe
+MID_SORTIE_CLASSCHANGE_NEED_JOB	\x0E\x01\x00\x00 niv. \x0E\x01\x01\x00
+MID_SORTIE_CLASSCHANGE_BASIC_ARMOR	Cuirassier épée/lance/hache
+MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT	Cavalier épée/lance/hache
+MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS	Pégase épée/lance/hache
+MID_SELECTRING_TITLE_GOD	Anneaux\x0E\x01\x09\x00 d'Emblèmes
+MID_SELECTRING_REMOVE	Retirer « \x0E\x01\x00\x00 » ?
+MID_SELECTRING_CHANGE	Retirer « \x0E\x01\x00\x00 » et\nassigner « \x0E\x01\x01\x00 » ?
+MID_SELECTRING_CHANGE_REMOVE	Retirer « \x0E\x01\x00\x00 »\net assigner « \x0E\x01\x01\x00 » ?\n\x0E\x01\x02\x00 s'en sert actuellement.
+MID_SELECTRING_SET	Assigner « \x0E\x01\x00\x00 » ?
+MID_SELECTRING_SET_REMOVE	Assigner « \x0E\x01\x00\x00 » ?\n\x0E\x01\x01\x00 s'en sert actuellement.
+MID_SELECTRING_REMOVE_CONFIRM	Retirer
+MID_SELECTRING_SET_CONFIRM	Assigner
+MID_SELECTRING_GOD_CHANGE_YES	Changer
+MID_SELECTRING_GOD_EMPTY	Aucun Anneau\x0E\x01\x08\x00 d'Emblème.
+MID_SELECTRING_COMMON_EMPTY	Aucun anneau de lien.
+MID_SELECTRING_LUEUR_NOTES	L'Emblème \x0E\x06\x03\x00\npeut fusionner au combat\nà l'aide de Fusion+.
+MID_SORTIE_TITLE_UNIT_SELECT	Unités
+MID_SORTIE_TITLE_UNIT_SELECT_ITEM	Inventaire
+MID_SORTIE_TITLE_RING_SELECT	Emblèmes
+MID_SORTIE_TITLE_INVENTORY	Gérer objets
+MID_SORTIE_TITLE_TRADE	Échange
+MID_SORTIE_TITLE_SKILL	Gérer techniques
+MID_SORTIE_TITLE_CLASSCHANGE	Changer classe
+MID_SORTIE_TITLEHELP_UNIT_SELECT	Choisissez les combattants.
+MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM	Choisissez les unités.
+MID_SORTIE_TITLEHELP_RING_SELECT	Choisissez les Anneaux\x0E\x01\x09\x00 d'Emblèmes.
+MID_SORTIE_TITLEHELP_INVENTORY	Choisissez des objets.
+MID_SORTIE_TITLEHELP_TRADE	Choisissez quels objets échanger.
+MID_SORTIE_TITLEHELP_SKILL	Assignez des techniques.
+MID_SORTIE_TITLEHELP_CLASSCHANGE	Choisissez une classe.

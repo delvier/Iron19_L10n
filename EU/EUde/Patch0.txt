@@ -1,0 +1,274 @@
+MID_SYS_Unknown	???
+MID_SYS_Arg_Bracelet	/Ring
+MID_SYS_Arg_Bracelets	/Ringe
+MID_SYS_Arg_Bracelet_UNCAP	/Ring
+MID_SYS_Arg_Bracelets_UNCAP	/Ringe
+MID_KEYHELP_MENU_TOGGLE	Wählen/Aufheb.
+MID_H_INFO_Emblem_GoodWeapon	\x0E\x01\x00\x00:\x0E\x01\x01\x00
+MID_MSG_DLC_NOT_FOUND	Daten konnten nicht geladen werden, da\nzusätzlicher Inhalt fehlt. Solltest du diesen\nInhalt bereits gekauft haben, lade ihn bitte\nerneut im Nintendo eShop herunter.
+MID_MSG_PATCH_NOT_FOUND	Dieser Inhalt ist momentan nicht verfügbar.
+MID_DLC_News_Patch0_Title	Ver. 1.1.0
+MID_DLC_News_Patch0	Erweiterungspass\n\n・ Emblem Edelgard (mit Dimitri und Claude) wurde\n  hinzugefügt. Sie schließen sich dir und deiner Gruppe an, wenn\n  du am Aussichtspunkt im Somniel den Event dafür auslöst.\n\n・ Emblem Tiki wurde hinzugefügt.\n  Sie wird sich dir und deiner Gruppe anschließen, wenn du\n  ihr Göttliches Kapitel erfolgreich beendest.\n\n・ Erweiterungspass-Bonus 1 wurde hinzugefügt.\n  Du erhältst nach dem Kauf des Erweiterungspasses\n  automatisch Items, die Statuswerte verbessern, wie\n  zum Beispiel Stiefel.\n\n・ In der Boutique gibt es neue Accessoires, z. B.: Erlesene\n  Linie, Rüschenband, Großes Band, Ohrring, Runde Brille.\n\nGratis-Inhalt\n\n・ Du erhältst Materialien für die Veredelung von Waffen, wenn\n  du nach erfolgreicher Beendigung von Kapitel 4 ins Somniel\n  zurückkehrst.
+MID_MSG_GET_ITEM_DLC_Accessory1	Erweiterungspass-Bonus 1 erhalten.
+MID_MSG_GET_ITEM_Patch0	Update-Bonus 1 erhalten.
+MID_SYS_EncounterBattleMap	Gefechte
+MID_SYS_WorldMap	Weltkarte
+MID_SYS_GodMap	Göttliche Kapitel
+MID_SysDialog_Move_Title	Wohin?
+MID_SysDialog_Move_Hub	Zum Somniel
+MID_SysDialog_Move_WorldMap	Zur Weltkarte
+MID_SysDialog_Move_GodMap	Göttliche Kapitel
+MID_SysDialog_Move_Cancel	Abbrechen
+MID_MSG_Encount_WorldMap	Hinweis: Gefecht auf der Weltkarte!
+MID_MSG_Encount_GodMap	Hinweis: Gefecht in göttl. Kapiteln!
+MID_SYS_LINK	BUND!
+MID_SYS_BondCombi4	Akademiebande
+MID_PLACE_God	Andernorts
+MCID_G001_PREFIX	Göttliches Kapitel
+MCID_G001	Die Vorfahrin
+MCID_G001_PLACE	Drachentempel
+MCID_G001_OUTLINE	Im eisigen Tempel eines\nmystischen Drachen wurde ein\nneuer Armring entdeckt.
+MID_RULE_G001_WIN	Emblem Tiki besiegen.
+MTID_MagicDoor	Magische Tür
+MTID_IceBarrier	Eisbarriere
+MTID_Lake	See
+MTID_Unknown	???
+MTID_IceTile	Frost
+MTID_Smoke	Rauch
+MPID_PhantomFlyingDragon	Mimesis
+MPID_H_PhantomFlyingDragon	Seelenloser Wyvern, durch Geheim-\ntechniken erschaffen. Ohne eigenen\nWillen, folgt Befehlen seines Meisters.
+MPID_Edelgard	Edelgard
+MPID_H_Edelgard	Das Emblem der Rivalen.\nDie gebildete und würdevolle\nkaiserliche Prinzessin der Flammen.
+MPID_Dimitri	Dimitri
+MPID_H_Dimitri	Das Emblem der Rivalen. Der\nweise und rechtschaffene Prinz\neiner Nation von Rittern.
+MPID_Claude	Claude
+MPID_H_Claude	Das Emblem der Rivalen.\nEin berechnender und enigmatischer\nErbe eines Herzogtums.
+MPID_Tiki	Tiki
+MPID_H_Tiki	Das Emblem der Drachen. Ein kind-\nliches, junges Mädchen, das das Blut\nder Wyrmgötter in sich trägt.
+MGID_Edelgard	Edelgard
+MGID_H_Edelgard	Das Emblem der Rivalen. Sie ist\ntalentiert im Umgang mit Äxten,\nkein Gegner ist ihr gewachsen.
+MGID_H_EnemyEdelgard	Eines der erwachten Embleme aus\ndem Armring der drei Häuser.
+MGID_Dimitri	Dimitri
+MGID_H_Dimitri	Das Emblem der Rivalen. Sein Talent\nim Umgang mit der Lanze erlaubt es\nihm, als Erster anzugreifen.
+MGID_H_EnemyDimitri	Eines der erwachten Embleme aus\ndem Armring der drei Häuser.
+MGID_Claude	Claude
+MGID_H_Claude	Das Emblem der Rivalen. Mit seinem\nTalent im Umgang mit dem Bogen\nund mit Finten überlistet er Feinde.
+MGID_H_EnemyClaude	Eines der erwachten Embleme aus\ndem Armring der drei Häuser.
+MGID_Tiki	Tiki
+MGID_H_Tiki	Das Emblem der Drachen. Kann sich\nin einen Drachen verwandeln und\nGegner mit ihrem Atem vernichten.
+MGID_H_EnemyTiki	Das erwachte Emblem aus dem\nArmring der Vorfahrin.
+MGEID_Edelgard	Rivalen
+MGEID_Tiki	Drachen
+MJID_PhantomFlyingDragon	Phantomwyvern
+MJID_H_PhantomFlyingDragon	Frei über das Schlachtfeld fliegende\nWyvern. Sie können Gegner mit\nAtemangriffen in die Enge treiben.
+MJID_H_EmblemB	In Armreife eingeschlossene Helden\naus Welten jenseits von Elyos, die\nüber unvorstellbare Macht verfügen.
+MIID_IceBreath	Frostatem
+MIID_H_IceBreath	Ein Angriff mit eisigem Atem.\nIgnoriert Ver./Res. des Gegners.\nFriert den Gegner ein.
+MIID_IceBall	Eisball
+MIID_H_IceBall	Ein eisiger Fernangriff.\nIgnoriert Ver./Res. des Gegners.\nFriert den Gegner ein.
+MIID_Tiki_Claw	Ewige Klaue
+MIID_H_Tiki_Claw	Klauenangriff durch Emblem Tiki.\nVerursacht leicht tödliche Wunden.
+MIID_Tiki_Tail	Tikischlag
+MIID_H_Tiki_Tail	Schmetterschlag von Emblem Tiki\nmit Schmetterkraft. Kein\nErst-/Folgeangriff beim Initiieren\ndes Kampfes.
+MIID_Tiki_Breath	Feueratem
+MIID_H_Tiki_Breath	Flächenangriff, halbiert gegnerische\nVer. Setzt das Gelände in Brand.\nInitiiert die Einheit den Kampf:\nKein Erst-/Folgeangriff.
+MIID_Tiki_Breath_Dragon	Dunstatem
+MIID_H_Tiki_Breath_Dragon	Flächenangriff, halbiert gegnerische\nVer. Erschafft Nebel. Kein Erst-/\nFolgeangriff beim Initiieren des\nKampfes. Effektiv geg.: Drachen.
+MIID_Tiki_Breath_Heavy	Eisatem
+MIID_H_Tiki_Breath_Heavy	Flächenangriff, halbiert gegnerische\nVer. Friert die Gegner ein. Initiiert\ndie Einheit den Kampf: Kein\nErst-/Folgeangriff.
+MIID_Tiki_Breath_Fly	Flammenatem
+MIID_H_Tiki_Breath_Fly	Flächenangriff mit 70 % Schaden,\nhalbiert gegn. Ver. Setzt das Ge-\nlände in Brand. Initiiert die Einheit\nden Kampf: Kein Erst-/Folgeangr.
+MIID_Tiki_Breath_Magic	Dunkler Atem
+MIID_H_Tiki_Breath_Magic	Magischer Flächenangriff, halbiert\ngegnerische Res. Initiiert die Einheit\nden Kampf: Kein Erst-/Folgeangriff.
+MIID_Tiki_Blessing	Göttl. Segen
+MIID_Tiki_Blessing+	Göttl. Segen+
+MIID_Edelgard_Aymr	Aymr
+MIID_H_Edelgard_Aymr	Axt von Emblem Edelgard mit\nSchmetterkraft. Initiiert die Einheit\nden Kampf: Kein Erst-/Folgeangriff.\nEffektiv gegen: Drachen.
+MIID_Edelgard_Areadbhar	Areadbhar
+MIID_H_Edelgard_Areadbhar	Lanze von Emblem Dimitri.\nInitiiert die Einheit den Kampf,\nerhält sie Kft. +50 %.
+MIID_Edelgard_Failnaught	Nimmerfehl
+MIID_H_Edelgard_Failnaught	Bogen von Emblem Claude.\nInitiiert die Einheit den Kampf, erhält\nsie Aw. +20. Eff.: Drachen, Flieger.
+MIID_SilverCard	Silberkarte
+MIID_H_SilverCard	Trägt die Einheit dieses Item bei\nsich, bekommt sie beim Einkauf, z. B.\nim Arsenal oder Laden, 30 % Rabatt.
+MSID_FriendlyCompetition	Rivalenfreunde
+MSID_H_FriendlyCompetition	Zu Beginn der Spielerphase schließt\nsich eines der Embleme – Edelgard,\nDimitri oder Claude – nach einem\nZufallsprinzip dem Kampf an.
+MSID_Strategy	Strategem
+MSID_H_Strategy	Die Effekte hängen vom\nsynchronisierten Emblem ab.
+MSID_Strategy_Disturbance	Zusammenkunft (S)
+MSID_H_Strategy_Disturbance	Erlaubt es der Einheit einen benachb.\nGegner anzugreifen und sich nach\ndem Kampf 1 Feld wegzubewegen.\nDas gegnerische Ziel bewegt sich auf\ndas leere Feld der Einheit.
+MSID_H_Strategy_Disturbance_CMD	Einheit und Ziel beweg. sich\nnach Kampf 1 Feld zurück.
+MSID_Strategy_PowerfulFireAttack	Flammen (S)
+MSID_H_Strategy_PowerfulFireAttack	Ist die Einheit mit Edelgard\nsynchronisiert, kann sie einen\nGegner angreifen und danach sein\nFeld und Felder in seiner Nähe in\nBrand setzen. (Strategem)
+MSID_H_Strategy_PowerfulFireAttack_CMD	Setzt gegn. Feld und Felder\nin seiner Nähe in Brand.
+MSID_Strategy_HolyShield	Hlg. Schild (S)
+MSID_H_Strategy_HolyShield	Ist die Einheit mit Dimitri\nsynchronisiert, erleidet sie in der\nnächsten Gegnerphase keinen\nSchaden durch den ersten gegnerischen\nFernangriff. (Strategem)
+MSID_H_Strategy_HolyShield_CMD	Erster gegn. Fernangriff\nverursacht keinen Schaden.
+MSID_Strategy_PoisonArrow	Giftpfeile (S)
+MSID_H_Strategy_PoisonArrow	Ist die Einheit mit Claude synchron.,\num einen Gegner anzugreifen, kann\nsie diesen und seine benachbarten\nVerbündeten nach dem Kampf\nvergiften. (Strategem)
+MSID_H_Strategy_PoisonArrow_CMD	Vergiftet nach dem Kampf d.\nZiel u. seine benachb. Verb.
+MSID_WeaponSynchronized	Waffensynchro
+MSID_H_WeaponSynchronized	Initiiert die Einheit den Kampf und\nverwendet dabei den gleichen\nWaffentyp des synchron. Emblems,\nerhält sie Agr. +5. Im Bündnis:\nAgr. +5, unabhängig vom Waffentyp.
+MSID_WeaponSynchronized+	Waffensynchro+
+MSID_H_WeaponSynchronized+	Initiiert die Einheit den Kampf und\nverwendet dabei den gleichen\nWaffentyp des synchron. Emblems,\nerhält sie Agr. +7. Im Bündnis:\nAgr. +7, unabhängig vom Waffentyp.
+MSID_Pedigree	Linie
+MSID_H_Pedigree	Gewährt der Einheit Erf. x 1,2.
+MSID_ClassPresidentsEngage	Kampftechnik.
+MSID_H_ClassPresidentsEngage	Erlaubt der Einheit, die Kampftechnik\nvon Edelgard, Dimitri oder Claude\nzu verwenden, auf Kosten einiger\nverbleibender Bündniszüge.
+MSID_H_ClassPresidentsEngage_Dragon	Erlaubt der Einheit, die Kampftechnik\nvon Edelgard, Dimitri oder Claude\nzu verwenden, auf Kosten einiger\nverbleibender Bündniszüge.\nDrache: Zugefüg. Schaden +10 %.
+MSID_H_ClassPresidentsEngage_Covert	Erlaubt der Einheit, die Kampftechnik\nvon Edelgard, Dimitri oder Claude\nzu verwenden, auf Kosten einiger\nverbleibender Bündniszüge.\nVerstohlene: Aw. +20.
+MSID_H_ClassPresidentsEngage_CMD	Verbraucht Bündniszüge für\neinen besonderen Angriff.
+MSID_ClassPresidentsEngage_MadStorm	Wütend. Sturm
+MSID_H_ClassPresidentsEngage_MadStorm_CMD	Nach Kampf: weitere Aktion\nmöglich. Verbraucht 3 Züge.
+MSID_ClassPresidentsEngage_Miserable	Atrozität
+MSID_H_ClassPresidentsEngage_Miserable_CMD	Angriff mit doppelter Waffen-\nKft. Verbraucht 1 Zug.
+MSID_ClassPresidentsEngage_FallingStarts	Gefallen. Stern
+MSID_H_ClassPresidentsEngage_FallingStarts_CMD	Einh. weicht im nächst. Kampf\ngegn. Angr. aus. Verbr. 1 Zug.
+MSID_ClassPresidentsEngageAtk	Hauskombo
+MSID_H_ClassPresidentsEngageAtk	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.
+MSID_H_ClassPresidentsEngageAtk_Dragon	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nDrache: Zugefügter Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk_Horse	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nBerittene: Mit Areadbhar, zugefügter\nSchaden +10 %.
+MSID_H_ClassPresidentsEngageAtk_Covert	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nVerstohlene: Mit Nimmerfehl,\nzugefügter Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk_Heavy	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nGepanzerte: Mit Aymr, zugefügter\nSchaden +10 %.
+MSID_H_ClassPresidentsEngageAtk_Prana	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nQi-Adept: Verursacht beim Ziel\nimmer „Bruch“.
+MSID_H_ClassPresidentsEngageAtk_CMD	Angriff mit Axt, Lanze und\nBogen.
+MSID_ClassPresidentsEngageAtk+	Hauskombo+
+MSID_H_ClassPresidentsEngageAtk+	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden.\nNach dem Kampf ist eine weitere\nAktion möglich.
+MSID_H_ClassPresidentsEngageAtk+_Dragon	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar und Nimmerfehl\nmit je 50 % Schaden. Nach dem\nKampf ist eine weitere Aktion mgl.\nDrache: Zugefügter Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk+_Horse	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar u. Nimmerfehl mit\nje 50 % Schaden. Nach dem Kampf\nist eine weitere Akt. mgl. – Berittene:\nAreadbhar: zugefüg. Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk+_Covert	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar u. Nimmerfehl mit\nje 50 % Schaden. Nach d. Kampf ist\neine weitere Akt. mgl. – Verstohlene:\nNimmerfehl: zugefg. Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk+_Heavy	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar u. Nimmerfehl mit\nje 50 % Schaden. Nach d. Kampf ist\neine weitere Akt. mgl. – Gepanzerte:\nAymr: zugefügter Schaden +10 %.
+MSID_H_ClassPresidentsEngageAtk+_Prana	Erlaubt der Einheit einen Angriff mit\nAymr, Areadbhar u. Nimmerfehl mit\nje 50 % Schaden. Nach d. Kampf ist\neine weitere Aktion mgl. – Qi-Adept:\nVerursacht beim Ziel immer „Bruch“.
+MSID_H_ClassPresidentsEngageAtk+_CMD	Angriff mit Axt, Lanze und\nBogen. Weitere Aktion mgl.
+MSID_BallsProtection_Light	Lichtkugel
+MSID_H_BallsProtection_Light	Initiiert die Einheit den Kampf,\nhalbiert sich die Chance, einen\nkritischen Treffer durch den Gegner\nzu erleiden.
+MSID_BallsProtection_Star	Sternenkugel
+MSID_H_BallsProtection_Star	Verleiht der Einheit bei einem\nLevel Up ein verbessertes Wachstum\nder Statuswerte.
+MSID_BallsProtection_Life	Lebenskugel
+MSID_H_BallsProtection_Life	Setzt die Einheit „Warten“ ein\nohne anzugreifen oder ein Item zu\nverwenden, werden bei ihr 20 KP\nwiederhergestellt und alle\nStatuseffekte geheilt.
+MSID_BallsProtection_Life+	Lebenskugel+
+MSID_H_BallsProtection_Life+	Setzt die Einheit „Warten“ ein\nohne anzugreifen oder ein Item zu\nverwenden, werden bei ihr 30 KP\nwiederhergestellt und alle\nStatuseffekte geheilt.
+MSID_BallsProtection_Life++	Lebenskugel++
+MSID_H_BallsProtection_Life++	Setzt die Einheit „Warten“ ein\nohne anzugreifen oder ein Item zu\nverwenden, werden bei ihr 40 KP\nwiederhergestellt und alle\nStatuseffekte geheilt.
+MSID_BallsProtection_Earth	Landkugel
+MSID_H_BallsProtection_Earth	Hat die Einheit zu Beginn der\nSpielerphase benachbarte\nVerbündete, erhalten sie und diese\nVerbündeten Ver./Res. +3 für 1 Zug.
+MSID_BallsProtection_Earth+	Landkugel+
+MSID_H_BallsProtection_Earth+	Hat die Einheit zu Beginn der\nSpielerphase benachbarte\nVerbündete, erhalten sie und diese\nVerbündeten Ver./Res. +5 für 1 Zug.
+MSID_TikiEngage	Drachengestalt
+MSID_H_TikiEngage	Während eines Bündnisses\nverwandelt sich die Einheit und\nkämpft in Drachenform.\nMax. KP +10 sowie +5 auf Fig. und\nauf alle Statuswerte.\n
+MSID_H_TikiEngage_Heavy	Während eines Bündnisses\nverwandelt sich die Einh. u. kämpft\nin Drachenform. Max. KP +10 sowie\n+5 auf Fig. und auf alle Statuswerte.\nGepanz.: Negiert Gelände-Schaden.
+MSID_H_TikiEngage_Magic	Während eines Bündnisses\nverwandelt sich die Einh. u. kämpft\nin Drachenform. Max. KP +10 sowie\n+5 auf Fig. und auf alle Statuswerte.\nMystische: Verleiht Res. +5.
+MSID_TikiEngageAtk	Göttlicher Segen
+MSID_H_TikiEngageAtk	Gibt einem Verbündeten einen\nErweckungsstein.
+MSID_H_TikiEngageAtk_Dragon	Gibt einem Verbündeten einen\nErweckungsstein.\nDrache: Stellt 20 KP wieder her.
+MSID_H_TikiEngageAtk_Prana	Gibt einem Verbündeten einen\nErweckungsstein.\nQi-Adept: Heilt Statuseffekte des\nVerbündeten.
+MSID_H_TikiEngageAtk_CMD	Gibt einem Verbündeten\neinen Erweckungsstein.
+MSID_TikiEngageAtk+	Göttlicher Segen+
+MSID_H_TikiEngageAtk+	Gibt 1 Verb. 1 Erweckungsstein. Ist\nder Verb. nicht synchr.: KP werden\naufgefüllt. Bei Synchr.: Bündnisleiste\n+3. Im Bündnis: Bündniszüge werden\nwiederhergestellt.
+MSID_H_TikiEngageAtk+_Dragon	Gibt 1 Verb. 1 Erweckungsstein. Ist\nder Verb. nicht synchr.: KP werden\naufgefüllt. Bei Synchr.: Bündnisleiste\n+3. Im Bündnis: Bünd.züge werden\nwiederh. Drache: Heilt 20 KP (Verb.)
+MSID_H_TikiEngageAtk+_Prana	Gibt 1 Verb. 1 Erweckungsstein. Ist\nder Verb. nicht synchr.: KP werden\naufgefüllt. Bei Synchr.: Bündnisleiste\n+3. Im Bündnis: Bünd.züge werden\nwiederh. Qi-Ad.: Heilt Status (Verb.)
+MSID_H_TikiEngageAtk+_CMD	Gibt 1 Verbündeten einen\nErweckungsstein u. a. Effekte.
+MSID_Str_Tec_1	Stä./Beh. +1
+MSID_H_Str_Tec_1	Verleiht Stä. +1 und Beh. +1.
+MSID_Str_Tec_2	Stä./Beh. +2
+MSID_H_Str_Tec_2	Verleiht Stä. +2 und Beh. +2.
+MSID_Str_Tec_3	Stä./Beh. +3
+MSID_H_Str_Tec_3	Verleiht Stä. +3 und Beh. +3.
+MSID_Str_Tec_4	Stä./Beh. +4
+MSID_H_Str_Tec_4	Verleiht Stä. +4 und Beh. +4.
+MSID_Str_Tec_5	Stä./Beh. +5
+MSID_H_Str_Tec_5	Verleiht Stä. +5 und Beh. +5.
+MSID_Hp_Lck_2	KP/Glk. +2
+MSID_H_Hp_Lck_2	Verleiht KP +2 und Glk. +2.
+MSID_Hp_Lck_4	KP/Glk. +4
+MSID_H_Hp_Lck_4	Verleiht KP +4 und Glk. +4.
+MSID_Hp_Lck_6	KP/Glk. +6
+MSID_H_Hp_Lck_6	Verleiht KP +6 und Glk. +6.
+MSID_Hp_Lck_8	KP/Glk. +8
+MSID_H_Hp_Lck_8	Verleiht KP +8 und Glk. +8.
+MSID_Hp_Lck_10	KP/Glk. +10
+MSID_H_Hp_Lck_10	Verleiht KP +10 und Glk. +10.
+MSID_AntiBowArts_1	Bogenwacht 1
+MSID_H_AntiBowArts_1	Ist der Gegner mit einem Bogen\nausgerüstet, erleidet die Einheit im\nKampf Schaden -1.
+MSID_AntiBowArts_2	Bogenwacht 2
+MSID_H_AntiBowArts_2	Ist der Gegner mit einem Bogen\nausgerüstet, erleidet die Einheit im\nKampf Schaden -2.
+MSID_AntiBowArts_3	Bogenwacht 3
+MSID_H_AntiBowArts_3	Ist der Gegner mit einem Bogen\nausgerüstet, erleidet die Einheit im\nKampf Schaden -3.
+MSID_AntiBowArts_4	Bogenwacht 4
+MSID_H_AntiBowArts_4	Ist der Gegner mit einem Bogen\nausgerüstet, erleidet die Einheit im\nKampf Schaden -4.
+MSID_AntiBowArts_5	Bogenwacht 5
+MSID_H_AntiBowArts_5	Ist der Gegner mit einem Bogen\nausgerüstet, erleidet die Einheit im\nKampf Schaden -5.
+MSID_AntiSpecialArts_1	Spezialwacht 1
+MSID_H_AntiSpecialArts_1	Ist der Gegner mit einem\nSpezialangriff ausgerüstet, erleidet\ndie Einheit im Kampf Schaden -1.
+MSID_AntiSpecialArts_2	Spezialwacht 2
+MSID_H_AntiSpecialArts_2	Ist der Gegner mit einem\nSpezialangriff ausgerüstet, erleidet\ndie Einheit im Kampf Schaden -2.
+MSID_AntiSpecialArts_3	Spezialwacht 3
+MSID_H_AntiSpecialArts_3	Ist der Gegner mit einem\nSpezialangriff ausgerüstet, erleidet\ndie Einheit im Kampf Schaden -3.
+MSID_AntiSpecialArts_4	Spezialwacht 4
+MSID_H_AntiSpecialArts_4	Ist der Gegner mit einem\nSpezialangriff ausgerüstet, erleidet\ndie Einheit im Kampf Schaden -4.
+MSID_AntiSpecialArts_5	Spezialwacht 5
+MSID_H_AntiSpecialArts_5	Ist der Gegner mit einem\nSpezialangriff ausgerüstet, erleidet\ndie Einheit im Kampf Schaden -5.
+MSID_JobSkill_PhantomFlyingDragon	Frostiges Gebiet
+MSID_H_JobSkill_PhantomFlyingDragon	Zu Beginn des Zuges verwandelt\nsich das Gelände im Umkreis von\n2 Feldern um die Einheit in einen\neisigen Boden.
+MAID_Kimono	Erlesene Linie
+MAID_KimonoM	Erlesene Jacke
+MAID_H_KimonoM	Trendbewusste Kleidung mit einem neuartigen Stil. Genäht aus seltenen\nMaterialien, die der Händler Pinet beim alten Brunnen fand.
+MAID_KimonoF	Erles. Schürze
+MAID_H_KimonoF	Retro-Kleidung, mit hochgebundenen Ärmeln. Genäht aus seltenen\nMaterialien, die der Händler Pinet beim alten Brunnen fand.
+MAID_JpHeadDress	Rüschenband
+MAID_H_JpHeadDress	Eine Art Haarreif mit Rüschen und Bändern. Er sieht bezaubernd aus und\nhält die Haare fest. Genau richtig, wenn man kochen oder putzen will.
+MAID_JpRibbon	Großes Band
+MAID_H_JpRibbon	Ein sehr großes Band, das keck wirkt. Trotz seiner Größe ist es leicht und\neinfach zu tragen. Ein fröhliches Accessoire, das zu jedem Stil passt.
+MAID_JpEarrings	Ohrring
+MAID_H_JpEarrings	Ein einzelner modischer Ohrring. Für alle, die zwanglose Kleidung lieben.\nEr schwingt leicht hin und her und funkelt im Licht.
+MAID_JpGlasses	Runde Brille
+MAID_H_JpGlasses	Brille mit kreisrunden Gläsern und einem luxuriösen Silbergestell. Beliebt\nbei allen, die nach etwas anderem als dem Gewohnten suchen.
+MID_MAINMENU_DLC	Zusätzlicher Inhalt
+MID_MENU_SELECT_BATTLE	Los!
+MID_MENU_SELECT_BATTLE_HELP	Gefecht beginnen/Erinnern
+MID_MENU_ENTER_RECOLLECTION_BATTLE	Erinnerungen
+MID_MENU_ENTER_RECOLLECTION_BATTLE_HELP	An Schlachten und die\nGeschichte erinnern.
+MID_MENU_ENTER_RECOLLECTION_BATTLE_CONFIRM	Erinnerung an die Schlacht beginnen?
+MID_MENU_ENTER_CHOOSE_BATTLE_CONFIRM	Welche Schlacht?
+MID_MENU_ENTER_ENCOUNTER_YES	Gefecht beginnen
+MID_MENU_ENTER_RECOLLECTION_YES	Erinnerung beginnen
+MID_MENU_TO_OTHER	Reisen
+MID_MENU_TO_OTHER_HELP	Reise zum Somniel oder zu\neinem anderen Ort.
+MID_MENU_DEPARTURE	Aufbrechen
+MID_MENU_DEPARTURE_HELP	Betritt die Weltkarte oder\nreise zu einem anderen Ort.
+MID_GMAP_MapDetails_Reference	Dauer
+MID_GMAP_MapDetails_ReferenceTurn	Ca. \x0E\x01\x00\x00 Runde(n)
+MGID_Ring_CharacterName_DLC	Armring von \x0E\x01\x00\x00
+MID_BONDSRING_Tiki00	Tochter der Wyrmgottkönigin Naga\naus Akaneia, Teil einer anderen Welt.
+MID_BONDSRING_Tiki01	Nach langem Schlaf schloss sie sich\nPrinz Marth im Kampf gg. Doluna an.
+MID_BONDSRING_Edelgard00	Thronerbin des Kaiserreichs Adrestia,\neinem Land in einer anderen Welt.
+MID_BONDSRING_Edelgard01	Als Sprecherin vom Haus der Schwz.\nAdler kämpfte sie für ihre Ideale.
+MID_BONDSRING_Dimitri00	Thronerbe des Hlg. Königreichs\nFaerghus, Land einer anderen Welt.
+MID_BONDSRING_Dimitri01	Er wurde Sprecher d. Blauen Löwen,\num seinem Gram zu entkommen.
+MID_BONDSRING_Claude00	Erbe von Haus Riegan der Leicester-\nAllianz in einer anderen Welt.
+MID_BONDSRING_Claude01	Als Sprecher der Goldenen Hirsche\neinte er seine Verbündeten.
+MGID_Ring_Tiki	Armring der Vorfahrin
+MGID_H_Ring_Tiki	Armring, in dem Tiki schläft. Ein\nkindliches, junges Mädchen, das das\nBlut der Wyrmgötter in sich trägt.
+MGID_Ring_Edelgard	Armring der drei Häuser
+MGID_H_Ring_Edelgard	Armring, in dem Edelgard schläft.\nDie gebildete und würdevolle\nkaiserliche Prinzessin der Flammen.
+MGID_Ring_Dimitri	Armring der drei Häuser
+MGID_H_Ring_Dimitri	Armring, in dem Dimitri schläft.\nDer weise und rechtschaffene Prinz\neiner Nation von Rittern.
+MGID_Ring_Claude	Armring der drei Häuser
+MGID_H_Ring_Claude	Armring, in dem Claude schläft.\nEin berechnender und enigmatischer\nErbe eines Herzogtums.
+MGID_World_Tiki	Welt des Heldenkönigs
+MGID_World_Edelgard	Welt des Magisters
+MGID_World_Dimitri	Welt des Magisters
+MGID_World_Claude	Welt des Magisters
+MID_RELAY_Stamp_Tiki_0	Wir bleiben zusammen... ja?
+MID_RELAY_Stamp_Edelgard_0	Wir sind nur gemeinsam erfolgreich.
+MID_RELAY_Stamp_Dimitri_0	Ich lasse mich nicht aufhalten.
+MID_RELAY_Stamp_Claude_0	Willst du was Interessantes hören?
+MID_Hub_ShopCard_Sale	-30 %!
+MID_Hub_Portal	Portal
+PCTMID_Tiki	„Wir werden zusammen sein.“
+PCTMID_Edelgard	„Um jeden Preis...“
+PCTMID_Dimitri	„Ich gebe nicht auf.“
+PCTMID_Claude	„Der Wille entscheidet.“
+MID_Movie_K14	Emblem Tiki
+MID_H_Movie_K14	Emblem Tiki, beschworen aus dem\nArmring der Vorfahrin.
+MID_Movie_K13	Emblem Edelgard
+MID_H_Movie_K13	Emblem Edelgard, Emblem Dimitri und\nEmblem Claude, beschworen aus dem\nArmring der drei Häuser.

@@ -1,0 +1,353 @@
+MPID_Unknown	???
+MPID_H_Unknown	Una persona o entità sconosciuta.
+MPID_Hide	???
+MPID_H_Hide	Un nemico misterioso che emana\nun'aura malefica.
+MPID_Morph_Prefix	\x0E\x01\x00\x00 aberr.
+MPID_God_Prefix	Emblema \x0E\x01\x00\x00
+MPID_PastLueur	\x0E\x06\x03\x00 del passato
+MPID_Lueur	Alear
+MPID_Lueur_M000	\x0E\x06\x03\x00
+MPID_H_Lueur	Erede del Drago Divino, si è appena\nsvegliat\x0E\x0A\x00\x08\x02o\x02a da un lungo sonno. Evoca\ngli emblemi per riportare la pace.
+MPID_H_Lueur_M000	Un\x0E\x0A\x00\x1C\n eroe\x0E'eroina che combatte accanto agli\nemblemi. Deve ancora risvegliarsi.
+MPID_H_Lueur_1	Il Drago Divino resuscitato come\naberrazione da Veyle. Evoca emblemi\ncol potere del Drago Maligno.
+MPID_H_Lueur_2	Il Drago Divino resuscitato come\nemblema del Fuoco. Ha il potere\ndegli emblemi e dei Draghi Divini.
+MPID_H_PastLueur	\x0E\x0A\x00\x0C\x04Il\x04La \x0E\x06\x03\x00 di mille anni fa.\nNon ha volontà propria e obbedisce\nagli ordini del Drago Maligno.
+MPID_Vandre	Vander
+MPID_H_Vandre	Un valletto del drago, da tempo al\nservizio del Drago Divino. Un vero\ngentiluomo, severo e rigoroso.
+MPID_Lumiere	Lumera
+MPID_H_Lumiere	Drago Divino e sovrana della terra\nsacra di Lythos. Sconfisse il Drago\nMaligno mille anni fa.
+MPID_MorphLumiere	Lumera aberrante
+MPID_H_MorphLumiere	Un'elaborata aberrazione creata\nda Sombron con il corpo senza vita\ndi Lumera.
+MPID_Clan	Clanne
+MPID_H_Clan	Apprendista valletto del drago\ne amorevole fratello gemello di\nFramme.
+MPID_Fram	Framme
+MPID_H_Fram	Apprendista valletta del drago ed\nesuberante sorella gemella di Clanne.
+MPID_Alfred	Alfred
+MPID_H_Alfred	Leale e strenuo principe ereditario\ndi Firene. Si allena costantemente\nper rinforzare il proprio fisico.
+MPID_Etie	Etie
+MPID_H_Etie	Attendente di Alfred. Una ragazza\ndai modi eleganti, con la passione\nper il body building.
+MPID_Boucheron	Boucheron
+MPID_H_Boucheron	Attendente di Alfred. Un uomo dal\ncuore tenero e dai muscoli vigorosi,\nche riesce a potenziare senza sforzo.
+MPID_Celine	Céline
+MPID_H_Celine	Principessa di Firene. Nonostante\ni suoi modi gentili, è pronta a tutto\nper proteggere il suo popolo.
+MPID_Chloe	Chloé
+MPID_H_Chloe	Attendente di Céline. Una donna di\norigini nobili che ama le favole e\ni cibi particolari delle bancarelle.
+MPID_Louis	Louis
+MPID_H_Louis	Attendente di Céline. Un gentiluomo\nsempre sorridente e raffinato che\nama il tè.
+MPID_Yunaka	Yunaka
+MPID_H_Yunaka	Ladra incontrata in un villaggio di\nmontagna. Tiene segretissimi i\ndettagli del suo passato.
+MPID_Staluke	Alcryst
+MPID_H_Staluke	Principe di Brodia con bassa\nautostima, vasta immaginazione e\ntalenti di cui non è consapevole.
+MPID_Citrinica	Citrinne
+MPID_H_Citrinica	Attendente di Alcryst. Nonostante\ni suoi modi aggressivi, è una nobile e\nsi preoccupa molto per i suoi amici.
+MPID_Lapis	Lapis
+MPID_H_Lapis	Attendente di Alcryst. La sua\ndelicata modestia nasconde\nuna forza sovrumana.
+MPID_Diamand	Diamant
+MPID_H_Diamand	Maestoso principe ereditario di\nBrodia. Il suo popolo lo ama per\nil suo carattere forte e genuino.
+MPID_Umber	Amber
+MPID_H_Umber	Attendente di Diamant. Ha una\npassione infinita per le avventure\ne le leggende.
+MPID_Jade	Jade
+MPID_H_Jade	Attendente di Diamant. Guerriera di\npoche parole, che mantiene sempre\nla calma.
+MPID_Ivy	Ivy
+MPID_H_Ivy	Misteriosa e malinconica principessa\nereditaria di Elusia. Non perde mai\nil suo gelido contegno regale.
+MPID_Kagetsu	Kagetsu
+MPID_H_Kagetsu	Attendente di Ivy. Giovane uomo\nvenuto da un altro regno, che dice\ntutto ciò che pensa senza inibizioni.
+MPID_Zelkova	Zelkov
+MPID_H_Zelkova	Attendente di Ivy. Un uomo\nenigmatico sempre impegnato in\nqualche intrigo di sua invenzione.
+MPID_Fogato	Fogado
+MPID_H_Fogato	Una sentinella ottimista e un vero\nspirito libero. È molto socievole,\nma nasconde un lato misterioso.
+MPID_H_Fogato_1	Principe di Solm, ottimista e un vero\nspirito libero. Più amichevole di\nquanto ci si aspetti da un principe.
+MPID_Pandoro	Pandreo
+MPID_H_Pandoro	Un membro delle sentinelle. Anche\nse è un religioso, ama le feste più di\nchiunque altro.
+MPID_H_Pandoro_1	Attendente di Fogado. Un chierico\nprofondamente religioso, ma anche\nun grande amante del divertimento.
+MPID_Bonet	Bunet
+MPID_H_Bonet	Un membro delle sentinelle, nonché\nuno chef con un senso del gusto e\ndell'olfatto raffinatissimi.
+MPID_H_Bonet_1	Attendente di Fogado. Un giovane\nchef con un palato raffinato e un\nolfatto particolarmente sviluppato.
+MPID_Misutira	Timerra
+MPID_H_Misutira	Spumeggiante e amabile principessa\nereditaria di Solm, apprezzata da\ntutti per la sua grande disponibilità.
+MPID_Panetone	Panette
+MPID_H_Panetone	Attendente di Timerra. Tende a\nparlare in modo molto, molto\nparticolare e vistosamente artefatto.
+MPID_Merin	Merrin
+MPID_H_Merin	Attendente di Timerra. Una ragazza\nsempre galante, con la passione per\ngli animali.
+MPID_Hortensia	Hortensia
+MPID_H_Hortensia	Dispettosa e viziata principessa di\nElusia. Mostra, tuttavia, grande\ndevozione per famiglia e amici.
+MPID_H_MindHortensia	Hortensia sotto il controllo di Zephia.\nLa sua coscienza è sopita e non\nè possibile comunicare con lei.
+MPID_Seadas	Seadall
+MPID_H_Seadas	Famoso danzatore del Solm, oltre\nche abile indovino avvolto da\nun'aura di mistero.
+MPID_Rosado	Rosado
+MPID_H_Rosado	Attendente di Hortensia. Ama tutto\nciò che è carino e ha sempre un\natteggiamento solare e positivo.
+MPID_Goldmary	Goldmary
+MPID_H_Goldmary	Attendente di Hortensia. Appare\nschiva e introversa, ma in realtà\nha un'enorme fiducia in sé stessa.
+MPID_Linden	Lindon
+MPID_H_Linden	Studioso elusiano. Ha grande sete\ndi conoscenza, che soddisfa con lo\nstudio e gli esperimenti.
+MPID_Saphir	Saphir
+MPID_H_Saphir	Guerriera brodiana. Impavida e\nsempre alla ricerca della verità.
+MPID_Anna	Anna
+MPID_H_Anna	Mercante girovaga dell'Elusia. È una\nbambina molto solare, ma anche una\ncommerciante astuta e un po' tirchia.
+MPID_Jean	Jean
+MPID_H_Jean	Figlio di un medico firenese.\nSi impegna al massimo per\nsalvare più vite possibili.
+MPID_Mauve	Mauvier
+MPID_H_EnemyMauve	Uno dei Quattro Segugi. Un uomo\nrobusto e onesto, fedele all'eccesso.
+MPID_H_Mauve	Ex membro dei Quattro Segugi.\nCavaliere di Veyle, ora devoto alla\ncausa di \x0E\x06\x03\x00.
+MPID_Sombre	Sombron
+MPID_H_Sombre	Il re dei Draghi Maligni. Una creatura\nmalvagia che possiede un immenso\npotere oscuro.
+MPID_SombreDragon	Gran Sombron
+MPID_H_SombreDragon	Il Drago Maligno impossessatosi del\npotere degli anelli. Ora è in grado\ndi aprire un portale verso altri mondi.
+MPID_Veyre	Veyle
+MPID_H_EnemyVeyre	Figlia del Drago Maligno.\nUna nemica brutale che ribolle\ndi potere malvagio.
+MPID_H_MindVeyre	Veyle con l'elmo del Drago Maligno.\nIl suo odio e il suo istinto distruttivo\nsono ancora più intensi.
+MPID_H_Veyre	Sorella minore di \x0E\x06\x03\x00.\nHa sconfitto il suo lato oscuro\ne si batte per la pace.
+MPID_H_VersusVeyre	Figlia del Drago Maligno.\nHa sconfitto il suo lato oscuro\ne ora combatte per la pace.
+MPID_Sepia	Zephia
+MPID_H_Sepia	Capo dei Quattro Segugi. Discende\ndai Draghi Magici e vive da migliaia\ndi anni.
+MPID_Gris	Griss
+MPID_H_Gris	Terribile membro dei Quattro Segugi.\nSa lanciare potenti incantesimi, ma è\npericolosamente instabile e violento.
+MPID_Marron	Marni
+MPID_H_Marron	Una dei Quattro Segugi.\nUna cavaliera corazzata\ningenua e allegra.
+MPID_Eve	Ève
+MPID_H_Eve	L'amabile regina di Firene. Ha un\nanimo buono e sogna un mondo\nsenza lotte e conflitti.
+MPID_Morion	Morion
+MPID_H_Morion	Il valoroso re di Brodia. Guerriero\nforte e fiero, apprezza chi si batte\ncon onore sul campo di battaglia.
+MPID_MorphMorion	Morion aberrante
+MPID_H_MorphMorion	Re Morion, sacrificato per far tornare\nil Drago Maligno e trasformato in\naberrazione dopo la sua morte.
+MPID_Hyacinth	Hyacinth
+MPID_H_Hyacinth	L'astuto re di Elusia. Venera il Drago\nMaligno e trama per far arricchire\nil suo regno.
+MPID_MorphHyacinth	Hyacinth aberrante
+MPID_H_MorphHyacinth	Re Hyacinth, ucciso dal Drago\nMaligno e trasformato in una\npotente aberrazione da Veyle.
+MPID_Sfoglia	Seforia
+MPID_H_Sfoglia	Regina di Solm. Spirito libero che\nguida il suo regno dando l'esempio\ncon atti eroici.
+MPID_M003_Boss	Abyme
+MPID_H_M003_Boss	A capo di un gruppo misterioso.\nEstremamente devota alla sua causa.
+MPID_H_M018_Boss	Generale elusiana.\nEstremamente devota alla sua causa.
+MPID_M004_Boss	Rodine
+MPID_H_M004_Boss	Generale elusiano alla guida delle\naberrazioni sotto la bandiera del\nsuo regno.
+MPID_M005_Boss	Nelucce
+MPID_H_M005_Boss	Generale elusiano inviato in Firene\nper rubare un anello dell'emblema.
+MPID_M006_Boss	Teronda
+MPID_H_M006_Boss	Capo di una banda di ladri di\nmontagna. Se ci sono in gioco\ndei tesori, non ha scrupoli.
+MPID_S002_Boss	Mitan
+MPID_H_S002_Boss	Capo di una banda di ladri delle terre\ndi confine che saccheggiano tutti\ni viandanti di passaggio.
+MPID_M013_BossA	Tetchie
+MPID_H_M013_BossA	Capo di una banda di ladri e gemello\ndi Totchie. Comanda le aberrazioni\nche infestano l'oasi.
+MPID_M013_BossB	Totchie
+MPID_H_M013_BossB	Capo di una banda di ladri e gemello\ndi Tetchie. Comanda le aberrazioni\nche infestano l'oasi.
+MPID_Morph	Aberrazione
+MPID_H_Morph	Un cadavere animato dai poteri del\nDrago Maligno. Non ha volontà\npropria ed esegue soltanto gli ordini.
+MPID_H_Morph_Hide	Mostro sconosciuto.
+MPID_MorphGold	Aberrazione oro
+MPID_H_MorphGold	Un raro tipo di aberrazione che\nporta con sé moltissimo oro.
+MPID_MorphSilver	Aberrazione argento
+MPID_H_MorphSilver	Un raro tipo di aberrazione che\nconferisce più esperienza.
+MPID_MorphDragon	Drago aberrante
+MPID_H_MorphDragon	Drago gigante animato dai poteri\ndel Drago Maligno. Protetto da dure\nscaglie e con un soffio devastante.
+MPID_Phantom	Creatura
+MPID_H_Phantom	Soldato senza anima, creato con una\ntecnica segreta. Non ha volontà\npropria ed esegue soltanto gli ordini.
+MPID_PhantomDragon	Creatura
+MPID_H_PhantomDragon	Mostro senza anima, creato con una\ntecnica segreta. Non ha volontà\npropria ed esegue soltanto gli ordini.
+MPID_MysteriousGroup	Nemico sconosciuto
+MPID_H_MysteriousGroup	Truppa nemica misteriosa che\nha attaccato all'improvviso.
+MPID_Troublemaker	Brigante
+MPID_H_Troublemaker	Membro di una banda di criminali\nche hanno fatto della distruzione\ne del saccheggio il loro mestiere.
+MPID_Bandits	Criminale
+MPID_H_Bandits	Criminale senza scrupoli che sfrutta\nil caos della guerra per rubare.
+MPID_IrcionSoldier	Soldato elusiano
+MPID_H_IrcionSoldier	Unità comune dell'esercito\nelusiano.
+MPID_BrodiaSoldier	Soldato brodiano
+MPID_H_BrodiaSoldier	Unità comune dell'esercito\nbrodiano.
+MPID_SolumSoldier	Soldato solmico
+MPID_H_SolumSoldier	Unità comune dell'esercito\nsolmico.
+MPID_FileneSoldier	Soldato firenese
+MPID_H_FileneSoldier	Unità comune dell'esercito\nfirenese.
+MPID_Marth	Marth
+MPID_H_Marth	L'emblema dell'Inizio.\nEroe tra gli eroi, traboccante\ndi nobiltà e carisma.
+MPID_Siglud	Sigurd
+MPID_H_Siglud	L'emblema della Guerra Santa.\nUn nobile cavaliere dal lignaggio\nillustre.
+MPID_Celica	Celica
+MPID_H_Celica	L'emblema degli Echi.\nPrincipessa di un regno prospero e\nfecondo, e sacerdotessa guerriera.
+MPID_Micaiah	Micaiah
+MPID_H_Micaiah	L'emblema della Luce.\nPortatrice di un misterioso potere\ncurativo e capace di vedere il futuro.
+MPID_Roy	Roy
+MPID_H_Roy	L'emblema del Sigillo.\nUn nobiluomo con le qualità di un\ngenerale, valoroso e intelligente.
+MPID_Lin	Lyn
+MPID_H_Lin	L'emblema del Fuoco Devastante.\nAbile spadaccina nomade, cresciuta\na contatto con la natura.
+MPID_Ike	Ike
+MPID_H_Ike	L'emblema della Fiamma.\nFamoso capo dei mercenari con\nimpareggiabili abilità in battaglia.
+MPID_Lucina	Lucina
+MPID_H_Lucina	L'emblema del Risveglio. Principessa\nsacra che crede nella speranza e non\nsi abbandona mai alla disperazione.
+MPID_Leaf	Leif
+MPID_H_Leaf	L'emblema della Genealogia.\nValoroso principe in cui scorre il\nsangue di due crociati.
+MPID_Kamui	Corrin
+MPID_H_Kamui	L'emblema dei Destini.\nHa ereditato una volontà di ferro e\nil sangue dei Primi Draghi.
+MPID_Eirik	Erika
+MPID_H_Eirik	L'emblema della Sacralità.\nPrincipessa compassionevole\nche combatte per la pace.
+MPID_Byleth	Byleth
+MPID_H_Byleth	L'emblema dell'Accademia.\nProfessore con un passato\nda mercenario.
+MGID_Hide	???
+MGID_Marth	Marth
+MGID_H_Marth	L'emblema dell'Inizio. Eroe nobile e\ncarismatico. Osserva il nemico e\nrisponde con una raffica di colpi.
+MGID_Siglud	Sigurd
+MGID_H_Siglud	L'emblema della Guerra Santa.\nHa grande libertà di movimento e\nsferra potenti attacchi con la lancia.
+MGID_Celica	Celica
+MGID_H_Celica	L'emblema degli Echi.\nLa sua magia sacra è il tormento\ndi ogni creatura maligna.
+MGID_Micaiah	Micaiah
+MGID_H_Micaiah	L'emblema della Luce.\nSupporta gli alleati con la luce della\nsua magia e con il bastone curativo.
+MGID_Roy	Roy
+MGID_H_Roy	L'emblema del Sigillo.\nResiste agli attacchi nemici e si fa\nstrada a colpi di spada.
+MGID_Lin	Lyn
+MGID_H_Lin	L'emblema del Fuoco Devastante.\nSconfigge i nemici vicini con la\nspada e quelli lontani con l'arco.
+MGID_H_EnemyLin	L'emblema contenuto nell'anello\ndella Guerriera, affidato al regno\ndi Elusia.
+MGID_Ike	Ike
+MGID_H_Ike	L'emblema della Fiamma.\nDistrugge gli ostacoli davanti a sé\nusando con maestria spada e ascia.
+MGID_Lucina	Lucina
+MGID_H_Lucina	L'emblema del Risveglio.\nCrea legami con gli alleati e ne trae\nforza per attaccare i nemici.
+MGID_H_EnemyLucina	L'emblema contenuto nell'anello\ndell'Eletta, che è stato portato via\ndal castello di Lythos.
+MGID_Leaf	Leif
+MGID_H_Leaf	L'emblema della Genealogia.\nUn cavaliere molto versatile, abile\ncon ascia, spada e lancia.
+MGID_H_EnemyLeaf	L'emblema contenuto nell'anello\ndel Saggio Lord, che è stato portato\nvia dal castello di Lythos.
+MGID_Kamui	Corrin
+MGID_H_Kamui	L'emblema dei Destini.\nControlla le vene del drago, una\nforza magica sopita nel terreno.
+MGID_Eirik	Erika
+MGID_H_Eirik	L'emblema della Sacralità.\nLa sua spada brillante infrange\nla difesa del nemico.
+MGID_Ephraim	Ephraim
+MGID_H_Ephraim	L'altro emblema della Sacralità.\nSbaraglia le fila nemiche con\npotenti colpi di lancia.
+MGID_Byleth	Byleth
+MGID_H_Byleth	L'emblema dell'Accademia.\nPuò usare varie reliquie eroiche\ne conosce molte tattiche.
+MGID_H_EnemyByleth	L'emblema contenuto all'interno\ndell'anello del Mentore, sottratto\ndal castello di Lythos.
+MGID_Lueur	Alear
+MGID_H_Lueur	L'emblema del Fuoco. Conferisce la\nbenedizione del Drago Divino contro\nla malevolenza del Drago Maligno.
+MGID_Mediuth	Drago Ombra
+MGID_H_Mediuth	Emblema oscuro dal mondo di\nMarth. Incarna un potente drago\nche regnava con la violenza.
+MGID_Loptous	Dio Oscuro
+MGID_H_Loptous	Emblema oscuro dal mondo di\nSigurd. Incarna un dio rancoroso\nche terrorizzava gli umani.
+MGID_Duma	Padre della Guerra
+MGID_H_Duma	Emblema oscuro dal mondo di\nCelica. Incarna un conquistatore\nsanguinario.
+MGID_Veld	Vescovo Oscuro
+MGID_H_Veld	Emblema oscuro dal mondo di Leif.\nIncarna un vescovo devoto alle\ntenebre.
+MGID_Idenn	Drago Diabolico
+MGID_H_Idenn	Emblema oscuro dal mondo di Roy.\nIncarna un drago che cercò di\nannientare l'umanità.
+MGID_Nergal	Druido Oscuro
+MGID_H_Nergal	Emblema oscuro dal mondo di Lyn.\nIncarna un druido alla ricerca di\nconoscenze proibite e catastrofiche.
+MGID_Fodeth	Re Demone
+MGID_H_Fodeth	Emblema oscuro dal mondo di Erika.\nIncarna un essere che corrompeva\ngli altri con i suoi poteri demoniaci.
+MGID_Ashnard	Re Folle
+MGID_H_Ashnard	Emblema oscuro dal mondo di Ike.\nIncarna un tiranno che scatenò\ntumulto e caos nella sua epoca.
+MGID_Astarte	Giudizio
+MGID_H_Astarte	Emblema oscuro dal mondo di\nMicaiah. Incarna una dea che\ndecise di punire l'umanità.
+MGID_Gimle	Disperazione
+MGID_H_Gimle	Emblema oscuro dal mondo di\nLucina. Incarna un Drago Maligno\nche portò rovina e distruzione.
+MGID_Hydra	Drago Folle
+MGID_H_Hydra	Emblema oscuro dal mondo di\nCorrin. Incarna un perfido drago che\nportò molti alla rovina.
+MGID_Nemesis	Liberazione
+MGID_H_Nemesis	Emblema oscuro dal mondo di\nByleth. Incarna il re che massacrò\ni figli di una dea.
+MGEID_Marth	Inizio
+MGEID_Siglud	Sacro
+MGEID_Celica	Echi
+MGEID_Micaiah	Luce
+MGEID_Roy	Sigillo
+MGEID_Lin	Devastante
+MGEID_Ike	Fiamma
+MGEID_Lucina	Risveglio
+MGEID_Leaf	Genealogia
+MGEID_Kamui	Destini
+MGEID_Eirik	Sacralità
+MGEID_Byleth	Accademia
+MGEID_Lueur	Fuoco
+MPID_WeaponShop	Durthon
+MPID_ItemShop	Anisse
+MPID_AccessoriesShop	Pinet
+MPID_BlackSmith	Calney
+MPID_JeanFather	Sean
+MPID_H_JeanFather	Gestisce l'unica clinica del villaggio\ndel tè. Padre di Jean.
+MPID_JeanMother	Anje
+MPID_SolumVillager	Abitante del Solm
+MPID_H_SolumVillager	Abitante del regno di Solm.
+MPID_FileneVillager	Abitante del Firene
+MPID_H_FileneVillager	Abitante del regno di Firene.
+MPID_Vision	Clone illusorio
+MPID_H_Vision	Un'illusione creata con un'abilità\nunione.
+MPID_alias_Lueur	Drago Divino
+MPID_alias_Vandre	Veterano sacro
+MPID_alias_Clan	Valletto sereno
+MPID_alias_Fram	Valletta vivace
+MPID_alias_Alfred	Difensore floreale
+MPID_alias_Boucheron	Cuore tenero
+MPID_alias_Etie	Bellezza atletica
+MPID_alias_Celine	Ilare principessa
+MPID_alias_Louis	Ammiratore discreto
+MPID_alias_Chloe	Ali della fantasia
+MPID_alias_Diamand	Erede al trono
+MPID_alias_Umber	Esperto di alpaca
+MPID_alias_Jade	Muro di Ferro
+MPID_alias_Staluke	Arciere timido
+MPID_alias_Lapis	Forza rigogliosa
+MPID_alias_Citrinica	Cuore d'oro
+MPID_alias_Ivy	Regina delle nevi
+MPID_alias_Zelkova	Ombra *misteriosa*
+MPID_alias_Kagetsu	Samurai amicone
+MPID_alias_Hortensia	Ammaliatrice
+MPID_alias_Rosado	Artista adorabile
+MPID_alias_Goldmary	Talento elegante
+MPID_alias_Misutira	Eroina del deserto
+MPID_alias_Merin	Cavaliera galante
+MPID_alias_Panetone	Lady rissosa
+MPID_alias_Fogato	Principe affabile
+MPID_alias_Pandoro	Prete festaiolo
+MPID_alias_Bonet	Artista dei fornelli
+MPID_alias_Anna	Giovane mercante
+MPID_alias_Jean	Medico in erba
+MPID_alias_Yunaka	Maschera nascosta
+MPID_alias_Seadas	Ballerino mistico
+MPID_alias_Linden	Saggio del tuono
+MPID_alias_Saphir	Guardia valorosa
+MPID_alias_Veyre	Drago gentile
+MPID_alias_Mauve	Baldo penitente
+MPID_Mascot	Sommie
+MPID_H_Mascot	Spirito guardiano che vive nel\nSomniel dai tempi antichi.
+MPID_EleosGoat	Pecora dell'Elyos
+MPID_H_EleosGoat	Conosciuti per la loro pelliccia\nestremamente soffice, questi ovini\nsono diffusi in tutto l'Elyos.
+MPID_WhitePyonRabbit	Saltoniglio bianco
+MPID_H_WhitePyonRabbit	Conigli dalle lunghe orecchie,\nche si trovano in giro per l'Elyos.\nEsistono anche varietà di altri colori.
+MPID_PyonRabbit	Saltoniglio
+MPID_H_PyonRabbit	Conigli dalle lunghe orecchie,\nche si trovano in giro per l'Elyos.\nNe esistono varietà a pelo bianco.
+MPID_EastCat	Miaolino orientale
+MPID_H_EastCat	Questa specie ebbe origine nell'est\ndell'Elyos, adattandosi nell'aspetto e\nnel comportamento al nuovo habitat.
+MPID_WestCat	Miaolino occidentale
+MPID_H_WestCat	Questa specie ebbe origine nell'ovest\ndell'Elyos, adattandosi nell'aspetto e\nnel comportamento al nuovo habitat.
+MPID_SouthCat	Miaolino meridionale
+MPID_H_SouthCat	Questa specie ebbe origine nel sud\ndell'Elyos, adattandosi nell'aspetto e\nnel comportamento al nuovo habitat.
+MPID_NorthCat	Miaolino settentrionale
+MPID_H_NorthCat	Questa specie ebbe origine nel nord\ndell'Elyos, adattandosi nell'aspetto e\nnel comportamento al nuovo habitat.
+MPID_FileneCat	Gatto firenese
+MPID_H_FileneCat	Un gatto che si trova solo in Firene,\ncaratterizzato da un pelo bianco\ne nero.
+MPID_BrodiaCat	Gatto brodiano
+MPID_H_BrodiaCat	Un gatto che si trova solo in Brodia,\ncaratterizzato da un pelo nero e\nmarrone.
+MPID_IrcionCat	Gatto elusiano
+MPID_H_IrcionCat	Un gatto che si trova solo in Elusia,\ncaratterizzato da un pelo a chiazze\nnere.
+MPID_SolumCat	Gatto solmico
+MPID_H_SolumCat	Un gatto che si trova solo in Solm,\ncaratterizzato da un pelo leopardato.
+MPID_KarisonCoco	Caligallo
+MPID_H_KarisonCoco	Si trova soprattutto in Firene e,\nnonostante l'aspetto tondeggiante,\npuò volare e trasportare messaggi.
+MPID_AuraEagle	Aquila aura
+MPID_H_AuraEagle	Un'aquila che si trova principalmente\nin Brodia. Cavalca le correnti d'aria\ne può coprire grandi distanze.
+MPID_IrisOwl	Gufo iris
+MPID_H_IrisOwl	Un gufo che si trova principalmente\nin Elusia. Forte e rapido, si scalda\ngrazie al folto piumaggio.
+MPID_PannaCamel	Carammello
+MPID_H_PannaCamel	Un cammello tipico del Solm. Ogni\nfamiglia ne ha almeno uno, che usa\nper trasportare persone e merci.
+MPID_EleosPigeon	Piccione dell'Elyos
+MPID_H_EleosPigeon	Un uccello selvatico diffuso in tutto\nl'Elyos. Si sposta in grandi stormi,\npiuttosto spettacolari.
+MPID_EleosSeagull	Gabbiano dell'Elyos
+MPID_H_EleosSeagull	Un uccello selvatico che vive lungo\nle coste dell'Elyos. Spesso ruba il\npesce dal bottino dei pescatori.
+MPID_EleosDog	Cane dell'Elyos
+MPID_H_EleosDog	Un cane diffuso in tutto l'Elyos.\nAmichevole e intelligente, è allevato\ncome animale da compagnia.
+MPID_EleosBlackDog	Cane nero dell'Elyos
+MPID_H_EleosBlackDog	Diffuso in tutto l'Elyos, è\ncaratterizzato dal pelo scuro.\nAmichevole e facile da addestrare.
+MPID_EleosWhiteDog	Cane bianco dell'Elyos
+MPID_H_EleosWhiteDog	Diffuso in tutto l'Elyos, è\ncaratterizzato dal pelo bianco.\nAmichevole e facile da addestrare.
+MPID_MailDonkey	Asino mémère
+MPID_H_MailDonkey	Animale raro, tipico del Firene. Ama\nle acque limpide e le erbe fresche. Si\ndice che vederne uno porti fortuna.
+MPID_RutileMarmot	Marmotta rutile
+MPID_H_RutileMarmot	Animale raro, tipico della Brodia.\nConsiderata come un guardiano\ndelle rupi disabitate dove ha la tana.
+MPID_LizardsReindeer	Renna verbena
+MPID_H_LizardsReindeer	Animale raro che vive solo nei boschi\nelusiani. I suoi palchi, che perde in\nperiodo di muta, hanno poteri curativi.
+MPID_BavaroFlamingo	Fenicottero tartu
+MPID_H_BavaroFlamingo	Animale raro, tipico del Solm. Vive\npresso le oasi. La famiglia reale lo\nusa per inviare messaggi speciali.

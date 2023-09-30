@@ -1,0 +1,266 @@
+MID_H_INFO_WLV_Bullet	Canon
+MID_MSG_LOST_ITEM	Perdu : \x0E\x01\x00\x00 \x0E\x01\x01\x00
+MID_DLC_News_Patch2_Title	Version 1.3.0
+MID_DLC_News_Patch2	Pass d'extension\n\n・ Ajout des Emblèmes Chrom (avec Daraen) et Veronica\n　 Chacun d'eux rejoindra votre groupe lorsque vous aurez\n　 terminé l'annexe divine correspondante.\n\nContenu gratuit\n\n・ Ajout du puits ancien à Somniel\n　 Vous pouvez l'utiliser pour échanger des objets dont\n　 vous n'avez plus besoin contre de nouveaux objets.\n\n・ Vous pouvez maintenant hériter de techniques aussi\n   bien dans l'arène que dans la salle des Emblèmes.
+MCID_G003_PREFIX	Annexe divine
+MCID_G003	L'Héritière Solitaire
+MCID_G003_PLACE	Sanctuaire des héros
+MCID_G003_OUTLINE	Un bracelet a été aperçu sur\nune île flottant dans le ciel.
+MCID_G006_PREFIX	Annexe divine
+MCID_G006	Le Saint-Veilleur
+MCID_G006_PLACE	Autel de la destinée
+MCID_G006_OUTLINE	Un bracelet a été aperçu dans les\ntréfonds d'un temple majestueux.
+MID_RULE_G003_WIN	Vaincre l'Emblème Veronica.
+MID_RULE_G006_WIN	Vaincre les Emblèmes Chrom et Daraen.
+MTID_StartupTile	Dalle magique
+MTID_MagicWall	Barrière
+MTID_Pond	Bassin
+MPID_PhantomWolf	Création
+MPID_H_PhantomWolf	Monstre dépourvu d'âme et créé\nsuivant une méthode secrète.\nObéit aveuglément à son maître.
+MPID_Veronica	Veronica
+MPID_H_Veronica	Emblème des Héros.\nPrincesse capable de contrôler\ndes héros venus d'un autre monde.
+MPID_Chrom	Chrom
+MPID_H_Chrom	Emblème des Liens.\nNouveau Saint-Roi comptant sur\nses alliés pour changer le destin.
+MPID_Reflet	Daraen
+MPID_H_Reflet	Emblème des Liens.\nStratège talentueux ayant\nperdu la mémoire.
+MGID_Veronica	Veronica
+MGID_H_Veronica	Emblème des Héros.\nDétient une immense magie.\nSe sert de tomes et de bâtons.
+MGID_H_EnemyVeronica	Emblème qui sommeillait dans\nle Bracelet de l'Héritière Solitaire.
+MGID_Chrom	Chrom
+MGID_H_Chrom	Emblème des Liens.\nS'appuie sur la force de son\népée et du lien avec ses alliés.
+MGID_H_EnemyChrom	Emblème qui sommeillait dans\nle Bracelet du Saint-Veilleur.
+MGID_Reflet	Daraen
+MGEID_Veronica	Héros
+MGEID_Chrom	Liens
+MJID_MageCannon	Mage-canonnier
+MJID_H_MageCannon	Soldat cuirassé d'infanterie équipé\nd'un canon portatif. Lance des\nattaques à longue portée.
+MJID_PhantomWolf	Loup fantôme
+MJID_H_PhantomWolf	Ces loups se déplacent à grands pas,\nsurprenant les proies qu'ils lacèrent\navec leurs crocs maudits.
+MIID_Trahison	Talion
+MIID_H_Trahison	Lance de guerre dont émane\nune aura d'un autre monde.
+MIID_Levanche	Vengeance
+MIID_H_Levanche	Hache de guerre dont émane\nune aura d'un autre monde.
+MIID_Chocolate	Lame choco
+MIID_H_Chocolate	Une épée exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_SoftCream	Corneglace
+MIID_H_SoftCream	Une lance exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_Lollipop	Friandache
+MIID_H_Lollipop	Une hache exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_Croissant	Arc-au-beurre
+MIID_H_Croissant	Un arc exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_Tiramisu	Tome tatin
+MIID_H_Tiramisu	Un tome exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_Dango	Dague dango
+MIID_H_Dango	Une dague exhalant un doux parfum.\nL'unité peut consommer cet objet\npour récupérer des PV.
+MIID_Cupcake	Bâton pâtissier
+MIID_H_Cupcake	Un bâton exhalant un doux parfum.\nPermet de rendre des PV à un allié.
+MIID_Rollcake	Rouleau fourré
+MIID_H_Rollcake	Un parchemin exhalant un doux\nparfum. L'unité peut consommer\ncet objet pour récupérer des PV.
+MIID_Bullet_Power	Boulet simple
+MIID_H_Bullet_Power	Un boulet de canon ordinaire.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Magic	Boulet magus
+MIID_H_Bullet_Magic	Un boulet de canon magique.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Freeze	Boulet glacial
+MIID_H_Bullet_Freeze	Un boulet de canon magique.\n50 % de chance d'infliger Gel.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Silence	Boulet sourd
+MIID_H_Bullet_Silence	Un boulet de canon magique.\n50 % de chance d'infliger Silence.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Collapse	Boulet brisant
+MIID_H_Bullet_Collapse	Un boulet de canon magique.\n50 % de chance de briser la garde.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Poison	Boulet toxique
+MIID_H_Bullet_Poison	Un boulet de canon magique.\nInflige un poison nocif à la cible.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Slayer_Fly	Boulet tornade
+MIID_H_Bullet_Slayer_Fly	Un boulet de canon magique spécial.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.\nEfficace contre les unités volantes.
+MIID_Bullet_Slayer_Armor	Boulet trépan
+MIID_H_Bullet_Slayer_Armor	Un boulet de canon spécial.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.\nEfficace contre les unités cuirassées.
+MIID_Bullet_Slayer_Horse	Boulet équin
+MIID_H_Bullet_Slayer_Horse	Un boulet de canon spécial.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.\nEfficace contre la cavalerie.
+MIID_Bullet_Slayer_Dragon	Boulet vouivre
+MIID_H_Bullet_Slayer_Dragon	Un boulet de canon spécial.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.\nEfficace contre les dragons.
+MIID_Bullet_Slayer_Morph	Boulet sacré
+MIID_H_Bullet_Slayer_Morph	Un boulet de canon spécial.\nDouble frappe impossible. Précision\nréduite pour les cibles distantes.\nEfficace contre les Aberrations.
+MIID_Bullet_Power+	Boulet exalté
+MIID_H_Bullet_Power+	Un boulet de canon chargé\nd'une puissante énergie. Double\nfrappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Magic+	Boulet éthéré
+MIID_H_Bullet_Magic+	Un boulet de canon imprégné\nd'une puissante magie. Double\nfrappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Bullet_Penetration	Boulet perçant
+MIID_H_Bullet_Penetration	Un boulet de canon ignorant\nla Déf/Rés de l'ennemi. Double\nfrappe impossible. Précision\nréduite pour les cibles distantes.
+MIID_Fang	Crocs
+MIID_H_Fang	Si l'unité initie le combat et touche\nl'ennemi, elle lui inflige PV max -5\naprès le combat (-20 max).
+MIID_Veronica_Hlidskjalf	Hliðskjálf
+MIID_H_Veronica_Hlidskjalf	Bâton manié par l'Emblème\nVeronica. Empêche les\ncontre-attaques de l'ennemi\nsi l'unité initie le combat.
+MIID_Veronica_WholeHeal	Halo +
+MIID_H_Veronica_WholeHeal	Bâton manié par l'Emblème\nVeronica. Soigne les PV et les\naltérations d'état de tous les alliés\ndans un rayon de sept cases.
+MIID_Veronica_Elivagar	Élivágar
+MIID_H_Veronica_Elivagar	Puissante magie de l'Emblème\nVeronica. Annule les bonus de\ncaractéristiques de base de la cible\npendant 1 tour après le combat.
+MIID_Veronica_EngageAtk_R	Pierre écarlate
+MIID_Veronica_EngageAtk_B	Pierre azur
+MIID_Veronica_EngageAtk_G	Pierre verdoyante
+MIID_Veronica_EngageAtk_N	Pierre incolore
+MIID_Chrom_ThunderSword	Épée orage
+MIID_H_Chrom_ThunderSword	Épée magique maniée par l'Emblème\nDaraen. Attaque les ennemis à\ndistance avec un éclair magique.
+MIID_Chrom_Thoron	Thoron
+MIID_H_Chrom_Thoron	Puissant tome de magie de foudre\nmanié par l'Emblème Daraen.
+MIID_Chrom_Falchion	Falchion
+MIID_H_Chrom_Falchion	Épée légendaire maniée\npar l'Emblème Chrom.\nEfficace contre les dragons.
+MSID_SPConvert	Conversion PT
+MSID_H_SPConvert	Confère PT +20 pour chaque ennemi\nvaincu. Se déclenche même si aucun\nanneau ou bracelet n'est équipé.
+MSID_BloodyRevenge	Représailles
+MSID_H_BloodyRevenge	Si les PV de l'unité ne sont pas au\nmaximum, augmente l'Atq de 30 %\nde la différence avec ses PV max.
+MSID_BloodyRevenge+	Représailles +
+MSID_H_BloodyRevenge+	Si les PV de l'unité ne sont pas au\nmaximum, augmente l'Atq de 50 %\nde la différence avec ses PV max.
+MSID_BreakThroughLimit	Transcendance
+MSID_H_BreakThroughLimit	Si l'unité élimine un ennemi d'un\nniveau plus élevé, confère +1 au\nniveau jusqu'à la fin du combat\n(+3 max).
+MSID_AnotherWorldsPower	Livre des mondes
+MSID_H_AnotherWorldsPower	Chaque tour consécutif où l'unité\nutilise l'option Attendre, le Livre des\nmondes avance d'un chapitre\n(5 max). Le chapitre est réinitialisé\nsi l'unité déclenche l'effet.
+MSID_AnotherWorldsPower+1	Livre I : sceau
+MSID_H_AnotherWorldsPower+1	Si l'unité initie le combat, inflige\nGel à l'ennemi après le combat.
+MSID_AnotherWorldsPower+2	Livre II : flamme
+MSID_H_AnotherWorldsPower+2	Si l'unité initie le combat, inflige\nGel à l'ennemi et enflamme la case\naprès le combat.
+MSID_AnotherWorldsPower+3	Livre III : ruine
+MSID_H_AnotherWorldsPower+3	Si l'unité initie le combat, inflige Gel\net 10 points de dégâts à l'ennemi,\net enflamme la case après le combat.
+MSID_AnotherWorldsPower+4	Livre IV : songe
+MSID_H_AnotherWorldsPower+4	Si l'unité initie le combat, elle\nrécupère les dégâts qu'elle inflige\nen PV. Inflige Gel et 10 points de\ndégâts à l'ennemi, et enflamme\nla case après le combat.
+MSID_AnotherWorldsPower+5	Livre V : arcane
+MSID_H_AnotherWorldsPower+5	Si l'unité initie le combat, elle et ses\nalliés adjacents récupèrent les dégâts\nqu'elle inflige en PV. Inflige Gel et\n10 points de dégâts à l'ennemi,\net enflamme la case après le combat.
+MSID_VeronicaEngage	Pacte
+MSID_H_VeronicaEngage	Permet d'accorder une autre action\nà un allié adjacent ayant déjà agi\n(l'allié ne peut se déplacer).
+MSID_H_VeronicaEngage_CMD	Accorde une autre action à\nun allié (ne peut se déplacer).
+MSID_H_VeronicaEngage_Dragon	Permet d'accorder une autre action\nà un allié adjacent ayant déjà agi\n(l'allié ne peut se déplacer).\nDragon : confère Frc/Mag/Déf/Rés\n+2 à l'allié pendant l'action.
+MSID_H_VeronicaEngage_Coop	Permet d'accorder une autre action\nà un allié adjacent ayant déjà agi\n(l'allié ne peut se déplacer).\nSoutien : l'unité participe à une\nattaque enchaînée pendant l'action.
+MSID_H_VeronicaEngage_Covert	Permet d'accorder une autre action\nà un allié adjacent ayant déjà agi\n(l'allié ne peut se déplacer).\nFurtif : confère Prc/Esq +30\nà l'allié pendant l'action.
+MSID_VeronicaEngageAtk	Invocation de héros
+MSID_H_VeronicaEngageAtk	Permet d'invoquer une unité\naléatoire.
+MSID_H_VeronicaEngageAtk_CMD	Invoque une unité aléatoire.
+MSID_VeronicaEngageAtk_CMD_R	\x0E\x08\x02\x12\x10RedStone (écarlate)
+MSID_H_VeronicaEngageAtk_CMD_R	Invoque une unité maniant\nune épée.
+MSID_VeronicaEngageAtk_CMD_B	\x0E\x08\x02\x14\x12BlueStone (azur)
+MSID_H_VeronicaEngageAtk_CMD_B	Invoque une unité maniant\nune lance.
+MSID_VeronicaEngageAtk_CMD_G	\x0E\x08\x02\x16\x14GreenStone (verdoyante)
+MSID_H_VeronicaEngageAtk_CMD_G	Invoque une unité maniant\nune hache.
+MSID_VeronicaEngageAtk_CMD_W	\x0E\x08\x02\x16\x14WhiteStone (incolore)
+MSID_H_VeronicaEngageAtk_CMD_W	Invoque une unité ne maniant\nni épée, ni lance, ni hache.
+MSID_H_VeronicaEngageAtk_Dragon	Invoque une unité aléatoire.\nDragon : invoque une puissante\nunité.
+MSID_H_VeronicaEngageAtk_Coop	Invoque une unité aléatoire.\nSoutien : invoque une unité avec\nla technique Attaque combinée.
+MSID_H_VeronicaEngageAtk_Horse	Invoque une unité aléatoire.\nCavalerie : confère Mvt +1\nà l'unité invoquée.
+MSID_ByForce	Force brute
+MSID_H_ByForce	Lors d'une attaque physique,\naugmente les dégâts infligés\npar les coups critiques.
+MSID_Charisma	Charisme
+MSID_H_Charisma	Si l'attaque de l'unité déclenche une\nattaque enchaînée, augmente\nla précision de celle-ci à 90%.
+MSID_SuckerPunch	Attaque surprise
+MSID_H_SuckerPunch	Si l'unité initie le combat depuis un\nterrain qui augmente l'Esq, empêche\nles contre-attaques de l'ennemi.
+MSID_RainbowCry	Ralliement royal
+MSID_H_RainbowCry	Confère +3 aux 7 caractéristiques de\nbase des alliés adjacents pendant\n1 tour.
+MSID_Rooting	Ralliement
+MSID_H_Rooting_CMD	+3 aux 7 caractéristiques de\nbase des alliés adjacents.
+MSID_RainbowCry+	Ralliement royal +
+MSID_H_RainbowCry+	Confère +3 aux 7 caractéristiques de\nbase des alliés situés à 2 cases max\npendant 1 tour.
+MSID_Rooting+	Ralliement +
+MSID_H_Rooting+_CMD	+3 aux 7 caractéristiques de\nbase des alliés à 2 cases max.
+MSID_ChromEngage	Alter ego
+MSID_H_ChromEngage	Si l'unité initie le combat, Daraen\neffectue une attaque enchaînée.\nConfère Mag +10 pendant la fusion.
+MSID_H_ChromEngage_Dragon	Si l'unité initie le combat, Daraen\neffectue une attaque enchaînée.\nConfère Mag +10 pendant la fusion.\nDragon : Daraen effectue deux\nattaques enchaînées.
+MSID_H_ChromEngage_Coop	Si l'unité initie le combat, Daraen\neffectue une attaque enchaînée.\nConfère Mag +10 pendant la fusion.\nSoutien : succès garanti des\nattaques enchaînées.
+MSID_H_ChromEngage_Covert	Si l'unité initie le combat, Daraen\neffectue une attaque enchaînée.\nConfère Mag +10 pendant la fusion.\nFurtif : confère Mvt +1 pendant\nla fusion.
+MSID_H_ChromEngage_Single	Succès garanti des attaques\nenchaînées déclenchées par l'unité.\nConfère Frc +5, Mag +10 pendant\nla fusion.
+MSID_ChromEngageAtk	Giga épée orage
+MSID_H_ChromEngageAtk	Attaque à l'épée magique. Réservé\naux épées. Attaque magique utilisant\nla puissance d'attaque physique.
+MSID_H_ChromEngageAtk_Dragon	Attaque à l'épée magique. Réservé\naux épées. Attaque magique utilisant\nla puissance d'attaque physique.\nDragon : dégâts augmentés\nde 50 % de Frc.
+MSID_H_ChromEngageAtk_Fly	Attaque à l'épée magique. Réservé\naux épées. Attaque magique utilisant\nla puissance d'attaque physique.\nVolant : augmente les dégâts\nà hauteur de la Cst.
+MSID_H_ChromEngageAtk_Magic	Attaque à l'épée magique. Réservé\naux épées. Attaque magique utilisant\nla puissance d'attaque physique.\nMystique : dégâts augmentés\nde 50 % de Mag.
+MSID_H_ChromEngageAtk_CMD	Attaque à l'épée magique.
+MSID_ChromEngageAtk+	Giga épée orage +
+MSID_H_ChromEngageAtk+	Attaque à l'épée magique. Réservé\naux épées. Attaque magique utilisant\nla puissance d'attaque physique.\nLes alliés adjacents lancent\nune attaque enchaînée.
+MSID_H_ChromEngageAtk+_Dragon	Attaque à l'épée magique. Réservé :\népées. Utilise la puissance d'attaque\nphysique. Les alliés adjacents\nlancent une attaque enchaînée.\nDragon : dégâts +50 % de la Frc.
+MSID_H_ChromEngageAtk+_Fly	Attaque à l'épée magique. Réservé :\népées. Utilise la puissance d'attaque\nphysique. Les alliés adjacents\nlancent une attaque enchaînée.\nVolant : dégâts +100 % de la Cst.
+MSID_H_ChromEngageAtk+_Magic	Attaque à l'épée magique. Réservé :\népées. Utilise la puissance d'attaque\nphysique. Les alliés adjacents\nlancent une attaque enchaînée.\nMystique : dégâts +50 % de la Mag.
+MSID_H_ChromEngageAtk+_CMD	Les alliés adjacents lancent\ndes attaques enchaînées.
+MSID_Mag_Tec_1	Mag/Tec +1
+MSID_H_Mag_Tec_1	Confère Mag +1 et Tec +1.
+MSID_Mag_Tec_2	Mag/Tec +2
+MSID_H_Mag_Tec_2	Confère Mag +2 et Tec +2.
+MSID_Mag_Tec_3	Mag/Tec +3
+MSID_H_Mag_Tec_3	Confère Mag +3 et Tec +3.
+MSID_Mag_Tec_4	Mag/Tec +4
+MSID_H_Mag_Tec_4	Confère Mag +4 et Tec +4.
+MSID_Mag_Tec_5	Mag/Tec +5
+MSID_H_Mag_Tec_5	Confère Mag +5 et Tec +5.
+MSID_Tec_Spd_1	Vit/Tec +1
+MSID_H_Tec_Spd_1	Confère Vit +1 et Tec +1.
+MSID_Tec_Spd_2	Vit/Tec +2
+MSID_H_Tec_Spd_2	Confère Vit +2 et Tec +2.
+MSID_Tec_Spd_3	Vit/Tec +3
+MSID_H_Tec_Spd_3	Confère Vit +3 et Tec +3.
+MSID_Tec_Spd_4	Vit/Tec +4
+MSID_H_Tec_Spd_4	Confère Vit +4 et Tec +4.
+MSID_Tec_Spd_5	Vit/Tec +5
+MSID_H_Tec_Spd_5	Confère Vit +5 et Tec +5.
+MSID_AntiKnifeArts_1	Pare-dague 1
+MSID_H_AntiKnifeArts_1	Si l'ennemi est équipé d'une dague,\nl'unité subit -1 point de dégâts\npendant le combat.
+MSID_AntiKnifeArts_2	Pare-dague 2
+MSID_H_AntiKnifeArts_2	Si l'ennemi est équipé d'une dague,\nl'unité subit -2 points de dégâts\npendant le combat.
+MSID_AntiKnifeArts_3	Pare-dague 3
+MSID_H_AntiKnifeArts_3	Si l'ennemi est équipé d'une dague,\nl'unité subit -3 points de dégâts\npendant le combat.
+MSID_AntiKnifeArts_4	Pare-dague 4
+MSID_H_AntiKnifeArts_4	Si l'ennemi est équipé d'une dague,\nl'unité subit -4 points de dégâts\npendant le combat.
+MSID_AntiKnifeArts_5	Pare-dague 5
+MSID_H_AntiKnifeArts_5	Si l'ennemi est équipé d'une dague,\nl'unité subit -5 points de dégâts\npendant le combat.
+MSID_AntiSwordArts_1	Pare-épée 1
+MSID_H_AntiSwordArts_1	Si l'ennemi est équipé d'une épée,\nl'unité subit -1 point de dégâts\npendant le combat.
+MSID_AntiSwordArts_2	Pare-épée 2
+MSID_H_AntiSwordArts_2	Si l'ennemi est équipé d'une épée,\nl'unité subit -2 points de dégâts\npendant le combat.
+MSID_AntiSwordArts_3	Pare-épée 3
+MSID_H_AntiSwordArts_3	Si l'ennemi est équipé d'une épée,\nl'unité subit -3 points de dégâts\npendant le combat.
+MSID_AntiSwordArts_4	Pare-épée 4
+MSID_H_AntiSwordArts_4	Si l'ennemi est équipé d'une épée,\nl'unité subit -4 points de dégâts\npendant le combat.
+MSID_AntiSwordArts_5	Pare-épée 5
+MSID_H_AntiSwordArts_5	Si l'ennemi est équipé d'une épée,\nl'unité subit -5 points de dégâts\npendant le combat.
+MSID_JobSkill_MageCanon	Bordée
+MSID_H_JobSkill_MageCanon	Permet d'effectuer une attaque\nà zone d'effet garantie au début\nde la phase joueur suivante.\nL'unité perd l'arme équipée.
+MSID_H_JobSkill_MageCanon_CMD	Boulets à longue portée qui\ntouchent toujours leur cible.
+MSID_JobSkill_Wolf	Assaut de meute
+MSID_H_JobSkill_Wolf	Les alliés de la même classe que\nl'unité et situés à 3 cases max\nparticipent à une attaque enchaînée.
+MID_BONDSRING_Chrom00	Prince du Saint-Royaume d'Ylisse,\nun pays d'un autre monde.
+MID_BONDSRING_Chrom01	Armé de la Sainte-Falchion, se bat\npour tracer un avenir d'espoir.
+MID_BONDSRING_Reflet00	Le mystérieux inconnu recueilli par\nChrom et qui lui offrit son amitié.
+MID_BONDSRING_Reflet01	Ils ont forgé un lien indéfectible\ndans les flammes de la bataille.
+MID_BONDSRING_Veronica00	Princesse impériale de l'empire\nd'Embla, un pays d'un autre monde.
+MID_BONDSRING_Veronica01	Son impassibilité apparente trahit\nune inquiétante cruauté.
+MGID_Ring_Chrom	Bracelet du Saint-Veilleur
+MGID_H_Ring_Chrom	Le bracelet où sommeille Chrom,\nnouveau Saint-Roi comptant sur\nses alliés pour changer le destin.
+MGID_Ring_Reflet	Bracelet du Saint-Veilleur
+MGID_H_Ring_Reflet	Le bracelet où sommeille Daraen,\nstratège talentueux ayant\nperdu la mémoire.
+MGID_Ring_Veronica	Bracelet de l'Héritière Solitaire
+MGID_H_Ring_Veronica	Le bracelet où sommeille Veronica,\nprincesse capable de contrôler\ndes héros venus d'un autre monde.
+MGID_World_Chrom	Monde de la Sainte-Lignée
+MGID_World_Reflet	Monde de la Sainte-Lignée
+MGID_World_Veronica	Monde de l'Héritière Solitaire
+MID_RELAY_Stamp_Chrom_0	Vous pouvez toujours compter sur moi.
+MID_RELAY_Stamp_Reflet_0	Il me faut une nouvelle tactique...
+MID_RELAY_Stamp_Veronica_0	Vous avez tout... Ce n'est pas juste...
+MID_BGM_DLC_Field_S16_Combat_ST_Play	Épreuve des Gardiens (Entendez notre appel)
+MID_BGM_DLC_Field_S16_Map_ST_Play	Épreuve des Gardiens
+MID_BGM_Evt_Advent_Veronica_ST_Play	Entendez notre appel
+MID_Hub_Well	Puits ancien
+MID_Hub_Area_Event	Nouvel événement
+MID_Hub_Area_ItemReturn	Nouveaux objets
+MID_Hub_Well_TitleHelp	Choisissez une action.
+MID_Hub_Well_ItemExchange	Transformation
+MID_Hub_Well_ItemExchange_TitleHelp	Choisissez les objets inutiles.
+MID_Hub_Well_ItemExchange_Expected	Amélioration
+MID_Hub_Well_ItemExchange_Dialog_Title	Transformer ces objets ?
+MID_Hub_Well_ItemExchange_Dialog_Before	Objets à jeter
+MID_Hub_Well_ItemExchange_Dialog_Yes	Transformation
+MID_Hub_Well_ItemExchange_Get	Objets obtenus
+MID_Hub_Well_ItemExchange_Message	Vous avez jeté quelque chose dans le puits.\nRevenez après votre prochaine bataille pour\nobtenir quelque chose de nouveau.
+MID_Hub_Well_Nothing1	Vous percevez une mystérieuse présence...
+MID_Hub_Well_Nothing2	Il semble qu'il n'y ait rien ici pour le moment.
+PCTMID_Chrom	« Comptez sur moi. »
+PCTMID_Reflet	« Une nouvelle tactique... »
+PCTMID_Veronica	« Vous m'appartenez... »
+MID_Movie_K19	Emblème Veronica
+MID_H_Movie_K19	L'Emblème Veronica, invoquée depuis\nle Bracelet de l'Héritière Solitaire.
+MID_Movie_K18	Emblème Chrom
+MID_H_Movie_K18	L'Emblème Chrom, invoqué depuis\nle Bracelet du Saint-Veilleur.
+MID_MAP_HIS_EngageSummon	\x0E\x01\x00\x00 a utilisé Invocation de héros.
+MID_MAP_HIS_Contract	\x0E\x01\x00\x00 a utilisé Pacte.
+MID_MAP_HIS_FullBullet	\x0E\x01\x00\x00 a utilisé Bordée.

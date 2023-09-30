@@ -1,0 +1,126 @@
+MJID_DragonLord	Drachenkind
+MJID_H_DragonLord	Stammt aus einer uralten Linie von\nDrachen. Kann einzigartige Schwer-\nter der Wyrmgötter verwenden.
+MJID_DragonKing	Wyrmgott
+MJID_H_DragonKing	Herrscht mit großer Macht über die\nWelt. Kann Schwert- und Kampf-\ntechniken der Wyrmgötter nutzen.
+MJID_ShadowLord	Dämonenkind
+MJID_H_ShadowLord	Steht unter dem Einfluss des\nDämonendrachen und verwendet\nmächtige Schwerttechniken.
+MJID_ShadowPrincess	Dämonenkind
+MJID_H_ShadowPrincess	Bluterbin des Dämonendrachen.\nMeisterin der dämonischen Künste\nund der dunklen Magie.
+MJID_ShadowKing	Dämonenkönig
+MJID_H_ShadowKing	Möchte mit eisernem Griff über die\nWelt herrschen. Nutzt dunkle Künste,\num Zerstörung zu sähen.
+MJID_ShadowDragon	Das Böse
+MJID_H_ShadowDragon	Der Dämonendrache mit der Macht\nder Emblem-Ringe. Er kann nun das\nPortal einer anderen Welt öffnen.
+MJID_AvenirLC	Adliger
+MJID_H_AvenirLC	Geboren in eine Königsfamilie.\nEin geübter Reiter, der sich auf den\nUmgang mit Lanzen versteht.
+MJID_Avenir	Arvenir
+MJID_H_Avenir	Ein schmucker Prinz zu weißem\nRoss. Erfahrener Lanzenkämpfer, der\nauch mit Schwertern vertraut ist.
+MJID_FleurageLC	Adlige
+MJID_H_FleurageLC	Geboren in eine Königsfamilie. Eine\ntalentierte Magierin, die auch mit\neinem Schwert umgehen kann.
+MJID_Fleurage	Vidame
+MJID_H_Fleurage	Magiekundige Schwertkämpferin,\nbesonders effizient gegen feindliche\nMagier. Kann auch Stäbe nutzen.
+MJID_SuccesseurLC	Lord
+MJID_H_SuccesseurLC	Geboren in eine Familie, die über\neine Nation herrscht. Kompetenter\nSchwertkämpfer.
+MJID_Successeur	Thronerbe
+MJID_H_Successeur	Besitzt den Willen und die Stärke,\neine Nation zu führen. Talentiert im\nUmgang mit Schwertern und Äxten.
+MJID_TirailleurLC	Lord
+MJID_H_TirailleurLC	Geboren in eine Familie, die über\neine Nation herrscht. Kompetenter\nBogenschütze.
+MJID_Tirailleur	Elite-Schütze
+MJID_H_Tirailleur	Ein Bogenschütze mit bemerkens-\nwerter Präzision. Schaltet Gegner\nmit nur einem Schuss aus.
+MJID_LindwurmLC	Bändigerin
+MJID_H_LindwurmLC	Ritterin mit enger Verbindung zu\nRaubtieren. Kämpft mit Magie und\nStäben vom Rücken eines Wyvern.
+MJID_Lindwurm	Lindwurm
+MJID_H_Lindwurm	Magiekundige Wyvernritterin, die\nGegner aus der Luft bekämpft. Setzt\nmächtige Magie und Stäbe ein.
+MJID_SleipnirLC	Bändigerin
+MJID_H_SleipnirLC	Ritterin mit enger Verbindung zu\nRaubtieren. Kämpft mit Buch und\nStab vom Rücken eines Pegasus.
+MJID_Sleipnir	Sleipnirreiterin
+MJID_H_Sleipnir	Ritterin, die auf ihrem anmutigen\nPegasus Sleipnir in den Kampf zieht.\nNutzt mächtige Stäbe und Bücher.
+MJID_PitchforkLC	Wächterin
+MJID_H_PitchforkLC	Greift zum Schutze ihrer Nation\nauch gern mal zu den Waffen.\nGeübt im Umgang mit Lanzen.
+MJID_Pitchfork	Pikenierin
+MJID_H_Pitchfork	Lanzenträgerin, die Feindeslinien\ngekonnt durchbricht. Ist durch ihre\nLeichtfüßigkeit besonders gefährlich.
+MJID_CupidoLC	Wächter
+MJID_H_CupidoLC	Greift zum Schutze seiner Nation\nauch gern mal zu den Waffen. Ein\nerfahrener Reiter und Schütze.
+MJID_Cupido	Amor
+MJID_H_Cupido	Charmanter Bogenritter, der sowohl\nBogen als auch Schwert gelassen\nführt. Spielt gern mit den Gegnern.
+MJID_SwordFighter	Schwertkämpfer
+MJID_H_SwordFighter	Fußsoldaten, die sich auf den Kampf\nmit dem Schwert verstehen. Können\nAngriffen geschickt ausweichen.
+MJID_SwordMaster	Schwertmeister
+MJID_H_SwordMaster	Meisterhafte Schwertkämpfer, die\nAngriffen haarscharf ausweichen und\ndann verheerende Vergeltung üben.
+MJID_BraveHero	Held
+MJID_H_BraveHero	Versierte Veteranen, ausgebildet im\nUmgang mit verschiedenen Waffen.\nDurchbrechen mühelos Frontlinien.
+MJID_LanceFighter	Lanzenkämpfer
+MJID_H_LanceFighter	Soldaten, die im Kampf Lanzen ein-\nsetzen. Verfügen über ausgewogene\nAngriffs- und Verteidigungswerte.
+MJID_Halberdier	Hellebardier
+MJID_H_Halberdier	Lanzenträger mit reichlich Kampf-\nerfahrung. Sind den gewöhnlichen\nLanzenkämpfern weit überlegen.
+MJID_RoyalKnight	Königsritter
+MJID_H_RoyalKnight	Ritter zu Pferde, die Schlachtfelder\ndominieren und Verbündete um sich\nsammeln. Können Stäbe nutzen.
+MJID_AxFighter	Axtkämpfer
+MJID_H_AxFighter	Kampferprobte, axtschwingende\nKrieger. Schlagen hart zu, öffnen\nsich dabei aber für gegn. Konter.
+MJID_Berserker	Berserker
+MJID_H_Berserker	Mächtige Krieger mit beispielloser\nStärke. Besiegen ihre Gegner dank\nihrer großen Äxte mit Leichtigkeit.
+MJID_Warrior	Krieger
+MJID_H_Warrior	Experten im Niederstrecken von\nGegnern. Sie kämpfen sowohl mit\nder Axt als auch dem Bogen.
+MJID_Archer	Schütze
+MJID_H_Archer	Leichte Infanterieeinheiten, die mit\nBogen kämpfen. Können Gegner aus\nder Entfernung angreifen.
+MJID_Sniper	Scharfschütze
+MJID_H_Sniper	Meister im Umgang mit dem Bogen.\nKönnen Schwachstellen von Gegnern\npräzise erkennen und angreifen.
+MJID_BowKnight	Bogenritter
+MJID_H_BowKnight	Bogenschützen, die aus dem Sattel\nangreifen und über einen großen\nBewegungsradius verfügen.
+MJID_SwordArmor	Schwertritter
+MJID_H_SwordArmor	Stark gepanzerte Schwertkämpfer.\nVerfügen über hohe Verteidigungs-\nwerte, sind aber anfällig für Magie.
+MJID_LanceArmor	Lanzenritter
+MJID_H_LanceArmor	Stark gepanzerte Lanzenkämpfer.\nVerfügen über hohe Verteidigungs-\nwerte, sind aber anfällig für Magie.
+MJID_AxArmor	Axtritter
+MJID_H_AxArmor	Stark gepanzerte Axtkämpfer.\nVerfügen über hohe Verteidigungs-\nwerte, sind aber anfällig für Magie.
+MJID_General	General
+MJID_H_General	Stark gepanzerte Kämpfer, die neben\nhohen Verteidigungswerten auch\nüber enorme Angriffskraft verfügen.
+MJID_GreatKnight	Erzritter
+MJID_H_GreatKnight	Gepanzerte Ritter in schwerer\nRüstung. Verteidigen Verbündete mit\nverschiedenen Arten von Waffen.
+MJID_SwordKnight	Schwertkavalier
+MJID_H_SwordKnight	Schwertführende Ritter, die auf\nPferden über das Schlachtfeld reiten.\nSie haben ausgewogene Fähigkeiten.
+MJID_LanceKnight	Lanzenkavalier
+MJID_H_LanceKnight	Lanzenführende Ritter, die auf\nPferden über das Schlachtfeld reiten.\nSie haben ausgewogene Fähigkeiten.
+MJID_AxKnight	Axtkavalier
+MJID_H_AxKnight	Axtführende Ritter, die auf Pferden\nüber das Schlachtfeld reiten.\nSie haben ausgewogene Fähigkeiten.
+MJID_Paladin	Rittmeister
+MJID_H_Paladin	Hochrangige Ritter mit viel Kampf-\nerfahrung. Ihr Bewegungsradius ist\nsehr groß. Sie sind stark gg. Magie.
+MJID_WolfKnight	Wolfsritter
+MJID_H_WolfKnight	Ritter, die auf Wölfen über das\nSchlachtfeld jagen. Dezimieren mit\nihren Messern ganze Feindeslager.
+MJID_SwordPegasus	Schwertflieger
+MJID_H_SwordPegasus	Schwertträger, die auf Pegasi durch\ndie Lüfte fliegen. Stark gegen Magie,\naber anfällig gegen Bogen.
+MJID_LancePegasus	Lanzenflieger
+MJID_H_LancePegasus	Lanzenträger, die auf Pegasi durch\ndie Lüfte fliegen. Stark gegen Magie,\naber anfällig gegen Bogen.
+MJID_AxPegasus	Axtflieger
+MJID_H_AxPegasus	Axtträger, die auf Pegasi durch die\nLüfte fliegen. Stark gegen Magie,\naber anfällig gegen Bogen.
+MJID_GriffonKnight	Greifenritter
+MJID_H_GriffonKnight	Erfahrene Ritter, die auf Greifen\nfliegen. Besitzen ausbalancierte\nWerte und können Stäbe nutzen.
+MJID_DragonKnight	Wyvernritter
+MJID_H_DragonKnight	Erfahrene Ritter, die auf Wyvern\nfliegen. Sind äußerst mächtig, aber\nanfällig für Bogen und Magie.
+MJID_Mage	Magier
+MJID_H_Mage	Magieanwender, die Zauber mithilfe\nvon Büchern wirken. Stark gegen\nGegner mit hoher Verteidigung.
+MJID_Sage	Weiser
+MJID_H_Sage	Erfahrene Magier, die über immense\nMacht verfügen. Können sowohl\nBücher als auch Stäbe verwenden.
+MJID_MageKnight	Magieritter
+MJID_H_MageKnight	Magiebegabte Ritter, die vom Sattel\naus Magie wirken können, aber\nauch den Nahkampf nicht scheuen.
+MJID_Monk	Kampfmönch
+MJID_H_Monk	Kampferprobte Mönche, die mit\nStäben Verbündete heilen. Erfahren\nin der Kunst der Selbstverteidigung.
+MJID_MasterMonk	Kampfmeister
+MJID_H_MasterMonk	Erfahrene Mönche, die in der Kampf-\nkunst bewandert sind. Überragende\nNahkämpfer und Heiler.
+MJID_HighPriest	Oberpriester
+MJID_H_HighPriest	Meister im Umgang mit Stäben.\nIhre enormen Heilkräfte sind in\ngroßen Schlachten unerlässlich.
+MJID_Thief	Dieb
+MJID_H_Thief	Langfinger mit einem Talent fürs\nSchlösserknacken. Flink mit ihren\nHänden, tödlich mit ihren Messern.
+MJID_Dancer	Tänzer
+MJID_H_Dancer	Künstler, die den Kampfgeist Ver-\nbündeter heben und das Ausführen\neiner weiteren Aktion ermöglichen.
+MJID_Villager	Dörfler
+MJID_H_Villager	Durchschnittliche Dorfbewohner\nohne jegliche Kampfausbildung.
+MJID_Melusine	Melusine
+MJID_H_Melusine	Magische Ritterin auf einem bösen\nDrachen. Setzt im Kampf mächtige\nMagie und Schwerter ein.
+MJID_Barbarian	Barbar
+MJID_H_Barbarian	Wilde Kämpfer mit unstillbarer Wut.\nExtrem stark und schnell, verfügen\njedoch nur über geringe Verteidigung.
+MJID_MorphDragon	Verzerrter Drache
+MJID_H_MorphDragon	Schergen des Dämonendrachen,\nderen Ziel die Zerstörung der Welt\nist. Ihr dunkler Atem vernichtet alles.
+MJID_PhantomDragon	Phantomdrache
+MJID_H_PhantomDragon	Gewaltige, aber recht behäbige\nDrachenschergen. Können mit ihrem\nAtem auch entfernte Gegner treffen.
+MJID_Emblem	Emblem
+MJID_H_Emblem	In Ringe eingeschlossene Helden\naus Welten jenseits von Elyos, die\nüber unvorstellbare Macht verfügen.

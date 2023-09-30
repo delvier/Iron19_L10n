@@ -1,0 +1,266 @@
+MID_H_INFO_WLV_Bullet	Bomba
+MID_MSG_LOST_ITEM	Hai perso: \x0E\x01\x00\x00\x0E\x01\x01\x00.
+MID_DLC_News_Patch2_Title	Ver. 1.3.0
+MID_DLC_News_Patch2	Pass di espansione\n\n・ Sono stati aggiunti l'emblema Chrom (con Daraen)\n　 e l'emblema Veronica. Si uniranno al tuo gruppo\n　 quando avrai completato i rispettivi capitoli divini.\n\nContenuto gratuito\n\n・ È stato aggiunto il pozzo antico nel Somniel.\n　 Puoi usarlo per scambiare gli oggetti che non ti servono\n　 con altri oggetti.\n\n・ Ora puoi ereditare abilità anche nell'arena, oltre che nella\n　 sala degli emblemi.
+MCID_G003_PREFIX	Capitolo divino
+MCID_G003	L'Erede Solitaria
+MCID_G003_PLACE	Santuario degli eroi
+MCID_G003_OUTLINE	Hai scoperto l'esistenza di un\nbracciale su un'isola che fluttua\nnel cielo.
+MCID_G006_PREFIX	Capitolo divino
+MCID_G006	L'Eletto
+MCID_G006_PLACE	Altare del destino
+MCID_G006_OUTLINE	Hai scoperto l'esistenza di un\nbracciale nelle profondità di un\ntempio solenne.
+MID_RULE_G003_WIN	Sconfiggi l'emblema Veronica.
+MID_RULE_G006_WIN	Sconfiggi gli emblemi Chrom e Daraen.
+MTID_StartupTile	Attivatore
+MTID_MagicWall	Muro magico
+MTID_Pond	Stagno
+MPID_PhantomWolf	Creatura
+MPID_H_PhantomWolf	Mostro senza anima, creato con una\ntecnica segreta. Non ha volontà\npropria ed esegue soltanto gli ordini.
+MPID_Veronica	Veronica
+MPID_H_Veronica	L'emblema degli Eroi. Principessa\nin grado di controllare eroi di altri\nmondi.
+MPID_Chrom	Chrom
+MPID_H_Chrom	L'emblema dei Legami. Un principe\nEletto che si fida dei suoi alleati\ne vuole cambiare il destino.
+MPID_Reflet	Daraen
+MPID_H_Reflet	L'emblema dei Legami. Uno\nstratega che ha perduto la memoria,\nma non la sua abilità tattica.
+MGID_Veronica	Veronica
+MGID_H_Veronica	L'emblema degli Eroi. Possiede\ngrandi poteri magici e combatte\ncon tomi e bastoni.
+MGID_H_EnemyVeronica	Un emblema risvegliatosi dal\nbracciale dell'Erede Solitaria.
+MGID_Chrom	Chrom
+MGID_H_Chrom	L'emblema dei Legami. Annienta\ni nemici con la forza della spada\ne dei legami con i suoi alleati.
+MGID_H_EnemyChrom	Un emblema risvegliatosi dal\nbracciale dell'Eletto.
+MGID_Reflet	Daraen
+MGEID_Veronica	Eroi
+MGEID_Chrom	Legami
+MJID_MageCannon	Mago artigliere
+MJID_H_MageCannon	Un soldato di fanteria armato di\ncannone portatile. Lancia attacchi\na lungo raggio.
+MJID_PhantomWolf	Lupo illusorio
+MJID_H_PhantomWolf	Lupo che si muove agilmente.\nConfonde il nemico e lo assale\ncon zanne maledette.
+MIID_Trahison	Représailles
+MIID_H_Trahison	Lancia da battaglia che emana\nun'aura ultraterrena.
+MIID_Levanche	Revanche
+MIID_H_Levanche	Ascia da battaglia che emana\nun'aura ultraterrena.
+MIID_Chocolate	Lama fondente
+MIID_H_Chocolate	Spada dal dolce profumo. Se usata\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_SoftCream	Gelancia
+MIID_H_SoftCream	Lancia dal dolce profumo. Se usata\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_Lollipop	Mozzalecca
+MIID_H_Lollipop	Ascia dal dolce profumo. Se usata\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_Croissant	Arcornetto
+MIID_H_Croissant	Arco dal dolce profumo. Se usato\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_Tiramisu	Tiramistero
+MIID_H_Tiramisu	Tomo dal dolce profumo. Se usato\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_Dango	Lamamella
+MIID_H_Dango	Coltello dal dolce profumo. Se usato\ncome strumento, svanisce facendo\nrecuperare PS.
+MIID_Cupcake	Dolcinferno
+MIID_H_Cupcake	Bastone dal dolce profumo.\nFa recuperare PS a un alleato.
+MIID_Rollcake	Pergamenta
+MIID_H_Rollcake	Pergamena dal dolce profumo. Se\nusata come strumento, svanisce\nfacendo recuperare PS.
+MIID_Bullet_Power	Bomba normale
+MIID_H_Bullet_Power	Bomba normale. Non ha attacco\ndoppio. Clp ridotto da lontano.
+MIID_Bullet_Magic	Bomba magica
+MIID_H_Bullet_Magic	Bomba magica. Non ha attacco\ndoppio. Clp ridotto da lontano.
+MIID_Bullet_Freeze	Bomba gelata
+MIID_H_Bullet_Freeze	Bomba magica con 50% probabilità\ndi congelare il nemico. No attacco\ndoppio. Clp ridotto da lontano.
+MIID_Bullet_Silence	Bomba silente
+MIID_H_Bullet_Silence	Bomba magica con 50% probabilità\ndi silenziare il nemico. No attacco\ndoppio. Clp ridotto da lontano.
+MIID_Bullet_Collapse	Bomba breccia
+MIID_H_Bullet_Collapse	Bomba magica con 50% probabilità\ndi fare breccia al nemico. No attacco\ndoppio. Clp ridotto da lontano.
+MIID_Bullet_Poison	Bomba velenosa
+MIID_H_Bullet_Poison	Bomba magica che avvelena il\nnemico. No attacco doppio.\nClp ridotto da lontano.
+MIID_Bullet_Slayer_Fly	Bomba tornado
+MIID_H_Bullet_Slayer_Fly	Bomba con la magia del vento.\nNo attacco doppio. Clp ridotto da\nlontano. Efficace contro volanti.
+MIID_Bullet_Slayer_Armor	Bomba corazzata
+MIID_H_Bullet_Slayer_Armor	Bomba per nemici corazzati.\nNo attacco doppio. Clp ridotto da\nlontano. Efficace contro corazzati.
+MIID_Bullet_Slayer_Horse	Bomba cavalcante
+MIID_H_Bullet_Slayer_Horse	Bomba per nemici a cavallo.\nNo attacco doppio. Clp ridotto da\nlontano. Efficace contro cavalleria.
+MIID_Bullet_Slayer_Dragon	Bomba draconica
+MIID_H_Bullet_Slayer_Dragon	Bomba per draghi.\nNo attacco doppio. Clp ridotto da\nlontano. Efficace contro draghi.
+MIID_Bullet_Slayer_Morph	Bomba sacra
+MIID_H_Bullet_Slayer_Morph	Bomba per aberrazioni.\nNo attacco doppio. Clp ridotto da\nlontano. Efficace contro aberrazioni.
+MIID_Bullet_Power+	Bomba potente
+MIID_H_Bullet_Power+	Bomba ad alta potenza.\nNo attacco doppio. Clp ridotto da\nlontano.
+MIID_Bullet_Magic+	Bomba mirabile
+MIID_H_Bullet_Magic+	Bomba magica ad alta potenza.\nNo attacco doppio. Clp ridotto da\nlontano.
+MIID_Bullet_Penetration	Bomba penetrante
+MIID_H_Bullet_Penetration	Bomba che ignora Dif/Res\ndel nemico. No attacco doppio.\nClp ridotto da lontano.
+MIID_Fang	Zanne
+MIID_H_Fang	Se l'unità inizia lo scontro e va a\nsegno, infligge PS max -5 alla fine\ndello scontro (massimo -20).
+MIID_Veronica_Hlidskjalf	Hliðskjálf
+MIID_H_Veronica_Hlidskjalf	Bastone dell'emblema Veronica.\nSe l'unità inizia lo scontro, il nemico\nnon può contrattaccare.
+MIID_Veronica_WholeHeal	Balsamo+
+MIID_H_Veronica_WholeHeal	Bastone dell'emblema Veronica.\nRipristina PS e stati alterati per tutti\ngli alleati nel raggio di 7 spazi.
+MIID_Veronica_Elivagar	Élivágar
+MIID_H_Veronica_Elivagar	Potente magia dell'embl. Veronica.\nAnnulla bonus a parametri base del\nnemico per 1 turno dopo lo scontro.
+MIID_Veronica_EngageAtk_R	Pietra rossa
+MIID_Veronica_EngageAtk_B	Pietra blu
+MIID_Veronica_EngageAtk_G	Pietra verde
+MIID_Veronica_EngageAtk_N	Pietra neutra
+MIID_Chrom_ThunderSword	Spada folgore
+MIID_H_Chrom_ThunderSword	Spada magica dell'emblema Daraen.\nPuò colpire i nemici da lontano\ncon un lampo magico.
+MIID_Chrom_Thoron	Thoron
+MIID_H_Chrom_Thoron	Potente magia del tuono\ndell'emblema Daraen.
+MIID_Chrom_Falchion	Falchion
+MIID_H_Chrom_Falchion	Spada magica dell'emblema Chrom.\nEfficace contro i draghi.
+MSID_SPConvert	Conversione PA
+MSID_H_SPConvert	Conferisce +20 PA per ogni nemico\nsconfitto. Funziona anche senza\nun anello o un bracciale attivo.
+MSID_BloodyRevenge	Rappresaglia
+MSID_H_BloodyRevenge	Se l'unità non ha tutti i PS, il 30%\ndei PS mancanti si aggiunge al valore\ndi Att.
+MSID_BloodyRevenge+	Rappresaglia+
+MSID_H_BloodyRevenge+	Se l'unità non ha tutti i PS, il 50%\ndei PS mancanti si aggiunge al valore\ndi Att.
+MSID_BreakThroughLimit	Spinta livello
+MSID_H_BreakThroughLimit	Il livello dell'unità aumenta di 1 fino\nalla fine della battaglia per ogni\nnemico di livello più alto del proprio\nsconfitto (max +3 livelli).
+MSID_AnotherWorldsPower	Libro dei mondi
+MSID_H_AnotherWorldsPower	Per ogni turno in cui l'unità attende\nsenza azioni, "Libro dei mondi"\naumenta di un livello (max 5).\nQuando l'unità lancia l'effetto, "Libro\ndei mondi" torna al livello I.
+MSID_AnotherWorldsPower+1	Libro I: Sigillo
+MSID_H_AnotherWorldsPower+1	Se l'unità inizia lo scontro, dopo lo\nscontro congela il nemico.
+MSID_AnotherWorldsPower+2	Libro II: Fiamma
+MSID_H_AnotherWorldsPower+2	Se l'unità inizia lo scontro, dopo lo\nscontro congela il nemico e incendia\nil suo spazio.
+MSID_AnotherWorldsPower+3	Libro III: Morte
+MSID_H_AnotherWorldsPower+3	Se l'unità inizia lo scontro, dopo lo\nscontro congela il nemico, gli infligge\n10 danni e incendia il suo spazio.
+MSID_AnotherWorldsPower+4	Libro IV: Sogno
+MSID_H_AnotherWorldsPower+4	Se l'unità inizia lo scontro, recupera\nPS pari al danno inflitto. Dopo lo\nscontro congela il nemico, gli infligge\n10 danni e incendia il suo spazio.
+MSID_AnotherWorldsPower+5	Libro V: Scienza
+MSID_H_AnotherWorldsPower+5	Se l'unità inizia lo scontro, recupera\nPS pari al danno inflitto, per sé e gli\nalleati adiacenti. Dopo lo scontro\ncongela il nemico, gli infligge\n10 danni e incendia il suo spazio.
+MSID_VeronicaEngage	Contratto
+MSID_H_VeronicaEngage	Usa il comando per dare un'azione\nextra (non movimento) a un alleato\nadiacente che ha già agito.
+MSID_H_VeronicaEngage_CMD	L'alleato può agire di nuovo\n(ma non spostarsi).
+MSID_H_VeronicaEngage_Dragon	Usa il comando per dare un'azione\nextra (non movimento) a un alleato\nadiacente che ha già agito.\nDraghi: l'alleato ottiene Forz, Mag,\nDif e Res +2 durante l'azione.
+MSID_H_VeronicaEngage_Coop	Usa il comando per dare un'azione\nextra (non movimento) a un alleato\nadiacente che ha già agito.\nSupporto: attacco concatenato\ndurante l'azione dell'alleato.
+MSID_H_VeronicaEngage_Covert	Usa il comando per dare un'azione\nextra (non movimento) a un alleato\nadiacente che ha già agito.\nFurtivi: l'alleato ottiene Clp e\nScv +30 durante l'azione.
+MSID_VeronicaEngageAtk	Evoca eroe
+MSID_H_VeronicaEngageAtk	Evoca un'unità a caso.
+MSID_H_VeronicaEngageAtk_CMD	Evoca un'unità a caso.
+MSID_VeronicaEngageAtk_CMD_R	\x0E\x08\x02\x12\x10RedStone Pietra rossa
+MSID_H_VeronicaEngageAtk_CMD_R	Evoca un'unità che usa\nla spada.
+MSID_VeronicaEngageAtk_CMD_B	\x0E\x08\x02\x14\x12BlueStone Pietra blu
+MSID_H_VeronicaEngageAtk_CMD_B	Evoca un'unità che usa\nla lancia.
+MSID_VeronicaEngageAtk_CMD_G	\x0E\x08\x02\x16\x14GreenStone Pietra verde
+MSID_H_VeronicaEngageAtk_CMD_G	Evoca un'unità che usa\nl'ascia.
+MSID_VeronicaEngageAtk_CMD_W	\x0E\x08\x02\x16\x14WhiteStone Pietra neutra
+MSID_H_VeronicaEngageAtk_CMD_W	Evoca un'unità che non usa\nspada, lancia o ascia.
+MSID_H_VeronicaEngageAtk_Dragon	Evoca un'unità a caso.\nDraghi: evoca un'unità potente.
+MSID_H_VeronicaEngageAtk_Coop	Evoca un'unità a caso.\nSupporto: evoca un'unità con\nl'abilità Doppio colpo.
+MSID_H_VeronicaEngageAtk_Horse	Evoca un'unità a caso.\nSupporto: l'unità evocata ottiene\nMov +1.
+MSID_ByForce	Forza bruta
+MSID_H_ByForce	Quando l'unità effettua un attacco\nfisico, incrementa il danno causato\ndal colpo triplo.
+MSID_Charisma	Malia
+MSID_H_Charisma	Se l'attacco dell'unità innesca un\nattacco concatenato, la probabilità\nche l'attacco concatenato vada a\nsegno sale al 90%.
+MSID_SuckerPunch	Agguato
+MSID_H_SuckerPunch	Se l'unità attacca da un terreno\ncon bonus Scv, non subisce\ncontrattacchi.
+MSID_RainbowCry	Grido di battaglia
+MSID_H_RainbowCry	Usa il comando per incrementare\ndi 3 i 7 parametri base degli alleati\nadiacenti per 1 turno.
+MSID_Rooting	Grida
+MSID_H_Rooting_CMD	Incrementa di 3 i 7 parametri\nbase degli alleati adiacenti.
+MSID_RainbowCry+	Grido di battaglia+
+MSID_H_RainbowCry+	Usa il comando per incrementare\ndi 3 i 7 parametri base degli alleati\nnel raggio di 2 spazi per 1 turno.
+MSID_Rooting+	Grida+
+MSID_H_Rooting+_CMD	Incrementa di 3 i 7 parametri\nbase degli alleati entro 2 spazi.
+MSID_ChromEngage	Altra metà
+MSID_H_ChromEngage	Se l'unità inizia lo scontro, Daraen\nsferra un attacco concatenato.\nMag +10.
+MSID_H_ChromEngage_Dragon	Se l'unità inizia lo scontro, Daraen\nsferra un attacco concatenato.\nMag +10.\nDraghi: Daraen sferra l'attacco\nconcatenato 2 volte.
+MSID_H_ChromEngage_Coop	Se l'unità inizia lo scontro, Daraen\nsferra un attacco concatenato.\nMag +10.\nRinforzo: l'attacco concatenato va\nsicuramente a segno.
+MSID_H_ChromEngage_Covert	Se l'unità inizia lo scontro, Daraen\nsferra un attacco concatenato.\nMag +10.\nFurtivi: Mov +1.
+MSID_H_ChromEngage_Single	Gli attacchi concatenati causati\nda questa unità vanno sicuramente\na segno. Forz +5, Mag +10.
+MSID_ChromEngageAtk	Spada arcifolgore
+MSID_H_ChromEngageAtk	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada.
+MSID_H_ChromEngageAtk_Dragon	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada.\nDraghi: aggiunge 50% di Forz\nal danno.
+MSID_H_ChromEngageAtk_Fly	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada.\nVolanti: aggiunge Cost al danno.
+MSID_H_ChromEngageAtk_Magic	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada.\nMistici: aggiunge 50% Mag al danno.
+MSID_H_ChromEngageAtk_CMD	Attacca con spada magica.
+MSID_ChromEngageAtk+	Spada arcifolgore+
+MSID_H_ChromEngageAtk+	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada. Alleati adiacenti\nsferrano attacco concatenato.
+MSID_H_ChromEngageAtk+_Dragon	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada. Alleati adiacenti\nsferrano attacco concatenato.\nDraghi: aggiunge 50% Forz al danno.
+MSID_H_ChromEngageAtk+_Fly	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada. Alleati adiacenti\nsferrano attacco concatenato.\nVolanti: aggiunge Cost al danno.
+MSID_H_ChromEngageAtk+_Magic	Attacca con spada magica. Attacco\nmagico che usa la potenza di attacco\nfisico. Solo spada. Alleati adiacenti\nsferrano attacco concatenato.\nMistici: aggiunge 50% Mag al danno.
+MSID_H_ChromEngageAtk+_CMD	Gli alleati adiacenti sferrano\nattacco concatenato.
+MSID_Mag_Tec_1	Mag/Des +1
+MSID_H_Mag_Tec_1	Incrementa Mag e Des di 1.
+MSID_Mag_Tec_2	Mag/Des +2
+MSID_H_Mag_Tec_2	Incrementa Mag e Des di 2.
+MSID_Mag_Tec_3	Mag/Des +3
+MSID_H_Mag_Tec_3	Incrementa Mag e Des di 3.
+MSID_Mag_Tec_4	Mag/Des +4
+MSID_H_Mag_Tec_4	Incrementa Mag e Des di 4.
+MSID_Mag_Tec_5	Mag/Des +5
+MSID_H_Mag_Tec_5	Incrementa Mag e Des di 5.
+MSID_Tec_Spd_1	Vel/Des +1
+MSID_H_Tec_Spd_1	Incrementa Vel e Des di 1.
+MSID_Tec_Spd_2	Vel/Des +2
+MSID_H_Tec_Spd_2	Incrementa Vel e Des di 2.
+MSID_Tec_Spd_3	Vel/Des +3
+MSID_H_Tec_Spd_3	Incrementa Vel e Des di 3.
+MSID_Tec_Spd_4	Vel/Des +4
+MSID_H_Tec_Spd_4	Incrementa Vel e Des di 4.
+MSID_Tec_Spd_5	Vel/Des +5
+MSID_H_Tec_Spd_5	Incrementa Vel e Des di 5.
+MSID_AntiKnifeArts_1	Para coltello 1
+MSID_H_AntiKnifeArts_1	Se l'unità affronta un nemico armato\ndi coltello, subisce 1 danno in meno.
+MSID_AntiKnifeArts_2	Para coltello 2
+MSID_H_AntiKnifeArts_2	Se l'unità affronta un nemico armato\ndi coltello, subisce 2 danni in meno.
+MSID_AntiKnifeArts_3	Para coltello 3
+MSID_H_AntiKnifeArts_3	Se l'unità affronta un nemico armato\ndi coltello, subisce 3 danni in meno.
+MSID_AntiKnifeArts_4	Para coltello 4
+MSID_H_AntiKnifeArts_4	Se l'unità affronta un nemico armato\ndi coltello, subisce 4 danni in meno.
+MSID_AntiKnifeArts_5	Para coltello 5
+MSID_H_AntiKnifeArts_5	Se l'unità affronta un nemico armato\ndi coltello, subisce 5 danni in meno.
+MSID_AntiSwordArts_1	Para spada 1
+MSID_H_AntiSwordArts_1	Se l'unità affronta un nemico armato\ndi spada, subisce 1 danno in meno.
+MSID_AntiSwordArts_2	Para spada 2
+MSID_H_AntiSwordArts_2	Se l'unità affronta un nemico armato\ndi spada, subisce 2 danni in meno.
+MSID_AntiSwordArts_3	Para spada 3
+MSID_H_AntiSwordArts_3	Se l'unità affronta un nemico armato\ndi spada, subisce 3 danni in meno.
+MSID_AntiSwordArts_4	Para spada 4
+MSID_H_AntiSwordArts_4	Se l'unità affronta un nemico armato\ndi spada, subisce 4 danni in meno.
+MSID_AntiSwordArts_5	Para spada 5
+MSID_H_AntiSwordArts_5	Se l'unità affronta un nemico armato\ndi spada, subisce 5 danni in meno.
+MSID_JobSkill_MageCanon	Scarica
+MSID_H_JobSkill_MageCanon	Usa il comando per effettuare un\nattacco a riuscita garantita su\nun'area d'effetto all'inizio della\nprossima fase giocatore.\nL'unità perde l'arma attiva.
+MSID_H_JobSkill_MageCanon_CMD	Scarica a lungo raggio che\nva sicuramente a segno.
+MSID_JobSkill_Wolf	Caccia in branco
+MSID_H_JobSkill_Wolf	Gli alleati nel raggio di 3 spazi con la\nstessa classe dell'unità partecipano\na un attacco concatenato.
+MID_BONDSRING_Chrom00	Principe del regno di Ylisse,\nuna terra di un altro mondo.
+MID_BONDSRING_Chrom01	Con la spada sacra Falchion, si fece\nstrada verso un futuro di speranza.
+MID_BONDSRING_Reflet00	Misterioso forestiero accolto da\nChrom, con il quale fece amicizia.
+MID_BONDSRING_Reflet01	Le fiamme della battaglia forgiarono\nil loro legame indistruttibile.
+MID_BONDSRING_Veronica00	Figlia dell'imperatore di Embla,\nuna terra di un altro mondo.
+MID_BONDSRING_Veronica01	Il suo atteggiamento calmo non può\ncelare la sua aura inquietante.
+MGID_Ring_Chrom	Bracciale dell'Eletto
+MGID_H_Ring_Chrom	Bracciale in cui dorme Chrom,\nprincipe Eletto che si fida degli\nalleati e vuole cambiare il destino.
+MGID_Ring_Reflet	Bracciale dell'Eletto
+MGID_H_Ring_Reflet	Bracciale in cui dorme Daraen,\nstratega che ha perso la memoria,\nma non le sue abilità tattiche.
+MGID_Ring_Veronica	Bracciale dell'Erede Solitaria
+MGID_H_Ring_Veronica	Bracciale in cui dorme Veronica,\nprincipessa con il potere di\ncontrollare eroi di altri mondi.
+MGID_World_Chrom	Mondo dell'Eletta
+MGID_World_Reflet	Mondo dell'Eletta
+MGID_World_Veronica	Mondo dell'Erede Solitaria
+MID_RELAY_Stamp_Chrom_0	Puoi contare sempre su di me.
+MID_RELAY_Stamp_Reflet_0	Serve una nuova strategia...
+MID_RELAY_Stamp_Veronica_0	Quanti siete... non vale.
+MID_BGM_DLC_Field_S16_Combat_ST_Play	Ordalia eroica (ascolta l'evocazione)
+MID_BGM_DLC_Field_S16_Map_ST_Play	Ordalia eroica
+MID_BGM_Evt_Advent_Veronica_ST_Play	Ascolta l'evocazione
+MID_Hub_Well	Pozzo antico
+MID_Hub_Area_Event	Nuovo evento
+MID_Hub_Area_ItemReturn	Nuovi strumenti
+MID_Hub_Well_TitleHelp	Seleziona un'azione.
+MID_Hub_Well_ItemExchange	Converti strumenti
+MID_Hub_Well_ItemExchange_TitleHelp	Scegli ciò che non ti serve.
+MID_Hub_Well_ItemExchange_Expected	Aspettativa
+MID_Hub_Well_ItemExchange_Dialog_Title	Vuoi convertire questi strumenti?
+MID_Hub_Well_ItemExchange_Dialog_Before	Strumenti da gettare
+MID_Hub_Well_ItemExchange_Dialog_Yes	Converti
+MID_Hub_Well_ItemExchange_Get	Ottenuti
+MID_Hub_Well_ItemExchange_Message	Hai gettato qualcosa nel pozzo. Torna dopo la\nprossima battaglia per ottenere qualcosa di\nnuovo.
+MID_Hub_Well_Nothing1	Percepisci una presenza misteriosa...
+MID_Hub_Well_Nothing2	Non c'è niente qui.
+PCTMID_Chrom	"Conta su di me."
+PCTMID_Reflet	"Serve una strategia..."
+PCTMID_Veronica	"Mi apparterrai..."
+MID_Movie_K19	Emblema Veronica
+MID_H_Movie_K19	Emblema Veronica, evocata dall'interno\ndel bracciale dell'Erede Solitaria.
+MID_Movie_K18	Emblema Chrom
+MID_H_Movie_K18	Emblema Chrom, evocato dall'interno\ndel bracciale dell'Eletto.
+MID_MAP_HIS_EngageSummon	\x0E\x01\x00\x00 ha usato Evoca eroe.
+MID_MAP_HIS_Contract	\x0E\x01\x00\x00 ha usato Contratto.
+MID_MAP_HIS_FullBullet	\x0E\x01\x00\x00 ha usato Scarica.

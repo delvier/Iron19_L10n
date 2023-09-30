@@ -1,0 +1,49 @@
+MID_SAVEDATA_CONFIRM_CLEARDATA	Voulez-vous créer un fichier de jeu terminé ?\n(Votre armée sera comme elle était avant\nle chapitre 26, mais il y aura une trace\nattestant que vous l'avez terminé.)
+MID_SAVEDATA_CONFIRM_WRITING	Sauvegarder votre progression ?
+MID_SAVEDATA_CONFIRM_SKIP_WRITING	Continuer sans sauvegarder ?
+MID_SAVEDATA_CONFIRM_SKIP_YES	Continuer
+MID_SAVEDATA_CONFIRM_SUSPEND	Sauvegarder et retourner à l'écran titre ?
+MID_SAVEDATA_CONFIRM_SUSPEND_LOAD	Si vous quittez le jeu après avoir chargé\nces données de sauvegarde sans effectuer\nde nouveau signet, votre partie reprendra\nau début de la bataille.
+MID_SAVEDATA_CONFIRM_SUSPEND_COPY	Vous ne pouvez pas copier le signet.
+MID_SAVEDATA_CONFIRM_COPY	Copier les données de sauvegarde ?
+MID_SAVEDATA_CONFIRM_COPY_YES	Copier
+MID_SAVEDATA_CONFIRM_DELETE	Effacer les données de sauvegarde ?
+MID_SAVEDATA_CONFIRM_DELETE_YES	Effacer
+MID_SAVEDATA_READING	Chargement des données de sauvegarde...\nN'éteignez pas la console.
+MID_SAVEDATA_WRITING	Sauvegarde de votre progression...\nN'éteignez pas la console.
+MID_SAVEDATA_COPYING	Copie des données de sauvegarde...\nN'éteignez pas la console.
+MID_SAVEDATA_DELETING	Effacement des données de sauvegarde...\nN'éteignez pas la console.
+MID_SAVEDATA_LOAD_FAILED	Impossible de charger les données\nde sauvegarde.
+MID_SAVEDATA_VERSION_ERROR	Les données de sauvegarde proviennent\nd'une version différente du jeu. Il est\nimpossible de les charger.\nVeuillez mettre le jeu à jour.
+MID_SAVEDATA_SAVE_FAILED	Impossible de sauvegarder la progression.
+MID_SAVEDATA_COPY_FAILED	Impossible de copier les données\nde sauvegarde.
+MID_SAVEDATA_DELETE_FAILED	Impossible d'effacer les données\nde sauvegarde.
+MID_SAVEDATA_OLD_VERSION	Le chargement des données de sauvegarde\na échoué. Veuillez quitter puis relancer\nle logiciel, ou télécharger la dernière\nversion depuis le Nintendo eShop.
+MID_SAVEDATA_NO_DATA	Aucune donnée de sauvegarde.
+MID_SAVEDATA_TYPE_AUTO	Sauv. auto.
+MID_SAVEDATA_TYPE_MANUAL	Empl. \x0E\x01\x00\x00
+MID_SAVEDATA_SEQ_SORTIE	Avt bataille
+MID_SAVEDATA_SEQ_BMAP	Pdt bataille
+MID_SAVEDATA_SEQ_BMAP_AFTER	Apr bataille
+MID_SAVEDATA_SEQ_SORTIE_ENCOUNT	Avt escarmouche
+MID_SAVEDATA_SEQ_BMAP_ENCOUNT	Pdt escarmouche
+MID_SAVEDATA_SEQ_ENCOUNT_AFTER	Apr escarmouche
+MID_SAVEDATA_SEQ_SORTIE_TRAINING	Avt entraînement
+MID_SAVEDATA_SEQ_BMAP_TRAINING	Pdt entraînement
+MID_SAVEDATA_SEQ_TRAINING_AFTER	Apr entraînement
+MID_SAVEDATA_SEQ_KIZUNA	Exploration
+MID_SAVEDATA_SEQ_HUB	Somniel
+MID_SAVEDATA_SEQ_GMAP	Carte monde
+MID_SAVEDATA_LOAD_YES	Charger
+MID_SAVEDATA_LOAD_HELP	Sélectionnez un emplacement.
+MID_SAVEDATA_SAVE_TITLE	Sauvegarder
+MID_SAVEDATA_SAVE_HELP	Sélectionnez un emplacement.
+MID_SAVEDATA_SAVE_YES	Sauvegarder
+MID_SAVEDATA_SUSPEND_TITLE	Signet
+MID_SAVEDATA_SUSPEND_HELP	Sélectionnez un emplacement.
+MID_SAVEDATA_SUSPEND_YES	Signet
+MID_SAVEDATA_COPY_TITLE	Copier
+MID_SAVEDATA_COPY_SRC_HELP	Sélectionnez l'emplacement à copier.
+MID_SAVEDATA_COPY_DST_HELP	Sélectionnez la destination.
+MID_SAVEDATA_DELETE_TITLE	Effacer
+MID_SAVEDATA_DELETE_HELP	Sélectionnez un emplacement.

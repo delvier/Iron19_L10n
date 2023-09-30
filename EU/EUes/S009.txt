@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08リュール\nHay algo... antinatural en este sitio.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08シグルド\n¿Tú también lo sientes? Por alguna razón,\neste lugar se parece mucho a Chalphy.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Chalphy? ¿Es un lugar de tu mundo?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08シグルド\nEso es. Procedo de allí...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08シグルド\nMi sueño era vivir allí tranquilamente\njunto a mi esposa, Deirdre.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\n¿Y qué ocurrió?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08シグルド\nLos seguidores de un culto malvado la raptaron\ny doblegaron su voluntad para usar su poder.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08シグルド\nLa obligaron a resucitar a un dios malvado\ne iniciar una era de oscuridad...\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\n¿Cómo? ¡Eso es terrible!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08シグルド\nSí, aunque la luz de la esperanza en un futuro\nmejor nunca se apagó del todo...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Y eso?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08シグルド\nCompartiré contigo el resto de la historia\ncuando superes la prueba.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08シグルド\nSaca tu arma \x0E\x06\x03\x00,\npues vas a enfrentarte a mí.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08シグルド\nSi superas este desafío, nuestro vínculo se hará\nmás fuerte. Mi poder será tuyo.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nY seguramente habrá un motivo para luchar\nen este lugar que tanto se parece a tu hogar.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08シグルド\nAsí es. ¡Demuéstrame que tu destreza\nes superior a la mía!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nTe venceré, Sigurd.\n¡Lucharé con todas mis fuerzas!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nAquí comienza la prueba:\nalcánzame y reclama la victoria.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nPara llegar hasta Sigurd tendremos\nque cruzar el puente.\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x02\x0A\x08リュール\nY, si capturamos esa fortaleza,\npodremos aprovecharla en nuestro beneficio.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEl general de la fortaleza ha caído. ¡El puente\nes nuestro! Descansemos un minuto, Divinidad.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x16\x08シグルド\nRelax\n\x0E\x03\x02\x0A\x08シグルド\n¿Para qué te juegas la vida? ¿Cómo crees\nque será el mundo cuando acabe la guerra?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nDeseo un mundo en paz... ¡para mí,\npara mis amigos y para todos!\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x0A\x08リュール\nLo construiremos juntos. Y, en él, nadie sufrirá\npor la avaricia de otros.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nSe necesita poder para hacer que los sueños\nse cumplan. Demuéstrame que tú lo posees.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1A\nヴァンドレ\x0CStatus\n\x0E\x03\x02\x0C\nヴァンドレ\nNo es la primera vez que cruzamos espadas.\n¿Recuerdas las prácticas con lady Lumera?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08シグルド\x02b\n\x0E\x05\x01\x1A\x08シグルド\x0ESerious\n\x0E\x03\x02\x0A\x08シグルド\nPues claro, ¿cómo podría olvidarlas?\nPero esos días quedaron atrás.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08シグルド\nAngry\n\x0E\x03\x02\x0A\x08シグルド\nTenemos que avanzar juntos hacia el futuro. No\ndejaremos que sus deseos caigan en saco roto.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\nヴァンドレ\x0CStrike\n\x0E\x03\x02\x0C\nヴァンドレ\nPrepárate, Sigurd. ¡Este golpe\nse lo dedico a la reina Lumera!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0E\x08シグルド\x022\n\x0E\x03\x02\x0A\x08シグルド\nBien hecho, has superado la prueba\nhaciendo alarde de una gran habilidad.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nNo lo he hecho sol\x0E\x0A\x00\x08\x02o\x02a. Todos hemos\nparticipado en esta victoria.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08シグルド\nCorrecto. Amigos, aliados, familia... Quienes\ncomparten vínculos contigo te otorgan fuerza.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08シグルド\nLlegó el momento de la verdad.\n¿Deseas vengar la muerte de Lumera, tu madre?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nYo...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nCuando la perdí, sentí tristeza... y rabia.\nCreí que nunca podría perdonar a quien\nle había quitado la vida.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nMe has preguntado si quiero venganza...\nSinceramente, ya no lo sé...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08シグルド\nYo perdí a muchos amigos y familiares\nen batalla y, aun así, no siento ningún rencor.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08シグルド\nConozco bien el sufrimiento...\nY también sé que no hay una única verdad.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08シグルド\nEso le enseñé a mi hijo, Seliph, con la esperanza\nde que le sirviese de guía en el futuro.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Tu hijo? ¿Tuviste un hijo con Deirdre?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08シグルド\nAsí es. Y ahora escúchame con atención...\nTus convicciones son nobles y honorables.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08シグルド\nSabiendo que el dolor, la justicia y la verdad\nson subjetivos, ¿podrás luchar con convicción?\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nPor supuesto. Me aseguraré de que esta guerra\nacabe y de que la paz reine.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08シグルド\nYo no habría podido decirlo mejor, amig\x0E\x0A\x00\x08\x02o\x02a.\nEs justo lo que esperaba oír.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08シグルド\nPermaneceré a tu lado y te protegeré\nhasta que la lucha termine.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

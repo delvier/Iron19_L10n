@@ -1,0 +1,924 @@
+MSID_Hp_5	PV + 5
+MSID_H_Hp_5	Otorga PV máx. + 5.
+MSID_Hp_7	PV + 7
+MSID_H_Hp_7	Otorga PV máx. + 7.
+MSID_Hp_10	PV + 10
+MSID_H_Hp_10	Otorga PV máx. + 10.
+MSID_Hp_12	PV + 12
+MSID_H_Hp_12	Otorga PV máx. + 12.
+MSID_Hp_15	PV + 15
+MSID_H_Hp_15	Otorga PV máx. + 15.
+MSID_Str_1	Fuerza + 1
+MSID_H_Str_1	Otorga Fue + 1.
+MSID_Str_2	Fuerza + 2
+MSID_H_Str_2	Otorga Fue + 2.
+MSID_Str_3	Fuerza + 3
+MSID_H_Str_3	Otorga Fue + 3.
+MSID_Str_4	Fuerza + 4
+MSID_H_Str_4	Otorga Fue + 4.
+MSID_Str_5	Fuerza + 5
+MSID_H_Str_5	Otorga Fue + 5.
+MSID_Str_6	Fuerza + 6
+MSID_H_Str_6	Otorga Fue + 6.
+MSID_Tec_1	Habilidad + 1
+MSID_H_Tec_1	Otorga Hab + 1.
+MSID_Tec_2	Habilidad + 2
+MSID_H_Tec_2	Otorga Hab + 2.
+MSID_Tec_3	Habilidad + 3
+MSID_H_Tec_3	Otorga Hab + 3.
+MSID_Tec_4	Habilidad + 4
+MSID_H_Tec_4	Otorga Hab + 4.
+MSID_Tec_5	Habilidad + 5
+MSID_H_Tec_5	Otorga Hab + 5.
+MSID_Spd_1	Velocidad + 1
+MSID_H_Spd_1	Otorga Vel + 1.
+MSID_Spd_2	Velocidad + 2
+MSID_H_Spd_2	Otorga Vel + 2.
+MSID_Spd_3	Velocidad + 3
+MSID_H_Spd_3	Otorga Vel + 3.
+MSID_Spd_4	Velocidad + 4
+MSID_H_Spd_4	Otorga Vel + 4.
+MSID_Spd_5	Velocidad + 5
+MSID_H_Spd_5	Otorga Vel + 5.
+MSID_Lck_2	Suerte + 2
+MSID_H_Lck_2	Otorga Sue + 2.
+MSID_Lck_4	Suerte + 4
+MSID_H_Lck_4	Otorga Sue + 4.
+MSID_Lck_6	Suerte + 6
+MSID_H_Lck_6	Otorga Sue + 6.
+MSID_Lck_8	Suerte + 8
+MSID_H_Lck_8	Otorga Sue + 8.
+MSID_Lck_10	Suerte + 10
+MSID_H_Lck_10	Otorga Sue + 10.
+MSID_Lck_12	Suerte + 12
+MSID_H_Lck_12	Otorga Sue + 12.
+MSID_Def_1	Defensa + 1
+MSID_H_Def_1	Otorga Def + 1.
+MSID_Def_2	Defensa + 2
+MSID_H_Def_2	Otorga Def + 2.
+MSID_Def_3	Defensa + 3
+MSID_H_Def_3	Otorga Def + 3.
+MSID_Def_4	Defensa + 4
+MSID_H_Def_4	Otorga Def + 4.
+MSID_Def_5	Defensa + 5
+MSID_H_Def_5	Otorga Def + 5.
+MSID_Mag_2	Magia + 2
+MSID_H_Mag_2	Otorga Mag + 2.
+MSID_Mag_3	Magia + 3
+MSID_H_Mag_3	Otorga Mag + 3.
+MSID_Mag_4	Magia + 4
+MSID_H_Mag_4	Otorga Mag + 4.
+MSID_Mag_5	Magia + 5
+MSID_H_Mag_5	Otorga Mag + 5.
+MSID_Res_2	Resistencia + 2
+MSID_H_Res_2	Otorga Res + 2.
+MSID_Res_3	Resistencia + 3
+MSID_H_Res_3	Otorga Res + 3.
+MSID_Res_4	Resistencia + 4
+MSID_H_Res_4	Otorga Res + 4.
+MSID_Res_5	Resistencia + 5
+MSID_H_Res_5	Otorga Res + 5.
+MSID_Phy_3	Constitución + 3
+MSID_H_Phy_3	Otorga Con + 3.
+MSID_Phy_4	Constitución + 4
+MSID_H_Phy_4	Otorga Con + 4.
+MSID_Phy_5	Constitución + 5
+MSID_H_Phy_5	Otorga Con + 5.
+MSID_Mov_1	Movimiento + 1
+MSID_H_Mov_1	Otorga Mov + 1.
+MSID_Avo_10	Esquivar + 10
+MSID_H_Avo_10	Otorga Esq + 10.
+MSID_Avo_15	Esquivar + 15
+MSID_H_Avo_15	Otorga Esq + 15.
+MSID_Avo_20	Esquivar + 20
+MSID_H_Avo_20	Otorga Esq + 20.
+MSID_Avo_25	Esquivar + 25
+MSID_H_Avo_25	Otorga Esq + 25.
+MSID_Avo_30	Esquivar + 30
+MSID_H_Avo_30	Otorga Esq + 30.
+MSID_Hit_10	Golpe + 10
+MSID_H_Hit_10	Otorga Gol + 10.
+MSID_Hit_15	Golpe + 15
+MSID_H_Hit_15	Otorga Gol + 15.
+MSID_Hit_20	Golpe + 20
+MSID_H_Hit_20	Otorga Gol + 20.
+MSID_Hit_25	Golpe + 25
+MSID_H_Hit_25	Otorga Gol + 25.
+MSID_Hit_30	Golpe + 30
+MSID_H_Hit_30	Otorga Gol + 30.
+MSID_CriAvo_10	Evitar + 10
+MSID_H_CriAvo_10	Otorga Evit + 10.
+MSID_CriAvo_15	Evitar + 15
+MSID_H_CriAvo_15	Otorga Evit + 15.
+MSID_CriAvo_20	Evitar + 20
+MSID_H_CriAvo_20	Otorga Evit + 20.
+MSID_CriAvo_25	Evitar + 25
+MSID_H_CriAvo_25	Otorga Evit + 25.
+MSID_CriAvo_30	Evitar + 30
+MSID_H_CriAvo_30	Otorga Evit + 30.
+MSID_SwordArts_Soft_1	Agilidad espada 1
+MSID_H_SwordArts_Soft_1	Si se usa una espada,\notorga Esq + 10 a costa de Crí - 10.
+MSID_SwordArts_Soft_2	Agilidad espada 2
+MSID_H_SwordArts_Soft_2	Si se usa una espada,\notorga Esq + 15 a costa de Crí - 10.
+MSID_SwordArts_Soft_3	Agilidad espada 3
+MSID_H_SwordArts_Soft_3	Si se usa una espada,\notorga Esq + 20 a costa de Crí - 10.
+MSID_SwordArts_Soft_4	Agilidad espada 4
+MSID_H_SwordArts_Soft_4	Si se usa una espada,\notorga Esq + 25 a costa de Crí - 10.
+MSID_SwordArts_Soft_5	Agilidad espada 5
+MSID_H_SwordArts_Soft_5	Si se usa una espada,\notorga Esq + 30 a costa de Crí - 10.
+MSID_SwordArts_Hard_1	Potencia espada 1
+MSID_H_SwordArts_Hard_1	Si se usa una espada,\notorga Ata + 2 a costa de Esq - 10.
+MSID_SwordArts_Hard_2	Potencia espada 2
+MSID_H_SwordArts_Hard_2	Si se usa una espada,\notorga Ata + 4 a costa de Esq - 10.
+MSID_SwordArts_Hard_3	Potencia espada 3
+MSID_H_SwordArts_Hard_3	Si se usa una espada,\notorga Ata + 6 a costa de Esq - 10.
+MSID_SwordArts_Hard_4	Potencia espada 4
+MSID_H_SwordArts_Hard_4	Si se usa una espada,\notorga Ata + 8 a costa de Esq - 10.
+MSID_SwordArts_Hard_5	Potencia espada 5
+MSID_H_SwordArts_Hard_5	Si se usa una espada,\notorga Ata + 10 a costa de Esq - 10.
+MSID_SwordArts_Mind_1	Enfoque espada 1
+MSID_H_SwordArts_Mind_1	Si se usa una espada,\notorga Gol + 10 a costa de Evit - 10.
+MSID_SwordArts_Mind_2	Enfoque espada 2
+MSID_H_SwordArts_Mind_2	Si se usa una espada,\notorga Gol + 15 a costa de Evit - 10.
+MSID_SwordArts_Mind_3	Enfoque espada 3
+MSID_H_SwordArts_Mind_3	Si se usa una espada,\notorga Gol + 20 a costa de Evit - 10.
+MSID_SwordArts_Mind_4	Enfoque espada 4
+MSID_H_SwordArts_Mind_4	Si se usa una espada,\notorga Gol + 25 a costa de Evit - 10.
+MSID_SwordArts_Mind_5	Enfoque espada 5
+MSID_H_SwordArts_Mind_5	Si se usa una espada,\notorga Gol + 30 a costa de Evit - 10.
+MSID_LanceArts_Soft_1	Agilidad lanza 1
+MSID_H_LanceArts_Soft_1	Si se usa una lanza,\notorga Esq + 10 a costa de Crí - 10.
+MSID_LanceArts_Soft_2	Agilidad lanza 2
+MSID_H_LanceArts_Soft_2	Si se usa una lanza,\notorga Esq + 15 a costa de Crí - 10.
+MSID_LanceArts_Soft_3	Agilidad lanza 3
+MSID_H_LanceArts_Soft_3	Si se usa una lanza,\notorga Esq + 20 a costa de Crí - 10.
+MSID_LanceArts_Soft_4	Agilidad lanza 4
+MSID_H_LanceArts_Soft_4	Si se usa una lanza,\notorga Esq + 25 a costa de Crí - 10.
+MSID_LanceArts_Soft_5	Agilidad lanza 5
+MSID_H_LanceArts_Soft_5	Si se usa una lanza,\notorga Esq + 30 a costa de Crí - 10.
+MSID_LanceArts_Hard_1	Potencia lanza 1
+MSID_H_LanceArts_Hard_1	Si se usa una lanza,\notorga Ata + 2 a costa de Esq - 10.
+MSID_LanceArts_Hard_2	Potencia lanza 2
+MSID_H_LanceArts_Hard_2	Si se usa una lanza,\notorga Ata + 4 a costa de Esq - 10.
+MSID_LanceArts_Hard_3	Potencia lanza 3
+MSID_H_LanceArts_Hard_3	Si se usa una lanza,\notorga Ata + 6 a costa de Esq - 10.
+MSID_LanceArts_Hard_4	Potencia lanza 4
+MSID_H_LanceArts_Hard_4	Si se usa una lanza,\notorga Ata + 8 a costa de Esq - 10.
+MSID_LanceArts_Hard_5	Potencia lanza 5
+MSID_H_LanceArts_Hard_5	Si se usa una lanza,\notorga Ata + 10 a costa de Esq - 10.
+MSID_AxeArts_Hard_1	Potencia hacha 1
+MSID_H_AxeArts_Hard_1	Si se usa un hacha,\notorga Ata + 2 a costa de Esq - 10.
+MSID_AxeArts_Hard_2	Potencia hacha 2
+MSID_H_AxeArts_Hard_2	Si se usa un hacha,\notorga Ata + 4 a costa de Esq - 10.
+MSID_AxeArts_Hard_3	Potencia hacha 3
+MSID_H_AxeArts_Hard_3	Si se usa un hacha,\notorga Ata + 6 a costa de Esq - 10.
+MSID_AxeArts_Hard_4	Potencia hacha 4
+MSID_H_AxeArts_Hard_4	Si se usa un hacha,\notorga Ata + 8 a costa de Esq - 10.
+MSID_AxeArts_Hard_5	Potencia hacha 5
+MSID_H_AxeArts_Hard_5	Si se usa un hacha,\notorga Ata + 10 a costa de Esq - 10.
+MSID_BowArts_Soft_1	Agilidad arco 1
+MSID_H_BowArts_Soft_1	Si se usa un arco,\notorga Esq + 10 a costa de Crí - 10.
+MSID_BowArts_Soft_2	Agilidad arco 2
+MSID_H_BowArts_Soft_2	Si se usa un arco,\notorga Esq + 15 a costa de Crí - 10.
+MSID_BowArts_Soft_3	Agilidad arco 3
+MSID_H_BowArts_Soft_3	Si se usa un arco,\notorga Esq + 20 a costa de Crí - 10.
+MSID_BowArts_Soft_4	Agilidad arco 4
+MSID_H_BowArts_Soft_4	Si se usa un arco,\notorga Esq + 25 a costa de Crí - 10.
+MSID_BowArts_Soft_5	Agilidad arco 5
+MSID_H_BowArts_Soft_5	Si se usa un arco,\notorga Esq + 30 a costa de Crí - 10.
+MSID_BowArts_Mind_1	Enfoque arco 1
+MSID_H_BowArts_Mind_1	Si se usa un arco,\notorga Gol + 10 a costa de Evit - 10.
+MSID_BowArts_Mind_2	Enfoque arco 2
+MSID_H_BowArts_Mind_2	Si se usa un arco,\notorga Gol + 15 a costa de Evit - 10.
+MSID_BowArts_Mind_3	Enfoque arco 3
+MSID_H_BowArts_Mind_3	Si se usa un arco,\notorga Gol + 20 a costa de Evit - 10.
+MSID_BowArts_Mind_4	Enfoque arco 4
+MSID_H_BowArts_Mind_4	Si se usa un arco,\notorga Gol + 25 a costa de Evit - 10.
+MSID_BowArts_Mind_5	Enfoque arco 5
+MSID_H_BowArts_Mind_5	Si se usa un arco,\notorga Gol + 30 a costa de Evit - 10.
+MSID_MartialArts_Mind_1	Enfoque arte 1
+MSID_H_MartialArts_Mind_1	Si se usa un arte,\notorga Gol + 10 a costa de Evit - 10.
+MSID_MartialArts_Mind_2	Enfoque arte 2
+MSID_H_MartialArts_Mind_2	Si se usa un arte,\notorga Gol + 15 a costa de Evit - 10.
+MSID_MartialArts_Mind_3	Enfoque arte 3
+MSID_H_MartialArts_Mind_3	Si se usa un arte,\notorga Gol + 20 a costa de Evit - 10.
+MSID_MartialArts_Mind_4	Enfoque arte 4
+MSID_H_MartialArts_Mind_4	Si se usa un arte,\notorga Gol + 25 a costa de Evit - 10.
+MSID_MartialArts_Mind_5	Enfoque arte 5
+MSID_H_MartialArts_Mind_5	Si se usa un arte,\notorga Gol + 30 a costa de Evit - 10.
+MSID_KnifeArts_1	Precisión daga 1
+MSID_H_KnifeArts_1	Si se usa una daga,\notorga Gol y Esq + 3.
+MSID_KnifeArts_2	Precisión daga 2
+MSID_H_KnifeArts_2	Si se usa una daga,\notorga Gol y Esq + 5.
+MSID_KnifeArts_3	Precisión daga 3
+MSID_H_KnifeArts_3	Si se usa una daga,\notorga Gol y Esq + 7.
+MSID_KnifeArts_4	Precisión daga 4
+MSID_H_KnifeArts_4	Si se usa una daga,\notorga Gol y Esq + 10.
+MSID_KnifeArts_5	Precisión daga 5
+MSID_H_KnifeArts_5	Si se usa una daga,\notorga Gol y Esq + 15.
+MSID_MagicArts_1	Precisión grimorio 1
+MSID_H_MagicArts_1	Si se usa un grimorio,\notorga Gol y Esq + 3.
+MSID_MagicArts_2	Precisión grimorio 2
+MSID_H_MagicArts_2	Si se usa un grimorio,\notorga Gol y Esq + 5.
+MSID_MagicArts_3	Precisión grimorio 3
+MSID_H_MagicArts_3	Si se usa un grimorio,\notorga Gol y Esq + 7.
+MSID_MagicArts_4	Precisión grimorio 4
+MSID_H_MagicArts_4	Si se usa un grimorio,\notorga Gol y Esq + 10.
+MSID_MagicArts_5	Precisión grimorio 5
+MSID_H_MagicArts_5	Si se usa un grimorio,\notorga Gol y Esq + 15.
+MSID_RodArts_1	Maestría bastón 1
+MSID_H_RodArts_1	Si se usa un bastón, otorga Gol + 10.\nLos bastones sanan 3 PV más.
+MSID_RodArts_2	Maestría bastón 2
+MSID_H_RodArts_2	Si se usa un bastón, otorga Gol + 15.\nLos bastones sanan 5 PV más.
+MSID_RodArts_3	Maestría bastón 3
+MSID_H_RodArts_3	Si se usa un bastón, otorga Gol + 20.\nLos bastones sanan 7 PV más.
+MSID_RodArts_4	Maestría bastón 4
+MSID_H_RodArts_4	Si se usa un bastón, otorga Gol + 25.\nLos bastones sanan 10 PV más.
+MSID_RodArts_5	Maestría bastón 5
+MSID_H_RodArts_5	Si se usa un bastón, otorga Gol + 30.\nLos bastones sanan 15 PV más.
+MSID_Outclass_1	Arrojo
+MSID_H_Outclass_1	Si la unidad inicia el enfrentamiento,\notorga Esq + 15. La Esq aumenta en\nfunción de la Vel.
+MSID_Outclass_2	Arrojo +
+MSID_H_Outclass_2	Si la unidad inicia el enfrentamiento,\notorga Esq + 30. La Esq aumenta en\nfunción de la Vel.
+MSID_Fortitude_1	Firmeza
+MSID_H_Fortitude_1	Al inicio del turno del jugador, si la\nunidad tiene el 20 % de PV o menos,\nrecupera el 20 % de sus PV máx.
+MSID_Fortitude_2	Firmeza +
+MSID_H_Fortitude_2	Al inicio del turno del jugador, si la\nunidad tiene el 30 % de PV o menos,\nrecupera el 30 % de sus PV máx.
+MSID_Fortitude_3	Firmeza ++
+MSID_H_Fortitude_3	Al inicio del turno del jugador, si la\nunidad tiene el 40 % de PV o menos,\nrecupera el 40 % de sus PV máx.
+MSID_MarthEngage	Celeridad divina
+MSID_H_MarthEngage	La unidad asesta un ataque extra\nal 50 % del daño normal.
+MSID_H_MarthEngage_Covert	La unidad asesta un ataque extra\nal 50 % del daño normal.\nFurtivo: Si el ataque extra acierta,\nenvenena al rival.
+MSID_H_MarthEngage_Dragon	La unidad asesta un ataque extra\nal 50 % del daño normal.\nDragón: La unidad recupera en PV\nel daño infligido por el ataque extra.
+MSID_BreakPursuit	Rompedefensas
+MSID_H_BreakPursuit	Si el ataque de la unidad causa\nel efecto ruptura en el rival, esta\nasesta un ataque extra al 50 %\ndel daño normal.
+MSID_MarthEngageAtk	Ráfaga Polaris
+MSID_H_MarthEngageAtk	Permite asestar 7 estocadas\nconsecutivas al 30 % del daño\nnormal. Solo enemigos adyacentes.
+MSID_H_MarthEngageAtk_Dragon	Permite asestar 7 estocadas\nconsecutivas al 30 % del daño\nnormal. Solo enemigos adyacentes.\nDragón: + 2 ataques.
+MSID_H_MarthEngageAtk_Coop	Permite asestar 7 estocadas\nconsecutivas al 30 % del daño\nnormal. Solo enemigos adyacentes.\nRefuerzo: + 1 ataque.
+MSID_H_MarthEngageAtk_Magic	Permite asestar 7 estocadas\nconsecutivas al 30 % del daño\nnormal. Solo enemigos adyacentes.\nMístico: Daño según Mag.
+MSID_H_MarthEngageAtk_CMD	Asesta varios golpes seguidos.
+MSID_Remove_1	Continuidad
+MSID_H_Remove_1	La unidad puede moverse\n2 casillas tras realizar una acción.
+MSID_Remove_2	Continuidad +
+MSID_H_Remove_2	La unidad puede moverse\n3 casillas tras realizar una acción.
+MSID_Approach_1	Inercia
+MSID_H_Approach_1	Otorga Ata + 1 al primer golpe por\ncada casilla que la unidad haya\nrecorrido inmediatamente antes\nde atacar. (Máximo + 10.)
+MSID_Approach_2	Inercia +
+MSID_H_Approach_2	Otorga Ata + 1 al primer golpe por\ncada casilla que la unidad haya\nrecorrido inmediatamente antes\nde atacar.
+MSID_Rush	Irrefrenable
+MSID_H_Rush	Otorga inmunidad frente\nal estado congelación.
+MSID_SigludEngage	Galope
+MSID_H_SigludEngage	Otorga Mov + 5.
+MSID_H_SigludEngage_Dragon	Otorga Mov + 5.\nDragón: + 1 adicional.
+MSID_H_SigludEngage_Horse	Otorga Mov + 5.\nCaballería: + 2 adicional.
+MSID_H_SigludEngage_Covert	Otorga Mov + 5.\nFurtivo: No sufre penalización\nde movimiento a causa del terreno.
+MSID_SigludEngageAtk	Rebasar
+MSID_H_SigludEngageAtk	Permite atacar a una fila de rivales\nadyacentes y atravesarla.\nSolo espada y lanza.
+MSID_H_SigludEngageAtk_Dragon	Permite atacar a una fila de rivales\nadyacentes y atravesarla.\nSolo espada y lanza.\nDragón: + 20 % de daño adicional.
+MSID_H_SigludEngageAtk_Heavy	Permite atacar a una fila de rivales\nadyacentes y atravesarla.\nSolo espada y lanza.\nAcorazado: 10 % de probabilidad\nde ruptura.
+MSID_H_SigludEngageAtk_Magic	Permite atacar a una fila de rivales\nadyacentes y atravesarla.\nSolo espada y lanza.\nMístico: Daño adicional = 25 % Mag.
+MSID_H_SigludEngageAtk_Prana	Permite atacar a una fila de rivales\nadyacentes y atravesarla.\nSolo espada y lanza.\nQigong: 20 % de probabilidad\nde ruptura.
+MSID_H_SigludEngageAtk_CMD	Ataca y sobrepasa al rival.
+MSID_M011_SigludEngage_DarkSide	Galope oscuro
+MSID_H_M011_SigludEngage_DarkSide	Otorga Mov + 3.
+MSID_EvilCounter_1	Halo sagrado
+MSID_H_EvilCounter_1	Si una aberración ataca a la unidad,\nesta le devuelve un 10 % del daño\nsufrido.
+MSID_EvilCounter_2	Halo sagrado +
+MSID_H_EvilCounter_2	Si una aberración ataca a la unidad,\nesta le devuelve un 30 % del daño\nsufrido.
+MSID_EvilCounter_3	Halo sagrado ++
+MSID_H_EvilCounter_3	Si una aberración ataca a la unidad,\nesta le devuelve un 50 % del daño\nsufrido.
+MSID_BlackMagic_1	Reverberación
+MSID_H_BlackMagic_1	Si la unidad ataca con grimorio\ny tiene 2 o más PV, pierde 1 PV\nal inicio del enfrentamiento\ne inflige daño + 2.
+MSID_BlackMagic_2	Reverberación +
+MSID_H_BlackMagic_2	Si la unidad ataca con grimorio\ny tiene 2 o más PV, pierde 1 PV\nal inicio del enfrentamiento\ne inflige daño + 3.
+MSID_FavoriteFood	Comida favorita
+MSID_H_FavoriteFood	Cuando la unidad toma una ración,\nsu contador de fusión se llena\nal máximo.
+MSID_CelicaEngage	Eco
+MSID_H_CelicaEngage	Permite lanzar un ataque mágico\nal 50 % del daño normal.\nDespués, permite asestar un segundo\nataque también al 50 %.
+MSID_H_CelicaEngage_Dragon	Permite lanzar un ataque mágico\nal 50 % del daño normal.\nDespués, permite asestar un segundo\nataque también al 50 %.\nDragón: Alcance + 1.
+MSID_H_CelicaEngage_Magic	Permite lanzar un ataque mágico\nal 50 % del daño normal.\nDespués, permite asestar un segundo\nataque también al 50 %.\nMístico: + 10 % de daño adicional.
+MSID_H_CelicaEngage_CMD	Ataque en dos tiempos.
+MSID_CelicaEngageAtk	Teleragnarok
+MSID_H_CelicaEngageAtk	Permite a la unidad teleportarse a un\nmáximo de 10 casillas de distancia\ny asestar un potente ataque mágico.
+MSID_H_CelicaEngageAtk_Dragon	Permite a la unidad teleportarse a un\nmáximo de 10 casillas de distancia\ny asestar un potente ataque mágico.\nDragón: Alcance del ataque + 1.
+MSID_H_CelicaEngageAtk_Horse	Permite a la unidad teleportarse a un\nmáximo de 10 casillas de distancia\ny asestar un potente ataque mágico.\nCaballería: + 2 casillas.
+MSID_H_CelicaEngageAtk_Fly	Permite a la unidad teleportarse a un\nmáximo de 10 casillas de distancia\ny asestar un potente ataque mágico.\nVolador: + 5 casillas.
+MSID_H_CelicaEngageAtk_Magic	Permite a la unidad teleportarse a un\nmáximo de 10 casillas de distancia\ny asestar un potente ataque mágico.\nMístico: + 20 % de daño adicional.
+MSID_H_CelicaEngageAtk_CMD	Se teleporta y ataca.
+MSID_M011_CelicaEngageAtk_DarkSide	Porte oscuro
+MSID_CelicaEngageAtk_DarkSide	Ragnaportación
+MSID_H_CelicaEngageAtk_DarkSide	Permite a la unidad lanzar\nun potente ataque mágico\ny luego teleportarse\na otro lugar del mapa.
+MSID_H_CelicaEngageAtk_DarkSide_CMD	Ataca y se teleporta.
+MSID_H_M011_CelicaEngageAtk_DarkSide	Permite a la unidad teleportarse a un\nmáximo de 5 casillas de distancia\ny asestar un potente ataque mágico.
+MSID_EvilCounter_3_DarkSide	Halo profano
+MSID_H_EvilCounter_3_DarkSide	Si un enemigo que no es una\naberración ataca a la unidad,\nesta le devuelve un 50 % del\ndaño sufrido.
+MSID_EquipRod_1	Clerecía
+MSID_H_EquipRod_1	La unidad puede equiparse\ncon bastones de hasta nivel C.
+MSID_EquipRod_2	Clerecía +
+MSID_H_EquipRod_2	La unidad puede equiparse\ncon bastones de hasta nivel B.
+MSID_EquipRod_3	Clerecía ++
+MSID_H_EquipRod_3	La unidad puede equiparse\ncon bastones de hasta nivel A.
+MSID_Silenceproof	Antisilencio
+MSID_H_Silenceproof	Otorga inmunidad frente al estado\nsilencio.
+MSID_HealingResonance	Reflejo sanador
+MSID_H_HealingResonance	Cuando la unidad sana a un aliado\ncon bastón, también recibe el 50 %\nde los PV restaurados.
+MSID_MicaiahEngage	Realce
+MSID_H_MicaiahEngage	Otorga + 5 al alcance del bastón\ny + 1 al área de efecto.
+MSID_H_MicaiahEngage_Dragon	Otorga + 5 al alcance del bastón\ny + 1 al área de efecto.\nDragón: + 1 alcance adicional.
+MSID_H_MicaiahEngage_Prana	Otorga + 5 al alcance del bastón\ny + 1 al área de efecto.\nQigong: + 20 % a los PV restaurados\npor bastones.
+MSID_MicaiahEngageAtk	Gran sacrificio
+MSID_H_MicaiahEngageAtk	Permite restaurar todos los PV\nde todos los aliados, incluso\nlos que no controla el jugador,\npero la unidad queda con 1 PV.
+MSID_H_MicaiahEngageAtk_Dragon	Permite restaurar todos los PV\nde todos los aliados, incluso\nlos que no controla el jugador,\npero la unidad queda con 1 PV.\nDragón: Reduce PV unidad al 30 %.
+MSID_H_MicaiahEngageAtk_Heavy	Permite restaurar todos los PV de\ntodos los aliados, incluso los que no\ncontrola el jugador, pero la unidad\nqueda con 1 PV. Acorazado: Def + 1\nen la sig. lucha a unidades curadas.
+MSID_H_MicaiahEngageAtk_Prana	Permite restaurar todos los PV\nde todos los aliados, incluso\nlos que no controla el jugador,\npero la unidad queda con 1 PV.\nQigong: Cura estados alterados.
+MSID_H_MicaiahEngageAtk_CMD	Gasta PV para sanar aliados.
+MSID_M011_MicaiahEngage_DarkSide	Realce oscuro
+MSID_H_M011_MicaiahEngage_DarkSide	Otorga + 3 al alcance del bastón\ny + 1 al área de efecto.
+MSID_HoldOut_1	Pertinacia
+MSID_H_HoldOut_1	Si la unidad tiene el 30 % o más\nde PV al inicio del enfrentamiento,\nsiempre sobrevive con al menos\n1 PV.
+MSID_HoldOut_2	Pertinacia +
+MSID_H_HoldOut_2	Si la unidad tiene el 20 % o más\nde PV al inicio del enfrentamiento,\nsiempre sobrevive con al menos\n1 PV.
+MSID_HoldOut_3	Pertinacia ++
+MSID_H_HoldOut_3	Si la unidad tiene el 10 % o más\nde PV al inicio del enfrentamiento,\nsiempre sobrevive con al menos\n1 PV.
+MSID_HoldOut_4	Pertinacia +++
+MSID_H_HoldOut_4	Si la unidad tiene 2 o más PV\nal inicio del enfrentamiento, siempre\nsobrevive con al menos 1 PV.
+MSID_ClosingAttack	Avance
+MSID_H_ClosingAttack	Permite desplazarse 1 casilla\nhacia un enemigo que está\na 2 casillas de distancia y atacar.
+MSID_H_ClosingAttack_CMD	Avanza 1 casilla y ataca.
+MSID_RoyEngage	Ascensión
+MSID_H_RoyEngage	Otorga Niv + 5.
+MSID_H_RoyEngage_Dragon	Otorga Niv + 5.\nDragón: Niv + 1 adicional.
+MSID_H_RoyEngage_Horse	Otorga Niv + 5.\nCaballería: Mov + 1.
+MSID_H_RoyEngage_Heavy	Otorga Niv + 5.\nAcorazado: PV máx. + 5.
+MSID_RoyEngageAtk	León ígneo
+MSID_H_RoyEngageAtk	Permite atacar una casilla adyacente\ny las dos contiguas a esta. Incendia\ndicha zona y las dos filas posteriores\na ella. Solo espada.
+MSID_H_RoyEngageAtk_Dragon	Permite atacar una casilla adyacente\ny las dos contiguas a esta. Incendia\ndicha zona y las dos filas posteriores\na ella. Solo espada.\nDragón: Mayor zona de ataque.
+MSID_H_RoyEngageAtk_Magic	Permite atacar una casilla adyacente\ny las dos contiguas a esta. Incendia\ndicha zona y las dos filas posteriores\na ella. Solo espada.\nMístico: Mayor zona incendiada.
+MSID_H_RoyEngageAtk_CMD	Ataca una zona y la incendia.
+MSID_M011_RoyEngage_DarkSide	Ascensión vil
+MSID_H_M011_RoyEngage_DarkSide	Otorga Niv + 3.
+MSID_AugmentDamage_1	Ventaja vital
+MSID_H_AugmentDamage_1	Si la unidad tiene ventaja de arma,\n- 3 al daño sufrido.
+MSID_AugmentDamage_2	Ventaja vital +
+MSID_H_AugmentDamage_2	Si la unidad tiene ventaja de arma,\n- 5 al daño sufrido.
+MSID_AugmentDamage_3	Ventaja vital ++
+MSID_H_AugmentDamage_3	Si la unidad tiene ventaja de arma,\n- 7 al daño sufrido.
+MSID_Ambush_1	Emboscada
+MSID_H_Ambush_1	Si el rival inicia el enfrentamiento\ny la unidad tiene 25 % PV o menos,\nesta ataca primero.
+MSID_Ambush_2	Emboscada +
+MSID_H_Ambush_2	Si el rival inicia el enfrentamiento\ny la unidad tiene 50 % PV o menos,\nesta ataca primero.
+MSID_Ambush_3	Emboscada ++
+MSID_H_Ambush_3	Si el rival inicia el enfrentamiento\ny la unidad tiene 75 % PV o menos,\nesta ataca primero.
+MSID_LeafEngage	Versatilidad
+MSID_H_LeafEngage	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).
+MSID_H_LeafEngage_Dragon	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).\nDragón: Gol + 30 en combate.
+MSID_H_LeafEngage_Coop	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).\nRefuerzo: Crí + 10 en combate.
+MSID_H_LeafEngage_Covert	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).\nFurtivo: Esq + 20 en combate.
+MSID_H_LeafEngage_Heavy	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).\nAcorazado: Def + 5 en combate.
+MSID_H_LeafEngage_Fly	Si el rival inicia el enfrentamiento,\nla unidad responde con el arma\nmás adecuada (según el alcance,\nla ventaja de arma, la eficacia, etc.).\nVolador: Res + 5 en combate.
+MSID_LeafEngageAtk	Golpe cuádruplo
+MSID_H_LeafEngageAtk	Permite a la unidad atacar\nconsecutivamente con espada,\nlanza, hacha y arco.
+MSID_H_LeafEngageAtk_Dragon	Permite a la unidad atacar\nconsecutivamente con espada,\nlanza, hacha y arco.\nDragón: + 20 % de daño adicional.
+MSID_H_LeafEngageAtk_Covert	Permite a la unidad atacar\nconsecutivamente con espada,\nlanza, hacha y arco.\nFurtivo: El rival puede soltar\n1000 M. Probabilidad = Sue %.
+MSID_H_LeafEngageAtk_Prana	Permite a la unidad atacar\nconsecutivamente con espada,\nlanza, hacha y arco.\nQigong: Causa ruptura al objetivo.
+MSID_H_LeafEngageAtk_CMD	Ataca con cuatro armas.
+MSID_BondPower	Golpe doble
+MSID_H_BondPower	La unidad puede encadenar ataques\ncon los de sus aliados como si fuese\nuna unidad de refuerzo.
+MSID_DualAssist_1	Refuerzo dual
+MSID_H_DualAssist_1	Si puede encadenar ataques,\nla unidad lo hará cuando los aliados\nataquen a enemigos en su área\nde movimiento. Probabilidad = 35 %.
+MSID_DualAssist_2	Refuerzo dual +
+MSID_H_DualAssist_2	Si puede encadenar ataques,\nla unidad lo hará cuando los aliados\nataquen a enemigos en su área\nde movimiento. Probabilidad = 70 %.
+MSID_DualSupport	Apoyo dual
+MSID_H_DualSupport	Bonificación de Esq en función del\nnivel de apoyo que la unidad tenga\ncon aliados adyacentes. (Máx. + 90)
+MSID_LucinaEngage	Refuerzo escudo
+MSID_H_LucinaEngage_CMD	Puede anular primeros ataques contra\naliados adyacentes. Prob. = 80 %.
+MSID_H_LucinaEngage_CMD_Dragon	Puede anular primeros ataques contra\naliados adyacentes. Prob. = 90 %.
+MSID_H_LucinaEngage_CMD_Prana	Anula los primeros ataques\ncontra aliados adyacentes.
+MSID_H_LucinaEngage	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.
+MSID_H_LucinaEngage_Dragon	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.\nDragón: Probabilidad + 10 %.
+MSID_H_LucinaEngage_Horse	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.\nCaballería: Probabilidad del 100 %\ncon aliados de su mismo tipo.
+MSID_H_LucinaEngage_Heavy	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.\nAcorazado: Probabilidad del 100 %\ncon aliados de su mismo tipo.
+MSID_H_LucinaEngage_Fly	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.\nVolador: Probabilidad del 100 %\ncon aliados de su mismo tipo.
+MSID_H_LucinaEngage_Prana	Permite anular los primeros ataques\ncontra aliados adyacentes hasta el\nturno siguiente. Probabilidad = 80 %.\nQigong: Probabilidad del 100 %.
+MSID_LucinaEngageAtk	Todos para uno
+MSID_H_LucinaEngageAtk	Ataca con la espada a un rival\nadyacente. Los aliados en un radio\nde 2 casillas encadenan ataques\ncon la unidad.
+MSID_H_LucinaEngageAtk_Dragon	Ataca con la espada a un rival\nadyacente. Los aliados en un radio\nde 2 casillas encadenan ataques\ncon la unidad. Dragón: 100 %\nde acierto en ataques en cadena.
+MSID_H_LucinaEngageAtk_Coop	Ataca con la espada a un rival\nadyacente. Los aliados en un radio\nde 2 casillas encadenan ataques\ncon la unidad.\nRefuerzo: Alc + 1.
+MSID_H_LucinaEngageAtk_CMD	Los aliados cercanos atacan.
+MSID_Pursuit_1	Prontitud
+MSID_H_Pursuit_1	Si supera la Vel del enemigo\nen 9 o más puntos, asesta todos\nsus golpes (si se diera el caso)\nantes de que el rival contrataque.
+MSID_Pursuit_2	Prontitud +
+MSID_H_Pursuit_2	Si supera la Vel del enemigo\nen 7 o más puntos, asesta todos\nsus golpes (si se diera el caso)\nantes de que el rival contrataque.
+MSID_Pursuit_3	Prontitud ++
+MSID_H_Pursuit_3	Si supera la Vel del enemigo\nen 5 o más puntos, asesta todos\nsus golpes (si se diera el caso)\nantes de que el rival contrataque.
+MSID_SpeedAbsorption	Ejecución veloz
+MSID_H_SpeedAbsorption	Otorga Vel + 2 acumulable\na la unidad cada vez que esta\ninicia el ataque y derrota a\nun rival. (Máx. + 10, hasta\nel final de la batalla.)
+MSID_LinEngage	Invocar dobles
+MSID_H_LinEngage	Permite crear 4 dobles ilusorios\nque pueden encadenar ataques\ncon la unidad.
+MSID_H_LinEngage_Dragon	Permite crear 4 dobles ilusorios\nque pueden encadenar ataques\ncon la unidad.\nDragón: Crea un doble adicional.
+MSID_H_LinEngage_Fly	Permite crear 4 dobles ilusorios\nque pueden encadenar ataques\ncon la unidad.\nVolador: Dobles tienen Esq + 10.
+MSID_H_LinEngage_CMD	Crea dobles como refuerzo.
+MSID_LinEngage_Delete_CMD	Espantadobles
+MSID_H_LinEngage_Delete_CMD	Elimina los dobles invocados.
+MSID_LinEngageAtk	Tormenta Fobos
+MSID_H_LinEngageAtk	Permite a la unidad asestar\n5 ataques con arco al 30 %\ndel daño normal y con un alcance\nde 10 casillas.
+MSID_H_LinEngageAtk_Dragon	Permite a la unidad asestar\n5 ataques con arco al 30 %\ndel daño normal y con un alcance\nde 10 casillas.\nDragón: Alcance + 5 adicional.
+MSID_H_LinEngageAtk_Covert	Permite a la unidad asestar\n5 ataques con arco al 30 %\ndel daño normal y con un alcance\nde 10 casillas.\nFurtivo: Alcance + 10 adicional.
+MSID_H_LinEngageAtk_Prana	Permite a la unidad asestar\n5 ataques con arco al 30 %\ndel daño normal y con un alcance\nde 10 casillas.\nQigong: Causa ruptura al objetivo.
+MSID_H_LinEngageAtk_CMD	Ataques lejanos con arco.
+MSID_H_LinEngageAtk_Weak	Permite a la unidad asestar\n5 ataques con arco al 20 %\ndel daño normal y con un alcance\nde 10 casillas.
+MSID_H_LinEngageAtk_DarkSide_Prana	Permite a la unidad asestar\n5 ataques con arco al 20 %\ndel daño normal y con un alcance\nde 10 casillas.\nQigong: Causa ruptura al objetivo.
+MSID_Ravage	Demoler
+MSID_H_Ravage	Permite derribar obstáculos\ndestructibles de un solo golpe\nusando la orden "Destruir".
+MSID_PullBack	Refugio
+MSID_H_PullBack	Permite a la unidad desplazar\na un aliado adyacente a la casilla\nopuesta.
+MSID_H_PullBack_CMD	Mueve a un aliado adyacente\nal lado opuesto.
+MSID_Anger	Furia
+MSID_H_Anger	Al inicio del enfrentamiento,\notorga Crí + 1 por cada PV\nque pierda la unidad. (Máx. + 30)
+MSID_BraveGeneral_1	Tenacidad
+MSID_H_BraveGeneral_1	Si, tras el enfrentamiento, la unidad\ntiene el 75 % de los PV o menos,\notorga Def y Res + 5.
+MSID_BraveGeneral_2	Tenacidad +
+MSID_H_BraveGeneral_2	Si, tras el enfrentamiento, la unidad\ntiene el 75 % de los PV o menos,\notorga Def y Res + 7.
+MSID_IkeEngage	Defensa laguz
+MSID_H_IkeEngage	Limita al 50 % el daño sufrido,\npero reduce Esq a 0.
+MSID_H_IkeEngage_Dragon	Limita al 50 % el daño sufrido,\npero reduce Esq a 0.\nDragón: - 10 % adicional al daño\nsufrido.
+MSID_IkeEngageAtk	Gran Éter
+MSID_H_IkeEngageAtk	Def/Res + 5; 1 turno sin contratacar.\nAl turno siguiente, ataca en un radio\nde 2 casillas y recupera PV = 30 %\ndaño infligido. Solo espada y hacha.
+MSID_H_IkeEngageAtk_Dragon	Def/Res + 5; 1 turno sin contratacar.\nAl turno siguiente, ataca en un radio\nde 2 casillas y recupera PV = 30 %\ndaño infligido. Solo espada y hacha.\nDragón: Daño + 1 por golpe sufrido.
+MSID_H_IkeEngageAtk_Heavy	Def/Res + 5; 1 turno sin contratacar.\nAl turno siguiente, ataca en un radio\nde 2 casillas y recupera PV = 30 %\ndaño infligido. Solo espada y hacha.\nAcorazado: Otorga Def + 5 adicional.
+MSID_H_IkeEngageAtk_Fly	Def/Res + 5; 1 turno sin contratacar.\nAl turno siguiente, ataca en un radio\nde 2 casillas y recupera PV = 30 %\ndaño infligido. Solo espada y hacha.\nVolador: Otorga Res + 5 adicional.
+MSID_H_IkeEngageAtk_CMD	Resiste y ataca una zona.
+MSID_HeavenBeat_1	Pulso Divino
+MSID_H_HeavenBeat_1	Puede convertir ataques fallidos\nen aciertos. Probabilidad = 30 %;\naumenta en función de la Sue.
+MSID_HeavenBeat_2	Pulso Divino +
+MSID_H_HeavenBeat_2	Puede convertir ataques fallidos\nen aciertos. Probabilidad = 50 %;\naumenta en función de la Sue.
+MSID_TeacherGuidance	Clase magistral
+MSID_H_TeacherGuidance	Incrementa en un 20 % la Exp\nadquirida por la unidad y los aliados\nadyacentes.
+MSID_PickUp	Objetos perdidos
+MSID_H_PickUp	Puede encontrar objetos si termina\nuna acción o acaba junto a un aliado,\nasí como aumentar el nivel de apoyo\ncon ese aliado. Probabilidad = Sue %.
+MSID_PickUp_Message	Un objeto de \x0E\x01\x00\x00\nha sido encontrado y devuelto.
+MSID_BylethEngage	Influencia
+MSID_H_BylethEngage	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.
+MSID_H_BylethEngage_Dragon	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nDragón: + 3 adicional a los 7\natributos básicos.
+MSID_BylethEngage_Dragon_CMD	Influencia (todos)
+MSID_H_BylethEngage_Dragon_CMD	+ 3 a todos los atributos\nde aliados cercanos.
+MSID_H_BylethEngage_Coop	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nRefuerzo: Fue + 4.
+MSID_BylethEngage_Coop_CMD	Influencia (Fue)
+MSID_H_BylethEngage_Coop_CMD	Fue + 4 a aliados cercanos.
+MSID_H_BylethEngage_Horse	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nCaballería: Hab + 10.
+MSID_BylethEngage_Horse_CMD	Influencia (Hab)
+MSID_H_BylethEngage_Horse_CMD	Hab + 10 a aliados cercanos.
+MSID_H_BylethEngage_Covert	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nFurtivo: Vel + 5.
+MSID_BylethEngage_Covert_CMD	Influencia (Vel)
+MSID_H_BylethEngage_Covert_CMD	Vel + 5 a aliados cercanos.
+MSID_H_BylethEngage_Heavy	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nAcorazado: Def + 5.
+MSID_BylethEngage_Heavy_CMD	Influencia (Def)
+MSID_H_BylethEngage_Heavy_CMD	Def + 5 a aliados cercanos.
+MSID_H_BylethEngage_Fly	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nVolador: Res + 5.
+MSID_BylethEngage_Fly_CMD	Influencia (Res)
+MSID_H_BylethEngage_Fly_CMD	Res + 5 a aliados cercanos.
+MSID_H_BylethEngage_Magic	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nMístico: Mag + 4.
+MSID_BylethEngage_Magic_CMD	Influencia (Mag)
+MSID_H_BylethEngage_Magic_CMD	Mag + 4 a aliados cercanos.
+MSID_H_BylethEngage_Prana	Mejora los atributos a aliados en\nun radio de 2 casillas según su tipo\ndurante 1 turno.\nQigong: Sue + 10.
+MSID_BylethEngage_Prana_CMD	Influencia (Sue)
+MSID_H_BylethEngage_Prana_CMD	Sue + 10 a aliados cercanos.
+MSID_BylethEngageAtk	Danza de la Diosa
+MSID_H_BylethEngageAtk	Permite otorgar una acción adicional\na todos los aliados adyacentes.
+MSID_H_BylethEngageAtk_Dragon	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nDragón: + 3 a los 7 atributos básicos\nde las unidades beneficiadas\ndurante 1 turno.
+MSID_H_BylethEngageAtk_Coop	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nRefuerzo: Fue + 4 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Horse	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nCaballería: Hab + 10 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Covert	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nFurtivo: Vel + 5 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Heavy	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nAcorazado: Def + 5 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Fly	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nVolador: Res + 5 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Magic	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nMístico: Mag + 4 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_Prana	Permite otorgar una acción adicional\na todos los aliados adyacentes.\nQigong: Sue + 10 a las unidades\nbeneficiadas durante 1 turno.
+MSID_H_BylethEngageAtk_CMD	Otorga una acción extra\na los aliados adyacentes.
+MSID_M014_BylethEngageAtk_DarkSide	Danza diabólica
+MSID_H_M014_BylethEngageAtk_DarkSide	Permite otorgar una acción adicional\na los aliados situados en un radio\nde 2 casillas.
+MSID_DragonPulse	Vena de dragón
+MSID_H_DragonPulse	Permite añadir un efecto especial\na ciertas casillas.
+MSID_H_DragonPulse_CMD	Otorga un efecto a una zona.
+MSID_H_DragonPulse_Dragon	Permite añadir un efecto especial\na ciertas casillas.\nDragón: Elige cualquier efecto.
+MSID_DragonPulse_DefUp	Vena pétrea
+MSID_H_DragonPulse_DefUp	Crea pilares de piedra que aumentan\nla Def/Res.
+MSID_H_DragonPulse_Coop	Permite añadir un efecto especial\na ciertas casillas.\nRefuerzo: Crea pilares de piedra\nque otorgan una mejora de Def/Res.
+MSID_DragonPulse_AvoDown	Vena acuática
+MSID_H_DragonPulse_AvoDown	Crea agua que reduce la Esq.
+MSID_H_DragonPulse_Horse	Permite añadir un efecto especial\na ciertas casillas.\nCaballería: Crea agua que provoca\nuna reducción de Esq.
+MSID_DragonPulse_AvoUp	Vena brumosa
+MSID_H_DragonPulse_AvoUp	Crea niebla que aumenta la Esq.
+MSID_H_DragonPulse_Covert	Permite añadir un efecto especial\na ciertas casillas.\nFurtivo: Crea niebla que otorga\nuna mejora de Esq.
+MSID_DragonPulse_NotBreak	Vena de hiedra
+MSID_H_DragonPulse_NotBreak	Crea una maraña de hiedra\nque impide la ruptura.
+MSID_H_DragonPulse_Heavy	Permite añadir un efecto especial\na ciertas casillas.\nAcorazado: Crea hiedra que\notorga inmunidad a la ruptura.
+MSID_DragonPulse_Heal	Vena sanadora
+MSID_H_DragonPulse_Heal	Crea una luz curativa\nque restaura PV.
+MSID_H_DragonPulse_Fly	Permite añadir un efecto especial\na ciertas casillas.\nVolador: Crea una luz curativa\nque restaura PV.
+MSID_DragonPulse_Damage	Vena ardiente
+MSID_H_DragonPulse_Damage	Crea llamas que infligen daño.
+MSID_H_DragonPulse_Magic	Permite añadir un efecto especial\na ciertas casillas.\nMístico: Crea llamas que infligen\ndaño.
+MSID_DragonPulse_Block	Vena gélida
+MSID_H_DragonPulse_Block	Crea pilares de hielo que limitan\nel movimiento.
+MSID_H_DragonPulse_Prana	Permite añadir un efecto especial\na ciertas casillas.\nQigong: Crea pilares de hielo\nque limitan el movimiento.
+MSID_DragonCurse	Dracomaleficio
+MSID_H_DragonCurse	Si la unidad inicia el ataque, - 4\na todos los atributos básicos del rival\ntras el enfrentamiento (el efecto se\nreduce en 1 cada turno).
+MSID_DefenseStyle	Agrupar
+MSID_H_DefenseStyle	Anula el daño infligido\npor los ataques en cadena\ndel enemigo contra la unidad.
+MSID_PhysicalContact_1	Familiaridad
+MSID_H_PhysicalContact_1	Tras actuar o esperar, la unidad\nsana 5 PV a los aliados adyacentes\ny sube ligeramente el nivel de apoyo.
+MSID_PhysicalContact_2	Familiaridad +
+MSID_H_PhysicalContact_2	Tras actuar o esperar, la unidad\nsana 10 PV a los aliados adyacentes\ny sube ligeramente el nivel de apoyo.
+MSID_KamuiEngage	Cazacorazones
+MSID_H_KamuiEngage	Si la unidad inicia el enfrentamiento,\nel objetivo y los rivales situados\na 1 casilla de distancia no podrán\nmoverse durante el turno siguiente.
+MSID_H_KamuiEngage_Covert	Si la unidad inicia el enfrentamiento,\nel objetivo y los rivales situados\na 1 casilla de distancia no podrán\nmoverse durante el turno siguiente.\nFurtivo: Esq - 20 al objetivo.
+MSID_KamuiEngageAtk	Rugido torrencial
+MSID_H_KamuiEngageAtk	Permite atacar con agua una fila\nde 3 casillas e inundarlas.
+MSID_H_KamuiEngageAtk_Dragon	Permite atacar con agua una fila\nde 3 casillas e inundarlas.\nDragón: Alcance + 1.
+MSID_H_KamuiEngageAtk_CMD	Ataca e inunda una zona.
+MSID_God_Change_CMD	Noche y día
+MSID_H_God_Change	Permite alternar entre Emblemas:\ncambia Brazalete lunar y Brisa gentil\npor Brazalete solar y Brisa audaz\nen todos los aliados.
+MSID_H_God_Change_CMD	Alterna entre Emblemas.
+MSID_MoonBracelet_1	Brazalete lunar
+MSID_H_MoonBracelet_1	Si la unidad inicia el enfrentamiento\ncon un ataque físico, inflige daño\nextra equivalente al 20 % de la\nDef del rival.
+MSID_MoonBracelet_2	Brazalete lunar +
+MSID_H_MoonBracelet_2	Si la unidad inicia el enfrentamiento\ncon un ataque físico, inflige daño\nextra equivalente al 30 % de la\nDef del rival.
+MSID_SunBracelet_1	Brazalete solar
+MSID_H_SunBracelet_1	Si la unidad inicia el enfrentamiento,\nrecupera una cantidad de PV\nequivalente al 30 % del daño\ninfligido.
+MSID_SunBracelet_2	Brazalete solar +
+MSID_H_SunBracelet_2	Si la unidad inicia el enfrentamiento,\nrecupera una cantidad de PV\nequivalente al 50 % del daño\ninfligido.
+MSID_SunMoonBracelet_1	Brazalete solilunio
+MSID_H_SunMoonBracelet_1	Si la unidad inicia el enfrentamiento,\nsus ataques físicos infligen daño\nextra = 20 % de la Def del enemigo.\nLa unidad recupera PV = 30 %\ndel daño infligido.
+MSID_SunMoonBracelet_2	Brazalete solilunio +
+MSID_H_SunMoonBracelet_2	Si la unidad inicia el enfrentamiento,\nsus ataques físicos infligen daño\nextra = 30 % de la Def del enemigo.\nLa unidad recupera PV = 50 %\ndel daño infligido.
+MSID_GentleWind_1	Brisa gentil
+MSID_H_GentleWind_1	Reduce en 3 puntos el daño sufrido.
+MSID_GentleWind_2	Brisa gentil +
+MSID_H_GentleWind_2	Reduce en 5 puntos el daño sufrido.
+MSID_BraveSky_1	Brisa audaz
+MSID_H_BraveSky_1	Incrementa en 3 puntos el daño\ninfligido.
+MSID_BraveSky_2	Brisa audaz +
+MSID_H_BraveSky_2	Incrementa en 5 puntos el daño\ninfligido.
+MSID_Azure_1	Cielo azul
+MSID_H_Azure_1	Reduce en 3 puntos el daño sufrido\ne incrementa en 3 puntos el daño\ninfligido.
+MSID_Azure_2	Cielo azul +
+MSID_H_Azure_2	Reduce en 5 puntos el daño sufrido\ne incrementa en 5 puntos el daño\ninfligido.
+MSID_EirikEngage	Gemelos sagrados
+MSID_H_EirikEngage	Durante la fusión con Eirika, cambia\nBrazalete lunar a Brazalete solilunio\ny Brisa gentil a Cielo azul en todos\nlos aliados.
+MSID_EirikEngageAtk	Golpe gemelo
+MSID_H_EirikEngageAtk	Permite a la unidad lanzar un ataque\ncon espada seguido de un lanzazo\nde Ephraim a un rival adyacente.\nEficaz contra las aberraciones.
+MSID_H_EirikEngageAtk_Dragon	Permite a la unidad lanzar un ataque\ncon espada seguido de un lanzazo\nde Ephraim a un rival adyacente.\nEficaz contra las aberraciones.\nDragón: + 20 % de daño adicional.
+MSID_H_EirikEngageAtk_Horse	Permite a la unidad lanzar un ataque\ncon espada seguido de un lanzazo\nde Ephraim a un rival adyacente.\nEficaz contra las aberraciones.\nCaballería: Ephraim + 50 % de daño.
+MSID_H_EirikEngageAtk_CMD	Ataca junto a Ephraim.
+MSID_EvilDragonSpecialEffect	Aura sagrada
+MSID_H_EvilDragonSpecialEffect	Otorga eficacia ante Dragones\nCaídos a la unidad y a los aliados\nsituados en un radio de 2 casillas\nque ya sean eficaces ante dragones.
+MSID_GodDragonProtection	Amparo sagrado
+MSID_H_GodDragonProtection	Anula la eficacia contra la unidad.
+MSID_ConnectPerson_1	Tejevínculos
+MSID_H_ConnectPerson_1	Gol y Esq + 20 a la unidad\ny los aliados situados en un radio\nde 2 casillas que estén sincronizados\no fusionados con un Emblema.
+MSID_ConnectPerson_2	Tejevínculos +
+MSID_H_ConnectPerson_2	Gol y Esq + 30 a la unidad\ny los aliados situados en un radio\nde 2 casillas que estén sincronizados\no fusionados con un Emblema.
+MSID_BlessingOfEleos	Bendición de Elyos
+MSID_H_BlessingOfEleos	Si la unidad inicia el enfrentamiento,\nrecibe una bonificación de Crí y Evit\nequivalente al número de aliados\nque hayan actuado en ese turno × 2.
+MSID_LueurEngage	Sintonía
+MSID_H_LueurEngage	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.
+MSID_H_LueurEngage_Dragon	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nDragón: Mejora de + 1 adicional.
+MSID_H_LueurEngage_Coop	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nRefuerzo: + 2 adicional a Fue.
+MSID_H_LueurEngage_Horse	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nCaballería: + 2 adicional a Hab.
+MSID_H_LueurEngage_Covert	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nFurtivo: + 2 adicional a Vel.
+MSID_H_LueurEngage_Heavy	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nAcorazado: + 2 adicional a Def.
+MSID_H_LueurEngage_Fly	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nVolador: + 2 adicional a Res.
+MSID_H_LueurEngage_Magic	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nMístico: + 2 adicional a Mag.
+MSID_H_LueurEngage_Prana	Si la unidad inicia el enfrentamiento\ny derrota al rival, otorga una mejora\nde + 4 a todos los atributos básicos\nmientras esté fusionada.\nQigong: + 2 adicional a Sue.
+MSID_LueurEngageAtk	Ráfaga dragón
+MSID_H_LueurEngageAtk	Asesta dos ataques, uno con\nla espada y otro con un rayo\nmágico, a un enemigo adyacente.
+MSID_H_LueurEngageAtk_Dragon	Asesta dos ataques, uno con\nla espada y otro con un rayo\nmágico, a un enemigo adyacente.\nDragón: + 20 % de daño adicional.
+MSID_H_LueurEngageAtk_Coop	Asesta dos ataques, uno con\nla espada y otro con un rayo\nmágico, a un enemigo adyacente.\nRefuerzo: Suma el 20 % de Fue\nal ataque con espada.
+MSID_H_LueurEngageAtk_Magic	Asesta dos ataques, uno con\nla espada y otro con un rayo\nmágico, a un enemigo adyacente.\nMístico: Suma el 20 % de Mag\nal ataque mágico.
+MSID_H_LueurEngageAtk_Prana	Asesta dos ataques, uno con\nla espada y otro con un rayo\nmágico, a un enemigo adyacente.\nQigong: Causa ruptura al objetivo.
+MSID_H_LueurEngageAtk_CMD	Ataque mixto espada/magia.
+MSID_LueurEngageAtk_p	Ráfaga fusión
+MSID_H_LueurEngageAtk_p	Permite lanzar un ataque con espada\nseguido de uno mágico de la unidad\nfusionada a un rival adyacente.
+MSID_H_LueurEngageAtk_p_Dragon	Permite lanzar un ataque con espada\nseguido de uno mágico de la unidad\nfusionada a un rival adyacente.\nDragón: + 20 % de daño adicional.
+MSID_H_LueurEngageAtk_p_Coop	Permite lanzar un ataque con espada\nseguido de uno mágico de la unidad\nfusionada a un rival adyacente.\nRefuerzo: Suma el 20 % de Fue\nal ataque con espada.
+MSID_H_LueurEngageAtk_p_Magic	Permite lanzar un ataque con espada\nseguido de uno mágico de la unidad\nfusionada a un rival adyacente.\nMístico: Suma el 20 % de Mag\nal ataque mágico.
+MSID_H_LueurEngageAtk_p_Prana	Permite lanzar un ataque con espada\nseguido de uno mágico de la unidad\nfusionada a un rival adyacente.\nQigong: Inflige ruptura al rival.
+MSID_H_LueurEngageAtk_p_CMD	Ataque con unidad fusionada.
+MSID_PrivateSkill_Lueur	Inspiración divina
+MSID_H_PrivateSkill_Lueur	Otorga a los aliados adyacentes\n+ 3 de daño infligido y - 1\nde daño sufrido.
+MSID_PrivateSkill_Vandre	Lealtad alba
+MSID_H_PrivateSkill_Vandre	Si la unidad ocupa una casilla\nadyacente al Dragón Divino,\notorga a ambos Crí + 5 durante\nel combate.
+MSID_PrivateSkill_Clan	Fe esmeralda
+MSID_H_PrivateSkill_Clan	Si la unidad ocupa una casilla\nadyacente al Dragón Divino,\notorga a ambos Gol + 10 durante\nel combate.
+MSID_PrivateSkill_Fran	Ánimo carmesí
+MSID_H_PrivateSkill_Fran	Si la unidad ocupa una casilla\nadyacente al Dragón Divino,\notorga a ambos Esq + 10 durante\nel combate.
+MSID_PrivateSkill_Alfred	Autosuperación
+MSID_H_PrivateSkill_Alfred	Si la unidad espera sin usar objetos\nni atacar, obtiene Fue + 2 durante\n1 turno.
+MSID_PrivateSkill_Boucheron	Lágrima fácil
+MSID_H_PrivateSkill_Boucheron	Si un aliado encadena un ataque\ndurante un enfrentamiento de la\nunidad, esta inflige daño + 2.
+MSID_PrivateSkill_Atie	Estimulante
+MSID_H_PrivateSkill_Atie	Si la unidad recupera PV usando\nun objeto curativo, recibe Fue + 2\ndurante 1 turno.
+MSID_PrivateSkill_Celine	Flor generosa
+MSID_H_PrivateSkill_Celine	Los aliados situados en un radio\nde 2 casillas recuperan un 50 %\nmás de PV al usar objetos curativos.
+MSID_PrivateSkill_Chloe	Pareja de fábula
+MSID_H_PrivateSkill_Chloe	La unidad inflige daño + 2 si en un\nradio de 2 casillas hay 2 unidades\naliadas adyacentes entre sí de sexo\nmasculino y femenino.
+MSID_PrivateSkill_Louis	Admiración
+MSID_H_PrivateSkill_Louis	Si hay 2 unidades aliadas femeninas\nadyacentes entre sí en un radio de 2\ncasillas, - 2 al daño sufrido por la\nunidad en combate.
+MSID_PrivateSkill_Diamand	Cara a cara
+MSID_H_PrivateSkill_Diamand	Si la unidad inicia el enfrentamiento,\notorga Gol + 15 tanto a la unidad\ncomo al enemigo en caso de que\npueda contratacar.
+MSID_PrivateSkill_Umber	Grito de guerra
+MSID_H_PrivateSkill_Umber	Si no hay unidades adyacentes\nal rival ni a la unidad, otorga\nGol + 20 a costa de Esq - 10\nen combate.
+MSID_PrivateSkill_Jade	Meditación
+MSID_H_PrivateSkill_Jade	Si la unidad espera sin usar objetos\nni atacar, obtiene Res + 2 durante\n1 turno.
+MSID_PrivateSkill_Staluke	Protector
+MSID_H_PrivateSkill_Staluke	Otorga Fue + 3 a la unidad\ndurante 1 turno si un aliado que esté\nen un radio de 2 casillas es atacado.
+MSID_PrivateSkill_Lapis	Altruismo
+MSID_H_PrivateSkill_Lapis	Si hay un aliado adyacente,\nla unidad obtiene Gol/Esq + 10\na costa de Crí - 10.
+MSID_PrivateSkill_Citrinica	Generosidad
+MSID_H_PrivateSkill_Citrinica	Si la unidad usa un objeto curativo,\nlos aliados adyacentes recuperan\ntambién la misma cantidad de PV.
+MSID_PrivateSkill_Ivy	Fijación
+MSID_H_PrivateSkill_Ivy	Si la unidad se enfrenta de nuevo\na su rival más reciente, obtiene\nGol + 20.
+MSID_PrivateSkill_Zelkova	Punto y *final*
+MSID_H_PrivateSkill_Zelkova	Si el rival inicia el ataque,\nle inflige Gol - 10 durante\nel combate.
+MSID_PrivateSkill_Kagetsu	Brillo cegador
+MSID_H_PrivateSkill_Kagetsu	Si la unidad inicia el ataque,\nle inflige Esq - 10 al rival\ndurante el combate.
+MSID_PrivateSkill_Hortensia	Vivacidad
+MSID_H_PrivateSkill_Hortensia	Otorga Alc + 1 cuando la unidad\nusa un bastón curativo.
+MSID_PrivateSkill_Rosado	Sonrisa radiante
+MSID_H_PrivateSkill_Rosado	Si el rival es masculino, le inflige\nEsq - 20 durante el combate.
+MSID_PrivateSkill_Goldmary	Suspiro sensual
+MSID_H_PrivateSkill_Goldmary	Si el rival es masculino, le inflige\nGol - 20 durante el combate.
+MSID_PrivateSkill_Misutira	Estruendo de Solm
+MSID_H_PrivateSkill_Misutira	Inflige Crí - 5 a todos los enemigos\nsituados en un radio de 3 casillas.
+MSID_PrivateSkill_Merin	Escolta cortés
+MSID_H_PrivateSkill_Merin	Si hay 2 o más aliadas femeninas\nen un radio de 2 casillas, Gol y Esq\n+ 5 a la unidad y dichas aliadas.
+MSID_PrivateSkill_Panetone	Furia sanguinaria
+MSID_H_PrivateSkill_Panetone	Si la unidad no tiene el número\nmáximo de PV tras el combate,\notorga Crí + 10 mientras no recupere\ntodos sus PV.
+MSID_PrivateSkill_Fogato	Fascinación
+MSID_H_PrivateSkill_Fogato	Si la unidad se enfrenta de nuevo\na su rival más reciente, le inflige\nCrí - 10.
+MSID_PrivateSkill_Pandoro	Gregario
+MSID_H_PrivateSkill_Pandoro	Bonificación a Gol y Esq =\n3 × número de unidades rivales\ny aliadas en un radio de 2 casillas.
+MSID_PrivateSkill_Bonet	Ración extra
+MSID_H_PrivateSkill_Bonet	Tras comer una ración, la unidad\npuede obtener otra ración idéntica.\nProbabilidad = Sue %
+MSID_PrivateSkill_Anna	Liquidación total
+MSID_H_PrivateSkill_Anna	Puede obtener 500 M tras derrotar\na un enemigo. Probabilidad = Sue %.
+MSID_PrivateSkill_Jean	Soltura
+MSID_H_PrivateSkill_Jean	La unidad recibe mayores mejoras\nde atributos al subir de nivel.
+MSID_PrivateSkill_Yunaka	Arte de matar
+MSID_H_PrivateSkill_Yunaka	Si la unidad está en un terreno\nque otorga bonificación de Esq,\nobtiene Crí + 15.
+MSID_PrivateSkill_Seadas	Danza arcana
+MSID_H_PrivateSkill_Seadas	Al inicio del turno, los aliados\nsituados en un radio de 2 casillas\nrecuperan el 10 % de sus PV máx.
+MSID_PrivateSkill_Linden	Maestro de armas
+MSID_H_PrivateSkill_Linden	Si la unidad usa un arma\nde nivel inferior a la del rival,\nobtiene Crí + 20 durante el combate.
+MSID_PrivateSkill_Saphir	Sed de victoria
+MSID_H_PrivateSkill_Saphir	Si al inicio del enfrentamiento\nla unidad tiene el 50 % de los PV\no menos, obtiene Gol y Esq + 20\ndurante el combate.
+MSID_PrivateSkill_Veyre	Favor del Caído
+MSID_H_PrivateSkill_Veyre	Los aliados adyacentes infligen\ndaño + 1 y sufren daño - 3.
+MSID_PrivateSkill_Mauve	Contemplación
+MSID_H_PrivateSkill_Mauve	Si la unidad espera sin usar objetos\nni atacar, obtiene Def + 2 durante\n1 turno.
+MSID_JobSkill_SwordMaster	Penetrar
+MSID_H_JobSkill_SwordMaster	Permite atacar a un rival adyacente\ny ocupar su casilla opuesta.
+MSID_H_JobSkill_SwordMaster_CMD	Ataca y sobrepasa al rival.
+MSID_JobSkill_BraveHero	Refuerzo valeroso
+MSID_H_JobSkill_BraveHero	Si la unidad tiene los PV máximos\nal ejecutar un ataque en cadena,\nataca 2 veces.
+MSID_JobSkill_Halberdier	Sin salida
+MSID_H_JobSkill_Halberdier	Si la unidad inicia el ataque contra\nun rival mientras la casilla opuesta\nestá ocupada por un aliado, asesta\nun ataque doble garantizado\n(si el arma lo permite).
+MSID_JobSkill_RoyalKnight	Recomposición
+MSID_H_JobSkill_RoyalKnight	Si la unidad tiene 11 o más PV\ny en una casilla adyacente hay\nun aliado que sufre el efecto ruptura,\nsacrifica 10 PV y devuelve\nal aliado a su estado normal.
+MSID_JobSkill_Berserker	Golpe rotundo +
+MSID_H_JobSkill_Berserker	Si asesta un golpe rotundo,\nempuja al enemigo 2 casillas\nen lugar de 1.
+MSID_JobSkill_Warrior	Inmisericorde
+MSID_H_JobSkill_Warrior	Si ataca a un enemigo que sufre\nel efecto ruptura, inflige + 50 %\nde daño adicional.
+MSID_JobSkill_Sniper	Concentración
+MSID_H_JobSkill_Sniper	La unidad obtiene Crí + 10 durante\nel combate si ataca a un rival que\nno puede contratacar.
+MSID_JobSkill_BowKnight	Ojo letal
+MSID_H_JobSkill_BowKnight	La unidad obtiene Gol + 40 durante\nel combate si la unidad inicia\nel enfrentamiento sin moverse antes.
+MSID_JobSkill_General	Trocar
+MSID_H_JobSkill_General	Permite que la unidad y un aliado\nadyacente intercambien posiciones.
+MSID_H_JobSkill_General_CMD	Cambia puesto con un aliado.
+MSID_JobSkill_GrateKnight	Defensa conjunta
+MSID_H_JobSkill_GrateKnight	Si la unidad ocupa una casilla\nsituada entre un aliado y un\nenemigo, - 3 al daño que le inflija\nese enemigo.
+MSID_JobSkill_Paladin	Teleportación
+MSID_H_JobSkill_Paladin	Permite que la unidad se desplace\na la casilla opuesta de un\naliado adyacente.
+MSID_H_JobSkill_Paladin_CMD	Salta la casilla de un aliado.
+MSID_JobSkill_WolfKnight	Cojera
+MSID_H_JobSkill_WolfKnight	Si la unidad inicia el enfrentamiento\ncon una daga, inflige Mov - 2 al rival\ndurante 1 turno.
+MSID_JobSkill_GriffinKnight	Desbrozo
+MSID_H_JobSkill_GriffinKnight	La casilla que ocupa la unidad\ny las adyacentes tienen un coste de\nmovimiento de 1 para sus aliados.
+MSID_JobSkill_DragonKnight	Ataque aéreo
+MSID_H_JobSkill_DragonKnight	Si la unidad inicia el ataque desde\nuna casilla que el rival no puede\nocupar, otorga Vel + 5 durante\nel combate.
+MSID_JobSkill_Thief	Pasar
+MSID_H_JobSkill_Thief	La unidad puede atravesar\nlas casillas ocupadas por rivales.
+MSID_JobSkill_Sage	Coro mágico
+MSID_H_JobSkill_Sage	Si la unidad inicia el enfrentamiento\ncon un grimorio, su Ata aumenta en\n1 punto por cada aliado adyacente\ncon grimorio.
+MSID_JobSkill_MageKnight	Contrasentido
+MSID_H_JobSkill_MageKnight	Si la unidad inicia el ataque con\nun arma física a un rival mágico\n(o viceversa), obtiene Vel + 3\ndurante el combate.
+MSID_JobSkill_MasterMonk	Curación amplia
+MSID_H_JobSkill_MasterMonk	Si la unidad es curada por un bastón,\nlos aliados adyacentes sanan el 50 %\nde los PV que recupere la unidad.
+MSID_JobSkill_HighPriest	Autosanación
+MSID_H_JobSkill_HighPriest	Permite a la unidad usar bastones\npara sanarse a sí misma.
+MSID_JobSkill_DragonKing	Espíritu divino
+MSID_H_JobSkill_DragonKing	El valor máximo del contador\nde fusión de la propia unidad\nse reduce en 1.
+MSID_JobSkill_ShadowPrincess	Espíritu caído
+MSID_H_JobSkill_ShadowPrincess	Al inicio de cada turno, + 1\nal contador de fusión de la unidad.
+MSID_JobSkill_ShadowDragon	Espíritu oscuro
+MSID_H_JobSkill_ShadowDragon	Al inicio de cada turno, - 1\nal contador de fusión de los rivales\nsituados en un radio de 2 casillas.
+MSID_JobSkill_Avenir	Loto dorado
+MSID_H_JobSkill_Avenir	Puede reducir a la mitad el daño\nfísico sufrido en combate por la\nunidad. Probabilidad = Hab %.
+MSID_JobSkill_Fleurage	Apolo
+MSID_H_JobSkill_Fleurage	Puede añadir el 50 % de Fue al daño\nde ataques mágicos o el 50 %\nde Mag al daño del resto de ataques.\nProbabilidad = Hab %.
+MSID_JobSkill_Successeur	Helios
+MSID_H_JobSkill_Successeur	La unidad puede recuperar el 50 %\ndel daño infligido en PV.\nProbabilidad = Hab %.
+MSID_JobSkill_Tirailleur	Selene
+MSID_H_JobSkill_Tirailleur	La unidad puede ignorar la mitad de\nla Def o Res del enemigo al atacar.\nProbabilidad = Hab %.
+MSID_JobSkill_Lindwurm	Vaciado
+MSID_H_JobSkill_Lindwurm	Al atacar con grimorio, puede\nincrementar el daño infligido en una\ncuantía equivalente a la mitad de la\nMag del rival. Probabilidad = Hab %.
+MSID_JobSkill_Sleipnir	Gran árbol
+MSID_H_JobSkill_Sleipnir	Puede no consumir ningún\nuso al emplear un bastón.\nProbabilidad = Hab %.
+MSID_JobSkill_Pitchfork	Tormenta de arena
+MSID_H_JobSkill_Pitchfork	Al asestar un ataque físico,\npuede calcular el daño con el 150 %\nde la Def en lugar de con la Fue.\nProbabilidad = Hab %.
+MSID_JobSkill_Cupido	Rebote
+MSID_H_JobSkill_Cupido	Al contratacar, puede incrementar\nel daño infligido en una cuantía\nequivalente a la mitad del daño\nsufrido. Probabilidad = Hab %.
+MSID_JobSkill_Melusine	Espada espiritual
+MSID_H_JobSkill_Melusine	Al atacar con espada, el daño\nse calcula con respecto al promedio\nentre la Def y la Res del rival.
+MSID_JobSkill_Dancer	Danza especial
+MSID_H_JobSkill_Dancer	Si la unidad usa una habilidad\nde danza, otorga al objetivo\nHab, Vel y Sue + 3 durante 1 turno.
+MSID_MarthRing_Sheeda	Simpatía
+MSID_H_MarthRing_Sheeda	Si el rival inicia el ataque y la unidad\ntiene el 50 % o menos de sus PV,\nesta sufre 5 puntos de daño menos.
+MSID_MarthRing_Nabarl	Hoja letal
+MSID_H_MarthRing_Nabarl	Otorga Crí + 10 durante el combate\nsi la unidad inicia el enfrentamiento\ncon una espada.
+MSID_SigludRing_Celice	Racha letal
+MSID_H_SigludRing_Celice	Otorga Crí + 1 acumulable\na la unidad cada vez que inicia\nel ataque y derrota a un rival.\n(Máx. + 10, hasta el final de\nla batalla.)
+MSID_SigludRing_Diadora	Recuperación
+MSID_H_SigludRing_Diadora	La unidad recupera 5 PV\nen cada turno.
+MSID_CelicaRing_Alm	Aquilón
+MSID_H_CelicaRing_Alm	Si la unidad inicia el enfrentamiento\ncon una espada, el rival no puede\ncontratacar. Probabilidad = Sue %.
+MSID_CelicaRing_Mae	Estruendo
+MSID_H_CelicaRing_Mae	Si la unidad usa Trueno, Elthunder\no Thoron, inflige + 20 % de daño\nadicional.
+MSID_MicaiahRing_Sothe	Maldición
+MSID_H_MicaiahRing_Sothe	Puede reducir a 1 los PV del rival.\nProbabilidad = (Hab ÷ 2) %.\n(Algunos enemigos son inmunes.)
+MSID_MicaiahRing_Erincia	Piedad
+MSID_H_MicaiahRing_Erincia	Si la unidad ejecuta un ataque\ncapaz de derrotar al enemigo,\neste sobrevive con 1 PV.
+MSID_RoyRing_Lilina	Brasas
+MSID_H_RoyRing_Lilina	Si la unidad usa Fuego, Elfire\no Bolganone, inflige + 20 %\nde daño adicional.
+MSID_RoyRing_Dieck	Brazo fuerte
+MSID_H_RoyRing_Dieck	Otorga Gol + 20 si la unidad\nestá equipada con un arma\ncontundente.
+MSID_LeafRing_Fin	Milagro
+MSID_H_LeafRing_Fin	Esquiva el ataque del enemigo si\neste provoca la derrota de la unidad.\nProbabilidad = Sue %.\n(Máx. 50 %)
+MSID_LeafRing_Olwen	Trueno funesto
+MSID_H_LeafRing_Olwen	Si la unidad inicia el enfrentamiento\ncon Trueno, asesta un ataque extra.\n(Elthunder y Thoron excluidos.)
+MSID_LucinaRing_Chrom	Rey legítimo
+MSID_H_LucinaRing_Chrom	Aumenta en un 5 % la probabilidad\nde activación de las habilidades\ncon probabilidad de activación.
+MSID_LucinaRing_Lissa	Manos curativas
+MSID_H_LucinaRing_Lissa	Al sanar a un aliado con un bastón,\nrestaura + 5 PV adicionales al\nobjetivo.
+MSID_LinRing_Eliwod	Enroque
+MSID_H_LinRing_Eliwod	Permite a la unidad alejarse\n1 casilla de un aliado adyacente\ny arrastrarlo hacia ella.
+MSID_H_LinRing_Eliwod_CMD	Unidad y aliado retroceden.
+MSID_LinRing_Nino	Gigaexcalibur
+MSID_H_LinRing_Nino	Si la unidad inicia el enfrentamiento\natacando con Excalibur, inflige\n+ 20 % de daño adicional.
+MSID_IkeRing_Senerio	Viento racheado
+MSID_H_IkeRing_Senerio	Si la unidad inicia el ataque\ncon Viento, puede asestar un ataque\nextra. Probabilidad = Hab %.\n(Elwind y Excalibur excluidos.)
+MSID_IkeRing_Wayu	Empujar
+MSID_H_IkeRing_Wayu	Permite alejar a un aliado adyacente\ny con menor constitución a 1 casilla\nde distancia.
+MSID_H_IkeRing_Wayu_CMD	Aleja 1 casilla a un aliado\nque tenga menos Con.
+MSID_BylethRing_Edelgard	Flor rutilante
+MSID_H_BylethRing_Edelgard	Si la unidad inicia el enfrentamiento,\npuede congelar al enemigo.\nProbabilidad = Daño infligido %.
+MSID_BylethRing_Dimitri	Paraselene
+MSID_H_BylethRing_Dimitri	Permite asestar un ataque a un rival\nadyacente y alejarse 1 casilla de\ndicha unidad tras el enfrentamiento.
+MSID_H_BylethRing_Dimitri_CMD	Ataca y retrocede.
+MSID_BylethRing_Claude	Viento celestial
+MSID_H_BylethRing_Claude	Si la unidad tiene el 100 % de PV,\nse incrementa en + 1 el alcance\nde los arcos.
+MSID_KamuiRing_Marks	Caballerosidad
+MSID_H_KamuiRing_Marks	Si la unidad inicia el enfrentamiento\ncontra un rival que tenga el 100 %\nde los PV, inflige daño + 2\ny sufre daño - 2.
+MSID_KamuiRing_Ryoma	Bushido
+MSID_H_KamuiRing_Ryoma	Si la unidad tiene un nivel superior\nal rival, obtiene Crí + 10, inflige daño\n+ 2 y sufre daño - 2 en combate.
+MSID_EirikRing_Marica	Letalidad
+MSID_H_EirikRing_Marica	Si la unidad asesta un golpe crítico,\nderrota al enemigo al instante.\nProbabilidad = 30 %.\n(No incluye a ciertos enemigos\npoderosos.)
+MSID_EirikRing_Heanius	Tiro certero
+MSID_H_EirikRing_Heanius	Si la unidad inicia el enfrentamiento,\nsus ataques aciertan siempre.\nProbabilidad = Hab %.
+MSID_SpecialRing_Alfonse	Mejora Ata
+MSID_H_SpecialRing_Alfonse	Otorga Ata + 2 a los aliados\nadyacentes.
+MSID_SpecialRing_Sharena	Impulso Def
+MSID_H_SpecialRing_Sharena	Otorga Def + 2 a los aliados\nadyacentes durante 1 turno\nal inicio del turno del jugador.
+MSID_SpecialRing_Anna	Mejora Res
+MSID_H_SpecialRing_Anna	Otorga Res + 2 a los aliados\nadyacentes.
+MSID_SombreBarrier1	Barrera maligna
+MSID_H_SombreBarrier1	Barrera de Emblemas oscuros.\nAnula la eficacia contra Dragones\nCaídos y reduce al 50 % el daño\nque sufre la unidad.
+MSID_SombreBarrier2	Barrera maligna +
+MSID_H_SombreBarrier2	Barrera de Emblemas oscuros.\nAnula la eficacia contra Dragones\nCaídos y anula el 70 % del daño\nque sufre la unidad.
+MSID_SombreBarrier3	Barrera maligna ++
+MSID_H_SombreBarrier3	Barrera de Emblemas oscuros.\nAnula la eficacia contra Dragones\nCaídos y anula el 85 % del daño\nque sufre la unidad.
+MSID_SombreBarrier4	Barrera maligna +++
+MSID_H_SombreBarrier4	Barrera de Emblemas oscuros.\nAnula la eficacia contra Dragones\nCaídos y reduce a 0 el daño\nque sufre la unidad.
+MSID_SombreBarrier1_Normal	Barrera oscura
+MSID_H_SombreBarrier1_Normal	Barrera de Emblemas oscuros.\nAnula el 20 % del daño que sufre\nla unidad.
+MSID_SombreBarrier2_Normal	Barrera oscura +
+MSID_H_SombreBarrier2_Normal	Barrera de Emblemas oscuros.\nAnula el 40 % del daño que sufre\nla unidad.
+MSID_SombreBarrier3_Normal	Barrera oscura ++
+MSID_H_SombreBarrier3_Normal	Barrera de Emblemas oscuros.\nAnula el 60 % del daño que sufre\nla unidad.
+MSID_SombreBarrier4_Normal	Barrera oscura +++
+MSID_H_SombreBarrier4_Normal	Barrera de Emblemas oscuros.\nAnula el 80 % del daño que sufre\nla unidad.
+MSID_ChainAttackDamageWeaken	Rompevínculos
+MSID_H_ChainAttackDamageWeaken	Reduce al 30 % la precisión de los\nataques en cadena del rival, así\ncomo el daño sufrido por la unidad.
+MSID_SnakeVenom	Ataque venenoso
+MSID_H_SnakeVenom	Si la unidad inicia el ataque,\ninflige al rival un daño equivalente\nal 20 % de sus PV máximos\ntras el enfrentamiento.
+MSID_SighOfDeath	Arrebato brutal
+MSID_H_SighOfDeath	Si la unidad inicia el enfrentamiento,\nal concluir este, inflige a los rivales\nsituados en un radio de 2 casillas\nun daño equivalente al 20 % de sus\nPV máximos.
+MSID_SwordKilling	Partesables
+MSID_H_SwordKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa una espada,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_LanceKilling	Quiebralanzas
+MSID_H_LanceKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa una lanza,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_AxeKilling	Mellahachas
+MSID_H_AxeKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa un hacha,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_MagicKilling	Rajagrimorios
+MSID_H_MagicKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa un grimorio,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_BowKilling	Rompearcos
+MSID_H_BowKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa un arco,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_KnifeKilling	Trituradagas
+MSID_H_KnifeKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa una daga,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_PranaKilling	Antiartes
+MSID_H_PranaKilling	Si la unidad tiene el 50 % de PV\no más al inicio del enfrentamiento\ny el enemigo usa un arte,\nla unidad puede asestar un ataque\ndoble y el enemigo no podrá.
+MSID_PowerSeal	Sellar fuerza
+MSID_H_PowerSeal	Si la unidad inicia el ataque,\ninflige Fue - 6 al enemigo tras el\nenfrentamiento (el efecto se reduce\nen 1 cada turno).
+MSID_MagicSeal	Sellar magia
+MSID_H_MagicSeal	Si la unidad inicia el ataque,\ninflige Mag - 6 al enemigo tras el\nenfrentamiento (el efecto se reduce\nen 1 cada turno).
+MSID_DefenseSeal	Sellar defensa
+MSID_H_DefenseSeal	Si la unidad inicia el ataque,\ninflige Def - 6 al enemigo tras el\nenfrentamiento (el efecto se reduce\nen 1 cada turno).
+MSID_SpeedSeal	Sellar velocidad
+MSID_H_SpeedSeal	Si la unidad inicia el ataque,\ninflige Vel - 6 al enemigo tras el\nenfrentamiento (el efecto se reduce\nen 1 cada turno).
+MSID_MagicDefenseSeal	Sellar resistencia
+MSID_H_MagicDefenseSeal	Si la unidad inicia el ataque,\ninflige Res - 6 al enemigo tras el\nenfrentamiento (el efecto se reduce\nen 1 cada turno).
+MSID_DemonStance	Postura feroz
+MSID_H_DemonStance	Si el rival inicia el enfrentamiento,\nla unidad recibe Fue + 6 durante\nel combate.
+MSID_VajraStance	Postura firme
+MSID_H_VajraStance	Si el rival inicia el enfrentamiento,\nla unidad recibe Def + 6 durante\nel combate.
+MSID_SwallowStance	Postura dúplice
+MSID_H_SwallowStance	Si el rival inicia el enfrentamiento,\nla unidad recibe Vel + 6 durante\nel combate.
+MSID_MingMirrorStance	Postura guardián
+MSID_H_MingMirrorStance	Si el rival inicia el enfrentamiento,\nla unidad recibe Res + 6 durante\nel combate.
+MSID_Deadline	Dar y tomar
+MSID_H_Deadline	Otorga + 10 al daño infligido\ny + 10 al daño sufrido en combate.
+MSID_EnhancedCompatibility	Triadepto
+MSID_H_EnhancedCompatibility	Si la unidad tiene ventaja de arma,\nsiempre asesta un ataque doble.\nSi tiene desventaja, el enemigo\nsiempre asesta un ataque doble.
+MSID_CatBites	Bestia acorralada
+MSID_H_CatBites	Si la unidad tiene el 50 %\no menos de los PV al inicio del\nenfrentamiento, obtiene Crí + 30\ndurante el mismo.
+MSID_SelfDestruction	Autodestrucción
+MSID_H_SelfDestruction	Si la unidad tiene el 50 % de PV\no menos al inicio del turno del\njugador, la unidad muere y arrebata\nel 50 % de sus PV a los rivales\nsituados en un radio de 2 casillas.
+MSID_BreakInvalid	Inquebrantable
+MSID_H_BreakInvalid	Impide que la unidad sufra\nel efecto ruptura.
+MSID_Immovable	Inamovible
+MSID_H_Immovable	Impide que la unidad se mueva\na causa de habilidades, al recibir\ngolpes de armas contundentes, etc.
+MSID_CurseOfNihility	Mal de ojo
+MSID_H_CurseOfNihility	Impide que el enemigo acumule\nExp luchando contra la unidad.
+MSID_ClearStreamHit	Duelista ágil
+MSID_H_ClearStreamHit	Si la unidad inicia el enfrentamiento,\nobtiene Esq + 30 en combate.
+MSID_SwallowHit	Ofensa dúplice
+MSID_H_SwallowHit	Si la unidad inicia el enfrentamiento,\nobtiene Vel + 5 en combate.
+MSID_DemonHit	Muerte inminente
+MSID_H_DemonHit	Si la unidad inicia el enfrentamiento,\nobtiene Crí + 20 en combate.
+MSID_BadBirdHit	Golpe certero
+MSID_H_BadBirdHit	Si la unidad inicia el enfrentamiento,\nobtiene Gol + 40 en combate.
+MSID_VajraHit	Ataque blindado
+MSID_H_VajraHit	Si la unidad inicia el enfrentamiento,\nobtiene - 10 de daño físico sufrido\ndurante el combate.
+MSID_MingMirrorHit	Empuje antimagia
+MSID_H_MingMirrorHit	Si la unidad inicia el enfrentamiento,\nobtiene - 20 de daño mágico sufrido\ndurante el combate.
+MSID_FrenzyHit	Golpe espiritual
+MSID_H_FrenzyHit	Si la unidad acierta un ataque,\ninflige - 5 al contador de fusión\ndel rival.
+MSID_EffectResistance	Pujanza
+MSID_H_EffectResistance	Reduce el daño de la eficacia.
+MSID_EffectInvalid	Impavidez
+MSID_H_EffectInvalid	Anula el daño de la eficacia.
+MSID_Expert_1	Galones
+MSID_H_Expert_1	Impide que la unidad sufra\nel efecto ruptura. Reduce\nel daño de la eficacia.
+MSID_Expert_2	Galones +
+MSID_H_Expert_2	Impide que la unidad sufra\nel efecto ruptura. Anula\nel daño de la eficacia.
+MSID_SkillSuccession	Legado hábil
+MSID_H_SkillSuccession	La unidad puede heredar\nhabilidades de este Emblema.
+MSID_EngageContinueTurn	Vínculo sólido
+MSID_H_EngageContinueTurn	La unidad se mantiene fusionada\ndurante un turno adicional.
+MSID_EngageCount	Gran sinergia
+MSID_H_EngageCount	El valor máximo del contador de\nfusión de la unidad se reduce en 1.
+MSID_RefineGodWeapon_Effect_Fly	Eficacia: Voladores
+MSID_RefineGodWeapon_Effect_Horse	Eficacia: Caballería
+MSID_RefineGodWeapon_Effect_Armor	Eficacia: Acorazados
+MSID_RefineGodWeapon_Effect_Dragon	Eficacia: Dragones
+MSID_RefineGodWeapon_Effect_Morph	Eficacia: Aberraciones
+MSID_H_Effect_Fly	Vulnerable ante armas con eficacia\ncontra unidades voladoras.
+MSID_H_Effect_Horse	Vulnerable ante armas con eficacia\ncontra unidades de caballería.
+MSID_H_Effect_Armor	Vulnerable ante armas con eficacia\ncontra unidades acorazadas.
+MSID_H_Effect_Dragon	Vulnerable ante armas con eficacia\ncontra dragones.
+MSID_H_Effect_Morph	Vulnerable ante armas con eficacia\ncontra aberraciones.
+MSID_H_Effect_EvilDragon	Vulnerable ante armas con eficacia\ncontra Dragones Caídos.
+MSID_H_Effect_Mediuth	Los ataques de Marth son eficaces\ncontra esta unidad.
+MSID_H_Effect_Duma	Los ataques de Celica son eficaces\ncontra esta unidad.
+MSID_H_Effect_Loptous	Los ataques de Sigurd son eficaces\ncontra esta unidad.
+MSID_H_Effect_Veld	Los ataques de Leif son eficaces\ncontra esta unidad.
+MSID_H_Effect_Idenn	Los ataques de Roy son eficaces\ncontra esta unidad.
+MSID_H_Effect_Nergal	Los ataques de Lyn son eficaces\ncontra esta unidad.
+MSID_H_Effect_Fodeth	Los ataques de Eirika o Ephraim\nson eficaces contra esta unidad.
+MSID_H_Effect_Ashnard	Los ataques de Ike son eficaces\ncontra esta unidad.
+MSID_H_Effect_Astarte	Los ataques de Micaiah son eficaces\ncontra esta unidad.
+MSID_H_Effect_Gimle	Los ataques de Lucina son eficaces\ncontra esta unidad.
+MSID_H_Effect_Hydra	Los ataques de Corrin son eficaces\ncontra esta unidad.
+MSID_H_Effect_Nemesis	Los ataques de Byleth son eficaces\ncontra esta unidad.

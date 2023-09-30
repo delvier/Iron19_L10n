@@ -1,0 +1,743 @@
+MID_TUT_CATEGORY_TITLE_Battle	Combattimento
+MID_TUT_CATEGORY_TITLE_God	Emblemi
+MID_TUT_CATEGORY_TITLE_Hub	Somniel
+MID_TUT_CATEGORY_TITLE_Kizuna	Esplorazione
+MID_TUT_CATEGORY_TITLE_Challenge	Prove
+MID_TUT_CATEGORY_TITLE_Local	Scontro attuale
+MID_TUT_BMAP_MOVE_TITLE	Movimento delle unità
+MID_TUT_BMAP_MOVE_0	Per far muovere una delle tue unità,\nselezionala con \x0E\x08\x02\x04\x02A, poi scegli la destinazione\ncon \x0E\x08\x02\x0E\x0CStickL.
+MID_TUT_BMAP_MOVE_1	Puoi spostare l'unità su uno qualunque\ndegli spazi blu.
+MID_TUT_BMAP_MOVE_2	Premi di nuovo \x0E\x08\x02\x04\x02A per confermare\nla destinazione.
+MID_TUT_BMAP_COMMAND_TITLE	Comandi delle unità
+MID_TUT_BMAP_COMMAND_0	Dopo aver spostato un'unità, vedrai un elenco\ncon i comandi.
+MID_TUT_BMAP_COMMAND_1	Se non vuoi agire, seleziona "Attendi".
+MID_TUT_BMAP_CHANGE_TITLE	Fine del turno
+MID_TUT_BMAP_CHANGE_0	Quando tutte le tue unità hanno eseguito\nun'azione, la fase del giocatore termina\ne inizia quella del nemico.
+MID_TUT_BMAP_CHANGE_1	Una volta completate le due fasi, il turno finisce\ne ne inizia uno nuovo con la fase giocatore.
+MID_TUT_BMAP_ATTACK_TITLE	Attacco
+MID_TUT_BMAP_ATTACK_0	Per attaccare, sposta la tua unità in prossimità\ndi un nemico, poi seleziona "Attacca".
+MID_TUT_BMAP_ATTACK_1	Puoi anche iniziare un attacco premendo \x0E\x08\x02\x04\x02A\nse sposti il cursore su un nemico e vedi\napparire "\x0E\x08\x02\x04\x02A Attacca ".
+MID_TUT_BMAP_ENGAGE_TITLE	Unione
+MID_TUT_BMAP_ENGAGE_0	Quando la barra dell'unione è al massimo,\nseleziona "Unione".
+MID_TUT_BMAP_ENGAGE_1	L'unità si unirà con l'emblema selezionato e\npotrà usare delle speciali armi unione.
+MID_TUT_BMAP_ENGAGE_2	Potrà inoltre usare delle abilità speciali.
+MID_TUT_BMAP_ENGAGE_3	L'unione con un emblema dura tre turni.
+MID_TUT_BMAP_ENGAGE_ATTACK_TITLE	Attacchi unione
+MID_TUT_BMAP_ENGAGE_ATTACK_0	Durante l'unione, puoi usare potenti attacchi\nunione.
+MID_TUT_BMAP_ENGAGE_ATTACK_1	L'attacco unione è una potente abilità che può\nessere usata soltanto una volta durante l'unione.
+MID_TUT_BMAP_ENGAGE_ATTACK_2	Per esempio, "Raffica suprema" infligge\ningenti danni. Per usare questo attacco,\nseleziona "Raffica suprema" e un'arma.
+MID_TUT_BMAP_TERRAIN_TITLE	Effetti del terreno
+MID_TUT_BMAP_TERRAIN_0	I tipi di terreno influiscono anche sulla battaglia.\nAd esempio, è più difficile mandare a segno\nun colpo contro un'unità che è tra i cespugli.
+MID_TUT_BMAP_TERRAIN_1	Inoltre le unità terrestri devono usare più\nmovimenti per attraversare un cespuglio.
+MID_TUT_BMAP_TERRAIN_2	Verifica gli effetti del terreno nell'angolo\nin alto a sinistra dello schermo e sfruttali\na tuo vantaggio in battaglia.
+MID_TUT_BMAP_RECOVERY_TITLE	Curarsi
+MID_TUT_BMAP_RECOVERY_0	Quando i punti salute (PS) di un'unità scendono\na 0, questa non potrà più combattere. Usa un\nunguento o altri strumenti curativi per impedirlo.
+MID_TUT_BMAP_RECOVERY_1	Utilizza un unguento selezionandolo dal\nmenu "Strumenti" nei comandi dell'unità.
+MID_TUT_BMAP_SYNCHRO_TITLE	Sincronizzazione
+MID_TUT_BMAP_SYNCHRO_0	Un'unità e un emblema possono combattere\nfianco a fianco quando sono sincronizzati.
+MID_TUT_BMAP_SYNCHRO_1	La sincronizzazione rende l'unità più potente\ne sblocca le abilità sincro.
+MID_TUT_BMAP_KIZUNA_LV_TITLE	Livello del legame
+MID_TUT_BMAP_KIZUNA_LV_0	Combattendo al fianco di un emblema, si ottiene\nesperienza di legame che incrementerà il livello\ndi legame tra unità ed emblema.
+MID_TUT_BMAP_KIZUNA_LV_1	Con l'aumento del livello di legame, le unità\npossono usare nuovi effetti e ottengono bonus\nai parametri.
+MID_TUT_BMAP_RANGE_TITLE	Raggio d'attacco
+MID_TUT_BMAP_RANGE_0	Ogni arma ha il suo raggio d'attacco.\nUn arco con un raggio di 2 può colpire\ni nemici a distanza di due spazi.
+MID_TUT_BMAP_RANGE_1	Le armi con raggio 1 non contrattaccano\ngli attacchi a distanza e quelle con raggio 2\nnon contrattaccano i nemici adiacenti.
+MID_TUT_BMAP_BREAK_TITLE	Breccia
+MID_TUT_BMAP_BREAK_0	Se attacchi un nemico iniziando lo scontro e\nusando un'arma in vantaggio, puoi infliggergli\nl'effetto breccia.
+MID_TUT_BMAP_BREAK_1	Le unità con lo stato di breccia non possono\ncontrattaccare fin dopo il loro prossimo scontro.\nÈ il momento giusto per attaccare!
+MID_TUT_BMAP_BREAK_2	Le spade sono in vantaggio contro asce, le asce\ncontro lance, le lance contro spade. Le arti\nsono in vantaggio contro archi, magia e coltelli.
+MID_TUT_BMAP_WAND_TITLE	Bastoni
+MID_TUT_BMAP_WAND_0	I bastoni servono ad aiutare gli alleati o a\nintralciare i nemici. Solo alcune classi, come\ni monaci, possono usarli.
+MID_TUT_BMAP_WAND_1	Ad esempio, il bastone Cura ripristina i punti\nsalute (PS) di un alleato.
+MID_TUT_BMAP_WAND_2	I bastoni sono utili, ma si rompono dopo averli\nusati un certo numero di volte.
+MID_TUT_STYLE_PRANA_TITLE	Unità adepti qi
+MID_TUT_STYLE_PRANA_0	Gli adepti qi possono usare la parata\nconcatenata per proteggere gli alleati\nadiacenti dagli attacchi.
+MID_TUT_STYLE_PRANA_1	L'unità protetta resta incolume, perché\nsarà l'adepto qi a subire al suo posto i danni,\npari al 20% dei suoi PS massimi.
+MID_TUT_STYLE_PRANA_2	La parata concatenata può essere usata solo se\nl'unità adepto qi ha tutti i PS.
+MID_TUT_BMAP_MAGIC_TITLE	Magia
+MID_TUT_BMAP_MAGIC_0	Le magie possono essere usate per attaccare\nnemici distanti e adiacenti.
+MID_TUT_BMAP_MAGIC_1	Le magie tendono a essere efficaci contro\ni nemici che hanno una difesa fisica alta.
+MID_TUT_STYLE_MAGIC_TITLE	Unità mistiche
+MID_TUT_STYLE_MAGIC_0	Quando attaccano con la magia, i mistici\nannullano i bonus di schivata (Scv) che i\nnemici ottengono dal terreno.
+MID_TUT_STYLE_MAGIC_1	Le unità mistiche riescono ad attaccare\nda lontano anche in situazioni in cui\nsarebbe difficile colpire il nemico.
+MID_TUT_BMAP_GOD_ENERGY_TITLE	Aura degli emblemi
+MID_TUT_BMAP_GOD_ENERGY_0	Talvolta, su alcuni spazi vedrai aleggiare\nl'aura di un emblema.
+MID_TUT_BMAP_GOD_ENERGY_1	Se un'unità sincronizzata attende o termina la\nsua azione su uno spazio con l'aura di un\nemblema, la barra dell'unione si riempirà tutta.
+MID_TUT_OVERALLINFORMATION_TITLE	Area di attacco
+MID_TUT_OVERALLINFORMATION_0	Spostando il cursore su un nemico, puoi\nvedere la sua area di attacco. Premendo \x0E\x08\x02\x04\x02A\npuoi mantenere visibile l'area di attacco.
+MID_TUT_OVERALLINFORMATION_1	Puoi premere \x0E\x08\x02\x06\x04ZL per vedere l'area di attacco\ndi tutti i nemici contemporaneamente.
+MID_TUT_BMAP_SPECIALATTACK_TITLE	Efficacia
+MID_TUT_BMAP_SPECIALATTACK_0	Alcune armi hanno delle icone che indicano\nl'efficacia contro certi tipi di nemici.
+MID_TUT_BMAP_SPECIALATTACK_1	Queste armi infliggono danni extra al tipo di\nnemici indicato.
+MID_TUT_STYLE_COOP_TITLE	Unità di rinforzo
+MID_TUT_STYLE_COOP_0	Le unità di rinforzo possono aggiungere\nun attacco concatenato all'attacco di un alleato.
+MID_TUT_STYLE_COOP_1	Se un alleato attacca un nemico che si trova nel\nraggio d'attacco dell'unità di rinforzo, questa si\nunirà al combattimento.
+MID_TUT_STYLE_HORSE_TITLE	Unità a cavallo
+MID_TUT_STYLE_HORSE_0	Le unità a cavallo hanno il raggio di movimento\npiù ampio.
+MID_TUT_STYLE_HORSE_1	Con la loro rapidità possono sfrecciare verso\nil nemico per sferrare il primo colpo o aiutare\nun alleato.
+MID_TUT_STYLE_COVERT_TITLE	Unità furtive
+MID_TUT_STYLE_COVERT_0	Le unità furtive ottengono il doppio dei normali\nbonus alla schivata (Scv) dagli effetti del\nterreno.
+MID_TUT_STYLE_COVERT_1	Sono avvantaggiate nelle aree con cespugli o\naltri tipi di terreni favorevoli.
+MID_TUT_STYLE_HEAVY_TITLE	Unità corazzate
+MID_TUT_STYLE_HEAVY_0	Le unità corazzate annullano l'effetto breccia,\nanche se attaccate con un'arma con vantaggio.
+MID_TUT_STYLE_HEAVY_1	Sono unità adatte alla prima linea perché hanno\nPS e difesa elevati, ma avendo poca resistenza\nsono vulnerabili agli attacchi magici.
+MID_TUT_STYLE_FLY_TITLE	Unità volanti
+MID_TUT_STYLE_FLY_0	Le unità volanti ignorano gli effetti del terreno\ne possono passare anche su spazi non\naccessibili alle altre unità a piedi.
+MID_TUT_STYLE_FLY_1	Queste unità possono spostarsi con facilità,\nma sono vulnerabili contro gli archi.
+MID_TUT_STYLE_DRAGON_TITLE	Draghi
+MID_TUT_STYLE_DRAGON_0	I draghi ottengono effetti supplementari dalle\nabilità unione e dagli attacchi unione.
+MID_TUT_STYLE_DRAGON_1	Aumenta i loro livelli di legame per sfruttare al\nmeglio le abilità degli emblemi.
+MID_TUT_STYLE_BATTLE_TITLE	Tipi di unità
+MID_TUT_STYLE_BATTLE_0	Ci sono differenti tipi di unità, come cavalleria,\nadepto qi e mistico. Ogni tipo di unità ha\nvantaggi diversi.
+MID_TUT_STYLE_BATTLE_1	Per verificare di che tipo di unità si tratta, puoi\ncontrollare lo schermo di stato.
+MID_TUT_BMAP_ITEMDROP_TITLE	Bottini dei nemici
+MID_TUT_BMAP_ITEMDROP_0	Se c'è un'icona bottino sopra la barra dei PS di\nun nemico, significa che se lo sconfiggi puoi\nottenere degli strumenti che porta con sé.
+MID_TUT_BMAP_ITEMDROP_1	Gli strumenti che puoi ottenere saranno\nevidenziati in verde nell'inventario del nemico.
+MID_TUT_BMAP_XHELP_TITLE	Dettagli
+MID_TUT_BMAP_XHELP_0	Controlla le informazioni di un'unità\nselezionandola con \x0E\x08\x02\x04\x02X.
+MID_TUT_BMAP_XHELP_1	Controlla lo schermo "Dettagli" per informazioni\nsu armi e abilità.
+MID_TUT_BMAP_XHELP_2	Torna alla battaglia premendo \x0E\x08\x02\x04\x02B o \x0E\x08\x02\x04\x02X.
+MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE	Conversazioni con emblemi
+MID_TUT_BMAP_BONDSSUPPORTTALK_0	Aumentando il livello di legame tra unità ed\nemblemi, sblocchi delle conversazioni speciali.
+MID_TUT_BMAP_BONDSSUPPORTTALK_1	Assisti alle conversazioni disponibili nel Somniel\no durante l'esplorazione della mappa del mondo.
+MID_TUT_BMAP_BONDSSUPPORTTALK_2	Dopo aver visto queste conversazioni, potrai\naccrescere ancor più il livello di legame.
+MID_TUT_BMAP_SUPPORT_TITLE	Sostegno
+MID_TUT_BMAP_SUPPORT_0	Quando gli alleati si curano o combattono\ninsieme, ottengono punti sostegno e sbloccano\ndelle conversazioni di sostegno.
+MID_TUT_BMAP_SUPPORT_1	Assistendo a queste conversazioni nel Somniel\no nella mappa del mondo, potrai incrementare\nil livello di sostegno tra i personaggi.
+MID_TUT_BMAP_SUPPORT_2	Le unità con livello di sostegno alto ottengono\nbonus ai parametri quando sono adiacenti.
+MID_TUT_BMAP_VISIT_TITLE	Visitare abitazioni
+MID_TUT_BMAP_VISIT_0	Se visiti una casa per avvertire gli abitanti di un\npericolo, potresti ricevere in cambio oggetti\noppure monete.
+MID_TUT_BMAP_VISIT_1	Per fare visita agli abitanti, sposta un alleato\nsullo spazio illuminato di fronte alla casa e\nseleziona "Visita".
+MID_TUT_BMAP_VISIT_2	Attenzione, però: i nemici potrebbero cercare di\nraggiungere le case prima di te per distruggerle.
+MID_TUT_BMAP_TIMECRYSTAL_TITLE	Cronogemma del drago
+MID_TUT_BMAP_TIMECRYSTAL_0	Grazie alla cronogemma del drago, puoi\nriavvolgere le azioni compiute in battaglia\ne riprovare.
+MID_TUT_BMAP_TIMECRYSTAL_1	Seleziona "Cronogemma" dal menu. Usa \x0E\x08\x02\x06\x04Up e \x0E\x08\x02\x0A\x08Down\nper decidere quanto indietro vuoi tornare\ne conferma con \x0E\x08\x02\x04\x02A.
+MID_TUT_BMAP_REINFORCEMENT_TITLE	Rinforzi
+MID_TUT_BMAP_REINFORCEMENT_0	A volte i nemici chiameranno dei rinforzi\ndurante le battaglie.
+MID_TUT_BMAP_REINFORCEMENT_1	Spesso i rinforzi provengono dai forti o dai\nbordi della mappa, quindi fa' attenzione.
+MID_TUT_BMAP_TRANSPORTER_TITLE	Rifornimenti
+MID_TUT_BMAP_TRANSPORTER_0	Usa i rifornimenti per conservare e recuperare\ngli strumenti.
+MID_TUT_BMAP_TRANSPORTER_1	Solo \x0E\x06\x03\x00 e gli alleati negli spazi\nadiacenti possono accedere ai rifornimenti\ndurante la battaglia.
+MID_TUT_BMAP_DEADSOUL_TITLE	Spiriti dei caduti
+MID_TUT_BMAP_DEADSOUL_0	Se combatti mentre sei online, potresti\nvedere apparire sul campo degli spiriti che\nrappresentano lotte passate di altri giocatori.
+MID_TUT_BMAP_DEADSOUL_1	Gli spiriti gialli appaiono nei luoghi in cui sono\ncaduti molti alleati. Se attendi sui loro spazi,\npuoi ottenere Esp ed Esp di legame.
+MID_TUT_BMAP_DEADSOUL_2	Gli spiriti viola appaiono nei luoghi in cui sono\ncaduti molti nemici. Se attendi sui loro spazi,\npuoi raccogliere gli oggetti che hanno lasciato.
+MID_TUT_BMAP_DOOR_TITLE	Porte
+MID_TUT_BMAP_DOOR_0	Attacca le porte per demolirle.
+MID_TUT_BMAP_DOOR_1	Un ladro può usare il comando "Apri porta"\nper aprirla senza distruggerla.
+MID_TUT_BMAP_TREASUREBOX_TITLE	Scrigni
+MID_TUT_BMAP_TREASUREBOX_0	Per raccogliere il contenuto di uno scrigno,\nseleziona "Apri scrigno" da uno spazio\nadiacente.
+MID_TUT_BMAP_TREASUREBOX_1	Se un nemico apre per primo lo scrigno,\npuoi recuperare il contenuto sconfiggendolo.
+MID_TUT_BMAP_BREAKINGWALL_TITLE	Demolire il terreno
+MID_TUT_BMAP_BREAKINGWALL_0	Se un terreno è definito "Distruttibile" nelle\ninformazioni, è possibile attaccarlo e\ndistruggerlo.
+MID_TUT_BMAP_BREAKINGWALL_1	Una volta distrutto il terreno, è possibile\nattraversarlo liberamente.
+MID_TUT_BMAP_HPSTOCK_TITLE	Pietre vitali
+MID_TUT_BMAP_HPSTOCK_0	Alcuni nemici potenti possiedono pietre vitali.
+MID_TUT_BMAP_HPSTOCK_1	Se i loro PS scendono a 0, consumeranno\nuna pietra per ripristinarli.
+MID_TUT_BMAP_HPSTOCK_2	Continua ad attaccarli fino a che non avranno\nutilizzato tutte le pietre vitali in loro possesso.
+MID_TUT_BMAP_INTERFERINGCANE_TITLE	Bastoni di stato
+MID_TUT_BMAP_INTERFERINGCANE_0	Alcuni bastoni possono intralciare i nemici\nbloccandone i movimenti o posizionando\nostacoli sul loro cammino.
+MID_TUT_BMAP_SEARCH_TITLE	Buio
+MID_TUT_BMAP_SEARCH_0	Nei luoghi bui, sono visibili solo le aree intorno\nagli alleati, ai bracieri e alle torce.
+MID_TUT_BMAP_SEARCH_1	Procedi con cautela! Degli avversari\npotrebbero nascondersi nell'ombra.
+MID_TUT_BMAP_POISON_TITLE	Veleno
+MID_TUT_BMAP_POISON_0	Alcune classi, come i ladri, usano coltelli che\navvelenano i nemici colpiti.
+MID_TUT_BMAP_POISON_1	I nemici avvelenati subiscono danni extra.
+MID_TUT_BMAP_POISON_2	Attaccare ripetutamente con il coltello\nun nemico incrementa la potenza del veleno.
+MID_TUT_BMAP_POISON_3	Le unità rimangono avvelenate fino alle fine\ndella battaglia o fino a quando non siano curate\ncon antitossina o bastone Ripristino.
+MID_TUT_BMAP_TORCH_TITLE	Bracieri
+MID_TUT_BMAP_TORCH_0	Per accendere un braciere, usa "Accendi"\nda uno spazio adiacente.
+MID_TUT_BMAP_TORCH_1	Scopri i nemici nascosti illuminando\nle aree buie.
+MID_TUT_BMAP_SMASH_TITLE	Armi con schianto
+MID_TUT_BMAP_SMASH_0	Armi potenti come spade e gran lance,\nse vanno a segno, schiantano i nemici\nfacendoli indietreggiare di uno spazio.
+MID_TUT_BMAP_SMASH_1	Puoi infliggere l'effetto breccia su di loro se\nli schianti contro un'unità o un ostacolo come\nuna parete.
+MID_TUT_BMAP_SMASH_2	Tuttavia, queste armi sono pesanti: non hanno\nattacco doppio e il tuo avversario attaccherà\nper primo quando inizi lo scontro.
+MID_TUT_BMAP_DARKSYNCHRO_TITLE	Sincronizzazione oscura
+MID_TUT_BMAP_DARKSYNCHRO_0	Anche alcuni nemici utilizzano gli emblemi\ndurante le battaglie.
+MID_TUT_BMAP_DARKSYNCHRO_1	Gli emblemi sincronizzati con il potere oscuro\nnon possono unirsi all'unità, ma possono\ncomunque usare gli attacchi unione.
+MID_TUT_BMAP_DARKSYNCHRO_2	Una luce indica quando il nemico può sferrare\nun attacco unione. Fai attenzione!
+MID_TUT_BMAP_BOWTURRET_TITLE	Baliste
+MID_TUT_BMAP_BOWTURRET_0	Se un'unità equipaggiata con un arco si trova\nsu una balista, può utilizzarla con il comando\n"Spara".
+MID_TUT_BMAP_BOWTURRET_1	Le baliste hanno raggio ampio e grande potenza,\nquindi infliggerai danni ingenti prima che il\nnemico riesca ad avvicinarsi.
+MID_TUT_BMAP_BOWTURRET_2	C'è però un limite al numero di colpi che potrai\nlanciare con ciascuna balista, quindi pianifica\nbene la tua strategia.
+MID_TUT_BMAP_CONVERSATION_TITLE	Dialoghi
+MID_TUT_BMAP_CONVERSATION_0	Se vedi l'icona della conversazione su un'unità,\nseleziona "Parla" da uno spazio adiacente.
+MID_TUT_BMAP_CONVERSATION_1	Parlare con queste unità è un ottimo modo per\nreclutare membri nel tuo esercito.
+MID_TUT_BMAP_CONVERSATION_2	A volte, solo determinati personaggi possono\nparlare con queste unità.
+MID_TUT_BMAP_MAGICTURRET_TITLE	Artiglieria magica
+MID_TUT_BMAP_MAGICTURRET_0	Se un'unità equipaggiata con un tomo si trova\nsu uno spazio con l'artiglieria magica, può\nutilizzarla con il comando "Spara".
+MID_TUT_BMAP_MAGICTURRET_1	L'artiglieria magica è potente e ha un lungo\nraggio. È ideale per attaccare da lontano.
+MID_TUT_BMAP_MAGICTURRET_2	Come le baliste, l'artiglieria magica ha un\nnumero limitato di colpi, quindi pianifica bene\nl'attacco.
+MID_TUT_BMAP_QUICKSAND_TITLE	Sabbie mobili
+MID_TUT_BMAP_QUICKSAND_0	Le sabbie mobili sono un tipo di terreno che\nriduce notevolmente i movimenti quando\nun'unità vuole uscirne fuori.
+MID_TUT_BMAP_QUICKSAND_1	Cerca di evitare le sabbie mobili\nper mantenere la tua mobilità.
+MID_TUT_BMAP_RECKLESS_TITLE	Furia
+MID_TUT_BMAP_RECKLESS_0	I nemici sincronizzati con un emblema oscuro\na volte entrano in uno stato di Furia quando\nusano le pietre vitali.
+MID_TUT_BMAP_RECKLESS_1	Attenzione! Le unità in questo stato assorbono\nil potere dell'emblema oscuro senza controllo,\ndiventando ancora più potenti.
+MID_TUT_BMAP_DANCE_TITLE	Danza
+MID_TUT_BMAP_DANCE_0	Se un ballerino è adiacente a un'unità che ha già\nagito in quel turno, puoi selezionare "Danza".
+MID_TUT_BMAP_DANCE_1	Il bersaglio della danza potrà muoversi e agire\ndi nuovo nello stesso turno.
+MID_TUT_BMAP_FLAMETURRET_TITLE	Cannoni ignei
+MID_TUT_BMAP_FLAMETURRET_0	Puoi usare un cannone igneo posizionandoci\nsopra un'unità e selezionando "Spara".
+MID_TUT_BMAP_FLAMETURRET_1	Il cannone igneo colpisce una vasta area intorno\nal punto di impatto e dà fuoco al terreno.
+MID_TUT_BMAP_FLAMETURRET_2	L'attacco non può ridurre i PS dei nemici a\nmeno di 1. Può colpire anche gli alleati, quindi\nfai attenzione!
+MID_TUT_BMAP_PICKUPARING_TITLE	Raccogliere gli anelli
+MID_TUT_BMAP_PICKUPARING_0	Evoca gli emblemi posizionando \x0E\x06\x03\x00\naccanto a un anello caduto.
+MID_TUT_BMAP_LINKINGUP_TITLE	Sincronizzazione in battaglia
+MID_TUT_BMAP_LINKINGUP_0	Un alleato privo di anelli\x0E\x01\x0B\x00 può spostarsi\naccanto a un emblema evocato e selezionare\n"Parla" per sincronizzarsi.
+MID_TUT_BMAP_DRAGONCREST_TITLE	Scheggia del Drago Maligno
+MID_TUT_BMAP_DRAGONCREST_0	Per infrangere la scheggia del Drago Maligno,\ndevi sconfiggere chi ha l'incarico di proteggerla:\nZephia e Griss.
+MID_TUT_BMAP_DRAGONCREST_1	Zephia e Griss useranno il potere della scheggia\nper lanciare devastanti bombe vulcaniche.
+MID_TUT_BMAP_VOLCANICBOMB_TITLE	Bombe vulcaniche
+MID_TUT_BMAP_VOLCANICBOMB_0	Le bombe vulcaniche colpiscono ogni tot turni.
+MID_TUT_BMAP_VOLCANICBOMB_1	Le bombe distruggono i macigni e infliggono\ningenti danni agli alleati, se li colpiscono.
+MID_TUT_BMAP_VOLCANICBOMB_2	Un avvertimento indicherà il punto di impatto\ndelle bombe, quindi assicurati di spostare\nle unità.
+MID_TUT_BMAP_AVALANCHE_TITLE	Valanghe
+MID_TUT_BMAP_AVALANCHE_0	La versione passata di \x0E\x06\x03\x00 userà\nil potere della scheggia per provocare valanghe,\nin grado di spingere indietro le unità colpite.
+MID_TUT_BMAP_AVALANCHE_1	Un avvertimento indicherà dove si abbatterà\nla valanga, quindi muoviti con attenzione.
+MID_TUT_BMAP_AVALANCHE_2	Macigni e nemici bloccano lo scivolamento\nall'indietro.
+MID_TUT_BMAP_TURNLIMIT_TITLE	Limite di turni
+MID_TUT_BMAP_TURNLIMIT_0	Certe battaglie devono essere vinte entro un\ndeterminato numero di turni.
+MID_TUT_BMAP_TURNLIMIT_1	Soddisfa le condizioni di vittoria prima che\ni turni si esauriscano, o perderai la battaglia.
+MID_TUT_BMAP_DRAGONBEAM_TITLE	Raggio della scheggia del Drago Maligno
+MID_TUT_BMAP_DRAGONBEAM_0	Lumera aberrante userà il potere della scheggia\ndel Drago Maligno per lanciare un potente\nattacco.
+MID_TUT_BMAP_DRAGONBEAM_1	Un avviso indicherà la zona colpita.\nSpostati per evitare ingenti danni.
+MID_TUT_BMAP_DARKHERALDIC_TITLE	Emblemi oscuri
+MID_TUT_BMAP_DARKHERALDIC_0	Gli emblemi oscuri sono potenti, ma vulnerabili\nagli attacchi di unità sincronizzate o unite con\nemblemi del loro mondo.
+MID_TUT_BMAP_BARRIER_TITLE	Barriera oscura
+MID_TUT_BMAP_BARRIER_0	Una barriera creata dagli emblemi oscuri che\nriduce i danni subiti da Gran Sombron.
+MID_TUT_BMAP_BARRIER_1	Sconfiggi gli emblemi oscuri per indebolire\nla barriera.
+MID_TUT_BMAP_ENGAGERING_TITLE	L'anello del patto
+MID_TUT_BMAP_ENGAGERING_0	Se hai raggiunto il livello di sostegno A con un\nalleato, puoi donargli l'anello del patto per\nsuggellare un forte legame.
+MID_TUT_BMAP_ENGAGERING_1	È custodito in un comodino nella tua camera.
+MID_TUT_BMAP_ENGAGERING_2	Se non riesci a trovare nel Somniel l'alleato che\nhai scelto, prova a riposare a letto per un po'.
+MID_TUT_GOD_MARTH_TITLE	Emblema Marth
+MID_TUT_GOD_MARTH_0	L'emblema Marth colpisce con rapide raffiche,\nper surclassare gli avversari con la sua grazia\ninnata.
+MID_TUT_GOD_MARTH_1	L'abilità sincro "Percezione" permette di\nschivare più facilmente i contrattacchi nemici.
+MID_TUT_GOD_MARTH_2	L'arma unione "Spadino" infligge danni extra\nalle unità a cavallo e a quelle corazzate.
+MID_TUT_GOD_MARTH_3	L'abilità unione "Velocità divina" conferisce un\nattacco extra più debole.
+MID_TUT_GOD_MARTH_4	L'attacco unione "Raffica suprema" è una serie\ndi attacchi fulminei che infliggono danni ingenti.
+MID_TUT_GOD_SIGLUD_TITLE	Emblema Sigurd
+MID_TUT_GOD_SIGLUD_0	La straordinaria mobilità dell'emblema Sigurd\ngli permette di spostarsi facilmente sul campo\ndi battaglia.
+MID_TUT_GOD_SIGLUD_1	L'abilità sincro "Mobilità" permette all'unità di\nspostarsi nuovamente dopo aver attaccato.
+MID_TUT_GOD_SIGLUD_2	L'arma unione "Picca" può infliggere danni extra\nalle unità a cavallo.
+MID_TUT_GOD_SIGLUD_3	L'abilità unione "Galoppo" incrementa il\nmovimento (Mov) di 5.
+MID_TUT_GOD_SIGLUD_4	L'attacco unione "Superamento" è una carica\nin avanti che colpisce tutti i nemici lungo il\npercorso.
+MID_TUT_GOD_CELICA_TITLE	Emblema Celica
+MID_TUT_GOD_CELICA_0	L'emblema Celica lancia potenti attacchi magici\ned è utilissima per affrontare le aberrazioni.
+MID_TUT_GOD_CELICA_1	L'abilità sincro "Posa sacra" riflette parte dei\ndanni inflitti da un'aberrazione sul nemico.
+MID_TUT_GOD_CELICA_2	L'arma unione "Serafino" infligge danni extra\nalle aberrazioni.
+MID_TUT_GOD_CELICA_3	L'abilità unione "Eco" permette a un'unità\ndi iniziare lo scontro due volte con un attacco\nmagico al 50% di danni.
+MID_TUT_GOD_CELICA_4	Con l'attacco unione "Teleragnarok", l'unità può\nteletrasportarsi in uno spazio vicino a un nemico\ndistante e attaccarlo con una potente magia.
+MID_TUT_GOD_MICAIAH_TITLE	Emblema Micaiah
+MID_TUT_GOD_MICAIAH_0	La specialità dell'emblema Micaiah è curare\ngli alleati con la magia.
+MID_TUT_GOD_MICAIAH_1	Con l'abilità sincro "Chierico", un'unità può\nusare i bastoni a prescindere dalla propria\nclasse.
+MID_TUT_GOD_MICAIAH_2	L'arma unione "Fulgore" attacca e illumina\nun'area quando viene usato.
+MID_TUT_GOD_MICAIAH_3	L'abilità unione "Enfasi" incrementa il raggio dei\nbastoni e la loro area d'effetto.
+MID_TUT_GOD_MICAIAH_4	L'attacco unione "Gran sacrificio" ripristina tutti\ni PS di tutti gli alleati, ma i PS di chi lo lancia\nvengono ridotti a 1.
+MID_TUT_GOD_ROY_TITLE	Emblema Roy
+MID_TUT_GOD_ROY_0	L'emblema Roy eccelle sia in attacco che in\ndifesa, ed è quindi adatto per la prima linea.
+MID_TUT_GOD_ROY_1	L'abilità sincro "Persistenza" permette\na un'unità di sopravvivere con 1 PS\nin determinate situazioni.
+MID_TUT_GOD_ROY_2	L'arma unione "Rompilancia", a differenza della\nmaggior parte delle spade, è in vantaggio contro\nle lance e in svantaggio contro le asce.
+MID_TUT_GOD_ROY_3	L'abilità unione "Crescita" aumenta\ntemporaneamente il livello e i parametri\ndi un'unità.
+MID_TUT_GOD_ROY_4	L'attacco unione "Danza del leone" colpisce\npiù spazi di fronte all'unità, incendiando al\ncontempo il terreno.
+MID_TUT_GOD_LEAF_TITLE	Emblema Leif
+MID_TUT_GOD_LEAF_0	La destrezza dell'emblema Leif con varie armi\ngli permette di adattarsi a qualsiasi situazione\nin battaglia.
+MID_TUT_GOD_LEAF_1	L'abilità sincro "Arma scudo" riduce i danni\nsubiti dall'unità, se questa ha un vantaggio\ndell'arma.
+MID_TUT_GOD_LEAF_2	L'arma unione "Ascia letale" infligge colpi tripli\ndi frequente.
+MID_TUT_GOD_LEAF_3	L'abilità unione "Adattabilità" attiva l'arma\npiù adatta automaticamente quando l'unità\nviene attaccata.
+MID_TUT_GOD_LEAF_4	L'attacco unione "Tetracolpo" colpisce con una\nspada, una lancia, un'ascia e un arco,\naumentando le chance di breccia su un nemico.
+MID_TUT_GOD_LIN_TITLE	Emblema Lyn
+MID_TUT_GOD_LIN_0	L'emblema Lyn eccelle nel combattere senza\npermettere all'avversario di contrattaccare.
+MID_TUT_GOD_LIN_1	L'abilità sincro "Alacrità" permette a unità molto\npiù veloci di un nemico di sferrare un attacco\nextra prima che il nemico possa contrattaccare.
+MID_TUT_GOD_LIN_2	L'arma unione "Arco letale" mette spesso\na segno dei colpi tripli.
+MID_TUT_GOD_LIN_3	L'abilità unione "Evoca cloni" crea copie illusorie\ndell'unità che possono partecipare ad attacchi\nconcatenati.
+MID_TUT_GOD_LIN_4	L'attacco unione "Tempesta astrale" infligge\na un nemico cinque colpi a grande distanza\ncon l'arco.
+MID_TUT_GOD_LUCINA_TITLE	Emblema Lucina
+MID_TUT_GOD_LUCINA_0	Il punto di forza dell'emblema Lucina è la\ncollaborazione. Lucina è ancora più potente\nquando combatte vicino agli alleati.
+MID_TUT_GOD_LUCINA_1	L'abilità sincro "Doppio colpo" permette\nall'unità di partecipare ad attacchi concatenati\nindipendentemente dal tipo di unità.
+MID_TUT_GOD_LUCINA_2	L'arma unione "Spadino nobile" infligge danni\nextra ai nemici a cavallo e corazzati.
+MID_TUT_GOD_LUCINA_3	L'abilità unione "Legame di scudo" garantisce\nagli alleati adiacenti un'elevata probabilità di\nannullare i danni subiti dagli attacchi.
+MID_TUT_GOD_LUCINA_4	L'attacco unione "Tutti per uno" ispira tutti gli\nalleati nel raggio di 2 spazi a partecipare a un\nattacco concatenato (il tipo di unità non conta).
+MID_TUT_GOD_IKE_TITLE	Emblema Ike
+MID_TUT_GOD_IKE_0	La potenza d'attacco e l'energia dell'emblema\nIke aumentano quando subisce danni.
+MID_TUT_GOD_IKE_1	L'abilità sincro "Tempra" aumenta difesa\ne resistenza al diminuire dei PS.
+MID_TUT_GOD_IKE_2	L'arma unione "Martello" può schiantare\ni nemici e infliggere danni extra agli avversari\ncorazzati.
+MID_TUT_GOD_IKE_3	L'abilità unione "Àncora" dimezza i danni subiti\ndall'unità, ma riduce a zero la schivata (Scv).
+MID_TUT_GOD_IKE_4	L'attacco unione "Grande etere" rafforza le\ndifese dell'unità per un turno, poi permette di\nattaccare un'area e recuperare PS.
+MID_TUT_GOD_KAMUI_TITLE	Emblema Corrin
+MID_TUT_GOD_KAMUI_0	L'emblema Corrin può limitare i movimenti dei\nnemici e creare terreni per controllare\nla battaglia.
+MID_TUT_GOD_KAMUI_1	L'abilità sincro "Vena del drago" aggiunge effetti\nal terreno, a seconda del tipo di unità che la usa\ned elimina fiamme o miasma dal terreno.
+MID_TUT_GOD_KAMUI_2	L'arma unione "Katana doppia", a differenza\ndella maggior parte delle spade, è in vantaggio\ncontro le lance, ma in svantaggio contro le asce.
+MID_TUT_GOD_KAMUI_3	L'abilità unione "Abbatticuore" immobilizza un\nbersaglio e i nemici a esso adiacenti per 1 turno,\ndopo che l'unità inizia lo scontro.
+MID_TUT_GOD_KAMUI_4	L'attacco unione "Ruggito torrenziale" attacca\ni nemici davanti all'unità nel raggio di 3 spazi\ned elimina fiamme e miasma dal terreno.
+MID_TUT_GOD_BYLETH_TITLE	Emblema Byleth
+MID_TUT_GOD_BYLETH_0	L'innato talento dell'emblema Byleth per\nl'insegnamento potenzia i parametri degli\nalleati per condurli alla vittoria.
+MID_TUT_GOD_BYLETH_1	L'abilità sincro "Battito divino" a volte riesce a\nmandare a segno attacchi che avrebbero\naltrimenti mancato il bersaglio.
+MID_TUT_GOD_BYLETH_2	La prima arma unione dell'emblema Byleth è\nuna reliquia degli eroi, diversa per ogni tipo\ndi unità.
+MID_TUT_GOD_BYLETH_3	L'abilità unione "Istruzione" conferisce un bonus\nai parametri agli alleati vicini.
+MID_TUT_GOD_BYLETH_4	L'attacco unione "Danza della Dea" permette\nagli alleati adiacenti di agire nuovamente\ne ne migliora i parametri.
+MID_TUT_GOD_EIRIK_TITLE	Emblema Erika
+MID_TUT_GOD_EIRIK_0	L'emblema Erika e suo fratello gemello Ephraim\nsi danno il cambio in base alle necessità durante\nle battaglie.
+MID_TUT_GOD_EIRIK_1	L'abilità sincro "Bracciale lunare" incrementa\nil danno inferto in proporzione alla difesa\ndel nemico.
+MID_TUT_GOD_EIRIK_2	L'arma unione "Spadino" infligge danni\nextra alle unità a cavallo e corazzate.
+MID_TUT_GOD_EIRIK_3	L'abilità unione "Gemelli sacri" permette\nall'unità di evocare le abilità di Erika\ned Ephraim allo stesso tempo.
+MID_TUT_GOD_EIRIK_4	L'attacco unione "Colpo gemello" colpisce con\nspada e lancia, aumentando la probabilità di\nbreccia. Danni extra contro le aberrazioni.
+MID_TUT_GOD_LUEUR_TITLE	Emblema \x0E\x06\x03\x00
+MID_TUT_GOD_LUEUR_0	L'emblema \x0E\x06\x03\x00 può usare Unione+\ndurante la battaglia per unirsi a qualsiasi alleato,\nsenza bisogno di essere in sincro.
+MID_TUT_GOD_LUEUR_1	L'abilità sincro "Forgialegame" aumenta colpo\n(Clp) e schivata (Scv) dell'unità e degli alleati\nsincronizzati o uniti nelle vicinanze.
+MID_TUT_GOD_LUEUR_2	L'arma unione "Lyrátion" incrementa le barre\ndell'unione degli alleati adiacenti di 1, se chi\nla impugna inizia lo scontro e batte un nemico.
+MID_TUT_GOD_LUEUR_3	L'abilità unione "Stesso cuore" migliora di molto\ni parametri dell'unità in unione, se questa\ninizia lo scontro e sconfigge un nemico.
+MID_TUT_GOD_LUEUR_4	L'attacco unione "Raggio di drago" scaglia\nun attacco magico e uno con spada, infliggendo\ngrossi danni anche ai nemici con Dif e Res alte.
+MID_TUT_GOD_LUEUR_KL_TITLE	Legame dell'emblema \x0E\x06\x03\x00
+MID_TUT_GOD_LUEUR_KL_0	A differenza degli altri emblemi, il livello di\nlegame dell'emblema \x0E\x06\x03\x00 dipende\ndal livello di sostegno e non all'Esp di legame.
+MID_TUT_GOD_LUEUR_KL_1	L'assenza di livello di sostegno si traduce nel\nlivello di legame 1, con C il livello è 5, con B\nè 10 e con A il livello sale a 20.
+MID_TUT_ENGAGE_PLUS_TITLE	Unione+
+MID_TUT_ENGAGE_PLUS_0	Quando \x0E\x06\x03\x00 si trova vicino a un\nalleato e la barra dell'unione è piena, scegli\nUnione+ per entrare in stato di unione.
+MID_TUT_ENGAGE_PLUS_1	L'emblema \x0E\x06\x03\x00 si unisce all'alleato,\ne anche \x0E\x06\x03\x00 entra in stato di unione.
+MID_TUT_ENGAGE_PLUS_2	Se l'emblema \x0E\x06\x03\x00 e l'unità unita\nsono adiacenti, "Raggio di drago" si trasforma\nnel potente attacco "Raggio d'unione".
+MID_TUT_BMAP_SORTIE_TITLE	Prepararsi alla battaglia
+MID_TUT_BMAP_SORTIE_0	Prima di una battaglia, puoi scegliere gli\nstrumenti, gli emblemi e gli alleati da portare\ncon te.
+MID_TUT_BMAP_SORTIE_1	Quando i preparativi sono completati, seleziona\n"Combatti!" per dare il via alla battaglia.
+MID_TUT_BMAP_UNIT_SELECT_TITLE	Formazione
+MID_TUT_BMAP_UNIT_SELECT_0	Usa "Formazione" per scegliere quali alleati si\nuniranno a te nella battaglia. Usa \x0E\x08\x02\x04\x02A per attivare\no disattivare l'icona \x0E\x08\x02\x16\x14IconSortie.
+MID_TUT_BMAP_UNIT_SELECT_1	Gli alleati evidenziati in verde non possono\nessere esclusi.
+MID_TUT_BMAP_UNIT_SELECT_2	Ogni battaglia ha un numero prestabilito\ndi alleati che possono combattere con te.
+MID_TUT_BMAP_MAPVERIFICATION_TITLE	Scambio di posto
+MID_TUT_BMAP_MAPVERIFICATION_0	Usa "Scambia posto" per cambiare le posizioni\ndegli alleati prima dell'inizio della battaglia.
+MID_TUT_BMAP_MAPVERIFICATION_1	Scegli l'alleato da spostare con \x0E\x08\x02\x04\x02A.
+MID_TUT_BMAP_MAPVERIFICATION_2	Scegli un altro alleato con \x0E\x08\x02\x04\x02A per fare in modo che\nscambino le rispettive posizioni. Alcuni alleati\nnon possono essere spostati.
+MID_TUT_BMAP_MAPVERIFICATION_3	Sfrutta questo momento per controllare le\ninformazioni del terreno e i parametri dei nemici\ncon il cursore.
+MID_TUT_BMAP_HERALDICCHOICE_TITLE	Anelli\x0E\x01\x09\x00 degli emblemi
+MID_TUT_BMAP_HERALDICCHOICE_0	Seleziona "Emblemi" per assegnare gli emblemi\nai tuoi alleati, che così potranno sincronizzarsi\ncon loro in battaglia.
+MID_TUT_BMAP_HERALDICCHOICE_1	Per assegnare un emblema a un alleato,\nseleziona prima l'alleato e poi l'anello\x0E\x01\x0A\x00\ndell'emblema.
+MID_TUT_BMAP_GETTINGDRESSED_TITLE	Inventario
+MID_TUT_BMAP_GETTINGDRESSED_0	Seleziona "Inventario" per scegliere le armi\ne gli oggetti che userai in battaglia.
+MID_TUT_BMAP_GETTINGDRESSED_1	Organizza l'equipaggiamento dei tuoi alleati\ntramite "Gestisci strumenti". Puoi scambiare\noggetti con altri alleati o con i rifornimenti.
+MID_TUT_BMAP_GETTINGDRESSED_2	Per equipaggiare automaticamente i tuoi\nalleati utilizzando i rifornimenti, seleziona\n"Ottimizza equipaggiamento".
+MID_TUT_BMAP_GETTINGDRESSED_3	Selezionando "Invia tutto", puoi riporre nei\nrifornimenti tutti gli oggetti di un alleato.
+MID_TUT_BMAP_EQUIP_SKILL_TITLE	Gestire le abilità
+MID_TUT_BMAP_EQUIP_SKILL_0	Seleziona "Gestisci abilità" dall'inventario per\nvisualizzare le abilità degli alleati e attivare\nabilità ereditate.
+MID_TUT_BMAP_EQUIP_SKILL_1	Gli alleati possono ereditare abilità dagli\nemblemi nella sala degli emblemi e nell'arena\ndel Somniel.
+MID_TUT_BMAP_CLASSCHANGE_TITLE	Cambio di classe
+MID_TUT_BMAP_CLASSCHANGE_0	A partire dal livello 10, le unità possono usare\nun sigillo supremo per passare a una classe\navanzata.
+MID_TUT_BMAP_CLASSCHANGE_1	Il passaggio a una classe avanzata rende le unità\npiù forti, potenzia i parametri e permette di\nusare nuove armi e abilità.
+MID_TUT_BMAP_CLASSCHANGE_2	Puoi usare un sigillo speciale per passare\na un'altra classe della stessa categoria.
+MID_TUT_BMAP_CLASSCHANGE_3	Puoi cambiare classe dall'inventario.
+MID_TUT_BMAP_APTITUDE_TITLE	Talenti
+MID_TUT_BMAP_APTITUDE_0	I talenti sono necessari per cambiare la classe\ndi un'unità.
+MID_TUT_BMAP_APTITUDE_1	Tutte le unità iniziano con dei talenti innati.\nSono le aree in cui le unità hanno il maggior\npotenziale.
+MID_TUT_BMAP_APTITUDE_2	Le unità possono anche acquisire nuovi talenti\ndagli emblemi per passare a qualsiasi altra\nclasse.
+MID_TUT_GMAP_BASIC_TITLE	Mappa del mondo
+MID_TUT_GMAP_BASIC_0	Usa la mappa del mondo per scegliere una\ndestinazione o iniziare il prossimo capitolo.
+MID_TUT_GMAP_BASIC_1	Per continuare con la storia, sposta\n\x0E\x06\x03\x00 sulla tua prossima destinazione\ne premi \x0E\x08\x02\x04\x02A.
+MID_TUT_GMAP_BASIC_2	Puoi tornare al Somniel quando vuoi,\nselezionando l'opzione apposita dal menu.
+MID_TUT_GMAP_SIDE_TITLE	Appendici
+MID_TUT_GMAP_SIDE_0	Mano a mano che progredisci nella storia, sulla\nmappa appariranno dei capitoli speciali chiamati\n"appendici".
+MID_TUT_GMAP_SIDE_1	Completare le appendici è facoltativo, ma ti\nfa sbloccare benefici unici e persino incontrare\nnuovi alleati!
+MID_TUT_GMAP_ENCOUNT_TITLE	Scaramucce
+MID_TUT_GMAP_ENCOUNT_0	È possibile che soldati nemici o aberrazioni\nricompaiano in aree che hai già completato.
+MID_TUT_GMAP_ENCOUNT_1	Puoi ritornare in queste aree per combattere\ndelle scaramucce facoltative.
+MID_TUT_GMAP_ENCOUNT_2	Completando le scaramucce puoi ottenere\nesperienza e ricompense, come oro e strumenti.
+MID_TUT_GMAP_RANKING_TITLE	Classifiche
+MID_TUT_GMAP_RANKING_0	Se giochi online, puoi vedere quali unità ed\nemblemi sono stati più utilizzati dai giocatori\nsu una certa mappa.
+MID_TUT_GMAP_RANKING_1	Saperlo potrebbe esserti utile nella scelta\ndelle unità da schierare.
+MID_TUT_KR_KIZUNARESULT_TITLE	Esplorazione
+MID_TUT_KR_KIZUNARESULT_0	Dopo le battaglie, puoi esplorare liberamente\nl'area e dialogare con i tuoi alleati.
+MID_TUT_KR_KIZUNARESULT_1	Puoi trovare oggetti da raccogliere\nsparsi per terra.
+MID_TUT_KR_KIZUNARESULT_2	Per terminare l'esplorazione, vai verso l'uscita\noppure apri il menu con \x0E\x08\x02\x0A\x08Plus e seleziona "Procedi".
+MID_TUT_KR_KIZUNAPIECE_TITLE	Frammenti di legame
+MID_TUT_KR_KIZUNAPIECE_0	I tuoi alleati potrebbero donarti frammenti\ndi legame quando dialoghi con loro durante\nl'esplorazione.
+MID_TUT_KR_KIZUNAPIECE_1	Usa i frammenti di legame nel Somniel per\ncreare anelli del legame o allenarti con\ngli emblemi.
+MID_TUT_KR_KIZUNAPIECE_2	Finita l'esplorazione, otterrai tutti i frammenti di\nlegame che ti sono sfuggiti.
+MID_TUT_HUB_BASIC_TITLE	Il Somniel
+MID_TUT_HUB_BASIC_0	Il Somniel è la tua base. Approfitta di quest'area\nper prepararti alla battaglia successiva e\ninteragire con gli alleati.
+MID_TUT_HUB_BASIC_1	Attività e aree addizionali del Somniel si\nsbloccheranno via via che avanzerai nella\nstoria.
+MID_TUT_HUB_BASIC_2	Puoi continuare l'avventura aprendo la mappa\ndel mondo dal menu o usando l'uscita nella\npiazza.
+MID_TUT_HUB_CENTRALLOBBY_OPEN	La mensa è aperta.
+MID_TUT_HUB_CENTRALLOBBY_TITLE	Mensa
+MID_TUT_HUB_CENTRALLOBBY_0	La mensa è un luogo in cui puoi rilassarti\ninsieme agli altri e accedere a svariati servizi.
+MID_TUT_HUB_CENTRALLOBBY_1	Puoi utilizzare il gran carillon per cambiare\nla musica di sottofondo del Somniel.
+MID_TUT_HUB_CENTRALLOBBY_2	La bacheca fornisce informazioni sul Somniel.\nPuoi usarla per fare donazioni ai regni dell'Elyos\noppure controllare i tuoi trofei.
+MID_TUT_HUB_INVESTMENT_TITLE	Donazioni
+MID_TUT_HUB_INVESTMENT_0	Se fai salire il livello donazioni dei vari regni con\nil tuo supporto, riceverai in cambio dei regali.
+MID_TUT_HUB_INVESTMENT_1	Nei regni con livello donazioni più alto, i nemici\nrari appaiono più spesso nelle scaramucce,\nfacendoti guadagnare più facilmente oro ed Esp.
+MID_TUT_HUB_INVESTMENT_2	Aumenta il livello donazioni per avere benefici\ncome la possibilità di trovare più materiali\nesplorando.
+MID_TUT_HUB_INFORMATION_TITLE	Mappa del Somniel
+MID_TUT_HUB_INFORMATION_0	Consulta la mappa del Somniel per controllare\nla posizione degli alleati o lo stato delle\nstrutture.
+MID_TUT_HUB_INFORMATION_1	Scegli un'area per spostarti istantaneamente\nall'interno del Somniel.
+MID_TUT_HUB_ACHIEVEMENT_TITLE	Trofei
+MID_TUT_HUB_ACHIEVEMENT_0	Rivedi i tuoi traguardi nello schermo "Trofei".\nI tuoi sforzi potrebbero essere ricompensati\ncon frammenti di legame.
+MID_TUT_HUB_ACHIEVEMENT_1	Riceverai una notifica ogni volta che ottieni un\ntrofeo. Ricorda di raccogliere i frammenti\ndi legame ben meritati!
+MID_TUT_HUB_MYROOM_TITLE	Camera
+MID_TUT_HUB_MYROOM_0	La camera in cui \x0E\x06\x03\x00 ha dormito\nper un migliaio di anni.
+MID_TUT_HUB_MYROOM_1	Seleziona "Riposa" per fare un pisolino e far\navanzare il tempo quando sei nel Somniel.
+MID_TUT_HUB_MYROOM_2	Mentre dormi potresti sentire delle cose molto\ninteressanti. Usa delle cuffie per ascoltare bene.
+MID_TUT_HUB_MYROOM_3	Seleziona "Ricorda" per visualizzare le\nconversazioni di sostegno e le scene\navvenute in passato.
+MID_TUT_HUB_MYROOM_4	Selezionando "Cambio difficoltà" puoi ridurre\nla difficoltà di gioco, ma non aumentarla.
+MID_TUT_HUB_WEAPONSHOP_OPEN	L'armeria e l'emporio sono aperti.
+MID_TUT_HUB_WEAPONSHOP_TITLE	Armeria
+MID_TUT_HUB_WEAPONSHOP_0	Qui puoi acquistare e vendere armi.
+MID_TUT_HUB_WEAPONSHOP_1	L'inventario dell'armeria si arricchirà con\nil prosieguo della storia e l'arrivo di nuovi\noggetti.
+MID_TUT_HUB_ITEMSHOP_TITLE	Emporio
+MID_TUT_HUB_ITEMSHOP_0	Qui puoi acquistare e vendere gli oggetti usati\nin battaglia, come gli unguenti o i bastoni.
+MID_TUT_HUB_ITEMSHOP_1	Col proseguire della storia, l'emporio offrirà\nnuovi oggetti.
+MID_TUT_HUB_HERALDICSPACE_OPEN	Ora puoi entrare nella sala degli emblemi.
+MID_TUT_HUB_HERALDICSPACE_TITLE	Sala degli emblemi
+MID_TUT_HUB_HERALDICSPACE_0	Nella sala degli emblemi puoi interagire\ncon emblemi e relativi anelli\x0E\x01\x0B\x00.\nQui puoi ereditare le abilità degli emblemi.
+MID_TUT_HUB_HERALDICSPACE_1	Con i frammenti di legame puoi creare gli anelli\ndel legame o combinarli e potenziare quelli che\nhai già.
+MID_TUT_HUB_HERALDICSPACE_2	Puoi anche rafforzare i legami con gli emblemi\nlucidando i loro anelli\x0E\x01\x0B\x00 dopo le battaglie.
+MID_TUT_HUB_INHERITSKILL_TITLE	Ereditare le abilità
+MID_TUT_HUB_INHERITSKILL_0	Gli alleati possono ereditare alcune abilità dagli\nemblemi usando la funzione "Eredita abilità".
+MID_TUT_HUB_INHERITSKILL_1	Per ereditare abilità servono un certo livello di\nlegame e punti abilità (PA), ottenibili usando gli\nanelli del legame e la sincronizzazione.
+MID_TUT_HUB_INHERITSKILL_2	Attiva un'abilità ereditata dall'inventario.
+MID_TUT_HUB_INHERITSKILL_3	Non puoi beneficiare due volte della stessa\nabilità, quindi cerca di evitare sovrapposizioni.
+MID_TUT_HUB_CREATE_RING_TITLE	Creare gli anelli del legame
+MID_TUT_HUB_CREATE_RING_0	Puoi creare gli anelli del legame usando\ni frammenti di legame.
+MID_TUT_HUB_CREATE_RING_1	Gli anelli del legame migliorano i parametri e\npermettono di ottenere PA, ma non quanto\ngli anelli\x0E\x01\x0B\x00 degli emblemi.
+MID_TUT_HUB_ENGWEAPON_REFINE_OPEN	Ora puoi potenziare le armi unione dei tuoi\nemblemi nella sala degli emblemi.
+MID_TUT_HUB_ENGWEAPON_REFINE_TITLE	Armi unione
+MID_TUT_HUB_ENGWEAPON_REFINE_0	È possibile potenziare le armi unione con alcuni\nmateriali. Puoi incrementare i parametri con\ni cristalli e aggiungere diversi tipi di efficacia.
+MID_TUT_HUB_ENGWEAPON_REFINE_1	Puoi ottenere i materiali necessari a potenziare\nle armi unione nelle prove Tempesta o Staffetta.
+MID_TUT_HUB_ENGWEAPON_REFINE_2	Ogni arma unione ha un limite al potenziamento.\nNon puoi potenziare ulteriormente un'arma\nquando raggiunge il limite massimo.
+MID_TUT_HUB_ENGWEAPON_REFINE_3	Puoi rimuovere i potenziamenti per provare\neffetti nuovi, o incrementare la capacità\ndell'arma aumentando il legame dell'emblema.
+MID_TUT_HUB_MASCOT_OPEN	Nella grotta si percepisce una misteriosa aura.
+MID_TUT_HUB_MASCOT_TITLE	\x0E\x06\x05\x00
+MID_TUT_HUB_MASCOT_0	L'enigmatica creatura \x0E\x06\x05\x00 vigila su\nqueste terre da tempo immemorabile.
+MID_TUT_HUB_MASCOT_1	Se ti prenderai cura di \x0E\x06\x05\x00, potrebbe\naccadere qualcosa di meraviglioso.
+MID_TUT_HUB_MUSCLEEXERCISES_OPEN	Ora puoi fare ginnastica!
+MID_TUT_HUB_MUSCLEEXERCISES_TITLE	Ginnastica
+MID_TUT_HUB_MUSCLEEXERCISES_0	Facendo ginnastica è possibile scegliere tra tre\nesercizi per aumentare temporaneamente\ni parametri di \x0E\x06\x03\x00.
+MID_TUT_HUB_MUSCLEEXERCISES_1	Ogni esercizio è diverso e ha effetto su un\nparametro diverso. Prova a raggiungere il\npunteggio più alto in tutti e tre!
+MID_TUT_HUB_MUSCLEEXERCISES_2	Andando avanti nella storia, sbloccherai nuovi\nlivelli di difficoltà per ciascuno degli esercizi.
+MID_TUT_HUB_ME_PUSHUPS_TITLE	Flessioni
+MID_TUT_HUB_ME_PUSHUPS_0	Il tempismo è la base delle flessioni. Ferma la\nbarra nella posizione perfetta quando accelera.\nL'attività termina se sbagli tre volte.
+MID_TUT_HUB_ME_PUSHUPS_1	Completa l'attività eseguendo il numero di\nflessioni richiesto. Mantieni la concentrazione,\nla velocità della barra aumenterà col tempo!
+MID_TUT_HUB_ME_PUSHUPS_2	L'importante è tenersi in forma!
+MID_TUT_HUB_ME_SITUP_TITLE	Addominali
+MID_TUT_HUB_ME_SITUP_0	Gli addominali richiedono resistenza. Premi\ni pulsanti rapidamente per far salire la barra.\nL'attività termina se la barra tocca il fondo.
+MID_TUT_HUB_ME_SITUP_1	Sarà sempre più difficile far salire la barra, ma\npiù velocemente lo farai, maggiore sarà il tuo\npunteggio.
+MID_TUT_HUB_ME_SITUP_2	L'importante è tenersi in forma!
+MID_TUT_HUB_ME_SQUAT_TITLE	Squat
+MID_TUT_HUB_ME_SQUAT_0	Il ritmo è alla base degli squat. Muovi \x0E\x08\x02\x0E\x0CStickL e \x0E\x08\x02\x0E\x0CStickR\nseguendo le istruzioni. L'attività termina se\nsbagli tre volte.
+MID_TUT_HUB_ME_SQUAT_1	La chiave del successo è imparare a inclinare e\nruotare \x0E\x08\x02\x0E\x0CStickL e \x0E\x08\x02\x0E\x0CStickR nel modo giusto.
+MID_TUT_HUB_ME_SQUAT_2	L'importante è tenersi in forma!
+MID_TUT_HUB_ARENA_OPEN	Le porte dell'arena si sono aperte.
+MID_TUT_HUB_ARENA_TITLE	Arena
+MID_TUT_HUB_ARENA_0	Nell'arena puoi far allenare gli alleati per\nguadagnare esperienza e migliorare i livelli\ndi legame.
+MID_TUT_HUB_ARENA_1	Nell'allenamento normale un alleato scelto da te\nsi scontra con un altro. Non costa niente, ma\npuoi farlo un numero limitato di volte.
+MID_TUT_HUB_ARENA_2	L'allenamento con gli emblemi migliora il\nlegame tra emblemi e alleati. Puoi farlo tutte le\nvolte che vuoi, ma richiede frammenti di legame.
+MID_TUT_HUB_ANIMAL_OPEN	Ora puoi adottare gli animali.
+MID_TUT_HUB_ANIMAL_TITLE	Animali
+MID_TUT_HUB_ANIMAL_0	Puoi adottare gli animali che incontri durante\nle esplorazioni e portarli con te al Somniel.
+MID_TUT_HUB_ANIMAL_1	Dopo averli adottati, puoi lasciare che pascolino\nalla fattoria. A volte potrebbero lasciarti\nqualcosa in regalo, come oggetti e ingredienti.
+MID_TUT_HUB_ANIMAL_2	Grazie alle donazioni per i regni che puoi\neffettuare tramite la bacheca, sarà possibile\nadottare più animali.
+MID_TUT_HUB_AMIIBO_OPEN	Il gazebo amiibo è aperto.
+MID_TUT_HUB_AMIIBO_TITLE	Gazebo amiibo
+MID_TUT_HUB_AMIIBO_0	Grazie agli amiibo puoi ricevere oggetti e\nricompense.
+MID_TUT_HUB_AMIIBO_1	Otterrai premi speciali leggendo i dati di\nun amiibo di Fire Emblem.
+MID_TUT_HUB_DRILLINGSHOP_OPEN	La fucina e la boutique di accessori sono aperte.
+MID_TUT_HUB_DRILLINGSHOP_TITLE	Fucina
+MID_TUT_HUB_DRILLINGSHOP_0	Scambia materiali e monete per potenziare\nle tue armi nella fucina.
+MID_TUT_HUB_DRILLINGSHOP_1	Rendi le tue armi ancora più potenti,\naffinandole e trasformandole.
+MID_TUT_HUB_DRILLINGSHOP_2	Modifica un'arma incidendola con il potere di un\nemblema. Ogni emblema può essere associato a\nuna sola arma alla volta.
+MID_TUT_HUB_DRILLINGSHOP_3	Puoi anche scambiare i materiali in base\nalle tue necessità.
+MID_TUT_HUB_ACCESSORYSHOP_TITLE	Accessori
+MID_TUT_HUB_ACCESSORYSHOP_0	Scambia materiali e monete per far confezionare\nvestiti e accessori da indossare quando ti trovi\nnel Somniel.
+MID_TUT_HUB_ACCESSORYSHOP_1	La maggior parte degli articoli che crei può\nessere indossata da chiunque.
+MID_TUT_HUB_ACCESSORYSHOP_2	Col progredire della storia, sempre più\narticoli saranno disponibili.
+MID_TUT_HUB_COOK_OPEN	È ora possibile mangiare in mensa.
+MID_TUT_HUB_COOK_TITLE	Mangiare con gli alleati
+MID_TUT_HUB_COOK_0	Ordina pasti da mangiare con i tuoi alleati.
+MID_TUT_HUB_COOK_1	Se il piatto è preparato bene, gli alleati\nriceveranno un potenziamento dei parametri\nvalido solo nella battaglia successiva.
+MID_TUT_HUB_COOK_2	Aumenta il sostegno con i tuoi alleati invitandoli\na mangiare con te.
+MID_TUT_HUB_COOK_3	Il cuoco potrebbe anche impacchettarti\ngli avanzi, che potrai usare in battaglia\nper recuperare PS.
+MID_TUT_HUB_CAPERIDGE_OPEN	Hai sbloccato la torre delle prove.
+MID_TUT_HUB_CAPERIDGE_TITLE	La torre delle prove
+MID_TUT_HUB_CAPERIDGE_0	Puoi ottenere ricompense affrontando delle\nprove speciali nella torre delle prove.
+MID_TUT_HUB_CAPERIDGE_1	Nelle prove Tempesta dovrai completare più\nbattaglie di fila. Puoi scegliere il livello di\ndifficoltà prima di iniziare.
+MID_TUT_HUB_CAPERIDGE_2	Nelle prove Staffetta collaborerai con altri\ngiocatori online, affrontando i nemici a turno.
+MID_TUT_HUB_CAPERIDGE_3	Nelle prove Altrotempo potrai sfidare gli\neserciti di altri giocatori online usando mappe\ncreate da te.
+MID_TUT_HUB_FISHING_OPEN	Ora puoi pescare!
+MID_TUT_HUB_FISHING_TITLE	Pesca
+MID_TUT_HUB_FISHING_0	Ora puoi pescare nello stagno. Lancia la lenza\ncon \x0E\x08\x02\x04\x02A. Fai attenzione alle increspature\ndell'acqua causate dai pesci più grandi.
+MID_TUT_HUB_FISHING_1	Per catturare il pesce, premi \x0E\x08\x02\x04\x02A quando\nil galleggiante raggiunge il punto più basso.
+MID_TUT_HUB_FISHING_2	Se il pesce oppone resistenza, inclina \x0E\x08\x02\x0E\x0CStickL nella\ndirezione opposta alla sua. Il pesce ti sfuggirà\nse non lo tiri su!
+MID_TUT_HUB_FISHING_3	Una volta che è vicino a te, premi \x0E\x08\x02\x04\x02A\nripetutamente per ridurre la resistenza\ndel pesce.
+MID_TUT_HUB_FISHING_4	Potrai catturarlo quando la resistenza scende\na zero. Usando delle nuove canne da pesca\npuoi prendere pesci più grandi.
+MID_TUT_HUB_DRAGONRIDE_OPEN	Ora puoi giocare al Volo in viverna!
+MID_TUT_HUB_DRAGONRIDE_TITLE	Volo in viverna
+MID_TUT_HUB_DRAGONRIDE_0	In Volo in viverna dovrai volare attraverso un\npercorso e colpire i bersagli fluttuanti che\nincontri.
+MID_TUT_HUB_DRAGONRIDE_1	Prova a colpire i bersagli speciali e punta a\nottenere un punteggio alto! Facendo progressi\nnella storia, potrai sbloccare nuovi percorsi.
+MID_TUT_HUB_FLEAMARKET_OPEN	Il mercatino è aperto.
+MID_TUT_HUB_FLEAMARKET_TITLE	Mercatino
+MID_TUT_HUB_FLEAMARKET_0	Il mercatino offre oggetti che potresti non\ntrovare in altri negozi.
+MID_TUT_HUB_FLEAMARKET_1	La merce in vendita cambia, quindi dai\nun'occhiata di tanto in tanto.
+MID_TUT_HUB_FORTUNE_OPEN	L'indovino ha aperto il suo negozio.
+MID_TUT_HUB_FORTUNE_TITLE	Indovino
+MID_TUT_HUB_FORTUNE_0	L'indovino Seadall usa le carte per svolgere\nla sua attività.
+MID_TUT_HUB_FORTUNE_1	È disponibile solo di sera: visitalo al calar\ndel sole.
+MID_TUT_HUB_PROFILE_OPEN	Ora puoi accedere al registro.
+MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE	Battaglie nelle prove
+MID_TUT_HUB_CAPERIDGE_DETAIL_0	Gli strumenti che usi vengono ripristinati\nal termine di una prova, così come lo stato\ndegli alleati.
+MID_TUT_HUB_CAPERIDGE_DETAIL_1	Otterrai dell'esperienza e altre ricompense per\nle battaglie che hai completato al termine della\nprova.
+MID_TUT_HUB_CAPERIDGE_DETAIL_2	Dato che i cambiamenti che sperimenta il tuo\nesercito non sono permanenti, non trattenerti\ne gioca senza preoccupazioni!
+MID_TUT_CHALLENGE_TITLE	Prove Tempesta
+MID_TUT_CHALLENGE_0	L'obiettivo è superare diverse mappe\nuna dietro l'altra.
+MID_TUT_CHALLENGE_1	Per ogni battaglia che completi, ottieni materiali\ned esperienza per gli alleati che vi hanno\npartecipato.
+MID_TUT_CHALLENGE_2	Scegli la difficoltà di una prova durante\nla selezione della mappa. Più è alta, migliori\nsono le ricompense.
+MID_TUT_RELAY_TITLE	Prove Staffetta
+MID_TUT_RELAY_0	L'obiettivo è superare una mappa in cui\ni giocatori controllano l'esercito a turno,\ncome in una corsa a staffetta.
+MID_TUT_RELAY_1	Seleziona "Nuova prova" per iniziare una nuova\nprova Staffetta consumando un coupon.
+MID_TUT_RELAY_2	Seleziona "Subentra" per continuare da dove\nsi è fermato un altro giocatore.
+MID_TUT_RELAY_3	Otterrai le ricompense se uno dei giocatori\ncompleta la battaglia. Puoi rivedere ogni prova\na cui hai partecipato tramite "Vedi risultati".
+MID_TUT_RELAY_ENTRY_PANEL_TITLE	Ingressi
+MID_TUT_RELAY_ENTRY_PANEL_0	Fino a cinque alleati possono essere schierati su\nun ingresso e sui quattro spazi circostanti.
+MID_TUT_RELAY_ENTRY_PANEL_1	Puoi attivare gli ingressi non attivi facendo\nattendere sopra di essi un alleato.
+MID_TUT_RELAY_ENTRY_PANEL_2	Una volta attivato un ingresso, i giocatori che\nsubentrano potranno usarlo per schierare unità.\nAttivane più che puoi!
+MID_TUT_RELAY_DATA_TAKEOVER_TITLE	Passare il testimone
+MID_TUT_RELAY_DATA_TAKEOVER_0	Dopo aver giocato a un numero predeterminato\ndi turni, devi lasciare il controllo della prova a\nun altro giocatore. Decidi tu chi può subentrare.
+MID_TUT_RELAY_DATA_TAKEOVER_1	Puoi scegliere tra due modi di passaggio.\nPubblico: può subentrare chiunque.\nPrivato: serve l'ID per subentrare.
+MID_TUT_RELAY_DATA_TAKEOVER_2	Una volta che subentra un altro giocatore,\npuoi osservare l'andamento della battaglia\ncon "Vedi risultati".
+MID_TUT_RELAY_NEWDATA_TITLE	Iniziare una nuova prova Staffetta
+MID_TUT_RELAY_NEWDATA_0	Inizia da zero una prova per poter schierare\nle unità in campo prima dell'avversario.
+MID_TUT_RELAY_NEWDATA_1	Scegli una mappa tra quelle a disposizione.
+MID_TUT_RELAY_NEWDATA_2	I preparativi inizieranno una volta che scegli\nuna mappa. Seleziona "Combatti!" per usare\nil tuo coupon Staffetta e iniziare la prova.
+MID_TUT_RELAY_TAKEOVER_TITLE	Subentrare
+MID_TUT_RELAY_TAKEOVER_0	Puoi continuare la prova di un altro giocatore.\nCi sono due modi per trovare una prova in cui\nsubentrare.
+MID_TUT_RELAY_TAKEOVER_1	Casuale: subentra in una prova scelta\ncasualmente.
+MID_TUT_RELAY_TAKEOVER_2	Inserisci ID: inserisci un ID subentro per\ncontinuare la prova di un giocatore specifico.
+MID_TUT_RELAY_TAKEOVER_3	Una volta che hai scelto una prova, seleziona\n"Combatti!" per iniziare.
+MID_TUT_RELAY_FINISH_TITLE	Vedere i risultati
+MID_TUT_RELAY_FINISH_0	Controlla come sono andate le prove\na cui hai partecipato e ottieni le ricompense\nquando termina una prova.
+MID_TUT_RELAY_FINISH_1	Puoi guardare i tuoi replay e quelli degli altri\npartecipanti. Per le battaglie in corso, puoi\nvedere cosa è successo fino a quel momento.
+MID_TUT_RELAY_FINISH_2	Puoi ottenere ricompense anche se perdi, ma\nin caso di vittoria i premi sono migliori.
+MID_TUT_MATCH_TITLE	Prove Altrotempo
+MID_TUT_MATCH_0	Nelle prove Altrotempo, puoi sfidare gli eserciti\ndi altri giocatori su mappe da te scelte o create.
+MID_TUT_MATCH_1	Seleziona "Battaglia rapida" per scegliere\nuna mappa che ti piace e iniziare subito.
+MID_TUT_MATCH_2	Seleziona "Battaglia personalizzata" per creare e\npubblicare una tua mappa. Poi collegala a quelle\ndi altri giocatori e inizia la battaglia.
+MID_TUT_MATCH_3	In entrambe le modalità, ci sono ricompense\nin palio alla fine della battaglia.
+MID_TUT_MATCH_EASY_TITLE	Battaglia rapida
+MID_TUT_MATCH_EASY_0	Scegli una mappa, invia una squadra offensiva e\naffronta un altro giocatore. Trova l'avversario\ntramite "Casuale", "Amico" o "Inserisci ID".
+MID_TUT_MATCH_EASY_1	Casuale: inizia la battaglia contro un esercito di\nun giocatore scelto in modo casuale.
+MID_TUT_MATCH_EASY_2	Amico: attacca una mappa pubblicata da uno\ndei tuoi amici.
+MID_TUT_MATCH_EASY_3	Inserisci ID: combatti in una mappa specifica\ninserendo il relativo ID.
+MID_TUT_MATCH_SERIOUS_TITLE	Battaglia personalizzata
+MID_TUT_MATCH_SERIOUS_0	Crea e pubblica la tua mappa o collegala a\nquella di un altro giocatore e poi vai all'attacco.
+MID_TUT_MATCH_SERIOUS_1	Seleziona "Crea mappa" per personalizzare\nil campo di battaglia.
+MID_TUT_MATCH_EDIT_ATTACK_TITLE	Giocare con le proprie mappe
+MID_TUT_MATCH_EDIT_ATTACK_0	Le tue mappe sono pronte per la battaglia\nnon appena finisci di crearle.
+MID_TUT_MATCH_EDIT_ATTACK_1	Seleziona "Inizia battaglia" per collegare la tua\nmappa a una pubblicata da un altro giocatore.\nSchiera la squadra offensiva e inizia a giocare.
+MID_TUT_MATCH_EDIT_ATTACK_2	Se la tua mappa viene attaccata, seleziona\n"Vedi risultati" per guardare l'esito e i replay.
+MID_TUT_MATCH_EDIT_ATTACK_3	Testa l'efficacia della tua mappa con la funzione\n"Simulazione".
+MID_TUT_MATCH_ATTACK_TITLE	Iniziare la battaglia
+MID_TUT_MATCH_ATTACK_0	Collega la tua mappa a una pubblicata da un\naltro giocatore. Invia una squadra offensiva\ne inizia la battaglia.
+MID_TUT_MATCH_ATTACK_1	Casuale: combatti in una mappa di un altro\ngiocatore scelta casualmente.
+MID_TUT_MATCH_ATTACK_2	Amico: scegli una mappa tra quelle pubblicate\ndai tuoi amici.
+MID_TUT_MATCH_ATTACK_3	Inserisci ID: combatti in una mappa di un\ngiocatore specifico inserendo il relativo ID.
+MID_TUT_MATCH_EDIT_TITLE	Creare mappe
+MID_TUT_MATCH_EDIT_0	Quando crei le tue mappe, pensa a come\ninfluenzeranno la battaglia i vari tipi di terreni\nche posizioni.
+MID_TUT_MATCH_EDIT_1	Premi \x0E\x08\x02\x04\x02X per aprire l'elenco terreni. Usa \x0E\x08\x02\x04\x02A per\nposizionare i terreni e \x0E\x08\x02\x04\x02L\x0E\x08\x02\x04\x02R per scorrere l'elenco.
+MID_TUT_MATCH_EDIT_2	Pensa anche alla tenuta difensiva della tua\nmappa. Una volta pubblicata, i nemici possono\niniziare ad attaccarla. La difesa è cruciale.
+MID_TUT_MATCH_EDIT_3	Infine, per impostare la tua squadra difensiva,\napri il menu con \x0E\x08\x02\x0A\x08Plus. Da lì, puoi anche salvare\nla tua mappa.
+MID_TUT_MATCH_EDIT_SAVE_TITLE	Impostare squadre difensive
+MID_TUT_MATCH_EDIT_SAVE_0	Puoi personalizzare impostazioni, posizione ed\nequipaggiamento dei membri della tua squadra\ndifensiva.
+MID_TUT_MATCH_EDIT_SAVE_1	Cambia il tipo di comportamento di un'unità\nalleata posizionando il cursore su di essa e\npremendo \x0E\x08\x02\x04\x02A.
+MID_TUT_MATCH_EDIT_SAVE_2	I membri della squadra difensiva non possono\nentrare a far parte della squadra offensiva,\nquindi scegli con attenzione le tue unità.
+MID_TUT_MATCH_EDIT_SAVE_3	Quando hai finito di posizionare i terreni e la\ntua squadra difensiva, seleziona "Salva mappa".
+MID_TUT_MATCH_EDIT_SAVE_4	Seleziona "Termina" quando hai finito.
+MID_TUT_MATCH_REPLAY_TITLE	Vedere i risultati
+MID_TUT_MATCH_REPLAY_0	Se un giocatore lancia un attacco su una mappa\nche hai pubblicato, la squadra che hai preparato\nla difenderà.
+MID_TUT_MATCH_REPLAY_1	Quando si verificano queste battaglie difensive,\npotrai vedere come sono andate.
+MID_TUT_MATCH_REPLAY_2	Osserva lo svolgimento della battaglia\nguardando un replay dello scontro.
+MID_TUT_MATCH_REPLAY_3	Puoi ricevere ricompense anche se perdi,\nma quelle in palio per la vittoria sono migliori.
+MID_TUT_MATCH_MOCKCOMBAT_TITLE	Simulazione
+MID_TUT_MATCH_MOCKCOMBAT_0	Prova le mappe che hai creato per vedere come\nresistono alla battaglia.
+MID_TUT_MATCH_MOCKCOMBAT_1	Invia una squadra offensiva sulla tua mappa per\nmettere alla prova la resistenza delle tue difese.
+MID_TUT_MATCH_MOCKCOMBAT_2	Se individui qualcosa che deve essere\nmigliorato, puoi effettuare le modifiche\ntramite "Crea mappa".
+MID_TUT_TIPS_Marth	Emblema Marth
+MID_TUT_TIPS_Siglud	Emblema Sigurd
+MID_TUT_TIPS_Celica	Emblema Celica
+MID_TUT_TIPS_Micaiah	Emblema Micaiah
+MID_TUT_TIPS_Roy	Emblema Roy
+MID_TUT_TIPS_Lin	Emblema Lyn
+MID_TUT_TIPS_Ike	Emblema Ike
+MID_TUT_TIPS_Lucina	Emblema Lucina
+MID_TUT_TIPS_Leaf	Emblema Leif
+MID_TUT_TIPS_Kamui	Emblema Corrin
+MID_TUT_TIPS_Eirik	Emblema Erika
+MID_TUT_TIPS_Ephraim	Emblema Ephraim
+MID_TUT_TIPS_Byleth	Emblema Byleth
+MID_TUT_TIPS_TUTORIAL	Le basi
+MID_TUT_TIPS_ITEM	Strumenti
+MID_TUT_TIPS_WEAPON	Armi
+MID_TUT_TIPS_KIZUNA	Esplorazione
+MID_TUT_TIPS_HUB	Il Somniel
+MID_TUT_TIPS_GMAP	Mappa del mondo
+MID_TUT_TIPS_ENCOUNTER	Scaramucce
+MID_TUT_TIPS_UNIT_SKILL	 (abilità di \x0E\x01\x00\x00)
+MID_TUT_TIPS_GOD_SKILL	 (abilità emblema di \x0E\x01\x00\x00)
+MID_TUT_TIPS_UNIT_ITEM	 (arma speciale di \x0E\x01\x00\x00)
+MID_TUT_TIPS_GOD_ITEM	 (arma unione di \x0E\x01\x00\x00)
+MID_TIPS_TUTORIAL_1	Riguarda le guide dal menu "Sistema".
+MID_TIPS_TUTORIAL_2	Puoi attivare o disattivare le animazioni di combattimento dal menu "Sistema".
+MID_TIPS_TUTORIAL_3	Premi \x0E\x08\x02\x06\x04ZL sul campo di battaglia per vedere il raggio d'attacco di tutti i nemici.
+MID_TIPS_TUTORIAL_4	Muovi il cursore sopra un nemico e premi \x0E\x08\x02\x04\x02A per vedere la sua area di attacco.
+MID_TIPS_TUTORIAL_5	Termina la fase giocatore quando vuoi selezionando "Termina il turno".
+MID_TIPS_TUTORIAL_6	Tieni premuto \x0E\x08\x02\x04\x02Y durante una conversazione per velocizzarla.
+MID_TIPS_TUTORIAL_7	Raggiunti i 100 punti esperienza, un alleato salirà di livello e riceverà un incremento\ndei parametri.
+MID_TIPS_TUTORIAL_8	Premi \x0E\x08\x02\x04\x02X per vedere le informazioni dettagliate di oggetti o abilità.
+MID_TIPS_TUTORIAL_9	Vedi informazioni aggiuntive sulle abilità di un'unità spostando il cursore su di essa\ne premendo \x0E\x08\x02\x0C\nMinus.
+MID_TIPS_TUTORIAL_10	Tieni premuto \x0E\x08\x02\x06\x04ZR sulla mappa della battaglia per cambiare la visualizzazione della\nminimappa o il tipo di informazioni che vengono mostrate sulle unità.
+MID_TIPS_TUTORIAL_50	Premi \x0E\x08\x02\x06\x04ZR sulla mappa della battaglia per visualizzare informazioni aggiuntive sulle unità.
+MID_TIPS_TUTORIAL_11	La velocità di un'unità (Vel) diminuisce se il peso della sua arma è più alto della sua\ncostituzione (Cost).
+MID_TIPS_TUTORIAL_12	Se la tua fortuna (Fort) è elevata, subirai meno colpi tripli.
+MID_TIPS_TUTORIAL_13	Posizionati tra i cespugli o tra gli alberi per aumentare le tue possibilità di schivare\ngli attacchi nemici.
+MID_TIPS_ITEM_0	Recupera i PS con un unguento o usando Cura.
+MID_TIPS_ITEM_1	Gli unguenti e i bastoni hanno un numero limitato di utilizzi. Spariranno quando\nil contatore degli utilizzi scende a 0.
+MID_TIPS_TUTORIAL_14	Seleziona "Automatico" per impostare una strategia e lasciare che le unità\ncombattano da sole.
+MID_TIPS_TUTORIAL_15	Infliggi ai nemici lo stato di breccia sfruttando il vantaggio dell'arma: spada contro ascia,\nascia contro lancia e lancia contro spada.
+MID_TIPS_TUTORIAL_51	Attaccare con un'arte infliggerà lo stato di breccia ai nemici che usano archi, tomi\ne coltelli.
+MID_TIPS_TUTORIAL_16	I nemici con lo stato di breccia possono contrattaccare solo dopo il loro prossimo\ncombattimento, quindi puoi attaccarli senza preoccuparti.
+MID_TIPS_TUTORIAL_17	La parata concatenata non protegge dagli attacchi unione.
+MID_TIPS_SKILL_0	Aumentare il livello di legame incrementa le abilità disponibili e potenzia i parametri\ndi un'unità quando è sincronizzata o unita a un emblema.
+MID_TIPS_SKILL_1	La barra dell'unione si riempie mentre combatti.
+MID_TIPS_SKILL_28	Un'unità può riempire la barra dell'unione al massimo attendendo su uno spazio\nin cui c'è l'aura di un emblema.
+MID_TIPS_SKILL_2	I draghi attaccano più volte quando usano l'attacco unione dell'emblema Marth,\n"Raffica suprema".
+MID_TIPS_ITEM_2	Quando un'arte è attivata, l'attacco fisico (Att fis) è influenzato da due parametri:\nforza (Forz) e magia (Mag).
+MID_TIPS_TUTORIAL_18	I tuoi alleati possiedono abilità uniche. Premi \x0E\x08\x02\x04\x02X per visualizzarne i dettagli.
+MID_TIPS_TUTORIAL_19	Il menu "Formazione" mostra classi e livelli degli alleati.
+MID_TIPS_TUTORIAL_20	I tuoi alleati guadagnano sostegno quando combattono l'uno accanto all'altro.
+MID_TIPS_TUTORIAL_21	Cambia l'arma di un alleato con \x0E\x08\x02\x04\x02L o \x0E\x08\x02\x04\x02R.
+MID_TIPS_TUTORIAL_22	I nemici con l'icona \x0E\x08\x02\x12\x10DropItem fanno cadere un oggetto quando vengono sconfitti.
+MID_TIPS_ITEM_3	Gli archi sono efficaci contro i nemici volanti.
+MID_TIPS_ITEM_4	Le unità corazzate hanno difesa (Dif) elevata, ma sono danneggiate con facilità dagli\nattacchi magici.
+MID_TIPS_OTHER_33	Puoi ridurre la difficoltà di gioco avvicinandoti al tuo letto e selezionando\n"Cambio difficoltà".
+MID_TIPS_TUTORIAL_24	Se visiti una casa prima di un nemico, potresti ricevere un dono.
+MID_TIPS_TUTORIAL_25	Le unità sui terreni "Forte" o "Suolo protettivo" recuperano PS a ogni turno e non\nsubiscono lo stato di breccia dal vantaggio delle armi.
+MID_TIPS_TUTORIAL_27	I rifornimenti sono disponibili per \x0E\x06\x03\x00 e le unità adiacenti, in modo che\npossano riporre e ritirare oggetti durante la battaglia.
+MID_TIPS_TUTORIAL_28	Guadagna Esp di legame per sbloccare conversazioni con gli emblemi che faranno\naumentare il livello di legame.
+MID_TIPS_TUTORIAL_29	Guadagna punti sostegno per sbloccare conversazioni tra alleati che fanno aumentare\nil loro livello di sostegno.
+MID_TIPS_TUTORIAL_30	Quando il livello di sostegno di due alleati aumenta, questi ricevono un bonus ai\nparametri se sono adiacenti l'uno all'altro.
+MID_TIPS_TUTORIAL_32	Il simbolo \x0E\x08\x02\x18\x16EquipCancel appare sull'icona dell'arma di un nemico quando è possibile infliggergli\nlo stato di breccia.
+MID_TIPS_TUTORIAL_33	I nemici con \x0E\x08\x02 \x1EBalloonCritical mettono a segno colpi tripli con facilità.
+MID_TIPS_TUTORIAL_34	Riavvolgi il tempo, annulla le azioni e cambia le decisioni già prese con la cronogemma\ndel drago.
+MID_TIPS_ITEM_5	Puoi attaccare i nemici distanti anche con giavellotti e scuri oltre che con archi e magia.
+MID_TIPS_ITEM_6	Il tomo "Impeto" può attaccare solo i nemici adiacenti, ma i colpi vanno sempre a segno.
+MID_TIPS_OTHER_0	Raccogli frammenti di legame parlando con gli alleati che si sono distinti in battaglia.
+MID_TIPS_OTHER_1	Puoi utilizzare i cristalli e gli ingredienti che trovi per perfezionare armi e preparare pasti.
+MID_TIPS_OTHER_2	Nella sala degli emblemi puoi usare i frammenti di legame per creare anelli del legame.
+MID_TIPS_OTHER_3	Premi \x0E\x08\x02\x04\x02X per viaggiare rapidamente verso la tua destinazione.
+MID_TIPS_OTHER_4	Se scegli con cura il regalo per un alleato, riceverai punti sostegno aggiuntivi.
+MID_TIPS_OTHER_6	Cambia la musica di sottofondo con il gran carillon.
+MID_TIPS_OTHER_7	Nella tua stanza puoi ascoltare le musica o ricordare conversazioni passate ed eventi\nimportanti.
+MID_TIPS_OTHER_8	Se ti addormenti in camera tua, uno dei tuoi alleati potrebbe venire a svegliarti.
+MID_TIPS_OTHER_9	Usa PA o frammenti di legame nella sala degli emblemi per ereditare abilità o creare\nanelli del legame.
+MID_TIPS_OTHER_10	Si dice che lo spirito guardiano del Somniel produca frammenti di legame.\nPer quanto riguarda il metodo che utilizza... beh, non c'è bisogno di dirlo.
+MID_TIPS_OTHER_11	Un punteggio elevato in "Volo in viverna" ti fa ottenere frammenti di legame aggiuntivi.
+MID_TIPS_OTHER_12	Dopo aver fatto ginnastica, \x0E\x06\x03\x00 otterrà un leggero bonus ai parametri\nper la battaglia successiva.
+MID_TIPS_OTHER_32	Puoi vendere più oggetti alla volta selezionandoli con \x0E\x08\x02\x06\x04ZR.
+MID_TIPS_TUTORIAL_35	Se un nemico raggiunge uno scrigno prima di te, basterà sconfiggerlo per recuperare\nil contenuto.
+MID_TIPS_TUTORIAL_36	Per attraversare una porta, distruggila o usa il comando "Apri porta" di un ladro.
+MID_TIPS_ITEM_8	Potenzia i parametri di un alleato durante la battaglia con oggetti come il tonico PS.
+MID_TIPS_ITEM_9	La picca e armi come le alabarde sono efficaci contro le unità a cavallo.
+MID_TIPS_OTHER_13	Gli animali che pascolano nel Somniel potrebbero lasciare qualcosa per te.
+MID_TIPS_OTHER_15	Sulla mappa del mondo potrebbero apparire scaramucce e battaglie di esercitazione.\nPartecipa per ottenere oro ed esperienza.
+MID_TIPS_OTHER_16	Guadagna esperienza e approfondisci i legami combattendo contro gli alleati\ne gli emblemi nell'arena.
+MID_TIPS_OTHER_17	Gli alleati che combattono nelle battaglie di esercitazione ottengono ancora più Esp\ndopo averle completate.
+MID_TIPS_TUTORIAL_39	I draghi ricevono spesso effetti aggiuntivi quando sono in stato di unione.
+MID_TIPS_TUTORIAL_40	Le unità di rinforzo usano attacchi concatenati per sostenere gli alleati.
+MID_TIPS_TUTORIAL_41	Le unità a cavallo hanno una maggior mobilità.
+MID_TIPS_TUTORIAL_42	Quando attaccano con la magia, i mistici annullano i bonus di schivata (Scv) che i nemici\nottengono dal terreno.
+MID_TIPS_TUTORIAL_43	Gli adepti qi possono usare la parata concatenata per coprire gli alleati adiacenti.
+MID_TIPS_TUTORIAL_44	Le unità furtive ottengono il doppio dei normali bonus alla schivata (Scv) dagli effetti del\nterreno.
+MID_TIPS_TUTORIAL_45	Le unità volanti possono muoversi senza subire gli effetti del terreno.
+MID_TIPS_TUTORIAL_46	Il vantaggio delle armi non infligge lo stato di breccia alle unità corazzate.
+MID_TIPS_TUTORIAL_47	Fai salire il tuo livello di legame con gli emblemi per ottenere i talenti necessari\na cambiare classe.
+MID_TIPS_ITEM_10	Se un nemico impugna un'arma a corto raggio, non può contrattaccare se attacchi\nda lontano.
+MID_TIPS_ITEM_11	Attaccare con i coltelli avvelena i nemici.
+MID_TIPS_ITEM_12	Le frangicotte e i martelli sono efficaci contro le unità corazzate.
+MID_TIPS_OTHER_14	Dopo aver cucinato, lo chef a volte potrebbe confezionarti un pasto da portare con te\nche potrai utilizzare per recuperare PS.
+MID_TIPS_OTHER_19	Quando ordini un pasto alla mensa, puoi migliorarlo aggiungendo altri ingredienti extra.
+MID_TIPS_OTHER_20	Puoi raccogliere ingredienti da usare in cucina nel frutteto.
+MID_TIPS_OTHER_21	Ottieni frammenti di legame completando i trofei della bacheca.
+MID_TIPS_OTHER_22	Usa la bacheca per effettuare donazioni ai regni dell'Elyos. I doni generosi\naumentano il livello donazioni e ti fanno ottenere ricompense.
+MID_TIPS_OTHER_30	I nemici rari appaiono più facilmente nelle scaramucce delle regioni con un livello\ndonazioni elevato.
+MID_TIPS_OTHER_31	Aumentando il tuo livello donazioni in una determinata regione, troverai più materiali\nquando la esplorerai.
+MID_TIPS_OTHER_23	Nelle scaramucce in cui la visibilità è bassa, i nemici spesso fruttano molta esperienza\ne grandi ricchezze.
+MID_TIPS_SKILL_38	L'unico modo per incrementare il Clp dei bastoni è con l'abilità "Fede".
+MID_TIPS_OTHER_34	Puoi usare la tua carta profilo per fare scambi con gli amici alla torre delle prove.
+MID_TIPS_TUTORIAL_48	Attenzione alla barra dell'unione dei nemici con sincronizzazione oscura: quando brilla,\nvuol dire che il loro attacco unione è pronto.
+MID_TIPS_TUTORIAL_52	Gli alleati in stato di unione subiscono meno danni dagli attacchi unione dei nemici.
+MID_TIPS_TUTORIAL_49	Puoi continuare ad allenare un'unità che ha raggiunto il livello massimo utilizzando\nun sigillo speciale per farla ripartire dal livello 1.
+MID_TIPS_ITEM_13	Se non curi l'avvelenamento con un'antitossina o un bastone "Ripristino", l'effetto\npersisterà per tutta la durata della battaglia.
+MID_TIPS_ITEM_14	Quando gli alleati raggiungono il livello 10, possono passare a una classe avanzata\nutilizzando un sigillo supremo.
+MID_TIPS_ITEM_15	Le armi con l'effetto schianto attaccano sempre per ultime.
+MID_TIPS_OTHER_24	I pesci che catturi nello stagno sono ottimi da cucinare.
+MID_TIPS_ITEM_16	Gli alleati possono passare a classi di tipo diverso utilizzando un sigillo speciale.
+MID_TIPS_ITEM_17	Metti a segno più spesso i colpi tripli grazie alle armi lama letale, lancia letale\ne ascia letale.
+MID_TIPS_OTHER_37	Facendo avanzare \x0E\x06\x03\x00 alla classe di Drago Divino, potrai divertirti\ncon un volo in viverna vicino alla palestra.
+MID_TIPS_OTHER_26	Al mercatino troverai alcuni oggetti che non possono essere acquistati altrove.
+MID_TIPS_OTHER_27	Si dice che nell'Elyos esistano terreni di addestramento dove puoi approfondire i legami\ncon gli emblemi.
+MID_TIPS_SKILL_29	L'attacco unione di Ike, Grande etere, può eliminare effetti come fuoco e miasma\ndall'area colpita.
+MID_TIPS_SKILL_22	L'arma unione di Byleth cambia in base al tipo di unità con cui si unisce.
+MID_TIPS_SKILL_25	L'abilità "Vena del drago" di Corrin aggiunge al terreno effetti speciali e annulla quelli\npresenti.
+MID_TIPS_OTHER_28	Puoi visitare l'indovino solo di notte.
+MID_TIPS_OTHER_29	Combatti nella torre delle prove per ottenere materiali speciali da usare per potenziare\nle armi unione.
+MID_TIPS_ITEM_18	Armi come la spada forte e la lancia forte, eseguono due attacchi consecutivi se l'unità\nche le impugna inizia lo scontro.
+MID_TIPS_ITEM_19	Quando hai deciso di donare l'anello del patto alla persona a cui tieni di più,\nlo troverai nel comodino della tua stanza.
+MID_TIPS_GOD_0	Principe d'Altea, un regno dell'Akaneia, un continente di un altro mondo.\nDiscende dalla stessa stirpe dell'eroe Anri.
+MID_TIPS_GOD_1	Dopo che sconfisse il Drago Ombra insieme ai suoi alleati, iniziò a essere conosciuto\ncome il Re Eroico.
+MID_TIPS_GOD_2	Figlio del duca di Chalphy, del regno di Grannvale situato in Jugdral, continente\ndi un altro mondo.
+MID_TIPS_GOD_3	Un cavaliere di nobili origini che, in quanto discendente del crociato Baldr, ha ereditato\nuna leggendaria spada sacra.
+MID_TIPS_GOD_4	Principessa di Zofia, un prospero regno della Valentia, un continente di un altro mondo.
+MID_TIPS_GOD_5	Insieme all'eroe Alm, lottò contro il dio caduto che minacciava la pace nel suo\nmondo, ma passò alla storia per essere una persona di buon cuore.
+MID_TIPS_GOD_6	Componente di un gruppo di liberatori di Tellius, un continente di un altro mondo.
+MID_TIPS_GOD_7	Usò i suoi misteriosi poteri per affrontare una divinità che voleva imporre il proprio\ngiudizio sul mondo intero.
+MID_TIPS_GOD_8	Un nobile della corte di Pherae, un territorio di Elibe, il continente di un altro mondo,\ne possessore della Spada dei sigilli.
+MID_TIPS_GOD_9	Condusse un esercito, al posto del padre malato, contro i nemici della sua nazione.
+MID_TIPS_GOD_10	Esperta spadaccina di Sacae, una regione di pianure erbose in Elibe, un continente\ndi un altro mondo.
+MID_TIPS_GOD_11	Fu cresciuta come una nomade, ignara del suo nobile lignaggio.
+MID_TIPS_GOD_12	Capo dei mercenari di Greil da Tellius, un continente di un altro mondo.
+MID_TIPS_GOD_13	Le sue abilità con la spada e il suo cuore sincero lo elevarono da semplice mercenario\na eroe rinomato.
+MID_TIPS_GOD_14	Principessa del regno d'Ylisse, una nazione di un altro mondo. Porta il marchio\ndell'Eletta sull'occhio sinistro.
+MID_TIPS_GOD_15	Il suo forte senso della giustizia la spinse a viaggiare indietro nel tempo e a lottare\nper cambiare un triste futuro.
+MID_TIPS_GOD_16	Erede di Leonster, un regno della regione della Thracia in Jugdral, un continente\ndi un altro mondo.
+MID_TIPS_GOD_17	Lottò con coraggio per liberare la Thracia dalla morsa imperiale.
+MID_TIPS_GOD_18	Una principessa di due nazioni di un altro mondo: nata in Hoshido, ma cresciuta in Nohr.
+MID_TIPS_GOD_19	Sebbene avesse il potere dei Primi Draghi, dovette prendere una terribile decisione\nquando scoppiò un conflitto tra i due regni a cui era legata.
+MID_TIPS_GOD_20	Principessa di Renais, una nazione di Magvel, un continente di un altro mondo.\nEreditò una delle Sacre Pietre.
+MID_TIPS_GOD_21	Il valoroso principe di Renais, che lottò contro il Re Demone insieme a sua sorella\ngemella Erika.
+MID_TIPS_GOD_22	Un giovane professore, con un passato da mercenario, del monastero del Garreg Mach\nin Fódlan, un continente di un altro mondo.
+MID_TIPS_GOD_23	Ha impartito fondamentali lezioni ai propri studenti e li ha guidati durante un periodo\nsegnato dalla guerra.
+MID_TUT_NAVI_M004_TIMECRYSTAL	La cronogemma del drago è ora disponibile.
+MID_TUT_NAVI_M005_FUNDS	Hai ricevuto \x0E\x01\x00\x00\x0E\x01\x01\x00 M di fondi militari\ndal Firene.
+MID_TUT_NAVI_VANDRE_FUNDS	Hai ricevuto \x0E\x01\x00\x00\x0E\x01\x01\x00 M di fondi militari\nda Vander.
+MID_TUT_NAVI_M008_FUNDS	Hai ricevuto \x0E\x01\x00\x00\x0E\x01\x01\x00 M di fondi militari\ndalla Brodia.
+MID_TUT_NAVI_M012_RESCUE	Salva le persone minacciate dalle aberrazioni.
+MID_TUT_NAVI_M014_FUNDS	Hai ricevuto \x0E\x01\x00\x00\x0E\x01\x01\x00 M di fondi militari\ndal Solm.
+MID_TUT_NAVI_M015_ESCAPE	Proteggi Seadall e aiutalo a fuggire!
+MID_TUT_NAVI_M020_FUNDS	Hai ricevuto \x0E\x01\x00\x00\x0E\x01\x01\x00 M di fondi militari\ndall'Elusia.
+MID_TUT_NAVI_M022_GET_Siglud	Hai ottenuto l'anello del Sacro Cavaliere.
+MID_TUT_NAVI_M022_GET_Celica	Hai ottenuto l'anello della Premurosa.
+MID_TUT_NAVI_M022_GET_Micaiah	Hai ottenuto l'anello della Fanciulla della Luce.
+MID_TUT_NAVI_M022_GET_Roy	Hai ottenuto l'anello del Giovane Leone.
+MID_TUT_NAVI_M022_GET_Lin	Hai ottenuto l'anello della Guerriera.
+MID_TUT_NAVI_M022_GET_Ike	Hai ottenuto l'anello dell'Eroe della Fiamma.
+MID_TUT_NAVI_M022_GET_Lucina	Hai ottenuto l'anello dell'Eletta.
+MID_TUT_NAVI_M022_GET_Leaf	Hai ottenuto l'anello del Saggio Lord.
+MID_TUT_NAVI_M022_GET_Kamui	Hai ottenuto l'anello della Mano del Fato.
+MID_TUT_NAVI_M022_GET_Eirik	Hai ottenuto l'anello dei Gemelli Azzurri.
+MID_TUT_NAVI_M022_GET_Byleth	Hai ottenuto l'anello del Mentore.
+MID_TUT_NAVI_M024_WARNING1	Fra 2 turni una valanga si abbatterà\nsul percorso montano inferiore.
+MID_TUT_NAVI_M024_WARNING2	Fra 2 turni una valanga si abbatterà\nsul percorso montano centrale.
+MID_TUT_NAVI_M024_WARNING3	Fra 2 turni una valanga si abbatterà\nsul percorso montano superiore.
+MID_TUT_NAVI_M026_ENGAGEBREAKE	Gran Sombron userà "Spezza unione" nel suo\nprossimo turno. È un devastante attacco che\nforza l'annullamento dello stato di unione di\ntutte le unità.
+MID_TUT_NAVI_M026_BEAM_WARNING	Gran Sombron userà "Raggio ruggente" nel suo\nprossimo turno. Cerca di tenerti fuori dalla sua\nportata per evitare questo potente attacco.
+MID_TUT_NAVI_S006_RULE	Impedisci a Byleth di distruggere i cristalli.\nRiceverai ricompense in base al numero\ndi cristalli protetti.
+MID_TUT_NAVI_S006_BREAK	Un cristallo è stato distrutto.
+MID_TUT_NAVI_S006_REWARD1	Perfetto! Hai protetto un numero altissimo\ndi cristalli. Per premiarti, Byleth ti ha regalato:\n\x0E\x01\x00\x00 e \x0E\x01\x01\x00.
+MID_TUT_NAVI_S006_REWARD2	Ben fatto! Hai protetto un buon numero di\ncristalli. Per premiarti, Byleth ti ha regalato:\n\x0E\x01\x00\x00.
+MID_TUT_NAVI_S006_REWARD3	Non hai protetto molti cristalli, quindi\nnon hai ricevuto ricompense.
+MID_TUT_NAVI_S015_GET	Hai recuperato l'anello.
+MID_TUT_NAVI_S015_ENGAGERING	Puoi dare l'anello dal patto solo a uno dei tuoi\nalleati. Scegli con cura il destinatario.

@@ -1,0 +1,743 @@
+MID_TUT_CATEGORY_TITLE_Battle	전투
+MID_TUT_CATEGORY_TITLE_God	문장사
+MID_TUT_CATEGORY_TITLE_Hub	거점
+MID_TUT_CATEGORY_TITLE_Kizuna	산책·월드 맵
+MID_TUT_CATEGORY_TITLE_Challenge	시련
+MID_TUT_CATEGORY_TITLE_Local	픽업
+MID_TUT_BMAP_MOVE_TITLE	이동
+MID_TUT_BMAP_MOVE_0	아군 유닛에 커서를 올리고 \x0E\x08\x02\x04\x02A를 누르면\n\x0E\x08\x02\x0E\x0CStickL으로 그 유닛을 이동시킬 수 있습니다
+MID_TUT_BMAP_MOVE_1	표시되는 ｢파란 범위｣만큼 이동할 수 있습니다
+MID_TUT_BMAP_MOVE_2	다시 \x0E\x08\x02\x04\x02A를 누르면 이동이 완료됩니다
+MID_TUT_BMAP_COMMAND_TITLE	유닛 커맨드
+MID_TUT_BMAP_COMMAND_0	이동을 완료하면 ｢유닛 커맨드｣가 표시되어\n그곳에서 할 수 있는 행동을 선택할 수 있습니다
+MID_TUT_BMAP_COMMAND_1	아무것도 하지 않으려면 ｢대기｣를 선택합시다
+MID_TUT_BMAP_CHANGE_TITLE	페이즈 체인지
+MID_TUT_BMAP_CHANGE_0	모든 아군이 행동을 마치면\n적군 페이즈로 변경되어\n적 유닛이 행동을 시작합니다
+MID_TUT_BMAP_CHANGE_1	모든 군의 페이즈가 종료될 때까지를\n｢턴｣이라고 부르며 ｢턴｣이 종료되고 다음 ｢턴｣이 시작되면\n다시 아군 페이즈가 됩니다
+MID_TUT_BMAP_ATTACK_TITLE	공격
+MID_TUT_BMAP_ATTACK_0	아군을 적 근처로 이동시킨 뒤, \x0E\x08\x02\x04\x02A를 눌러\n유닛 커맨드에서 ｢공격｣을 선택합시다
+MID_TUT_BMAP_ATTACK_1	적에게 커서를 올리고 ｢\x0E\x08\x02\x04\x02A 공격｣이 표시되면\n\x0E\x08\x02\x04\x02A를 눌러 공격을 시작할 수 있습니다
+MID_TUT_BMAP_ENGAGE_TITLE	인게이지
+MID_TUT_BMAP_ENGAGE_0	인게이지 카운트가 최대까지 차면 ｢유닛 커맨드｣에서\n｢인게이지｣를 선택할 수 있습니다
+MID_TUT_BMAP_ENGAGE_1	｢인게이지｣를 선택하면 문장사와 일심동체 상태가 되어\n｢인게이지 무기｣라는 특별한 무기를 사용할 수 있습니다
+MID_TUT_BMAP_ENGAGE_2	추가로 ｢인게이지 스킬｣이 개방되어\n아군의 능력이 강화됩니다
+MID_TUT_BMAP_ENGAGE_3	｢인게이지｣ 상태는 3턴 동안 지속됩니다
+MID_TUT_BMAP_ENGAGE_ATTACK_TITLE	인게이지 기술
+MID_TUT_BMAP_ENGAGE_ATTACK_0	인게이지 상태가 되면 ｢인게이지 기술｣이라는\n특별한 기술을 사용할 수 있습니다
+MID_TUT_BMAP_ENGAGE_ATTACK_1	인게이지 중에 1번만 사용할 수 있지만,\n매우 강력한 위력을 가지고 있습니다
+MID_TUT_BMAP_ENGAGE_ATTACK_2	예를 들어 인게이지 기술 ｢스타 러시｣는\n적에게 큰 대미지를 입힙니다\n｢스타 러시｣와 ｢무기｣를 선택하면 사용할 수 있습니다
+MID_TUT_BMAP_TERRAIN_TITLE	지형 효과
+MID_TUT_BMAP_TERRAIN_0	지형은 다양한 ｢지형 효과｣를 가지고 있습니다\n예를 들어 ｢수풀｣은 적의 공격을 피할 확률이 상승합니다
+MID_TUT_BMAP_TERRAIN_1	하지만 ｢수풀｣에 진입하려면 평소보다\n많은 이동력이 필요하므로 주의합시다
+MID_TUT_BMAP_TERRAIN_2	｢지형 효과｣는 화면 왼쪽 위의\n｢지형 정보｣에서 확인할 수 있습니다\n적절히 활용해서 유리하게 전투를 펼칩시다
+MID_TUT_BMAP_RECOVERY_TITLE	회복
+MID_TUT_BMAP_RECOVERY_0	HP가 0이 되면 전투 불능 상태가 됩니다\n그렇게 되기 전에 상처약 등을 이용해 ｢회복｣해 둡시다
+MID_TUT_BMAP_RECOVERY_1	유닛 커맨드 ｢소지품｣에서 ｢상처약｣, ｢사용｣을 선택하면\n사용할 수 있습니다
+MID_TUT_BMAP_SYNCHRO_TITLE	싱크로
+MID_TUT_BMAP_SYNCHRO_0	유닛이 문장사와 전장에 나서\n함께 싸우는 상태를 ｢싱크로｣라고 합니다
+MID_TUT_BMAP_SYNCHRO_1	｢싱크로｣ 중에는 능력이 상승하며\n특수한 스킬이 개방됩니다
+MID_TUT_BMAP_KIZUNA_LV_TITLE	인연 레벨
+MID_TUT_BMAP_KIZUNA_LV_0	아군이 문장사와 함께 싸우면\n둘 사이의 ｢인연 경험치｣가 쌓여\n｢인연 레벨｣이 상승합니다
+MID_TUT_BMAP_KIZUNA_LV_1	｢인연 레벨｣이 상승하면\n새로운 스킬을 습득하거나\n각 능력이 상승하기도 합니다
+MID_TUT_BMAP_RANGE_TITLE	사정
+MID_TUT_BMAP_RANGE_0	무기에는 각각 사정거리가 있습니다\n예를 들어 활은 ｢사정｣이 2이므로\n2칸 떨어진 적을 공격할 수 있습니다
+MID_TUT_BMAP_RANGE_1	사정거리가 1인 무기를 지닌 적의 반격을 받지 않지만\n인접한 적을 공격하거나 반격할 수 없습니다
+MID_TUT_BMAP_BREAK_TITLE	브레이크
+MID_TUT_BMAP_BREAK_0	｢상성이 유리한 무기｣를 장비하고 적을 직접 공격했을 때,\n공격이 명중하면 ｢브레이크｣시킬 수 있습니다
+MID_TUT_BMAP_BREAK_1	｢브레이크｣ 상태인 적은\n다음 전투까지 반격할 수 없어\n유리하게 싸울 수 있습니다
+MID_TUT_BMAP_BREAK_2	무기의 상성은 다음과 같습니다\n·검은 도끼에, 도끼는 창에, 창은 검에 강하다\n·체술은 활과 마도서, 그리고 단검에 강하다
+MID_TUT_BMAP_WAND_TITLE	지팡이
+MID_TUT_BMAP_WAND_0	몽크 등이 사용할 수 있는 ｢지팡이｣는\n동료를 지원하는 다양한 효과를 지닌 아이템입니다
+MID_TUT_BMAP_WAND_1	예를 들어 ｢라이브｣는 아군의\nHP를 회복시킬 수 있습니다
+MID_TUT_BMAP_WAND_2	편리하지만 사용 횟수가 제한되어 있으므로 주의합시다
+MID_TUT_STYLE_PRANA_TITLE	전투 스타일 [기공]
+MID_TUT_STYLE_PRANA_0	전투 스타일 [기공] 유닛은\n인접한 아군을 적의 공격으로부터 보호하는\n｢체인 가드｣를 사용할 수 있습니다
+MID_TUT_STYLE_PRANA_1	발동하면 최대 HP 20%만큼의 대미지를 받는 대신\n아군이 받는 대미지를 0으로 만듭니다
+MID_TUT_STYLE_PRANA_2	｢체인 가드｣는 자신의 HP가\n100%일 때만 사용할 수 있습니다\n(조금이라도 감소한 상태라면 사용할 수 없습니다)
+MID_TUT_BMAP_MAGIC_TITLE	마법
+MID_TUT_BMAP_MAGIC_0	｢마법｣은 사정거리가 길고\n인접한 적도 공격할 수 있습니다
+MID_TUT_BMAP_MAGIC_1	또한, 검이나 도끼 같은 물리 공격으로\n큰 대미지를 입히기 힘든 적에게 매우 유용합니다
+MID_TUT_STYLE_MAGIC_TITLE	전투 스타일 [마도]
+MID_TUT_STYLE_MAGIC_0	전투 스타일 [마도] 유닛은\n마법으로 공격했을 때 지형 효과에 의한\n적의 회피 상승 보정을 무효화합니다
+MID_TUT_STYLE_MAGIC_1	일반적으로 공격을 명중시키기 어려운 상황이라도\n거리낌 없이 원거리에서 공격할 수 있습니다
+MID_TUT_BMAP_GOD_ENERGY_TITLE	문장의 기운
+MID_TUT_BMAP_GOD_ENERGY_0	맵상에 ｢문장의 기운｣이라고 불리는\n에너지가 등장하는 경우가 있습니다
+MID_TUT_BMAP_GOD_ENERGY_1	싱크로 중인 아군이 ｢문장의 기운｣ 위에서\n행동을 마치거나, 대기하면\n인게이지 카운트가 최대까지 차오릅니다
+MID_TUT_OVERALLINFORMATION_TITLE	위험 범위
+MID_TUT_OVERALLINFORMATION_0	적에게 커서를 올리면 그 적의 공격 범위인\n｢위험 범위｣가 표시됩니다. \x0E\x08\x02\x04\x02A를 누르면\n선택한 적의 ｢위험 범위｣를 표시 상태로 둘 수 있습니다
+MID_TUT_OVERALLINFORMATION_1	\x0E\x08\x02\x06\x04ZL을 누르면 모든 적의 ｢위험 범위｣를\n한 번에 표시할 수 있습니다
+MID_TUT_BMAP_SPECIALATTACK_TITLE	특효
+MID_TUT_BMAP_SPECIALATTACK_0	무기의 상세 정보에 있는 ｢특효 아이콘｣은\n특정 적에 대해 ｢특효｣를 발휘한다는 것을 의미합니다
+MID_TUT_BMAP_SPECIALATTACK_1	무기의 특효 아이콘과 같은 아이콘을 지닌 적을 공격하면\n｢특효｣가 발생해 평소보다 큰 대미지를 입힐 수 있습니다
+MID_TUT_STYLE_COOP_TITLE	전투 스타일 [연계]
+MID_TUT_STYLE_COOP_0	전투 스타일 [연계] 유닛은\n다른 아군이 공격했을 때\n원호 공격인 ｢체인 어택｣을 해 줍니다
+MID_TUT_STYLE_COOP_1	적을 공격했을 때 [연계] 스타일인\n아군 유닛이 같은 적을 공격할 수 있다면\n함께 전투에 참가해 줍니다
+MID_TUT_STYLE_HORSE_TITLE	전투 스타일 [기마]
+MID_TUT_STYLE_HORSE_0	전투 스타일 [기마] 유닛은\n다른 스타일 유닛보다\n높은 이동력을 가지고 있습니다
+MID_TUT_STYLE_HORSE_1	적진에 쳐들어가 선제공격을 하거나\n동료가 위기에 처했을 때 멀리서 달려오는 등\n기동력을 활용한 싸움이 특기입니다
+MID_TUT_STYLE_COVERT_TITLE	전투 스타일 [은밀]
+MID_TUT_STYLE_COVERT_0	전투 스타일 [은밀] 유닛은\n지형 효과로 얻는 상승 보정이 2배가 됩니다
+MID_TUT_STYLE_COVERT_1	｢수풀｣ 등, 지형이 많은 곳에서 지형 효과를\n적절히 활용하면 싸움이 유리해집니다
+MID_TUT_STYLE_HEAVY_TITLE	전투 스타일 [중갑]
+MID_TUT_STYLE_HEAVY_0	전투 스타일 [중갑] 유닛은\n｢상성이 불리한 무기｣로 공격받아도\n브레이크되지 않습니다
+MID_TUT_STYLE_HEAVY_1	또한, HP와 수비가 높아\n전선에서 방패 역할로 매우 든든한 존재입니다\n하지만 ｢마방｣이 낮아 마법 공격에 주의해야 합니다
+MID_TUT_STYLE_FLY_TITLE	전투 스타일 [비행]
+MID_TUT_STYLE_FLY_0	전투 스타일 [비행] 유닛은\n지형 효과 및 지형 이동 시 영향을 받지 않습니다\n또한, ｢보행 불가｣ 지역에 들어갈 수 있습니다
+MID_TUT_STYLE_FLY_1	높은 이동 능력을 지니고 있지만\n활처럼 ｢비행 특효｣를 지닌\n무기에 약하니 주의해야 합니다
+MID_TUT_STYLE_DRAGON_TITLE	전투 스타일 [용족]
+MID_TUT_STYLE_DRAGON_0	전투 스타일 [용족] 유닛은\n인게이지 스킬 또는 인게이지 기술에\n반드시 추가 효과를 얻습니다
+MID_TUT_STYLE_DRAGON_1	문장사의 능력을 살려 싸울 수 있으므로\n다양한 문장사와 인연을 높여 두면\n전략의 폭이 한층 넓어집니다
+MID_TUT_STYLE_BATTLE_TITLE	전투 스타일
+MID_TUT_STYLE_BATTLE_0	유닛은 [기마], [기공], [마도]처럼\n각각 특징을 지닌 다양한 ｢전투 스타일｣을 가지고 있습니다
+MID_TUT_STYLE_BATTLE_1	각 유닛이 어떤 ｢전투 스타일｣인지는\n스테이터스에서 확인할 수 있습니다
+MID_TUT_BMAP_ITEMDROP_TITLE	아이템 드롭
+MID_TUT_BMAP_ITEMDROP_0	｢드롭 아이콘｣이 표시된 적을 쓰러뜨리면\n가지고 있던 아이템을 획득할 수 있습니다
+MID_TUT_BMAP_ITEMDROP_1	획득할 수 있는 아이템은\n적 스테이터스에 ｢녹색｣으로 표시됩니다
+MID_TUT_BMAP_XHELP_TITLE	상세 정보
+MID_TUT_BMAP_XHELP_0	유닛에 커서를 올리고 \x0E\x08\x02\x04\x02X를 누르면\n그 유닛의 ｢상세 정보｣를 볼 수 있습니다
+MID_TUT_BMAP_XHELP_1	커서를 움직여 ｢무기｣나 ｢스킬｣ 등의\n보고 싶은 항목의 ｢상세 정보｣를 확인할 수 있습니다
+MID_TUT_BMAP_XHELP_2	다시 한번 \x0E\x08\x02\x04\x02X를 누르거나\n\x0E\x08\x02\x04\x02B를 누르면 원래 상태로 되돌아갑니다
+MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE	인연 회화
+MID_TUT_BMAP_BONDSSUPPORTTALK_0	아군과 문장사의 인연 레벨이 상승하면\n｢인연 회화｣라는 회화 이벤트를 볼 수 있습니다
+MID_TUT_BMAP_BONDSSUPPORTTALK_1	｢인연 회화｣는 월드 맵이나\n거점 솔라넬에 있을 때 볼 수 있습니다
+MID_TUT_BMAP_BONDSSUPPORTTALK_2	｢인연 회화｣를 보면 인연 레벨을\n추가로 더 올릴 수 있습니다
+MID_TUT_BMAP_SUPPORT_TITLE	지원 효과
+MID_TUT_BMAP_SUPPORT_0	아군과 인접한 상태로 전투하거나\n회복을 하면 지원도가 상승해\n｢지원 회화｣를 볼 수 있습니다
+MID_TUT_BMAP_SUPPORT_1	｢지원 회화｣는 월드 맵이나\n거점 솔라넬에서 볼 수 있으며\n내용을 모두 확인하면 ｢지원 레벨｣이 상승합니다
+MID_TUT_BMAP_SUPPORT_2	｢지원 레벨｣이 높아질수록\n높은 ｢지원 효과｣를 받을 수 있어\n인접해 있을 때 능력이 상승합니다
+MID_TUT_BMAP_VISIT_TITLE	방문
+MID_TUT_BMAP_VISIT_0	민가에 ｢방문｣해서 위험을 알리면\n보상으로 아이템이나 골드 등을 받을 수 있습니다
+MID_TUT_BMAP_VISIT_1	민가 앞에 빛나는 곳까지 아군을 이동시키면\n｢방문｣을 선택할 수 있습니다
+MID_TUT_BMAP_VISIT_2	민가에 적이 도달하면\n파괴되어 버리므로 주의합시다
+MID_TUT_BMAP_TIMECRYSTAL_TITLE	용의 시간석
+MID_TUT_BMAP_TIMECRYSTAL_0	｢용의 시간석｣을 사용하면 출격 중에 행동하기\n이전 시점으로 되돌아가 다시 행동할 수 있습니다
+MID_TUT_BMAP_TIMECRYSTAL_1	메뉴의 ｢용의 시간석｣에서 사용할 수 있습니다\n\x0E\x08\x02\x06\x04Up\x0E\x08\x02\x0A\x08Down로 되돌리려는 시점을 선택해\n\x0E\x08\x02\x04\x02A로 결정합니다
+MID_TUT_BMAP_REINFORCEMENT_TITLE	증원
+MID_TUT_BMAP_REINFORCEMENT_0	출격 중, 적의 ｢증원｣이\n출현하는 경우가 있습니다
+MID_TUT_BMAP_REINFORCEMENT_1	｢증원｣은 ｢요새｣나 ｢맵 끝부분｣에서\n출현하는 경우가 많으므로\n만일을 대비해 조심하도록 합시다
+MID_TUT_BMAP_TRANSPORTER_TITLE	수송대
+MID_TUT_BMAP_TRANSPORTER_0	｢수송대｣를 사용하면\n더 가질 수 없는 무기나 아이템을 맡기거나\n아이템이 필요할 때 찾을 수 있습니다
+MID_TUT_BMAP_TRANSPORTER_1	출격 중에는 \x0E\x06\x03\x00,\n그리고 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02과\x02와 인접한\n아군이 사용할 수 있습니다
+MID_TUT_BMAP_DEADSOUL_TITLE	전사자의 영혼
+MID_TUT_BMAP_DEADSOUL_0	네트워크에 접속하면 그 맵을 플레이한\n전 세계 플레이어의 이력을 바탕으로\n｢전사자의 영혼｣이 출현하는 경우가 있습니다
+MID_TUT_BMAP_DEADSOUL_1	｢노란색 영혼｣은 다양한 플레이어의 맵에서 아군 유닛이\n다수 격파된 칸에 출현하며, 그곳에 대기하면\n경험치 및 인연 경험치를 획득할 수 있습니다
+MID_TUT_BMAP_DEADSOUL_2	｢보라색 영혼｣은 다양한 플레이어의 맵에서\n적 유닛이 다수 격파된 장소에 출현하며\n그곳에 대기하면 아이템을 획득할 수 있습니다
+MID_TUT_BMAP_DOOR_TITLE	문
+MID_TUT_BMAP_DOOR_0	｢문｣은 공격해서 파괴하면\n통행할 수 있습니다
+MID_TUT_BMAP_DOOR_1	아군에 ｢시프｣가 있으면\n｢문 열쇠｣ 커맨드를 사용할 수 있으며\n문을 파괴하지 않고 열 수 있습니다
+MID_TUT_BMAP_TREASUREBOX_TITLE	보물 상자
+MID_TUT_BMAP_TREASUREBOX_0	｢보물 상자｣ 안에는 아이템이 들어 있어\n인접한 상태로 ｢보물 상자｣ 커맨드를 사용하면\n내용물을 획득할 수 있습니다
+MID_TUT_BMAP_TREASUREBOX_1	적이 먼저 내용물을 가져간 상황이라도\n도망치기 전에 그 적을 쓰러뜨리면 획득할 수 있습니다
+MID_TUT_BMAP_BREAKINGWALL_TITLE	지형 파괴
+MID_TUT_BMAP_BREAKINGWALL_0	지형 정보에 ｢파괴 가능｣이라고 표시된 지형은\n공격해서 파괴할 수 있습니다
+MID_TUT_BMAP_BREAKINGWALL_1	파괴하고 나면 그곳을 통행할 수 있습니다
+MID_TUT_BMAP_HPSTOCK_TITLE	부활의 돌
+MID_TUT_BMAP_HPSTOCK_0	일부 강력한 적은\n｢부활의 돌｣을 지니고 있습니다
+MID_TUT_BMAP_HPSTOCK_1	HP가 0이 되어도 돌을 사용해\n부활 및 회복을 합니다
+MID_TUT_BMAP_HPSTOCK_2	｢부활의 돌｣이 남아 있는 상태에선\n쓰러뜨릴 수 없으므로\n소진될 때까지 계속 공격합시다
+MID_TUT_BMAP_INTERFERINGCANE_TITLE	방해 지팡이
+MID_TUT_BMAP_INTERFERINGCANE_0	지팡이 중에는 장애물을 설치하는 등\n적의 움직임을 방해할 수 있는 것이 있습니다
+MID_TUT_BMAP_SEARCH_TITLE	어둠
+MID_TUT_BMAP_SEARCH_0	｢어둠｣ 맵에서는 아군의 주위와\n｢화톳불｣, ｢횃불｣의 빛이 닿는 범위 내의\n맵만 볼 수 있습니다
+MID_TUT_BMAP_SEARCH_1	적이 숨어 있어도\n위치를 알 수 없으므로\n조심스럽게 전진합시다
+MID_TUT_BMAP_POISON_TITLE	상태 이상 ｢독｣
+MID_TUT_BMAP_POISON_0	시프의 특기인 ｢단검｣ 공격은\n적에게 대미지를 입히면\n｢독｣ 상태로 만들 수 있습니다
+MID_TUT_BMAP_POISON_1	｢독｣ 상태인 적을 공격하면\n평소보다 큰 대미지를 입힐 수 있습니다
+MID_TUT_BMAP_POISON_2	또한, ｢독｣ 상태인 적에게\n단검 공격을 추가로 명중시키면\n독의 위력이 점차 강해집니다
+MID_TUT_BMAP_POISON_3	｢독｣은 ｢해독제｣나 ｢레스트｣ 지팡이를\n사용하지 않는 한 맵이 종료될 때까지 효과가 지속됩니다
+MID_TUT_BMAP_TORCH_TITLE	화톳불
+MID_TUT_BMAP_TORCH_0	불이 꺼진 ｢화톳불｣은 근처로 이동하면\n｢화톳불｣ 커맨드를 사용해 불을 붙일 수 있습니다
+MID_TUT_BMAP_TORCH_1	화톳불을 붙이면\n주위의 어둠을 밝힐 수 있어\n숨어 있는 적을 찾을 수 있습니다
+MID_TUT_BMAP_SMASH_TITLE	스매시
+MID_TUT_BMAP_SMASH_0	｢철의 대검｣과 ｢철의 큰 창｣ 등의 커다란 무기는\n직접 공격 시, 항상 후공이 되는 대신\n｢스매시｣가 발생하여 적을 1칸 밀어낼 수 있습니다
+MID_TUT_BMAP_SMASH_1	밀려난 곳에 다른 유닛이 있거나\n벽 등의 장애물이 있는 경우에는\n브레이크시킬 수 있습니다
+MID_TUT_BMAP_SMASH_2	이와 같은 무기는 위력도 높고 편리하지만\n무거워서 추격이 불가능하므로 주의가 필요합니다
+MID_TUT_BMAP_DARKSYNCHRO_TITLE	암흑 싱크로
+MID_TUT_BMAP_DARKSYNCHRO_0	적 중에는 문장사와 ｢암흑 싱크로｣ 상태로\n싸우는 유닛이 있습니다
+MID_TUT_BMAP_DARKSYNCHRO_1	암흑의 힘으로 싱크로하고 있어\n인게이지할 수 없지만\n인게이지 기술을 사용할 수 있습니다
+MID_TUT_BMAP_DARKSYNCHRO_2	적이 인게이지 기술을 사용할 수 있는 상태가 되면\n이곳이 빛나므로 주의합시다
+MID_TUT_BMAP_BOWTURRET_TITLE	활 포대
+MID_TUT_BMAP_BOWTURRET_0	공격 가능한 활을 소지한 유닛이\n｢활 포대｣가 있는 곳까지 이동하면\n｢포격｣ 커맨드를 사용할 수 있습니다
+MID_TUT_BMAP_BOWTURRET_1	｢포격｣은 위력이 높고 사정거리도 매우 길어서\n멀리 있는 적에게 큰 대미지를 입힐 수 있습니다
+MID_TUT_BMAP_BOWTURRET_2	단, 발사 횟수에 제한이 있으므로\n신중하게 사용합시다
+MID_TUT_BMAP_CONVERSATION_TITLE	대화
+MID_TUT_BMAP_CONVERSATION_0	｢대화 아이콘｣이 표시되는 유닛은\n인접해서 ｢대화｣ 커맨드를 사용하면\n대화를 나눌 수 있습니다
+MID_TUT_BMAP_CONVERSATION_1	대화하면 아군이 되는 유닛도 있으므로\n적극적으로 ｢대화｣를 해 봅시다
+MID_TUT_BMAP_CONVERSATION_2	특정 아군만 말을 걸 수 있는 유닛도 있습니다
+MID_TUT_BMAP_MAGICTURRET_TITLE	마법 포대
+MID_TUT_BMAP_MAGICTURRET_0	사용 가능한 마도서를 소지한 유닛이\n｢마법 포대｣가 있는 곳까지 이동하면\n｢포격｣ 커맨드를 사용할 수 있습니다
+MID_TUT_BMAP_MAGICTURRET_1	｢포격｣은 위력이 높고 사정거리도 매우 길어서\n멀리 있는 적에게 큰 대미지를 입힐 수 있습니다
+MID_TUT_BMAP_MAGICTURRET_2	활 포대와 마찬가지로 사용 횟수가 제한되어 있으므로\n신중하게 사용합시다
+MID_TUT_BMAP_QUICKSAND_TITLE	유사
+MID_TUT_BMAP_QUICKSAND_0	｢유사｣는 빠져나올 때\n이동력을 크게 필요로 하는\n특수한 지형입니다
+MID_TUT_BMAP_QUICKSAND_1	섣불리 진입하면 움직이기 어려워지므로\n불리한 상황에 부딪히지 않도록 조심합시다
+MID_TUT_BMAP_RECKLESS_TITLE	폭주
+MID_TUT_BMAP_RECKLESS_0	｢암흑 싱크로｣ 중인 적은\n｢부활의 돌｣을 사용해서 부활할 때\n｢폭주｣ 상태가 되기도 합니다
+MID_TUT_BMAP_RECKLESS_1	문장사의 힘이 폭주해\n능력이 강화되므로 주의합시다
+MID_TUT_BMAP_DANCE_TITLE	춤추기
+MID_TUT_BMAP_DANCE_0	댄서는 행동을 마친 아군과 인접하면\n｢춤추기｣ 커맨드를 사용할 수 있습니다
+MID_TUT_BMAP_DANCE_1	｢춤추기｣ 커맨드를 사용하면\n아군이 미행동 상태로 되돌아가\n다시 한번 행동을 취할 수 있습니다
+MID_TUT_BMAP_FLAMETURRET_TITLE	화염 포대
+MID_TUT_BMAP_FLAMETURRET_0	유닛이 ｢화염 포대｣가 있는 곳까지 이동하면\n｢포격｣ 커맨드를 사용할 수 있습니다
+MID_TUT_BMAP_FLAMETURRET_1	화염 포대의 ｢포격｣은 착탄 지점 주변을\n광범위하게 공격하며, 추가로 지형을\n｢화염｣ 상태로 만듭니다
+MID_TUT_BMAP_FLAMETURRET_2	매우 편리한 공격이지만\n아군도 말려들 수 있다는 점과\nHP를 0으로 만들 수 없다는 점에 주의합시다
+MID_TUT_BMAP_PICKUPARING_TITLE	반지 수집
+MID_TUT_BMAP_PICKUPARING_0	떨어져 있는 반지 근처에서\n\x0E\x06\x03\x00\x0E\x0A\x04\x08\x02을\x02를 대기시키면\n문장사를 현현시킬 수 있습니다
+MID_TUT_BMAP_LINKINGUP_TITLE	출격 중의 싱크로
+MID_TUT_BMAP_LINKINGUP_0	현현한 문장사에게 반지\x0E\x01\x08\x00를 지니지 않은 아군으로\n인접해 ｢대화｣하면 그곳에서 싱크로 상태가 됩니다
+MID_TUT_BMAP_DRAGONCREST_TITLE	사룡문
+MID_TUT_BMAP_DRAGONCREST_0	｢사룡문｣을 파괴하려면 사룡문의 권속인 적장\n｢세피아｣와 ｢그리｣를 격파해야 합니다
+MID_TUT_BMAP_DRAGONCREST_1	두 사람은 사룡문의 힘을 이용해\n｢화산탄｣을 흩뿌립니다
+MID_TUT_BMAP_VOLCANICBOMB_TITLE	화산탄
+MID_TUT_BMAP_VOLCANICBOMB_0	｢화산탄｣은 일정 턴마다 떨어집니다
+MID_TUT_BMAP_VOLCANICBOMB_1	화산탄에 맞은 아군은 큰 대미지를 입으며\n착탄 지점에 있는 장애물(큰 바위)은 파괴됩니다
+MID_TUT_BMAP_VOLCANICBOMB_2	착탄 지점은 미리 표시되므로\n말려들지 않도록 주의합시다
+MID_TUT_BMAP_AVALANCHE_TITLE	눈사태
+MID_TUT_BMAP_AVALANCHE_0	적 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02은\x02는\n사룡문의 힘을 사용해 ｢눈사태｣를 일으켜\n아군을 휩쓸리게 합니다
+MID_TUT_BMAP_AVALANCHE_1	｢눈사태｣가 일어날 곳은 미리 표시되므로\n가능한 한 주의 깊게 행동합시다
+MID_TUT_BMAP_AVALANCHE_2	휩쓸려 가는 도중에 바위가 있거나,\n적이 있는 경우에는 멈추게 됩니다
+MID_TUT_BMAP_TURNLIMIT_TITLE	턴 제한
+MID_TUT_BMAP_TURNLIMIT_0	일부 전투 맵에는 제한된 턴 수로\n클리어해야 하는 곳도 있습니다
+MID_TUT_BMAP_TURNLIMIT_1	정해진 턴 수를 넘기면 패배하므로\n그 전에 승리 조건을 달성합시다
+MID_TUT_BMAP_DRAGONBEAM_TITLE	사룡문포
+MID_TUT_BMAP_DRAGONBEAM_0	이형의 뤼미에르는 사룡문의 힘을 사용해\n광범위 공격 ｢사룡문포｣를 발사합니다
+MID_TUT_BMAP_DRAGONBEAM_1	｢사룡문포｣가 명중하는 범위는\n미리 표시됩니다\n맞지 않도록 주의합시다
+MID_TUT_BMAP_DARKHERALDIC_TITLE	어둠의 문장사
+MID_TUT_BMAP_DARKHERALDIC_0	｢어둠의 문장사｣는 강력한 적이지만\n그들과 같은 세계 출신인 문장사와 싱크로·인게이지 중인\n아군이 공격하면 큰 대미지를 입힐 수 있습니다
+MID_TUT_BMAP_BARRIER_TITLE	어둠의 결계
+MID_TUT_BMAP_BARRIER_0	대사룡 솜브르는 어둠의 문장사가 만드는\n｢어둠의 결계｣를 통해 보호받으며\n받는 대미지가 감소한 상태입니다
+MID_TUT_BMAP_BARRIER_1	｢어둠의 결계｣는 ｢어둠의 문장사｣를 쓰러뜨리면\n효과를 약화시킬 수 있습니다
+MID_TUT_BMAP_ENGAGERING_TITLE	약속의 반지
+MID_TUT_BMAP_ENGAGERING_0	｢약속의 반지｣는 지원 A가 된 동료에게\n건넬 수 있으며 그 상대와 강한 인연을\n맺을 수 있는 아이템입니다
+MID_TUT_BMAP_ENGAGERING_1	｢마이 룸｣의 ｢마이 체스트｣에\n보관되어 있으니 필요할 때 꺼내서\n선택한 상대에게 건넵시다
+MID_TUT_BMAP_ENGAGERING_2	건네줄 상대와 솔라넬에서 만날 수 없을 때\n마이 베드에서 휴식을 취하면\n만나게 될지도 모릅니다
+MID_TUT_GOD_MARTH_TITLE	문장사 마르스
+MID_TUT_GOD_MARTH_0	｢문장사 마르스｣는 화려한 연속 공격과\n적을 농락하는 경쾌한 움직임이 특징입니다
+MID_TUT_GOD_MARTH_1	싱크로 스킬 ｢간파｣는 공격할 때\n적의 반격을 피할 확률이 상승합니다
+MID_TUT_GOD_MARTH_2	인게이지 무기 ｢레이피어｣는\n기마인 적과 중갑병에게 큰 대미지를 입힙니다
+MID_TUT_GOD_MARTH_3	인게이지 스킬 ｢신속｣은\n항상 공격 횟수가 1회 많아집니다
+MID_TUT_GOD_MARTH_4	인게이지 기술 ｢스타 러시｣는\n보이지도 않을 만큼 빠른 연격으로\n적에게 큰 대미지를 입힙니다
+MID_TUT_GOD_SIGLUD_TITLE	문장사 시구르드
+MID_TUT_GOD_SIGLUD_0	｢문장사 시구르드｣는 높은 기동력을 지녀\n전장을 종횡무진 누빌 수 있습니다
+MID_TUT_GOD_SIGLUD_1	싱크로 스킬 ｢재이동｣은\n공격한 후에 이어서\n1번 더 이동할 수 있습니다
+MID_TUT_GOD_SIGLUD_2	인게이지 무기 ｢나이트 킬러｣는\n기마인 적에게 큰 대미지를 입힙니다
+MID_TUT_GOD_SIGLUD_3	인게이지 스킬 ｢질주｣는\n항상 이동이 5 상승합니다
+MID_TUT_GOD_SIGLUD_4	인게이지 기술 ｢오버드라이브｣는\n일직선으로 늘어선 적을 공격하면서\n반대편까지 뚫고 나가는 기술입니다
+MID_TUT_GOD_CELICA_TITLE	문장사 세리카
+MID_TUT_GOD_CELICA_0	｢문장사 세리카｣는 마법 공격이 특기로\n｢이형병｣ 등 이형의 적에 대해 강한 효과를 발휘합니다
+MID_TUT_GOD_CELICA_1	싱크로 스킬 ｢이형 리벤지｣는\n이형의 적에게 받은 대미지 일부를\n상대에게 되돌려 줍니다
+MID_TUT_GOD_CELICA_2	인게이지 무기 ｢엔젤｣은\n이형의 적에게 큰 대미지를 입힙니다
+MID_TUT_GOD_CELICA_3	인게이지 스킬 ｢중창｣은\n대미지 50%의 마법 공격에 의한 전투를\n2회 치를 수 있습니다
+MID_TUT_GOD_CELICA_4	인게이지 기술 ｢워프라이나｣는\n떨어진 적이 있는 곳까지 워프해서\n강력한 마법 공격을 합니다
+MID_TUT_GOD_MICAIAH_TITLE	문장사 미카야
+MID_TUT_GOD_MICAIAH_0	｢문장사 미카야｣는 높은 마력과 치유의 힘으로\n아군을 회복시키는 것이 특기입니다
+MID_TUT_GOD_MICAIAH_1	싱크로 스킬 ｢지팡이 숙련｣은\n싱크로 중인 아군의 병과와 상관없이\n지팡이를 사용할 수 있습니다
+MID_TUT_GOD_MICAIAH_2	인게이지 무기 ｢샤인｣은\n빛 마법으로 공격한 후에\n주위를 밝게 밝힐 수 있습니다
+MID_TUT_GOD_MICAIAH_3	인게이지 스킬 ｢증폭｣은\n지팡이의 사정거리와 효과 범위가 증가합니다
+MID_TUT_GOD_MICAIAH_4	인게이지 기술 ｢위대한 치유의 손｣은\n사용자의 HP를 대가로\n아군 전체의 HP를 모두 회복시킵니다
+MID_TUT_GOD_ROY_TITLE	문장사 로이
+MID_TUT_GOD_ROY_0	｢문장사 로이｣는 공수 밸런스가 뛰어나\n최전선에서 활약하는 것이 특기입니다
+MID_TUT_GOD_ROY_1	싱크로 스킬 ｢분발｣은 전투 개시 시점의 HP가\n일정 수치 이상이라면, 전투 불능이 되는 대미지를\n받아도 HP를 1 남긴 채로 버틸 수 있게 해 줍니다
+MID_TUT_GOD_ROY_2	인게이지 무기 ｢랜스 버스터｣는 무기의 상성이\n역전되며 창을 든 적을 브레이크시킬 수 있습니다\n(도끼를 든 적에게 브레이크됩니다)
+MID_TUT_GOD_ROY_3	인게이지 스킬 ｢초월｣은\n일시적으로 레벨 업해서\n능력을 대폭으로 강화합니다
+MID_TUT_GOD_ROY_4	인게이지 기술 ｢사자 홍련 염무｣는\n전방에 있는 다수의 적에게 대미지를 입히고\n이동을 방해하는 ｢화염｣을 발생시킵니다
+MID_TUT_GOD_LEAF_TITLE	문장사 리프
+MID_TUT_GOD_LEAF_0	｢문장사 리프｣는 무기를 다채롭게 다루며\n상황에 맞춰 싸울 수 있습니다
+MID_TUT_GOD_LEAF_1	싱크로 스킬 ｢급소 회피｣는\n무기 상성이 유리할 때\n받는 대미지가 감소합니다
+MID_TUT_GOD_LEAF_2	인게이지 무기 ｢킬러 액스｣는\n필살의 일격을 가할 확률이 상승하는 도끼입니다
+MID_TUT_GOD_LEAF_3	인게이지 스킬 ｢즉응｣은 적으로부터 공격받을 때\n자동으로 유리한 무기로 교체해서 반격합니다
+MID_TUT_GOD_LEAF_4	인게이지 기술 ｢테트라트릭｣은\n검, 창, 도끼, 활로 연속 공격을 해서\n높은 확률로 적을 브레이크시킬 수 있습니다
+MID_TUT_GOD_LIN_TITLE	문장사 린
+MID_TUT_GOD_LIN_0	｢문장사 린｣은 맹공을 퍼부어 상대에게\n반격할 틈을 주지 않고 승리하는 전법이 특징입니다
+MID_TUT_GOD_LIN_1	싱크로 스킬 ｢연속 공격｣은\n공격 대상보다 속도가 크게 우위일 때\n상대가 반격하기 전에 추격하게 해 줍니다
+MID_TUT_GOD_LIN_2	인게이지 무기 ｢킬러 보우｣는\n필살의 일격을 가할 확률이 상승하는 활입니다
+MID_TUT_GOD_LIN_3	인게이지 스킬 ｢잔상｣은 주위에 잔상을 생성해\n｢체인 어택｣에 참가시키거나\n｢미끼｣로 이용할 수 있습니다
+MID_TUT_GOD_LIN_4	인게이지 기술 ｢유성군｣은\n활을 이용한 초장거리 5연격으로\n적을 일방적으로 공격할 수 있습니다
+MID_TUT_GOD_LUCINA_TITLE	문장사 루키나
+MID_TUT_GOD_LUCINA_0	｢문장사 루키나｣는 동료와 함께 싸우는 것이 특기로\n아군과 가까이서 싸울 때 큰 힘을 발휘합니다
+MID_TUT_GOD_LUCINA_1	싱크로 스킬 ｢듀얼 어택｣은\n싱크로 중인 아군의 전투 스타일과 상관없이\n｢체인 어택｣에 참가할 수 있게 해 줍니다
+MID_TUT_GOD_LUCINA_2	인게이지 무기 ｢노블 레이피어｣는\n기마인 적과 중갑병에게 큰 대미지를 입힙니다
+MID_TUT_GOD_LUCINA_3	인게이지 스킬 ｢인연 방패｣는\n인접한 모든 아군이 받는 공격을\n높은 확률로 무효화합니다
+MID_TUT_GOD_LUCINA_4	인게이지 기술 ｢올 포 원｣을 사용하면\n주위 2칸 이내의 아군이 전투 스타일과\n상관없이 ｢체인 어택｣에 참가합니다
+MID_TUT_GOD_IKE_TITLE	문장사 아이크
+MID_TUT_GOD_IKE_0	｢문장사 아이크｣는 공격력·내구력이 뛰어나며\n대미지를 받을수록 큰 힘을 발휘합니다
+MID_TUT_GOD_IKE_1	싱크로 스킬 ｢용장｣은\nHP가 감소했을 때\n수비와 마방이 상승합니다
+MID_TUT_GOD_IKE_2	인게이지 무기 ｢해머｣는\n적을 스매시할 수 있으며\n중갑병에게 큰 대미지를 입힙니다
+MID_TUT_GOD_IKE_3	인게이지 스킬 ｢부동｣은\n회피가 0이 되는 대신\n받는 대미지를 반감합니다
+MID_TUT_GOD_IKE_4	인게이지 기술 ｢패극·에테르｣는\n1턴 동안 수비에 집중하며 적의 공격을 버티고\n다음 턴에 범위 공격을 한 뒤, HP를 회복합니다
+MID_TUT_GOD_KAMUI_TITLE	문장사 카무이
+MID_TUT_GOD_KAMUI_0	｢문장사 카무이｣는 적의 행동과 지형 효과를 제어해\n전황을 유리하게 컨트롤할 수 있습니다
+MID_TUT_GOD_KAMUI_1	싱크로 스킬 ｢용맥｣은 싱크로 중인 아군의\n전투 스타일에 따라 다양한 효과를 지형에 부여하고\n그 지형의 ｢화염｣, ｢독기｣ 등의 효과를 제거합니다
+MID_TUT_GOD_KAMUI_2	인게이지 무기 ｢역도｣는 무기의 상성이\n역전되며 창을 든 적을 브레이크시킬 수 있습니다\n(도끼를 든 적에게 브레이크됩니다)
+MID_TUT_GOD_KAMUI_3	인게이지 스킬 ｢주박｣은 직접 공격 시,\n공격한 상대와 그 주위 1칸 이내의 적을\n1턴 동안 이동할 수 없게 만듭니다
+MID_TUT_GOD_KAMUI_4	인게이지 기술 ｢용천포｣는 전방에 늘어선 적을\n한꺼번에 공격하면서 지형에 ｢웅덩이｣를 부여합니다\n(용맥과 같이 ｢독기｣ 등의 효과를 제거합니다)
+MID_TUT_GOD_BYLETH_TITLE	문장사 벨레트
+MID_TUT_GOD_BYLETH_0	｢문장사 벨레트｣는 아군들의 능력을 상승시켜\n전투를 승리로 이끌어 나갑니다
+MID_TUT_GOD_BYLETH_1	싱크로 스킬 ｢천각의 박동｣은\n원래라면 빗나가야 할 공격이라도\n일정 확률로 명중하게끔 만들어 줍니다
+MID_TUT_GOD_BYLETH_2	인게이지 무기 ｢영웅의 유산｣은\n인게이지 중인 동료의 전투 스타일에 따라\n특수한 장비를 사용할 수 있습니다
+MID_TUT_GOD_BYLETH_3	인게이지 스킬 ｢지도｣는\n주위 아군의 기본 능력을 상승시킵니다
+MID_TUT_GOD_BYLETH_4	인게이지 기술 ｢계략: 여신의 춤｣은\n인접한 아군 모두를 재행동시키고\n기본 능력을 상승시킵니다
+MID_TUT_GOD_EIRIK_TITLE	문장사 에이리카
+MID_TUT_GOD_EIRIK_0	｢문장사 에이리카｣는 쌍둥이 오빠인 에브라임과 교대하며\n상황에 따라 능력을 바꿔 싸울 수 있습니다
+MID_TUT_GOD_EIRIK_1	싱크로 스킬 ｢달의 팔찌｣는\n공격할 적의 수비가 높을수록\n입히는 대미지를 상승시킵니다
+MID_TUT_GOD_EIRIK_2	인게이지 무기 ｢레이피어｣는\n기마인 적과 중갑병에게 큰 대미지를 입힙니다
+MID_TUT_GOD_EIRIK_3	인게이지 스킬 ｢쌍성｣은\n에이리카의 스킬과 에브라임의 스킬을\n동시에 발동시킵니다
+MID_TUT_GOD_EIRIK_4	인게이지 기술 ｢트윈 스트라이크｣는\n검과 창을 이용한 공격으로 브레이크시키기 쉽고\n이형의 적에게 큰 대미지를 입힙니다
+MID_TUT_GOD_LUEUR_TITLE	문장사 \x0E\x06\x03\x00
+MID_TUT_GOD_LUEUR_0	문장사 ｢\x0E\x06\x03\x00\x0E\x0A\x04\x0C\x04｣은\x04｣는 싱크로할 필요가 없으며\n출격 중에 ｢인게이지+｣를 사용하면\n그 장소에 있는 누구와도 인게이지할 수 있습니다
+MID_TUT_GOD_LUEUR_1	싱크로 스킬 ｢인연을 잇는 자｣는\n자신과 가까이에서 싱크로·인게이지하고 있는\n아군의 명중과 회피를 상승시킵니다
+MID_TUT_GOD_LUEUR_2	인게이지 무기 ｢라일라시온｣은\n직접 공격해서 적을 격파할 시, 인접하고 있는\n싱크로 중인 아군의 인게이지 카운트가 늘어납니다
+MID_TUT_GOD_LUEUR_3	인게이지 스킬 ｢이심｣은\n직접 공격해서 적을 격파할 시\n인게이지 상대의 기본 능력이 대폭 상승합니다
+MID_TUT_GOD_LUEUR_4	인게이지 기술 ｢신룡파｣는 검과 빔(마법)의 연격으로\n적의 수비와 마방이 높아도 큰 대미지를 입힙니다
+MID_TUT_GOD_LUEUR_KL_TITLE	문장사 \x0E\x06\x03\x00의 인연 레벨
+MID_TUT_GOD_LUEUR_KL_0	문장사 \x0E\x06\x03\x00의 ｢인연 레벨｣은\n다른 문장사들과 달리, 인연 경험치가 아니라\n동료와의 지원 레벨이 오르면 상승합니다
+MID_TUT_GOD_LUEUR_KL_1	동료와의 지원 레벨 C 미만은 ｢인연 레벨 1｣,\nC는 ｢인연 레벨 5｣, B는 ｢인연 레벨 10｣,\nA는 ｢인연 레벨 20｣으로 설정됩니다
+MID_TUT_ENGAGE_PLUS_TITLE	인게이지+
+MID_TUT_ENGAGE_PLUS_0	\x0E\x06\x03\x00의 인게이지 카운트가 찬 상태에서\n인게이지하려는 동료와 인접하면\n｢인게이지+｣를 선택할 수 있습니다
+MID_TUT_ENGAGE_PLUS_1	선택한 상대와 문장사 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가\n인게이지하게 되고 그와 동시에\n\x0E\x06\x03\x00도 인게이지 상태가 됩니다
+MID_TUT_ENGAGE_PLUS_2	인게이지 상대와 인접한 상태에서는\n인게이지 기술이 ｢인연·신룡파｣로 변하며\n강력한 공격을 할 수 있습니다
+MID_TUT_BMAP_SORTIE_TITLE	출격 준비
+MID_TUT_BMAP_SORTIE_0	전투를 개시하기 전에 출격할 동료를 고르거나\n문장사의 반지\x0E\x01\x08\x00와 소지품을 선택하는\n｢출격 준비｣를 할 수 있습니다
+MID_TUT_BMAP_SORTIE_1	준비를 마치고 ｢전투 개시｣를 선택하면\n전장으로 출격합니다
+MID_TUT_BMAP_UNIT_SELECT_TITLE	유닛 편성
+MID_TUT_BMAP_UNIT_SELECT_0	｢유닛 편성｣에서는\n맵에 출격시킬 멤버를 선택할 수 있습니다\n\x0E\x08\x02\x04\x02A를 눌러 \x0E\x08\x02\x16\x14IconSortie ON/OFF를 할 수 있습니다
+MID_TUT_BMAP_UNIT_SELECT_1	｢녹색 테두리｣가 붙어 있는 아군은\n해당 맵으로 출격하는 것이\n이미 정해져 있어 변경할 수 없습니다
+MID_TUT_BMAP_UNIT_SELECT_2	출격 가능한 아군의 수는\n전투 맵마다 정해져 있습니다
+MID_TUT_BMAP_MAPVERIFICATION_TITLE	배치 변경
+MID_TUT_BMAP_MAPVERIFICATION_0	｢배치 변경｣에서는 출격 시,\n아군의 위치를 변경할 수 있습니다
+MID_TUT_BMAP_MAPVERIFICATION_1	우선 위치를 변경하려는 아군을 \x0E\x08\x02\x04\x02A로 선택하십시오
+MID_TUT_BMAP_MAPVERIFICATION_2	그리고 다른 아군을 \x0E\x08\x02\x04\x02A로 선택하면\n두 명의 위치를 바꿀 수 있습니다\n(위치를 변경할 수 없는 아군도 있습니다)
+MID_TUT_BMAP_MAPVERIFICATION_3	배치 변경 중 커서를 움직여서\n지형 정보나 적의 능력도 확인할 수 있습니다
+MID_TUT_BMAP_HERALDICCHOICE_TITLE	문장사의 반지\x0E\x01\x08\x00
+MID_TUT_BMAP_HERALDICCHOICE_0	｢문장사의 반지\x0E\x01\x08\x00｣에서는\n아군과 싱크로할 문장사를 결정하거나\n변경할 수 있습니다
+MID_TUT_BMAP_HERALDICCHOICE_1	｢아군 유닛｣→｢반지\x0E\x01\x08\x00｣의 순서로 선택해\n조합을 결정할 수 있습니다
+MID_TUT_BMAP_GETTINGDRESSED_TITLE	정비
+MID_TUT_BMAP_GETTINGDRESSED_0	｢정비｣에서는 출격 중에 사용할 무기나\n아이템을 정리할 수 있습니다
+MID_TUT_BMAP_GETTINGDRESSED_1	｢소지품 정리｣, ｢소지품 교환｣에서는\n아군이 가진 무기나 도구를 정리하거나\n수송대나 다른 아군과 교환할 수 있습니다
+MID_TUT_BMAP_GETTINGDRESSED_2	｢장비 위임｣을 선택하면\n소지하고 있는 아이템 중에서\n적합한 것을 자동으로 선택합니다
+MID_TUT_BMAP_GETTINGDRESSED_3	｢모두 위탁｣을 선택하면\n가지고 있는 아이템을 모두 수송대로 보냅니다
+MID_TUT_BMAP_EQUIP_SKILL_TITLE	스킬 변경
+MID_TUT_BMAP_EQUIP_SKILL_0	｢정비｣의 ｢스킬 변경｣에서\n현재 습득한 ｢스킬｣을 확인할 수 있으며\n｢계승 스킬｣을 변경할 수 있습니다
+MID_TUT_BMAP_EQUIP_SKILL_1	｢계승 스킬｣은 솔라넬의 ｢문장사의 방｣ 등에서\n문장사로부터 계승할 수 있습니다
+MID_TUT_BMAP_CLASSCHANGE_TITLE	클래스 체인지
+MID_TUT_BMAP_CLASSCHANGE_0	｢마스터 프루프｣를 소지하고 있으면\n레벨이 10 이상인 아군을\n상급 병과로 ｢클래스 체인지｣할 수 있습니다
+MID_TUT_BMAP_CLASSCHANGE_1	상급 병과로 전직하면 능력이 상승하거나\n사용할 수 있는 무기가 늘어나는 등\n유닛이 강화됩니다
+MID_TUT_BMAP_CLASSCHANGE_2	｢체인지 프루프｣를 가지고 있으면\n같은 직위이면서 계통이 다른 병과로\n｢클래스 체인지｣할 수 있습니다
+MID_TUT_BMAP_CLASSCHANGE_3	｢클래스 체인지｣는 ｢정비｣에서 할 수 있습니다
+MID_TUT_BMAP_APTITUDE_TITLE	소질
+MID_TUT_BMAP_APTITUDE_0	다른 병과로 클래스 체인지를 하려면\n특정 ｢소질｣이 필요합니다
+MID_TUT_BMAP_APTITUDE_1	처음부터 가지고 있는 소질을 ｢천성 소질｣이라고 하며\n천성 소질을 활용할 수 있는 병과로 클래스 체인지하면\n뛰어난 재능을 발휘할 수 있습니다
+MID_TUT_BMAP_APTITUDE_2	가지고 있지 않은 ｢소질｣은 문장사로부터\n계승받아 획득할 수 있으며\n원하는 병과를 고를 수 있습니다
+MID_TUT_GMAP_BASIC_TITLE	월드 맵
+MID_TUT_GMAP_BASIC_0	다음 장 및 목적지로의 이동은\n｢월드 맵｣을 통해 진행됩니다
+MID_TUT_GMAP_BASIC_1	목적지로 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02을\x02를 이동시킨 뒤,\n\x0E\x08\x02\x04\x02A를 누르면 메뉴가 열리고\n스토리를 진행할 수 있습니다
+MID_TUT_GMAP_BASIC_2	메뉴를 통해 정비하거나\n솔라넬로 되돌아갈 수 있습니다
+MID_TUT_GMAP_SIDE_TITLE	외전
+MID_TUT_GMAP_SIDE_0	게임을 플레이하면, 월드 맵상에\n｢외전 맵｣이 출현하기도 합니다
+MID_TUT_GMAP_SIDE_1	들르는 것은 자유지만\n새로운 동료를 만날 수 있는 등,\n좋은 일이 발생하기도 하므로 방문해 봅시다
+MID_TUT_GMAP_ENCOUNT_TITLE	조우전
+MID_TUT_GMAP_ENCOUNT_0	지금까지 지나온 월드 맵상에\n이형병이나 그 나라의 병사들이\n출현하기도 합니다
+MID_TUT_GMAP_ENCOUNT_1	그곳까지 이동하면 ｢조우전｣이나\n｢훈련｣을 치를 수 있습니다
+MID_TUT_GMAP_ENCOUNT_2	일반 전투처럼 경험치를 획득할 수 있으며\n골드나 아이템을 획득할 수도 있으므로\n적절히 활용해 봅시다
+MID_TUT_GMAP_RANKING_TITLE	출격 랭킹
+MID_TUT_GMAP_RANKING_0	네트워크에 접속하면 전 세계의 플레이어가\n이 맵에서 어느 유닛과 문장사를 출격시켰는지\n랭킹 형식으로 확인할 수 있습니다
+MID_TUT_GMAP_RANKING_1	유닛 편성에서 출격시킬 아군을 선택할 때\n어느 아군을 출격시킬지 참고할 수 있습니다
+MID_TUT_KR_KIZUNARESULT_TITLE	산책
+MID_TUT_KR_KIZUNARESULT_0	전투가 종료되면 ｢산책｣이 시작되고\n주위를 거닐며 동료와 대화할 수 있습니다
+MID_TUT_KR_KIZUNARESULT_1	가끔 아이템이 떨어져 있으므로\n구석구석 탐색해 봅시다
+MID_TUT_KR_KIZUNARESULT_2	산책을 종료하려면 출구를 이용하거나\n\x0E\x08\x02\x0A\x08Plus로 메뉴를 열어 ｢다음으로 넘어가기｣를 선택합시다
+MID_TUT_KR_KIZUNAPIECE_TITLE	인연의 조각
+MID_TUT_KR_KIZUNAPIECE_0	산책 중 동료와 대화를 나누면\n｢인연의 조각｣을 받을 수 있습니다
+MID_TUT_KR_KIZUNAPIECE_1	｢인연의 조각｣은 솔라넬에서\n문장사와 단련하거나\n인연의 반지를 정제할 때 사용됩니다
+MID_TUT_KR_KIZUNAPIECE_2	｢산책｣을 종료할 때, 아직 ｢인연의 조각｣을\n받을 수 있는 동료가 남아 있는 경우에도\n자동으로 남아 있는 ｢인연의 조각｣을 획득할 수 있습니다
+MID_TUT_HUB_BASIC_TITLE	거점
+MID_TUT_HUB_BASIC_0	거점 ｢솔라넬｣에서는 다음 전투의 준비나\n동료들과의 교류 등을 할 수 있습니다
+MID_TUT_HUB_BASIC_1	처음에는 할 수 있는 것이 적지만\n스토리를 진행하면서\n이용할 수 있는 시설이 점차 늘어납니다
+MID_TUT_HUB_BASIC_2	준비를 마치고 다음 장으로 이동하려면\n엔트런스에 있는 출구나 메뉴에서\n｢다음으로 넘어가기｣를 선택해 주십시오
+MID_TUT_HUB_CENTRALLOBBY_OPEN	｢카페테라스｣를 이용할 수 있게 되었습니다
+MID_TUT_HUB_CENTRALLOBBY_TITLE	카페테라스
+MID_TUT_HUB_CENTRALLOBBY_0	｢카페테라스｣는\n동료들이 모이는 휴식 공간으로\n다양한 시설이 모여 있습니다
+MID_TUT_HUB_CENTRALLOBBY_1	｢사운드박스｣에서는\n솔라넬에 흐르는 음악을\n원하는 것으로 변경할 수 있습니다
+MID_TUT_HUB_CENTRALLOBBY_2	｢게시판｣에서는 ｢거점 정보｣를 볼 수 있습니다\n또한, 각국에 ｢투자｣하거나\n지금까지의 ｢실적｣을 확인할 수 있습니다
+MID_TUT_HUB_INVESTMENT_TITLE	왕국 투자
+MID_TUT_HUB_INVESTMENT_0	｢왕국 투자｣에서는 각국에 골드를 투자할 수 있습니다\n일정 금액을 초과하면 레벨이 상승하고\n레벨에 따라 감사의 표시로 보상을 받을 수 있습니다
+MID_TUT_HUB_INVESTMENT_1	또한 투자 레벨이 상승한 왕국에서는\n조우전에서 희귀한 적이 출현하기 쉬워지며\n골드나 경험치도 얻기 쉬워집니다
+MID_TUT_HUB_INVESTMENT_2	그리고 그 왕국에서 산책 시\n발견할 수 있는 소재가 늘어나는 등,\n여러 장점이 있으므로 여유가 있으면 투자해 봅시다
+MID_TUT_HUB_INFORMATION_TITLE	거점 정보
+MID_TUT_HUB_INFORMATION_0	｢거점 정보｣에서는\n솔라넬에 있는 동료의 위치나\n시설의 상황에 대한 정보를 확인할 수 있습니다
+MID_TUT_HUB_INFORMATION_1	구역을 선택하면\n그곳까지 순식간에 이동할 수 있습니다
+MID_TUT_HUB_ACHIEVEMENT_TITLE	실적
+MID_TUT_HUB_ACHIEVEMENT_0	｢실적｣에서는 게임 내에서 달성한\n여러 행동에 대한 보상으로\n｢인연의 조각｣을 받을 수 있습니다
+MID_TUT_HUB_ACHIEVEMENT_1	실적을 달성하면 알림이 도착하므로\n잊지 말고 받아 둡시다
+MID_TUT_HUB_MYROOM_TITLE	마이 룸
+MID_TUT_HUB_MYROOM_0	｢마이 룸｣은 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 잠들어 있던 곳으로\n｢마이 베드｣가 놓여져 있습니다
+MID_TUT_HUB_MYROOM_1	｢휴식｣을 선택하면 베드에서 휴식을 취하고\n솔라넬의 시간이 조금 지납니다
+MID_TUT_HUB_MYROOM_2	｢휴식｣을 취하고 있으면\n뭔가 특별한 일이 일어날 수도 있습니다\n(헤드폰 사용을 추천드립니다)
+MID_TUT_HUB_MYROOM_3	｢추억｣을 선택하면\n지금까지 본 지원 회화나 무비를\n다시 감상할 수 있습니다
+MID_TUT_HUB_MYROOM_4	｢난이도 변경｣을 선택하면\n게임의 난이도를 변경할 수 있습니다\n(노멀인 경우에는 변경할 수 없습니다)
+MID_TUT_HUB_WEAPONSHOP_OPEN	｢무기점｣과 ｢도구점｣이 오픈했습니다
+MID_TUT_HUB_WEAPONSHOP_TITLE	무기점
+MID_TUT_HUB_WEAPONSHOP_0	｢무기점｣에서는\n전투에서 사용할 무기를 거래할 수 있습니다
+MID_TUT_HUB_WEAPONSHOP_1	처음에는 상품이 적지만\n스토리 진행에 따라\n새로운 상품이 점차 늘어납니다
+MID_TUT_HUB_ITEMSHOP_TITLE	도구점
+MID_TUT_HUB_ITEMSHOP_0	｢도구점｣에서는\n｢상처약｣이나 ｢지팡이｣ 같은\n전투에서 사용하는 아이템을 거래할 수 있습니다
+MID_TUT_HUB_ITEMSHOP_1	처음에는 상품이 적지만\n스토리 진행에 따라\n종류가 점차 늘어납니다
+MID_TUT_HUB_HERALDICSPACE_OPEN	｢문장사의 방｣에 들어갈 수 있게 되었습니다
+MID_TUT_HUB_HERALDICSPACE_TITLE	문장사의 방
+MID_TUT_HUB_HERALDICSPACE_0	｢문장사의 방｣에서는 문장사와 관련된\n다양한 활동을 할 수 있습니다. ｢스킬 계승｣에서는\n문장사가 지닌 스킬을 계승할 수 있습니다
+MID_TUT_HUB_HERALDICSPACE_1	｢인연의 반지 정제｣, ｢인연의 반지 합성｣에서는\n인연의 조각을 이용해 ｢인연의 반지｣를 정제하거나\n합성해서 강화할 수 있습니다
+MID_TUT_HUB_HERALDICSPACE_2	｢반지\x0E\x01\x08\x00 닦기｣에서는\n전투로 더러워진 ｢문장사의 반지\x0E\x01\x08\x00｣를 닦아\n문장사와의 인연을 높일 수 있습니다
+MID_TUT_HUB_INHERITSKILL_TITLE	스킬 계승
+MID_TUT_HUB_INHERITSKILL_0	｢스킬 계승｣에서는\n아군 유닛에게 문장사의 스킬을\n계승할 수 있습니다
+MID_TUT_HUB_INHERITSKILL_1	｢스킬 계승｣을 하려면 문장사와 싱크로하거나\n｢인연의 반지｣를 장비하거나 해서 싸우면 쌓이는 ｢SP｣,\n해당 문장사와 일정 이상의 ｢인연 레벨｣이 필요합니다
+MID_TUT_HUB_INHERITSKILL_2	계승한 스킬은 ｢정비｣의 ｢스킬 변경｣에서\n장비하면 효과를 발휘합니다
+MID_TUT_HUB_INHERITSKILL_3	싱크로 중인 문장사의 ｢싱크로 스킬｣과 동일한 스킬은\n장비해도 효과가 발동하지 않으므로\n중복되지 않도록 장비하면 효과적입니다
+MID_TUT_HUB_CREATE_RING_TITLE	인연의 반지 정제
+MID_TUT_HUB_CREATE_RING_0	인연의 조각을 사용해\n｢인연의 반지｣를 정제할 수 있습니다
+MID_TUT_HUB_CREATE_RING_1	반지를 장비하면 능력이 상승하며\n｢문장사의 반지\x0E\x01\x08\x00｣만큼은 아니지만\n전투에서 SP를 모을 수 있습니다
+MID_TUT_HUB_ENGWEAPON_REFINE_OPEN	｢문장사의 방｣에서\n｢인게이지 무기 강화｣를 할 수 있게 되었습니다
+MID_TUT_HUB_ENGWEAPON_REFINE_TITLE	인게이지 무기 강화
+MID_TUT_HUB_ENGWEAPON_REFINE_0	문장사의 ｢인게이지 무기｣는 다음 강화를 할 수 있습니다\n·문정석을 사용한 각종 능력의 상승\n·특효의 책을 사용한 각종 특효의 부여
+MID_TUT_HUB_ENGWEAPON_REFINE_1	강화에 필요한 소재는 ｢시련의 별채｣의\n｢연전의 시련｣ 및 ｢계전의 시련｣에 도전하면\n획득할 수 있습니다
+MID_TUT_HUB_ENGWEAPON_REFINE_2	각 인게이지 무기에는\n｢강화 한계치｣가 존재하며\n그 한계치를 초과하는 강화는 할 수 없습니다
+MID_TUT_HUB_ENGWEAPON_REFINE_3	강화는 리셋하면 몇 번이고 다시 강화할 수 있습니다\n또한, 문장사가 여러 동료들과 인연 레벨을 높이면\n｢강화 한계치｣가 상승하여 추가 강화가 가능합니다
+MID_TUT_HUB_MASCOT_OPEN	종유굴에서 신비한 기척이 느껴집니다
+MID_TUT_HUB_MASCOT_TITLE	\x0E\x06\x05\x00
+MID_TUT_HUB_MASCOT_0	｢\x0E\x06\x05\x00\x0E\x0A\x04\x0C\x04｣은\x04｣는 오랜 옛날부터\n이 땅을 지키는 신비한 생명체입니다
+MID_TUT_HUB_MASCOT_1	소중하게 돌봐 주면\n뭔가 좋은 일이 생길지도 모릅니다
+MID_TUT_HUB_MUSCLEEXERCISES_OPEN	｢근육 체조｣를 할 수 있게 되었습니다!
+MID_TUT_HUB_MUSCLEEXERCISES_TITLE	근육 체조
+MID_TUT_HUB_MUSCLEEXERCISES_0	｢근육 체조｣는 3종류의 운동에 도전해\n\x0E\x06\x03\x00의 기본 능력을 일시적으로\n상승시킬 수 있는 액티비티입니다
+MID_TUT_HUB_MUSCLEEXERCISES_1	체조의 종류에 따라 조작 방법과\n상승하는 능력이 달라집니다\n모든 체조에서 최고 평가를 노려 봅시다!
+MID_TUT_HUB_MUSCLEEXERCISES_2	스토리를 진행하면 더 높은 난이도가\n추가될지도 모릅니다
+MID_TUT_HUB_ME_PUSHUPS_TITLE	팔 굽혀 펴기
+MID_TUT_HUB_ME_PUSHUPS_0	｢팔 굽혀 펴기｣는 타이밍이 생명!\n가속하는 바를 최적의 위치에서 멈춥시다\n세 번 실패하면 종료됩니다
+MID_TUT_HUB_ME_PUSHUPS_1	바의 스피드는 점점 빨라지므로\n집중력을 잃지 않도록 주의합시다
+MID_TUT_HUB_ME_PUSHUPS_2	노려라 Perfect Body!
+MID_TUT_HUB_ME_SITUP_TITLE	복근 트레이닝
+MID_TUT_HUB_ME_SITUP_0	｢복근 트레이닝｣은 버튼 연타 체력이 생명!\n재빠른 연타로 바를 맨 위까지 밀어 올립시다\n맨 아래까지 바가 떨어지면 종료됩니다
+MID_TUT_HUB_ME_SITUP_1	게이지를 빠르게 채울수록 고득점을 할 수 있지만\n점점 어려워집니다
+MID_TUT_HUB_ME_SITUP_2	노려라 Perfect Body!
+MID_TUT_HUB_ME_SQUAT_TITLE	스쿼트
+MID_TUT_HUB_ME_SQUAT_0	｢스쿼트｣는 리듬감이 생명!\n나오는 지시에 맞춰 \x0E\x08\x02\x0E\x0CStickL\x0E\x08\x02\x0E\x0CStickR을 조작합시다\n세 번 실패하면 종료됩니다
+MID_TUT_HUB_ME_SQUAT_1	｢\x0E\x08\x02\x0E\x0CStickL\x0E\x08\x02\x0E\x0CStickR을 기울인다｣\n｢\x0E\x08\x02\x0E\x0CStickL\x0E\x08\x02\x0E\x0CStickR을 1회 회전시킨다｣\n이 두 가지 조작을 마스터합시다
+MID_TUT_HUB_ME_SQUAT_2	노려라 Perfect Body!
+MID_TUT_HUB_ARENA_OPEN	｢단련의 방｣을 이용할 수 있게 되었습니다
+MID_TUT_HUB_ARENA_TITLE	단련의 방
+MID_TUT_HUB_ARENA_0	｢단련의 방｣에서는 동료를 선택하고\n모의전을 치러 ｢경험치｣와\n｢인연 경험치｣를 획득할 수 있습니다
+MID_TUT_HUB_ARENA_1	｢일반 단련｣은 동료와 치르는 모의전입니다\n무료지만 횟수 제한이 있으며,\n상대는 랜덤으로 결정됩니다
+MID_TUT_HUB_ARENA_2	｢특별 지명 단련｣은 문장사와 함께 하는 모의전입니다\n｢인연의 조각｣을 소비하지만 횟수는 무제한이며\n지명한 상대는 반드시 인연 레벨이 상승합니다
+MID_TUT_HUB_ANIMAL_OPEN	｢동물 보호｣를 할 수 있게 되었습니다
+MID_TUT_HUB_ANIMAL_TITLE	동물
+MID_TUT_HUB_ANIMAL_0	산책 중에 만난 ｢동물｣을 소중하게 보호해\n솔라넬로 데리고 올 수 있습니다
+MID_TUT_HUB_ANIMAL_1	보호한 동물은 ｢동물 축사｣에서 ｢방목｣을 선택하면\n목장에서 교감을 나눌 수 있으며\n식재료 등을 떨어뜨리기도 합니다
+MID_TUT_HUB_ANIMAL_2	카페테라스 게시판에서\n각국에 투자하여 사육 방법을 배우면\n보호할 수 있는 동물이 늘어납니다
+MID_TUT_HUB_AMIIBO_OPEN	｢amiibo 스폿｣이 개방되었습니다
+MID_TUT_HUB_AMIIBO_TITLE	amiibo 스폿
+MID_TUT_HUB_AMIIBO_0	｢amiibo 스폿｣에서\namiibo를 읽어 들이는 것으로\n아이템 등의 특전을 받을 수 있습니다
+MID_TUT_HUB_AMIIBO_1	파이어 엠블렘 관련 amiibo를 읽어 들인 경우\n특별한 보상을 받을 수 있습니다
+MID_TUT_HUB_DRILLINGSHOP_OPEN	｢연성점｣과 ｢액세서리점｣이 오픈했습니다
+MID_TUT_HUB_DRILLINGSHOP_TITLE	연성점
+MID_TUT_HUB_DRILLINGSHOP_0	｢연성점｣에서는 소재 및 골드와 맞바꿔\n무기를 강화할 수 있습니다
+MID_TUT_HUB_DRILLINGSHOP_1	｢연성·진화｣는 무기의 성능을 향상시키거나\n더 강한 다른 무기를 만들 수 있습니다
+MID_TUT_HUB_DRILLINGSHOP_2	｢문장 각인｣에서는 무기에 문장사의 힘을 부여할 수\n있습니다. 문장사마다 원하는 무기 하나에만 각인을\n할 수 있으며, 다른 무기로 각인을 옮길 수 있습니다
+MID_TUT_HUB_DRILLINGSHOP_3	｢소재 교환｣에서는 연성용 소재를\n다른 소재로 교환할 수 있습니다
+MID_TUT_HUB_ACCESSORYSHOP_TITLE	액세서리점
+MID_TUT_HUB_ACCESSORYSHOP_0	｢액세서리점｣에서는 솔라넬에서 입고 다닐\n｢옷｣이나 ｢장식품｣을 소재 및 골드와 맞바꿔\n제작할 수 있습니다
+MID_TUT_HUB_ACCESSORYSHOP_1	한 번 제작한 액세서리는\n일부 특별한 것을 제외하면\n누구나 입을 수 있습니다
+MID_TUT_HUB_ACCESSORYSHOP_2	스토리를 진행하면\n제작할 수 있는 품목이 더 늘어납니다
+MID_TUT_HUB_COOK_OPEN	｢카페테라스｣에서 ｢요리｣를 할 수 있게 되었습니다
+MID_TUT_HUB_COOK_TITLE	요리
+MID_TUT_HUB_COOK_0	식사 당번에게 ｢요리｣를 부탁해\n동료와 함께 식사할 수 있습니다
+MID_TUT_HUB_COOK_1	좋은 요리가 완성됐을 경우에는\n다음 출격 중에 모든 동료의 능력이 강화됩니다
+MID_TUT_HUB_COOK_2	또한, 초대한 동료끼리의\n지원도가 상승합니다
+MID_TUT_HUB_COOK_3	더욱이 식사 후에는 아이템 ｢도시락｣을 받을 수 있습니다\n(출격 중에 사용하면 HP를 회복할 수 있습니다)
+MID_TUT_HUB_CAPERIDGE_OPEN	｢시련의 별채｣가 개방되었습니다
+MID_TUT_HUB_CAPERIDGE_TITLE	시련의 별채
+MID_TUT_HUB_CAPERIDGE_0	｢시련의 별채｣에서는\n다양한 ｢시련｣에 도전할 수 있으며\n승리하면 보상을 받을 수 있습니다
+MID_TUT_HUB_CAPERIDGE_1	｢연전의 시련｣은\n연속으로 맵을 클리어하는 시련입니다\n도전할 난이도를 선택할 수 있습니다
+MID_TUT_HUB_CAPERIDGE_2	｢계전의 시련｣은 네트워크를 통해\n다른 플레이어와 협력해서 하나의 맵을\n릴레이로 플레이합니다
+MID_TUT_HUB_CAPERIDGE_3	｢이계의 시련｣은 자신이 편집한 맵으로\n다른 플레이어의 부대와 네트워크를 통해 대전합니다
+MID_TUT_HUB_FISHING_OPEN	｢낚시｣를 할 수 있게 되었습니다!
+MID_TUT_HUB_FISHING_TITLE	낚시
+MID_TUT_HUB_FISHING_0	｢낚시｣ 액티비티를 즐길 수 있습니다\n원하는 곳에서 \x0E\x08\x02\x04\x02A로 낚싯줄을 드리웁시다\n(큰 파문 아래에는 큰 물고기가 있을지도 모릅니다)
+MID_TUT_HUB_FISHING_1	찌가 완전히 잠긴 타이밍에\n\x0E\x08\x02\x04\x02A를 누르면 물고기가 히트합니다
+MID_TUT_HUB_FISHING_2	물고기가 날뛰기 시작하면 반대 방향으로 \x0E\x08\x02\x0E\x0CStickL을 기울입시다\n적절하게 당기지 않으면 물고기가 도망쳐 버립니다
+MID_TUT_HUB_FISHING_3	바로 앞까지 끌어당겼을 때가 찬스입니다\n\x0E\x08\x02\x04\x02A를 연타해 물고기의 체력을 줄입시다
+MID_TUT_HUB_FISHING_4	물고기의 체력이 0이 되면 낚시 성공입니다!\n새로운 낚싯대를 획득하면 큰 물고기가 낚일지도 모릅니다
+MID_TUT_HUB_DRAGONRIDE_OPEN	｢드래곤 슈터｣를 할 수 있게 되었습니다!
+MID_TUT_HUB_DRAGONRIDE_TITLE	드래곤 슈터
+MID_TUT_HUB_DRAGONRIDE_0	｢드래곤 슈터｣는\n드래곤에 올라타 떠 있는 표적을 파괴해\n고득점을 노리는 액티비티입니다
+MID_TUT_HUB_DRAGONRIDE_1	특별한 표적을 이용해서 베스트 스코어를 노립시다!\n(스토리를 진행하면 새로운 난이도가 개방됩니다)
+MID_TUT_HUB_FLEAMARKET_OPEN	｢벼룩시장｣이 오픈했습니다
+MID_TUT_HUB_FLEAMARKET_TITLE	벼룩시장
+MID_TUT_HUB_FLEAMARKET_0	｢벼룩시장｣에서는 일반적인 가게에서 볼 수 없는\n특이한 상품을 구입할 수 있습니다
+MID_TUT_HUB_FLEAMARKET_1	물품이 변경되기도 하므로\n종종 들러 확인해 봅시다
+MID_TUT_HUB_FORTUNE_OPEN	｢점쟁이 오두막｣이 오픈했습니다
+MID_TUT_HUB_FORTUNE_TITLE	점쟁이 오두막
+MID_TUT_HUB_FORTUNE_0	｢점쟁이 오두막｣에서는 세아다스가\n카드를 이용해 운세를 점쳐 줍니다
+MID_TUT_HUB_FORTUNE_1	밤에만 이용할 수 있습니다\n이용하려면 해가 지고 나서 방문합시다
+MID_TUT_HUB_PROFILE_OPEN	｢활동 기록관｣을 이용할 수 있게 되었습니다
+MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE	시련 중 출격
+MID_TUT_HUB_CAPERIDGE_DETAIL_0	각각의 ｢시련｣에서 동료가 출격하고 있는 동안에\n발생한 ｢상태의 변화｣나 ｢소비한 아이템｣,\n｢쓰러진 동료｣ 등은 플레이 후에 모두 원래대로 돌아옵니다
+MID_TUT_HUB_CAPERIDGE_DETAIL_1	플레이 후에 보상으로 받은 아이템과\n경험치는 획득할 수 있습니다
+MID_TUT_HUB_CAPERIDGE_DETAIL_2	보상 획득을 목표로\n아이템을 아낌없이 사용하며\n클리어해 보십시오
+MID_TUT_CHALLENGE_TITLE	연전의 시련
+MID_TUT_CHALLENGE_0	｢연전의 시련｣은 연속으로 전투를 플레이하면서\n클리어하는 시련입니다
+MID_TUT_CHALLENGE_1	정해진 수의 맵을 전부 클리어하면\n보상으로 소재를 받을 수 있으며\n출격한 아군에게 경험치를 부여합니다
+MID_TUT_CHALLENGE_2	연전 맵을 고를 때 난이도를 설정할 수 있으며\n높은 난이도로 플레이하면 클리어 후에\n더 좋은 보상을 받을 수 있습니다
+MID_TUT_RELAY_TITLE	계전의 시련
+MID_TUT_RELAY_0	｢계전의 시련｣은 하나의 맵을 일정 턴으로\n다른 플레이어와 릴레이로 교대하면서\n클리어하는 시련입니다
+MID_TUT_RELAY_1	｢새로 시작｣을 선택하면 티켓을 소비해\n｢계전의 시련｣을 개시합니다
+MID_TUT_RELAY_2	｢계승하기｣를 선택하면\n누군가의 플레이를 계승하여 플레이합니다
+MID_TUT_RELAY_3	｢결과 확인｣을 선택하면\n자신이 참가한 데이터의 리플레이를 확인할 수 있으며\n전투가 완료된 경우에는 보상을 획득할 수 있습니다
+MID_TUT_RELAY_ENTRY_PANEL_TITLE	엔트리 패널
+MID_TUT_RELAY_ENTRY_PANEL_0	아군은 ｢엔트리 패널｣과\n그 주변에 위치한 4개의 칸에\n최대 5명까지 출격시킬 수 있습니다
+MID_TUT_RELAY_ENTRY_PANEL_1	맵 안에는 기동되지 않은\n엔트리 패널이 다수 존재하며\n그 위에 아군을 대기시키면 기동할 수 있습니다
+MID_TUT_RELAY_ENTRY_PANEL_2	기동하면 그다음에 계승한 플레이어가\n그곳에서 아군을 출격시킬 수 있게 되므로\n가능한 한 기동해 둡시다
+MID_TUT_RELAY_DATA_TAKEOVER_TITLE	데이터 계승
+MID_TUT_RELAY_DATA_TAKEOVER_0	정해진 턴 수로 플레이하면서\n다음 턴을 다른 플레이어한테 맡기고\n계승 방법을 설정할 수 있습니다
+MID_TUT_RELAY_DATA_TAKEOVER_1	계승 방법에는 이하의 2종류가 있습니다\n｢공개｣ 누구나 계승할 수 있습니다\n｢비공개｣ ID를 획득해 입력하면 계승할 수 있습니다
+MID_TUT_RELAY_DATA_TAKEOVER_2	계승 후의 전투 상황과 승패는\n｢결과 확인｣에서 확인할 수 있습니다
+MID_TUT_RELAY_NEWDATA_TITLE	새로 시작
+MID_TUT_RELAY_NEWDATA_0	새롭게 데이터를 작성해\n맵의 시작부터 시련을 개시합니다
+MID_TUT_RELAY_NEWDATA_1	｢맵 정보｣를 보면서\n시작하고 싶은 맵을 선택해 주십시오
+MID_TUT_RELAY_NEWDATA_2	맵을 선택하면 출격 준비 상태가 되며\n｢전투 개시｣를 누르면\n티켓이 소비되면서 시련이 시작됩니다
+MID_TUT_RELAY_TAKEOVER_TITLE	계승하기
+MID_TUT_RELAY_TAKEOVER_0	누군가의 데이터를 계승해\n시련을 도중부터 플레이합니다\n계승 방법은 ｢랜덤｣과 ｢ID 입력｣이 있습니다
+MID_TUT_RELAY_TAKEOVER_1	｢랜덤｣에서는 자동으로 선택된\n다른 플레이어의 데이터를 계승해 플레이합니다
+MID_TUT_RELAY_TAKEOVER_2	｢ID 입력｣에서는 ID를 입력해\n특정 플레이어의 데이터를\n계승해 플레이할 수 있습니다
+MID_TUT_RELAY_TAKEOVER_3	｢전투 개시｣를 선택하면 시련이 시작됩니다
+MID_TUT_RELAY_FINISH_TITLE	결과 확인
+MID_TUT_RELAY_FINISH_0	자신이 참가한 ｢계전의 시련｣의 데이터를 보면서\n플레이 상황을 확인할 수 있습니다\n완료 시 보상을 획득할 수 있습니다
+MID_TUT_RELAY_FINISH_1	자신과 다른 플레이어의\n리플레이를 확인할 수 있습니다\n(미완료 상태일 경우 일부만 볼 수 있습니다)
+MID_TUT_RELAY_FINISH_2	보상은 패배 시에도 획득할 수 있지만\n승리하면 더 좋은 보상을 획득할 수 있습니다
+MID_TUT_MATCH_TITLE	이계의 시련
+MID_TUT_MATCH_0	선택한 맵이나 편집한 맵으로\n다른 플레이어 부대와 대전하는 시련입니다
+MID_TUT_MATCH_1	｢간편 대전｣에서는\n원하는 맵을 선택해 대전합니다
+MID_TUT_MATCH_2	｢본격 대전｣에서는 자신이 편집한 맵을\n공개하거나, 누군가가 공개한 맵과\n자신의 맵을 연결해 대전할 수 있습니다
+MID_TUT_MATCH_3	어느 쪽이든 대전 후 보상을\n획득할 수 있습니다
+MID_TUT_MATCH_EASY_TITLE	간편 대전
+MID_TUT_MATCH_EASY_0	원하는 맵을 선택해 공격 부대를 출격시켜\n다른 플레이어의 부대와 대전합니다\n상대는 ｢랜덤｣, ｢친구｣, ｢ID 입력｣ 중에서 고를 수 있습니다
+MID_TUT_MATCH_EASY_1	｢랜덤｣에서는\n대전할 부대가 자동으로 선택됩니다
+MID_TUT_MATCH_EASY_2	｢친구｣에서는\n친구 등록한 플레이어의 부대가 표시되며\n그중, 대전할 부대를 선택할 수 있습니다
+MID_TUT_MATCH_EASY_3	｢ID 입력｣에서는\nID를 입력해 특정 플레이어의 부대와\n대전할 수 있습니다
+MID_TUT_MATCH_SERIOUS_TITLE	본격 대전
+MID_TUT_MATCH_SERIOUS_0	편집한 맵을 공개하거나\n다른 플레이어가 공개한 맵과\n자신의 맵을 연결해 대전할 수 있습니다
+MID_TUT_MATCH_SERIOUS_1	우선 ｢맵 편집｣에서\n자신의 맵을 만들어 봅시다
+MID_TUT_MATCH_EDIT_ATTACK_TITLE	편집한 맵에서 대전
+MID_TUT_MATCH_EDIT_ATTACK_0	편집한 맵을 이용해 대전할 수 있습니다
+MID_TUT_MATCH_EDIT_ATTACK_1	｢대전 개시｣를 선택하면 자신이 편집한 맵과\n다른 플레이어가 공개한 맵을 연결한 뒤,\n그곳에 공격 부대를 출격시켜 대전을 시작합니다
+MID_TUT_MATCH_EDIT_ATTACK_2	방어전이 발생했을 경우\n｢결과 확인｣에서 그 결과와\n리플레이를 확인할 수 있습니다
+MID_TUT_MATCH_EDIT_ATTACK_3	｢모의전｣을 선택하면 자신이 편집한 맵에서\n자신의 공격 부대로 테스트 플레이를 진행해\n맵의 완성 상태를 확인할 수 있습니다
+MID_TUT_MATCH_ATTACK_TITLE	대전 개시
+MID_TUT_MATCH_ATTACK_0	다른 플레이어가 공개한 맵과 자신의 맵을 연결한 뒤,\n공격 부대를 보내 대전할 수 있습니다
+MID_TUT_MATCH_ATTACK_1	｢랜덤｣에서는 자동으로 선택된\n다른 플레이어의 맵에서 대전할 수 있습니다
+MID_TUT_MATCH_ATTACK_2	｢친구｣에서는\n친구 등록한 플레이어의 맵이 표시되며\n그중, 대전할 맵을 선택할 수 있습니다
+MID_TUT_MATCH_ATTACK_3	｢ID 입력｣에서는\nID를 입력한 특정 플레이어의\n맵에서 대전할 수 있습니다
+MID_TUT_MATCH_EDIT_TITLE	맵 편집
+MID_TUT_MATCH_EDIT_0	대전에 사용할 맵을 만듭니다\n전투 방식을 생각해 맵에 다양한\n지형을 배치합시다
+MID_TUT_MATCH_EDIT_1	\x0E\x08\x02\x04\x02X로 지형 리스트를 열어\n\x0E\x08\x02\x04\x02A로 배치할 수 있습니다\n(\x0E\x08\x02\x04\x02L\x0E\x08\x02\x04\x02R로 직접 선택할 수도 있습니다)
+MID_TUT_MATCH_EDIT_2	만든 맵을 저장하면 적이 쳐들어와\n｢방어전｣이 발생할 수 있습니다\n방어도 고려해 맵을 만들어 봅시다
+MID_TUT_MATCH_EDIT_3	방어전에 사용할 ｢방어 부대｣ 설정과\n만든 맵을 저장하려면\n\x0E\x08\x02\x0A\x08Plus로 메뉴를 여십시오
+MID_TUT_MATCH_EDIT_SAVE_TITLE	방어 부대 설정 및 맵 저장
+MID_TUT_MATCH_EDIT_SAVE_0	방어전이 발생할 때 자동으로 싸우는\n｢방어 부대｣는 메뉴에서 유닛을 편성해\n장비와 배치 변경 설정을 할 수 있습니다
+MID_TUT_MATCH_EDIT_SAVE_1	아군에게 커서를 올리고 \x0E\x08\x02\x04\x02A를 누르면\n행동 타입을 변경할 수 있습니다
+MID_TUT_MATCH_EDIT_SAVE_2	｢방어 부대｣로 설정한 유닛은\n｢공격 부대｣에 넣을 수 없으므로 주의합시다
+MID_TUT_MATCH_EDIT_SAVE_3	지형과 방어 부대의 배치를 완료하면\n｢맵 저장｣을 선택해\n만든 맵을 저장합시다
+MID_TUT_MATCH_EDIT_SAVE_4	｢편집 종료｣를 선택하면\n맵 편집이 완료됩니다
+MID_TUT_MATCH_REPLAY_TITLE	결과 확인(리플레이)
+MID_TUT_MATCH_REPLAY_0	편집한 맵을 공개하면\n그곳에 다른 플레이어가 쳐들어와\n｢방어전｣이 발생하기도 합니다
+MID_TUT_MATCH_REPLAY_1	｢방어전｣이 발생했을 경우\n승패 결과를 확인할 수 있습니다
+MID_TUT_MATCH_REPLAY_2	전투가 어떻게 치러졌는지\n리플레이를 볼 수 있습니다
+MID_TUT_MATCH_REPLAY_3	보상은 패배 시에도 획득할 수 있지만\n승리하면 더 좋은 보상을 획득할 수 있습니다
+MID_TUT_MATCH_MOCKCOMBAT_TITLE	모의전
+MID_TUT_MATCH_MOCKCOMBAT_0	자신이 편집한 맵을 테스트 플레이하면서\n완성 상태를 확인할 수 있습니다
+MID_TUT_MATCH_MOCKCOMBAT_1	자신의 맵에 공격 부대를 보내\n방어 부대와 대전합니다
+MID_TUT_MATCH_MOCKCOMBAT_2	개선 사항이 발견되면\n｢맵 편집｣에서 맵을 수정합시다
+MID_TUT_TIPS_Marth	문장사 마르스
+MID_TUT_TIPS_Siglud	문장사 시구르드
+MID_TUT_TIPS_Celica	문장사 세리카
+MID_TUT_TIPS_Micaiah	문장사 미카야
+MID_TUT_TIPS_Roy	문장사 로이
+MID_TUT_TIPS_Lin	문장사 린
+MID_TUT_TIPS_Ike	문장사 아이크
+MID_TUT_TIPS_Lucina	문장사 루키나
+MID_TUT_TIPS_Leaf	문장사 리프
+MID_TUT_TIPS_Kamui	문장사 카무이
+MID_TUT_TIPS_Eirik	문장사 에이리카
+MID_TUT_TIPS_Ephraim	문장사 에브라임
+MID_TUT_TIPS_Byleth	문장사 벨레트
+MID_TUT_TIPS_TUTORIAL	기초 지식
+MID_TUT_TIPS_ITEM	소비 아이템
+MID_TUT_TIPS_WEAPON	무기
+MID_TUT_TIPS_KIZUNA	산책
+MID_TUT_TIPS_HUB	솔라넬
+MID_TUT_TIPS_GMAP	월드 맵
+MID_TUT_TIPS_ENCOUNTER	조우전
+MID_TUT_TIPS_UNIT_SKILL	(\x0E\x01\x00\x00의 개인 스킬)
+MID_TUT_TIPS_GOD_SKILL	(\x0E\x01\x00\x00의 문장사 스킬)
+MID_TUT_TIPS_UNIT_ITEM	(\x0E\x01\x00\x00의 전용 무기)
+MID_TUT_TIPS_GOD_ITEM	(\x0E\x01\x00\x00의 인게이지 무기)
+MID_TIPS_TUTORIAL_1	한번 확인한 튜토리얼은 ｢시스템｣의 ｢튜토리얼｣에서 언제나 확인할 수 있다.
+MID_TIPS_TUTORIAL_2	전투 애니메이션의 ON/OFF는 ｢시스템｣의 ｢환경 설정｣에서 설정할 수 있다.
+MID_TIPS_TUTORIAL_3	전투 맵에서 \x0E\x08\x02\x06\x04ZL을 누르면 모든 적의 공격 범위가 표시된다.
+MID_TIPS_TUTORIAL_4	적에게 커서를 올리고 \x0E\x08\x02\x04\x02A를 누르면 위험 범위가 표시된다.
+MID_TIPS_TUTORIAL_5	행동을 마치지 않은 아군이 남아 있어도 메뉴의 ｢종료｣로 아군 페이즈를 종료할 수 있다.
+MID_TIPS_TUTORIAL_6	\x0E\x08\x02\x04\x02Y를 길게 누르면 대화를 빨리 넘길 수 있다.
+MID_TIPS_TUTORIAL_7	경험치가 100이 되면 레벨이 올라 아군의 능력이 상승한다.
+MID_TIPS_TUTORIAL_8	\x0E\x08\x02\x04\x02X를 누르면 아이템이나 스킬의 상세 정보를 확인할 수 있다.
+MID_TIPS_TUTORIAL_9	유닛에 커서를 올리고 \x0E\x08\x02\x0C\nMinus를 누르면 능력의 상세 정보를 확인할 수 있다.
+MID_TIPS_TUTORIAL_10	전투 맵에서 \x0E\x08\x02\x06\x04ZR을 길게 누르면 유닛 정보의 종류나 맵 표시를 변경할 수 있다.
+MID_TIPS_TUTORIAL_50	전투 맵에서 \x0E\x08\x02\x06\x04ZR을 누르면 유닛의 보조 정보가 표시된다.
+MID_TIPS_TUTORIAL_11	무기의 ｢무게｣가 유닛의 ｢체격｣보다 크면, 차이만큼 ｢속도｣가 떨어진다.
+MID_TIPS_TUTORIAL_12	｢행운｣이 높을수록 적의 필살의 일격에 당할 확률이 낮아진다.
+MID_TIPS_TUTORIAL_13	｢수풀｣이나 ｢숲｣ 등의 지형에서 싸우면 적의 공격을 피할 확률이 상승한다.
+MID_TIPS_ITEM_0	HP는 ｢상처약｣이나 ｢라이브｣ 등으로 회복할 수 있다.
+MID_TIPS_ITEM_1	｢상처약｣과 ｢지팡이｣ 등의 아이템은 사용할 수 있는 횟수가 0이 되면 사라진다.
+MID_TIPS_TUTORIAL_14	｢위임｣을 선택하면 전투 방침에 따라 아군이 자동으로 행동한다.
+MID_TIPS_TUTORIAL_15	적이 검을 쓴다면 ｢창｣, 창을 쓴다면 ｢도끼｣, 도끼를 쓴다면 ｢검｣으로 공격해서 브레이크시킬 수 있다.
+MID_TIPS_TUTORIAL_51	활·마도서·단검을 장비한 적은 ｢체술｣로 공격하면 브레이크시킬 수 있다.
+MID_TIPS_TUTORIAL_16	브레이크된 적은 한 번 전투를 하거나 다음 턴이 되기 전까지 반격할 수 없다.
+MID_TIPS_TUTORIAL_17	｢인게이지 기술｣은 체인 가드로 막을 수 없다.
+MID_TIPS_SKILL_0	｢인연 레벨｣이 상승하면 싱크로·인게이지 중의 능력이 강화되고 사용할 수 있는 스킬이 늘어난다.
+MID_TIPS_SKILL_1	｢인게이지 카운트｣는 전투를 치르면 차오른다.
+MID_TIPS_SKILL_28	｢문장의 기운｣이 있는 곳에서 대기하면 인게이지 카운트가 최대로 차오른다.
+MID_TIPS_SKILL_2	마르스의 인게이지 기술 ｢스타 러시｣는 전투 스타일이 [용족]일 때 공격 횟수가 늘어난다.
+MID_TIPS_ITEM_2	체술 장비 시 공격력은 ｢힘｣과 ｢마력｣ 2가지 기본 능력의 영향을 받는다.
+MID_TIPS_TUTORIAL_18	아군은 각각 도움이 되는 고유 스킬을 지니고 있다. 자세한 정보는 \x0E\x08\x02\x04\x02X를 눌러 확인할 수 있다.
+MID_TIPS_TUTORIAL_19	｢부대표｣에서는 아군의 병과나 레벨을 목록 형태로 확인할 수 있다.
+MID_TIPS_TUTORIAL_20	아군끼리 인접한 상태에서 전투를 치르면 서로의 지원도가 상승한다.
+MID_TIPS_TUTORIAL_21	아군 선택 중에 \x0E\x08\x02\x04\x02L\x0E\x08\x02\x04\x02R을 누르면 장비한 무기를 교체할 수 있다.
+MID_TIPS_TUTORIAL_22	\x0E\x08\x02\x12\x10DropItem이 있는 적을 쓰러뜨리면 가지고 있는 아이템을 획득할 수 있다.
+MID_TIPS_ITEM_3	활은 ｢비행 특효｣를 가지고 있어 비행하는 적에게 큰 대미지를 입힌다.
+MID_TIPS_ITEM_4	중갑병은 ｢수비｣가 높아서 마법으로 공격하는 편이 대미지를 입히기 쉽다.
+MID_TIPS_OTHER_33	게임의 난이도는 ｢마이 베드｣의 ｢난이도 변경｣에서 변경할 수 있다.
+MID_TIPS_TUTORIAL_24	적이 도달하기 전에 민가를 ｢방문｣하면 보상을 받을 수 있다.
+MID_TIPS_TUTORIAL_25	｢요새｣나 ｢방어 바닥｣에서 대기한 유닛은 턴마다 HP가 회복되며 무기 상성에 의해 브레이크되지 않는다.
+MID_TIPS_TUTORIAL_27	\x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 사용할 수 있는 ｢수송대｣는 인접한 아군도 사용할 수 있다.
+MID_TIPS_TUTORIAL_28	인연 레벨이 상승하면 ｢인연 회화｣가 발생하고 인연 회화를 확인하면 ｢인연 레벨｣이 거듭 상승한다.
+MID_TIPS_TUTORIAL_29	아군끼리 지원도가 상승하면 ｢지원 회화｣가 발생하고 지원 회화를 확인하면 ｢지원 레벨｣이 상승한다.
+MID_TIPS_TUTORIAL_30	아군끼리 ｢지원 레벨｣이 상승하면 서로가 인접하여 싸울 때 능력이 상승한다.
+MID_TIPS_TUTORIAL_32	적을 브레이크시킬 수 있으면 적의 무기 아이콘에 \x0E\x08\x02\x18\x16EquipCancel표시가 생긴다.
+MID_TIPS_TUTORIAL_33	유닛에 \x0E\x08\x02 \x1EBalloonCritical가 표시될 때는 필살의 일격이 발생할 확률이 높다.
+MID_TIPS_TUTORIAL_34	｢용의 시간석｣을 사용하면 행동하기 이전 시점으로 되돌아가 다시 행동할 수 있다.
+MID_TIPS_ITEM_5	활과 마법 외에도 ｢투척창｣과 ｢투척도끼｣처럼 멀리 떨어진 적을 공격할 수 있는 무기가 있다.
+MID_TIPS_ITEM_6	마도서 ｢서지｣는 근접 공격만 가능하지만 반드시 명중한다.
+MID_TIPS_OTHER_0	전투에서 활약한 동료와 대화하면 ｢인연의 조각｣을 받을 수 있다.
+MID_TIPS_OTHER_1	획득한 정석과 식재료는 ｢연성｣이나 ｢요리｣에서 사용할 수 있다.
+MID_TIPS_OTHER_2	｢문장사의 방｣에서 ｢인연의 조각｣을 사용해 인연의 반지를 정제할 수 있다.
+MID_TIPS_OTHER_3	\x0E\x08\x02\x04\x02X를 눌러 원하는 곳으로 빠르게 이동할 수 있다.
+MID_TIPS_OTHER_4	상대가 좋아하는 것을 ｢선물｣하면 지원도가 더 크게 상승한다.
+MID_TIPS_OTHER_6	｢사운드박스｣를 사용해 흐르는 음악을 원하는 것으로 변경할 수 있다.
+MID_TIPS_OTHER_7	｢마이 룸｣에서는 지원 회화를 보거나 무비, 음악을 감상할 수 있다.
+MID_TIPS_OTHER_8	｢마이 베드｣에서 휴식을 취하면 동료 중 한 사람이 깨우러 와 준다.
+MID_TIPS_OTHER_9	｢문장사의 방｣에서 ｢SP｣와 ｢인연의 조각｣으로 ｢스킬 계승｣과 ｢인연의 반지 정제｣를 할 수 있다.
+MID_TIPS_OTHER_10	솔라넬에 오래전부터 살고 있는 수호신은 ｢인연의 조각｣을 만들어 낼 수 있다고 알려져 있다.
+MID_TIPS_OTHER_11	｢드래곤 슈터｣에서 높은 스코어를 기록하면 ｢인연의 조각｣을 많이 획득할 수 있다.
+MID_TIPS_OTHER_12	｢근육 체조｣를 하면 다음 출격 중에 \x0E\x06\x03\x00의 능력이 약간 강화된다.
+MID_TIPS_OTHER_32	판매할 물품은 \x0E\x08\x02\x06\x04ZR로 복수 선택할 수 있으며 한꺼번에 판매할 수 있다.
+MID_TIPS_TUTORIAL_35	적이 보물 상자의 내용물을 가져가도 도망치기 전에 격파하면 획득할 수 있다.
+MID_TIPS_TUTORIAL_36	문은 파괴하거나 시프의 ｢문 열쇠｣ 커맨드를 이용하면 지나갈 수 있다.
+MID_TIPS_ITEM_8	｢HP의 약｣ 등의 강화 아이템은 출격 중 아군의 능력을 상승시킨다.
+MID_TIPS_ITEM_9	｢나이트 킬러｣처럼 ｢기마 특효｣를 지닌 무기는 기마 계열 적에게 큰 대미지를 입힌다.
+MID_TIPS_OTHER_13	솔라넬에 데리고 온 동물을 ｢목장｣에서 방목하면 식재료를 떨어뜨리기도 한다.
+MID_TIPS_OTHER_15	월드 맵에서는 ｢조우전｣이나 ｢훈련｣이 발생하며, 참가하면 경험치와 골드를 획득할 수 있다.
+MID_TIPS_OTHER_16	｢단련의 방｣에서 아군이나 문장사와 전투를 치르면 인연이 깊어지며 경험치도 획득할 수 있다.
+MID_TIPS_OTHER_17	｢훈련｣에 출격한 아군은 클리어 후 추가 경험치를 획득할 수 있다.
+MID_TIPS_TUTORIAL_39	전투 스타일 [용족] 유닛은 인게이지했을 때 다채로운 추가 효과를 얻을 수 있다.
+MID_TIPS_TUTORIAL_40	전투 스타일 [연계] 유닛은 아군을 원호하는 ｢체인 어택｣을 할 수 있다.
+MID_TIPS_TUTORIAL_41	전투 스타일 [기마] 유닛은 이동할 수 있는 범위가 넓다.
+MID_TIPS_TUTORIAL_42	전투 스타일 [마도] 유닛은 마법으로 공격할 때 적의 지형 효과에 의한 회피 상승 보정을 무효화한다.
+MID_TIPS_TUTORIAL_43	전투 스타일 [기공] 유닛은 아군을 보호하는 ｢체인 가드｣를 사용할 수 있다.
+MID_TIPS_TUTORIAL_44	전투 스타일 [은밀] 유닛은 지형 효과로 얻을 수 있는 회피 상승 보정이 2배가 된다.
+MID_TIPS_TUTORIAL_45	전투 스타일 [비행] 유닛은 지형의 영향을 받지 않고 이동할 수 있다.
+MID_TIPS_TUTORIAL_46	전투 스타일 [중갑] 유닛은 무기 상성에 의해 브레이크되지 않는다.
+MID_TIPS_TUTORIAL_47	클래스 체인지에 필요한 소질은 ｢인연 레벨｣을 올려 문장사로부터 계승할 수 있다.
+MID_TIPS_ITEM_10	근접 무기를 장비한 적에게 사정거리가 긴 무기로 공격하면 반격받지 않는다.
+MID_TIPS_ITEM_11	단검 공격으로 대미지를 입히면 적을 ｢독｣ 상태로 만들 수 있다.
+MID_TIPS_ITEM_12	｢아머 킬러｣처럼 ｢중갑 특효｣를 지닌 무기는 중갑병에게 큰 대미지를 입힌다.
+MID_TIPS_OTHER_14	｢요리｣를 의뢰하면 드물게 도시락을 받을 수 있으며 사용하면 HP를 회복할 수 있다.
+MID_TIPS_OTHER_19	｢요리｣를 의뢰할 때, 식재료를 추가하면 성공률이 상승한다.
+MID_TIPS_OTHER_20	｢과수원｣에서는 요리에 사용할 식재료를 획득할 수 있다.
+MID_TIPS_OTHER_21	｢게시판｣의 ｢실적｣에서 지금까지의 행동 결과에 따른 ｢인연의 조각｣을 받을 수 있다.
+MID_TIPS_OTHER_22	｢게시판｣의 ｢왕국 투자｣에서 많은 금액을 투자하면 레벨이 상승해 보상을 받을 수 있다.
+MID_TIPS_OTHER_30	｢왕국 투자｣로 레벨이 상승하면 그 국가에서 조우전을 치를 때 희귀한 적 출현율이 상승한다.
+MID_TIPS_OTHER_31	｢왕국 투자｣로 레벨이 상승하면 그 국가에서 산책할 때 얻을 수 있는 소재가 늘어난다.
+MID_TIPS_OTHER_23	｢어둠｣ 상태인 조우전은 많은 경험치와 골드를 지닌 적이 숨어 있을 가능성이 높다.
+MID_TIPS_SKILL_38	지팡이의 명중은 ｢신앙｣ 스킬로만 상승시킬 수 있다.
+MID_TIPS_OTHER_34	｢신룡 전적 카드｣는 시련의 별채에서 이계의 친구들과 교류할 때 도움이 된다.
+MID_TIPS_TUTORIAL_48	인게이지 카운트가 빛나고 있는 암흑 싱크로 중인 적은 인게이지 기술을 사용할 수 있다.
+MID_TIPS_TUTORIAL_52	인게이지 중인 아군은 적의 인게이지 기술로 받는 대미지가 감소한다.
+MID_TIPS_TUTORIAL_49	최대 레벨에 다다르더라도 ｢체인지 프루프｣를 사용하면 레벨을 1로 되돌려 더 성장시킬 수 있다.
+MID_TIPS_ITEM_13	｢독｣은 출격 중 효과가 지속된다(해독제나 지팡이로 치료 가능).
+MID_TIPS_ITEM_14	레벨 10이 된 아군은 ｢마스터 프루프｣를 이용해 상급 병과로 클래스 체인지할 수 있다.
+MID_TIPS_ITEM_15	｢스매시｣ 효과를 지닌 무기로 공격하면 반드시 후공이 된다.
+MID_TIPS_OTHER_24	｢용수의 연못｣에서 낚시하면 요리에 사용할 식재료를 획득할 수 있다.
+MID_TIPS_ITEM_16	｢체인지 프루프｣를 이용해 다른 계통의 병과로 클래스 체인지할 수 있다.
+MID_TIPS_ITEM_17	｢킬 소드｣, ｢킬러 랜스｣ 같은 킬러 계열 무기는 필살의 일격이 발생할 확률이 높다.
+MID_TIPS_OTHER_37	\x0E\x06\x03\x00\x0E\x0A\x04\x08\x02이\x02가 병과 ｢신룡의 왕｣이 된 적이 있으면 뒤뜰에서 ｢드래곤 슈터｣를 즐길 수 있다.
+MID_TIPS_OTHER_26	｢벼룩시장｣에서는 일반적인 가게에서 볼 수 없는 특이한 상품을 구입할 수 있다.
+MID_TIPS_OTHER_27	대륙 각지에는 문장사와 더 깊은 인연을 맺을 수 있는 시련의 땅이 존재한다고 한다.
+MID_TIPS_SKILL_29	아이크의 인게이지 기술 ｢패극·에테르｣는 공격한 칸의 ｢화염｣, ｢독기｣ 등을 제거할 수 있다.
+MID_TIPS_SKILL_22	벨레트의 인게이지 무기는 인게이지하는 아군의 전투 스타일에 따라 변화한다.
+MID_TIPS_SKILL_25	카무이의 ｢용맥｣은 지형에 특수한 효과를 부여하며 기존의 효과를 덮어씌울 수 있다.
+MID_TIPS_OTHER_28	｢점쟁이 오두막｣은 야간에만 이용할 수 있다.
+MID_TIPS_OTHER_29	｢시련의 별채｣에서 시련에 도전하면 특별한 강화 소재를 획득할 수 있으며, 인게이지 무기의 강화에 쓰인다.
+MID_TIPS_ITEM_18	｢용사의 검｣, ｢용사의 창｣ 같은 용사 계열 무기는 직접 공격했을 때 2연속 공격을 한다.
+MID_TIPS_ITEM_19	소중한 사람에게 ｢약속의 반지｣를 건네고 싶다면 마이 룸의 마이 체스트에서 반지를 꺼내 직접 줄 수 있다.
+MID_TIPS_GOD_0	이계의 대륙 아카네이아에 있는 아리티아 왕국의 왕자. 영웅 앙리의 피를 이었다.
+MID_TIPS_GOD_1	동료들과 힘을 합쳐 암흑룡을 쓰러뜨리고 ｢영웅왕｣이라고 불리는 인물.
+MID_TIPS_GOD_2	이계의 대륙 유그드랄에 있는 그란벨 왕국 시알피 공작가의 공자.
+MID_TIPS_GOD_3	성전사 발드의 피를 이어, 전설의 성검을 계승한 고결한 기사.
+MID_TIPS_GOD_4	이계의 대륙 발렌시아에 있는 풍요로운 나라 소피아의 왕녀.
+MID_TIPS_GOD_5	자애로운 마음을 가졌으며, 용사 아름과 함께 평화를 위협하는 사신과 싸웠다.
+MID_TIPS_GOD_6	이계의 대륙 테리우스에서 의적 집단의 일원으로 활약한 여성.
+MID_TIPS_GOD_7	신비한 힘을 지닌 소녀로 세계를 심판하려는 여신과 싸웠다.
+MID_TIPS_GOD_8	이계의 대륙 엘레브에 있는 펠레 후작가의 공자. 봉인의 검 사용자.
+MID_TIPS_GOD_9	병을 앓는 아버지를 대신해 군을 이끌고 적국에 대항한 총명한 소년.
+MID_TIPS_GOD_10	이계의 대륙 엘레브에 있는 초원 지대, 사카 지방 출신 여성 검사.
+MID_TIPS_GOD_11	후작가의 피를 이었으나, 그 사실을 모른 채 유목민으로 자란 소녀.
+MID_TIPS_GOD_12	이계의 대륙 테리우스에서 그레일 용병단의 단장을 맡은 청년.
+MID_TIPS_GOD_13	뛰어난 검술 실력과 올곧은 마음을 지녀, 일개 용병에서 영웅으로 성장한 인물.
+MID_TIPS_GOD_14	이계의 국가 이리스 성왕국의 왕녀로 왼쪽 눈에 성흔을 지녔다.
+MID_TIPS_GOD_15	절망적인 미래를 바꾸기 위해, 시간을 거슬러 올라가 싸운 정의감이 넘치는 소녀.
+MID_TIPS_GOD_16	이계의 대륙 유그드랄에 있는 트라키아 지방 렌스터 왕국의 후계자.
+MID_TIPS_GOD_17	트라키아 지방을 제국의 지배에서 해방하기 위해 분전한 용감한 왕자.
+MID_TIPS_GOD_18	이계의 국가, 백야 왕국에서 태어나, 암야 왕국에서 자란 왕족.
+MID_TIPS_GOD_19	선조룡의 힘이 깃들었으며, 서로 싸우는 두 조국 사이에서 자신의 길을 선택했다.
+MID_TIPS_GOD_20	이계의 대륙 마기 발에 있는 성석을 계승한 나라 루네스의 왕녀.
+MID_TIPS_GOD_21	동생 에이리카와 힘을 합쳐 마왕과 싸운 루네스 왕국의 용맹한 왕자.
+MID_TIPS_GOD_22	이계의 땅 포드라에 있는 가르그 마크 대수도원에서 교사로 일한 청년.
+MID_TIPS_GOD_23	전직 용병이었지만, 교사로서 제자들을 이끌며 전란의 시대를 살아간 인물.
+MID_TUT_NAVI_M004_TIMECRYSTAL	｢용의 시간석｣을 사용할 수 있게 되었습니다
+MID_TUT_NAVI_M005_FUNDS	피레네로부터 군자금으로\n\x0E\x01\x00\x00\x0E\x01\x01\x00G를 받았습니다
+MID_TUT_NAVI_VANDRE_FUNDS	반드레로부터 군자금으로\n\x0E\x01\x00\x00\x0E\x01\x01\x00G를 받았습니다
+MID_TUT_NAVI_M008_FUNDS	브로디아로부터 군자금으로\n\x0E\x01\x00\x00\x0E\x01\x01\x00G를 받았습니다
+MID_TUT_NAVI_M012_RESCUE	이형병에게 공격받고 있는 사람을 구합시다
+MID_TUT_NAVI_M014_FUNDS	솔룸으로부터 군자금으로\n\x0E\x01\x00\x00\x0E\x01\x01\x00G를 받았습니다
+MID_TUT_NAVI_M015_ESCAPE	세아다스를 보호해 맵에서 이탈시킵시다
+MID_TUT_NAVI_M020_FUNDS	이르시온으로부터 군자금으로\n\x0E\x01\x00\x00\x0E\x01\x01\x00G를 받았습니다
+MID_TUT_NAVI_M022_GET_Siglud	『성기사의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Celica	『자애의 왕녀의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Micaiah	『새벽의 무녀의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Roy	『젊은 사자의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Lin	『초원의 공녀의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Ike	『창염의 용사의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Lucina	『성왕녀의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Leaf	『현왕의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Kamui	『미래를 선택하는 자의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Eirik	『푸른 풍공의 반지』를 획득했습니다
+MID_TUT_NAVI_M022_GET_Byleth	『인도자의 반지』를 획득했습니다
+MID_TUT_NAVI_M024_WARNING1	2턴 후, 아래쪽 산길에서 눈사태가 발생합니다
+MID_TUT_NAVI_M024_WARNING2	2턴 후, 가운데 산길에서 눈사태가 발생합니다
+MID_TUT_NAVI_M024_WARNING3	2턴 후, 위쪽 산길에서 눈사태가 발생합니다
+MID_TUT_NAVI_M026_ENGAGEBREAKE	다음 턴에 대사룡 솜브르의 전체 공격이 발생합니다\n맵에 있는 유닛의 인게이지 상태를 강제로 해제합니다
+MID_TUT_NAVI_M026_BEAM_WARNING	다음 턴에 대사룡 솜브르가 사룡 포효포를 발사합니다\n강력한 기술이므로 가급적 범위 밖으로 피합시다
+MID_TUT_NAVI_S006_RULE	벨레트 일행이 맵상의 수정을 파괴합니다\n파괴를 저지하고 가능한 한 많은 수정을 지켜 냅시다\n(지켜 낸 수정 수에 따라 보상을 획득합니다)
+MID_TUT_NAVI_S006_BREAK	수정이 파괴되었습니다
+MID_TUT_NAVI_S006_REWARD1	많은 수정을 지켜 내 보상으로\n벨레트로부터 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02과\x02와 \x0E\x01\x01\x00\x0E\x0A\x04\x08\x02을\x02를\n받았습니다
+MID_TUT_NAVI_S006_REWARD2	수정을 지켜 내 보상으로\n벨레트로부터 \x0E\x01\x00\x00\x0E\x0A\x04\x08\x02을\x02를\n받았습니다
+MID_TUT_NAVI_S006_REWARD3	수정을 얼마 지키지 못해\n보상을 받을 수 없었습니다
+MID_TUT_NAVI_S015_GET	반지를 되찾았습니다
+MID_TUT_NAVI_S015_ENGAGERING	｢약속의 반지｣는 단 한 명의 동료에게만 건네줄 수\n있습니다. 건네줄 상대는 신중하게 선택합시다

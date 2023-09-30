@@ -1,0 +1,266 @@
+MID_H_INFO_WLV_Bullet	Kanone
+MID_MSG_LOST_ITEM	Verloren: \x0E\x01\x00\x00\x0E\x01\x01\x00.
+MID_DLC_News_Patch2_Title	Ver. 1.3.0
+MID_DLC_News_Patch2	Erweiterungspass\n\n・ Emblem Chrom (mit Daraen) und Emblem Veronica wurden\n  hinzugefügt. Sie schließen sich dir und deiner Gruppe an, wenn\n  du ihre jeweiligen Göttlichen Kapitel erfolgreich beendest.\n\nGratis-Inhalt\n\n・ Der alte Brunnen ist nun im Somniel zu finden. Nutze ihn,\n  um Items, die du nicht mehr brauchst, gegen neue Items zu\n  tauschen.\n\n・ Fähigkeiten können nun sowohl in der Arena als auch in\n  der Ringkammer vererbt werden.
+MCID_G003_PREFIX	Göttliches Kapitel
+MCID_G003	Die einsame Erbin
+MCID_G003_PLACE	Helden-Heiligtum
+MCID_G003_OUTLINE	Auf einer Insel, die im Himmel\nschwebt, wurde ein Armring\ngesichtet.
+MCID_G006_PREFIX	Göttliches Kapitel
+MCID_G006	Der erhabene Hirte
+MCID_G006_PLACE	Altar des Schicksals
+MCID_G006_OUTLINE	Tief im Inneren eines ehrwürdigen\nTempels wurde ein Armring\ngesichtet.
+MID_RULE_G003_WIN	Emblem Veronica besiegen.
+MID_RULE_G006_WIN	Embleme Chrom & Daraen besiegen.
+MTID_StartupTile	Aktivierungsfeld
+MTID_MagicWall	Barriere
+MTID_Pond	Teich
+MPID_PhantomWolf	Mimesis
+MPID_H_PhantomWolf	Seelenlose Bestie, durch Geheim-\ntechniken erschaffen. Ohne eigenen\nWillen, folgt Befehlen ihres Meisters.
+MPID_Veronica	Veronica
+MPID_H_Veronica	Das Emblem der Helden. Eine\nPrinzessin mit der Macht, Helden\naus anderen Welten zu kontrollieren.
+MPID_Chrom	Chrom
+MPID_H_Chrom	Das Emblem der Bande. Ein\nerhabener Prinz, dem das Vertrauen\naller gehört. Will d. Schicksal ändern.
+MPID_Reflet	Daraen
+MPID_H_Reflet	Das Emblem der Bande. Taktiker,\nder sein Gedächtnis verloren hat,\naber nicht sein taktisches Geschick.
+MGID_Veronica	Veronica
+MGID_H_Veronica	Das Emblem der Helden. Besitzt\ngroße magische Macht und setzt im\nKampf Bücher und Stäbe ein.
+MGID_H_EnemyVeronica	Das erwachte Emblem aus dem\nArmring der einsamen Erbin.
+MGID_Chrom	Chrom
+MGID_H_Chrom	Das Emblem der Bande. Besiegt\nFeinde mit der Kraft des Schwertes\nund den Banden zu Verbündeten.
+MGID_H_EnemyChrom	Das erwachte Emblem aus dem\nArmring des erhabenen Hirten.
+MGID_Reflet	Daraen
+MGEID_Veronica	Helden
+MGEID_Chrom	Bande
+MJID_MageCannon	Magiekanonier
+MJID_H_MageCannon	Gepanzerter Infanterist, der mit einer\nHandkanone ausgerüstet ist. Führt\nFernangriffe aus.
+MJID_PhantomWolf	Phantomwolf
+MJID_H_PhantomWolf	Wölfe, die sich schnell bewegen.\nVerwirren Gegner durch Angriffe mit\nverfluchten Reißzähnen.
+MIID_Trahison	Représailles
+MIID_H_Trahison	Streitlanze, von der etwas\nÜberirdisches ausgeht.
+MIID_Levanche	Ahndung
+MIID_H_Levanche	Streitaxt, von der etwas\nÜberirdisches ausgeht.
+MIID_Chocolate	Bitterklinge
+MIID_H_Chocolate	Süß duftendes Schwert. Wurde es\nals Item verwendet, verschwindet es.\nStellt KP des Anwenders wieder her.
+MIID_SoftCream	Spirallanze
+MIID_H_SoftCream	Süß duftende Lanze. Wurde sie als\nItem verwendet, verschwindet sie.\nStellt KP des Anwenders wieder her.
+MIID_Lollipop	Lollischmackes
+MIID_H_Lollipop	Süß duftende Axt. Wurde sie als\nItem verwendet, verschwindet sie.\nStellt KP des Anwenders wieder her.
+MIID_Croissant	Knusprigbogen
+MIID_H_Croissant	Süß duftender Bogen. Wurde er als\nItem verwendet, verschwindet er.\nStellt KP des Anwenders wieder her.
+MIID_Tiramisu	Tiramisturm
+MIID_H_Tiramisu	Süß duftendes Buch. Wurde es als\nItem verwendet, verschwindet es.\nStellt KP des Anwenders wieder her.
+MIID_Dango	Leckermesser
+MIID_H_Dango	Süß duftendes Messer. Wurde es als\nItem verwendet, verschwindet es.\nStellt KP des Anwenders wieder her.
+MIID_Cupcake	Küchleinstab
+MIID_H_Cupcake	Süß duftender Stab. Stellt KP eines\nVerbündeten wieder her.
+MIID_Rollcake	Rührkuchen
+MIID_H_Rollcake	Süß duftende Schrift. Wurde sie als\nItem verwendet, verschwindet sie.\nStellt KP des Anwenders wieder her.
+MIID_Bullet_Power	Standardkanone
+MIID_H_Bullet_Power	Standardprojektil. Kein Folgeangriff\nmöglich. Bei entfernt stehenden\nZielen: Trf. der Einheit sinkt.
+MIID_Bullet_Magic	Magieprojektil
+MIID_H_Bullet_Magic	Magisches Projektil. Kein Folgeangr.\nmöglich. Bei entfernt stehenden\nZielen: Trf. der Einheit sinkt.
+MIID_Bullet_Freeze	Frostprojektil
+MIID_H_Bullet_Freeze	Magisches Projektil. 50 % Chance,\nGeg. einzufrieren. Kein Folgeangriff.\nBei entfernt stehenden Zielen:\nTrf. der Einheit sinkt.
+MIID_Bullet_Silence	Schweigeproj.
+MIID_H_Bullet_Silence	Mag. Projektil. 50 % Chance, beim\nGeg. Schweigen auszulösen. Kein\nFolgeangriff. Bei entfernt stehenden\nZielen: Trf. der Einheit sinkt.
+MIID_Bullet_Collapse	Bruchprojektil
+MIID_H_Bullet_Collapse	Mag. Projektil. 50 % Chance, den\nGeg. zu brechen. Kein Folgeangriff.\nBei entfernt stehenden Zielen:\nTrf. der Einheit sinkt.
+MIID_Bullet_Poison	Giftprojektil
+MIID_H_Bullet_Poison	Mag. Projektil, das tödlich vergiftet,\nwenn es trifft. Kein Folgeangriff.\nBei entfernt stehenden Zielen:\nTrf. der Einheit sinkt.
+MIID_Bullet_Slayer_Fly	Tornadoproje.
+MIID_H_Bullet_Slayer_Fly	Windmagieprojektil. Kein\nFolgeangriff. Bei entfernt stehenden\nZielen: Trf. der Einheit sinkt.\nEffektiv gegen: Flieger.
+MIID_Bullet_Slayer_Armor	Rüstprojektil
+MIID_H_Bullet_Slayer_Armor	Projektil, das gegen Gepanzerte\ngerichtet ist. Kein Folgeangriff.\nBei entfernt stehenden Zielen: Trf.\nder Einheit sinkt. Eff.: Gepanzerte.
+MIID_Bullet_Slayer_Horse	Reiterprojektil
+MIID_H_Bullet_Slayer_Horse	Projektil, das gegen Berittene\ngerichtet ist. Kein Folgeangriff. Bei\nentfernt stehenden Zielen: Trf. der\nEinheit sinkt. Effektiv gg.: Berittene.
+MIID_Bullet_Slayer_Dragon	Drachenproje.
+MIID_H_Bullet_Slayer_Dragon	Projektil, das gegen Drachen\ngerichtet ist. Kein Folgeangriff. Bei\nentfernt stehenden Zielen: Trf. der\nEinheit sinkt. Eff. gegen: Drachen.
+MIID_Bullet_Slayer_Morph	Hlg. Projektil
+MIID_H_Bullet_Slayer_Morph	Projektil, das gegen Verzerrte\ngerichtet ist. Kein Folgeangriff. Bei\nentfernt stehenden Zielen: Trf. der\nEinheit sinkt. Eff. gegen: Verzerrte.
+MIID_Bullet_Power+	Machtprojektil
+MIID_H_Bullet_Power+	Ein Projektil von großer Kraft.\nKein Folgeangriff. Bei entfernt\nstehenden Zielen: Trf. der Einheit\nsinkt.
+MIID_Bullet_Magic+	Verderbnispro.
+MIID_H_Bullet_Magic+	Ein mit mächtiger Magie versehenes\nProjektil. Kein Folgeangriff.\nBei entfernt stehenden Zielen:\nTrf. der Einheit sinkt.
+MIID_Bullet_Penetration	Negationproje.
+MIID_H_Bullet_Penetration	Projektil, das Ver./Res. des Gegners\nignoriert. Kein Folgeangriff.\nBei entfernt stehenden Zielen:\nTrf. der Einheit sinkt.
+MIID_Fang	Reißzähne
+MIID_H_Fang	Verfluchte Reißzähne. Initiiert die\nEinh. d. Kampf u. trifft, erhält d. Ziel\nnach d. Kampf max. KP -5. (Max. -20)
+MIID_Veronica_Hlidskjalf	Hliðskjálf
+MIID_H_Veronica_Hlidskjalf	Ein Stab von Emblem Veronica.\nInitiiert die Einheit den Kampf,\nkann der Gegner nicht kontern.
+MIID_Veronica_WholeHeal	Stärkung+
+MIID_H_Veronica_WholeHeal	Ein Stab von Emblem Veronica.\nHeilt KP und Statuseffekte bei allen\nVerbündeten. Radius: 7 Felder.
+MIID_Veronica_Elivagar	Élivágar
+MIID_H_Veronica_Elivagar	Mächtige Magie von Emblem\nVeronica. Negiert nach dem Kampf\nbeim Ziel alle Status-Boni für 1 Zug.
+MIID_Veronica_EngageAtk_R	Roter Stein
+MIID_Veronica_EngageAtk_B	Blauer Stein
+MIID_Veronica_EngageAtk_G	Grüner Stein
+MIID_Veronica_EngageAtk_N	Farbloser Stein
+MIID_Chrom_ThunderSword	Donnerschwert
+MIID_H_Chrom_ThunderSword	Magisches Schwert von Emblem\nDaraen. Kann Gegner aus der Distanz\nmit magischen Blitzen treffen.
+MIID_Chrom_Thoron	Thoron
+MIID_H_Chrom_Thoron	Mächtige Donnermagie von Emblem\nDaraen.
+MIID_Chrom_Falchion	Falchion
+MIID_H_Chrom_Falchion	Legendäres Schwert von Emblem\nChrom. Effektiv gegen: Drachen.
+MSID_SPConvert	FP-Wandel
+MSID_H_SPConvert	Verleiht +20 FP für jeden besiegten\nGegner. Wird auch ausgelöst, wenn\nkein Ring getragen wird.
+MSID_BloodyRevenge	Revanche
+MSID_H_BloodyRevenge	Hat die Einheit weniger als 100 %\nKP, erhält sie Agr. +X. (X = 30 % der\nDifferenz zwischen aktuellen KP und\nmax. KP)
+MSID_BloodyRevenge+	Revanche+
+MSID_H_BloodyRevenge+	Hat die Einheit weniger als 100 %\nKP, erhält sie Agr. +X. (X = 50 % der\nDifferenz zwischen aktuellen KP und\nmax. KP)
+MSID_BreakThroughLimit	Level-Schub
+MSID_H_BreakThroughLimit	Besiegt die Einheit einen Gegner mit\nhöherem Level als der der Einheit,\nerhält sie bis nach der Schlacht\nLv. +1. (Max. +3.)
+MSID_AnotherWorldsPower	Weltenbuch
+MSID_H_AnotherWorldsPower	Die Stufe des Weltenbuchs erhöht\nsich um 1, wenn die Einh. „Warten“\nin aufeinanderfolgenden Runden\nnutzt (max. 5). Löst d. Einh. d. Effekt\naus, werden d. Stufen zurückgesetzt.
+MSID_AnotherWorldsPower+1	Buch I: Siegel
+MSID_H_AnotherWorldsPower+1	Initiiert die Einheit den Kampf,\nwird der Gegner nach dem Kampf\neingefroren.
+MSID_AnotherWorldsPower+2	Buch II: Flamme
+MSID_H_AnotherWorldsPower+2	Initiiert die Einheit den Kampf, wird\nder Gegner eingefroren und sein\nFeld nach dem Kampf in Brand\ngesetzt.
+MSID_AnotherWorldsPower+3	Buch III: Tod
+MSID_H_AnotherWorldsPower+3	Initiiert die Einheit den Kampf, fügt\nsie 10 Schaden zu; der Gegner wird\neingefroren und sein Feld nach dem\nKampf in Brand gesetzt.
+MSID_AnotherWorldsPower+4	Buch IV: Traum
+MSID_H_AnotherWorldsPower+4	Initiiert die Einh. den Kampf, erhält\nsie KP = X zurück (X = zugefüg.\nSchaden). Geg. erleidet dann 10\nSchaden, wird eingefroren u. sein\nFeld nach d. Kampf in Brand gesetzt.
+MSID_AnotherWorldsPower+5	Buch V: Wissen
+MSID_H_AnotherWorldsPower+5	Init. Einh. d. Kampf, erhalten sie u.\nbenachb. Verb. KP = X zurück (X =\nzugefüg. Schaden). Geg. erleidet dann\n10 Schaden, wird eingefroren u. sein\nFeld n. d. Kampf in Brand gesetzt.
+MSID_VeronicaEngage	Kontrakt
+MSID_H_VeronicaEngage	Erlaubt einem benachbarten\nVerbündeten eine weitere Aktion\n(der Verbündete kann sich nicht\nbewegen).
+MSID_H_VeronicaEngage_CMD	Erlaubt 1 Verbündeten 1\nweitere Aktion (keine Bew.).
+MSID_H_VeronicaEngage_Dragon	Erlaubt einem benachbarten\nVerbündeten eine weitere Aktion\n(der Verb. kann sich nicht bewegen).\nDrache: Verleiht Verb. Stä./Mag./\nVer./Res. +2 während der Aktion.
+MSID_H_VeronicaEngage_Coop	Erlaubt einem benachbarten\nVerbündeten eine weitere Aktion\n(der Verb. kann sich nicht bewegen).\nAssistent: Die Einh. nimmt bei Verb.-\nAktion an einem Koop-Schlag teil.
+MSID_H_VeronicaEngage_Covert	Erlaubt einem benachbarten\nVerbündeten eine weitere Aktion\n(der Verb. kann sich nicht bewegen).\nVerstohlene: Verleiht Verbündeten\nTrf./Aw. +30 während der Aktion.
+MSID_VeronicaEngageAtk	Held beschwören
+MSID_H_VeronicaEngageAtk	Beschwört eine Einheit nach\ndem Zufallsprinzip.
+MSID_H_VeronicaEngageAtk_CMD	Beschwört eine Einheit nach\ndem Zufallsprinzip.
+MSID_VeronicaEngageAtk_CMD_R	\x0E\x08\x02\x12\x10RedStone (rot)
+MSID_H_VeronicaEngageAtk_CMD_R	Beschwört eine Einheit, die\nein Schwert führt.
+MSID_VeronicaEngageAtk_CMD_B	\x0E\x08\x02\x14\x12BlueStone (blau)
+MSID_H_VeronicaEngageAtk_CMD_B	Beschwört eine Einheit, die\neine Lanze führt.
+MSID_VeronicaEngageAtk_CMD_G	\x0E\x08\x02\x16\x14GreenStone (grün)
+MSID_H_VeronicaEngageAtk_CMD_G	Beschwört eine Einheit, die\neine Axt führt.
+MSID_VeronicaEngageAtk_CMD_W	\x0E\x08\x02\x16\x14WhiteStone (farblos)
+MSID_H_VeronicaEngageAtk_CMD_W	Beschwört Einh., die keine\nSchwerter/Äxte/Lanzen nutzt.
+MSID_H_VeronicaEngageAtk_Dragon	Erlaubt das Beschwören einer\nEinheit nach dem Zufallsprinzip.\nDrache: Beschwört eine machtvolle\nEinheit.
+MSID_H_VeronicaEngageAtk_Coop	Erlaubt das Beschwören einer\nEinheit nach dem Zufallsprinzip.\nAssistent: Die beschworene Einheit\nbesitzt die Fähigkeit „Doppelschlag“.
+MSID_H_VeronicaEngageAtk_Horse	Erlaubt das Beschwören einer\nEinheit nach dem Zufallsprinzip.\nBerittene: Die beschworene Einheit\nerhält Bew. +1.
+MSID_ByForce	Rohe Gewalt
+MSID_H_ByForce	Führt die Einheit einen physischen\nAngriff aus, fügen kritische Treffer\nhöheren Schaden zu.
+MSID_Charisma	Charme
+MSID_H_Charisma	Löst die Einheit einen Koop-Schlag\naus, erhöht sich die Genauigkeit\ndes Koop-Schlags auf 90 %.
+MSID_SuckerPunch	Überrasch.agr.
+MSID_H_SuckerPunch	Greift die Einheit von einem\nAw.-Gelände aus an, werden\ngegnerische Gegenangriffe\nverhindert.
+MSID_RainbowCry	Werte sammeln
+MSID_H_RainbowCry	Benachbarte Verbündete erhalten\n+3 auf 7 Statuswerte (1 Zug).
+MSID_Rooting	Sammeln
+MSID_H_Rooting_CMD	Benachbarte Verb. erhalten\n+3 auf alle Statuswerte.
+MSID_RainbowCry+	Werte sammeln+
+MSID_H_RainbowCry+	Verbündete innerhalb von 2 Feldern\nerhalten +3 auf alle Statuswerte\n(1 Zug).
+MSID_Rooting+	Sammeln+
+MSID_H_Rooting+_CMD	Verb. innerhalb von 2 Feldern\nerhalten +3 auf alle Statusw.
+MSID_ChromEngage	Andere Hälfte
+MSID_H_ChromEngage	Initiiert die Einheit den Kampf,\nschließt sich Daraen mit einem\nKoop-Schlag an. Mag. +10.
+MSID_H_ChromEngage_Dragon	Initiiert die Einheit den Kampf,\nschließt sich Daraen mit einem\nKoop-Schlag an. Mag. +10.\nDrache: Daraen führt\n2 Koop-Schläge aus.
+MSID_H_ChromEngage_Coop	Initiiert die Einheit den Kampf,\nschließt sich Daraen mit einem\nKoop-Schlag an. Mag. +10.\nAssistent: Der Koop-Schlag trifft\ngarantiert.
+MSID_H_ChromEngage_Covert	Initiiert die Einheit den Kampf,\nschließt sich Daraen mit einem\nKoop-Schlag an. Mag. +10.\nVerstohlene: Bew. +1.
+MSID_H_ChromEngage_Single	Löst diese Einheit Koop-Schläge\naus, treffen diese garantiert.\nStä. +5, Mag. +10.
+MSID_ChromEngageAtk	Giga-Donnerschwt.
+MSID_H_ChromEngageAtk	Angriff mit einem magischen\nSchwert. Eine magische Attacke,\ndie phys. Angriffskraft verwendet.\nNur Schwerter.
+MSID_H_ChromEngageAtk_Dragon	Angriff mit einem magischen\nSchwert. Eine magische Attacke,\ndie phys. Angriffskraft verwendet.\nNur Schwerter. – Drache: Zugefügter\nSchaden +X (X = 50 % von Stä.).
+MSID_H_ChromEngageAtk_Fly	Angriff mit einem magischen\nSchwert. Eine magische Attacke,\ndie phys. Angriffskraft verwendet.\nNur Schwerter. – Flieger: Zugefügter\nSchaden +X (X = Fig.).
+MSID_H_ChromEngageAtk_Magic	Angriff mit einem magischen\nSchwert. Eine magische Attacke, die\nphys. Angriffskraft verwendet. Nur\nSchwerter. – Mystische: Zugefügter\nSchaden +X (X = 50 % von Mag.).
+MSID_H_ChromEngageAtk_CMD	Angriff mit einem magischen\nSchwert.
+MSID_ChromEngageAtk+	Giga-Donnerschwt.+
+MSID_H_ChromEngageAtk+	Angriff mit einem magischen\nSchwert. Eine magische Attacke,\ndie physische Kraft verwendet. Nur\nSchwerter. Benachbarte Verbündete\nführen einen Koop-Schlag aus.
+MSID_H_ChromEngageAtk+_Dragon	Angriff mit mag. Schwert. Eine mag.\nAttacke, die phys. Kraft verwendet.\nNur Schwerter. Benachbarte Verb.\nführen Koop-Schlag aus. – Drache:\nZugef. Schad. +X (X = 50 % v. Stä.).
+MSID_H_ChromEngageAtk+_Fly	Angriff mit mag. Schwert. Eine mag.\nAttacke, die phys. Kraft verwendet.\nNur Schwerter. Benachbarte Verb.\nführen Koop-Schlag aus. – Flieger:\nZugefügter Schaden +X (X = Fig.).
+MSID_H_ChromEngageAtk+_Magic	Angriff mit mag. Schwert. Eine mag.\nAttacke, die phys. Kraft verwendet.\nNur Schwerter. Benachbarte Verb.\nführen Koop-Schlag aus. – Mystische:\nZugef. Schad. +X (X = 50 % v. Mag.).
+MSID_H_ChromEngageAtk+_CMD	Benachbarte Verb. führen\nKoop-Schlag aus.
+MSID_Mag_Tec_1	Mag./Beh. +1
+MSID_H_Mag_Tec_1	Verleiht Mag. +1 und Beh. +1.
+MSID_Mag_Tec_2	Mag./Beh. +2
+MSID_H_Mag_Tec_2	Verleiht Mag. +2 und Beh. +2.
+MSID_Mag_Tec_3	Mag./Beh. +3
+MSID_H_Mag_Tec_3	Verleiht Mag. +3 und Beh. +3.
+MSID_Mag_Tec_4	Mag./Beh. +4
+MSID_H_Mag_Tec_4	Verleiht Mag. +4 und Beh. +4.
+MSID_Mag_Tec_5	Mag./Beh. +5
+MSID_H_Mag_Tec_5	Verleiht Mag. +5 und Beh. +5.
+MSID_Tec_Spd_1	Ges./Beh. +1
+MSID_H_Tec_Spd_1	Verleiht Ges. +1 und Beh. +1.
+MSID_Tec_Spd_2	Ges./Beh. +2
+MSID_H_Tec_Spd_2	Verleiht Ges. +2 und Beh. +2.
+MSID_Tec_Spd_3	Ges./Beh. +3
+MSID_H_Tec_Spd_3	Verleiht Ges. +3 und Beh. +3.
+MSID_Tec_Spd_4	Ges./Beh. +4
+MSID_H_Tec_Spd_4	Verleiht Ges. +4 und Beh. +4.
+MSID_Tec_Spd_5	Ges./Beh. +5
+MSID_H_Tec_Spd_5	Verleiht Ges. +5 und Beh. +5.
+MSID_AntiKnifeArts_1	Messerwacht 1
+MSID_H_AntiKnifeArts_1	Ist der Gegner mit einem Messer\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -1.
+MSID_AntiKnifeArts_2	Messerwacht 2
+MSID_H_AntiKnifeArts_2	Ist der Gegner mit einem Messer\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -2.
+MSID_AntiKnifeArts_3	Messerwacht 3
+MSID_H_AntiKnifeArts_3	Ist der Gegner mit einem Messer\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -3.
+MSID_AntiKnifeArts_4	Messerwacht 4
+MSID_H_AntiKnifeArts_4	Ist der Gegner mit einem Messer\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -4.
+MSID_AntiKnifeArts_5	Messerwacht 5
+MSID_H_AntiKnifeArts_5	Ist der Gegner mit einem Messer\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -5.
+MSID_AntiSwordArts_1	Schwertwacht 1
+MSID_H_AntiSwordArts_1	Ist der Gegner mit einem Schwert\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -1.
+MSID_AntiSwordArts_2	Schwertwacht 2
+MSID_H_AntiSwordArts_2	Ist der Gegner mit einem Schwert\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -2.
+MSID_AntiSwordArts_3	Schwertwacht 3
+MSID_H_AntiSwordArts_3	Ist der Gegner mit einem Schwert\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -3.
+MSID_AntiSwordArts_4	Schwertwacht 4
+MSID_H_AntiSwordArts_4	Ist der Gegner mit einem Schwert\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -4.
+MSID_AntiSwordArts_5	Schwertwacht 5
+MSID_H_AntiSwordArts_5	Ist der Gegner mit einem Schwert\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -5.
+MSID_JobSkill_MageCanon	Angriffshagel
+MSID_H_JobSkill_MageCanon	Erlaubt es der Einheit, zu Beginn\nder nächsten Spielerphase einen\nFlächenangriff mit Treffergarantie\nauszuführen. Die Einheit verliert\nihre ausgerüstete Waffe.
+MSID_H_JobSkill_MageCanon_CMD	Ein Hagel aus Angriffen mit\ngroßer Rw. Treffer garantiert.
+MSID_JobSkill_Wolf	Rudeljagd
+MSID_H_JobSkill_Wolf	Verbündete, die dieselbe Klasse wie\ndie Einheit haben und sich innerhalb\nvon 3 Feldern zu ihr befinden,\nbeteiligen sich an Koop-Schlägen.
+MID_BONDSRING_Chrom00	Prinz aus dem Königreich Ylisse,\neinem Land in einer anderen Welt.
+MID_BONDSRING_Chrom01	Er erkämpfte sich eine Zukunft mit\ndem heiligen Schwert Falchion.
+MID_BONDSRING_Reflet00	Dieser geheimnisvolle Fremde\nwurde zu Chroms Freund.
+MID_BONDSRING_Reflet01	Ihr unzerstörbares Band wurde in\nder Glut des Krieges geschmiedet.
+MID_BONDSRING_Veronica00	Tochter des Kaisers von Embla,\neinem Land in einer anderen Welt.
+MID_BONDSRING_Veronica01	Ihr ruhiges Auftreten verbirgt ihre\nbeunruhigende Präsenz kaum.
+MGID_Ring_Chrom	Armring des erhabenen Hirten
+MGID_H_Ring_Chrom	Armring, in dem Chrom schläft. Ein\nerhabener Prinz, dem das Vertrauen\naller gehört. Will d. Schicksal ändern.
+MGID_Ring_Reflet	Armring des erhabenen Hirten
+MGID_H_Ring_Reflet	Armring, in dem Daraen schläft. Tak-\ntiker, der sein Gedächtnis verloren\nhat, aber nicht sein takt. Geschick.
+MGID_Ring_Veronica	Armring der einsamen Erbin
+MGID_H_Ring_Veronica	Armring, in d. Veronica schläft. Eine\nPrinzessin mit der Macht, Helden\naus anderen Welten zu kontrollieren.
+MGID_World_Chrom	Welt der Erhabenen
+MGID_World_Reflet	Welt der Erhabenen
+MGID_World_Veronica	Welt der jungen Prinzessin
+MID_RELAY_Stamp_Chrom_0	Du kannst dich jederzeit auf mich verlassen.
+MID_RELAY_Stamp_Reflet_0	Ich habe eine neue Strategie...
+MID_RELAY_Stamp_Veronica_0	So viele... wie ungerecht.
+MID_BGM_DLC_Field_S16_Combat_ST_Play	Prüfung der Helden (Hört unser Rufen)
+MID_BGM_DLC_Field_S16_Map_ST_Play	Prüfung der Helden
+MID_BGM_Evt_Advent_Veronica_ST_Play	Hört unser Rufen
+MID_Hub_Well	Alter Brunnen
+MID_Hub_Area_Event	Neues Ereignis
+MID_Hub_Area_ItemReturn	Neue Items
+MID_Hub_Well_TitleHelp	Was möchtest du tun?
+MID_Hub_Well_ItemExchange	Itemwandlung
+MID_Hub_Well_ItemExchange_TitleHelp	Wähle überzählige Items aus.
+MID_Hub_Well_ItemExchange_Expected	Erwartung
+MID_Hub_Well_ItemExchange_Dialog_Title	Diese Items umwandeln?
+MID_Hub_Well_ItemExchange_Dialog_Before	Ausgewählte Items
+MID_Hub_Well_ItemExchange_Dialog_Yes	Umwandeln
+MID_Hub_Well_ItemExchange_Get	Erhalten
+MID_Hub_Well_ItemExchange_Message	Du hast etwas in den Brunnen geworfen.\nSieh nach der nächsten Schlacht nach, ob\netwas Neues hier liegt.
+MID_Hub_Well_Nothing1	Eine geheimnisvolle Präsenz ist spürbar...
+MID_Hub_Well_Nothing2	Hier scheint momentan nichts zu sein.
+PCTMID_Chrom	„Verlass dich auf mich.“
+PCTMID_Reflet	„Ich brauche eine Strategie...“
+PCTMID_Veronica	„Du gehörst mir...“
+MID_Movie_K19	Emblem Veronica
+MID_H_Movie_K19	Emblem Veronica, beschworen aus dem\nArmring der einsamen Erbin.
+MID_Movie_K18	Emblem Chrom
+MID_H_Movie_K18	Emblem Chrom, beschworen aus dem\nArmring des erhabenen Hirten.
+MID_MAP_HIS_EngageSummon	\x0E\x01\x00\x00 verwendete „Held beschwören“
+MID_MAP_HIS_Contract	\x0E\x01\x00\x00 verwendete „Kontrakt“.
+MID_MAP_HIS_FullBullet	\x0E\x01\x00\x00 verwendete „Angriffshagel“.

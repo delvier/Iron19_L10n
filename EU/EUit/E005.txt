@@ -1,0 +1,337 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x18\x12E005_Boss\x021\n\x0E\x03\x02\x14\x12E005_Boss\nSfiderai il destino, spazzerai via le angosce\ne forgerai legami con i tuoi alleati?\x0E\x04\x02\x00
+MID_OP1_#002	La tua metà rimarrà al tuo fianco?\x0E\x04\x02\x00
+MID_OP1_#003	Re e regine sono svaniti come neve al\nsole, volati via come sabbia al vento.\x0E\x04\x02\x00
+MID_OP1_#004	Chi rimane? Un estraneo dall'aria familiare,\nuna persona cara di cui non conosci il nome.\x0E\x04\x02\x00
+MID_OP1_#005	Solo una persona possiede la verità.\x0E\x04\x02\x00
+MID_OP1_#006	In questo mondo non esiste il vuoto.\nIl tuo sogno non si avvererà.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_マデリーン\x021\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x00\x16\x10M011_モーヴ\x023\n\x0E\x03\x00\x1C\x16E004_セレスティア\x024\n\x0E\x03\x02\x16\x14E004_マデリーン\nLady Nel non vuole proprio parlarci?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x16\x14E004_グレゴリー\nSi è completamente isolata. Seduta sotto un\nalbero, senza dire una parola... Non è da lei\nquesto comportamento.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x12\x10M011_モーヴ\nSarà mezz'ora che è lì. Forse dovremmo offrirle\nil nostro appoggio.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x18\x16E004_セレスティア\nMauvier, le questioni di cuore sono un concetto\na te sconosciuto, vero?\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x12\x10M011_モーヴ\nNon ti seguo.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nLady Nel ha appena rivelato i suoi sentimenti...\nun amore che ha tenuto nascosto per molti\nanni.\x0E\x04\x02\x00
+MID_OP2_#007	È normale che voglia un po' di tempo per sé,\ndopo questa ordalia.\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x12\x10M011_モーヴ\nAh. Ora ho capito.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x16\x14E004_グレゴリー\nI cuori degli innamorati sono fragili.\nVanno trattati con delicatezza, caro il mio\nomaccione.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x16\x14E004_マデリーン\nParli per esperienza, Gregory? Sei mai stato\ninnamorato?\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x16\x14E004_グレゴリー\nNo. Ma mi hanno detto che è spaventoso\ne inebriante allo stesso tempo. E tu?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x16\x14E004_マデリーン\nIo?! Beh, ecco...\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x12\x10M011_モーヴ\nMh?\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x16\x14E004_マデリーン\nQ-Qual era la domanda?!\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x18\x16E004_セレスティア\nMi dispiace lasciare soli lord Nil e il Drago\nDivino così a lungo, ma lady Nel ha bisogno del\nsuo tempo.\x0E\x04\x02\x00
+MID_OP2_#016	Se solo ci fosse un modo per farla riunire con\nil suo vero amore...\x0E\x04\x02\x00
+MID_OP2_#017	Sappiamo quanto fosse affezionata al Drago\nDivino.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x16\x14E004_グレゴリー\nL'unico problema è che era l'altro Drago Divino,\nnon questo.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x18\x16E004_セレスティア\nCredi che non lo sappia? Vorrei solo vederla\nfelice, tutto qui.\x0E\x04\x02\x00
+MID_OP2_#020	Merita tutta la felicità possibile.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x16\x14E004_マデリーン\nI cavalieri fedeli non possono che desiderare\nil meglio per i propri padroni.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x12\x10M011_モーヴ\nFinalmente un concetto alla mia portata, non\ncome le "questioni di cuore".\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x18\x16E004_セレスティア\nBene, ora ci capiamo.\x0E\x04\x02\x00
+MID_OP2_#024	Spero che vi sia chiaro quanto io tenga non solo\na lei, ma anche a voi.\x0E\x04\x02\x00
+MID_OP2_#025	Dobbiamo restare uniti e proteggerci a vicenda.\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x02\x10\x0EE005_エル\nVi ringrazio per avermi dato tempo.\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x18\x16E004_セレスティア\nEra il minimo, lady Nel.\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x16\x14E004_グレゴリー\nStai un po' meglio?\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x10\x0EE005_エル\nSì. Ho avuto modo di riflettere. Grazie e scusate\nancora per l'attesa.\x0E\x04\x02\x00
+MID_OP2_#030	Solo ora mi sono concessa il tempo di elaborare\nla perdita della persona che amavo.\x0E\x04\x02\x00
+MID_OP2_#031	E ho anche riflettuto sui guai che vi ho causato.\nMi dispiace davvero, avrei dovuto dirvelo che\nle famiglie reali erano delle aberrazioni.\x0E\x04\x02\x00
+MID_OP2_#032	Non potrei desiderare dei confidenti più leali,\navrei dovuto rivelarvi tutto.\x0E\x04\x00\x00
+MID_OP2_#033	\x0E\x03\x02\x12\x10M011_モーヴ\nLe vostre parole ci onorano, lady Nel. Sono\nsicuro che anche lord Nil ne sarebbe confortato.\x0E\x04\x00\x00
+MID_OP2_#034	\x0E\x03\x02\x10\x0EE005_エル\nNaturalmente, devo le mie scuse anche al Drago\nDivino. Ho avuto un comportamento oltremodo\nirrispettoso nei suoi confronti.\x0E\x04\x02\x00
+MID_OP2_#035	Spero che riusciremo a lasciarci tutto alle spalle\ne che questo momento segni l'inizio di una\nnuova amicizia.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x18\x16E004_セレスティア\nMi sembra un piano ammirevole! Ora torniamo\ndagli altri, saranno stanchi di aspettarci.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x10\x0EE005_エル\nQuesta volta non avrò paura di affrontarti a viso\naperto, Drago Divino.\x0E\x04\x02\x00
+MID_OP2_#038	Metterò da parte il dolore che provo per il mio\namore perduto e cercherò di vederti per la\npersona che sei.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x1C\x16E004_セレスティア\x022\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x023\n\x0E\x03\x00\x1A\x14E004_マデリーン\x024\n\x0E\x03\x02\x10\x0EE005_エル\nSiamo qui.\x0E\x04\x02\x00
+MID_OP3_#002	Drago Divino? Nil?\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x02\x18\x16E004_セレスティア\nChe strano. Non c'è nessuno.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x16\x14E004_グレゴリー\nForse abbiamo sbagliato posto?\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x16\x14E004_マデリーン\nNon mi pare. La direzione era quella giusta e il\npaesaggio è familiare.\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nDetesto sollevare l'ipotesi, ma potrebbero\nessere caduti in un'imboscata.\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x00\x18\x12E005_Boss\x023\n\x0E\x03\x02\x14\x12E005_Boss\nNel, amici miei! Che piacere rivedervi.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x10\x0EE005_エル\nNil... Allora stai bene. Che sollievo.\x0E\x04\x00\x00
+MID_OP3_#009	\x0E\x03\x02\x14\x12E005_Boss\nÈ successo un guaio. I bracciali sono spariti.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x10\x0EE005_エル\nSpariti? Come?!\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x14\x12E005_Boss\nLi ha presi il Drago Divino, prima di andarsene.\x0E\x04\x02\x00
+MID_OP3_#012	Temo che voglia fare tutto da sol\x0E\x0A\x00\x08\x02o\x02a.\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x12\x10M011_モーヴ\nDobbiamo raggiungerl\x0E\x0A\x00\x08\x02o\x02a, non c'è tempo da\nperdere.\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x14\x12E005_Boss\nSono riuscito a lanciar\x0E\x0A\x00\x0E\x06gli\x04le un incantesimo di\ntracciamento poco prima che scappasse.\nCi basterà seguire la scia.\x0E\x04\x02\x00
+MID_OP3_#015	Non ho avuto il coraggio di inseguirl\x0E\x0A\x00\x08\x02o\x02a,\npurtroppo. Non mi sentivo tranquillo a\nsepararmi da voi.\x0E\x04\x02\x00
+MID_OP3_#016	Spero che vogliate perdonare la mia\nvigliaccheria.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x10\x0EE005_エル\nNon preoccuparti, Nil. Hai fatto bene, hai preso\nla decisione più saggia.\x0E\x04\x02\x00
+MID_OP3_#018	Ora, però, facci strada.\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x14\x12E005_Boss\nCon piacere.\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x10\x0EE005_エル\nMi sento responsabile per l'accaduto. La colpa\nè solo mia.\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x14\x12E005_Boss\n...\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x18\x12E005_Boss\x022\n\x0E\x03\x02\x10\x0EE005_エル\nSiamo finiti in Solm. Chissà che intenzioni ha\nil Drago Divino.\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x02\x14\x12E005_Boss\nQui vicino. In effetti, la scia del mio incantesimo\nfinisce proprio... in questo punto.\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x02\x10\x0EE005_エル\nSembra un tempio.\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x14\x12E005_Boss\nEntriamo.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x14\x0EE005_エル\x021\n\x0E\x03\x00\x18\x12E005_Boss\x022\n\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x00\x1E\x18E005_異形兵_セイジ\x024\n\x0E\x03\x02\x10\x0EE005_エル\nÈ buio, fate attenzione a dove mettete i piedi.\x0E\x04\x02\x00
+MID_OP5_#002	Sei sicuro che il Drago Divino si trovi qui\ndentro?\x0E\x04\x00\x00
+MID_OP5_#003	\x0E\x03\x02\x14\x12E005_Boss\nRagionevolmente sicuro.\x0E\x04\x02\x00
+MID_OP5_#004	Attenzione, dietro di voi!\x0E\x04\x00\x00
+MID_OP5_#005	\x0E\x03\x02\x1A\x18E005_異形兵_セイジ\nGrrrrr...\x0E\x04\x00\x00
+MID_OP5_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nAberrazioni?!\x0E\x04\x00\x00
+MID_OP5_#007	\x0E\x03\x00\x1A\x14E004_グレゴリー\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nOh, mamma! Sono tantissime!\x0E\x04\x00\x00
+MID_OP5_#008	\x0E\x03\x02\x10\x0EE005_エル\nLe affronteremo. Resta dietro di me, Nil.\x0E\x04\x00\x00
+MID_OP5_#009	\x0E\x03\x02\x14\x12E005_Boss\n...\x0E\x04\x00\x00
+MID_OP5_#010	\x0E\x03\x02\x10\x0EE005_エル\nNil?\x0E\x04\x00\x00
+MID_OP5_#011	\x0E\x03\x02\x14\x12E005_Boss\nApprezzo le premure, cara sorellina, ma non\nmi serve la tua protezione.\x0E\x04\x02\x00
+MID_OP5_#012	Confesso che ho sempre disprezzato questo\nlato di te. La tua aria di superiorità.\x0E\x04\x00\x00
+MID_OP5_#013	\x0E\x03\x02\x10\x0EE005_エル\nCosa?\x0E\x04\x00\x00
+MID_OP5_#014	\x0E\x03\x02\x14\x12E005_Boss\nAhahah. Ma guardati. Sveglia, Nel! Qui non c'è\nnessun Drago Divino!\x0E\x04\x00\x00
+MID_OP5_#015	\x0E\x03\x02\x10\x0EE005_エル\nNon capisco cosa intendi dire.\x0E\x04\x00\x00
+MID_OP5_#016	\x0E\x03\x02\x18\x16E004_セレスティア\nLord Nil, sono opera vostra quelle aberrazioni?!\x0E\x04\x00\x00
+MID_OP5_#017	\x0E\x03\x00\x1A\x14E004_マデリーン\x024\n\x0E\x03\x02\x16\x14E004_マデリーン\nNo... Dev'esserci un errore. Lord Nil non sapeva\ndove ci stava portando.\x0E\x04\x00\x00
+MID_OP5_#018	\x0E\x03\x02\x14\x12E005_Boss\nNe sei proprio sicura? Forse questo ti farà\ncambiare idea.\x0E\x04\x00\x00
+MID_OP5_#019	\x0E\x03\x02\x10\x0EE005_エル\nMa è l'emblema Chrom. Dovrebbe essere\naddormentato.\x0E\x04\x00\x00
+MID_OP5_#020	\x0E\x03\x02\x14\x12E005_Boss\nVi serve un disegnino? Il vostro malfattore\nmisterioso ha il potere di risvegliare gli emblemi.\x0E\x04\x02\x00
+MID_OP5_#021	Ed è proprio qui davanti a voi.\x0E\x04\x02\x00
+MID_OP5_#022	Non sono un fallito senza poteri. Porterò a\ncompimento i piani di lord Sombron!\x0E\x04\x00\x00
+MID_OP5_#023	\x0E\x03\x02\x10\x0EE005_エル\nMa tu sei mio fratello.\x0E\x04\x02\x00
+MID_OP5_#024	Siamo sempre stati assieme, come due metà di\nun intero! Non puoi essere tu il nostro nemico.\x0E\x04\x00\x00
+MID_OP5_#025	\x0E\x03\x02\x14\x12E005_Boss\nE chi potrebbe essere, se non io? Non rimane\nnessuno. I nostri fratelli e sorelle sono tutti\nmorti.\x0E\x04\x02\x00
+MID_OP5_#026	Li ho eliminati personalmente. Con un'unica\neccezione, naturalmente.\x0E\x04\x00\x00
+MID_OP5_#027	\x0E\x03\x02\x10\x0EE005_エル\n...!\x0E\x04\x00\x00
+MID_OP5_#028	\x0E\x03\x02\x14\x12E005_Boss\nTutto chiaro, ora? Bene.\x0E\x04\x02\x00
+MID_OP5_#029	Addio, cara sorella. Sarai sepolta assieme ai\ntuoi quattro amichetti.\x0E\x04\x02\x00
+MID_OP5_#030	Nel mentre, mi godrò uno spuntino a base\ndel Drago Divino che tanto ami.\x0E\x04\x00\x00
+MID_OP5_#031	\x0E\x03\x02\x10\x0EE005_エル\nNil... Come puoi fare questo?\x0E\x04\x00\x00
+MID_OP5_#032	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nLady Nel, vi scongiuro... Non è il momento di\nfarsi domande!\x0E\x04\x00\x00
+MID_OP5_#033	\x0E\x03\x00\x1A\x14E004_グレゴリー\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nSiamo confusi anche noi, ma le aberrazioni\nnon saranno così gentili da aspettarci mentre\nraccogliamo le idee!\x0E\x04\x00\x00
+MID_OP5_#034	\x0E\x03\x02\x10\x0EE005_エル\nSono tante, ma noi siamo forti. Devo solo\ntrasformarmi...\x0E\x04\x02\x00
+MID_OP5_#035	Nil ha la mia pietra drago.\x0E\x04\x02\x00
+MID_OP5_#036	E il Drago Divino è in pericolo mentre noi siamo\nbloccati qui.\x0E\x04\x00\x00
+MID_OP5_#037	\x0E\x03\x02\x18\x16E004_セレスティア\nLady Nel, lasciate fare a noi.\x0E\x04\x00\x00
+MID_OP5_#038	\x0E\x03\x02\x10\x0EE005_エル\nNo, Zelestia.\x0E\x04\x00\x00
+MID_OP5_#039	\x0E\x03\x02\x18\x16E004_セレスティア\nForse non ne usciremo tutti vivi, ma vi apriremo\nla strada per fuggire.\x0E\x04\x02\x00
+MID_OP5_#040	Presto! Scappate via da questo tempio e andate\ndal Drago Divino!\x0E\x04\x00\x00
+MID_OP5_#041	\x0E\x03\x02\x10\x0EE005_エル\nNo. Non posso lasciarvi qui!\x0E\x04\x00\x00
+MID_OP5_#042	\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x12\x10M011_モーヴ\nZelestia ha ragione. Dovete andare. Siete l'unica\nin grado di fermare lord Nil.\x0E\x04\x00\x00
+MID_OP5_#043	\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x02\x16\x14E004_グレゴリー\nSiamo sempre stati famosi per le nostre fughe.\nLasciaci fare gli eroi, per una volta.\x0E\x04\x00\x00
+MID_OP5_#044	\x0E\x03\x00\x1A\x14E004_マデリーン\x023\n\x0E\x03\x02\x16\x14E004_マデリーン\nSarà un onore liberarvi la strada.\x0E\x04\x00\x00
+MID_OP5_#045	\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x02\x18\x16E004_セレスティア\nLady Nel, è il momento. Andate!\x0E\x04\x00\x00
+MID_OP5_#046	\x0E\x03\x02\x10\x0EE005_エル\nE sia.\x0E\x04\x02\x00
+MID_OP5_#047	Quattro Venti, ascoltate attentamente i miei\nordini.\x0E\x04\x02\x00
+MID_OP5_#048	Dovrete sopravvivere finché non ci ritroveremo!\nIntesi?\x0E\x04\x00\x00
+MID_OP5_#049	\x0E\x03\x02\x18\x16E004_セレスティア\nSissignora!\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x18\x12E005_Boss\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x14\x0EE005_エル\x023\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP6_#002	\x0E\x03\x02\x14\x12E005_Boss\nEccomi qui, Drago Divino.\x0E\x04\x00\x00
+MID_OP6_#003	\x0E\x03\x02\x0A\x08リュール\nNil.\x0E\x04\x00\x00
+MID_OP6_#004	\x0E\x03\x02\x14\x12E005_Boss\nMia sorella e i Quattro Venti sono stati sistemati\nper le feste.\x0E\x04\x00\x00
+MID_OP6_#005	\x0E\x03\x02\x0A\x08リュール\nNo...\x0E\x04\x02\x00
+MID_OP6_#006	Se le cose stanno così... uccidimi. Ma dubito\nche tu te la senta.\x0E\x04\x00\x00
+MID_OP6_#007	\x0E\x03\x02\x14\x12E005_Boss\nSu questo ti sbagli. Tuttavia, ho ancora un\nlavoretto per te. Vieni qui.\x0E\x04\x00\x00
+MID_OP6_#008	\x0E\x03\x02\x0A\x08リュール\nNon vengo da nessuna parte.\x0E\x04\x00\x00
+MID_OP6_#009	\x0E\x03\x02\x14\x12E005_Boss\nMa davvero?\x0E\x04\x00\x00
+MID_OP6_#010	\x0E\x03\x02\x0A\x08リュール\nHai detto di avere un lavoretto per me. E se\nmi rifiutassi di collaborare?\x0E\x04\x02\x00
+MID_OP6_#011	Non farò nulla che possa aiutarti a vincere.\x0E\x04\x00\x00
+MID_OP6_#012	\x0E\x03\x02\x14\x12E005_Boss\nOh, che crudeltà! L'amore di mia sorella non\nconta niente per te?\x0E\x04\x02\x00
+MID_OP6_#013	E io che già cominciavo a vederti come un\x0E\x0A\x00\x08\x02o\x02a di\nfamiglia. Mi hai proprio deluso.\x0E\x04\x00\x00
+MID_OP6_#014	\x0E\x03\x02\x0A\x08リュール\nRisparmiati la sceneggiata.\x0E\x04\x00\x00
+MID_OP6_#015	\x0E\x03\x02\x14\x12E005_Boss\nAhah. Non ti sfugge proprio nulla. Comunque,\nsappi che se rifiuti di collaborare, ti obbligherò\ncon la forza.\x0E\x04\x00\x00
+MID_OP6_#016	\x0E\x03\x02\x0A\x08リュール\nProvaci pure. Non mi piegherò al tuo volere.\x0E\x04\x00\x00
+MID_OP6_#017	\x0E\x03\x02\x14\x12E005_Boss\nC'è solo un modo per scoprirlo.\nSei curios\x0E\x0A\x00\x08\x02o\x02a?\x0E\x04\x00\x00
+MID_OP6_#018	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP6_#019	\x0E\x03\x02\x14\x12E005_Boss\nNel? Come è possibile?\x0E\x04\x00\x00
+MID_OP6_#020	\x0E\x03\x02\x10\x0EE005_エル\nDrago Divino! Per fortuna sei viv\x0E\x0A\x00\x08\x02o\x02a!\x0E\x04\x00\x00
+MID_OP6_#021	\x0E\x03\x02\x0A\x08リュール\nNel!\x0E\x04\x00\x00
+MID_OP6_#022	\x0E\x03\x02\x14\x12E005_Boss\nDavvero hai abbandonato i Quattro Venti al\nloro destino? Avrei dovuto immaginarlo.\x0E\x04\x00\x00
+MID_OP6_#023	\x0E\x03\x02\x10\x0EE005_エル\nNil. Fermati, prima che sia troppo tardi.\x0E\x04\x02\x00
+MID_OP6_#024	Nostro padre è morto. Non v'è motivo di\ncontinuare a perseguire i suoi piani.\x0E\x04\x02\x00
+MID_OP6_#025	I suoi progetti non devono per forza essere\nanche i tuoi. Non ha alcun senso combattere tra\ndi noi!\x0E\x04\x00\x00
+MID_OP6_#026	\x0E\x03\x02\x14\x12E005_Boss\nNon ha senso? Non sai niente tu dei miei\nprogetti.\x0E\x04\x02\x00
+MID_OP6_#027	Fatevi avanti, aberrazioni!\x0E\x04\x00\x00
+MID_OP6_#028	\x0E\x03\x02\x0A\x08リュール\nMa sono...\x0E\x04\x00\x00
+MID_OP6_#029	\x0E\x03\x02\x10\x0EE005_エル\nGli assassini del castello di Lythos. Allora c'eri\ntu dietro quell'attacco.\x0E\x04\x00\x00
+MID_OP6_#030	\x0E\x03\x02\x14\x12E005_Boss\nOvvio. Hai osato criticare le ambizioni del\nnostro nobile padre. Sei tu la fallita, e ho il\ndovere di ucciderti.\x0E\x04\x02\x00
+MID_OP6_#031	Ma basta chiacchiere. Sfodera le armi.\x0E\x04\x02\x00
+MID_OP6_#032	Te lo farò vedere io se questo scontro ha senso\noppure no!\x0E\x04\x00\x00
+MID_OP6_#033	\x0E\x03\x02\x10\x0EE005_エル\nTorna in te, Nil!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nNon muoverti, Drago Divino. Voglio che tu\nassista alla morte di tutti i tuoi alleati.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nNon sottovalutate le mie viverne aberranti.\nNon vedono l'ora di dilaniare il caro Drago\nDivino.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01"\x12E005_Boss\x0CNormal\n\x0E\x03\x02\x14\x12E005_Boss\nMa quando muoiono questi insetti? Basta così.\nUccideteli!\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nSembra divertente! Ho proprio voglia di\nspargere un po' di sangue! Mi serviranno delle\npedine.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01\x1C\x12E005_Boss\x06Shy\n\x0E\x03\x02\x14\x12E005_Boss\nVuoi uccidermi? E io che credevo fossimo amici.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01"\x12E005_Boss\x0CNormal\n\x0E\x03\x02\x14\x12E005_Boss\nAh... Alla fine mi hai colpito sul serio...\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide1\nNon ho pietà con i nemici...\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nNon è nulla il mio dolore... al confronto di ciò\nche ha provato papà...\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nNon ci siamo già incontrati al castello di\nLythos? Scusami sai, faccio fatica a ricordarmi\ntutto, di questi tempi.\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01$\x14E005_Hide2\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide2\nOps, mi hai sconfitto. Ahah. Ho perso il conto di\nquante volte mi è successo...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EE005_エル\x02t\n\x0E\x05\x01\x1A\x0EE005_エル\x08Pain\n\x0E\x03\x02\x10\x0EE005_エル\nNon siamo costretti a combattere, Nil. Siamo\nancora in tempo.\x0E\x04\x00\x00
+MID_BT7_#002	\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nAngry\n\x0E\x03\x02\x14\x12E005_Boss\nIn tempo per cosa? Parlare? Abbiamo già\nsuperato quella fase.\x0E\x04\x02\x00
+MID_BT7_#003	O ti aspetti forse che abbandoni i miei piani\ne mi arrenda come se nulla fosse? A che pro?\nDevo tornare a essere un fallimento?\x0E\x04\x00\x00
+MID_BT7_#004	\x0E\x03\x02\x10\x0EE005_エル\nNon è troppo tardi. Possiamo trovare una\nsoluzione. Spiegami i tuoi piani, aiutami a\ncapire.\x0E\x04\x00\x00
+MID_BT7_#005	\x0E\x03\x02\x14\x12E005_Boss\nHo intenzione di diventare potente e di\nucciderti. Non ti serve sapere altro, perché ora\nmorirai!\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12E005_Boss\x02b\n\x0E\x05\x01 \x12E005_Boss\nSmile\n\x0E\x03\x02\x14\x12E005_Boss\nAh, Drago Divino! Scusami per l'interruzione\ndi prima.\x0E\x04\x02\x00
+MID_BT8_#002	Se non vuoi combattere, una scelta ce l'hai.\nPassa dalla mia parte.\x0E\x04\x00\x00
+MID_BT8_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLasciami indovinare: vuoi anche che ti dia i\nsei bracciali.\x0E\x04\x02\x00
+MID_BT8_#004	Scommetto che non vedi l'ora di completare\nla tua collezione, visto che hai il settimo.\x0E\x04\x02\x00
+MID_BT8_#005	Ma non succederà. Te lo impedirò io.\x0E\x04\x00\x00
+MID_BT8_#006	\x0E\x05\x01\x1C\x12E005_Boss\x06Die\n\x0E\x03\x02\x14\x12E005_Boss\nAl posto tuo direi le stesse cose.\nChe scocciatura...\x0E\x04\x02\x00
+MID_BT8_#007	\x0E\x05\x01"\x12E005_Boss\x0CNormal\nSono stufo di questi giochetti, Drago Divino.\x0E\x04\x02\x00
+MID_BT8_#008	\x0E\x05\x01 \x12E005_Boss\nAngry\nSiccome sei anche \x0E\x0A\x00(\x12il nemico\x12la nemica giurat\x0E\x0A\x00\x08\x02o\x02a di mio\npadre, non mi farò problemi ad annientarti dopo\nche mi sarò preso quello che voglio.\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nTu saresti... me? Non mettermi i bastoni tra le\nruote.\x0E\x04\x02\x00
+MID_BT9_#002	I bracciali mi servono per riportare in vita papà.\x0E\x04\x00\x00
+MID_BT9_#003	\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nCapisco come ti senti, ci sono passata anch'io.\nMa non posso lasciartelo fare.\x0E\x04\x02\x00
+MID_BT9_#004	\x0E\x05\x01\x1A\x0Cオルテンシア\nSmile\nNon abbiamo scelta, sarà una lotta tra bellezze.\nChe vinca la più carina!\x0E\x04\x02\x00
+MID_BT9_#005	\x0E\x05\x01\x16\x0Cオルテンシア\x06Shy\nPotresti fartela una risata, però. Se dobbiamo\ncombattere, facciamo almeno in modo di\ndivertirci.\x0E\x04\x00\x00
+MID_BT9_#006	\x0E\x03\x02\x16\x14E005_Hide1\nDici che siamo carine, ma ti illudi. Ivy non fa\nche ripetermi che sono l'essere più miserabile\nche ci sia.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nIiih! Ivy! Volevo dire... Vostra maestà, mia\nregina...\x0E\x04\x02\x00
+MID_BT10_#002	\x0E\x05\x01 \x14E005_Hide1\x08Pain\nSei venuta a giustiziarmi come hai fatto con gli\naltri figli illegittimi di papà?\x0E\x04\x00\x00
+MID_BT10_#003	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nHortensia... Ma come ti tratta la Ivy di questo\nmondo?\x0E\x04\x00\x00
+MID_BT10_#004	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide1\nSei venuta a uccidermi, lo so.\x0E\x04\x02\x00
+MID_BT10_#005	\x0E\x05\x01 \x14E005_Hide1\x08Pain\nPerdonami, ma non accetterò la morte senza\nreagire. Mi vedo costretta a combattere.\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ロサード\x02t\n\x0E\x05\x01\x12\x08ロサード\x06Shy\n\x0E\x03\x02\x0A\x08ロサード\nCiao, Hortensia. Anche in questo mondo sei\ncarina... ma noto che ti manca la tua proverbiale\nautostima.\x0E\x04\x00\x00
+MID_BT12_#002	\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nRosado, sei tornato in vita... Non credo ai miei\nocchi, mi sei mancato tantissimo.\x0E\x04\x02\x00
+MID_BT12_#003	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\nDa quando ho perso i miei attendenti, la\ndisperazione ha preso il sopravvento su di me.\x0E\x04\x02\x00
+MID_BT12_#004	Sei rimasto ad affrontare le aberrazioni per\ndarmi l'opportunità di scappare e non ho avuto\nneanche l'occasione di ringraziarti.\x0E\x04\x02\x00
+MID_BT12_#005	\x0E\x05\x01\x1C\x08ロサード\x10Surprise\n\x0E\x05\x01&\x14E005_Hide1\x0ESerious\nA dire il vero... avrei preferito morire con te,\nquel giorno.\x0E\x04\x00\x00
+MID_BT12_#006	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x05\x01\x12\x08ロサード\x06Sad\n\x0E\x03\x02\x0A\x08ロサード\nDevi avere sofferto molto.\x0E\x04\x02\x00
+MID_BT12_#007	Il tuo Rosado ti ha protetta, e non sai quanto\nquesto mi faccia piacere. Purtroppo, lui non\npuò venire qui da te, ora.\x0E\x04\x02\x00
+MID_BT12_#008	Al massimo, posso fare in modo di mandarti\nda lui.\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01(\x14E005_Hide1\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide1\nGoldmary... Faccio fatica a riconoscerti.\x0E\x04\x00\x00
+MID_BT13_#002	\x0E\x03\x00\x12\x0Cゴルドマリー\x02t\n\x0E\x05\x01\x16\x0Cゴルドマリー\x06Sad\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nNon me ne stupisco. La mia eleganza è talmente\nabbagliante, che è impossibile da imprimere\nnella mente.\x0E\x04\x00\x00
+MID_BT13_#003	\x0E\x05\x01\x1E\x14E005_Hide1\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide1\nA dire il vero, sono sorpresa che tu abbia anche\nsolo un briciolo di eleganza.\x0E\x04\x02\x00
+MID_BT13_#004	Eri sempre così schiva e insicura... Ti mancava\ncarisma.\x0E\x04\x00\x00
+MID_BT13_#005	\x0E\x05\x01 \x0Cゴルドマリー\x10Surprise\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nAhah. Dev'esserci un errore.\x0E\x04\x02\x00
+MID_BT13_#006	Sicuramente mi state confondendo con\nqualcun'altra.\x0E\x04\x00\x00
+MID_BT13_#007	\x0E\x03\x02\x16\x14E005_Hide1\nTutto il nostro gruppo era così. Non volevamo\nattirare l'attenzione su di noi.\x0E\x04\x02\x00
+MID_BT13_#008	\x0E\x05\x01\x16\x0Cゴルドマリー\x06Sad\nEra un modo per sopravvivere... o così\ncredevamo.\x0E\x04\x02\x00
+MID_BT13_#009	Se fossi stata posata e aggraziata come ti vedo\nora... ti avrei presa a modello.\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide1\x02b\n\x0E\x05\x01$\x14E005_Hide1\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide1\nLindon... Quanto tempo.\x0E\x04\x00\x00
+MID_BT14_#002	\x0E\x03\x00\x0E\x08リンデン\x02t\n\x0E\x05\x01\x18\x08リンデン\x0CNormal\n\x0E\x03\x02\x0A\x08リンデン\nLa principessa Hortensia di questo mondo\nsembra una persona seria.\x0E\x04\x02\x00
+MID_BT14_#003	\x0E\x05\x01\x12\x08リンデン\x06Sad\nSo che siamo nemici, ma non ci riesco.\nEcco, volete un dolcetto dei miei?\x0E\x04\x02\x00
+MID_BT14_#004	\x0E\x05\x01\x16\x08リンデン\nSmile\nMi sono venuti bene, se posso dirmelo da solo.\nSono carini.\x0E\x04\x00\x00
+MID_BT14_#005	\x0E\x05\x01$\x14E005_Hide1\x0CStatus\n\x0E\x03\x02\x16\x14E005_Hide1\nNo, grazie. Le cose carine non fanno per me...\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nEhi, amico! Lascia che mi presenti. Sono te.\x0E\x04\x00\x00
+MID_BT15_#002	\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nAngry\n\x0E\x03\x02\x0C\nフォガート\nOh... Avrei detto anch'io quelle esatte parole.\nSei proprio me, non c'è che dire.\x0E\x04\x02\x00
+MID_BT15_#003	\x0E\x05\x01\x14\nフォガート\x06Shy\nMentirei se dicessi che non è sempre stato il\nmio sogno. Peccato che tu sia un cattivone.\x0E\x04\x00\x00
+MID_BT15_#004	\x0E\x05\x01$\x14E005_Hide2\x0CNormal\n\x0E\x03\x02\x16\x14E005_Hide2\nLo so, sono un farabutto. In realtà l'assassino\nincappucciato in Lythos... ero proprio io!\x0E\x04\x02\x00
+MID_BT15_#005	\x0E\x05\x01$\x14E005_Hide2\x0CStatus\n\x0E\x05\x01\x1E\nフォガート\x10Surprise\nVisto che sono così cattivo, sai che ti dico? Ti\nucciderò e prenderò il tuo posto nel tuo mondo.\x0E\x04\x02\x00
+MID_BT15_#006	\x0E\x05\x01"\x14E005_Hide2\nRelax\n\x0E\x05\x01\x18\nフォガート\nAngry\nMa pensa positivo! L'ultima cosa che vedrai\nsarà il tuo bel faccino.\x0E\x04\x00\x00
+MID_BT16_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01(\x14E005_Hide2\x10Surprise\n\x0E\x03\x02\x16\x14E005_Hide2\nTimerra? Non dovresti essere qui.\x0E\x04\x00\x00
+MID_BT16_#002	\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x14\nミスティラ\x06Sad\n\x0E\x03\x02\x0C\nミスティラ\nSì, capisco che la cosa possa confonderti...\x0E\x04\x00\x00
+MID_BT16_#003	\x0E\x05\x01\x1E\x14E005_Hide2\x06Sad\n\x0E\x03\x02\x16\x14E005_Hide2\nPuoi dirlo forte. Mi era giunta voce che Nel ti\navesse fagocitata.\x0E\x04\x00\x00
+MID_BT16_#004	\x0E\x03\x02\x0C\nミスティラ\nNon ero io, era la tua vera sorella. Io vengo da\nun altro mondo.\x0E\x04\x00\x00
+MID_BT16_#005	\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nAh! Questo spiega molte cose! Sai, ero un po'\ndispiaciuto che non fosse toccato a me l'onore\ndi eliminarla.\x0E\x04\x02\x00
+MID_BT16_#006	\x0E\x05\x01"\x14E005_Hide2\nRelax\nAvrei voluto essere io a ucciderla. Era il mio\nsogno, se vogliamo.\x0E\x04\x02\x00
+MID_BT16_#007	Mi sa che dovrò accontentarmi della sua sosia!\x0E\x04\x00\x00
+MID_BT18_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nPandreo, amico mio! Ah, che gioia rivederti.\x0E\x04\x02\x00
+MID_BT18_#002	Che ne dici se accantoniamo le armi e ci\ngodiamo una festicciola proprio qui? In onore\ndei vecchi tempi.\x0E\x04\x00\x00
+MID_BT18_#003	\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x14\x08パンドロ\x08Pain\n\x0E\x03\x02\x0A\x08パンドロ\nNo, Fogado. Farò in modo che tu possa riposare\nin pace. Vederti così è una tortura.\x0E\x04\x00\x00
+MID_BT18_#004	\x0E\x05\x01\x1C\x08パンドロ\x10Surprise\n\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nCome credi che mi senta a vedervi tutti allegri\ne in salute? Mi viene da piangere.\x0E\x04\x02\x00
+MID_BT18_#005	\x0E\x05\x01$\x14E005_Hide2\x0CStatus\nIl mio migliore amico Pandreo mi è morto\ndavanti agli occhi... freddato in un attimo.\x0E\x04\x00\x00
+MID_BT18_#006	\x0E\x05\x01\x12\x08パンドロ\x06Sad\n\x0E\x03\x02\x0A\x08パンドロ\nMi... dispiace tanto per te, Fogado.\x0E\x04\x00\x00
+MID_BT18_#007	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nBah, sai che ti dico? Non pensiamoci più.\nSo cosa potrebbe tirarmi su il morale.\x0E\x04\x02\x00
+MID_BT18_#008	\x0E\x05\x01"\x14E005_Hide2\nRelax\nUna bella freccia dritta dritta nella tua\nbigottissima gola!\x0E\x04\x00\x00
+MID_BT19_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1A\x14E005_Hide2\x02b\n\x0E\x05\x01"\x14E005_Hide2\nSmile\n\x0E\x03\x02\x16\x14E005_Hide2\nBunet, sei tu! Che bello vederti. Ne è passato\ndi tempo.\x0E\x04\x00\x00
+MID_BT19_#002	\x0E\x03\x00\x0A\x04ボネ\x02t\n\x0E\x05\x01\x0E\x04ボネ\x06Sad\n\x0E\x03\x02\x06\x04ボネ\nFogado... Che amarezza.\x0E\x04\x02\x00
+MID_BT19_#003	Se dovessi esprimerla in un piatto, lo troveresti\npiuttosto sgradevole.\x0E\x04\x00\x00
+MID_BT19_#004	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nTi piace cucinare? Che buffo. Il mio Bunet si\nteneva ben lontano dai fornelli, ed era meglio\ncosì, credimi.\x0E\x04\x02\x00
+MID_BT19_#005	\x0E\x05\x01"\x14E005_Hide2\nRelax\nCome affettava e grigliava i nemici lui, però, non\nc'era nessuno. Sapeva essere brutale.\x0E\x04\x02\x00
+MID_BT19_#006	\x0E\x05\x01\x1E\x14E005_Hide2\x06Sad\nPoi, un giorno, è arrivato il suo turno. L'ho visto\ncoperto del suo stesso sangue.\x0E\x04\x00\x00
+MID_BT19_#007	\x0E\x03\x02\x06\x04ボネ\nMi dispiace...\x0E\x04\x00\x00
+MID_BT19_#008	\x0E\x05\x01\x1E\x14E005_Hide2\x06Shy\n\x0E\x03\x02\x16\x14E005_Hide2\nEra di un brillante rosso scarlatto... Chissà se\nanche il tuo sangue ha lo stesso colore.\x0E\x04\x02\x00
+MID_BT19_#009	\x0E\x05\x01"\x14E005_Hide2\nRelax\nStavo pensando... Che ne dici se lo scopriamo\nsubito? Ti permetterò di assaggiarlo!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE005_エル\x022\n\x0E\x03\x00\x18\x12E005_敵クロム\x023\n\x0E\x06\x00*\x12E005_敵クロム\x14MPID_Chrom\n\x0E\x03\x00\x18\x12E005_Boss\x024\n\x0E\x03\x02\x0A\x08リュール\nNel, mi hai salvato la vita.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x10\x0EE005_エル\nNon avrei potuto sopportare l'idea di perderti.\x0E\x04\x02\x00
+MID_ED1_#003	Lascia che ti chieda scusa per come mi sono\ncomportata con te. Sono stata imperdonabile.\x0E\x04\x02\x00
+MID_ED1_#004	Ho peccato di fragilità, ti vedevo come il Drago\nDivino che ho perso. Non riuscivo ad accettarti\nper quello che sei.\x0E\x04\x02\x00
+MID_ED1_#005	Ora capisco tutto con chiarezza. Se me lo\npermetterai, spero di cominciare un nuovo\ncapitolo che segni l'inizio della nostra amicizia.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nCon piacere.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x10\x0EE005_エル\nTi ringrazio, Drago Divino.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nCredi che Nil stia bene?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x10\x0EE005_エル\nSembra solo privo di sensi. Prendiamoci il\nbracciale, finché possiamo.\x0E\x04\x02\x00
+MID_ED1_#010	Il bracciale dell'Eletto. L'unico che era già in\nnostro possesso al castello di Lythos.\x0E\x04\x02\x00
+MID_ED1_#011	Non avrei mai immaginato di trovarmi a\ncombattere contro di te, emblema Chrom.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x14\x12E005_敵クロム\nSapevo che avreste trionfato. Anche il futuro più\ncupo nasconde un barlume di speranza.\x0E\x04\x02\x00
+MID_ED1_#013	Che il vostro nuovo legame sia fonte di nuove\ngioie. Fatene tesoro.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nLo faremo.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x10\x0EE005_エル\nOra andiamo dai Quattro Venti, presto.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x14\x12E005_Boss\n...\x0E\x04\x02\x00
+MID_ED1_#017	Ahahah...\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x021\n\x0E\x03\x00\x1A\x14E004_マデリーン\x022\n\x0E\x03\x00\x16\x10M011_モーヴ\x023\n\x0E\x03\x00\x1C\x16E004_セレスティア\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nNgh... Sono troppe!\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x16\x14E004_マデリーン\nGià... Non facciamo in tempo a eliminarne una,\nche ne appare un'altra.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x12\x10M011_モーヴ\nNon potremo resistere ancora a lungo.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x02\x18\x16E004_セレスティア\nPotremmo nasconderci dietro all'altare, ripararci\nun attimo dai loro attacchi. Seguitemi!\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x021\n\x0E\x03\x00\x1A\x14E004_マデリーン\x022\n\x0E\x03\x00\x1C\x16E004_セレスティア\x023\n\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x16\x14E004_グレゴリー\nFiù... Finalmente possiamo prendere fiato.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x16\x14E004_マデリーン\nNon ci conterei troppo, fossi in te. I nemici\nfaranno irruzione da un momento all'altro.\nCosa facciamo ora?\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x18\x16E004_セレスティア\nL'uscita è una sola, ed è bloccata da un sigillo\nche fa apparire un'aberrazione dietro l'altra.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x16\x14E004_グレゴリー\nState dicendo che... siamo in trappola?\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x12\x10M011_モーヴ\nEsatto. Intrappolati in un tempio pieno di\naberrazioni.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x18\x16E004_セレスティア\nÈ un miracolo che lady Nel sia riuscita a\nscappare. Avrebbe potuto rimanere anche lei\nbloccata qui con noi.\x0E\x04\x02\x00
+MID_ED3_#007	Odio ammetterlo, ma temo che per noi non ci\nsia alcuna via di fuga. Non abbiamo molte\nsperanze di sopravvivere.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x16\x14E004_マデリーン\n...\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x12\x10M011_モーヴ\nHo un piano.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x16\x14E004_グレゴリー\nDavvero? Grandioso! Viva il vicecomandante!\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x12\x10M011_モーヴ\nUn piano per eliminare quante più aberrazioni\npossibile, pagando con la vita.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x16\x14E004_グレゴリー\nCos'hai detto?!\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x18\x16E004_セレスティア\nBene. Ti ascoltiamo.\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x12\x10M011_モーヴ\nSe continuiamo ad attaccarle una alla volta, non\notterremo grandi risultati. Ma se, invece, le\nschiacciassimo tutte assieme?\x0E\x04\x02\x00
+MID_ED3_#015	Potremmo dirigerci ai quattro angoli del tempio\ne distruggere le colonne portanti.\x0E\x04\x02\x00
+MID_ED3_#016	Il tempio crollerebbe, e con esso sparirebbero\nanche le aberrazioni.\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x02\x18\x16E004_セレスティア\nUhm...\x0E\x04\x00\x00
+MID_ED3_#018	\x0E\x03\x02\x12\x10M011_モーヴ\nSe tutto andasse secondo i piani, eviteremmo\nche inseguano lady Nel e il Drago Divino.\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x16\x14E004_グレゴリー\nGiusto per precisare... il tuo piano implica che\nanche noi finiamo spiaccicati?\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x12\x10M011_モーヴ\nSì.\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x18\x16E004_セレスティア\nPiano approvato.\x0E\x04\x02\x00
+MID_ED3_#022	Se tutte le strade ci conducono alla morte,\nfacciamo in modo di portare quelle ignobili\ncreature con noi, se non altro.\x0E\x04\x00\x00
+MID_ED3_#023	\x0E\x03\x02\x16\x14E004_マデリーン\nSembra l'opzione migliore tra quelle che\nabbiamo. Sono pronta.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x16\x14E004_グレゴリー\nIo, veramente... E va bene, ci sto.\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x02\x12\x10M011_モーヴ\nSiete tutti sicuri?\x0E\x04\x00\x00
+MID_ED3_#026	\x0E\x03\x02\x18\x16E004_セレスティア\nSaremo insieme, no? Almeno non dovremo\naffrontare la fine da soli.\x0E\x04\x00\x00
+MID_ED3_#027	\x0E\x03\x02\x16\x14E004_マデリーン\nGregory... Temo che sarà un po' doloroso.\x0E\x04\x00\x00
+MID_ED3_#028	\x0E\x03\x02\x16\x14E004_グレゴリー\nSì, lo penso anch'io. Non importa. Cercherò\ndi concentrarmi sul fatto che sarà l'ultimo\ndolore della mia vita. Ce la farò.\x0E\x04\x02\x00
+MID_ED3_#029	O meglio, spero di farcela... Sì, dai.\x0E\x04\x00\x00
+MID_ED3_#030	\x0E\x03\x02\x12\x10M011_モーヴ\nMadeline, tu sei ancora giovane.\x0E\x04\x02\x00
+MID_ED3_#031	Forse potrei cercare di distruggere due colonne\ne lasciarti libera di tentare la fuga.\x0E\x04\x00\x00
+MID_ED3_#032	\x0E\x03\x02\x16\x14E004_マデリーン\nPerché dici così? Hai paura che non sia\nall'altezza del compito?\x0E\x04\x00\x00
+MID_ED3_#033	\x0E\x03\x02\x12\x10M011_モーヴ\nNo, non fraintendermi...\x0E\x04\x00\x00
+MID_ED3_#034	\x0E\x03\x02\x16\x14E004_マデリーン\nNon posso accettare la tua offerta. Voglio\ncondividere lo stesso destino dei miei compagni,\nqualunque esso sia.\x0E\x04\x02\x00
+MID_ED3_#035	E poi il tuo piano, per avere successo, richiede\nla distruzione simultanea di tutte e quattro le\ncolonne.\x0E\x04\x00\x00
+MID_ED3_#036	\x0E\x03\x02\x12\x10M011_モーヴ\nInsisto. Non compiere un sacrificio solo per\ndiventare un'eroina. I morti non sanno cosa\nfarsene delle lodi.\x0E\x04\x00\x00
+MID_ED3_#037	\x0E\x03\x02\x16\x14E004_マデリーン\nLo so. Il mio mentore mi ha insegnato che non\nsono importanti le lodi, ma le imprese che\ncompiamo.\x0E\x04\x02\x00
+MID_ED3_#038	E, soprattutto, è importante vivere una vita\nproba, di cui essere orgogliosi.\x0E\x04\x00\x00
+MID_ED3_#039	\x0E\x03\x02\x12\x10M011_モーヴ\nNoto con piacere che sei diventata una perfetta\ncavaliera.\x0E\x04\x00\x00
+MID_ED3_#040	\x0E\x03\x02\x16\x14E004_マデリーン\nSo di poter affrontare qualsiasi cosa, ora\nche ho sentito le tue parole.\x0E\x04\x00\x00
+MID_ED3_#041	\x0E\x03\x00"\x1CE005_異形兵_ベルセルク\x022\n\x0E\x03\x02\x1E\x1CE005_異形兵_ベルセルク\nGrrrrr...\x0E\x04\x00\x00
+MID_ED3_#042	\x0E\x03\x02\x16\x14E004_グレゴリー\nCompagni. È giunto il gran momento.\x0E\x04\x00\x00
+MID_ED3_#043	\x0E\x03\x02\x18\x16E004_セレスティア\nSono contenta che ci sia stato concesso\nquest'ultimo momento assieme.\x0E\x04\x02\x00
+MID_ED3_#044	Vi voglio bene.\x0E\x04\x02\x00
+MID_ED3_#045	E ora... distruggiamole tutte!\x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x1C\x16E004_セレスティア\x021\n\x0E\x03\x00\x1A\x14E004_グレゴリー\x022\n\x0E\x03\x00\x1A\x14E004_マデリーン\x023\n\x0E\x03\x00\x16\x10M011_モーヴ\x024\n\x0E\x03\x02\x18\x16E004_セレスティア\nLady Nel... Le nostre strade si separano qui.\nPerdonateci per non aver tenuto fede al vostro\nultimo ordine.\x0E\x04\x02\x00
+MID_ED4_#002	Mi auguro dal profondo del cuore che voi e il\nDrago Divino troverete il modo di salvare lord\nNil... e di vivere una vita felice.\x0E\x04\x02\x00
+MID_ED4_#003	Quattro Venti, ascoltatemi! Questa è la nostra\nultima missione!\x0E\x04\x02\x00
+MID_ED4_#004	Distruggete le colonne!\x0E\x04\x00\x00
+MID_ED4_#005	\x0E\x03\x02\x16\x14E004_グレゴリー\nGaaah!\x0E\x04\x00\x00
+MID_ED4_#006	\x0E\x03\x02\x16\x14E004_マデリーン\nYaaah!\x0E\x04\x00\x00
+MID_ED4_#007	\x0E\x03\x02\x12\x10M011_モーヴ\nUgh!\x0E\x04\x00\x00
+MID_ED5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x14\x0EE005_エル\x022\n\x0E\x03\x00\x18\x12E005_Boss\x023\n\x0E\x03\x02\x0A\x08リュール\nCos'è stato? Ho sentito un rumore.\x0E\x04\x00\x00
+MID_ED5_#002	\x0E\x03\x02\x10\x0EE005_エル\nI Quattro Venti... No...\x0E\x04\x00\x00
+MID_ED5_#003	\x0E\x03\x02\x14\x12E005_Boss\nAhahahahah!\x0E\x04\x00\x00
+MID_ED5_#004	\x0E\x03\x02\x0A\x08リュール\nNil!\x0E\x04\x00\x00
+MID_ED5_#005	\x0E\x03\x02\x14\x12E005_Boss\nLe mie aberrazioni hanno svolto un lavoro\nimpeccabile, chi lo avrebbe mai detto. Il tempio\nè crollato.\x0E\x04\x02\x00
+MID_ED5_#006	A meno che i miei sensi non mi ingannino, non\nrestano sopravvissuti tra le macerie.\x0E\x04\x02\x00
+MID_ED5_#007	I Quattro Venti non esistono più.\x0E\x04\x00\x00
+MID_ED5_#008	\x0E\x03\x02\x10\x0EE005_エル\nNooo!\x0E\x04\x00\x00
+MID_ED5_#009	\x0E\x03\x02\x0A\x08リュール\nCome è potuto succedere?\x0E\x04\x00\x00
+MID_ED5_#010	\x0E\x03\x02\x10\x0EE005_エル\nCi ha ingannati, e dentro al tempio siamo stati\nattaccati da un gruppo di aberrazioni.\x0E\x04\x02\x00
+MID_ED5_#011	I Quattro Venti sono rimasti all'interno, per\npermettermi di scappare e venire da te.\x0E\x04\x00\x00
+MID_ED5_#012	\x0E\x03\x02\x0A\x08リュール\nOh, no...\x0E\x04\x00\x00
+MID_ED5_#013	\x0E\x03\x02\x14\x12E005_Boss\nPrima hai rifiutato di collaborare, Drago Divino.\nForse ora cambierai idea.\x0E\x04\x00\x00
+MID_ED5_#014	\x0E\x03\x02\x10\x0EE005_エル\nArgh!\x0E\x04\x00\x00
+MID_ED5_#015	\x0E\x03\x02\x0A\x08リュール\nNel!\x0E\x04\x00\x00
+MID_ED5_#016	\x0E\x03\x02\x14\x12E005_Boss\nSe la sua vita vale qualcosa per te, ci vediamo\nsull'isola che un tempo fluttuava tra le nuvole.\x0E\x04\x00\x00
+MID_ED5_#017	\x0E\x03\x02\x0A\x08リュール\nNil! Fermati!\x0E\x04\x02\x00
+MID_ED5_#018	E ora cosa faccio?\x0E\x04\x02\x00
+MID_ED5_#019	Un'isola che fluttuava tra le nuvole...\x0E\x04\x00\x00
+MID_ED6_#001	\x0E\x02\x02\x00\n\x0E\x03\x09\x00\n\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08ソンブル\nOrmai è trascorso del tempo da quando quei\ndue gemelli mi hanno voltato le spalle.\x0E\x04\x02\x00
+MID_ED6_#002	Presto, il nemico mi abbatterà. Forse riuscirò\na colpirlo a mia volta.\x0E\x04\x02\x00
+MID_ED6_#003	Ma tutto questo non ha importanza. Gli\ningranaggi si sono messi in moto. Ciò che non\nho concluso io sarà terminato dal mio erede.\x0E\x04\x02\x00
+MID_ED6_#004	Il Drago Divino, invece, morirà senza una\ndiscendenza. Che miserabile.\x0E\x04\x02\x00
+MID_ED6_#005	Le mie pedine si spostano imperterrite a mio\npiacimento.\x0E\x04\x02\x00
+MID_ED6_#006	Una cosa mi domando. Per quanto ancora mio\nfiglio si fingerà il gemello che non è?\x0E\x04\x02\x00
+MID_ED6_#007	Il vero gemello di Nel non esiste più.\x0E\x04\x02\x00
+MID_ED6_#008	Quel fallito è morto tanto tempo fa.\x0E\x04\x00\x00

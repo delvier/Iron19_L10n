@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\nWas ist das? Da hinten... Ist das ein Thron?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ベレト\nEs sieht hier aus wie in der heiligen Gruft.\nEin Ort aus meiner Welt.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nWas ist die heilige Gruft?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ベレト\nDer Ort, an dem die Göttin Sothis schläft.\nEs ist der heiligste Ort für die Kirche der Seiros.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ベレト\nUm das Grab zu schützen, wurde darüber ein\nKloster errichtet.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nGut, aber warum ist dieser Ort dann hier?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06ベレト\nNur eine Handvoll Auserwählter weiß von der\nLegende über Seiros und die heilige Gruft.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ベレト\nEs heißt, die Göttin habe der Heiligen Seiros\nMacht offenbart und eine heilige Aufgabe\nverliehen.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ベレト\nSie sollte die Einwohner Fódlans erretten und\nihre Kraft weise einsetzen, um sie zu leiten.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ベレト\nVielleicht war es unvermeidlich, dass wir hierher\ngeleitet wurden.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nWarum sagt Ihr das?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ベレト\nWenn die Bande zwischen uns stärker werden\nsollen, müsst Ihr Euch einer Prüfung unter-\nziehen.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nIch verstehe. Möchtet Ihr, dass ich gegen Euch\nkämpfe, Byleth?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ベレト\nZeigt mir, ob Ihr imstande seid, die auf Eurer\nbisherigen Reise gewonnene Kraft weise\neinzusetzen.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nVerstanden.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06ベレト\nIch kann in Euren Augen kein Zögern erkennen.\nGut. Wappnet Euch!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nIch bin bereit. Und ich halte mich nicht zurück!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x16\x06ベレト\x0CNormal\n\x0E\x03\x02\x08\x06ベレト\nUm den Kampf zu gewinnen, braucht Ihr ein\nscharfes Auge. Wisst stets, wo sich Eure Feinde\nbefinden.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWas sind das für Dinger überall auf dem\nSchlachtfeld?\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nDas sind meine Ziele. Ich werde sie zerstören;\nes sei denn, Ihr könnt mich daran hindern.\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIch werde sie gut bewachen!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nAngry\n\x0E\x03\x02\x08\x06ベレト\nJe nachdem, wer sie nutzt, kann Macht\ngleichermaßen für Gutes oder Böses verwendet\nwerden.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nDeswegen ist das Herz desjenigen, der die\nMacht nutzt, so wichtig.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nDas Herz. Das bedeutet...\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nMein Herz bestimmt, wie die Macht genutzt\nwird. Also gut, Byleth. Ich bin bereit!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nEs fühlt sich seltsam an, die Waffe gegen\njemanden zu erheben, der ein Verbündeter sein\nsollte.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nSmile\n\x0E\x03\x02\x08\x06ベレト\nDass wir gegeneinander kämpfen, macht uns\nnicht zu Feinden. ...Diesmal nicht.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06ベレト\nWir werden weiterhin Freunde bleiben. Aber\nnun rüstet Euch für den Kampf.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1C\x0Cオルテンシア\x0CStrike\n\x0E\x03\x02\x0E\x0Cオルテンシア\nIch habe also keine Wahl, als zu kämpfen?\nDann soll es so sein.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\nIch habe gewonnen... irgendwie.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ベレト\nGut gemacht. Eure Kampfkraft war\nhervorragend. Die Prüfung ist bestanden.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nIch habe in dem Kampf gegen Euch so vieles\ngelernt.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ベレト\nVielen Dank, aber Eure Fähigkeiten waren\nbereits vor unserem Treffen sehr stark\nausgeprägt.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nTrotzdem habt Ihr mir so viel beigebracht.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nIhr seid ein exzellenter Lehrer, Byleth.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06ベレト\nDas zu sagen ist freundlich von Euch, aber es\nhilft, dass Ihr schon vorher rohes Potenzial\nhattet.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ベレト\nAlles, was ich tue, ist zuzuhören und einen\nleichten Schubs in die richtige Richtung zu\ngeben.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06ベレト\nEuer heutiger Erfolg ist das direkte Resultat\naller Entscheidungen, die Ihr vor heute getroffen\nhabt.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nIch habe immer verstanden, dass eine\nEntscheidung zur nächsten führt, aber...\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nIch mache mir Sorgen, was wohl geschieht,\nwenn ich jemals die falsche Entscheidung\ntreffen sollte.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06ベレト\nSorgt Euch nicht. Indem Ihr diese Prüfung\nbestanden habt, habt Ihr Euer wahres Wesen\ngezeigt.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ベレト\nUnd Ihr habt Eure Verbündeten, die Euch\nzurück auf den Pfad geleiten werden... solltet\nIhr jemals straucheln.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06ベレト\nVergesst nicht, dass auch ich immer an Eurer\nSeite sein werde. Bis zum Ende.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nVielen Dank. Ich werde weiter meinen Pfad\nentlangschreiten und meinen Verbündeten\nunterwegs vertrauen.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06ベレト\nIhr habt offenbar alles gelernt, was Ihr lernen\nmusstet. Wollen wir unsere Reise also fort-\nsetzen?\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

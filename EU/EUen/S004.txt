@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nAh, the breeze...the smell... So much like home.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nHome? Do you mean the world you're from?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04リン\nYes. This place is just like the Sacae Plains.\nThat's where I was born.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04リン\nAhh, I remember their beauty well. When I was\nyoung, those plains seemed to stretch forever.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nIt truly is wonderful scenery, and the wind is\nso pleasant.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x06\x04リン\nIt makes me happy to hear you say that, even if\nthis is not my true homeland.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04リン\nWe woke at dawn and tended to our cattle,\ncaught game, and slept when the sun set.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04リン\nThat was every day of my life, growing up on\nthe plains. But it didn't last forever.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nCan you tell me what happened?\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04リン\nThe Lorca tribe, my people, were attacked by\nvicious bandits... They killed so many of us.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04リン\nThe bandits were cowardly. They poisoned our\ndrinking water, then attacked in the chaos.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nThat's terrible...\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04リン\nYes, but the Sacae Plains are our motherland,\nand have always blessed us with their bounty.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04リン\nIt is a place I love deeply, though it holds many\npainful memories.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x06\x04リン\nEnough mourning! The sense of this place is\nexciting me!\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04リン\nReady your sword! I'll show you the true skill\nof a Lorca tribe warrior!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nI can't wait. You won't beat me easily, though.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nI've overcome so many hardships in my life.\nAnd more will come, I'm sure.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x06\x04リン\nBut our bond will grow stronger with this fight,\nas will my power.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x06\x04リン\nSo whatever you do, don't hold back!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nAre you ready? Then come at me! Attack with\neverything you've got!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI can hear the voices of enemy forces in those\ntents. We should attack them, quickly.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nI'm not going to just stand around! I'll have at\nthem too!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x0E\x04リン\x06Die\n\x0E\x03\x02\x06\x04リン\nThese plains, the green land, the wind...they\nraised me to be strong. And you?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI'm still improving, but I have gained strength\nduring our journey.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x06\x04リン\nI'm glad to hear you're feeling stronger, but I\nwon't be holding back!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nIt feels a little strange to fight you. I'm reminded\nof my father and all that happened.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nOh? I'm rather happy about this fight myself.\nFacing someone as skilled as you is a pleasure.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nIf only he had been so encouraging. Very well,\nlet's begin.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nSeeing you makes me feel like I might see my\nfather again. Too bad that's not how it works.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x14\x04リン\x0CStatus\n\x0E\x03\x02\x06\x04リン\nUnfortunately, I'm neither a substitute for your\nfather nor his memory.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x12\x04リン\nSmile\n\x0E\x03\x02\x06\x04リン\nStill, I can see you've become quite talented.\nSo show me just how much you've grown!\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x1E\x0Cオルテンシア\x0EStandBy\n\x0E\x03\x02\x0E\x0Cオルテンシア\nI am refined in strength and charm! If my father\nwere here, he'd be in awe of what I've become!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nWow. You beat me soundly. You're very strong.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nAnd you were as skilled as I expected! Very\npowerful too...\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nI wonder if I could be like you? If I grew up on\nthe plains, I mean.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04リン\nHaha, perhaps. I learned to fight out here, but\nI learned more when I met Eliwood and Hector.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x06\x04リン\nWe traveled long and far together. Sometimes,\nwe'd compete with one another, just like this.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04リン\nThey helped me to learn of justice and courage.\nAnd they gave me the strength to trust others.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04リン\nAnd that strength has made me who I am today.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nWhen I woke, I had no memories and no one\nI felt I could rely on.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nBut now I have so many friends around me to\nteach me about the world...and about myself.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nI hope that, at the end of my journey, I'll be as\nstrong as them. And you.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04リン\nYou'll definitely become much stronger!\nI'm sure of it!\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04リン\nOf course, I'll help too!\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nThank you, Lyn.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

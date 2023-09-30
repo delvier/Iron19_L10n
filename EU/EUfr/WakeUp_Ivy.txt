@@ -1,0 +1,119 @@
+MID_WU_C_1_IN_#001	C'est le matin, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#001	Vous vous réveillez si aisément.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#002	Je vous envie.\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#003	M'endormir\x0E\x04\x00\x00
+MID_WU_C_1_SOON_#004	ou me réveiller m'est très pénible.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#001	Je ne suis pas la personne idéale\npour vous réveiller.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#002	Je manque d'entrain.\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#003	Mais plus vite on se réveille...\x0E\x04\x00\x00
+MID_WU_C_1_WAKEUP_#004	plus vite ce sera fini.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#002	Belle journée, non ?\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#003	Allez prendre le soleil.\x0E\x04\x00\x00
+MID_WU_C_1_HELLO_#004	Vous ne voulez pas être morose\ncomme moi, hein ?\x0E\x04\x00\x00
+MID_WU_C_2_IN_#001	J'aimerais venir vous voir chaque matin.\x0E\x04\x00\x00
+MID_WU_C_2_IN_#002	Mais ce ne serait pas correct.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#001	Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_C_2_SOON_#002	Je vais partir, dans ce cas.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#003	J'espère que vous aurez un visiteur\nplus enjoué demain.\x0E\x04\x00\x00
+MID_WU_C_2_SOON_#004	Adieu.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#001	Je n'aurais jamais pensé être ici.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#002	À réveiller le Dragon divin...\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#003	Je n'ai aucune expérience en la matière.\x0E\x04\x00\x00
+MID_WU_C_2_WAKEUP_#004	Je suis si nerveuse.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#002	Je ne suis pas très à mon aise.\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#003	Mais l'opportunité de commencer\nma journée en vous saluant...\x0E\x04\x00\x00
+MID_WU_C_2_HELLO_#004	Je ne pouvais la laisser passer.\x0E\x04\x00\x00
+MID_WU_B_1_IN_#001	J'ai tant espéré ceci.\x0E\x04\x00\x00
+MID_WU_B_1_IN_#002	Me tenir à Somniel...\x0E\x04\x00\x00
+MID_WU_B_1_IN_#003	Prier devant le plus sacré des autels.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#001	...\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#002	Pardon de vous avoir réveillé\x0E\x0A\x00\x06
+MID_WU_B_1_SOON_#003	Je suis juste venue prier.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#004	J'ai terminé.\x0E\x04\x00\x00
+MID_WU_B_1_SOON_#005	Permettez-moi de vous souhaiter\nune belle matinée, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#001	Père m'a parlé...\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#002	de la reine Lumera.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#003	Elle a invité la famille royale d'Elusia à venir.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#004	Celle-ci n'a jamais accepté.\x0E\x04\x00\x00
+MID_WU_B_1_WAKEUP_#005	Jusqu'à ce jour, je suppose...\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#002	Je suis venue prier, si vous voulez bien.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#003	J'ai quelque chose à dire à la reine Lumera.\x0E\x04\x00\x00
+MID_WU_B_1_HELLO_#004	Bien que tardivement, j'accepte son invitation.\x0E\x04\x00\x00
+MID_WU_B_2_IN_#001	J'espère avoir le droit d'être dans ce lieu sacré...\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#002	Je vous remercie d'accepter\nma présence ici sans protester.\x0E\x04\x00\x00
+MID_WU_B_2_SOON_#003	Votre gentillesse ne cesse de m'ébahir.\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#001	N'en déplaise à Elusia...\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#002	Je vénère le Dragon divin.\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#003	En tant que princesse héritière,\nj'ai dû taire cette foi.\x0E\x04\x00\x00
+MID_WU_B_2_WAKEUP_#004	Du moins, jusqu'à maintenant.\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#001	Je me demande...\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#002	Qu'avez-vous ressenti en vous réveillant...\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#003	au bout de mille ans ?\x0E\x04\x00\x00
+MID_WU_B_2_HELLO_#004	J'aurais aimé être présente ce jour-là.\x0E\x04\x00\x00
+MID_WU_A_1_IN_#001	Ce lieu...\x0E\x04\x00\x00
+MID_WU_A_1_IN_#002	Je me sens acceptée ici. Pardonnée.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#001	Bonjour.\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#002	Vous semblez si pur\x0E\x0A\x00\x06
+MID_WU_A_1_SOON_#003	Si cela montre votre confiance en moi...\x0E\x04\x00\x00
+MID_WU_A_1_SOON_#004	j'en suis ravie.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#001	Il y a tant de choses fastidieuses en ce monde...\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#002	mais je ne me lasse jamais d'être ici.\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#003	À vos côtés...\x0E\x04\x00\x00
+MID_WU_A_1_WAKEUP_#004	je sens que je peux me détendre\net être moi-même.\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#001	Oh, vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_A_1_HELLO_#002	Vous pensez que quelque chose\nde cocasse m'est arrivé ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#003	Vous m'avez vue sourire ?\x0E\x04\x00\x00
+MID_WU_A_1_HELLO_#004	Maintenant que vous le dites,\nc'était sûrement le cas.\x0E\x04\x00\x00
+MID_WU_A_2_IN_#001	Quel soulagement de vous voir, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#001	Pardon de vous avoir réveillé\x0E\x0A\x00\x06
+MID_WU_A_2_SOON_#002	J'ai fait un cauchemar.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#003	Je suis venue trouver du réconfort.\x0E\x04\x00\x00
+MID_WU_A_2_SOON_#004	C'est puéril, je sais.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#001	J'ai rêvé...\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#002	qu'Elusia était en ruines.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#003	À mon réveil, j'ai immédiatement\npensé à venir vous voir.\x0E\x04\x00\x00
+MID_WU_A_2_WAKEUP_#004	Je savais qu'en posant mes yeux sur vous,\ntoutes mes craintes s'envoleraient.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#001	Avez-vous entendu tout cela ?\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#002	Ma faiblesse doit vous consterner.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#003	Pourtant, vous me regardez\navec tant de bienveillance.\x0E\x04\x00\x00
+MID_WU_A_2_HELLO_#004	Vous me sauvez toujours.\x0E\x04\x00\x00
+MID_WU_S_1_IN_#001	Je suis venue vous voir, Votre Divinité.\x0E\x04\x00\x00
+MID_WU_S_1_IN_#002	Ce titre revêt une signification encore\nplus profonde à mes yeux, maintenant.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#001	Ah, vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_S_1_SOON_#002	Pardon de venir aussi tôt.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#003	Il me tardait tant de vous voir.\x0E\x04\x00\x00
+MID_WU_S_1_SOON_#004	Notre temps passé ensemble m'est précieux.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#001	Je dois vous faire un aveu.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#002	Je suis quelque peu jalouse...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#003	Vous m'avez donné l'Anneau du Pacte...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#004	mais vous avez donné des Anneaux\nd'Emblèmes à bien d'autres.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#005	Il semble ridicule de dire\nceci à voix haute, mais...\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#006	J'aimerais être la seule à vous être dévouée.\x0E\x04\x00\x00
+MID_WU_S_1_WAKEUP_#007	Je sais, c'est terriblement égoïste.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#001	Vous êtes réveillé\x0E\x0A\x00\x06
+MID_WU_S_1_HELLO_#002	Puis-je approcher ?\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#003	Merci.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#004	Je chéris chaque moment passé près de vous.\x0E\x04\x00\x00
+MID_WU_S_1_HELLO_#005	Chaque seconde où nous sommes seul\x0E\x0A\x00\x06
+MID_WU_S_2_IN_#001	Votre Divinité...\x0E\x04\x00\x00
+MID_WU_S_2_IN_#002	Vous avez dormi ainsi pendant un millénaire...\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#001	Contente que vous soyez réveillé\x0E\x0A\x00\x06
+MID_WU_S_2_SOON_#002	Nous ne pouvons vous laisser\ndormir encore mille ans.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#003	Il m'arrive de penser à ce moment.\x0E\x04\x00\x00
+MID_WU_S_2_SOON_#004	Où vous vous réveillez après tout ce temps...\nJ'aurais aimé être là.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#001	Vous savez...\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#002	Je vous dois tant.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#003	J'ai maintenant la force pour surmonter\nles batailles les plus dures\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#004	tout comme les pires cauchemars.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#005	Et c'est grâce à vous.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#006	Je vous aime et ne me\nlasserai jamais de vous le dire.\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#007	Une phrase aussi simple paraît à peine suffire...\x0E\x04\x00\x00
+MID_WU_S_2_WAKEUP_#008	mais des mots ne sauraient suffire\nà exprimer mes sentiments.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#001	Bonjour. Vous avez tout entendu ?\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#002	Bien. Je veux que vous sachiez\nce que je ressens.\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#003	Et si jamais vous oubliez, je me ferai\nune joie de vous rappeler...\x0E\x04\x00\x00
+MID_WU_S_2_HELLO_#004	à quel point je vous adore.\x0E\x04\x00\x00

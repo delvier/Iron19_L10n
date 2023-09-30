@@ -1,0 +1,555 @@
+MID_CARD_KEYHELP_TURN_OVER	Karte umdrehen
+MID_CARD_KEYHELP_EDIT	Bearbeiten
+MID_CARD_KEYHELP_CARD_LIST	Kartenliste
+MID_CARD_KEYHELP_STAMP_LIST	Stempel
+MID_CARD_KEYHELP_STAMP_SWITCHING	Bearbeiten
+MID_CARD_KEYHELP_DELETE	Löschen
+MID_CARD_KEYHELP_END	Beenden
+MID_ProfileCard	Visitenkarte
+MID_ProfileCard_MyCard	Meine Karte
+MID_ProfileCard_MyCard_Description	Bearbeite den Text deiner\nVisitenkarte und ihr Aussehen.
+MID_ProfileCard_Notes_Terms	Bei geteilten Inhalten finden die\nCommunity-Richtlinien Anwendung, die du\nauf der Nintendo-Website einsehen kannst.\nBitte verhalte dich anderen Spielern gegenüber\nrücksichtsvoll.
+MID_ProfileCard_Album	Andere Karten
+MID_ProfileCard_Album_Help	And. Karten ansehen/löschen
+MID_ProfileCard_Album_Description	Sieh dir die Visitenkarten an,\ndie du im Turm der Prüfungen\nerhalten hast.
+MID_ProfileCard_Photo	Fototermin
+MID_ProfileCard_Photo_Description	Fotografiere deine Lieblings-\nverbündeten für deine Visitenkarte.
+MID_ProfileCard_Photo_Warning	Nur im Somniel-Außenbereich möglich.
+MID_ProfileCard_Setting	Privatsphäre
+MID_ProfileCard_Setting_Description	Du kannst die Einstellungen zur\nPrivatsphäre für deine Visitenkarte\nändern.
+MID_ProfileCard_Setting_Warning_Public	Momentane Einstellung: Öffentlich
+MID_ProfileCard_Setting_Warning_Private	Momentane Einstellung: Privat
+MID_ProfileCard_Setting_Confirm	Wähle die Einstellung zur Privatsphäre für\ndeine Visitenkarte. Die Einstellung lässt sich\njederzeit ändern. (Hinweis: Änderungen der\nEinstellung wirken sich nicht auf bereits\ngetauschte Visitenkarten aus.)
+MID_ProfileCard_Setting_Public	Öffentlich
+MID_ProfileCard_Setting_Private	Privat
+MID_ProfileCard_ShowStamp	Einstellung
+MID_ProfileCard_ShowStamp_Description	Du kannst wählen, ob du Stempel\nauf erhaltenen Visitenkarten ein-\noder ausblenden möchtest.
+MID_ProfileCard_ShowStamp_Warning_Show	Momentane Einstellung: Stempel einblenden
+MID_ProfileCard_ShowStamp_Warning_Hide	Momentane Einstellung: Stempel ausblenden
+MID_ProfileCard_ShowStamp_Confirm	Wähle, ob die Stempel der Visitenkarten\nein- oder ausgeblendet werden sollen. (Du\nkannst diese Einstellung jederzeit wieder\nändern.)
+MID_ProfileCard_ShowStamp_Show	Einblenden
+MID_ProfileCard_ShowStamp_Hide	Ausblenden
+MID_ProfileCard_Settings_Cannot_Change	Diese Einstellung unterliegt den\nAltersbeschränkungen und kann\nnicht geändert werden.
+MID_ProfileCard_Card_PlayerInfo	Spielerinformation
+MID_ProfileCard_Card_TolalPlayTime	Gesamtspielzeit
+MID_ProfileCard_Card_Birthday	Geburtstag
+MID_ProfileCard_Card_Difficulty	Schwierigkeit
+MID_ProfileCard_Card_GameMode	Modus
+MID_ProfileCard_Card_FaivoriteCharacter	Lieblingscharakter
+MID_ProfileCard_Card_Relay	Staffelprüfungen
+MID_ProfileCard_Card_FavoriteMap	Lieblingskarte
+MID_ProfileCard_Card_PlayingCount	So oft gespielt
+MID_ProfileCard_Card_Versus	Dimensionsprüf.
+MID_ProfileCard_Card_ThemeOfEditMap	Kartenthema
+MID_ProfileCard_Card_VersusRate	Spezialkampfrang
+MID_ProfileCard_Card_SortieCount	Einsätze
+MID_ProfileCard_Card_AchievementCount	Erfolge
+MID_ProfileCard_MyCard_Help	Karte ansehen & bearbeiten.
+MID_ProfileCard_Edit	Karte bearbeiten
+MID_ProfileCard_Edit_Help	Wähle, was bearbeitet wird.
+MID_ProfileCard_Edit_Title	Titel
+MID_ProfileCard_Edit_Title_Help	Wähle einen Titel aus.
+MID_ProfileCard_Edit_Title_Caption	Titelliste
+MID_ProfileCard_Edit_Comment	Kommentar
+MID_ProfileCard_Edit_Comment_Help	Wähle drei Begriffe.
+MID_ProfileCard_Edit_Comment_Caption	Kommentar erstellen
+MID_ProfileCard_Edit_FavoriteCharacter	Lieblingscharakter
+MID_ProfileCard_Edit_FavoriteCharacter_Help	Wähle einen Charakter.
+MID_ProfileCard_Edit_FavoriteCharacter_Caption	Charakterliste
+MID_ProfileCard_Edit_FavoriteRelayMap	Lieblingskarte
+MID_ProfileCard_Edit_FavoriteRelayMap_Help	Wähle eine Karte.
+MID_ProfileCard_Edit_FavoriteRelayMap_Caption	Kartenliste
+MID_ProfileCard_Edit_Bg	Hintergrund
+MID_ProfileCard_Edit_Bg_Help	Wähle ein Design.
+MID_ProfileCard_Edit_Bg_Caption	Hintergründe
+MID_ProfileCard_Edit_Frame	Kartenrahmen
+MID_ProfileCard_Edit_Frame_Help	Wähle ein Design.
+MID_ProfileCard_Edit_Frame_Caption	Kartenrahmenliste
+MID_ProfileCard_Edit_TextDeco	Farbschema
+MID_ProfileCard_Edit_TextDeco_Help	Wähle ein Farbschema aus.
+MID_ProfileCard_Edit_TextDeco_Caption	Schemaliste
+MID_ProfileCard_Edit_TextColor	Textfarbe
+MID_ProfileCard_Edit_TextColor_Help	Wähle eine Textfarbe aus.
+MID_ProfileCard_Edit_TextColor_Caption	Textfarbenliste
+MID_ProfileCard_Edit_CharecterStamp	Bild
+MID_ProfileCard_Edit_CharecterStamp_Help	Wähle ein Bild aus.
+MID_ProfileCard_Edit_CharecterStamp_Caption	Bilderliste
+MID_ProfileCard_Edit_Stamp	Stempel
+MID_ProfileCard_Edit_Stamp_Help	Verziere deine Karte.
+MID_ProfileCard_Edit_Stamp_Count	Stempel
+MID_ProfileCard_Edit_Stamp_ConfirmToClear	Alle Stempel löschen?\n(Kann nicht rückgängig gemacht werden!)
+MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes	Alle löschen
+MID_ProfileCard_Edit_Stamp_ConfirmToClose	Stempelplatzierung beenden?
+MID_ProfileCard_Edit_Stamp_SaveAndClose	Ende (Speichern)
+MID_ProfileCard_Edit_Stamp_NoSaveAndClose	Ende (Änd. verwerfen)
+MID_ProfileCard_Edit_Stamp_ContinueToEdit	Abbrechen
+MID_ProfileCard_Album_ConfirmToDelete	Visitenkarte von \x0E\x01\x00\x00 löschen?
+MID_ProfileCard_Album_Delete	Löschen
+MID_ProfileCard_Possession	In Besitz
+MID_ProfileCard_Language_Attention	Die Spracheinstellung wurde geändert,\ndaher wurde dein Kommentar zurückgesetzt.
+MID_ProfileCard_Net_Save_Confirm_Match	Visitenkarte des anderen Spielers speichern?
+MID_ProfileCard_Net_Save_Confirm_Relay	Visitenkarten der Spieler der Staffelprüfung\nspeichern?
+MID_ProfileCard_Net_Save_Done	Visitenkarte(n) erfolgreich gespeichert.
+MID_ProfileCard_Net_Overlimit_Title	Karten löschen
+MID_ProfileCard_Net_Overlimit_Title_Help	Wähle die zu löschende Karte.
+MID_ProfileCard_Net_Overlimit_Incomplete	Du hast die maximale Anzahl an Visitenkarten\nüberschritten. Bitte lösche Visitenkarten, um\ninnerhalb der erlaubten Anzahl zu bleiben.
+MID_ProfileCard_Comment_CharacterFeeling	Persönlichkeit
+MID_ProfileCard_Comment_FeaturePosition	Rollen & Waffen
+MID_ProfileCard_Comment_AdpositionConjection	Bindewörter & Titel
+MID_ProfileCard_Comment_Tearms	Spiel-Terminologie
+MID_ProfileCard_Comment_ClassStyle	Klasse & Einheitentypen
+MID_ProfileCard_Comment_PersonName	Charaktere
+MID_STAMP_KEYHELP_TITLE	Stempeln
+MID_STAMP_KEYHELP_PUT_A_STAMP	Stempel
+MID_STAMP_KEYHELP_LR_REVERSE	Spiegeln
+MID_STAMP_KEYHELP_ROTATE_SCALE	Größe/Drehen
+MID_STAMP_KEYHELP_ROTATE_SCALE_RESET	Größe/Dreh. zurücks.
+MID_STAMP_KEYHELP_HIGH_SPEED	Schnelle Bew.
+MID_STAMP_KEYHELP_ERASE_ALL	Alle löschen
+MID_STAMP_KEYHELP_TWEAK	Anpassen
+MID_ProfileCard_Stamp_Unit	Einheiten
+MID_ProfileCard_Stamp_GodUnit	Embleme
+MID_ProfileCard_Stamp_Weapon	Waffen
+MID_ProfileCard_Stamp_GodWeapon	Bündniswaffen
+MID_ProfileCard_Stamp_RodAndItem	Stäbe & Items
+MID_ProfileCard_Stamp_System	Symbole
+MID_ProfileCard_Stamp_Others	Anderes
+PCTMID_FireEmblem	Fire Emblem
+PCTMID_ShadowDragon	Blade of Light
+PCTMID_NewShadowDragon	Shadow Dragon
+PCTMID_MysteryOfTheEmblem	Mystery of the Emblem
+PCTMID_NewMysteryOfTheEmblem	New Mystery of the Emblem
+PCTMID_SideStory	Gaiden
+PCTMID_GenealogyOfTheHolyWar	Genealogy of the Holy War
+PCTMID_Thracia776	Thracia 776
+PCTMID_TheBindingBlade	The Binding Blade
+PCTMID_TheBlazingBlade	The Blazing Blade
+PCTMID_TheSacredStones	The Sacred Stones
+PCTMID_PathOfRadiance	Path of Radiance
+PCTMID_RadiantDawn	Radiant Dawn
+PCTMID_Awakening	Awakening
+PCTMID_Fates	Fates
+PCTMID_Birthright	Vermächtnis
+PCTMID_Conquest	Herrschaft
+PCTMID_Echoes	Echoes
+PCTMID_ThreeHouses	Three Houses
+PCTMID_Heroes	Heroes
+PCTMID_Marth	„Für Altea!“
+PCTMID_Celica	„Möge Mila mit dir sein.“
+PCTMID_Siglud	„Zieht Euer Schwert!“
+PCTMID_Leaf	„Ich tue, was sein muss!“
+PCTMID_Roy	„Ich verliere nicht!“
+PCTMID_Lin	„Die Ebenen rufen mich.“
+PCTMID_Eirik	„Bruder!“
+PCTMID_Ike	„Steht mir nicht im Weg.“
+PCTMID_Micaiah	„Ich muss kämpfen!“
+PCTMID_Lucina	„Kampf dem Schicksal!“
+PCTMID_Kamui	„Mein Weg steht fest!“
+PCTMID_Byleth	„Der Unterricht beginnt.“
+PCTMID_Lueur	„Für \x0E\x0A\x00\x10\x06den\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin!“
+PCTMID_RelianceC_WithAllUnit	Unterstützungslevel C
+PCTMID_RelianceB_WithAllUnit	Unterstützungslevel B
+PCTMID_RelianceA_WithAllUnit	Unterstützungslevel A
+PCTMID_RelianceRing	Ringlevel
+PCTMID_SortieWithAllUnitCount5	Scharmützler
+PCTMID_EncountBattleCount45	Kampferprobt
+PCTMID_BattleCount5000	Kampfgestählt
+PCTMID_DefeatSoldierCount500	Soldatenjäger
+PCTMID_DefeatMorphCount500	Jäger der Verzerrten
+PCTMID_DefeatBanditsCount500	Diebjäger
+PCTMID_CaneCount500	Geistlichkeit
+PCTMID_CriticalCount300	Experte
+PCTMID_EngageCount300	Bündnis!
+PCTMID_EngageAttackCount300	Bündnisexperte
+PCTMID_AvoidanceCount500	Ausweichexperte
+PCTMID_ChainGuardCount300	Schutzmacht
+PCTMID_ChainAttackCount300	Helfer
+PCTMID_ChainUnitCount10	Koordinator
+PCTMID_BreakCount300	Haltungsbrecher
+PCTMID_SmashCount50	Schmetterer
+PCTMID_MiniGamePlayCount100	Beflissener
+PCTMID_CreateRingCount5000	Ringsammler
+PCTMID_SynthesizeRingCount500	Maximalverbesserer
+PCTMID_GetBondRingC_Count1000	Rang C
+PCTMID_GetBondRingB_Count100	Rang B
+PCTMID_GetBondRingA_Count50	Rang A
+PCTMID_GetBondRingS_Count10	Rang S
+PCTMID_CleaningRingCount100	Makellos
+PCTMID_InvestmentFileneStage5	Firenes Botschafter
+PCTMID_InvestmentBrodiaStage5	Brodias Botschafter
+PCTMID_InvestmentIrcionStage5	Elusias Botschafter
+PCTMID_InvestmentSolumStage5	Solmer Botschafter
+PCTMID_InvestmentStage5All	Elyos' Botschafter
+PCTMID_InvestmentTotalValue1000000	Reich
+PCTMID_CookingCount100	Koch
+PCTMID_CookingG_Count5	Aufstrebender Koch
+PCTMID_CookingF_Count5	Gelehriger Koch
+PCTMID_CookingE_Count5	Imbissbudenkoch
+PCTMID_CookingD_Count5	Koch in Ausbildung
+PCTMID_CookingC_Count20	Annehmbarer Koch
+PCTMID_CookingB_Count20	Mittelmäßiger Koch
+PCTMID_CookingA_Count20	Beliebter Koch
+PCTMID_CookingS_Count5	Elite-Koch
+PCTMID_CookingSS_Count3	Legendärer Koch
+PCTMID_Sleep100	Schlafmütze
+PCTMID_WakeUpC_People30	Spätaufsteher
+PCTMID_WakeUpB_People30	Raus aus den Federn!
+PCTMID_WakeUpA_People30	Schlafspezialist
+PCTMID_WakeUpS	Lieblingsaufwacher
+PCTMID_ArenaCount100	Trainingsenthusiast
+PCTMID_ArenaWinCount100	Gewohnheitskämpfer
+PCTMID_ArenaVsGodCount100	Bandeknüpfer
+PCTMID_ArenaWinVsGodCount100	Siegreiches Emblem
+PCTMID_BuyWeaponCount100	Bewaffnet und bereit
+PCTMID_BuySwordCount50	Meister der Schwerter
+PCTMID_BuyLanceCount50	Meister der Lanzen
+PCTMID_BuyAxeCount50	Meister der Äxte
+PCTMID_BuyBowCount50	Meister der Bogen
+PCTMID_BuyKnifeCount50	Meister der Messer
+PCTMID_BuyMagicCount50	Meister der Magie
+PCTMID_BuyFistCount50	Meister der Künste
+PCTMID_SellWeaponCount50	Waffenhändler
+PCTMID_BuyItemCount500	Für alles bereit
+PCTMID_SellItemCount50	Händler
+PCTMID_BuyRodCount50	Meister der Stäbe
+PCTMID_BuyAccessoryCount25	Modekenner
+PCTMID_ChangeAccessoryCount100	Ausgehfein
+PCTMID_RefineCount100	Veredler
+PCTMID_RefineSwordCount50	Schwertveredler
+PCTMID_RefineLanceCount50	Lanzenveredler
+PCTMID_RefineAxeCount50	Axtveredler
+PCTMID_RefineBowCount50	Bogenveredler
+PCTMID_RefineKnifeCount50	Messerveredler
+PCTMID_RefineMagicCount50	Magieveredler
+PCTMID_RefineFistCount50	Kunstveredler
+PCTMID_EngraveCount100	Graveur
+PCTMID_PlayTime240Hours	Starkes Engagement
+PCTMID_ClearedChapter26	Retter
+PCTMID_VersusCount200	Herausforderer
+PCTMID_VersusWinCount100	Champion
+PCTMID_RelayCount200	Teamgeist
+PCTMID_RelayWinCount100	Teamkapitän
+PCTMID_ChallengeMap1Rank50	Grasebenen-Meister
+PCTMID_ChallengeMap2Rank50	Blumenfeld-Meister
+PCTMID_ChallengeMap3Rank50	Berggipfel-Meister
+PCTMID_ChallengeMap4Rank50	Winterwald-Meister
+PCTMID_ChallengeMap5Rank50	Wüstensand-Meister
+PCTMID_ChallengeMap6Rank50	Vulkanland-Meister
+PCTMID_E004_Kill_Count	Feind meines Feindes
+PCCMID_Nothing	(Nichts)
+PCCMID_Feeling1	bereit
+PCCMID_Feeling2	sorgloser
+PCCMID_Feeling3	sorglose
+PCCMID_Feeling4	charmanter
+PCCMID_Feeling5	charmante
+PCCMID_Feeling6	optimistischer
+PCCMID_Feeling7	optimistische
+PCCMID_Feeling8	fröhlicher
+PCCMID_Feeling9	fröhliche
+PCCMID_Feeling10	lebensfroh
+PCCMID_Feeling11	lebhaft
+PCCMID_Feeling12	fürsorglicher
+PCCMID_Feeling13	fürsorgliche
+PCCMID_Feeling14	geschickter
+PCCMID_Feeling15	geschickte
+PCCMID_Feeling16	aufgeweckt
+PCCMID_Feeling17	witzig
+PCCMID_Feeling18	dynamisch
+PCCMID_Feeling19	stolz
+PCCMID_Feeling20	höflich
+PCCMID_Feeling21	weltoffen
+PCCMID_Feeling22	fleißig
+PCCMID_Feeling23	geschätzt
+PCCMID_Feature1	Athlet
+PCCMID_Feature2	Schütze
+PCCMID_Feature3	Champion
+PCCMID_Feature4	Getreuer
+PCCMID_Feature5	Getreue
+PCCMID_Feature6	Ritter
+PCCMID_Feature7	Ritterin
+PCCMID_Feature8	Magier
+PCCMID_Feature9	Magierin
+PCCMID_Feature10	Koch
+PCCMID_Feature11	Sänger
+PCCMID_Feature12	Tänzer
+PCCMID_Feature13	Assassine
+PCCMID_Feature14	Fischer
+PCCMID_Feature15	Mentor
+PCCMID_Feature16	Wyrmgott
+PCCMID_Feature17	Wyrmgöttin
+PCCMID_Feature18	Held
+PCCMID_Feature19	Händler
+PCCMID_Feature20	Händlerin
+PCCMID_Feature21	Behüter
+PCCMID_Feature22	Schneider
+PCCMID_Feature23	Schmied
+PCCMID_Feature24	Falchion
+PCCMID_Feature25	Breidablik
+PCCMID_Feature26	Bolganone
+PCCMID_Feature27	Thoron
+PCCMID_Feature28	Rexcalibur
+PCCMID_Adposition1	ist
+PCCMID_Adposition2	der
+PCCMID_Adposition3	die
+PCCMID_Adposition4	sind
+PCCMID_Adposition5	zu
+PCCMID_Adposition6	mit
+PCCMID_Adposition7	&
+PCCMID_Adposition8	vs.
+PCCMID_Adposition9	bei
+PCCMID_Conjection1	hat
+PCCMID_Conjection2	wird
+PCCMID_Conjection3	sind
+PCCMID_Conjection4	niemals
+PCCMID_Conjection5	aber
+PCCMID_Conjection6	wirklich
+PCCMID_Conjection7	jeder
+PCCMID_Conjection8	oder
+PCCMID_Conjection9	dennoch
+PCCMID_Conjection10	nicht
+PCCMID_Conjection11	war
+PCCMID_Conjection12	auch
+PCCMID_Conjection13	besonders
+PCCMID_Conjection14	und
+PCCMID_Conjection15	ohne
+PCCMID_Conjection16	viele
+PCCMID_Conjection17	>
+PCCMID_Conjection18	<
+PCCMID_Conjection19	also
+PCCMID_Conjection20	???
+PCCMID_Conjection21	/
+PCCMID_Honorific1	☆
+PCCMID_Honorific2	=
+PCCMID_Honorific3	♪
+PCCMID_Honorific4	Mylord
+PCCMID_Honorific5	Milady
+PCCMID_Team1	Emblem
+PCCMID_Team2	Bündnis!
+PCCMID_Team3	Serie
+PCCMID_Team4	Schutz
+PCCMID_Team5	Angriff
+PCCMID_Solanel	Somniel
+PCCMID_Eleos	Elyos
+PCCMID_Player	Spieler
+PCCMID_Enemy	Gegner
+PCCMID_VIP	Held
+PCCMID_Training	Training
+PCCMID_Party	Party
+PCCMID_Others1	genießen
+PCCMID_Others2	kämpfen
+PCCMID_Others3	Unterstütz.
+PCCMID_Others4	Bande
+PCCMID_Others5	Stärke
+PCCMID_Others6	Magie
+PCCMID_Others7	Fähigkeit
+PCCMID_Position	Klasse
+PCCMID_BasicPosition	Basisklasse
+PCCMID_SeniorPosition	Fortgeschritten
+PCCMID_SpecialPosition	Spezialklasse
+PCCMID_Style	Typ
+MID_Map_Theme_Select	Wähle ein Thema für deine selbsterstellte\nKampfkarte. Es wird deiner Visitenkarte\nhinzugefügt.
+MID_ProfileCard_Theme_Unit	Platzierte Einheiten
+PCMMID_Unit1	Fernkampf
+PCMMID_Unit2	Nahkampf
+PCMMID_Unit3	Eingesetzt
+PCMMID_Unit4	Gepanzerte
+PCMMID_Unit5	Berittene
+PCMMID_Unit6	Flieger
+PCMMID_Unit7	Assistent
+PCMMID_Unit8	Verstohlene
+PCMMID_Unit9	Qi-Adept
+PCMMID_Unit10	Mystische
+MID_ProfileCard_Theme_Map	Karte
+PCMMID_Map1	Festung
+PCMMID_Map2	Labyrinth
+PCMMID_Map3	Ausw.
+PCMMID_Map4	Kanone
+PCMMID_Map5	Garten
+PCMMID_Map6	Fernöstlich
+PCMMID_Map7	Belagerung
+PCMMID_Map8	Tempel
+PCMMID_Map9	Simpel
+MID_ProfileCard_Theme_Object	Platziertes Gelände
+PCMMID_Object1	Alpaka
+PCMMID_Object2	Statue
+PCMMID_Object3	Sand
+PCMMID_Object4	Eis
+PCMMID_Object5	Säule
+MID_ProfileCard_Theme_Conception	Atmosphäre
+PCMMID_Conception1	Knuffig
+PCMMID_Conception2	Stilvoll
+PCMMID_Conception3	Schaurig
+PCMMID_Conception4	Lässig
+PCMMID_Conception5	Schick
+PCMMID_Conception6	Hübsch
+MID_ProfileCard_Theme_Onomatopoeia	Lautmalerei
+PCMMID_Onomatopoeia1	Zing
+PCMMID_Onomatopoeia2	Zwusch
+PCMMID_Onomatopoeia3	Brrr
+PCMMID_Onomatopoeia4	Hohohihiii
+PCMMID_Onomatopoeia5	Rumms
+MID_PS_Area_Select	Hintergrund
+MID_PS_Area_Select_Help	Wähle einen Ort als Hintergrund.
+MID_PS_Area_List	Orte
+MID_PS_Placement_Limit	Anzahl platzierbarer Verbünd.
+MID_PS_Spot_Title	Verbündeter zum Platzieren
+MID_PS_Spot_01	Platz 1
+MID_PS_Spot_02	Platz 2
+MID_PS_Spot_03	Platz 3
+MID_PS_Spot_Weapon	Waffen
+MID_PS_Spot_Scarf	Schalfarben
+MID_PS_Photo_Finish_Confirm	Zurück zur Hintergrundauswahl?
+MID_PS_Save_Confirm	Dein Foto wurde gespeichert und deiner\nVisitenkarte hinzugefügt. (Du kannst nur\n1 Foto speichern.)
+MID_PS_Hyphen01	－
+MID_PS_Hyphen05	－－－－－
+MID_PS_KEYHELP_UI_ON	Fotomodus
+MID_PS_KEYHELP_UI_OFF	Fotomodus beenden
+MID_PS_KEYHELP_PHOTO	Fotografieren
+MID_PS_KEYHELP_RANDOM	Zufallsprinzip
+MID_PS_KEYHELP_LIST	Liste
+MID_PS_KEYHELP_AREA_CHANGE	Platz wechseln
+MID_PS_KEYHELP_CAMERA_CHANGE	Kamera wechseln
+MID_PS_KEYHELP_CAMERA_HORIZON	Schwenken
+MID_PS_KEYHELP_CAMERA_VERTICAL	Neigen
+MID_PS_KEYHELP_CAMERA	Kamerasteuerung
+MID_PS_KEYHELP_SAVE	Speichern
+MID_PS_KEYHELP_NO_SAVE	Neuer Versuch
+MID_PoseType_1	1
+MID_PoseType_2	2
+MID_PoseType_3	3
+MID_PoseType_4	4
+MID_PoseType_5	5
+MID_PoseType_6	6
+MID_PoseType_7	7
+MID_PoseType_Normal	Standardposen
+MID_PoseType_Battle	Kampfposen
+MID_PoseType_Solanel	Somniel-Posen
+PSPMID_Normal	Müßig 
+PSPMID_Angry	Verärgert 
+PSPMID_Deny	Ablehnen 
+PSPMID_Deny2	Kopfschütteln 
+PSPMID_Give	Großzügig 
+PSPMID_Joy	Erfreut 
+PSPMID_Joy2	Fröhlich 
+PSPMID_LookR	Blick nach rechts 
+PSPMID_LookL	Blick nach links 
+PSPMID_Pray	Beten 
+PSPMID_Proud	Stolz 
+PSPMID_Relax	Entspannt 
+PSPMID_Sad	Entmutigt 
+PSPMID_Sad2	Traurig 
+PSPMID_Shy	Verlegen 
+PSPMID_Surprise	Schockiert 
+PSPMID_Surprise2	Überrascht 
+PSPMID_Talk	Reden 
+PSPMID_Talk2	Plaudern 
+PSPMID_Think	Nachdenklich 
+PSPMID_Tired	Erschöpft 
+PSPMID_Wave	Winken 
+PSPMID_Posing	Zwanglos 
+PSPMID_Posing2	Lässig 
+PSPMID_Cheer1	Zujubeln 
+PSPMID_Cheer2	Anfeuern 
+PSPMID_FishShow	Ermutigen 
+PSPMID_Guitar	Luftgitarre 
+PSPMID_Pick1	Pflücken 
+PSPMID_Pick2	Prüfen 
+PSPMID_Pick3	Ernten 
+PSPMID_ScatterR	Füttern 1
+PSPMID_ScatterL	Füttern 2
+PSPMID_Sing	Singen 
+PSPMID_SitUp_Start	Sit-up/Start
+PSPMID_SitUp_End	Sit-up/Ende 
+PSPMID_Squat_Start	Kniebeugen/Start 
+PSPMID_Squat_End	Kniebeugen/Ende 
+PSPMID_PushUp_Start	Liegestütze/Start 
+PSPMID_PushUp_End	Liegestütze/Ende 
+PSPMID_WateringR	Gießen 1
+PSPMID_WateringL	Gießen 2
+PSPMID_Splash_OneHand	Planscherei 1
+PSPMID_SplashothHands	Planscherei 2
+PSPMID_Splash	Beplanscht! 
+PSPMID_StrokeStand	Bürsten 
+PSPMID_SitNormal	Sitzen 
+PSPMID_ChairNormal	Im Stuhl sitzen 
+PSPMID_Reactionbad	Ekelig! 
+PSPMID_ReactionGood	Lecker! 
+PSPMID_ReactionGreat	Köstlich! 
+PSPMID_Battle_Sword	Schwertpose 
+PSPMID_Battle_Lance	Lanzenpose 
+PSPMID_Battle_Axe	Axtpose 
+PSPMID_Battle_Bow	Bogenpose 
+PSPMID_Battle_Magic	Magiepose 
+PSPMID_Battle_Knife	Messerpose 
+PSPMID_Battle_Fist	Kampfpose 
+PSPMID_Mascot_Normal	Ruhen
+PSPMID_Mascot_Angry	Verärgert
+PSPMID_Mascot_Joy	Erfreut
+PSPMID_Mascot_Cheer	Fröhlich
+PSPMID_Mascot_Petted	Entspannt
+PSPMID_Mascot_Sad	Traurig
+PSPMID_Mascot_GestureR	Blick nach rechts
+PSPMID_Mascot_GestureL	Blick nach links
+PSPMID_Mascot_Eat	Essen
+PSPMID_Mascot_Drop	Strecken
+PSPMID_Mascot_GetUp	Lässig
+PSPMID_Mascot_Sit	Sitzen
+PSPMID_Mascot_Sleep	Schlafen
+PSSMID_Entrance_front1	Zentraler Platz 1
+PSSMID_Entrance_front2	Zentraler Platz 2
+PSSMID_Entrance1	Zentraler Platz 3
+PSSMID_Entrance2	Zentraler Platz 4
+PSSMID_Cafeteria_front1	Café 1
+PSSMID_Cafeteria_front2	Café 2
+PSSMID_Cafeteria1	Café 3
+PSSMID_Cafeteria2	Café 4
+PSSMID_Cafeteria3	Café 5
+PSSMID_WeaponShop_front	Arsenal 1
+PSSMID_WeaponShop1	Arsenal 2
+PSSMID_ItemShop_front	Laden 1
+PSSMID_ItemShop1	Laden 2
+PSSMID_RefineShop_front	Schmiede 1
+PSSMID_RefineShop1	Schmiede 2
+PSSMID_AccessoryShop_front	Boutique 1
+PSSMID_AccessoryShop1	Boutique 2
+PSSMID_Poolside_front	Schwimmbad 1
+PSSMID_Poolside1	Schwimmbad 2
+PSSMID_FleaMarket_front	Flohmarkt 1
+PSSMID_FleaMarket1	Flohmarkt 2
+PSSMID_Fortune_front	Wahrsager 1
+PSSMID_Fortune1	Wahrsager 2
+PSSMID_Orchard_front	Obstgarten 1
+PSSMID_Orchard1	Obstgarten 2
+PSSMID_Fountain_front	Springbrunnen 1
+PSSMID_Fountain1	Springbrunnen 2
+PSSMID_Corridor1	Gang
+PSSMID_Pond_front	Teich 1
+PSSMID_Pond1	Teich 2
+PSSMID_Pond2	Teich 3
+PSSMID_TrainingSpot_front	Trainingsplatz 1
+PSSMID_TrainingSpot1	Trainingsplatz 2
+PSSMID_TrainingSpot2	Trainingsplatz 3
+PSSMID_TrainingSpot3	Trainingsplatz 4
+PSSMID_TrainingSpot4	Trainingsplatz 5
+PSSMID_Farm_front	Gehöft 1
+PSSMID_Farm1	Gehöft 2
+PSSMID_Farm2	Gehöft 3
+PSSMID_Farm3	Gehöft 4
+PSSMID_Cave_front	Grotte 1
+PSSMID_Cave1	Grotte 2
+PSSMID_GoodViewSpot_front	Aussichtspunkt 1
+PSSMID_GoodViewSpot1	Aussichtspunkt 2
+PSSMID_Tower_front	Turm der Prüfungen 1
+PSSMID_Tower1	Turm der Prüfungen 2
+MID_MASCOT_SCARFCOLOR_1	Pfirsich
+MID_MASCOT_SCARFCOLOR_2	Erdbeere
+MID_MASCOT_SCARFCOLOR_3	Meer
+MID_MASCOT_SCARFCOLOR_4	Orange
+MID_MASCOT_SCARFCOLOR_5	Zitrone
+MID_MASCOT_SCARFCOLOR_6	Himmel
+MID_MASCOT_SCARFCOLOR_7	Pfefferminz
+MID_MASCOT_SCARFCOLOR_8	Laub
+MID_MASCOT_SCARFCOLOR_9	Olive
+MID_MASCOT_SCARFCOLOR_10	Traube
+MID_MASCOT_SCARFCOLOR_11	Kohle
+MID_MASCOT_SCARFCOLOR_12	Reis

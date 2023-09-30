@@ -1,0 +1,48 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x0A\x08リュール\nQuest'isola ha una strana atmosfera... Sembra\nemanare un'energia magica.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06セリカ\nAssomiglia molto a un luogo che c'era nel mio\nmondo, dove si trovava il Tempio del Mare.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nAh, sì? Che posto era?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06セリカ\nEra un'isola dello stretto di Novis, nel mare di\nZofia, dove si trovava una caverna con un altare\ndedicato alla dea Mila.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nMagari ce n'è uno simile anche qui.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06セリカ\nAll'epoca avevo appena iniziato la mia\navventura. Sapevo poco del mondo.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06セリカ\nAvevo le mie idee e non ascoltavo i miei alleati.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nA vederti adesso non si direbbe.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06セリカ\nAllora visitai il Tempio di Mila nella speranza\ndi scoprire come salvare la mia patria.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06セリカ\nMa scoprimmo che sull'isola si trovava un\nterribile necrodrago che avrebbe potuto\nucciderci tutti.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06セリカ\nE questo subito dopo aver scacciato una banda\ndi pirati... Che vita spericolata.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nDirei che hai aiutato molta gente durante i tuoi\nviaggi.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06セリカ\n\x0E\x06\x03\x00, al posto mio avresti fatto\nla stessa cosa?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nCerto. Neanche io riesco a ignorare una richiesta\ndi aiuto. Non bado al pericolo, in quei casi.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06セリカ\nSo che l'avresti fatto. Sei forte e coraggios\x0E\x0A\x00\x08\x02o\x02a.\nForse è questa la ragione che ci ha condott\x0E\x0A\x00\x08\x02i\x02e\nqui.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nNon capisco. In che senso?\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06セリカ\nIn questo luogo verrai sottopost\x0E\x0A\x00\x08\x02o\x02a a una sfida.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06セリカ\nSe la supererai, il nostro legame diventerà\nancora più forte.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06セリカ\nAvanti, sfodera le tue armi e dimostrami di\navere coraggio.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nVincerò io, aspetta e vedrai!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nÈ tutto pronto per la battaglia. Cominciamo.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nContinuano ad arrivare rinforzi nemici.\nCi conviene liberarci al più presto di chi li sta\nchiamando...\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x18\x06セリカ\x0ESerious\n\x0E\x03\x02\x08\x06セリカ\n\x0E\x06\x03\x00, sei gentile, sai.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x10\x06セリカ\x06Sad\n\x0E\x03\x02\x08\x06セリカ\nMa, purtroppo, la gentilezza da sola non basta\na salvare il mondo.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nLo so. Ci vuole anche la forza.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nSì, se possiedi solo una di queste due qualità,\nsei destinat\x0E\x0A\x00\x08\x02o\x02a a fallire. Sono entrambi aspetti\nindispensabili. Vediamo se li possiedi!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nSembri felice, Alfred.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nStavo pensando che conosci il Firene dai tempi\nantichi. È compito mio mostrarti quanto siamo\nforti adesso.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nSbaglio o le tue parole trasudano molta\nautostima?\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nNon potrebbe essere altrimenti, avendo la\ncertezza che vincerò la sfida!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x16\x06セリカ\x0CStatus\n\x0E\x03\x02\x08\x06セリカ\nDevo ammettere che è strano combattere\ncontro di te, Céline.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x12\x08セリーヌ\x06Sad\n\x0E\x03\x02\x0A\x08セリーヌ\nCapisco. Piacerebbe anche a me sedermi a\nfare due chiacchiere, ma dato che è una sfida\nnon credo sia il momento adatto...\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x18\x08セリーヌ\x0CStrike\n\x0E\x03\x02\x0A\x08セリーヌ\nQuindi, invece di stare a chiacchierare\ncortesemente, combatterò con tutta me stessa.\nTi sta bene?\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\x06セリカ\x0EStandBy\n\x0E\x03\x02\x08\x06セリカ\nAnch'io non mi tratterrò, bada bene. Fammi\nvedere cosa sai fare.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x08\x06セリカ\nMi arrendo. Hai superato la sfida,\n\x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nGrazie, Celica.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06セリカ\nI legami che stringi ti rendono ancora più forte.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06セリカ\nContinua a coltivare questi legami con i tuoi\nalleati. Sono importanti.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06セリカ\nSolo così avrai la forza per salvare il mondo.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nMetterò tutt\x0E\x0A\x00\x08\x02o\x02a me stess\x0E\x0A\x00\x08\x02o\x02a in questo compito.\nColtiverò i legami che già ho e ne creerò di\nnuovi.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06セリカ\nUna volta ristabilita la pace con la forza, potrai\nfinalmente affidarti solo alla tua gentilezza.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06セリカ\nCon la gentilezza puoi creare un mondo senza\nconflitti e soprusi.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nCredi che ne sia in grado?\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06セリカ\nCerto, ho fiducia nelle tua capacità. Non sarà\nfacile, ma ce la farai.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nSpero che tu abbia ragione, Celica. Non mi resta\nche provare.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06セリカ\nEheh. Uniamo i nostri poteri e riportiamo\nla gentilezza in questo mondo, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nPuoi dirlo forte!\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

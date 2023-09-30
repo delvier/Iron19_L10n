@@ -1,0 +1,924 @@
+MSID_Hp_5	HP+5
+MSID_H_Hp_5	항상 HP가 5 상승한다.
+MSID_Hp_7	HP+7
+MSID_H_Hp_7	항상 HP가 7 상승한다.
+MSID_Hp_10	HP+10
+MSID_H_Hp_10	항상 HP가 10 상승한다.
+MSID_Hp_12	HP+12
+MSID_H_Hp_12	항상 HP가 12 상승한다.
+MSID_Hp_15	HP+15
+MSID_H_Hp_15	항상 HP가 15 상승한다.
+MSID_Str_1	힘+1
+MSID_H_Str_1	항상 힘이 1 상승한다.
+MSID_Str_2	힘+2
+MSID_H_Str_2	항상 힘이 2 상승한다.
+MSID_Str_3	힘+3
+MSID_H_Str_3	항상 힘이 3 상승한다.
+MSID_Str_4	힘+4
+MSID_H_Str_4	항상 힘이 4 상승한다.
+MSID_Str_5	힘+5
+MSID_H_Str_5	항상 힘이 5 상승한다.
+MSID_Str_6	힘+6
+MSID_H_Str_6	항상 힘이 6 상승한다.
+MSID_Tec_1	기술+1
+MSID_H_Tec_1	항상 기술이 1 상승한다.
+MSID_Tec_2	기술+2
+MSID_H_Tec_2	항상 기술이 2 상승한다.
+MSID_Tec_3	기술+3
+MSID_H_Tec_3	항상 기술이 3 상승한다.
+MSID_Tec_4	기술+4
+MSID_H_Tec_4	항상 기술이 4 상승한다.
+MSID_Tec_5	기술+5
+MSID_H_Tec_5	항상 기술이 5 상승한다.
+MSID_Spd_1	속도+1
+MSID_H_Spd_1	항상 속도가 1 상승한다.
+MSID_Spd_2	속도+2
+MSID_H_Spd_2	항상 속도가 2 상승한다.
+MSID_Spd_3	속도+3
+MSID_H_Spd_3	항상 속도가 3 상승한다.
+MSID_Spd_4	속도+4
+MSID_H_Spd_4	항상 속도가 4 상승한다.
+MSID_Spd_5	속도+5
+MSID_H_Spd_5	항상 속도가 5 상승한다.
+MSID_Lck_2	행운+2
+MSID_H_Lck_2	항상 행운이 2 상승한다.
+MSID_Lck_4	행운+4
+MSID_H_Lck_4	항상 행운이 4 상승한다.
+MSID_Lck_6	행운+6
+MSID_H_Lck_6	항상 행운이 6 상승한다.
+MSID_Lck_8	행운+8
+MSID_H_Lck_8	항상 행운이 8 상승한다.
+MSID_Lck_10	행운+10
+MSID_H_Lck_10	항상 행운이 10 상승한다.
+MSID_Lck_12	행운+12
+MSID_H_Lck_12	항상 행운이 12 상승한다.
+MSID_Def_1	수비+1
+MSID_H_Def_1	항상 수비가 1 상승한다.
+MSID_Def_2	수비+2
+MSID_H_Def_2	항상 수비가 2 상승한다.
+MSID_Def_3	수비+3
+MSID_H_Def_3	항상 수비가 3 상승한다.
+MSID_Def_4	수비+4
+MSID_H_Def_4	항상 수비가 4 상승한다.
+MSID_Def_5	수비+5
+MSID_H_Def_5	항상 수비가 5 상승한다.
+MSID_Mag_2	마력+2
+MSID_H_Mag_2	항상 마력이 2 상승한다.
+MSID_Mag_3	마력+3
+MSID_H_Mag_3	항상 마력이 3 상승한다.
+MSID_Mag_4	마력+4
+MSID_H_Mag_4	항상 마력이 4 상승한다.
+MSID_Mag_5	마력+5
+MSID_H_Mag_5	항상 마력이 5 상승한다.
+MSID_Res_2	마방+2
+MSID_H_Res_2	항상 마방이 2 상승한다.
+MSID_Res_3	마방+3
+MSID_H_Res_3	항상 마방이 3 상승한다.
+MSID_Res_4	마방+4
+MSID_H_Res_4	항상 마방이 4 상승한다.
+MSID_Res_5	마방+5
+MSID_H_Res_5	항상 마방이 5 상승한다.
+MSID_Phy_3	체격+3
+MSID_H_Phy_3	항상 체격이 3 상승한다.
+MSID_Phy_4	체격+4
+MSID_H_Phy_4	항상 체격이 4 상승한다.
+MSID_Phy_5	체격+5
+MSID_H_Phy_5	항상 체격이 5 상승한다.
+MSID_Mov_1	이동+1
+MSID_H_Mov_1	항상 이동이 1 상승한다.
+MSID_Avo_10	회피+10
+MSID_H_Avo_10	항상 회피가 10 상승한다.
+MSID_Avo_15	회피+15
+MSID_H_Avo_15	항상 회피가 15 상승한다.
+MSID_Avo_20	회피+20
+MSID_H_Avo_20	항상 회피가 20 상승한다.
+MSID_Avo_25	회피+25
+MSID_H_Avo_25	항상 회피가 25 상승한다.
+MSID_Avo_30	회피+30
+MSID_H_Avo_30	항상 회피가 30 상승한다.
+MSID_Hit_10	명중+10
+MSID_H_Hit_10	항상 명중이 10 상승한다.
+MSID_Hit_15	명중+15
+MSID_H_Hit_15	항상 명중이 15 상승한다.
+MSID_Hit_20	명중+20
+MSID_H_Hit_20	항상 명중이 20 상승한다.
+MSID_Hit_25	명중+25
+MSID_H_Hit_25	항상 명중이 25 상승한다.
+MSID_Hit_30	명중+30
+MSID_H_Hit_30	항상 명중이 30 상승한다.
+MSID_CriAvo_10	필살 회피+10
+MSID_H_CriAvo_10	항상 필살 회피가 10 상승한다.
+MSID_CriAvo_15	필살 회피+15
+MSID_H_CriAvo_15	항상 필살 회피가 15 상승한다.
+MSID_CriAvo_20	필살 회피+20
+MSID_H_CriAvo_20	항상 필살 회피가 20 상승한다.
+MSID_CriAvo_25	필살 회피+25
+MSID_H_CriAvo_25	항상 필살 회피가 25 상승한다.
+MSID_CriAvo_30	필살 회피+30
+MSID_H_CriAvo_30	항상 필살 회피가 30 상승한다.
+MSID_SwordArts_Soft_1	검술·유 Lv.1
+MSID_H_SwordArts_Soft_1	검 장비 시 회피+10, 필살-10.
+MSID_SwordArts_Soft_2	검술·유 Lv.2
+MSID_H_SwordArts_Soft_2	검 장비 시 회피+15, 필살-10.
+MSID_SwordArts_Soft_3	검술·유 Lv.3
+MSID_H_SwordArts_Soft_3	검 장비 시 회피+20, 필살-10.
+MSID_SwordArts_Soft_4	검술·유 Lv.4
+MSID_H_SwordArts_Soft_4	검 장비 시 회피+25, 필살-10.
+MSID_SwordArts_Soft_5	검술·유 Lv.5
+MSID_H_SwordArts_Soft_5	검 장비 시 회피+30, 필살-10.
+MSID_SwordArts_Hard_1	검술·강 Lv.1
+MSID_H_SwordArts_Hard_1	검 장비 시 공격력+2, 회피-10.
+MSID_SwordArts_Hard_2	검술·강 Lv.2
+MSID_H_SwordArts_Hard_2	검 장비 시 공격력+4, 회피-10.
+MSID_SwordArts_Hard_3	검술·강 Lv.3
+MSID_H_SwordArts_Hard_3	검 장비 시 공격력+6, 회피-10.
+MSID_SwordArts_Hard_4	검술·강 Lv.4
+MSID_H_SwordArts_Hard_4	검 장비 시 공격력+8, 회피-10.
+MSID_SwordArts_Hard_5	검술·강 Lv.5
+MSID_H_SwordArts_Hard_5	검 장비 시 공격력+10, 회피-10.
+MSID_SwordArts_Mind_1	검술·심 Lv.1
+MSID_H_SwordArts_Mind_1	검 장비 시 명중+10, 필살 회피-10.
+MSID_SwordArts_Mind_2	검술·심 Lv.2
+MSID_H_SwordArts_Mind_2	검 장비 시 명중+15, 필살 회피-10.
+MSID_SwordArts_Mind_3	검술·심 Lv.3
+MSID_H_SwordArts_Mind_3	검 장비 시 명중+20, 필살 회피-10.
+MSID_SwordArts_Mind_4	검술·심 Lv.4
+MSID_H_SwordArts_Mind_4	검 장비 시 명중+25, 필살 회피-10.
+MSID_SwordArts_Mind_5	검술·심 Lv.5
+MSID_H_SwordArts_Mind_5	검 장비 시 명중+30, 필살 회피-10.
+MSID_LanceArts_Soft_1	창술·유 Lv.1
+MSID_H_LanceArts_Soft_1	창 장비 시 회피+10, 필살-10.
+MSID_LanceArts_Soft_2	창술·유 Lv.2
+MSID_H_LanceArts_Soft_2	창 장비 시 회피+15, 필살-10.
+MSID_LanceArts_Soft_3	창술·유 Lv.3
+MSID_H_LanceArts_Soft_3	창 장비 시 회피+20, 필살-10.
+MSID_LanceArts_Soft_4	창술·유 Lv.4
+MSID_H_LanceArts_Soft_4	창 장비 시 회피+25, 필살-10.
+MSID_LanceArts_Soft_5	창술·유 Lv.5
+MSID_H_LanceArts_Soft_5	창 장비 시 회피+30, 필살-10.
+MSID_LanceArts_Hard_1	창술·강 Lv.1
+MSID_H_LanceArts_Hard_1	창 장비 시 공격력+2, 회피-10.
+MSID_LanceArts_Hard_2	창술·강 Lv.2
+MSID_H_LanceArts_Hard_2	창 장비 시 공격력+4, 회피-10.
+MSID_LanceArts_Hard_3	창술·강 Lv.3
+MSID_H_LanceArts_Hard_3	창 장비 시 공격력+6, 회피-10.
+MSID_LanceArts_Hard_4	창술·강 Lv.4
+MSID_H_LanceArts_Hard_4	창 장비 시 공격력+8, 회피-10.
+MSID_LanceArts_Hard_5	창술·강 Lv.5
+MSID_H_LanceArts_Hard_5	창 장비 시 공격력+10, 회피-10.
+MSID_AxeArts_Hard_1	도끼술·강 Lv.1
+MSID_H_AxeArts_Hard_1	도끼 장비 시 공격력+2, 회피-10.
+MSID_AxeArts_Hard_2	도끼술·강 Lv.2
+MSID_H_AxeArts_Hard_2	도끼 장비 시 공격력+4, 회피-10.
+MSID_AxeArts_Hard_3	도끼술·강 Lv.3
+MSID_H_AxeArts_Hard_3	도끼 장비 시 공격력+6, 회피-10.
+MSID_AxeArts_Hard_4	도끼술·강 Lv.4
+MSID_H_AxeArts_Hard_4	도끼 장비 시 공격력+8, 회피-10.
+MSID_AxeArts_Hard_5	도끼술·강 Lv.5
+MSID_H_AxeArts_Hard_5	도끼 장비 시 공격력+10, 회피-10.
+MSID_BowArts_Soft_1	궁술·유 Lv.1
+MSID_H_BowArts_Soft_1	활 장비 시 회피+10, 필살-10.
+MSID_BowArts_Soft_2	궁술·유 Lv.2
+MSID_H_BowArts_Soft_2	활 장비 시 회피+15, 필살-10.
+MSID_BowArts_Soft_3	궁술·유 Lv.3
+MSID_H_BowArts_Soft_3	활 장비 시 회피+20, 필살-10.
+MSID_BowArts_Soft_4	궁술·유 Lv.4
+MSID_H_BowArts_Soft_4	활 장비 시 회피+25, 필살-10.
+MSID_BowArts_Soft_5	궁술·유 Lv.5
+MSID_H_BowArts_Soft_5	활 장비 시 회피+30, 필살-10.
+MSID_BowArts_Mind_1	궁술·심 Lv.1
+MSID_H_BowArts_Mind_1	활 장비 시 명중+10, 필살 회피-10.
+MSID_BowArts_Mind_2	궁술·심 Lv.2
+MSID_H_BowArts_Mind_2	활 장비 시 명중+15, 필살 회피-10.
+MSID_BowArts_Mind_3	궁술·심 Lv.3
+MSID_H_BowArts_Mind_3	활 장비 시 명중+20, 필살 회피-10.
+MSID_BowArts_Mind_4	궁술·심 Lv.4
+MSID_H_BowArts_Mind_4	활 장비 시 명중+25, 필살 회피-10.
+MSID_BowArts_Mind_5	궁술·심 Lv.5
+MSID_H_BowArts_Mind_5	활 장비 시 명중+30, 필살 회피-10.
+MSID_MartialArts_Mind_1	체술·심 Lv.1
+MSID_H_MartialArts_Mind_1	체술 장비 시 명중+10, 필살 회피-10.
+MSID_MartialArts_Mind_2	체술·심 Lv.2
+MSID_H_MartialArts_Mind_2	체술 장비 시 명중+15, 필살 회피-10.
+MSID_MartialArts_Mind_3	체술·심 Lv.3
+MSID_H_MartialArts_Mind_3	체술 장비 시 명중+20, 필살 회피-10.
+MSID_MartialArts_Mind_4	체술·심 Lv.4
+MSID_H_MartialArts_Mind_4	체술 장비 시 명중+25, 필살 회피-10.
+MSID_MartialArts_Mind_5	체술·심 Lv.5
+MSID_H_MartialArts_Mind_5	체술 장비 시 명중+30, 필살 회피-10.
+MSID_KnifeArts_1	단검술 Lv.1
+MSID_H_KnifeArts_1	단검 장비 시 명중+3, 회피+3.
+MSID_KnifeArts_2	단검술 Lv.2
+MSID_H_KnifeArts_2	단검 장비 시 명중+5, 회피+5.
+MSID_KnifeArts_3	단검술 Lv.3
+MSID_H_KnifeArts_3	단검 장비 시 명중+7, 회피+7.
+MSID_KnifeArts_4	단검술 Lv.4
+MSID_H_KnifeArts_4	단검 장비 시 명중+10, 회피+10.
+MSID_KnifeArts_5	단검술 Lv.5
+MSID_H_KnifeArts_5	단검 장비 시 명중+15, 회피+15.
+MSID_MagicArts_1	마도 Lv.1
+MSID_H_MagicArts_1	마도서 장비 시 명중+3, 회피+3.
+MSID_MagicArts_2	마도 Lv.2
+MSID_H_MagicArts_2	마도서 장비 시 명중+5, 회피+5.
+MSID_MagicArts_3	마도 Lv.3
+MSID_H_MagicArts_3	마도서 장비 시 명중+7, 회피+7.
+MSID_MagicArts_4	마도 Lv.4
+MSID_H_MagicArts_4	마도서 장비 시 명중+10, 회피+10.
+MSID_MagicArts_5	마도 Lv.5
+MSID_H_MagicArts_5	마도서 장비 시 명중+15, 회피+15.
+MSID_RodArts_1	신앙 Lv.1
+MSID_H_RodArts_1	HP 회복량+3, 지팡이 명중+10.
+MSID_RodArts_2	신앙 Lv.2
+MSID_H_RodArts_2	HP 회복량+5, 지팡이 명중+15.
+MSID_RodArts_3	신앙 Lv.3
+MSID_H_RodArts_3	HP 회복량+7, 지팡이 명중+20.
+MSID_RodArts_4	신앙 Lv.4
+MSID_H_RodArts_4	HP 회복량+10, 지팡이 명중+25.
+MSID_RodArts_5	신앙 Lv.5
+MSID_H_RodArts_5	HP 회복량+15, 지팡이 명중+30.
+MSID_Outclass_1	간파
+MSID_H_Outclass_1	직접 공격 시, 회피+15.\n속도가 높으면 추가로 회피가 상승한다.
+MSID_Outclass_2	간파+
+MSID_H_Outclass_2	직접 공격 시, 회피+30.\n속도가 높으면 추가로 회피가 상승한다.
+MSID_Fortitude_1	불굴
+MSID_H_Fortitude_1	아군 페이즈 개시와 동시에\nHP가 20% 이하일 경우\nHP를 최대치의 20%만큼 회복한다.
+MSID_Fortitude_2	불굴+
+MSID_H_Fortitude_2	아군 페이즈 개시와 동시에\nHP가 30% 이하일 경우\nHP를 최대치의 30%만큼 회복한다.
+MSID_Fortitude_3	불굴++
+MSID_H_Fortitude_3	아군 페이즈 개시와 동시에\nHP가 40% 이하일 경우\nHP를 최대치의 40%만큼 회복한다.
+MSID_MarthEngage	신속
+MSID_H_MarthEngage	공격 시에 대미지 50%의 추격이 발생한다.\n(다른 추격을 발생시키는 스킬과\n동시에 발동 가능)
+MSID_H_MarthEngage_Covert	공격 시에 대미지 50%의 추격이 발생한다.\n(다른 추격을 발생시키는 스킬과\n동시에 발동 가능)\n[은밀]이 스킬로 발생한 추격이 명중했을 때\n상대에게 독을 부여한다.
+MSID_H_MarthEngage_Dragon	공격 시에 대미지 50%의 추격이 발생한다.\n(다른 추격을 발생시키는 스킬과\n동시에 발동 가능)\n[용족]이 스킬로 발생한 추격이\n입힌 대미지만큼 자신의 HP를 회복한다.
+MSID_BreakPursuit	몰아붙이기
+MSID_H_BreakPursuit	상대를 브레이크시켰을 때\n대미지 50%의 추격이 발생한다.
+MSID_MarthEngageAtk	스타 러시
+MSID_H_MarthEngageAtk	대미지 30%의 7연속 공격.\n검·인접 시 한정.
+MSID_H_MarthEngageAtk_Dragon	대미지 30%의 7연속 공격.\n검·인접 시 한정.\n[용족]공격 횟수+2.
+MSID_H_MarthEngageAtk_Coop	대미지 30%의 7연속 공격.\n검·인접 시 한정.\n[연계]공격 횟수+1.
+MSID_H_MarthEngageAtk_Magic	대미지 30%의 7연속 공격.\n검·인접 시 한정.\n[마도]대미지 계산에 마력을 반영한다.
+MSID_H_MarthEngageAtk_CMD	강력한 연속 공격을 퍼붓는다
+MSID_Remove_1	재이동
+MSID_H_Remove_1	행동 후, 2칸 이동할 수 있다.
+MSID_Remove_2	재이동+
+MSID_H_Remove_2	행동 후, 3칸 이동할 수 있다.
+MSID_Approach_1	도움닫기
+MSID_H_Approach_1	이동 후 공격 시\n이동한 거리 1칸마다\n공격력이 1 상승한다(최대+10).
+MSID_Approach_2	도움닫기+
+MSID_H_Approach_2	이동 후 공격 시\n이동한 거리 1칸마다\n공격력이 1 상승한다.
+MSID_Rush	맹진
+MSID_H_Rush	프리즈 상태에 걸리지 않는다.
+MSID_SigludEngage	질주
+MSID_H_SigludEngage	이동이 5 상승한다.
+MSID_H_SigludEngage_Dragon	이동이 5 상승한다.\n[용족]추가로 이동이 1 상승.
+MSID_H_SigludEngage_Horse	이동이 5 상승한다.\n[기마]추가로 이동이 2 상승.
+MSID_H_SigludEngage_Covert	이동이 5 상승한다.\n[은밀]모든 지형의 이동 코스트를\n1로 취급한다.
+MSID_SigludEngageAtk	오버드라이브
+MSID_H_SigludEngageAtk	적을 공격하면서 그 뒤쪽 칸까지 이동한다.\n검·창·인접 시 한정.
+MSID_H_SigludEngageAtk_Dragon	적을 공격하면서 그 뒤쪽 칸까지 이동한다.\n검·창·인접 시 한정.\n[용족]대미지 120％.
+MSID_H_SigludEngageAtk_Heavy	적을 공격하면서 그 뒤쪽 칸까지 이동한다.\n검·창·인접 시 한정.\n[중갑]10％ 확률로 브레이크시킨다.
+MSID_H_SigludEngageAtk_Magic	적을 공격하면서 그 뒤쪽 칸까지 이동한다.\n검·창·인접 시 한정.\n[마도]대미지에 마력의 25％를 추가.
+MSID_H_SigludEngageAtk_Prana	적을 공격하면서 그 뒤쪽 칸까지 이동한다.\n검·창·인접 시 한정.\n[기공]20％ 확률로 브레이크시킨다.
+MSID_H_SigludEngageAtk_CMD	적을 공격하면서 이동한다
+MSID_M011_SigludEngage_DarkSide	질주(어둠)
+MSID_H_M011_SigludEngage_DarkSide	이동이 3 상승한다.
+MSID_EvilCounter_1	이형 리벤지
+MSID_H_EvilCounter_1	이형병에게 공격받았을 때\n받은 대미지의 10%를 상대에게 입힌다.
+MSID_EvilCounter_2	이형 리벤지+
+MSID_H_EvilCounter_2	이형병에게 공격받았을 때\n받은 대미지의 30%를 상대에게 입힌다.
+MSID_EvilCounter_3	이형 리벤지++
+MSID_H_EvilCounter_3	이형병에게 공격받았을 때\n받은 대미지의 50%를 상대에게 입힌다.
+MSID_BlackMagic_1	공명의 흑마법
+MSID_H_BlackMagic_1	마도서로 공격 시\n자신의 HP가 2 이상이라면\nHP를 1 소비해 대미지+2.
+MSID_BlackMagic_2	공명의 흑마법+
+MSID_H_BlackMagic_2	마도서로 공격 시\n자신의 HP가 2 이상이라면\nHP를 1 소비해 대미지+3.
+MSID_FavoriteFood	가장 좋아하는 음식
+MSID_H_FavoriteFood	싱크로 중에 도시락을 먹으면\n인게이지 카운트가 최대치가 된다.
+MSID_CelicaEngage	중창
+MSID_H_CelicaEngage	대미지 50%의 마법 공격을 통한 전투를\n2회 할 수 있는 ｢중창｣ 커맨드 사용 가능.
+MSID_H_CelicaEngage_Dragon	대미지 50%의 마법 공격을 통한 전투를\n2회 할 수 있는 ｢중창｣ 커맨드 사용 가능.\n[용족]사정거리+1.
+MSID_H_CelicaEngage_Magic	대미지 50%의 마법 공격을 통한 전투를\n2회 할 수 있는 ｢중창｣ 커맨드 사용 가능.\n[마도]대미지+10％.
+MSID_H_CelicaEngage_CMD	대미지 50%의 마법을 통한 2회 전투
+MSID_CelicaEngageAtk	워프라이나
+MSID_H_CelicaEngageAtk	적에게 공격 가능한 10칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.
+MSID_H_CelicaEngageAtk_Dragon	적에게 공격 가능한 10칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.\n[용족]사정거리+1.
+MSID_H_CelicaEngageAtk_Horse	적에게 공격 가능한 10칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.\n[기마]워프할 수 있는 거리+2.
+MSID_H_CelicaEngageAtk_Fly	적에게 공격 가능한 10칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.\n[비행]워프할 수 있는 거리+5.
+MSID_H_CelicaEngageAtk_Magic	적에게 공격 가능한 10칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.\n[마도]대미지 120%.
+MSID_H_CelicaEngageAtk_CMD	공격 가능한 위치로 워프해 마법 공격
+MSID_M011_CelicaEngageAtk_DarkSide	워프라이나(어둠)
+MSID_CelicaEngageAtk_DarkSide	라이나워프
+MSID_H_CelicaEngageAtk_DarkSide	강력한 마법 공격을 한 뒤 워프한다.
+MSID_H_CelicaEngageAtk_DarkSide_CMD	강력한 마법 공격을 한 뒤 워프한다
+MSID_H_M011_CelicaEngageAtk_DarkSide	적에게 공격 가능한 5칸 이내의 위치로\n워프해 강력한 마법으로 공격한다.
+MSID_EvilCounter_3_DarkSide	리벤지
+MSID_H_EvilCounter_3_DarkSide	이형병이 아닌 상대에게 공격받았을 때\n받은 대미지의 50%를 상대에게 입힌다.
+MSID_EquipRod_1	지팡이 숙련
+MSID_H_EquipRod_1	레벨 C 지팡이까지 사용할 수 있게 된다.
+MSID_EquipRod_2	지팡이 숙련+
+MSID_H_EquipRod_2	레벨 B 지팡이까지 사용할 수 있게 된다.
+MSID_EquipRod_3	지팡이 숙련++
+MSID_H_EquipRod_3	레벨 A 지팡이까지 사용할 수 있게 된다.
+MSID_Silenceproof	사일런스 가드
+MSID_H_Silenceproof	사일런스 상태를 무효화한다.
+MSID_HealingResonance	치유의 울림
+MSID_H_HealingResonance	아군 1명을 회복시켰을 때\n회복량의 50%만큼 자신의 HP도 회복한다.
+MSID_MicaiahEngage	증폭
+MSID_H_MicaiahEngage	지팡이의 사정거리·전이 등의 거리+5,\n지팡이의 효과 범위+1.
+MSID_H_MicaiahEngage_Dragon	지팡이의 사정거리·전이 등의 거리+5,\n지팡이의 효과 범위+1.\n[용족]추가로 지팡이의 사정거리+1.
+MSID_H_MicaiahEngage_Prana	지팡이의 사정거리·전이 등의 거리+5,\n지팡이의 효과 범위+1.\n[기공]HP 회복 지팡이일 경우, 회복량 120%.
+MSID_MicaiahEngageAtk	위대한 치유의 손
+MSID_H_MicaiahEngageAtk	아군·우군 전원의 HP를 전부 회복.\n사용 후, 자신의 HP는 1이 된다.
+MSID_H_MicaiahEngageAtk_Dragon	아군·우군 전원의 HP를 전부 회복.\n사용 후, 자신의 HP는 1이 된다.\n[용족]사용 후, HP는 30%가 된다.
+MSID_H_MicaiahEngageAtk_Heavy	아군·우군 전원의 HP를 전부 회복.\n사용 후, 자신의 HP는 1이 된다.\n[중갑]아군 전원의 다음 전투 수비+1.
+MSID_H_MicaiahEngageAtk_Prana	아군·우군 전원의 HP를 전부 회복.\n사용 후, 자신의 HP는 1이 된다.\n[기공]상태 이상을 회복한다.
+MSID_H_MicaiahEngageAtk_CMD	HP를 소비해\n아군 전원의 HP 전부 회복
+MSID_M011_MicaiahEngage_DarkSide	증폭(어둠)
+MSID_H_M011_MicaiahEngage_DarkSide	지팡이의 사정거리·전이 등의 거리+3,\n지팡이의 효과 범위+1.
+MSID_HoldOut_1	분발
+MSID_H_HoldOut_1	전투 개시 시에 HP가 30% 이상일 경우\n그 전투에서 아무리 대미지를 받아도\nHP가 1 남는다.
+MSID_HoldOut_2	분발+
+MSID_H_HoldOut_2	전투 개시 시에 HP가 20% 이상일 경우\n그 전투에서 아무리 대미지를 받아도\nHP가 1 남는다.
+MSID_HoldOut_3	분발++
+MSID_H_HoldOut_3	전투 개시 시에 HP가 10% 이상일 경우\n그 전투에서 아무리 대미지를 받아도\nHP가 1 남는다.
+MSID_HoldOut_4	분발+++
+MSID_H_HoldOut_4	전투 개시 시에 HP가 2 이상일 경우\n그 전투에서 아무리 대미지를 받아도\nHP가 1 남는다.
+MSID_ClosingAttack	진입
+MSID_H_ClosingAttack	2칸 앞에 있는 적에게 1칸 다가가서\n공격하는 ｢진입｣ 커맨드 사용 가능.
+MSID_H_ClosingAttack_CMD	2칸 앞에 있는 적에게 다가가서 공격
+MSID_RoyEngage	초월
+MSID_H_RoyEngage	유닛 레벨+5.
+MSID_H_RoyEngage_Dragon	유닛 레벨+5.\n[용족]추가로 레벨+1.
+MSID_H_RoyEngage_Horse	유닛 레벨+5.\n[기마]이동+1.
+MSID_H_RoyEngage_Heavy	유닛 레벨+5.\n[중갑]최대 HP+5.
+MSID_RoyEngageAtk	사자 홍련 염무
+MSID_H_RoyEngageAtk	화염의 검으로 대상과 양옆 칸을 공격.\n공격 범위 2칸 뒤까지 화염 상태로 만든다.\n검·인접 시 한정.
+MSID_H_RoyEngageAtk_Dragon	화염의 검으로 대상과 양옆 칸을 공격.\n공격 범위 2칸 뒤까지 화염 상태로 만든다.\n검·인접 시 한정/[용족]공격 범위 확대.
+MSID_H_RoyEngageAtk_Magic	화염의 검으로 대상과 양옆 칸을 공격.\n공격 범위 2칸 뒤까지 화염 상태로 만든다.\n검·인접 시 한정/[마도]화염 범위 확대.
+MSID_H_RoyEngageAtk_CMD	전방 여러 칸을 공격, 주위에 화염
+MSID_M011_RoyEngage_DarkSide	초월(어둠)
+MSID_H_M011_RoyEngage_DarkSide	유닛 레벨+3.
+MSID_AugmentDamage_1	급소 회피
+MSID_H_AugmentDamage_1	무기 상성이 유리할 경우, 받는 대미지-3.
+MSID_AugmentDamage_2	급소 회피+
+MSID_H_AugmentDamage_2	무기 상성이 유리할 경우, 받는 대미지-5.
+MSID_AugmentDamage_3	급소 회피++
+MSID_H_AugmentDamage_3	무기 상성이 유리할 경우, 받는 대미지-7.
+MSID_Ambush_1	매복
+MSID_H_Ambush_1	적에게 공격받았을 때\n자신의 HP가 25% 이하라면 선제공격한다.
+MSID_Ambush_2	매복+
+MSID_H_Ambush_2	적에게 공격받았을 때\n자신의 HP가 50% 이하라면 선제공격한다.
+MSID_Ambush_3	매복++
+MSID_H_Ambush_3	적에게 공격받았을 때\n자신의 HP가 75% 이하라면 선제공격한다.
+MSID_LeafEngage	즉응
+MSID_H_LeafEngage	적에게 공격받았을 때\n사정거리, 상성, 특효 유무 등 더 유효한\n무기를 소지 중일 경우, 교체한다.
+MSID_H_LeafEngage_Dragon	적에게 공격받았을 때\n더 유효한 무기를 소지 중일 경우, 교체한다.\n[용족]그 전투 중 명중+30.
+MSID_H_LeafEngage_Coop	적에게 공격받았을 때\n더 유효한 무기를 소지 중일 경우, 교체한다.\n[연계]그 전투 중 필살+10.
+MSID_H_LeafEngage_Covert	적에게 공격받았을 때\n더 유효한 무기를 소지 중일 경우, 교체한다.\n[은밀]그 전투 중 회피+20.
+MSID_H_LeafEngage_Heavy	적에게 공격받았을 때\n더 유효한 무기를 소지 중일 경우, 교체한다.\n[중갑]그 전투 중 수비+5.
+MSID_H_LeafEngage_Fly	적에게 공격받았을 때\n더 유효한 무기를 소지 중일 경우, 교체한다.\n[비행]그 전투 중 마방+5.
+MSID_LeafEngageAtk	테트라트릭
+MSID_H_LeafEngageAtk	검·창·도끼·활로 연속 공격.
+MSID_H_LeafEngageAtk_Dragon	검·창·도끼·활로 연속 공격.\n[용족]대미지 120％.
+MSID_H_LeafEngageAtk_Covert	검·창·도끼·활로 연속 공격.\n[은밀]적 격파 시, 행운%로 1000G 획득.
+MSID_H_LeafEngageAtk_Prana	검·창·도끼·활로 연속 공격.\n[기공]브레이크 확정.
+MSID_H_LeafEngageAtk_CMD	검·창·도끼·활로 연속 공격
+MSID_BondPower	듀얼 어택
+MSID_H_BondPower	자신의 전투 스타일이 ｢연계｣가 아니어도\n체인 어택에 참가할 수 있게 된다.
+MSID_DualAssist_1	듀얼 어시스트
+MSID_H_DualAssist_1	자신이 공격 가능한 범위(이동+사정거리)\n안에 있는 적을 아군이 공격했을 때\n자신의 전투 스타일이 ｢연계｣거나\n스킬 ｢듀얼 어택｣을 사용할 수 있다면\n35% 확률로 체인 어택에 참가한다.
+MSID_DualAssist_2	듀얼 어시스트+
+MSID_H_DualAssist_2	자신이 공격 가능한 범위(이동+사정거리)\n안에 있는 적을 아군이 공격했을 때\n자신의 전투 스타일이 ｢연계｣거나\n스킬 ｢듀얼 어택｣을 사용할 수 있다면\n70% 확률로 체인 어택에 참가한다.
+MSID_DualSupport	듀얼 서포트
+MSID_H_DualSupport	인접한 아군과의 지원 레벨이 높을수록\n회피가 상승한다(최대+90).
+MSID_LucinaEngage	인연 방패
+MSID_H_LucinaEngage_CMD	인접한 아군이 받는 공격을\n80% 확률로 무효화
+MSID_H_LucinaEngage_CMD_Dragon	인접한 아군이 받는 공격을\n90% 확률로 무효화
+MSID_H_LucinaEngage_CMD_Prana	인접한 아군이 받는 공격을 1회 무효화
+MSID_H_LucinaEngage	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.
+MSID_H_LucinaEngage_Dragon	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.\n[용족]발동 확률+10%.
+MSID_H_LucinaEngage_Horse	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.\n[기마]아군이 기마 스타일이라면 확정 발동.
+MSID_H_LucinaEngage_Heavy	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.\n[중갑]아군이 중갑 스타일이라면 확정 발동.
+MSID_H_LucinaEngage_Fly	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.\n[비행]아군이 비행 스타일이라면 확정 발동.
+MSID_H_LucinaEngage_Prana	인접 아군에 대한 적의 첫 공격을\n80% 확률로 무효화하는\n｢인연 방패｣ 커맨드 사용 가능.\n[기공]100% 확률로 발동.
+MSID_LucinaEngageAtk	올 포 원
+MSID_H_LucinaEngageAtk	자신의 주위 2칸 이내에 있는 아군이\n체인 어택에 참가한다.\n검·인접 시 한정.
+MSID_H_LucinaEngageAtk_Dragon	주위 2칸 이내에 있는 아군이\n체인 어택에 참가한다/검·인접 시 한정.\n[용족]체인 어택 참가자의 명중률 100%.
+MSID_H_LucinaEngageAtk_Coop	주위 2칸 이내에 있는 아군이\n체인 어택에 참가한다/검·인접 시 한정.\n[연계]범위+1.
+MSID_H_LucinaEngageAtk_CMD	주위의 아군이 체인 어택에 참가한다
+MSID_Pursuit_1	연속 공격
+MSID_H_Pursuit_1	직접 공격 시, 추격이 발생할 상황이고\n속도가 상대보다 9 이상 높다면\n적의 반격보다 먼저 추격한다.
+MSID_Pursuit_2	연속 공격+
+MSID_H_Pursuit_2	직접 공격 시, 추격이 발생할 상황이고\n속도가 상대보다 7 이상 높다면\n적의 반격보다 먼저 추격한다.
+MSID_Pursuit_3	연속 공격++
+MSID_H_Pursuit_3	직접 공격 시, 추격이 발생할 상황이고\n속도가 상대보다 5 이상 높다면\n적의 반격보다 먼저 추격한다.
+MSID_SpeedAbsorption	속도 흡수
+MSID_H_SpeedAbsorption	직접 공격으로 적을 쓰러뜨릴 때마다\n속도+2(최대+10, 전투 맵 종료까지).
+MSID_LinEngage	잔상
+MSID_H_LinEngage	자신과 체인 어택이 가능한 잔상을\n4개 만드는 ｢잔상｣ 커맨드 사용 가능.
+MSID_H_LinEngage_Dragon	자신과 체인 어택이 가능한 잔상을\n4개 만드는 ｢잔상｣ 커맨드 사용 가능.\n[용족]잔상의 수+1.
+MSID_H_LinEngage_Fly	자신과 체인 어택이 가능한 잔상을\n4개 만드는 ｢잔상｣ 커맨드 사용 가능.\n[비행]잔상의 회피+10.
+MSID_H_LinEngage_CMD	체인 어택이 가능한 잔상을 생성
+MSID_LinEngage_Delete_CMD	잔상 해제
+MSID_H_LinEngage_Delete_CMD	만들어 낸 잔상을 제거한다
+MSID_LinEngageAtk	유성군
+MSID_H_LinEngageAtk	사정거리 10, 대미지 30%로 5연속 공격.\n활 한정.
+MSID_H_LinEngageAtk_Dragon	사정거리 10, 대미지 30%로 5연속 공격.\n활 한정.\n[용족]사정거리+5.
+MSID_H_LinEngageAtk_Covert	사정거리 10, 대미지 30%로 5연속 공격.\n활 한정.\n[은밀]사정거리+10.
+MSID_H_LinEngageAtk_Prana	사정거리 10, 대미지 30%로 5연속 공격.\n활 한정.\n[기공]브레이크 확정.
+MSID_H_LinEngageAtk_CMD	활을 사용한 초원거리 연속 공격
+MSID_H_LinEngageAtk_Weak	사정거리 10, 대미지 20%로 5연속 공격.\n활 한정.
+MSID_H_LinEngageAtk_DarkSide_Prana	사정거리 10, 대미지 20%로 5연속 공격.\n활 한정.\n[기공]브레이크 확정.
+MSID_Ravage	파괴
+MSID_H_Ravage	｢파괴｣ 커맨드 사용 시\n대상을 일격에 파괴할 수 있게 된다.
+MSID_PullBack	데려오기
+MSID_H_PullBack	인접한 아군을 자신 너머 반대편으로\n이동시키는 ｢데려오기｣ 커맨드 사용 가능.
+MSID_H_PullBack_CMD	아군을 자신의 반대편으로 이동시킨다
+MSID_Anger	분노
+MSID_H_Anger	감소된 HP만큼 필살이 상승한다.\n(최대+30)
+MSID_BraveGeneral_1	용장
+MSID_H_BraveGeneral_1	HP가 75% 이하일 때\n수비·마방+5.
+MSID_BraveGeneral_2	용장+
+MSID_H_BraveGeneral_2	HP가 75% 이하일 때\n수비·마방+7.
+MSID_IkeEngage	부동
+MSID_H_IkeEngage	회피가 0이 되는 대신에\n받는 대미지-50%.
+MSID_H_IkeEngage_Dragon	회피가 0이 되는 대신에\n받는 대미지-50%.\n[용족]추가로 받는 대미지-10%.
+MSID_IkeEngageAtk	패극·에테르
+MSID_H_IkeEngageAtk	반격을 포기하고 수비·마방+5/다음 턴에\n주위 2칸 범위 공격/대미지의 30%만큼\nHP 회복. 검·도끼 한정.
+MSID_H_IkeEngageAtk_Dragon	반격을 포기하고 수비·마방+5/다음 턴에\n주위 2칸 범위 공격/대미지의 30%만큼\nHP 회복. 검·도끼 한정.\n[용족]공격받은 횟수만큼 대미지+1.
+MSID_H_IkeEngageAtk_Heavy	반격을 포기하고 수비·마방+5/다음 턴에\n주위 2칸 범위 공격/대미지의 30%만큼\nHP 회복. 검·도끼 한정.\n[중갑]사용 중 추가로 수비+5.
+MSID_H_IkeEngageAtk_Fly	반격을 포기하고 수비·마방+5/다음 턴에\n주위 2칸 범위 공격/대미지의 30%만큼\nHP 회복. 검·도끼 한정.\n[비행]사용 중 추가로 마방+5.
+MSID_H_IkeEngageAtk_CMD	공격을 견디고 다음 턴에 범위 공격
+MSID_HeavenBeat_1	천각의 박동
+MSID_H_HeavenBeat_1	30% 확률로 빗나간 공격이 명중한다.\n행운이 높으면 추가로 확률이 상승한다.
+MSID_HeavenBeat_2	천각의 박동+
+MSID_H_HeavenBeat_2	50% 확률로 빗나간 공격이 명중한다.\n행운이 높으면 추가로 확률이 상승한다.
+MSID_TeacherGuidance	스승의 인도
+MSID_H_TeacherGuidance	자신 및 자신과 인접한 아군의\n획득 경험치 120%.
+MSID_PickUp	습득
+MSID_H_PickUp	아군 유닛과 인접한 상태에서 자신의\n행동 종료·대기 시에, 행운% 확률로\n분실물을 줍는다.\n(떨어뜨린 아군과의 지원도가 상승한다)
+MSID_PickUp_Message	떨어진 \x0E\x01\x00\x00의 물건을 주워서 건넸다
+MSID_BylethEngage	지도
+MSID_H_BylethEngage	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.
+MSID_H_BylethEngage_Dragon	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[용족]모든 기본 능력+3.
+MSID_BylethEngage_Dragon_CMD	지도<전>
+MSID_H_BylethEngage_Dragon_CMD	주위 2칸 아군의 모든 기본 능력+3
+MSID_H_BylethEngage_Coop	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[연계]힘+4.
+MSID_BylethEngage_Coop_CMD	지도<힘>
+MSID_H_BylethEngage_Coop_CMD	주위 2칸 아군의 힘+4
+MSID_H_BylethEngage_Horse	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[기마]기술+10.
+MSID_BylethEngage_Horse_CMD	지도<기술>
+MSID_H_BylethEngage_Horse_CMD	주위 2칸 아군의 기술+10
+MSID_H_BylethEngage_Covert	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[은밀]속도+5.
+MSID_BylethEngage_Covert_CMD	지도<속도>
+MSID_H_BylethEngage_Covert_CMD	주위 2칸 아군의 속도+5
+MSID_H_BylethEngage_Heavy	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[중갑]수비+5.
+MSID_BylethEngage_Heavy_CMD	지도<수비>
+MSID_H_BylethEngage_Heavy_CMD	주위 2칸 아군의 수비+5
+MSID_H_BylethEngage_Fly	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[비행]마방+5.
+MSID_BylethEngage_Fly_CMD	지도<마방>
+MSID_H_BylethEngage_Fly_CMD	주위 2칸 아군의 마방+5
+MSID_H_BylethEngage_Magic	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[마도]마력+4.
+MSID_BylethEngage_Magic_CMD	지도<마력>
+MSID_H_BylethEngage_Magic_CMD	주위 2칸 아군의 마력+4
+MSID_H_BylethEngage_Prana	주위 2칸의 아군에게 1턴 동안\n스타일에 따른 능력 상승 효과를\n부여하는 ｢지도｣ 커맨드 사용 가능.\n[기공]행운+10.
+MSID_BylethEngage_Prana_CMD	지도<행운>
+MSID_H_BylethEngage_Prana_CMD	주위 2칸 아군의 행운+10
+MSID_BylethEngageAtk	계략: 여신의 춤
+MSID_H_BylethEngageAtk	인접한 4칸의 아군을 재행동시킨다.
+MSID_H_BylethEngageAtk_Dragon	인접한 4칸의 아군을 재행동시킨다.\n[용족]1턴 동안 재행동하는\n아군의 모든 기본 능력+3.
+MSID_H_BylethEngageAtk_Coop	인접한 4칸의 아군을 재행동시킨다.\n[연계]1턴 동안 재행동하는 아군의 힘+4.
+MSID_H_BylethEngageAtk_Horse	인접한 4칸의 아군을 재행동시킨다.\n[기마]1턴 동안 재행동하는 아군의 기술+10.
+MSID_H_BylethEngageAtk_Covert	인접한 4칸의 아군을 재행동시킨다.\n[은밀]1턴 동안 재행동하는 아군의 속도+5.
+MSID_H_BylethEngageAtk_Heavy	인접한 4칸의 아군을 재행동시킨다.\n[중갑]1턴 동안 재행동하는 아군의 수비+5.
+MSID_H_BylethEngageAtk_Fly	인접한 4칸의 아군을 재행동시킨다.\n[비행]1턴 동안 재행동하는 아군의 마방+5.
+MSID_H_BylethEngageAtk_Magic	인접한 4칸의 아군을 재행동시킨다.\n[마도]1턴 동안 재행동하는 아군의 마력+4.
+MSID_H_BylethEngageAtk_Prana	인접한 4칸의 아군을 재행동시킨다.\n[기공]1턴 동안 재행동하는 아군의 행운+10.
+MSID_H_BylethEngageAtk_CMD	인접한 4칸의 아군을 재행동시킨다
+MSID_M014_BylethEngageAtk_DarkSide	계략: 사신의 춤
+MSID_H_M014_BylethEngageAtk_DarkSide	주위 2칸의 아군을 재행동시킨다.
+MSID_DragonPulse	용맥
+MSID_H_DragonPulse	지정된 칸에 특수 효과를 부여하는\n｢용맥｣ 커맨드 사용 가능.
+MSID_H_DragonPulse_CMD	대상 칸에 특수 효과를 부여한다
+MSID_H_DragonPulse_Dragon	지정된 칸에 특수 효과를 부여하는\n｢용맥｣ 커맨드 사용 가능.\n[용족]모든 용맥 사용 가능.
+MSID_DragonPulse_DefUp	용맥<호>
+MSID_H_DragonPulse_DefUp	수비·마방이 상승하는 흙기둥을 발생시킨다
+MSID_H_DragonPulse_Coop	지정된 칸에 특수 효과를 부여하는\n｢용맥<호>｣ 커맨드 사용 가능.\n[연계]수비·마방 상승 효과가 있는\n흙기둥을 발생시킨다.
+MSID_DragonPulse_AvoDown	용맥<수>
+MSID_H_DragonPulse_AvoDown	회피 감소 효과가 있는 웅덩이를 발생시킨다
+MSID_H_DragonPulse_Horse	지정된 칸에 특수 효과를 부여하는\n｢용맥<수>｣ 커맨드 사용 가능.\n[기마]회피 감소 효과가 있는 웅덩이를\n발생시킨다.
+MSID_DragonPulse_AvoUp	용맥<무>
+MSID_H_DragonPulse_AvoUp	회피 상승 효과가 있는 안개를 발생시킨다
+MSID_H_DragonPulse_Covert	지정된 칸에 특수 효과를 부여하는\n｢용맥<무>｣ 커맨드 사용 가능.\n[은밀]회피 상승 효과가 있는 안개를\n발생시킨다.
+MSID_DragonPulse_NotBreak	용맥<녹>
+MSID_H_DragonPulse_NotBreak	브레이크를 무효화하는 덩굴을 발생시킨다
+MSID_H_DragonPulse_Heavy	지정된 칸에 특수 효과를 부여하는\n｢용맥<녹>｣ 커맨드 사용 가능.\n[중갑]브레이크를 무효화하는 덩굴을\n발생시킨다.
+MSID_DragonPulse_Heal	용맥<유>
+MSID_H_DragonPulse_Heal	HP 회복 효과가 있는 치유의 안개를 발생시킨다
+MSID_H_DragonPulse_Fly	지정된 칸에 특수 효과를 부여하는\n｢용맥<유>｣ 커맨드 사용 가능.\n[비행]HP 회복 효과가 있는 치유의 안개를\n발생시킨다.
+MSID_DragonPulse_Damage	용맥<염>
+MSID_H_DragonPulse_Damage	대미지를 입히는 화염을 발생시킨다
+MSID_H_DragonPulse_Magic	지정된 칸에 특수 효과를 부여하는\n｢용맥<염>｣ 커맨드 사용 가능.\n[마도]대미지를 입히는 화염을 발생시킨다.
+MSID_DragonPulse_Block	용맥<빙>
+MSID_H_DragonPulse_Block	진로를 막는 얼음 기둥을 발생시킨다
+MSID_H_DragonPulse_Prana	지정된 칸에 특수 효과를 부여하는\n｢용맥<빙>｣ 커맨드 사용 가능.\n[기공]진로를 막는 얼음 기둥을 발생시킨다.
+MSID_DragonCurse	용의 저주
+MSID_H_DragonCurse	직접 공격 시\n전투 후 상대의 모든 기본 능력-4.\n(효과는 1턴에 1씩 회복된다)
+MSID_DefenseStyle	방진
+MSID_H_DefenseStyle	적의 체인 어택 무효.
+MSID_PhysicalContact_1	스킨십
+MSID_H_PhysicalContact_1	자신의 행동 종료·대기 시에\n인접한 아군의 HP를 5 회복.\n지원도가 조금 상승한다.
+MSID_PhysicalContact_2	스킨십+
+MSID_H_PhysicalContact_2	자신의 행동 종료·대기 시에\n인접한 아군의 HP를 10 회복.\n지원도가 조금 상승한다.
+MSID_KamuiEngage	주박
+MSID_H_KamuiEngage	직접 공격 시, 전투 후에 상대와 그 주위\n1칸 이내의 적을 1턴 이동할 수 없게 한다.
+MSID_H_KamuiEngage_Covert	직접 공격 시, 전투 후에 상대와 그 주위\n1칸 이내의 적을 1턴 이동할 수 없게 한다.\n[은밀]추가로 상대의 회피-20.
+MSID_KamuiEngageAtk	용천포
+MSID_H_KamuiEngageAtk	물의 힘으로 직선 3칸을 공격해\n그 칸을 ｢웅덩이｣로 만든다.\n인접 한정.
+MSID_H_KamuiEngageAtk_Dragon	물의 힘으로 직선 3칸을 공격해\n그 칸을 ｢웅덩이｣로 만든다/인접 한정.\n[용족]공격 범위+1.
+MSID_H_KamuiEngageAtk_CMD	물의 힘으로 직선상 여러 칸을 공격
+MSID_God_Change_CMD	얼터네이트
+MSID_H_God_Change	문장사를 교대해 아군 전원의\n｢달의 팔찌｣를 ｢태양의 팔찌｣로\n｢우풍｣을 ｢용공｣으로 바꾸는\n｢얼터네이트｣ 커맨드 사용 가능.
+MSID_H_God_Change_CMD	문장사를 바꾼다
+MSID_MoonBracelet_1	달의 팔찌
+MSID_H_MoonBracelet_1	물리 공격으로 직접 공격 시\n상대 수비의 20%를 대미지에 추가한다.
+MSID_MoonBracelet_2	달의 팔찌+
+MSID_H_MoonBracelet_2	물리 공격으로 직접 공격 시\n상대 수비의 30%를 대미지에 추가한다.
+MSID_SunBracelet_1	태양의 팔찌
+MSID_H_SunBracelet_1	직접 공격 시\n입힌 대미지의 30%만큼\n자신의 HP를 회복한다.
+MSID_SunBracelet_2	태양의 팔찌+
+MSID_H_SunBracelet_2	직접 공격 시\n입힌 대미지의 50%만큼\n자신의 HP를 회복한다.
+MSID_SunMoonBracelet_1	태양과 달의 팔찌
+MSID_H_SunMoonBracelet_1	직접 공격 시 입힌 대미지의 30%만큼\n자신의 HP를 회복한다.\n그 공격이 물리 공격일 경우\n상대 수비의 20%를 대미지에 추가한다.
+MSID_SunMoonBracelet_2	태양과 달의 팔찌+
+MSID_H_SunMoonBracelet_2	직접 공격 시 입힌 대미지의 50%만큼\n자신의 HP를 회복한다.\n그 공격이 물리 공격일 경우\n상대 수비의 30%를 대미지에 추가한다.
+MSID_GentleWind_1	우풍
+MSID_H_GentleWind_1	항상 받는 대미지-3.
+MSID_GentleWind_2	우풍+
+MSID_H_GentleWind_2	항상 받는 대미지-5.
+MSID_BraveSky_1	용공
+MSID_H_BraveSky_1	항상 입히는 대미지+3.
+MSID_BraveSky_2	용공+
+MSID_H_BraveSky_2	항상 입히는 대미지+5.
+MSID_Azure_1	창궁
+MSID_H_Azure_1	항상 받는 대미지-3.\n항상 입히는 대미지+3.
+MSID_Azure_2	창궁+
+MSID_H_Azure_2	항상 받는 대미지-5.\n항상 입히는 대미지+5.
+MSID_EirikEngage	쌍성
+MSID_H_EirikEngage	에이리카와 인게이지 중, 아군 전원의\n｢달의 팔찌｣를 ｢태양과 달의 팔찌｣로\n｢우풍｣을 ｢창궁｣으로 바꾼다.
+MSID_EirikEngageAtk	트윈 스트라이크
+MSID_H_EirikEngageAtk	에브라임과 함께 연속 공격.\n검·인접 시 한정.\n(에브라임은 창 공격/이형 특효를 지님)
+MSID_H_EirikEngageAtk_Dragon	에브라임과 함께 연속 공격/검·인접 시 한정.\n(에브라임은 창 공격/이형 특효를 지님)\n[용족]대미지 120%.
+MSID_H_EirikEngageAtk_Horse	에브라임과 함께 연속 공격/검·인접 시 한정.\n(에브라임은 창 공격/이형 특효를 지님)\n[기마]에브라임의 공격 대미지 150%.
+MSID_H_EirikEngageAtk_CMD	에브라임과 함께 연속 공격
+MSID_EvilDragonSpecialEffect	사룡 유효
+MSID_H_EvilDragonSpecialEffect	자신의 공격에 사룡 유효가 부여된다.\n그리고 주위 2칸 이내에 있는\n아군의 용 특효 무기에도\n사룡 유효를 부여한다.
+MSID_GodDragonProtection	신룡의 가호
+MSID_H_GodDragonProtection	자신에 대한 특효 효과를 전부 무효화한다.
+MSID_ConnectPerson_1	인연을 잇는 자
+MSID_H_ConnectPerson_1	자신과 주위 2칸 이내에 있는\n싱크로, 인게이지 중인 아군의\n명중·회피+20.
+MSID_ConnectPerson_2	인연을 잇는 자+
+MSID_H_ConnectPerson_2	자신과 주위 2칸 이내에 있는\n싱크로, 인게이지 중인 아군의\n명중·회피+30.
+MSID_BlessingOfEleos	엘레오스의 축복
+MSID_H_BlessingOfEleos	직접 공격 시\n행동을 마친 아군의 수×2만큼\n필살과 필살 회피가 상승한다.
+MSID_LueurEngage	이심
+MSID_H_LueurEngage	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.
+MSID_H_LueurEngage_Dragon	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[용족]추가로 모든 기본 능력+1.
+MSID_H_LueurEngage_Coop	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[연계]추가로 힘+2.
+MSID_H_LueurEngage_Horse	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[기마]추가로 기술+2.
+MSID_H_LueurEngage_Covert	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[은밀]추가로 속도+2.
+MSID_H_LueurEngage_Heavy	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[중갑]추가로 수비+2.
+MSID_H_LueurEngage_Fly	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[비행]추가로 마방+2.
+MSID_H_LueurEngage_Magic	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[마도]추가로 마력+2.
+MSID_H_LueurEngage_Prana	직접 공격해 적 격파 시 인게이지 상대의\n모든 기본 능력을 인게이지 종료까지 +4.\n[기공]추가로 행운+2.
+MSID_LueurEngageAtk	신룡파
+MSID_H_LueurEngageAtk	검과 빔(마법)의 콤비네이션 공격.\n검·인접 시 한정.
+MSID_H_LueurEngageAtk_Dragon	검과 빔(마법)의 콤비네이션 공격.\n검·인접 시 한정.\n[용족]대미지 120%.
+MSID_H_LueurEngageAtk_Coop	검과 빔(마법)의 콤비네이션 공격.\n검·인접 시 한정.\n[연계]검 공격 대미지에 힘의 20%를 추가.
+MSID_H_LueurEngageAtk_Magic	검과 빔(마법)의 콤비네이션 공격.\n검·인접 시 한정.\n[마도]빔 대미지에 마력의 20%를 추가.
+MSID_H_LueurEngageAtk_Prana	검과 빔(마법)의 콤비네이션 공격.\n검·인접 시 한정.\n[기공]브레이크 확정.
+MSID_H_LueurEngageAtk_CMD	검과 빔의 콤비네이션 공격
+MSID_LueurEngageAtk_p	인연·신룡파
+MSID_H_LueurEngageAtk_p	인게이지 상대와 검과 빔(마법)의\n3연속 연계 공격.\n검·인접 시 한정.
+MSID_H_LueurEngageAtk_p_Dragon	인게이지 상대와 검과 빔(마법)의\n3연속 연계 공격/검·인접 시 한정.\n[용족]대미지 120%.
+MSID_H_LueurEngageAtk_p_Coop	인게이지 상대와 검과 빔(마법)의\n3연속 연계 공격/검·인접 시 한정.\n[연계]검 공격 대미지에 힘의 20%를 추가.
+MSID_H_LueurEngageAtk_p_Magic	인게이지 상대와 검과 빔(마법)의\n3연속 연계 공격/검·인접 시 한정.\n[마도]빔 대미지에 마력의 20%를 추가.
+MSID_H_LueurEngageAtk_p_Prana	인게이지 상대와 검과 빔(마법)의\n3연속 연계 공격/검·인접 시 한정.\n[기공]브레이크 확정.
+MSID_H_LueurEngageAtk_p_CMD	인게이지 상대와 3연속 연계 공격
+MSID_PrivateSkill_Lueur	신룡의 결속
+MSID_H_PrivateSkill_Lueur	인접한 아군이 입히는 대미지+3.\n받는 대미지-1.
+MSID_PrivateSkill_Vandre	백의 충성
+MSID_H_PrivateSkill_Vandre	주인공과 인접한 상태일 때\n주인공과 자신의 필살+5.
+MSID_PrivateSkill_Clan	푸른 신앙
+MSID_H_PrivateSkill_Clan	주인공과 인접한 상태일 때\n주인공과 자신의 명중+10.
+MSID_PrivateSkill_Fran	붉은 성원
+MSID_H_PrivateSkill_Fran	주인공과 인접한 상태일 때\n주인공과 자신의 회피+10.
+MSID_PrivateSkill_Alfred	자기 연구
+MSID_H_PrivateSkill_Alfred	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 1턴 동안 힘+2.
+MSID_PrivateSkill_Boucheron	눈물샘 붕괴
+MSID_H_PrivateSkill_Boucheron	자신의 전투에 아군이\n체인 어택으로 참가했을 때\n자신이 입히는 대미지+2.
+MSID_PrivateSkill_Atie	근육 증강제
+MSID_H_PrivateSkill_Atie	HP 회복 아이템을 사용했을 때\n1턴 동안 힘+2.
+MSID_PrivateSkill_Celine	평화의 꽃
+MSID_H_PrivateSkill_Celine	주위 2칸 이내에 있는 아군이 사용하는\nHP 회복 아이템의 회복량을 150%로 한다.
+MSID_PrivateSkill_Chloe	그림 같은 두 사람
+MSID_H_PrivateSkill_Chloe	주위 2칸 이내에 아군 남녀 유닛이 서로\n인접해 있을 경우, 입히는 대미지+2.
+MSID_PrivateSkill_Louis	화원의 문지기
+MSID_H_PrivateSkill_Louis	주위 2칸 이내에 아군 여성 유닛 2명이\n서로 인접해 있을 경우, 받는 대미지-2.
+MSID_PrivateSkill_Diamand	정면 승부
+MSID_H_PrivateSkill_Diamand	직접 공격 시\n상대가 반격할 수 있는 경우, 서로의 명중+15.
+MSID_PrivateSkill_Umber	자기소개
+MSID_H_PrivateSkill_Umber	자신과 적의 주위 1칸에\n다른 유닛이 없을 경우\n명중+20, 회피-10.
+MSID_PrivateSkill_Jade	명상
+MSID_H_PrivateSkill_Jade	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 1턴 동안 마방+2.
+MSID_PrivateSkill_Staluke	제가 지키겠습니다!
+MSID_H_PrivateSkill_Staluke	주위 2칸 이내에 있는 아군이 공격받았을 때\n1턴 동안 힘+3.
+MSID_PrivateSkill_Lapis	전과 이양
+MSID_H_PrivateSkill_Lapis	주위 1칸 이내에 아군이 있을 경우\n명중·회피+10, 필살-10.
+MSID_PrivateSkill_Citrinica	진수성찬
+MSID_H_PrivateSkill_Citrinica	HP 회복 아이템을 사용했을 때\n주위 1칸의 아군도 같은 양의 HP를 회복한다.
+MSID_PrivateSkill_Ivy	집착
+MSID_H_PrivateSkill_Ivy	같은 적과 연속해서 한 번 더 전투했을 때\n명중+20.
+MSID_PrivateSkill_Zelkova	｢다음｣은 없다
+MSID_H_PrivateSkill_Zelkova	적에게 공격받았을 때\n적의 명중-10.
+MSID_PrivateSkill_Kagetsu	천하일색!
+MSID_H_PrivateSkill_Kagetsu	직접 공격 시\n적의 회피-10.
+MSID_PrivateSkill_Hortensia	빛나는 마력
+MSID_H_PrivateSkill_Hortensia	회복 계열 지팡이를 사용할 때\n사정거리+1.
+MSID_PrivateSkill_Rosado	미소
+MSID_H_PrivateSkill_Rosado	적이 남성 유닛일 때\n적의 회피-20.
+MSID_PrivateSkill_Goldmary	한숨
+MSID_H_PrivateSkill_Goldmary	적이 남성 유닛일 때\n적의 명중-20.
+MSID_PrivateSkill_Misutira	솔룸의 소음
+MSID_H_PrivateSkill_Misutira	주위 3칸 이내에 있는 적의 필살-5.
+MSID_PrivateSkill_Merin	에스코트
+MSID_H_PrivateSkill_Merin	자신의 주위 2칸 이내에\n아군 여성 유닛이 2명 이상 있을 경우\n그 여성 유닛들과 자신의 명중·회피+5.
+MSID_PrivateSkill_Panetone	전장의 피
+MSID_H_PrivateSkill_Panetone	HP가 최대치가 아닐 경우\n필살+10.
+MSID_PrivateSkill_Fogato	속임수
+MSID_H_PrivateSkill_Fogato	같은 적과 연속해서 한 번 더 전투했을 때\n적의 필살-10.
+MSID_PrivateSkill_Pandoro	대집회
+MSID_H_PrivateSkill_Pandoro	주위 2칸 이내에 있는 적과 아군의 수×3만큼\n명중·회피가 상승한다.
+MSID_PrivateSkill_Bonet	요리 재현
+MSID_H_PrivateSkill_Bonet	도시락을 먹었을 때\n행운% 확률로 동일한 것을 획득한다.
+MSID_PrivateSkill_Anna	일확천금
+MSID_H_PrivateSkill_Anna	행운%로 발동.\n적 격파 시, 500G 획득.
+MSID_PrivateSkill_Jean	노력하는 재능
+MSID_H_PrivateSkill_Jean	레벨 업했을 때\n기본 능력이 오를 확률이 상승한다.
+MSID_PrivateSkill_Yunaka	살인 기술
+MSID_H_PrivateSkill_Yunaka	회피 지형에서 공격했을 때\n필살+15.
+MSID_PrivateSkill_Seadas	신비한 춤
+MSID_H_PrivateSkill_Seadas	턴 개시와 동시에\n자신의 주위 2칸 이내에 있는\n아군의 HP를 최대치의 10%만큼 회복시킨다.
+MSID_PrivateSkill_Linden	베테랑의 감
+MSID_H_PrivateSkill_Linden	자신이 장비한 무기의 레벨이\n상대보다 낮으면 필살+20.
+MSID_PrivateSkill_Saphir	승리를 향한 의지
+MSID_H_PrivateSkill_Saphir	HP가 50% 이하일 경우\n명중·회피+20.
+MSID_PrivateSkill_Veyre	사룡의 구제
+MSID_H_PrivateSkill_Veyre	인접한 아군이 입히는 대미지+1,\n받는 대미지-3.
+MSID_PrivateSkill_Mauve	다음을 위한 준비
+MSID_H_PrivateSkill_Mauve	전투 및 아이템 사용 등을 하지 않고\n대기했을 때 1턴 동안 수비+2.
+MSID_JobSkill_SwordMaster	돌파
+MSID_H_JobSkill_SwordMaster	인접해서 전투한 뒤,\n적 너머 반대편 칸으로 이동하는\n｢돌파｣ 커맨드 사용 가능.
+MSID_H_JobSkill_SwordMaster_CMD	인접 전투 후, 상대의 반대편으로 이동
+MSID_JobSkill_BraveHero	가세
+MSID_H_JobSkill_BraveHero	자신의 HP가 최대치인 상태로\n체인 어택에 참가했을 경우\n2연속 공격이 된다.
+MSID_JobSkill_Halberdier	협공
+MSID_H_JobSkill_Halberdier	직접 공격 시\n적을 자신과 아군 사이에 두고 있을 경우\n추격이 발생한다
+MSID_JobSkill_RoyalKnight	조력
+MSID_H_JobSkill_RoyalKnight	아군이 전투 후 브레이크되었을 때\n자신이 인접해 있고 HP가 11 이상이라면\n10 소비해 아군의 브레이크 상태를 해제한다.
+MSID_JobSkill_Berserker	스매시+
+MSID_H_JobSkill_Berserker	스매시 발생 시\n상대를 2칸 이동시킨다.
+MSID_JobSkill_Warrior	무자비
+MSID_H_JobSkill_Warrior	브레이크 상태인 상대를 공격했을 때\n대미지 150%.
+MSID_JobSkill_Sniper	집중
+MSID_H_JobSkill_Sniper	상대에게 반격당하지 않을 경우\n필살+10.
+MSID_JobSkill_BowKnight	저격
+MSID_H_JobSkill_BowKnight	이동하지 않고 직접 공격 시\n명중+40.
+MSID_JobSkill_General	바꾸기
+MSID_H_JobSkill_General	인접한 아군과 위치를 바꾸는\n｢바꾸기｣ 커맨드 사용 가능.
+MSID_H_JobSkill_General_CMD	아군과 위치를 바꾼다
+MSID_JobSkill_GrateKnight	호위
+MSID_H_JobSkill_GrateKnight	아군과 적 사이에 자신이 있을 경우\n받는 대미지-3.
+MSID_JobSkill_Paladin	우회
+MSID_H_JobSkill_Paladin	인접한 아군의 반대편 칸으로 이동하는\n｢우회｣ 커맨드 사용 가능.
+MSID_H_JobSkill_Paladin_CMD	아군의 반대편으로 이동한다
+MSID_JobSkill_WolfKnight	발목 잡기
+MSID_H_JobSkill_WolfKnight	단검으로 직접 공격 시\n1턴 동안 상대의 이동-2.
+MSID_JobSkill_GriffinKnight	이동 보조
+MSID_H_JobSkill_GriffinKnight	자신의 칸을 포함한 주위 1칸 지형의\n이동 코스트를 1로 한다.
+MSID_JobSkill_DragonKnight	급습
+MSID_H_JobSkill_DragonKnight	상대가 진입할 수 없는 지형에서 공격했을 때\n속도+5.
+MSID_JobSkill_Thief	통과하기
+MSID_H_JobSkill_Thief	적을 지나쳐서 이동할 수 있다.
+MSID_JobSkill_Sage	마력 증폭
+MSID_H_JobSkill_Sage	마도서로 직접 공격 시\n주위 1칸 이내에 있는 마도서를 장비한\n아군의 수만큼 공격력이 상승한다.
+MSID_JobSkill_MageKnight	불합리한 법
+MSID_H_JobSkill_MageKnight	직접 공격 시\n적과 공격 종류(물리 공격·마도서)가\n다를 경우, 속도+3.
+MSID_JobSkill_MasterMonk	기의 확산
+MSID_H_JobSkill_MasterMonk	지팡이를 통해 HP 회복을 받았을 때\n주위 1칸 이내에 있는 아군의 HP를\n회복량의 50%만큼 회복.
+MSID_JobSkill_HighPriest	자기 회복
+MSID_H_JobSkill_HighPriest	회복 계열 지팡이를 사용할 상대로\n자기 자신을 선택할 수 있게 된다.
+MSID_JobSkill_DragonKing	신룡의 기운
+MSID_H_JobSkill_DragonKing	자신의 인게이지 카운트 최대치-1.
+MSID_JobSkill_ShadowPrincess	사룡의 기운
+MSID_H_JobSkill_ShadowPrincess	턴 개시와 동시에\n자신의 인게이지 카운트+1.
+MSID_JobSkill_ShadowDragon	사룡의 기운<어둠>
+MSID_H_JobSkill_ShadowDragon	턴 개시와 동시에 주위 2칸 이내에 있는\n적의 인게이지 카운트-1.
+MSID_JobSkill_Avenir	금련
+MSID_H_JobSkill_Avenir	기술%로 물리 공격의 대미지를 반감한다.
+MSID_JobSkill_Fleurage	화려한 불꽃
+MSID_H_JobSkill_Fleurage	기술%로 마법 공격에는 힘의 절반을\n그 외의 공격에는 마력의 절반을\n대미지에 추가한다.
+MSID_JobSkill_Successeur	태양
+MSID_H_JobSkill_Successeur	기술%로 적에게 입힌 대미지의 절반만큼\nHP를 회복한다.
+MSID_JobSkill_Tirailleur	월광
+MSID_H_JobSkill_Tirailleur	기술%로 적의 수비·마방을 반감해서 공격.
+MSID_JobSkill_Lindwurm	허공
+MSID_H_JobSkill_Lindwurm	마도서로 공격했을 때\n기술%로 적의 마력의 절반을\n대미지에 추가한다.
+MSID_JobSkill_Sleipnir	거목
+MSID_H_JobSkill_Sleipnir	지팡이를 사용했을 때\n기술%로 사용 횟수를 소비하지 않는다.
+MSID_JobSkill_Pitchfork	모래 진영
+MSID_H_JobSkill_Pitchfork	물리 공격을 했을 때\n기술%로 수비의 150%만큼의 수치를\n힘 대신 공격에 계산한다.
+MSID_JobSkill_Cupido	수경
+MSID_H_JobSkill_Cupido	반격했을 때\n기술%로 자신이 받은 대미지의 절반을\n상대에게 입히는 대미지에 추가한다.
+MSID_JobSkill_Melusine	마법검
+MSID_H_JobSkill_Melusine	검으로 공격했을 때 입히는 대미지를\n상대의 ｢수비와 마방의 평균치｣로 계산한다.
+MSID_JobSkill_Dancer	특별한 춤
+MSID_H_JobSkill_Dancer	｢춤추기｣를 아군에게 사용했을 때\n1턴 동안 대상 아군의 기술·속도·행운+3.
+MSID_MarthRing_Sheeda	전도사
+MSID_H_MarthRing_Sheeda	자신의 HP가 50% 이하일 경우\n적에게 공격받았을 때, 받는 대미지-5.
+MSID_MarthRing_Nabarl	필살 검
+MSID_H_MarthRing_Nabarl	검을 장비하고 직접 공격 시\n필살+10.
+MSID_SigludRing_Celice	백전 연마
+MSID_H_SigludRing_Celice	직접 공격으로 적을 쓰러뜨릴 때마다\n필살+1(최대+10, 전투 맵 종료까지).
+MSID_SigludRing_Diadora	회복
+MSID_H_SigludRing_Diadora	매턴 HP 5 회복.
+MSID_CelicaRing_Alm	바람 베기
+MSID_H_CelicaRing_Alm	검으로 공격했을 때\n행운% 확률로 상대에게 반격당하지 않는다.
+MSID_CelicaRing_Mae	굉뢰
+MSID_H_CelicaRing_Mae	선더·엘 선더·트론 사용 시\n대미지 120％.
+MSID_MicaiahRing_Sothe	순살
+MSID_H_MicaiahRing_Sothe	(기술÷2)% 확률로 상대의 HP를 1로 만든다.\n(일부 강력한 적은 대상 외)
+MSID_MicaiahRing_Erincia	자비
+MSID_H_MicaiahRing_Erincia	상대를 전투 불능으로 만들 수 있는\n대미지를 입혔을 때, HP를 1 남긴다.
+MSID_RoyRing_Lilina	업화
+MSID_H_RoyRing_Lilina	파이어·엘 파이어·볼케논 사용 시\n대미지 120％.
+MSID_RoyRing_Dieck	강완
+MSID_H_RoyRing_Dieck	스매시 무기 사용 시, 명중+20.
+MSID_LeafRing_Fin	기도
+MSID_H_LeafRing_Fin	상대에게 전투 불능이 되는 양의\n대미지를 받을 때, 행운% 확률로\n공격을 회피한다(최대 50%).
+MSID_LeafRing_Olwen	다임 선더
+MSID_H_LeafRing_Olwen	선더로 직접 공격 시\n2연속 공격이 된다.\n(엘 선더·트론은 대상 외)
+MSID_LucinaRing_Chrom	왕의 그릇
+MSID_H_LucinaRing_Chrom	확률로 발동하는 스킬의 발동률+5%.
+MSID_LucinaRing_Lissa	치유의 마음
+MSID_H_LucinaRing_Lissa	지팡이를 사용해 아군을 회복시켰을 때\nHP 회복량+5.
+MSID_LinRing_Eliwod	끌어당기기
+MSID_H_LinRing_Eliwod	인접한 아군을 자신의 위치로 이동시키고\n자신도 1칸 이동하는\n｢끌어당기기｣ 커맨드 사용 가능.
+MSID_H_LinRing_Eliwod_CMD	아군과 함께 1칸 뒤로 이동한다
+MSID_LinRing_Nino	기가스칼리버
+MSID_H_LinRing_Nino	엑스칼리버로 직접 공격 시\n대미지 120%.
+MSID_IkeRing_Senerio	선풍
+MSID_H_IkeRing_Senerio	윈드 사용 시에만 기술% 확률로\n2연속 공격이 된다.
+MSID_IkeRing_Wayu	밀어내기
+MSID_H_IkeRing_Wayu	자신보다 체격이 작은 인접 아군을 밀어 1칸\n이동시키는 ｢밀어내기｣ 커맨드 사용 가능.
+MSID_H_IkeRing_Wayu_CMD	자신보다 작은 아군을 1칸 민다
+MSID_BylethRing_Edelgard	섬화
+MSID_H_BylethRing_Edelgard	직접 공격 시\n｢입힌 총 대미지｣% 확률로\n상대를 프리즈 상태로 만든다.
+MSID_BylethRing_Dimitri	환월
+MSID_H_BylethRing_Dimitri	인접해서 전투한 뒤, 자신이 1칸 뒤로\n이동하는 ｢환월｣ 커맨드 사용 가능.
+MSID_H_BylethRing_Dimitri_CMD	전투 후, 1칸 뒤로 이동한다
+MSID_BylethRing_Claude	풍신
+MSID_H_BylethRing_Claude	자신의 HP가 최대치일 때\n활의 사정거리+1.
+MSID_KamuiRing_Marks	기사도
+MSID_H_KamuiRing_Marks	상대의 HP가 최대치일 때\n입히는 대미지+2, 받는 대미지-2.
+MSID_KamuiRing_Ryoma	무사도
+MSID_H_KamuiRing_Ryoma	상대보다 레벨이 높을 경우, 필살+10,\n입히는 대미지+2, 받는 대미지-2.
+MSID_EirikRing_Marica	멸살
+MSID_H_EirikRing_Marica	필살의 일격 발생 시\n30% 확률로 상대를 전투 불능으로 만든다.\n(일부 강력한 적은 대상 외)
+MSID_EirikRing_Heanius	필적
+MSID_H_EirikRing_Heanius	직접 공격 시, 기술% 확률로\n그 공격이 반드시 명중하게 된다.
+MSID_SpecialRing_Alfonse	공격의 문장
+MSID_H_SpecialRing_Alfonse	인접한 아군의 공격력+2.
+MSID_SpecialRing_Sharena	수비의 고무
+MSID_H_SpecialRing_Sharena	아군 페이즈 개시와 동시에\n인접한 아군의 수비+2.
+MSID_SpecialRing_Anna	마방의 문장
+MSID_H_SpecialRing_Anna	인접한 아군의 마방+2.
+MSID_SombreBarrier1	상암의 결계
+MSID_H_SombreBarrier1	어둠의 문장사가 생성하는 결계.\n사룡 유효를 무효화한다.\n받는 대미지-50%.
+MSID_SombreBarrier2	상암의 결계+
+MSID_H_SombreBarrier2	어둠의 문장사가 생성하는 결계.\n사룡 유효를 무효화한다.\n받는 대미지-70%.
+MSID_SombreBarrier3	상암의 결계++
+MSID_H_SombreBarrier3	어둠의 문장사가 생성하는 결계.\n사룡 유효를 무효화한다.\n받는 대미지-85%.
+MSID_SombreBarrier4	상암의 결계+++
+MSID_H_SombreBarrier4	어둠의 문장사가 생성하는 결계.\n사룡 유효를 무효화한다.\n받는 대미지를 0으로 만든다.
+MSID_SombreBarrier1_Normal	어둠의 결계
+MSID_H_SombreBarrier1_Normal	어둠의 문장사가 생성하는 결계.\n받는 대미지-20％.
+MSID_SombreBarrier2_Normal	어둠의 결계+
+MSID_H_SombreBarrier2_Normal	어둠의 문장사가 생성하는 결계.\n받는 대미지-40％.
+MSID_SombreBarrier3_Normal	어둠의 결계++
+MSID_H_SombreBarrier3_Normal	어둠의 문장사가 생성하는 결계.\n받는 대미지-60％.
+MSID_SombreBarrier4_Normal	어둠의 결계+++
+MSID_H_SombreBarrier4_Normal	어둠의 문장사가 생성하는 결계.\n받는 대미지-80％.
+MSID_ChainAttackDamageWeaken	인연을 가르는 자
+MSID_H_ChainAttackDamageWeaken	적의 체인 어택 명중률을\n반드시 30%로 만들고,\n받는 대미지를 감소시킨다.
+MSID_SnakeVenom	뱀독
+MSID_H_SnakeVenom	직접 공격 시\n적에게 최대 HP의 20%만큼 대미지를 입힌다.
+MSID_SighOfDeath	죽음의 한숨
+MSID_H_SighOfDeath	직접 공격 시, 주위 2칸 이내에 있는\n적에게 최대 HP의 20%만큼 대미지를 입힌다.
+MSID_SwordKilling	검 킬러
+MSID_H_SwordKilling	HP가 50% 이상일 때, 적의 무기가 검이라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_LanceKilling	창 킬러
+MSID_H_LanceKilling	HP가 50% 이상일 때, 적의 무기가 창이라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_AxeKilling	도끼 킬러
+MSID_H_AxeKilling	HP가 50% 이상일 때, 적의 무기가 도끼라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_MagicKilling	마법 킬러
+MSID_H_MagicKilling	HP가 50% 이상일 때,\n적의 무기가 마도서라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_BowKilling	활 킬러
+MSID_H_BowKilling	HP가 50% 이상일 때, 적의 무기가 활이라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_KnifeKilling	단검 킬러
+MSID_H_KnifeKilling	HP가 50% 이상일 때,\n적의 무기가 단검이라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_PranaKilling	체술 킬러
+MSID_H_PranaKilling	HP가 50% 이상일 때,\n적의 무기가 체술이라면\n자신은 추격하며, 적은 추격할 수 없다.
+MSID_PowerSeal	힘 봉인
+MSID_H_PowerSeal	직접 공격 시\n전투 후 상대의 힘-6.\n(효과는 1턴에 1씩 회복된다)
+MSID_MagicSeal	마력 봉인
+MSID_H_MagicSeal	직접 공격 시\n전투 후 상대의 마력-6.\n(효과는 1턴에 1씩 회복된다)
+MSID_DefenseSeal	수비 봉인
+MSID_H_DefenseSeal	직접 공격 시\n전투 후 상대의 수비-6.\n(효과는 1턴에 1씩 회복된다)
+MSID_SpeedSeal	속도 봉인
+MSID_H_SpeedSeal	직접 공격 시\n전투 후 상대의 속도-6.\n(효과는 1턴에 1씩 회복된다)
+MSID_MagicDefenseSeal	마방 봉인
+MSID_H_MagicDefenseSeal	직접 공격 시\n전투 후 상대의 마방-6.\n(효과는 1턴에 1씩 회복된다)
+MSID_DemonStance	귀신의 자세
+MSID_H_DemonStance	적에게 공격받았을 때, 힘+6.
+MSID_VajraStance	금강의 자세
+MSID_H_VajraStance	적에게 공격받았을 때, 수비+6.
+MSID_SwallowStance	비연의 자세
+MSID_H_SwallowStance	적에게 공격받았을 때, 속도+6.
+MSID_MingMirrorStance	명경의 자세
+MSID_H_MingMirrorStance	적에게 공격받았을 때, 마방+6.
+MSID_Deadline	사선
+MSID_H_Deadline	입히는 대미지+10.\n받는 대미지+10.
+MSID_EnhancedCompatibility	상성 격화
+MSID_H_EnhancedCompatibility	유리한 무기로 공격하면 추격한다.\n불리한 무기일 때는 추격을 받는다.
+MSID_CatBites	고양이 물기
+MSID_H_CatBites	HP 50% 이하일 경우, 필살+30.
+MSID_SelfDestruction	자폭
+MSID_H_SelfDestruction	아군 페이즈 개시와 동시에 HP가 50%\n이하일 때, 주위 2칸 이내에 있는 적에게\n자신의 최대 HP 50%만큼의 대미지를\n입히고 소멸한다.
+MSID_BreakInvalid	브레이크 무효
+MSID_H_BreakInvalid	브레이크 상태에 빠지지 않는다.
+MSID_Immovable	이동 효과 무효
+MSID_H_Immovable	스킬이나 스매시 등의 효과로\n이동시킬 수 없다.
+MSID_CurseOfNihility	허무의 저주
+MSID_H_CurseOfNihility	이 유닛과의 전투로는\n경험치를 얻을 수 없다.
+MSID_ClearStreamHit	청류의 일격
+MSID_H_ClearStreamHit	직접 공격 시, 회피+30.
+MSID_SwallowHit	비연의 일격
+MSID_H_SwallowHit	직접 공격 시, 속도+5.
+MSID_DemonHit	귀신의 일격
+MSID_H_DemonHit	직접 공격 시, 필살+20.
+MSID_BadBirdHit	흉조의 일격
+MSID_H_BadBirdHit	직접 공격 시, 명중+40.
+MSID_VajraHit	금강의 일격
+MSID_H_VajraHit	직접 공격 시\n물리 공격으로 받는 대미지-10.
+MSID_MingMirrorHit	명경의 일격
+MSID_H_MingMirrorHit	직접 공격 시\n마법 공격으로 받는 대미지-20.
+MSID_FrenzyHit	스피릿 스트라이크
+MSID_H_FrenzyHit	직접 공격 시\n전투 후 상대의 인게이지 카운트-5.
+MSID_EffectResistance	특효 내성
+MSID_H_EffectResistance	특효 대미지를 감소시킨다.
+MSID_EffectInvalid	특효 무효
+MSID_H_EffectInvalid	모든 특효의 효과를 받지 않는다.
+MSID_Expert_1	숙련자
+MSID_H_Expert_1	브레이크 상태가 되지 않고\n특효 대미지를 감소시킨다.
+MSID_Expert_2	숙련자+
+MSID_H_Expert_2	브레이크 상태가 되지 않고\n모든 특효를 받지 않는다.
+MSID_SkillSuccession	스킬 계승 해방
+MSID_H_SkillSuccession	문장사의 방에서 문장사로부터\n｢스킬 계승｣을 할 수 있게 된다.
+MSID_EngageContinueTurn	끊을 수 없는 인연
+MSID_H_EngageContinueTurn	인게이지 상태 지속 턴+1.
+MSID_EngageCount	이심전심
+MSID_H_EngageCount	인게이지 카운트 최대치 -1.
+MSID_RefineGodWeapon_Effect_Fly	비행 특효
+MSID_RefineGodWeapon_Effect_Horse	기마 특효
+MSID_RefineGodWeapon_Effect_Armor	중갑 특효
+MSID_RefineGodWeapon_Effect_Dragon	용 특효
+MSID_RefineGodWeapon_Effect_Morph	이형 특효
+MSID_H_Effect_Fly	비행 특효에 영향을 받는다.
+MSID_H_Effect_Horse	기마 특효에 영향을 받는다.
+MSID_H_Effect_Armor	중갑 특효에 영향을 받는다.
+MSID_H_Effect_Dragon	용 특효에 영향을 받는다.
+MSID_H_Effect_Morph	이형 특효에 영향을 받는다.
+MSID_H_Effect_EvilDragon	사룡 유효에 영향을 받는다.
+MSID_H_Effect_Mediuth	마르스의 공격이 특효가 된다.
+MSID_H_Effect_Duma	세리카의 공격이 특효가 된다.
+MSID_H_Effect_Loptous	시구르드의 공격이 특효가 된다.
+MSID_H_Effect_Veld	리프의 공격이 특효가 된다.
+MSID_H_Effect_Idenn	로이의 공격이 특효가 된다.
+MSID_H_Effect_Nergal	린의 공격이 특효가 된다.
+MSID_H_Effect_Fodeth	에이리카(에브라임)의 공격이 특효가 된다.
+MSID_H_Effect_Ashnard	아이크의 공격이 특효가 된다.
+MSID_H_Effect_Astarte	미카야의 공격이 특효가 된다.
+MSID_H_Effect_Gimle	루키나의 공격이 특효가 된다.
+MSID_H_Effect_Hydra	카무이의 공격이 특효가 된다.
+MSID_H_Effect_Nemesis	벨레트의 공격이 특효가 된다.

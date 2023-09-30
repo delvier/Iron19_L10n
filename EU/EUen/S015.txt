@@ -1,0 +1,49 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nOh my! Are my eyes lying to me?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06マルス\nThis is quite a surprise. It looks just like the\nLythos Castle Gardens.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nSo I'm not the only one seeing it?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06マルス\nIt looks like the castle, but it feels like it too.\nThe air, the smells─all of it.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nRight you are. I've served in the castle for many\nyears, yet this vision fooled me at first.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nI know it isn't real, yet I still get a sense of\nnostalgia looking at it...\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nMy mother trained me in the castle garden.\nThe flowers were in full bloom...like these.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0C\nヴァンドレ\nI remember it well. Alas, after the attack, that\ngarden has been left in ruins.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nIt has, hasn't it...\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06マルス\nLook! Over there! I can see something\nglimmering. Do you see it too?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nIs that an altar? And on it... There's a ring!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nI thought we'd gathered all the Emblem Rings...\nCan it be that there were more?\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nPerhaps an Emblem we were unaware of?\nLet's go have a look!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06マルス\nWait. I feel a presence... There are enemies\nnearby.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x024\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh...\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x00\x1C\x16S015_異形兵_蛮族\x021\n\x0E\x03\x02\x18\x16S015_異形兵_蛮族\nRaaargh...\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\nCorrupted?! They must be here for the ring!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nWe can't let them take it! That ring might\nbelong to another Emblem!\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x0C\nヴァンドレ\nI fight beside you once more, Divine One!\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06マルス\nHm. That ring... Could it be?\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nReinforcements?!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00"\x1CS015_異形兵_蛮族_指輪\x02b\n\x0E\x03\x02\x1E\x1CS015_異形兵_蛮族_指輪\nRaaargh!\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x03\x02\x0A\x08リュール\nOh no... They've taken the ring. We've failed.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRaaargh...\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRAAARGH!\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x08リュール\x06Sad\n\x0E\x03\x02\x0A\x08リュール\nThis is just like when I fought the soldiers my\nmother created for our mock battle.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMother is gone, but wherever she may be,\nI'll show her how strong I've become!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16S015_異形兵_ボス\x02b\n\x0E\x03\x02\x18\x16S015_異形兵_ボス\nRaaargh!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06マルス\x022\n\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0A\x08リュール\nWe retrieved the ring safely! But it doesn't seem\nto hold an Emblem? Strange...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0C\nヴァンドレ\nIs it but a normal ring?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nIt seems so, but when I hold the ring, I feel\na warmth stirring in my chest.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06マルス\nSo it's as I suspected.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\nWhat is it that you have surmised?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06マルス\nThe "Pact Ring." It belongs to, and holds the\npower of, Divine Dragon Monarch Lumera.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nWhat else do you know about this "Pact\nRing," Marth?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06マルス\nLumera once said that Divine Dragons will give\na special ring to someone they truly trust.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06マルス\nThe ring strengthens the bond between the two\nand brings them closer together.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06マルス\nIt grants special powers to the Divine Dragon\nand anyone they make a pact with, of any sort.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nSo, Mother...once gave this ring to someone she\ntrusted and had a special connection with?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06マルス\nThat's what I'd guess too. But she'd lost her\nfriends and allies in the war.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06マルス\nSo who she gave the ring to, or if she gave it at\nall...there's just no way to know.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMother...\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06マルス\nBut we know that, as long as she lived, the most\nimportant person to her was you.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06マルス\nYou should inherit the ring. Give it to your most\ntrusted ally.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nI'll think long and hard before I decide who's\nworthy to wear it.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0C\nヴァンドレ\nThat we've arrived at this place, it must be the\nwork of Queen Lumera.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nIt's a happy thought, Mother watching over me.\nBut the fight ahead is my own. I must be strong.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08リュール\nLet's go. I'm reluctant to leave...but there is\nmuch work to do.\x0E\x04\x00\x00

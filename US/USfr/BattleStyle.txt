@@ -1,0 +1,18 @@
+MBSID_None	Civil
+MBSID_H_None	Les unités civiles n'ont aucun\navantage spécial pendant la bataille.
+MBSID_Cooperation	Soutien
+MBSID_H_Cooperation	Les unités de soutien peuvent porter\nune attaque après celle de n'importe\nquel allié dont l'ennemi est à portée.
+MBSID_Horse	Cavalerie
+MBSID_H_Horse	Les unités de cavalerie peuvent\nse déplacer plus loin que les autres\nunités.
+MBSID_Covert	Furtif
+MBSID_H_Covert	Les unités furtives doublent le bonus\nd'Esq de l'effet de terrain.
+MBSID_Heavy	Cuirassé
+MBSID_H_Heavy	Les unités cuirassées ignorent l'effet\nde brise-garde de l'avantage des\narmes.
+MBSID_Fly	Volant
+MBSID_H_Fly	Les unités volantes ignorent\ntous les effets de terrain, et peuvent\nmême traverser les cases sans sol.
+MBSID_Magic	Mystique
+MBSID_H_Magic	Les unités mystiques ignorent le\nbonus d'Esq de terrain de l'ennemi\nsi elles attaquent avec de la magie.
+MBSID_Prana	Adepte qi
+MBSID_H_Prana	Un adepte qi peut utiliser la garde\nenchaînée pour rediriger sur soi les\nattaques sur les alliés adjacents.
+MBSID_Dragon	Dragon
+MBSID_H_Dragon	Les dragons bénéficient d'effets\nsupplémentaires pendant leur fusion\navec un Emblème.

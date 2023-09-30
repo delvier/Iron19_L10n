@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\n¿Qué es eso del fondo? ¿Un trono?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ベレト\nSe parece al Sagrado Sepulcro,\nun lugar de mi mundo.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Qué clase de lugar es?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ベレト\nEs donde duerme la diosa Sothis, el lugar\nmás sagrado para la Iglesia de Seiros.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ベレト\nPara mantener la tumba a salvo,\nse construyó un monasterio encima.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nAjá... Y ¿por qué está aquí?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06ベレト\nSolo unos pocos conocen la leyenda\nde santa Seiros y el Sagrado Sepulcro.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ベレト\nSanta Seiros recibió una revelación y poder\nde la Diosa, que le impuso un deber sagrado.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ベレト\nDebía salvar a los habitantes de Fódlan y\nusar ese poder sabiamente para guiarlos.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ベレト\nSupongo que era inevitable\nque acabáramos aquí.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Por qué lo dices?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ベレト\nSi queremos reforzar nuestro vínculo,\ndeberás superar una prueba.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nYa. ¿Quieres que luche contra ti, Byleth?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ベレト\nDemuéstrame que sabes usar el poder\nque has conseguido en tu travesía.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nEntendido.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06ベレト\nNo hay ni un atisbo de duda en tus ojos.\nEso es bueno. ¡En guardia!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nEstoy list\x0E\x0A\x00\x08\x02o\x02a. Pelearé con todas mis fuerzas.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x16\x06ベレト\x0CNormal\n\x0E\x03\x02\x08\x06ベレト\nPara ganar, observa con atención.\nEstudia cada detalle del campo de batalla.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\n¿Qué son esas cosas?\nEstán por todas partes...\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nSon mis objetivos. Los destruiré todos...\na no ser que me lo impidas.\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n¡Los protegeré!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nAngry\n\x0E\x03\x02\x08\x06ベレト\nSegún quien lo esgrima, es posible usar\nel poder tanto para el bien como para el mal.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nPor eso, el corazón de quien controla\ndicho poder resulta tan importante.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nEl corazón... Eso significa que...\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nmi corazón decide cómo usar ese poder...\nBien, Byleth. ¡Estoy list\x0E\x0A\x00\x08\x02o\x02a!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nReconozco que es una sensación extraña\nenfrentarme a uno de mis aliados.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nSmile\n\x0E\x03\x02\x08\x06ベレト\nAunque vamos a batirnos, eso no nos convierte\nen enemigos. Al menos, no esta vez.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06ベレト\nSeguimos siendo amigos...\nPero, por ahora, prepárate para luchar.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1C\x0Cオルテンシア\x0CStrike\n\x0E\x03\x02\x0E\x0Cオルテンシア\nSupongo que no me queda otra. Empecemos.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\nDe algún modo... he logrado ganar.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ベレト\nBien hecho. Tu forma de luchar\nes excelente. Has superado la prueba.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nHe aprendido mucho en este combate.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ベレト\nGracias, aunque ya eras muy fuerte\nincluso antes de conocernos.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nAun así, me has enseñado muchas cosas.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nEres un gran profesor, Byleth.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06ベレト\nY tú demasiado amable: mis enseñanzas\nno servirían de nada sin tu talento innato.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ベレト\nMe limito a escuchar y a guiar a quienes\nhan elegido su camino.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06ベレト\nLa victoria de hoy es el resultado de todas\nlas decisiones que has tomado hasta ahora.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nSiempre he sabido que una decisión\nlleva a otra, pero...\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nMe preocupa lo que puede pasar si\nalguna vez elijo la opción equivocada...\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06ベレト\nNo te preocupes, al superar esta prueba,\nhas demostrado quién eres realmente.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ベレト\nAdemás, tus aliados están ahí para enderezarte\nsi alguna vez te desvías del camino.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06ベレト\nY recuerda que también yo estaré\na tu lado hasta el final.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nGracias. Seguiré mi camino confiando\nen que mis aliados me ayudarán.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06ベレト\nYa has aprendido todo lo necesario.\n¿Proseguimos con nuestro viaje?\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

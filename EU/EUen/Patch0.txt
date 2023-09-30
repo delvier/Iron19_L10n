@@ -1,0 +1,274 @@
+MID_SYS_Unknown	???
+MID_SYS_Arg_Bracelet	/Bracelet
+MID_SYS_Arg_Bracelets	/Bracelets
+MID_SYS_Arg_Bracelet_UNCAP	/bracelet
+MID_SYS_Arg_Bracelets_UNCAP	/bracelets
+MID_KEYHELP_MENU_TOGGLE	Select/Cancel
+MID_H_INFO_Emblem_GoodWeapon	\x0E\x01\x00\x00:\x0E\x01\x01\x00
+MID_MSG_DLC_NOT_FOUND	Cannot load because downloadable content\nis missing. If you have already purchased\nthis content, please download it from\nNintendo eShop again.
+MID_MSG_PATCH_NOT_FOUND	This content is not available right now.
+MID_DLC_News_Patch0_Title	Ver. 1.1.0
+MID_DLC_News_Patch0	Expansion Pass\n\n・ Emblem Edelgard (with Dimitri and Claude) has been added.\n  They will join your group when you trigger the event at\n  Lookout Ridge in the Somniel.\n\n・ Emblem Tiki has been added.\n  She will join your group when you clear her Divine Paralogue.\n\n・ Expansion Pass Bonus 1 has been added.\n  You will automatically receive stat-boosting items,\n  including boots, if you purchased the Expansion Pass.\n\n・ New accessories have been added to the boutique.\n  These include the rare set, frilled band, big ribbon,\n  single earring, and round specs.\n\nFree Content\n\n・ You will receive a set of weapon-refining materials when you\n  enter the Somniel after completing Chapter 4.
+MID_MSG_GET_ITEM_DLC_Accessory1	Expansion Pass Bonus 1 received.
+MID_MSG_GET_ITEM_Patch0	Update Bonus 1 received.
+MID_SYS_EncounterBattleMap	Skirmishes
+MID_SYS_WorldMap	World Map
+MID_SYS_GodMap	Divine Paralogues
+MID_SysDialog_Move_Title	Select Destination
+MID_SysDialog_Move_Hub	To Somniel
+MID_SysDialog_Move_WorldMap	To World Map
+MID_SysDialog_Move_GodMap	To Divine Paralogues
+MID_SysDialog_Move_Cancel	Cancel
+MID_MSG_Encount_WorldMap	Skirmish on the World Map.
+MID_MSG_Encount_GodMap	Skirmish in the Divine Paralogues.
+MID_SYS_LINK	LINK!
+MID_SYS_BondCombi4	Academy Bond
+MID_PLACE_God	Elsewhere
+MCID_G001_PREFIX	Divine Paralogue
+MCID_G001	The Ancestor
+MCID_G001_PLACE	Dragon Temple
+MCID_G001_OUTLINE	A bracelet has been sighted in the\nicy temple of a mystical dragon.
+MID_RULE_G001_WIN	Defeat Emblem Tiki.
+MTID_MagicDoor	Magic Door
+MTID_IceBarrier	Ice Barrier
+MTID_Lake	Lake
+MTID_Unknown	???
+MTID_IceTile	Frost
+MTID_Smoke	Smoke
+MPID_PhantomFlyingDragon	Fabrication
+MPID_H_PhantomFlyingDragon	A soulless wyvern created by secret\ntechniques. It has no will of its own\nand only follows its master's orders.
+MPID_Edelgard	Edelgard
+MPID_H_Edelgard	Known as the Emblem of Rivals.\nThe refined and dignified Imperial\nPrincess of Flames.
+MPID_Dimitri	Dimitri
+MPID_H_Dimitri	Known as the Emblem of Rivals.\nThe wise and virtuous prince of\na nation of knights.
+MPID_Claude	Claude
+MPID_H_Claude	Known as the Emblem of Rivals.\nA calculating and enigmatic heir to\na dukedom.
+MPID_Tiki	Tiki
+MPID_H_Tiki	Known as the Emblem of Dragons.\nA naive young girl with the blood of\nDivine Dragons.
+MGID_Edelgard	Edelgard
+MGID_H_Edelgard	Known as the Emblem of Rivals.\nSmashes her enemies to dust with\nskilled use of axes.
+MGID_H_EnemyEdelgard	An Emblem that awakened from the\nBracelet of Three Houses.
+MGID_Dimitri	Dimitri
+MGID_H_Dimitri	Known as the Emblem of Rivals.\nNimbly strikes first and toys with\nfoes with his skilled use of lances.
+MGID_H_EnemyDimitri	An Emblem that awakened from the\nBracelet of Three Houses.
+MGID_Claude	Claude
+MGID_H_Claude	Known as the Emblem of Rivals.\nOutmaneuvers his foes with tricky\ntactics and skilled use of bows.
+MGID_H_EnemyClaude	An Emblem that awakened from the\nBracelet of Three Houses.
+MGID_Tiki	Tiki
+MGID_H_Tiki	Known as the Emblem of Dragons.\nHas the ability to turn into a dragon\nand decimate foes with her breath.
+MGID_H_EnemyTiki	An Emblem that awakened from the\nBracelet of the Ancestor.
+MGEID_Edelgard	Rivals
+MGEID_Tiki	Dragons
+MJID_PhantomFlyingDragon	Phantom Wyvern
+MJID_H_PhantomFlyingDragon	Wyverns that soar freely over the\nbattlefield. They can corner enemies\nwith breath attacks.
+MJID_H_EmblemB	Heroes from worlds beyond Elyos,\nwho are contained in bracelets. They\npossess unimaginable power.
+MIID_IceBreath	Freezing Breath
+MIID_H_IceBreath	An icy breath attack. Ignores foe\nDef/Res. Freezes foe.
+MIID_IceBall	Iceball
+MIID_H_IceBall	A long-range ice attack. Ignores foe\nDef/Res. Freezes foe.
+MIID_Tiki_Claw	Eternal Claw
+MIID_H_Tiki_Claw	Claw attack used by Emblem Tiki.\nEasily inflicts fatal wounds.
+MIID_Tiki_Tail	Tail Smash
+MIID_H_Tiki_Tail	Smash attack used by Emblem Tiki.\nSmashes foes. Cannot follow up, or\nstrike first if initiating combat.
+MIID_Tiki_Breath	Fire Breath
+MIID_H_Tiki_Breath	Strikes foes in area at half Def. Sets\narea on fire. Cannot follow up, or\nstrike first if initiating combat.
+MIID_Tiki_Breath_Dragon	Fog Breath
+MIID_H_Tiki_Breath_Dragon	Strikes foes in area at half Def. Eff:\nDragon. Creates fog. Cannot follow\nup, or strike first if initiating combat.
+MIID_Tiki_Breath_Heavy	Ice Breath
+MIID_H_Tiki_Breath_Heavy	Strikes foes in area at half Def.\nFreezes foes. Cannot follow up, or\nstrike first if initiating combat.
+MIID_Tiki_Breath_Fly	Flame Breath
+MIID_H_Tiki_Breath_Fly	Sets area on fire. Strikes foes at 70%\ndamage and half Def. Cannot follow\nup, or strike first if initiating combat.
+MIID_Tiki_Breath_Magic	Dark Breath
+MIID_H_Tiki_Breath_Magic	Magically strikes foes in area at half\nRes. Cannot follow up, or strike first\nif initiating combat.
+MIID_Tiki_Blessing	Divine Blessing
+MIID_Tiki_Blessing+	Divine Blessing+
+MIID_Edelgard_Aymr	Aymr
+MIID_H_Edelgard_Aymr	Axe of Emblem Edelgard. Smashes\nfoes. Cannot follow up, or strike first\nif initiating combat. Eff: Dragon.
+MIID_Edelgard_Areadbhar	Areadbhar
+MIID_H_Edelgard_Areadbhar	Lance wielded by Emblem Dimitri.\nIf user initiates combat, grants\nMt+50%.
+MIID_Edelgard_Failnaught	Failnaught
+MIID_H_Edelgard_Failnaught	Bow wielded by Emblem Claude.\nIf user initiates combat, grants\nAvo+20. Effective: Dragon, Flying.
+MIID_SilverCard	Silver Card
+MIID_H_SilverCard	Carrying this reduces cost of items\nby 30% when shopping at locations\nsuch as the armory or item shop.
+MSID_FriendlyCompetition	Friendly Rivalry
+MSID_H_FriendlyCompetition	At start of player phase, the Emblem\nwill randomly switch to Edelgard,\nDimitri, or Claude.
+MSID_Strategy	Gambit
+MSID_H_Strategy	Effects change based on synced\nEmblem.
+MSID_Strategy_Disturbance	Assembly Gambit
+MSID_H_Strategy_Disturbance	Use to attack an adjacent foe, then\nmove 1 space away after combat.\nTarget foe moves to unit's previous\nspace.
+MSID_H_Strategy_Disturbance_CMD	Unit and target foe move\nback 1 space after combat.
+MSID_Strategy_PowerfulFireAttack	Flame Gambit
+MSID_H_Strategy_PowerfulFireAttack	Use when synced with Edelgard to\nattack a foe, then set the target foe's\nspace and nearby spaces on fire.
+MSID_H_Strategy_PowerfulFireAttack_CMD	Set foe's space and nearby\nspaces on fire after combat.
+MSID_Strategy_HolyShield	Shield Gambit
+MSID_H_Strategy_HolyShield	Use when synced with Dimitri to\nnegate damage from first attacks of\nranged foes targeting unit in next\nenemy phase.
+MSID_H_Strategy_HolyShield_CMD	First long-range attacks do\nno damage.
+MSID_Strategy_PoisonArrow	Poison Gambit
+MSID_H_Strategy_PoisonArrow	Use when synced with Claude to\nattack a foe, then poison target and\nall foes adjacent to it after combat.
+MSID_H_Strategy_PoisonArrow_CMD	Poison a target and foes\nadjacent to it after combat.
+MSID_WeaponSynchronized	Weapon Sync
+MSID_H_WeaponSynchronized	If unit initiates combat using same\nweapon type as the synced Emblem,\ngrants Atk+5. If engaged, grants\nAtk+5 regardless of weapon type.
+MSID_WeaponSynchronized+	Weapon Sync+
+MSID_H_WeaponSynchronized+	If unit initiates combat using same\nweapon type as the synced Emblem,\ngrants Atk+7. If engaged, grants\nAtk+7 regardless of weapon type.
+MSID_Pedigree	Lineage
+MSID_H_Pedigree	Grants 1.2× EXP modifier to unit.
+MSID_ClassPresidentsEngage	Combat Arts
+MSID_H_ClassPresidentsEngage	Enables use of Edelgard, Dimitri, or\nClaude's Combat Art. Spends some\nremaining engage turns.
+MSID_H_ClassPresidentsEngage_Dragon	Enables use of Edelgard, Dimitri, or\nClaude's Combat Art. Spends some\nremaining engage turns.\n[Dragon] +10% damage.
+MSID_H_ClassPresidentsEngage_Covert	Enables use of Edelgard, Dimitri, or\nClaude's Combat Art. Spends some\nremaining engage turns.\n[Covert] Avo+20.
+MSID_H_ClassPresidentsEngage_CMD	Spend some engage turns to\nexecute a special attack.
+MSID_ClassPresidentsEngage_MadStorm	Raging Storm
+MSID_H_ClassPresidentsEngage_MadStorm_CMD	After combat, take another\naction. (Spend 3 turns.)
+MSID_ClassPresidentsEngage_Miserable	Atrocity
+MSID_H_ClassPresidentsEngage_Miserable_CMD	Attack at double weapon's\nMt. (Spend 1 turn.)
+MSID_ClassPresidentsEngage_FallingStarts	Fallen Star
+MSID_H_ClassPresidentsEngage_FallingStarts_CMD	Avoid foe's attacks during\nnext combat. (Spend 1 turn.)
+MSID_ClassPresidentsEngageAtk	Houses Unite
+MSID_H_ClassPresidentsEngageAtk	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.
+MSID_H_ClassPresidentsEngageAtk_Dragon	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\n[Dragon] +10% damage.
+MSID_H_ClassPresidentsEngageAtk_Horse	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\n[Cavalry] +10% damage with\nAreadbhar.
+MSID_H_ClassPresidentsEngageAtk_Covert	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\n[Covert] +10% damage with\nFailnaught.
+MSID_H_ClassPresidentsEngageAtk_Heavy	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\n[Armored] +10% damage\nwith Aymr.
+MSID_H_ClassPresidentsEngageAtk_Prana	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\n[Qi Adept] Breaks foe.
+MSID_H_ClassPresidentsEngageAtk_CMD	Attacks with axe, lance, and\nbow.
+MSID_ClassPresidentsEngageAtk+	Houses Unite+
+MSID_H_ClassPresidentsEngageAtk+	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.
+MSID_H_ClassPresidentsEngageAtk+_Dragon	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.\n[Dragon] +10% damage.
+MSID_H_ClassPresidentsEngageAtk+_Horse	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.\n[Cavalry] +10% damage with\nAreadbhar.
+MSID_H_ClassPresidentsEngageAtk+_Covert	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.\n[Covert] +10% damage with\nFailnaught.
+MSID_H_ClassPresidentsEngageAtk+_Heavy	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.\n[Armored] +10% damage\nwith Aymr.
+MSID_H_ClassPresidentsEngageAtk+_Prana	Use to attack with Aymr, Areadbhar,\nand Failnaught at 50% damage.\nAfter combat, take another action.\n[Qi Adept] Breaks foe.
+MSID_H_ClassPresidentsEngageAtk+_CMD	Attacks with lance, bow, and\naxe. Get another action.
+MSID_BallsProtection_Light	Lightsphere
+MSID_H_BallsProtection_Light	If unit initiates combat, halves chance\nof receiving critical hit from foe.
+MSID_BallsProtection_Star	Starsphere
+MSID_H_BallsProtection_Star	Grants unit enhanced stat growth\nwhen leveling up.
+MSID_BallsProtection_Life	Lifesphere
+MSID_H_BallsProtection_Life	If unit uses Wait without attacking or\nusing items, restores 20 HP and\nheals status effects.
+MSID_BallsProtection_Life+	Lifesphere+
+MSID_H_BallsProtection_Life+	If unit uses Wait without attacking or\nusing items, restores 30 HP and\nheals status effects.
+MSID_BallsProtection_Life++	Lifesphere++
+MSID_H_BallsProtection_Life++	If unit uses Wait without attacking or\nusing items, restores 40 HP and\nheals status effects.
+MSID_BallsProtection_Earth	Geosphere
+MSID_H_BallsProtection_Earth	At start of player phase, if there are \nallies adjacent to unit, grants\nDef/Res+3 to unit and those allies\nfor 1 turn.
+MSID_BallsProtection_Earth+	Geosphere+
+MSID_H_BallsProtection_Earth+	At start of player phase, if there are \nallies adjacent to unit, grants\nDef/Res+5 to unit and those allies\nfor 1 turn.
+MSID_TikiEngage	Draconic Form
+MSID_H_TikiEngage	Unit transforms into and fights as a\ndragon while engaged. Grants +10 to\nmax HP and +5 to Bld and all basic\nstats.
+MSID_H_TikiEngage_Heavy	Unit transforms into and fights as a\ndragon while engaged. Grants +10 to\nmax HP and +5 to Bld and all basic\nstats.\n[Armored] Negates terrain damage.
+MSID_H_TikiEngage_Magic	Unit transforms into and fights as a\ndragon while engaged. Grants +10 to\nmax HP and +5 to Bld and all basic\nstats.\n[Mystical] Grants an extra Res+5.
+MSID_TikiEngageAtk	Divine Blessing
+MSID_H_TikiEngageAtk	Use to grant 1 ally a Revival Stone.
+MSID_H_TikiEngageAtk_Dragon	Use to grant 1 ally a Revival Stone.\n[Dragon] Restore 20 HP to ally.
+MSID_H_TikiEngageAtk_Prana	Grants 1 ally a Revival Stone.\n[Qi Adept] Heal their status effects.
+MSID_H_TikiEngageAtk_CMD	Grants ally a Revival Stone.
+MSID_TikiEngageAtk+	Divine Blessing+
+MSID_H_TikiEngageAtk+	Use to grant 1 ally a Revival Stone. If\nally is not synced, fully restore HP. If\nally is synced, +3 to engage meter. If\nally is engaged, restore engage turns.
+MSID_H_TikiEngageAtk+_Dragon	Use to grant 1 ally a Revival Stone. If\nally is not synced, fully restore HP. If\nally is synced, +3 to engage meter. If\nally is engaged, restore engage turns.\n[Dragon] Restore 20 HP to ally.
+MSID_H_TikiEngageAtk+_Prana	Use to grant 1 ally a Revival Stone. If\nally is not synced, fully restore HP. If\nally is synced, +3 to engage meter. If\nally is engaged, restore engage turns.\n[Qi Adept] Heal their status effects.
+MSID_H_TikiEngageAtk+_CMD	Grants ally a Revival Stone\nand additional effects.
+MSID_Str_Tec_1	Str/Dex +1
+MSID_H_Str_Tec_1	Grants Str+1 and Dex+1.
+MSID_Str_Tec_2	Str/Dex +2
+MSID_H_Str_Tec_2	Grants Str+2 and Dex+2.
+MSID_Str_Tec_3	Str/Dex +3
+MSID_H_Str_Tec_3	Grants Str+3 and Dex+3.
+MSID_Str_Tec_4	Str/Dex +4
+MSID_H_Str_Tec_4	Grants Str+4 and Dex+4.
+MSID_Str_Tec_5	Str/Dex +5
+MSID_H_Str_Tec_5	Grants Str+5 and Dex+5.
+MSID_Hp_Lck_2	HP/Lck +2
+MSID_H_Hp_Lck_2	Grants HP+2 and Lck+2.
+MSID_Hp_Lck_4	HP/Lck +4
+MSID_H_Hp_Lck_4	Grants HP+4 and Lck+4.
+MSID_Hp_Lck_6	HP/Lck +6
+MSID_H_Hp_Lck_6	Grants HP+6 and Lck+6.
+MSID_Hp_Lck_8	HP/Lck +8
+MSID_H_Hp_Lck_8	Grants HP+8 and Lck+8.
+MSID_Hp_Lck_10	HP/Lck +10
+MSID_H_Hp_Lck_10	Grants HP+10 and Lck+10.
+MSID_AntiBowArts_1	Bow Guard 1
+MSID_H_AntiBowArts_1	If foe is equipped with a bow, unit\ntakes 1 less damage during combat.
+MSID_AntiBowArts_2	Bow Guard 2
+MSID_H_AntiBowArts_2	If foe is equipped with a bow, unit\ntakes 2 less damage during combat.
+MSID_AntiBowArts_3	Bow Guard 3
+MSID_H_AntiBowArts_3	If foe is equipped with a bow, unit\ntakes 3 less damage during combat.
+MSID_AntiBowArts_4	Bow Guard 4
+MSID_H_AntiBowArts_4	If foe is equipped with a bow, unit\ntakes 4 less damage during combat.
+MSID_AntiBowArts_5	Bow Guard 5
+MSID_H_AntiBowArts_5	If foe is equipped with a bow, unit\ntakes 5 less damage during combat.
+MSID_AntiSpecialArts_1	Special Guard 1
+MSID_H_AntiSpecialArts_1	If foe is equipped with a special\nattack, unit takes 1 less damage\nduring combat.
+MSID_AntiSpecialArts_2	Special Guard 2
+MSID_H_AntiSpecialArts_2	If foe is equipped with a special\nattack, unit takes 2 less damage\nduring combat.
+MSID_AntiSpecialArts_3	Special Guard 3
+MSID_H_AntiSpecialArts_3	If foe is equipped with a special\nattack, unit takes 3 less damage\nduring combat.
+MSID_AntiSpecialArts_4	Special Guard 4
+MSID_H_AntiSpecialArts_4	If foe is equipped with a special\nattack, unit takes 4 less damage\nduring combat.
+MSID_AntiSpecialArts_5	Special Guard 5
+MSID_H_AntiSpecialArts_5	If foe is equipped with a special\nattack, unit takes 5 less damage\nduring combat.
+MSID_JobSkill_PhantomFlyingDragon	Frost Domain
+MSID_H_JobSkill_PhantomFlyingDragon	At start of turn, applies frost to\nterrain within 2 spaces of unit.
+MAID_Kimono	Rare Set
+MAID_KimonoM	Rare Vest
+MAID_H_KimonoM	Fashion-forward clothing styled to create a new kind of look. Made with\nrare materials that the merchant Pinet found at the ancient well.
+MAID_KimonoF	Rare Apron
+MAID_H_KimonoF	Retro clothing, with long sleeves tied back for easier movement. Made\nwith rare materials that the merchant Pinet found at the ancient well.
+MAID_JpHeadDress	Frilled Band
+MAID_H_JpHeadDress	A headband with frills and ribbons. It looks adorable while preventing hair\nfrom falling out of place. A handy hairpiece for cooking or cleaning up.
+MAID_JpRibbon	Big Ribbon
+MAID_H_JpRibbon	A very large ribbon that sits at a jaunty angle. In spite of its size, it's light\nand easy to wear. A fun accessory for any look.
+MAID_JpEarrings	Single Earring
+MAID_H_JpEarrings	A stylish earring designed for single-ear use. For folks with a casual\nfashion sense. It swings easily, sparkling with reflected light.
+MAID_JpGlasses	Round Specs
+MAID_H_JpGlasses	Glasses with circular lenses and a lustrous silver coating. Popular with \nthose who are looking for something other than the usual options.
+MID_MAINMENU_DLC	DLC
+MID_MENU_SELECT_BATTLE	Fight!
+MID_MENU_SELECT_BATTLE_HELP	Start skirmish/recall battle
+MID_MENU_ENTER_RECOLLECTION_BATTLE	Recall Battle
+MID_MENU_ENTER_RECOLLECTION_BATTLE_HELP	Replay story and battle.
+MID_MENU_ENTER_RECOLLECTION_BATTLE_CONFIRM	Start recall battle?
+MID_MENU_ENTER_CHOOSE_BATTLE_CONFIRM	Which battle will you start?
+MID_MENU_ENTER_ENCOUNTER_YES	Start Skirmish
+MID_MENU_ENTER_RECOLLECTION_YES	Start Recall Battle
+MID_MENU_TO_OTHER	Travel
+MID_MENU_TO_OTHER_HELP	Go to the Somniel or\nanother location.
+MID_MENU_DEPARTURE	Depart
+MID_MENU_DEPARTURE_HELP	Travel to the world map or\nanother location.
+MID_GMAP_MapDetails_Reference	Duration
+MID_GMAP_MapDetails_ReferenceTurn	About \x0E\x01\x00\x00 turns
+MGID_Ring_CharacterName_DLC	\x0E\x01\x00\x00's Bracelet
+MID_BONDSRING_Tiki00	Daughter of Divine Dragon Queen\nNaga on Archanea in another world.
+MID_BONDSRING_Tiki01	After a long slumber, she joined\nPrince Marth to fight against Dolhr.
+MID_BONDSRING_Edelgard00	Heir apparent of the Adrestian\nEmpire in another world.
+MID_BONDSRING_Edelgard01	She fought for her ideals as leader of\nthe Black Eagle House.
+MID_BONDSRING_Dimitri00	Heir apparent of the Holy Kingdom\nof Faerghus in another world.
+MID_BONDSRING_Dimitri01	He worked to overcome suffering as\nleader of the Blue Lion House.
+MID_BONDSRING_Claude00	Heir to House Riegan, leaders of the\nLeicester Alliance in another world.
+MID_BONDSRING_Claude01	He brought his allies together as\nleader of the Golden Deer House.
+MGID_Ring_Tiki	Bracelet of the Ancestor
+MGID_H_Ring_Tiki	The bracelet where Tiki sleeps.\nA naive young girl with the blood of\nDivine Dragons.
+MGID_Ring_Edelgard	Bracelet of the Three Houses
+MGID_H_Ring_Edelgard	The bracelet where Edelgard sleeps.\nThe refined and dignified Imperial\nPrincess of Flames.
+MGID_Ring_Dimitri	Bracelet of the Three Houses
+MGID_H_Ring_Dimitri	The bracelet where Dimitri sleeps.\nThe wise and virtuous prince of a\nnation of knights.
+MGID_Ring_Claude	Bracelet of the Three Houses
+MGID_H_Ring_Claude	The bracelet where Claude sleeps.\nA calculating and enigmatic heir to\na dukedom.
+MGID_World_Tiki	World of the Hero-King
+MGID_World_Edelgard	World of the Instructor
+MGID_World_Dimitri	World of the Instructor
+MGID_World_Claude	World of the Instructor
+MID_RELAY_Stamp_Tiki_0	We'll always be together...right?
+MID_RELAY_Stamp_Edelgard_0	We can't do all that we must on our own.
+MID_RELAY_Stamp_Dimitri_0	I won't stop marching onward.
+MID_RELAY_Stamp_Claude_0	Wanna hear something interesting?
+MID_Hub_ShopCard_Sale	30% OFF!
+MID_Hub_Portal	Portal
+PCTMID_Tiki	"We'll always be together."
+PCTMID_Edelgard	"No matter the cost..."
+PCTMID_Dimitri	"I won't stop."
+PCTMID_Claude	"It's a question of will."
+MID_Movie_K14	Emblem Tiki
+MID_H_Movie_K14	Emblem Tiki, summoned from the\nBracelet of the Ancestor.
+MID_Movie_K13	Emblem Edelgard
+MID_H_Movie_K13	Emblem Edelgard, Emblem Dimitri, and\nEmblem Claude summoned from the\nBracelet of the Three Houses.

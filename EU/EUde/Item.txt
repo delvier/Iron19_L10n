@@ -1,0 +1,678 @@
+MIID_None	
+MIID_H_None	--------
+MIID_Unknown	???
+MIID_H_Unknown	?????
+MIID_UnknownArg	??? \x0E\x01\x00\x00
+MIID_IronSword	Eisenschwert
+MIID_H_IronSword	Ein gewöhnliches Schwert aus Eisen,\neinfach, aber wirkungsvoll.
+MIID_SteelSword	Stahlschwert
+MIID_H_SteelSword	Ein aus Stahl gefertigtes Schwert.
+MIID_SilverSword	Silberschwert
+MIID_H_SilverSword	Ein außergewöhnliches Schwert aus\nseltenem Metall.
+MIID_SmallSword	Leichtschwert
+MIID_H_SmallSword	Ein leichtes, ungewöhnlich\ntreffsicheres Schwert.
+MIID_BraveSword	Kriegerschwert
+MIID_H_BraveSword	Ein Schwert für erfahrene Kämpfer.\nInitiiert der Träger den Kampf, greift\ner 2-mal an.
+MIID_ThunderSword	Donnerschwert
+MIID_H_ThunderSword	Ein magisches Schwert, das sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_Liberation	Libération
+MIID_H_Liberation_M000	Das Schwert \x0E\x0A\x00<\x1Cdes Wyrmgottes\x1Cder Wyrmgöttin.
+MIID_H_Liberation	Nur für \x0E\x0A\x008\x18den Wyrmgott\x1Cdie Wyrmgöttin. Wenn ein\nGegner in einem Zug angegriffen und\nbesiegt wird, Bündnisleiste +1.
+MIID_KillingEdge	Schnitter
+MIID_H_KillingEdge	Ein Schwert, das Gegnern tödliche\nWunden zufügt.
+MIID_JapaneseSword	Wo Dao
+MIID_H_JapaneseSword	Ein Schwert mit einer rasiermesser-\nscharfen Klinge.
+MIID_Armorslayer	Panzerbrecher
+MIID_H_Armorslayer	Ein Schwert, das selbst schwere\nRüstungen durchdringen kann.\nEffektiv gegen: Gepanzerte.
+MIID_GodSword	Caladbolg
+MIID_H_GodSword	Ein legendäres Schwert, das für\nseine immense Macht bekannt ist.
+MIID_IronSwordL	Eisenklinge
+MIID_H_IronSwordL	Ein gewaltiges Schwert mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_SteelSwordL	Stahlklinge
+MIID_H_SteelSwordL	Gewaltiges Schwert aus Stahl mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_SilverSwordL	Silberklinge
+MIID_H_SilverSwordL	Gewaltiges Schwert aus Edelmetall\nmit Schmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_WilleGlanz	Wille Glanz
+MIID_H_WilleGlanz	Eine mächtige Klinge, die nur \x0E\x0A\x00\x18\x06vom\x0Evon der\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin genutzt werden kann.\nErmöglicht Nah- und Fernangriffe.
+MIID_GodSwordL	Georgios
+MIID_H_GodSwordL	Ein legendäres Schwert mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_Dragonslayer	Wyrmtöter
+MIID_H_Dragonslayer	Ein Schwert, das für den Kampf\ngegen Drachen gedacht ist.\nEffektiv gegen: Drachen.
+MIID_IronLance	Eisenlanze
+MIID_H_IronLance	Eine gewöhnliche Lanze aus Eisen,\neinfach, aber wirkungsvoll.
+MIID_SteelLance	Stahllanze
+MIID_H_SteelLance	Eine aus Stahl gefertigte Lanze.
+MIID_SilverLance	Silberlanze
+MIID_H_SilverLance	Eine außergewöhnliche Lanze aus\nseltenem Metall.
+MIID_SmallLance	Leichtlanze
+MIID_H_SmallLance	Eine leichte, ungewöhnlich\ntreffsichere Lanze.
+MIID_BraveLance	Kriegerlanze
+MIID_H_BraveLance	Eine Lanze für erfahrene Kämpfer.\nInitiiert der Träger den Kampf, greift\ner 2-mal an.
+MIID_HandLance	Langspeer
+MIID_H_HandLance	Eine leichte Wurflanze, die sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_RiderKiller	Rittertod
+MIID_H_RiderKiller	Eine Lanze speziell für Angriffe auf\nGegner zu Pferde.\nEffektiv gegen: Berittene.
+MIID_KillerLance	Meisterlanze
+MIID_H_KillerLance	Eine Lanze, die Gegnern tödliche\nWunden zufügt.
+MIID_Spear	Speer
+MIID_H_Spear	Eine mächtige Wurflanze, die sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_FlameSpear	Feuerlanze
+MIID_H_FlameSpear	Eine magische Lanze, die sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_GodLance	Brionac
+MIID_H_GodLance	Eine mächtige legendäre Lanze,\ndie sowohl für Nah- als auch für\nFernangriffe genutzt werden kann.
+MIID_IronLanceL	Eisen-Großlanze
+MIID_H_IronLanceL	Eine gewaltige Lanze mit Schmetter-\nkraft. Kein Erst-/Folgeangriff beim\nInitiieren des Kampfes.
+MIID_SteelLanceL	Stahl-Großlanze
+MIID_H_SteelLanceL	Eine gewaltige Lanze aus Stahl mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_SilverLanceL	Silber-Großlanze
+MIID_H_SilverLanceL	Gewaltige Lanze aus Edelmetall mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_GodLanceL	Giftzahn
+MIID_H_GodLanceL	Legendäre Lanze mit Schmetterkraft,\ndie Gegner vergiftet. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_IronAxe	Eisenaxt
+MIID_H_IronAxe	Eine gewöhnliche Axt aus Eisen,\neinfach, aber wirkungsvoll.
+MIID_SteelAxe	Stahlaxt
+MIID_H_SteelAxe	Eine aus Stahl gefertigte Axt.
+MIID_SilverAxe	Silberaxt
+MIID_H_SilverAxe	Eine außergewöhnliche Axt aus\nseltenem Metall.
+MIID_SmallAxe	Leichtaxt
+MIID_H_SmallAxe	Eine leichte, ungewöhnlich\ntreffsichere Axt.
+MIID_BraveAxe	Kriegeraxt
+MIID_H_BraveAxe	Eine Axt für erfahrene Kämpfer.\nInitiiert der Träger den Kampf, greift\ner 2-mal an.
+MIID_HandAxe	Wurfbeil
+MIID_H_HandAxe	Eine leichte Wurfaxt, die sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_Tomahawk	Tomahawk
+MIID_H_Tomahawk	Eine mächtige Wurfaxt, die sowohl\nfür Nah- als auch für Fernangriffe\ngenutzt werden kann.
+MIID_Hammer	Hammer
+MIID_H_Hammer	Kriegshammer, der selbst schwere\nRüstungen zertrümmern kann.\nEffektiv gegen: Gepanzerte.
+MIID_KillerAxe	Meisteraxt
+MIID_H_KillerAxe	Eine Axt, die Gegnern tödliche\nWunden zufügt.
+MIID_PoleAxe	Stabaxt
+MIID_H_PoleAxe	Eine Axt mit langem Griff, geeignet\nfür den Kampf gegen berittene\nGegner. Effektiv gegen: Berittene.
+MIID_GodAxe	Fragarach
+MIID_H_GodAxe	Eine legendäre Axt.
+MIID_IronAxeL	Eisen-Großaxt
+MIID_H_IronAxeL	Eine gewaltige Axt mit Schmetter-\nkraft. Kein Erst-/Folgeangriff beim\nInitiieren des Kampfes.
+MIID_SteelAxeL	Stahl-Großaxt
+MIID_H_SteelAxeL	Gewaltige Axt aus Stahl mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_SilverAxeL	Silber-Großaxt
+MIID_H_SilverAxeL	Eine gewaltige Axt aus Edelmetall\nmit Schmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_WindAxeL	Orkanaxt
+MIID_H_WindAxeL	Magische Axt mit Schmetterkraft.\nKein Erst-/Folgeangriff beim Initiieren\ndes Kampfes. Effektiv gegen: Flieger.
+MIID_GodAxeL	Ukonvasara-Axt
+MIID_H_GodAxeL	Eine große, legendäre Axt mit\nSchmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_ShortBow	Miniaturbogen
+MIID_H_ShortBow	Ein leicht zu handhabender\nBogen mit kurzer Reichweite.\nEffektiv gegen: Flieger.
+MIID_IronBow	Eisenbogen
+MIID_H_IronBow	Ein normaler Bogen aus Eisen.\nEffektiv gegen: Flieger.
+MIID_SteelBow	Stahlbogen
+MIID_H_SteelBow	Ein aus Stahl gefertigter Bogen.\nEffektiv gegen: Flieger.
+MIID_SilverBow	Silberbogen
+MIID_H_SilverBow	Ein außergewöhnlicher Bogen aus\nseltenem Metall.\nEffektiv gegen: Flieger.
+MIID_BraveBow	Kriegerbogen
+MIID_H_BraveBow	Ein Bogen für Experten. Initiiert der\nTräger den Kampf, greift er 2-mal an.\nEffektiv gegen: Flieger.
+MIID_LongBow	Langbogen
+MIID_H_LongBow	Ein Bogen mit hoher Reichweite.\nEffektiv gegen: Flieger.
+MIID_KillerBow	Meisterbogen
+MIID_H_KillerBow	Ein Bogen, der Gegnern tödliche\nWunden zufügt.\nEffektiv gegen: Flieger.
+MIID_LightBow	Sonnenbogen
+MIID_H_LightBow	Ein Bogen, mit dem Lichtpfeile\nverschossen werden können.\nEffektiv gegen: Flieger.
+MIID_GodBow	Lendabair
+MIID_H_GodBow	Ein legendärer Bogen.\nEffektiv gegen: Flieger.
+MIID_SmallKnife	Kurzmesser
+MIID_H_SmallKnife	Ein leicht zu handhabendes\nWurfmesser. Vergiftet getroffene\nGegner.
+MIID_IronKnife	Eisendolch
+MIID_H_IronKnife	Ein gewöhnliches Wurfmesser.\nVergiftet getroffene Gegner.
+MIID_SteelKnife	Stahldolch
+MIID_H_SteelKnife	Ein stählernes Wurfmesser. Vergiftet\ngetroffene Gegner.
+MIID_SilverKnife	Silberdolch
+MIID_H_SilverKnife	Ein Wurfmesser aus seltenem Metall.\nVergiftet getroffene Gegner.
+MIID_Kard	Kard
+MIID_H_Kard	Ein Kampfmesser, das sich speziell\nfür den Nahkampf eignet. Vergiftet\ngetroffene Gegner.
+MIID_Stiletto	Stilett
+MIID_H_Stiletto	Ein Kampfmesser, das sich speziell\nfür den Nahkampf eignet. Vergiftet\ngetroffene Gegner.
+MIID_Peshkad	Peshkatz
+MIID_H_Peshkad	Ein Kampfmesser, das sich speziell\nfür den Nahkampf eignet. Vergiftet\ngetroffene Gegner.
+MIID_Misericorde	Gnadengeber
+MIID_H_Misericorde	Nur für Veyle. Ein verzaubertes\nWurfmesser, das Magieschaden zu-\nfügt und getroffene Gegner vergiftet.
+MIID_Cinquedea	Cinquedea
+MIID_H_Cinquedea	Ein legendäres Wurfmesser, das\ngetroffene Gegner vergiftet.
+MIID_Carnwenhan	Carnwennan
+MIID_H_Carnwenhan	Ein legendäres giftiges Kurzschwert\nmit Schmetterkraft. Kein Erst-/Folge-\nangriff beim Initiieren des Kampfes.
+MIID_Surge	Flut
+MIID_H_Surge	Einfache Angriffsmagie, die nur im\nNahkampf eingesetzt werden kann.
+MIID_Fire	Feuer
+MIID_H_Fire	Ein einfaches Buch mit Feuermagie.
+MIID_Thunder	Donner
+MIID_H_Thunder	Ein einfaches Buch mit Blitzmagie.\nKein Folgeangriff möglich.
+MIID_Wind	Wind
+MIID_H_Wind	Ein einfaches Buch mit Windmagie.\nEffektiv gegen: Flieger.
+MIID_LSurge	Elfenflut
+MIID_H_LSurge	Fortgeschrittene Angriffsmagie, die\nnur im Nahkampf eingesetzt werden\nkann.
+MIID_LFire	Elfenlicht
+MIID_H_LFire	Fortgeschrittene Feuermagie.
+MIID_LThunder	Elfendonner
+MIID_H_LThunder	Fortgeschrittene Blitzmagie.\nKeine Folgeangriffe möglich.
+MIID_LWind	Elfenwind
+MIID_H_LWind	Fortgeschrittene Windmagie.\nEffektiv gegen: Flieger.
+MIID_Bolganone	Bolganone
+MIID_H_Bolganone	Feuermagie der höchsten Stufe.
+MIID_Thoron	Thoron
+MIID_H_Thoron	Blitzmagie der höchsten Stufe.\nKein Folgeangriff möglich.
+MIID_SThoron	Thoron
+MIID_H_SThoron	Blitzmagie der höchsten Stufe.\nKein Folgeangriff möglich.
+MIID_Excalibur	Excalibur
+MIID_H_Excalibur	Windmagie der höchsten Stufe.\nEffektiv gegen: Flieger.
+MIID_H_Excalibur_Gris	Windmagie der höchsten Stufe.\nEffektiv gegen: Flieger.
+MIID_Nova	Nova
+MIID_H_Nova	Äußerst mächtige Magie. Initiiert\nder Anwender den Kampf, greift er\n2-mal an.
+MIID_Meteo	Meteor
+MIID_H_Meteo	Magie mit hoher Reichweite.\nKann nicht im Nahkampf verwendet\nwerden.
+MIID_Obscurite	Obscurité
+MIID_H_Obscurite	Nur für Dämonendrachen.\nDunkelmagie der höchsten Stufe.
+MIID_H_Obscurite_M000	Nur für Dämonendrachen.\nDunkelmagie der höchsten Stufe.
+MIID_Heal	Heilung
+MIID_H_Heal	Ein von Heilmagie erfüllter Stab.\nStellt eine kleine Menge KP eines\nVerbündeten wieder her.
+MIID_HiHeal	Pflege
+MIID_H_HiHeal	Ein von Heilmagie erfüllter Stab.\nStellt eine große Menge KP eines\nVerbündeten wieder her.
+MIID_Recover	Erholung
+MIID_H_Recover	Ein von Heilmagie erfüllter Stab.\nStellt eine enorme Menge KP eines\nVerbündeten wieder her.
+MIID_FarHeal	Purgativ
+MIID_H_FarHeal	Ein von Heilmagie erfüllter Stab.\nStellt KP eines Verbündeten aus\nder Entfernung wieder her.
+MIID_WholeHeal	Stärkung
+MIID_H_WholeHeal	Ein von Heilmagie erfüllter Stab.\nStellt KP aller Verbündeten in einem\nUmkreis von 5 Feldern wieder her.
+MIID_Rest	Erneuerung
+MIID_H_Rest	Ein Stab, der Statuseffekte eines\nVerbündeten heilt.
+MIID_Warp	Teleport
+MIID_H_Warp	Ein Stab, der einen benachbarten\nVerbündeten auf ein anderes Feld\nteleportiert (Reichweite: 5 Felder).
+MIID_ReWarp	Fortschritt
+MIID_H_ReWarp	Ein Stab, der den Anwender auf ein\nanderes Feld teleportiert\n(Reichweite: 5 Felder).
+MIID_Rescue	Rettung
+MIID_H_Rescue	Ein magischer Stab, der einen\nweit entfernten Verbündeten auf ein\nbenachbartes Feld teleportiert.
+MIID_Draw	Falle
+MIID_H_Draw	Ein magischer Stab, der einen\nweit entfernten Gegner auf ein\nbenachbartes Feld teleportiert.
+MIID_TorchRod	Illumnis
+MIID_H_TorchRod	Magischer Stab, der Dunkelheit oder\nNebel vertreibt. Erhellt einen Radius\nvon 7 Feldern (nimmt pro Runde ab).
+MIID_Freeze	Einfrieren
+MIID_H_Freeze	Ein Stab, der einen Gegner für\n1 Runde daran hindert, sich zu\nbewegen.
+MIID_Silence	Schweigen
+MIID_H_Silence	Ein Stab, der einen Gegner für\n1 Runde daran hindert, Bücher\noder Stäbe einzusetzen.
+MIID_Block	Blockieren
+MIID_H_Block	Ein Stab, der eine Masse aus Eis\nheraufbeschwört, die ein Feld für\n1 Runde blockiert.
+MIID_Nodus	Nodus
+MIID_H_Nodus	Ein von seltsamer Magie erfüllter\nStab, der die Bündnisleiste aller\nVerbündeten auf Maximum setzt.
+MIID_Collapse	Fraktur
+MIID_H_Collapse	Ein magischer Stab, der Gegner\nbrechen kann.
+MIID_BeginnerFist	Erste Stufe
+MIID_H_BeginnerFist	Eine grundlegende Nahkampftechnik.\nErmöglicht keinen zusätzlichen\nAngriff.
+MIID_BasicFist	Zweite Stufe
+MIID_H_BasicFist	Eine leichte Nahkampftechnik.\nInitiiert der Anwender den Kampf,\ngreift er 2-mal an.
+MIID_MiddleFist	Dritte Stufe
+MIID_H_MiddleFist	Eine fortgeschrittene Nahkampf-\ntechnik. Initiiert der Anwender den\nKampf, greift er 2-mal an.
+MIID_HighFist	Vierte Stufe
+MIID_H_HighFist	Eine meisterhafte Nahkampftechnik.\nInitiiert der Anwender den Kampf,\ngreift er 2-mal an.
+MIID_GuardFist	Abwehrhaltung
+MIID_H_GuardFist	Eine defensive Nahkampftechnik.\nVerleiht Ver. +5.
+MIID_FlashFist	Donnerfaust
+MIID_H_FlashFist	Kühne Kampftechnik. Initiiert der An-\nwender d. Kampf, greift er 2-mal an.\nErlitt. Schaden +5. Verleiht Ges. +5.
+MIID_GodFist	Götterfaust
+MIID_H_GodFist	Eine legendäre Nahkampftechnik.\nInitiiert der Anwender den Kampf,\ngreift er 2-mal an.
+MIID_FireBreath	Feueratem
+MIID_H_FireBreath	Ein Angriff mit feurigem Odem.\nIgnoriert Ver./Res. des Gegners.
+MIID_FlameBall	Feuerball
+MIID_H_FlameBall	Ein Feuerangriff mit hoher\nReichweite. Ignoriert Ver./Res.\ndes Gegners.
+MIID_SombrePhysicalAttack	Dämonensturm
+MIID_H_SombrePhysicalAttack	Eine Reihe gewaltiger Fernangriffe.
+MIID_SombreMagicAttack	Dämonenwelle
+MIID_H_SombreMagicAttack	Ein mächtiger Fernangriff mit\ndunkler Magie.
+MIID_SombreSpinAttack	Wirbeltod
+MIID_H_SombreSpinAttack	Ein Wirbel, der brutal auf einen\nBereich zielt. Greift alle Gegner in\neinem Umkreis von 3 Feldern an.
+MIID_SombreBeam	Heulstrahl
+MIID_H_SombreBeam	Ein mächtiger Strahl dunkler Magie,\nder ein verdorbenes Miasma\nhinterlässt.
+MIID_SombreEngageBreak	Bündnisbrecher
+MIID_H_SombreEngageBreak	Hebt Bündnisse sämtlicher\nGegner auf.
+MIID_FireCannon	Flammenkanone
+MIID_H_FireCannon	Greift alle Einheiten im Umkreis von\n2 Feldern eines Ziels an und setzt\ndas entsprechende Gebiet in Brand.
+MIID_Vulnerary	Heilmittel
+MIID_H_Vulnerary	Stellt 15 KP wieder her.
+MIID_Medicine	Elixier
+MIID_H_Medicine	Stellt 30 KP wieder her.
+MIID_Antidote	Antidot
+MIID_H_Antidote	Stellt 15 KP wieder her und heilt\nVergiftungen.
+MIID_HolyWater	Weihwasser
+MIID_H_HolyWater	Verleiht Res. +7. Der Effekt nimmt\nmit jeder Runde um 1 ab.
+MIID_Torch	Fackel
+MIID_H_Torch	Erhellt einen Radius von 7 Feldern\n(nimmt pro Runde ein Feld ab).
+MIID_SeraphRobe	Engelsrobe
+MIID_H_SeraphRobe	Erhöht maximale KP dauerhaft um 5.
+MIID_EnergyDrop	Energietropfen
+MIID_H_EnergyDrop	Erhöht Stärke dauerhaft um 2.
+MIID_SpiritDust	Geist
+MIID_H_SpiritDust	Erhöht Magie dauerhaft um 2.
+MIID_SecretBook	Geheimbuch
+MIID_H_SecretBook	Erhöht Behändigkeit dauerhaft um 2.
+MIID_Speedwing	Tempofeder
+MIID_H_Speedwing	Erhöht Geschwindigkeit dauerhaft\num 2.
+MIID_GoddessIcon	Göttinnenikone
+MIID_H_GoddessIcon	Erhöht Glück dauerhaft um 2.
+MIID_Dracoshield	Draco-Schild
+MIID_H_Dracoshield	Erhöht Verteidigung dauerhaft um 2.
+MIID_Talisman	Talisman
+MIID_H_Talisman	Erhöht Resistenz dauerhaft um 2.
+MIID_Boots	Stiefel
+MIID_H_Boots	Erhöht Bewegung dauerhaft um 1.
+MIID_HpTonic	Trank der KP
+MIID_H_HpTonic	Erhöht maximale KP für die Dauer\neiner Schlacht um 5.
+MIID_StrTonic	Trank der Stä.
+MIID_H_StrTonic	Erhöht Stärke für die Dauer einer\nSchlacht um 2.
+MIID_MagTonic	Trank der Mag.
+MIID_H_MagTonic	Erhöht Magie für die Dauer einer\nSchlacht um 2.
+MIID_MdefTonic	Trank der Res.
+MIID_H_MdefTonic	Erhöht Resistenz für die Dauer einer\nSchlacht um 2.
+MIID_TecTonic	Trank der Beh.
+MIID_H_TecTonic	Erhöht Behändigkeit für die Dauer\neiner Schlacht um 2.
+MIID_SpdTonic	Trank der Ges.
+MIID_H_SpdTonic	Erhöht Geschwindigkeit für die\nDauer einer Schlacht um 2.
+MIID_LckTonic	Trank des Glk.
+MIID_H_LckTonic	Erhöht Glück für die Dauer einer\nSchlacht um 2.
+MIID_DefTonic	Trank der Ver.
+MIID_H_DefTonic	Erhöht Verteidigung für die Dauer\neiner Schlacht um 2.
+MIID_MasterSeal	Meistersiegel
+MIID_H_MasterSeal	Erlaubt Einheit, zu einer erfahreneren\nKlasse zu wechseln.
+MIID_ChangeSeal	Zweitsiegel
+MIID_H_ChangeSeal	Erlaubt Einheit, zu einer anderen\nKlasse gleichen Rangs zu wechseln\noder max. Lv. auf 1 zurückzusetzen.
+MIID_PromiseRing	Paktring
+MIID_H_PromiseRing	Erlaubt die Erhöhung des\nUnterstützungslevels mit einem\nVerbündeten von A auf \x0E\x08\x02\x1A\x18RelianceRing.
+MIID_H_PromiseRing_1	Ein Ring, der eine besondere Kraft\nauszuströmen scheint.
+MIID_TimeCrystal	Zeitkristall
+MIID_H_TimeCrystal	Der Drachenzeitkristall, der den Lauf\nder Zeit kurz umkehren kann.
+MIID_RefineIron	Eisenbarren
+MIID_H_RefineIron	Ein Stück Eisen, das in der Schmiede\nund in der Boutique verwendet wird.
+MIID_RefineSteel	Stahlbarren
+MIID_H_RefineSteel	Ein Stück Stahl, das in der Schmiede\nund in der Boutique verwendet wird.
+MIID_RefineSilver	Silberbarren
+MIID_H_RefineSilver	Ein Stück Silber, das in der Schmiede\nund in der Boutique verwendet wird.
+MIID_Mat_Atk	Kft.-Kristall
+MIID_H_Mat_Atk	Material zum Verstärken von\nBündniswaffen. Erhöht Kft.
+MIID_Mat_Hit	Trf.-Kristall
+MIID_H_Mat_Hit	Material zum Verstärken von\nBündniswaffen. Erhöht Trf.
+MIID_Mat_Cri	Krit.-Kristall
+MIID_H_Mat_Cri	Material zum Verstärken von\nBündniswaffen. Erhöht Krit.
+MIID_Mat_Avd	Aw.-Kristall
+MIID_H_Mat_Avd	Material zum Verstärken von Bünd-\nniswaffen. Erhöht Aw.
+MIID_Mat_Cavd	Krit.-Aw.-Kristall
+MIID_H_Mat_Cavd	Material zum Verstärken von\nBündniswaffen. Erhöht Krit. Aw.
+MIID_Mat_Tech	Beh.-Kristall
+MIID_H_Mat_Tech	Material zum Verstärken von\nBündniswaffen. Erhöht Beh.
+MIID_Mat_Spd	Ges.-Kristall
+MIID_H_Mat_Spd	Material zum Verstärken von\nBündniswaffen. Erhöht Ges.
+MIID_Mat_Def	Ver.-Kristall
+MIID_H_Mat_Def	Material zum Verstärken von\nBündniswaffen. Erhöht Ver.
+MIID_Mat_Res	Res.-Kristall
+MIID_H_Mat_Res	Material zum Verstärken von\nBündniswaffen. Erhöht Res.
+MIID_Mat_Slayer_Fly	Fliegerpein
+MIID_H_Mat_Slayer_Fly	Material zum Verbessern von\nBündniswaffen. Verleiht Effektivität\ngegen Flieger.
+MIID_Mat_Slayer_Horse	Reiterpein
+MIID_H_Mat_Slayer_Horse	Material zum Verbessern von\nBündniswaffen. Verleiht Effektivität\ngegen Berittene.
+MIID_Mat_Slayer_Armor	Schildpein
+MIID_H_Mat_Slayer_Armor	Material zum Verbessern von\nBündniswaffen. Verleiht Effektivität\ngegen Gepanzerte.
+MIID_Mat_Slayer_Dragon	Drachenpein
+MIID_H_Mat_Slayer_Dragon	Material zum Verbessern von\nBündniswaffen. Verleiht Effektivität\ngegen Drachen.
+MIID_Mat_Slayer_Morph	Verzerrtenpein
+MIID_H_Mat_Slayer_Morph	Material zum Verbessern von\nBündniswaffen. Verleiht Effektivität\ngegen Verzerrte.
+MIID_VandrBento	Vanders Ration
+MIID_H_VandrBento	Essensreste, von Vander ordentlich\ngepackt. Stellen 20 KP wieder her.
+MIID_ClanBento	Clannes Ration
+MIID_H_ClanBento	Essensreste, von Clanne eifrig\ngepackt. Stellen 20 KP wieder her.
+MIID_FramBento	Frammes Ration
+MIID_H_FramBento	Essensreste, von Framme begeistert\ngepackt. Stellen 20 KP wieder her.
+MIID_AlfredBento	Alfreds Ration
+MIID_H_AlfredBento	Essensreste, von Alfred großzügig\ngepackt. Stellen 20 KP wieder her.
+MIID_BoucheronBento	Boucherons Ration
+MIID_H_BoucheronBento	Essensreste, von Boucheron müßig\ngepackt. Stellen 20 KP wieder her.
+MIID_EtieBento	Eties Ration
+MIID_H_EtieBento	Essensreste, von Etie straff gepackt.\nStellen 20 KP wieder her.
+MIID_CelineBento	Célines Ration
+MIID_H_CelineBento	Essensreste, von Céline elegant\ngepackt. Stellen 20 KP wieder her.
+MIID_LouisBento	Louis' Ration
+MIID_H_LouisBento	Essensreste, von Louis hilfsbereit\ngepackt. Stellen 20 KP wieder her.
+MIID_ChloeBento	Chloés Ration
+MIID_H_ChloeBento	Essensreste, von Chloé mütterlich\ngepackt. Stellen 20 KP wieder her.
+MIID_DiamandBento	Diamants Ration
+MIID_H_DiamandBento	Essensreste, von Diamant makellos\ngepackt. Stellen 20 KP wieder her.
+MIID_UmberBento	Ambers Ration
+MIID_H_UmberBento	Essensreste, von Amber tollpatschig\ngepackt. Stellen 20 KP wieder her.
+MIID_JadeBento	Jades Ration
+MIID_H_JadeBento	Essensreste, von Jade sorgsam\ngepackt. Stellen 20 KP wieder her.
+MIID_StalukeBento	Alcrysts Ration
+MIID_H_StalukeBento	Essensreste, von Alcryst geschickt\ngepackt. Stellen 20 KP wieder her.
+MIID_LapisBento	Lapis' Ration
+MIID_H_LapisBento	Essensreste, von Lapis anständig\ngepackt. Stellen 20 KP wieder her.
+MIID_CitrinicaBento	Citrinnes Ration
+MIID_H_CitrinicaBento	Essensreste, von Citrinne prächtig\ngepackt. Stellen 20 KP wieder her.
+MIID_IvyBento	Ivys Ration
+MIID_H_IvyBento	Essensreste, von Ivy bedächtig\ngepackt. Stellen 20 KP wieder her.
+MIID_ZelkovaBento	Zelkovs Ration
+MIID_H_ZelkovaBento	Essensreste, von Zelkov... kunstvoll...\ngepackt. Stellen 20 KP wieder her.
+MIID_KagetsuBento	Kagetsus Ration
+MIID_H_KagetsuBento	Essensreste, von Kagetsu aufrichtig\ngepackt. Stellen 20 KP wieder her.
+MIID_HortensiaBento	Hortensias Ration
+MIID_H_HortensiaBento	Essensreste, von Hortensia wahllos\ngepackt. Stellen 20 KP wieder her.
+MIID_RosadoBento	Rosados Ration
+MIID_H_RosadoBento	Essensreste, von Rosado niedlich\ngepackt. Stellen 20 KP wieder her.
+MIID_GoldmaryBento	Goldmarys Ration
+MIID_H_GoldmaryBento	Essensreste, von Goldmary perfekt\ngepackt. Stellen 20 KP wieder her.
+MIID_MisutiraBento	Timerras Ration
+MIID_H_MisutiraBento	Essensreste, von Timerra singend\ngepackt. Stellen 20 KP wieder her.
+MIID_MerinBento	Merrins Ration
+MIID_H_MerinBento	Essensreste, von Merrin lässig\ngepackt. Stellen 20 KP wieder her.
+MIID_PanetoneBento	Panettes Ration
+MIID_H_PanetoneBento	Essensreste, von Panette sonderbar\ngepackt. Stellen 20 KP wieder her.
+MIID_FogatoBento	Fogados Ration
+MIID_H_FogatoBento	Essensreste, von Fogado gelassen\ngepackt. Stellen 20 KP wieder her.
+MIID_PandoroBento	Pandreos Ration
+MIID_H_PandoroBento	Essensreste, von Pandreo freundlich\ngepackt. Stellen 20 KP wieder her.
+MIID_BonetBento	Bunets Ration
+MIID_H_BonetBento	Essensreste, von Bunet fachkundig\ngepackt. Stellen 20 KP wieder her.
+MIID_AnnaBento	Annas Ration
+MIID_H_AnnaBento	Essensreste, von Anna sparsam\ngepackt. Stellen 20 KP wieder her.
+MIID_JeanBento	Jeans Ration
+MIID_H_JeanBento	Essensreste, von Jean sorgfältig\ngepackt. Stellen 20 KP wieder her.
+MIID_YunakaBento	Yunakas Ration
+MIID_H_YunakaBento	Essensreste, von Yunaka behutsam\ngepackt. Stellen 20 KP wieder her.
+MIID_SeadasBento	Seadalls Ration
+MIID_H_SeadasBento	Essensreste, von Seadall prophetisch\ngepackt. Stellen 20 KP wieder her.
+MIID_LindenBento	Lindons Ration
+MIID_H_LindenBento	Essensreste, von Lindon kreativ\ngepackt. Stellen 20 KP wieder her.
+MIID_SaphirBento	Saphirs Ration
+MIID_H_SaphirBento	Essensreste, von Saphir ordentlich\ngepackt. Stellen 20 KP wieder her.
+MIID_VeyreBento	Veyles Ration
+MIID_H_VeyreBento	Essensreste, von Veyle liebevoll\ngepackt. Stellen 20 KP wieder her.
+MIID_MauveBento	Mauviers Ration
+MIID_H_MauveBento	Essensreste, von Mauvier akribisch\ngepackt. Stellen 20 KP wieder her.
+MIID_DROPITEM_MONEY	\x0E\x01\x07\x00 G
+MIID_H_MONEY	Die Währung von Elyos.
+MIID_Beef	Rind
+MIID_H_Beef	Festes, rotes Fleisch von einem Rind.\nBrodia exportiert besonders hoch-\nwertiges, zu überaus hohen Preisen.
+MIID_Pork	Schwein
+MIID_H_Pork	Gewöhnliches Schweinefleisch, das\nsich aufgrund von Verfügbarkeit und\nPreis großer Beliebtheit erfreut.
+MIID_Chicken	Huhn
+MIID_H_Chicken	Dieses Fleisch gilt als eine äußerst\neffiziente Nährstoffquelle und eignet\nsich gut für den Muskelaufbau.
+MIID_Mutton	Lamm
+MIID_H_Mutton	Lammfleisch mit ausgeprägtem\nAroma. Entweder man liebt es oder\nman hasst es.
+MIID_Onion	Zwiebel
+MIID_H_Onion	Ein Gemüse aus dem Garten von\nSomniel. Verträgt keine Hitze und\ngedeiht am besten in kälterem Klima.
+MIID_Cabbage	Kohl
+MIID_H_Cabbage	Ein Gemüse aus dem Garten von\nSomniel. Schmeckt leicht süßlich,\nwenn man es roh verzehrt.
+MIID_Herb	Kraut
+MIID_H_Herb	Ein aromatisches Würzmittel, das\nGerichten mehr Geschmack verleiht\nund zum Garnieren verwendet wird.
+MIID_Tomato	Tomate
+MIID_H_Tomato	Ein beliebtes Gemüse, das über-\nwiegend in Firene angebaut wird und\ndort in vielen Variationen wächst.
+MIID_Potato	Kartoffel
+MIID_H_Potato	Wird in Firene, Solm und Brodia\nangebaut. Half in der Hungersnot\nnach dem Krieg vor 1000 Jahren.
+MIID_RareVagetable	Selt. Gemüse
+MIID_H_RareVagetable	Ein seltsames Gemüse, das angeblich\nGlück bringen soll. Gilt als äußerst\nrar und kann nicht angebaut werden.
+MIID_Wheat	Weizenmehl
+MIID_H_Wheat	Beliebte Grundzutat in einer\nVielzahl von Gerichten.
+MIID_Apple	Apfel
+MIID_H_Apple	Eine Frucht aus dem Obstgarten des\nSomniel, seit jeher beliebt. Wird auch\nhäufig in Märchen erwähnt.
+MIID_Orange	Orange
+MIID_H_Orange	Das wohl verbreitetste Obst in\nFirene. Gilt als Spezialität Firenes\nund wächst an keinem anderen Ort.
+MIID_Peach	Pfirsich
+MIID_H_Peach	Eine köstliche Frucht aus dem Obst-\ngarten des Somniel. Wurde Adligen\nbei Besuchen als Geschenk gereicht.
+MIID_Grape	Trauben
+MIID_H_Grape	Eine Frucht aus dem Obstgarten\ndes Somniel. Wächst an Rispen und\nwird gern unter Freunden geteilt.
+MIID_Berry	Beeren
+MIID_H_Berry	Eine kleine Frucht, heimisch in vielen\nRegionen. Wird in Firene und Brodia\noft als Zwischenmahlzeit verzehrt.
+MIID_RareFruit	Seltenes Obst
+MIID_H_RareFruit	Ein seltenes Obst, das auch oft als\n„Geisterfrucht“ bezeichnet wird, da\nder Baum nach nur einer Ernte stirbt.
+MIID_Nuts	Nüsse
+MIID_H_Nuts	Bezeichnung für alle üblichen Baum-\nnüsse. Werden manchmal getrocknet.\nEinige Exemplare sind äußerst klein.
+MIID_Herring	Hering
+MIID_H_Herring	Samia-Hering, der zum Kochen\nvorbereitet wurde.
+MIID_Carp	Karpfen
+MIID_H_Carp	Caria-Karpfen, der zum Kochen\nvorbereitet wurde.
+MIID_Salmon	Lachs
+MIID_H_Salmon	Tipa-Lachs, der zum Kochen\nvorbereitet wurde.
+MIID_Cod	Dorsch
+MIID_H_Cod	Valcamo-Dorsch, der zum Kochen\nvorbereitet wurde.
+MIID_Eel	Aal
+MIID_H_Eel	Mykenä-Aal, der zum Kochen\nvorbereitet wurde.
+MIID_Sardine	Sardine
+MIID_H_Sardine	Glotz-Sardine, die zum Kochen\nvorbereitet wurde.
+MIID_MincedFish	Surimi
+MIID_H_MincedFish	Klein gehackter Fisch.
+MIID_DriedFish	Trockenfisch
+MIID_H_DriedFish	Ein getrockneter, ganzer Fisch. Kann\nzum Kochen verwendet werden.
+MIID_SlicedRawFish	Sashimi
+MIID_H_SlicedRawFish	Frischer Fisch, der kunstvoll in\nkleine Stücke geschnitten wurde.
+MIID_RareFish	Seltener Fisch
+MIID_H_RareFish	Ein ungewöhnlicher Fisch aus dem\nTeich von Somniel. Ist überaus reich\nan gesunden Nährstoffen.
+MIID_Milk	Milch
+MIID_H_Milk	Frische Milch von Tieren wie\nKühen, Ziegen oder Schafen.
+MIID_Egg	Eier
+MIID_H_Egg	Eine beliebte Zutat, produziert von\neiner bestimmten Vogelart.
+MIID_Rice	Reis
+MIID_H_Rice	Verbreitetes, raffiniertes Getreide.
+MIID_Bean	Bohnen
+MIID_H_Bean	Pflanzensamen, die zum Kochen\nverwendet werden. Erhältlich in\nvielen Formen und Größen.
+MIID_Spice	Gewürze
+MIID_H_Spice	Aus Pflanzen gewonnenes Würz-\nmittel, das Gerichten Farbe, Aroma\nund Geschmack verleiht.
+MIID_RareFoodstuffs	Garnierung
+MIID_TeaLeaf	Teeblätter
+MIID_H_TeaLeaf	Frisch gepflückte Teeblätter, die mit\nSorgfalt in Teebeutel gefüllt werden.\nFür Freunde von Teepartys/Kochen.
+MIID_DriedMeat	Dörrfleisch
+MIID_H_DriedMeat	Getrocknetes Fleisch, das sich als\nWegzehrung eignet. Für Freunde von\nFleisch und Imbissbudengerichten.
+MIID_Yogurt	Joghurt
+MIID_H_Yogurt	Aus Milch besonderer Alpakas,\nmit dem Aroma grüner Weiden.\nFür Freunde von Milchprodukten.
+MIID_GrilledPotato	Süßkartoffel
+MIID_H_GrilledPotato	Über Feuer geröstete, aromatische\nKnolle, die ungewürzt serviert wird.\nFür Freunde von Süßkartoffeln.
+MIID_WeightStone	Trainingsstein
+MIID_H_WeightStone	Ein Stein, der in der Hand gehalten\noder ans Bein gebunden wird.\nFür Freunde von Training/Sport.
+MIID_MuscleBuilder	Muskelbalsam
+MIID_H_MuscleBuilder	Kann nach dem Auftragen einen\nüblen Muskelkater verhindern. Für\nFreunde von Training/Sport.
+MIID_Actinidia	Leckerlis
+MIID_H_Actinidia	Fest verschlossene Flasche mit stark\nriechenden Häppchen, um Tiere\nanzulocken. Für Tierfreunde.
+MIID_Chisel	Scharfer Meißel
+MIID_H_Chisel	Ein Werkzeug zum Schnitzen\naufwändiger Muster in Holz. Für\nFreunde von Handwerk/Waffen.
+MIID_FairyTaleBook	Märchenbuch
+MIID_H_FairyTaleBook	Ein Bilderbuch, das zahlreiche und\nsagenhafte Kurzgeschichten enthält.\nFür Freunde von Büchern/Märchen.
+MIID_PoetryCollection	Poesiebuch
+MIID_H_PoetryCollection	Ein unterhaltsames Buch mit Gedich-\nten – auch aus dem Volk. Für alle,\ndie gern lesen oder tagträumen.
+MIID_PhilosophyBook	Philosophiebuch
+MIID_H_PhilosophyBook	Ein kompliziertes Lesewerk für alle,\ndie sich häufig tiefschürfende Fragen\nstellen. Für Freunde des Lernens.
+MIID_Bible	Drachenschrift
+MIID_H_Bible	Eine von Anhängern \x0E\x0A\x00<\x1Cdes Wyrmgottes\x1Cder Wyrmgöttin\nüber Generationen vererbte Schrift.\nFür Freunde frommen Glaubens.
+MIID_HistoryBook	Elyos' Geschichte
+MIID_H_HistoryBook	Ein dickes Buch über die Geschichte\nElyos' und seiner Regionen. Für\nFreunde von Büchern/des Lernens.
+MIID_Perfume	Schweres Parfüm
+MIID_H_Perfume	Eine kleine Flasche Parfüm, mit\neiner fruchtig-blumigen Essenz.\nFür Freunde von Mode.
+MIID_InsectCatchingNet	Kescher
+MIID_H_InsectCatchingNet	Ein leichter und langstieliger Kescher\nzum Fangen von Käfern. Für Freunde\nvon Tieren und Käfern.
+MIID_SunHat	Sonnenblende
+MIID_H_SunHat	Der große Schirm schützt Gesicht\nund Hals vor der Sonne. Beliebt bei\nSportlern und Spaziergängern.
+MIID_Chrysanthemum	Chrysantheme
+MIID_H_Chrysanthemum	Diese beliebte Blume gilt als das\nNationalsymbol von Lythos.\nFür lythoser Blumenfreunde.
+MIID_Lentils	Linsenblume
+MIID_H_Lentils	Diese beliebte Blume gilt als\ndas Nationalsymbol von Firene.\nFür firenische Blumenfreunde.
+MIID_Lily	Lilie
+MIID_H_Lily	Diese beliebte Blume gilt als\ndas Nationalsymbol von Brodia.\nFür brodianische Blumenfreunde.
+MIID_Komatsuna	Sandblume
+MIID_H_Komatsuna	Diese beliebte Blume gilt als\ndas Nationalsymbol von Solm.\nFür solmer Blumenfreunde.
+MIID_Lupinus	Lupine
+MIID_H_Lupinus	Diese beliebte Blume gilt als\ndas Nationalsymbol von Elusia.\nFür elusianische Blumenfreunde.
+MIID_WhiteClover	Weißklee
+MIID_H_WhiteClover	Kochzutat. Wer Glück hat, findet\neine Pflanze mit vier Blättern. Für\nFreunde von Kochen/Kräutern.
+MIID_Horn	Horn
+MIID_H_Horn	Das Tierhorn erzeugt einen lauten\nTon. Ohne Löcher – man kann keine\nMelodie spielen. Für Musikfreunde.
+MIID_Wreath	Blumenkranz
+MIID_H_Wreath	Ein handgefertigter Kranz, der häufig\nan Türen und Wänden hängt. Für\nFreunde von Blumen/Niedlichem.
+MIID_Apron	Niedl. Schürze
+MIID_H_Apron	Eine entzückende rosa Schürze mit\nvielen Stickereien und Rüschchen.\nFür Freunde von Kochen/Niedlichem.
+MIID_FishingBait	Fischköder
+MIID_H_FishingBait	Ein aus schmackhaften Würmern\nhergestellter Köder zum Fangen von\nFischen. Für Freunde des Angelns.
+MIID_MultiFunctionKnife	Allzweckmesser
+MIID_H_MultiFunctionKnife	Nützliches Werkzeug, bestehend aus\nMesser, Schere u.v.m. Für Freunde\nvon Handwerk/Waffen/Lässigem.
+MIID_WoodCarvingBear	Bärenschnitzerei
+MIID_H_WoodCarvingBear	Kunstvolle und überaus detaillierte\nSchnitzerei eines Bären. Für Freunde\nvon Tieren/Niedlichem.
+MIID_SewingKit	Nähzeug
+MIID_H_SewingKit	Kompaktes, gut ausgestattetes und\näußerst praktisches Nähkästchen.\nFür Freunde des Nähens/Strickens.
+MIID_SheepYarnBall	Schafwolle
+MIID_H_SheepYarnBall	Ein weiches Knäuel Wolle von jungen\nSchafen. Für Freunde des Nähens\nund Strickens.
+MIID_Handkerchief	Taschentuch
+MIID_H_Handkerchief	Ein schickes Taschentuch aus glän-\nzendem, handgewebtem Stoff. Für\nFreunde von Luxus/Putzen/Mode.
+MIID_QuillPen	Federkiel
+MIID_H_QuillPen	Ein einzigartiger Schreibkiel aus der\nFeder eines seltenen Vogels. Für\nFreunde von Luxus/Lernen/Schreiben.
+MIID_DecorativeDagger	Edler Dolch
+MIID_H_DecorativeDagger	Dekorativer Dolch mit kunstvollem\nGriff und sorgsam gefertigter Hülle.\nFür Freunde von Waffen.
+MIID_KazunoEarrings	Hornohrringe
+MIID_H_KazunoEarrings	Schicke Ohrringe, gefertigt aus abge-\nworfenen Hirschgeweihen. Beliebt in\nganz Solm. Für Freunde von Mode.
+MIID_PlayingCards	Spielkarten
+MIID_H_PlayingCards	Bebilderte Karten, die für zahlreiche\nSpiele genutzt werden. Beliebt bei\nKindern, Party- und Spielfreunden.
+MIID_SpicySeasoning	Scharfes Gewürz
+MIID_H_SpicySeasoning	Pikante, gemahlene rote Samen\nzum Würzen. Für Freunde von schar-\nfem Essen/Imbissbudengerichten.
+MIID_LandscapePostcard	Landschaftsbild
+MIID_H_LandscapePostcard	Eine Postkarte mit hübschem Land-\nschaftsmotiv und Platz für einen\nkurzen Gruß. Für Naturfreunde.
+MIID_Candle	Schöne Kerze
+MIID_H_Candle	Eine handgeschnitzte Kerze mit\nkunstvollem Muster. Für Freunde\nvon Mode/Luxus/Partys.
+MIID_CreaturePictureBook	Naturführer
+MIID_H_CreaturePictureBook	Ein dickes Lexikon mit allerlei Infor-\nmationen zu Kreaturen jeglicher Art.\nFür Freunde von Tieren/Käfern.
+MIID_SuspiciousPaper	Spukrolle
+MIID_H_SuspiciousPaper	Eine Rolle Pergament mit seltsamen\nSymbolen zur Abwehr von Geistern.\nFür Freunde von Spukgeschichten.
+MIID_BigDish	Großer Teller
+MIID_H_BigDish	Ein großer Teller, auf dem Essen\nfür mehrere Personen Platz findet.\nFür Freunde von Kochen/Partys.
+MIID_Bandage	Verbände
+MIID_H_Bandage	Oft zur Wundversorgung und zur\nStützung von Gelenken verwendet.\nFür Freunde von Training.
+MIID_BeautifulStones	Hübscher Kiesel
+MIID_H_BeautifulStones	Ein runder, glatter und schöner\nStein, der auf dem Boden gefunden\nwurde.
+MIID_SoraJewelry	Schutz-Juwel
+MIID_H_SoraJewelry	Bei allen beliebtes, bunt funkelndes\nJuwel. Nur im Somniel, meist in der\nNähe von \x0E\x06\x05\x00 zu finden.
+MIID_HorseManure	Pferdedung
+MIID_H_HorseManure	Stinknormaler Pferdemist. Das ist\nalles. Man könnte ihn verschenken,\naber warum sollte man das tun?
+MIID_FishingRod_Smoll	Einfache Angel
+MIID_H_FishingRod_Smoll	Eine einfache Angel zum Fangen\nkleiner Fische. Geringe Biegsamkeit,\nerfordert weniger Kraft.
+MIID_FishingRod_Normal	Solide Angel
+MIID_H_FishingRod_Normal	Eine verbesserte Angel zum Fangen\nmittelgroßer Fische. Bricht nicht so\nleicht, da sie recht biegsam ist.
+MIID_FishingRod_AllPurpose	Profi-Angel
+MIID_H_FishingRod_AllPurpose	Eine erstklassige Angel zum Fangen\ngroßer Fische. Nur für Meisterangler.\nKleine Fische beißen nicht an.
+MIID_Marth_Rapier	Rapier
+MIID_H_Marth_Rapier	Schwert von Emblem Marth.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_Marth_Mericle	Mercurius
+MIID_H_Marth_Mericle	Schwert von Emblem Marth.\nVerdoppelt die erhaltene Erfahrung\ndes Trägers.
+MIID_Marth_Falchion	Falchion
+MIID_H_Marth_Falchion_M000	Eine erhabene legendäre Waffe.\nEffektiv gegen: Drachen.
+MIID_H_Marth_Falchion	Heiliges Schwert von Emblem Marth.\nEffektiv gegen: Drachen.
+MIID_Siglud_RiderKiller	Rittertod
+MIID_H_Siglud_RiderKiller	Lanze von Emblem Sigurd.\nEffektiv gegen: Berittene.
+MIID_Siglud_BraveLance	Kriegerlanze
+MIID_H_Siglud_BraveLance	Lanze von Emblem Sigurd.\nInitiiert der Träger den Kampf, greift\ner 2-mal an.
+MIID_Siglud_Tyrfing	Tyrfing
+MIID_H_Siglud_Tyrfing	Schwert von Emblem Sigurd.\nVerleiht Res. +5.
+MIID_H_Siglud_Tyrfing_Normal	Schwert von Emblem Sigurd.
+MIID_Celica_Angel	Seraphim
+MIID_H_Celica_Angel	Heiliges Buch von Emblem Celica.\nEffektiv gegen: Verzerrte.
+MIID_Celica_Recovery	Erholung
+MIID_H_Celica_Recovery	Stab von Emblem Celica. Stellt eine\ngroße Menge KP wieder her.
+MIID_Celica_Ragnarok	Ragnarök
+MIID_H_Celica_Ragnarok	Mächtige Feuermagie von\nEmblem Celica.
+MIID_Micaiah_Shine	Glanz
+MIID_H_Micaiah_Shine	Lichtmagie von Emblem Micaiah.\nErhellt einen Radius von 5 Feldern\n(nimmt pro Runde ein Feld ab).
+MIID_Micaiah_Nosferatu	Nosferatu
+MIID_H_Micaiah_Nosferatu	Lichtmagie von Emblem Micaiah.\nHeilt KP des Anwenders in Höhe\nvon 50 % des zugefügten Schadens.
+MIID_Micaiah_Thani	Thani
+MIID_H_Micaiah_Thani	Mächtige Lichtmagie von\nEmblem Micaiah. Effektiv gegen:\nBerittene, Gepanzerte.
+MIID_HandHeal	Opfer
+MIID_Roy_LanceBuster	Lanzenmeister
+MIID_H_Roy_LanceBuster	Seltsames Schwert von Emblem Roy.\nVorteil gegen Lanzen, Nachteil gegen\nÄxte.
+MIID_Roy_DragonKiller	Wyrmtöter
+MIID_H_Roy_DragonKiller	Schwert von Emblem Roy.\nEffektiv gegen: Drachen.
+MIID_Roy_BindingBlade	Binding Blade
+MIID_H_Roy_BindingBlade	Berühmtes Schwert von Emblem\nRoy. Verleiht Ver./Res. +5.\nErmöglicht Nah- und Fernangriffe.
+MIID_Leaf_KillerAxe	Meisteraxt
+MIID_H_Leaf_KillerAxe_M008	Axt eines Emblems, die Gegnern\ntödliche Wunden zufügt.
+MIID_H_Leaf_KillerAxe	Axt von Emblem Leif, die Gegnern\ntödliche Wunden zufügt.
+MIID_Leaf_MasterLance	Expertenlanze
+MIID_H_Leaf_MasterLance_M008	Lanze eines Emblems, die Angriffe\naus der Distanz erlaubt. Initiiert der\nTräger den Kampf, greift er 2-mal an.
+MIID_H_Leaf_MasterLance	Lanze von Emblem Leif. Initiiert der\nTräger den Kampf, greift er 2-mal an.\nErmöglicht Nah- und Fernangriffe.
+MIID_Leaf_LightBrand	Lichtklinge
+MIID_H_Leaf_LightBrand	Magisches Schwert von Emblem\nLeif. Verleiht Glk. +10. Ermöglicht\nNah- und Fernangriffe.
+MIID_Leaf_MasterBow	Expertenbogen
+MIID_Lucina_NobleRapier	Adelsrapier
+MIID_H_Lucina_NobleRapier_M007	Schwert eines Emblems.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_H_Lucina_NobleRapier	Schwert von Emblem Lucina.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_Lucina_Parthia	Parthia
+MIID_H_Lucina_Parthia	Bogen von Emblem Lucina. Träger\nerhält doppelte Erf. Verleiht Res. +5.\nEffektiv gegen: Flieger.
+MIID_Lucina_ParallelFalchion	Dim.-Falchion
+MIID_H_Lucina_ParallelFalchion	Heiliges Schwert von Emblem\nLucina. Effektiv gegen: Drachen.
+MIID_Lin_KillerBow	Meisterbogen
+MIID_H_Lin_KillerBow_M010	Bogen eines Emblems, der Gegnern\ntödliche Wunden zufügt.\nEffektiv gegen: Flieger.
+MIID_H_Lin_KillerBow	Bogen von Emblem Lyn, der Gegnern\ntödliche Wunden zufügt.\nEffektiv gegen: Flieger.
+MIID_H_Lin_KillerBow_Normal	Bogen von Emblem Lyn.\nEffektiv gegen: Flieger.
+MIID_Lin_ManiKatti	Mani Katti
+MIID_H_Lin_ManiKatti	Heiliges Schwert von Emblem Lyn.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_H_Lin_ManiKatti_1	Heiliges Schwert eines Emblems.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_Lin_Myrgleis	Mulagir
+MIID_H_Lin_Myrgleis	Mächtiger Bogen von Emblem Lyn.\nVerleiht Ges. +5.\nEffektiv gegen: Flieger, Drachen.
+MIID_Ike_Hammer	Hammer
+MIID_H_Ike_Hammer	Hammer von Emblem Ike mit\nSchmetterkraft. Kein Erst-/\nFolgeangr. Effektiv geg.: Gepanzerte.
+MIID_Ike_Urvan	Urvan
+MIID_H_Ike_Urvan	Vererbte Axt von Emblem Ike.\nVerleiht Res. +3.
+MIID_Ike_Ragnell	Ragnell
+MIID_H_Ike_Ragnell	Heiliges Schwert von Emblem Ike.\nVerleiht Ver. +5. Ermöglicht\nNah- und Fernangriffe.
+MIID_Byleth_Aymr	Aymr
+MIID_H_Byleth_Aymr	Axt von Emblem Byleth mit\nSchmetterkraft. Kein Erst-/\nFolgeangr. Effektiv geg.: Drachen.
+MIID_Byleth_Blutgang	Blutgang
+MIID_H_Byleth_Blutgang	Magisches Schwert von Emblem\nByleth. Effektiv gegen: Drachen,\nBerittene.
+MIID_Byleth_Luin	Lúin
+MIID_H_Byleth_Luin_M010	Lanze eines Emblems. Erhöht\nSchaden je nach Ges. des Trägers.\nEffektiv gegen: Drachen.
+MIID_H_Byleth_Luin	Lanze von Emblem Byleth. Erhöht\nSchaden je nach Ges. des Trägers.\nEffektiv gegen: Drachen.
+MIID_Byleth_Areadbhar	Areadbhar
+MIID_H_Byleth_Areadbhar	Lanze von Emblem Byleth. Verleiht\nKft. +50 %, wenn der Träger den\nKampf initiiert.
+MIID_Byleth_AegisShield	Aegis-Schild
+MIID_H_Byleth_AegisShield	Schild von Emblem Byleth. Gewährt\nVer. +6 und Res. +3. Kann erlittenen\nSchd. halbieren (Chance in % = Beh.).
+MIID_Byleth_Failnaught	Nimmerfehl
+MIID_H_Byleth_Failnaught	Bogen von Emblem Byleth. Aw. +20,\nwenn der Träger den Kampf initiiert.\nEffektiv gegen: Drachen, Flieger.
+MIID_Byleth_Thyrsus	Thyrsus
+MIID_H_Byleth_Thyrsus	Stab von Emblem Byleth.\nMagie-Rw. +2. Kann erlittenen\nSchaden des Trägers halbieren.
+MIID_Byleth_RafailGem	Stein des Rafail
+MIID_H_Byleth_RafailGem	Reliquienjuwel von Emblem Byleth.\nSchützt vor effekt./krit. Angriffen.\nKann erlittenen Schaden halbieren.
+MIID_Byleth_Vajra	Vajra-Mushti
+MIID_H_Byleth_Vajra	Panzerhände von Emblem Byleth.\nInitiiert der Träger den Kampf, greift\ner 2-mal an.
+MIID_Byleth_SublimeCreatorSword	Schwert des Schöpfers
+MIID_H_Byleth_SublimeCreatorSword	Schwert von Emblem Byleth. Erhöht\nSchd. mit Magie der Einheit. Nah- u.\nFernangriff. Effektiv gegen: Drachen.
+MIID_H_Byleth_SublimeCreatorSword_M014	Schwert eines Emblems. Erhöht\nSchd. mit Magie der Einheit. Nah- u.\nFernangriff. Effektiv gegen: Drachen.
+MIID_GoddessAgain	Tanz der Göttin
+MIID_GoddessAgain_Dark	Diabolischer Tanz
+MIID_Kamui_DualKatana	Doppelkatana
+MIID_H_Kamui_DualKatana	Seltsames Schwert von Emblem\nCorrin. Vorteil gegen Lanzen,\nNachteil gegen Äxte.
+MIID_Kamui_Wakizashi	Wakizashi
+MIID_H_Kamui_Wakizashi	Wurfschwert von Emblem Corrin.\nKeine Nah-, sondern nur Fernangriffe\nmöglich.
+MIID_Kamui_Yato	Yato
+MIID_H_Kamui_Yato	Heiliges Schwert von Emblem Corrin.
+MIID_Kamui_DragonPiercing	Drachenbiss
+MIID_H_Kamui_DragonPiercing	Fähigkeit von Emblem Corrin.
+MIID_Eirik_Rapier	Rapier
+MIID_H_Eirik_Rapier	Schwert von Emblem Eirika.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_Eirik_WindSword	Windschwert
+MIID_H_Eirik_WindSword	Magisches Schwert von Emblem\nEirika. Ermöglicht Nah- und\nFernangriffe. Effektiv gegen: Flieger.
+MIID_Eirik_Sieglinde	Sieglinde
+MIID_H_Eirik_Sieglinde	Zwillingsschwert von Emblem Eirika.\nEffektiv gegen: Verzerrte.
+MIID_Eirik_Siegmund	Siegmund
+MIID_H_Eirik_Siegmund	Zwillingslanze von Emblem Ephraim.\nEffektiv gegen: Verzerrte.
+MIID_Lueur_Oligoludia	Oligoludia
+MIID_H_Lueur_Oligoludia	Schwert von Emblem \x0E\x06\x03\x00\nEffektiv gegen: Verzerrte.
+MIID_Lueur_DragonFist	Drachenfaust
+MIID_H_Lueur_DragonFist	Magie von Emblem \x0E\x06\x03\x00.\nInitiiert der Träger den Kampf, greift\ner 2-mal an. (Verwendet Magie.)
+MIID_Lueur_Lyration	Lyrátion
+MIID_H_Lueur_Lyration	Schwert von Emblem \x0E\x06\x03\x00\nBündnisleiste benachbarter Verb. +1\nbei Sieg über Gegner in Spielerphase.
+MIID_Folkvangr	Fólkvangr
+MIID_H_Folkvangr	Schwert von Alfonse, Prinz von Askr.\nAgr. +3 (1 Zug), wenn d. Einheit bei\nBeginn des Zuges weniger als\n50 % KP hat.
+MIID_Fensalir	Fensalir
+MIID_H_Fensalir	Lanze von Sharena, Prinzessin von\nAskr. 1 Zug Agr. -2 für benachbarte\nGegner zu Beginn der Spielerphase.
+MIID_Noatun	Nóatún
+MIID_H_Noatun	Axt von Anna, Askrs Kommandantin.\nBew. +1 (1 Zug), wenn d. Einheit bei\nBeginn des Zuges max. 40 % KP hat.
+MIID_SPBook1	Novizenbuch
+MIID_H_SPBook1	Ein Buch, das grundlegende\nFähigkeiten vermittelt.\nVerleiht 100 FP.
+MIID_SPBook2	Adeptenbuch
+MIID_H_SPBook2	Ein Buch, das fortgeschrittene\nFähigkeiten vermittelt.\nVerleiht 500 FP.
+MIID_SPBook3	Expertenbuch
+MIID_H_SPBook3	Ein Buch, das sich den bestgehüte-\nten Geheimnissen von Fähigkeiten\nwidmet. Verleiht 1000 FP.

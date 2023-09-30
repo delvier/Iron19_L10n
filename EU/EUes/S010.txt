@@ -1,0 +1,43 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x0A\x08リュール\nHay algo extraño en este lugar...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06リーフ\nParece el río Thracia.\nAl menos, se parece mucho.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\n¿Es un lugar de tu mundo?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06リーフ\nSe parece mucho a un lugar\nque conozco bien.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06リーフ\nEl Thracia era un río hermoso y grande\ndonde se derramó mucha sangre.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nCuesta creer que un lugar tan tranquilo\ncomo este fuese un campo de batalla.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06リーフ\nAquí fue donde me enfrenté al genial estratega\nSaias, al que muchos consideraban un héroe.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06リーフ\nTambién estaba Reinhardt, quien decía ser\nla rencarnación de Thrud, el cruzado.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06リーフ\nFue una batalla difícil. Hubo muchos momentos\nen los que pensé que la derrota era inminente.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\n¿Por qué se parece tanto a aquel lugar?\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06リーフ\nNo estoy seguro.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06リーフ\nNoto una fuerza muy poderosa que emana\nde este sitio. Aquí tendrá lugar tu prueba.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\n¿Una prueba?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00, quiero que te enfrentes\na mí aquí.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06リーフ\nSi superas la prueba, nuestro vínculo\nserá aún más fuerte.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06リーフ\nEso desatará un poder que necesitamos\npara ganar las batallas venideras.\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nMi prueba es ganarte en una batalla, ¿no?\n¡Que así sea!\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06リーフ\nBien. Alcanzar la victoria\nes la única forma de avanzar.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nMantendré mi posición.\nNo huiré ni me esconderé. Aquí te espero.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x18\x06リーフ\x0EStandBy\n\x0E\x03\x02\x08\x06リーフ\n¡Ahora! ¡Destruid el puente!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nRelax\n\x0E\x03\x02\x08\x06リーフ\nTe estaba esperando, \x0E\x06\x03\x00.\n¿Preparad\x0E\x0A\x00\x08\x02o\x02a?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n¡Desde luego, Leif!\nMe enfrentaré a ti cuando y donde sea.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06リーフ\x0CStrike\n\x0E\x03\x02\x08\x06リーフ\nEn ese caso, luchemos en justa lid.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02b\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nSé honesta contigo misma. ¿Qué quieres?\n¿Qué deseas desde el fondo de tu corazón?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nYo... ¿Y si vuelvo fracasar?\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06リーフ\nSmile\n\x0E\x03\x02\x08\x06リーフ\nLa vida no es un camino de rosas. Es normal\ncometer errores, pero tú debes remediarlos.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06リーフ\x0CNormal\n\x0E\x03\x02\x08\x06リーフ\nYa te has enfrentado antes a tus debilidades.\nHazlo de nuevo para fortalecerte más aún.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06リーフ\x022\n\x0E\x03\x02\x08\x06リーフ\nTe has vuelto más fuerte desde que te conozco,\namig\x0E\x0A\x00\x08\x02o\x02a \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nAún me queda mucho que aprender,\npero agradezco tus enseñanzas.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06リーフ\n¿Enseñanzas? Curiosa elección de palabras.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06リーフ\nCreo que ya comprendo por qué la prueba\nha tenido lugar aquí.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\n¿Oh? ¿Por qué?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06リーフ\nEra un príncipe joven e inexperto al mando\nde un ejército. Cometí errores, algunos fatales.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06リーフ\nEl día de aquella batalla, me dijeron algo\nque he tenido presente desde entonces...\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06リーフ\n"La sangre derramada no se puede devolver.\nHaz que el sacrificio valga la pena."\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06リーフ\n\x0E\x06\x03\x00, la vida es una serie\nde decisiones.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06リーフ\nNo hay forma de saber si las decisiones\nque has tomado son correctas o no.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x08\x06リーフ\nAprende de la sangre derramada. Remedia\ntus errores, progresa y crea un futuro mejor.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06リーフ\nEsa es la responsabilidad de un líder.\nEs lo que yo aprendí en un lugar como este.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nGracias, Leif, por compartir tu historia.\nSiento que ya te entiendo un poco más.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nMe esforzaré para crear un futuro mejor.\n¿Estarás a mi lado hasta que acabe la guerra?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x08\x06リーフ\nAquí, en la ribera de este bello río,\njuro que estaré a tu servicio, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

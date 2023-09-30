@@ -1,0 +1,353 @@
+MPID_Unknown	???
+MPID_H_Unknown	An unknown person or entity.
+MPID_Hide	???
+MPID_H_Hide	An unidentified enemy. An evil aura\nradiates from this person.
+MPID_Morph_Prefix	Crpt. \x0E\x01\x00\x00
+MPID_God_Prefix	Emblem \x0E\x01\x00\x00
+MPID_PastLueur	Past \x0E\x06\x03\x00
+MPID_Lueur	Alear
+MPID_Lueur_M000	\x0E\x06\x03\x00
+MPID_H_Lueur	Successor to the Divine Dragon,\nawoken from a long sleep. Summons\nEmblems to lead the world to peace.
+MPID_H_Lueur_M000	A warrior fighting beside Emblems,\non a journey of awakening.
+MPID_H_Lueur_1	Veyle's Corrupted resurrection of the\nDivine Dragon. Summons Emblems\nby the power of the Fell Dragon.
+MPID_H_Lueur_2	The Divine Dragon, resurrected as\nthe Fire Emblem. Has powers of an\nEmblem and the Divine Dragon.
+MPID_H_PastLueur	The \x0E\x06\x03\x00 of 1,000 years\npast. Has no free will and obeys\nthe Fell Dragon's commands.
+MPID_Vandre	Vander
+MPID_H_Vandre	A Steward of the Dragon, long in the\nservice of the Divine Dragon. He is a\nstraight-laced, rigid gentleman.
+MPID_Lumiere	Lumera
+MPID_H_Lumiere	The Divine Dragon and ruler of the\nholy land of Lythos. Vanquished the\nFell Dragon 1,000 years ago.
+MPID_MorphLumiere	Corrupted Lumera
+MPID_H_MorphLumiere	An elaborate Corruption of the dead\nLumera, created by Sombron.
+MPID_Clan	Clanne
+MPID_H_Clan	An apprentice Steward of the Dragon\nand the gentle twin brother of\nFramme.
+MPID_Fram	Framme
+MPID_H_Fram	An apprentice Steward of the Dragon\nand the determined, buoyant twin\nsister of Clanne.
+MPID_Alfred	Alfred
+MPID_H_Alfred	The staunch and loyal crown prince\nof Firene. He trains constantly to\nstrengthen his constitution.
+MPID_Etie	Etie
+MPID_H_Etie	Prince Alfred's retainer. A haughty\nwoman with a love for building\nmuscle.
+MPID_Boucheron	Boucheron
+MPID_H_Boucheron	Prince Alfred's retainer. A tender-\nhearted man whose powerful build\ncomes naturally.
+MPID_Celine	Céline
+MPID_H_Celine	The princess of Firene. Despite her\ngentle demeanor, she has an iron will\nwhen her people must be protected.
+MPID_Chloe	Chloé
+MPID_H_Chloe	Princess Céline's retainer. A woman \nof noble birth who loves fairy tales\nand sampling folk food.
+MPID_Louis	Louis
+MPID_H_Louis	Princess Céline's retainer. A smiling,\nrefined gentleman who loves tea.
+MPID_Yunaka	Yunaka
+MPID_H_Yunaka	A thief encountered in a mountain\nsettlement. She keeps a tight lid on\nthe details of her past.
+MPID_Staluke	Alcryst
+MPID_H_Staluke	The self-torturing, wildly imaginative\nprince of Brodia. Has hidden talents\neven he isn't aware of.
+MPID_Citrinica	Citrinne
+MPID_H_Citrinica	Prince Alcryst's retainer. Despite her\nfierce demeanor, she's a noble who\ncares deeply for her friends.
+MPID_Lapis	Lapis
+MPID_H_Lapis	Prince Alcryst's retainer. Her quiet\nmodesty belies her superhuman\nstrength.
+MPID_Diamand	Diamant
+MPID_H_Diamand	The majestic crown prince of Brodia.\nHis people trust him greatly for his\nstrong, genuine demeanor.
+MPID_Umber	Amber
+MPID_H_Umber	Prince Diamant's retainer. Has a\nboundless enthusiasm for legends\nand adventure.
+MPID_Jade	Jade
+MPID_H_Jade	Prince Diamant's retainer. A warrior\nof few words who always keeps her\nwits about her.
+MPID_Ivy	Ivy
+MPID_H_Ivy	The mysterious, melancholy crown\nprincess of Elusia. She never relaxes\nher icy royal decorum.
+MPID_Kagetsu	Kagetsu
+MPID_H_Kagetsu	Princess Ivy's retainer. A handsome\nyoung man from outside Elusia who\nspeaks freely and without inhibition.
+MPID_Zelkova	Zelkov
+MPID_H_Zelkova	Princess Ivy's retainer. An enigmatic\nman who's always absorbed in\nintrigues of his own making.
+MPID_Fogato	Fogado
+MPID_H_Fogato	A freewheeling, optimistic young\nSentinel. He's easygoing, but there's\nsomething mysterious about him.
+MPID_H_Fogato_1	The freewheeling, optimistic prince\nof Solm. More easygoing than one\nmight expect of royalty.
+MPID_Pandoro	Pandreo
+MPID_H_Pandoro	A member of the Sentinels. Though\ndeeply religious, he loves to party\nmore than just about anyone.
+MPID_H_Pandoro_1	Prince Fogado's retainer. A fun-\nloving yet deeply religious cleric.
+MPID_Bonet	Bunet
+MPID_H_Bonet	A member of the Sentinels, and a\nchef with incredibly refined senses\nof taste and smell.
+MPID_H_Bonet_1	Prince Fogado's retainer. A young\nchef with a refined palate and keen\nsense of smell.
+MPID_Misutira	Timerra
+MPID_H_Misutira	The bubbly and outgoing crown\nprincess of Solm. Known for being\naccessible and approachable by all.
+MPID_Panetone	Panette
+MPID_H_Panetone	Princess Timerra's retainer. She has\na tendency to speak in erratic and\nsomewhat stilted tones.
+MPID_Merin	Merrin
+MPID_H_Merin	Princess Timerra's retainer. She's a\ndashing woman with a fondness\nfor animals.
+MPID_Hortensia	Hortensia
+MPID_H_Hortensia	A mischievous, spoiled princess of\nElusia. She is nonetheless devoted to\nher family and friends.
+MPID_H_MindHortensia	Hortensia under Zephia's control.\nHer consciousness is submerged and\nshe is unaware of what is said to her.
+MPID_Seadas	Seadall
+MPID_H_Seadas	A famous dancer of Solm. He is also\na skilled fortune-teller and cultivates\nan aura of mystery.
+MPID_Rosado	Rosado
+MPID_H_Rosado	Princess Hortensia's retainer.\nHe loves cute things and always\nmaintains a bright, positive attitude.
+MPID_Goldmary	Goldmary
+MPID_H_Goldmary	Princess Hortensia's retainer. She\nseems demure on the surface, but\nis conceited to the core.
+MPID_Linden	Lindon
+MPID_H_Linden	A scholar from Elusia. Has a great\nhunger for knowledge, which he\nfeeds with studies and experiments.
+MPID_Saphir	Saphir
+MPID_H_Saphir	A warrior from Brodia. She is a\ndauntless and determined seeker\nof truth.
+MPID_Anna	Anna
+MPID_H_Anna	A traveling merchant from a wintry\npart of Elusia. She is a cheerful and\ncunning cheapskate.
+MPID_Jean	Jean
+MPID_H_Jean	A doctor's son from Firene who\nworks his hardest to save all the\nlives he can.
+MPID_Mauve	Mauvier
+MPID_H_EnemyMauve	One of the Four Hounds. A rugged,\nhonest man who's loyal to a fault.
+MPID_H_Mauve	Formerly one of the Four Hounds.\nHe is Veyle's knight, and has sworn\nto fight alongside \x0E\x06\x03\x00.
+MPID_Sombre	Sombron
+MPID_H_Sombre	The Fell Dragon King. A wicked\ncreature who wields immense dark\npower.
+MPID_SombreDragon	Fell Sombron
+MPID_H_SombreDragon	The Fell Dragon wielding the power\nof the Emblem Rings. Capable now\nof opening a gate to another world.
+MPID_Veyre	Veyle
+MPID_H_EnemyVeyre	Daughter of the Fell Dragon. She is\na brutal foe who seethes with\noppressive malice.
+MPID_H_MindVeyre	Veyle, now crowned with the Fell\nDragon's helmet. Her destructive\nurges and hatred are intensified.
+MPID_H_Veyre	The younger sister of \x0E\x06\x03\x00.\nHer darkness conquered, she fights\nfor peace.
+MPID_H_VersusVeyre	Daughter of the Fell Dragon. She has\novercome her dark personality and\nnow fights for peace.
+MPID_Sepia	Zephia
+MPID_H_Sepia	The leader of the Four Hounds. She \nis descended from mage dragons\nand has lived thousands of years.
+MPID_Gris	Griss
+MPID_H_Gris	Fearsome member of the Four\nHounds. A dangerously unstable and\nviolent user of powerful magic.
+MPID_Marron	Marni
+MPID_H_Marron	One of the Four Hounds.\nA somewhat naive armored knight.
+MPID_Eve	Ève
+MPID_H_Eve	The kind queen of Firene. A gentle\nsoul who wishes for a world without\nstrife or conflict.
+MPID_Morion	Morion
+MPID_H_Morion	The brave king of Brodia. A powerful\nand proud warrior, he prizes honor\non the battlefield.
+MPID_MorphMorion	Corrupted Morion
+MPID_H_MorphMorion	King Morion, sacrificed to resurrect\nthe Fell Dragon. Turned into one of\nthe Corrupted after death.
+MPID_Hyacinth	Hyacinth
+MPID_H_Hyacinth	The cunning king of Elusia. Worships\nthe Fell Dragon and schemes for the\nadvancement of his country.
+MPID_MorphHyacinth	Corrupted Hyacinth
+MPID_H_MorphHyacinth	King Hyacinth, killed by the Fell\nDragon. Turned into a powerful\nCorrupted by Veyle.
+MPID_Sfoglia	Seforia
+MPID_H_Sfoglia	The free-spirited queen of Solm.\nLeads her country by example with\nheroic acts.
+MPID_M003_Boss	Abyme
+MPID_H_M003_Boss	The leader of a mysterious troop.\nClearly devoted to her duty.
+MPID_H_M018_Boss	A general of Elusia. Clearly devoted\nto her duty.
+MPID_M004_Boss	Rodine
+MPID_H_M004_Boss	A general of Elusia. Commands\nCorrupted under his nation's flag.
+MPID_M005_Boss	Nelucce
+MPID_H_M005_Boss	A general of Elusia. Deployed to\nFirene to steal an Emblem Ring.
+MPID_M006_Boss	Teronda
+MPID_H_M006_Boss	Boss of a band of thieves operating\nfrom a mountain stronghold. Has no\nmorals where treasure is concerned.
+MPID_S002_Boss	Mitan
+MPID_H_S002_Boss	The boss of a band of thieves in the\nborderlands who systematically rob\nevery traveler who passes by.
+MPID_M013_BossA	Tetchie
+MPID_H_M013_BossA	Boss of a band of thieves and\nTotchie's older twin. Commands\nthe Corrupted that haunt the oasis.
+MPID_M013_BossB	Totchie
+MPID_H_M013_BossB	Boss of a band of thieves and\nTetchie's younger twin. Commands\nthe Corrupted that haunt the oasis.
+MPID_Morph	Corrupted
+MPID_H_Morph	A corpse raised by the Fell Dragon's\npowers. It has no will of its own and\nexists only to follow orders.
+MPID_H_Morph_Hide	Unidentified Monster
+MPID_MorphGold	Gold Corrupted
+MPID_H_MorphGold	One of the Corrupted in a metallic\nform. Rare, but carries a lot of gold.
+MPID_MorphSilver	Silver Corrupted
+MPID_H_MorphSilver	One of the Corrupted in a metallic\nform. Rare, but gives extra EXP.
+MPID_MorphDragon	Corrupted Wyrm
+MPID_H_MorphDragon	A giant dragon raised by the Fell\nDragon. Armored with tough scales\nand armed with powerful breath.
+MPID_Phantom	Fabrication
+MPID_H_Phantom	A soulless soldier created by secret\ntechniques. It has no will of its own\nand only follows its master's orders.
+MPID_PhantomDragon	Fabrication
+MPID_H_PhantomDragon	A soulless monster created by secret\ntechniques. It has no will of its own\nand only follows its master's orders.
+MPID_MysteriousGroup	Unknown Soldier
+MPID_H_MysteriousGroup	Mysterious foreign troops who\nattacked without warning.
+MPID_Troublemaker	Ruffian
+MPID_H_Troublemaker	One of a band of ruffians who have\nchosen destruction and pillaging as\ntheir livelihood.
+MPID_Bandits	Thief
+MPID_H_Bandits	An opportunist using the chaos of\nwar as cover to steal.
+MPID_IrcionSoldier	Elusian Soldier
+MPID_H_IrcionSoldier	An ordinary soldier in the Elusian\narmy.
+MPID_BrodiaSoldier	Brodian Soldier
+MPID_H_BrodiaSoldier	An ordinary soldier in the Brodian\narmy.
+MPID_SolumSoldier	Solmic Soldier
+MPID_H_SolumSoldier	An ordinary soldier in the Solm\narmy.
+MPID_FileneSoldier	Firenese Soldier
+MPID_H_FileneSoldier	An ordinary soldier in the Firenese\narmy.
+MPID_Marth	Marth
+MPID_H_Marth	Known as the Emblem of Beginnings.\nA hero among heroes, brimming with\nnobility and charisma.
+MPID_Siglud	Sigurd
+MPID_H_Siglud	Known as the Emblem of the Holy\nWar. A noble knight with a mighty\nlineage.
+MPID_Celica	Celica
+MPID_H_Celica	Known as the Emblem of Echoes.\nThe princess of a vibrant country,\nas well as a warrior priestess.
+MPID_Micaiah	Micaiah
+MPID_H_Micaiah	Known as the Emblem of Dawn.\nBearer of strange healing powers\nas well as visions of the future.
+MPID_Roy	Roy
+MPID_H_Roy	Known as the Emblem of Binding.\nA nobleman who excels as a general,\nbrave and intelligent.
+MPID_Lin	Lyn
+MPID_H_Lin	Known as the Emblem of Blazing.\nA virtuoso swordswoman from a\nnomadic tribe that lived in nature.
+MPID_Ike	Ike
+MPID_H_Ike	Known as the Emblem of Radiance.\nA famous mercenary leader with\nunparalleled skill in battle.
+MPID_Lucina	Lucina
+MPID_H_Lucina	Known as the Emblem of Awakening.\nA royal heir who knows anything can\nchange and will not yield to despair.
+MPID_Leaf	Leif
+MPID_H_Leaf	Known as the Emblem of Genealogy.\nA brave prince in whose veins runs\nthe blood of two crusaders.
+MPID_Kamui	Corrin
+MPID_H_Kamui	Known as the Emblem of Fates.\nSomeone with an iron will and the\nblood of the First Dragons.
+MPID_Eirik	Eirika
+MPID_H_Eirik	Known as the Emblem of the Sacred.\nA compassionate princess who takes\nup her sword for the sake of peace.
+MPID_Byleth	Byleth
+MPID_H_Byleth	Known as the Emblem of the\nAcademy. A mercenary who \nbecame a teacher.
+MGID_Hide	???
+MGID_Marth	Marth
+MGID_H_Marth	Known as the Emblem of Beginnings.\nReads enemy's intentions in battle\nand responds with a flurry of strikes.
+MGID_Siglud	Sigurd
+MGID_H_Siglud	Known as the Emblem of the Holy\nWar. Boasts high movement and\npowerful lance attacks.
+MGID_Celica	Celica
+MGID_H_Celica	Known as the Emblem of Echoes.\nHer holy magic is the bane of\nmonsters.
+MGID_Micaiah	Micaiah
+MGID_H_Micaiah	Known as the Emblem of Dawn.\nSupports allies with illuminating\nmagic and a healing staff.
+MGID_Roy	Roy
+MGID_H_Roy	Known as the Emblem of Binding.\nEndures enemy attacks and cuts a\npath through with his sword.
+MGID_Lin	Lyn
+MGID_H_Lin	Known as the Emblem of Blazing.\nDefeats closeup foes with her sword\nand distant ones with her bow.
+MGID_H_EnemyLin	The Emblem contained within the\nRing of the Lady of the Plains,\nwhich was entrusted to Elusia.
+MGID_Ike	Ike
+MGID_H_Ike	Known as the Emblem of Radiance.\nDestroys obstacles with his mighty\nsword and axe.
+MGID_Lucina	Lucina
+MGID_H_Lucina	Known as the Emblem of Awakening.\nCreates bonds with allies, and pools\ntheir strength to attack enemies.
+MGID_H_EnemyLucina	The Emblem contained within the\nRing of the Princess Exalt, which\nwas stolen from Lythos Castle.
+MGID_Leaf	Leif
+MGID_H_Leaf	Known as the Emblem of Genealogy.\nA versatile knight proficient in axe,\nsword, and lance.
+MGID_H_EnemyLeaf	The Emblem contained within the\nRing of the Sage Lord, which was\nstolen from Lythos Castle.
+MGID_Kamui	Corrin
+MGID_H_Kamui	Known as the Emblem of Fates.\nCan tap into dragon veins, a magic\nsleeping in the land.
+MGID_Eirik	Eirika
+MGID_H_Eirik	Known as the Emblem of the Sacred.\nHer flashing sword shatters her foe's\ndefenses.
+MGID_Ephraim	Ephraim
+MGID_H_Ephraim	Another Emblem of the Sacred.\nPierces enemy lines with mighty\nlance techniques.
+MGID_Byleth	Byleth
+MGID_H_Byleth	Known as the Emblem of the\nAcademy. Wields various hero's\nrelics and knows a variety of tactics.
+MGID_H_EnemyByleth	The Emblem contained within the\nRing of the Instructor, which was\nstolen from Lythos Castle.
+MGID_Lueur	Alear
+MGID_H_Lueur	Known as the Fire Emblem. Grants\nthe Divine Dragon's blessing and is\nthe bane of the Fell Dragon.
+MGID_Mediuth	Shadow Dragon
+MGID_H_Mediuth	Dark Emblem from Marth's realm.\nEmbodies a mighty dragon who\nruled through fear.
+MGID_Loptous	Dark God
+MGID_H_Loptous	Dark Emblem from Sigurd's realm.\nEmbodies a hateful god who struck\nterror into humans' hearts.
+MGID_Duma	War Father
+MGID_H_Duma	Dark Emblem from Celica's realm.\nEmbodies a conqueror who was\nconsumed by bloodlust.
+MGID_Veld	Dark Bishop
+MGID_H_Veld	Dark Emblem from Leif's realm.\nEmbodies a bishop devoted to a\ndark faith.
+MGID_Idenn	Demon Dragon
+MGID_H_Idenn	Dark Emblem from Roy's realm.\nEmbodies a dragon who tried to\ndestroy humanity.
+MGID_Nergal	Dark Druid
+MGID_H_Nergal	Dark Emblem from Lyn's realm.\nEmbodies a seeker of forbidden\nknowledge who brings calamity.
+MGID_Fodeth	Demon King
+MGID_H_Fodeth	Dark Emblem from Eirika's realm.\nEmbodies a being who corrupted\nothers with foul demonic powers.
+MGID_Ashnard	Mad King
+MGID_H_Ashnard	Dark Emblem from Ike's realm.\nEmbodies a tyrant who plunged his\nworld into turmoil.
+MGID_Astarte	Judgment
+MGID_H_Astarte	Dark Emblem from Micaiah's realm.\nEmbodies a goddess who subjected\nhumankind to harsh judgment.
+MGID_Gimle	Despair
+MGID_H_Gimle	Dark Emblem from Lucina's realm.\nEmbodies a Fell Dragon who\nwrought despair and ruin.
+MGID_Hydra	Mad Dragon
+MGID_H_Hydra	Dark Emblem from Corrin's realm.\nEmbodies a spiteful dragon who led\nmany to destruction.
+MGID_Nemesis	Liberation King
+MGID_H_Nemesis	Dark Emblem from Byleth's realm.\nEmbodies a king who massacred\nthe children of a goddess.
+MGEID_Marth	Beginnings
+MGEID_Siglud	Holy
+MGEID_Celica	Echoes
+MGEID_Micaiah	Dawn
+MGEID_Roy	Binding
+MGEID_Lin	Blazing
+MGEID_Ike	Radiance
+MGEID_Lucina	Awakening
+MGEID_Leaf	Genealogy
+MGEID_Kamui	Fates
+MGEID_Eirik	Sacred
+MGEID_Byleth	Academy
+MGEID_Lueur	Fire
+MPID_WeaponShop	Durthon
+MPID_ItemShop	Anisse
+MPID_AccessoriesShop	Pinet
+MPID_BlackSmith	Calney
+MPID_JeanFather	Sean
+MPID_H_JeanFather	Runs the only clinic in the village by\nthe tea fields. Jean's father.
+MPID_JeanMother	Anje
+MPID_SolumVillager	Solmic Villager
+MPID_H_SolumVillager	A citizen of the Queendom of Solm.
+MPID_FileneVillager	Firenese Villager
+MPID_H_FileneVillager	A citizen of the Kingdom of Firene.
+MPID_Vision	Illusory Double
+MPID_H_Vision	An illusion created with an engage\nskill.
+MPID_alias_Lueur	Divine Dragon
+MPID_alias_Vandre	Holy Veteran
+MPID_alias_Clan	Calm Steward
+MPID_alias_Fram	Eager Steward
+MPID_alias_Alfred	Floral Protector
+MPID_alias_Boucheron	Big Softy
+MPID_alias_Etie	Fitness Fighter
+MPID_alias_Celine	Joyous Royal
+MPID_alias_Louis	Watchful Valet
+MPID_alias_Chloe	Fairy-Tale Flier
+MPID_alias_Diamand	Rising Power
+MPID_alias_Umber	Alpaca Master
+MPID_alias_Jade	Iron Wall
+MPID_alias_Staluke	Tender Archer
+MPID_alias_Lapis	Mighty Flower
+MPID_alias_Citrinica	Caring Noble
+MPID_alias_Ivy	Snow Queen
+MPID_alias_Zelkova	Mystery Man
+MPID_alias_Kagetsu	Onigiri Samurai
+MPID_alias_Hortensia	Little Charmer
+MPID_alias_Rosado	Adorable Artist
+MPID_alias_Goldmary	Elegant Talent
+MPID_alias_Misutira	Desert Warrior
+MPID_alias_Merin	Suave Knight
+MPID_alias_Panetone	Classy Brawler
+MPID_alias_Fogato	Affable Prince
+MPID_alias_Pandoro	Party Priest
+MPID_alias_Bonet	Culinary Artist
+MPID_alias_Anna	Li'l Merchant
+MPID_alias_Jean	Budding Doc
+MPID_alias_Yunaka	Hidden Mask
+MPID_alias_Seadas	Mystic Dancer
+MPID_alias_Linden	Thunder Sage
+MPID_alias_Saphir	Valiant Guard
+MPID_alias_Veyre	Gentle Dragon
+MPID_alias_Mauve	Penitent Knight
+MPID_Mascot	Sommie
+MPID_H_Mascot	A guardian spirit that has lived on\nthe Somniel since ancient times.
+MPID_EleosGoat	Elyosian Sheep
+MPID_H_EleosGoat	Known for their characteristic fluffy\ncoats, these sheep inhabit every \nregion in Elyos.
+MPID_WhitePyonRabbit	White Hop Rabbit
+MPID_H_WhitePyonRabbit	Long-eared rabbits that can be found\nhopping enthusiastically all over\nElyos. Surprisingly, not all are white.
+MPID_PyonRabbit	Hop Rabbit
+MPID_H_PyonRabbit	Long-eared rabbits that can be found\nhopping enthusiastically all over\nElyos. Some varieties have white fur.
+MPID_EastCat	Eastern Freecat
+MPID_H_EastCat	This breed originated in eastern\nElyos. Its appearance and behavior\nhave adapted to its surroundings.
+MPID_WestCat	Western Freecat
+MPID_H_WestCat	This breed originated in western\nElyos. Its appearance and behavior\nhave adapted to its surroundings.
+MPID_SouthCat	Southern Freecat
+MPID_H_SouthCat	This breed originated in southern\nElyos. Its appearance and behavior\nhave adapted to its surroundings.
+MPID_NorthCat	Northern Freecat
+MPID_H_NorthCat	This breed originated in northern\nElyos. Its appearance and behavior\nhave adapted to its surroundings.
+MPID_FileneCat	Firenese Cat
+MPID_H_FileneCat	A cat found only in Firene. This\nregion is known for cats with black-\nand-white coats.
+MPID_BrodiaCat	Brodian Cat
+MPID_H_BrodiaCat	A cat found only in Brodia. This\nregion is known for cats with a mix\nof black and brown fur.
+MPID_IrcionCat	Elusian Cat
+MPID_H_IrcionCat	A cat found only in Elusia. This\nregion is known for cats with black\nmarkings.
+MPID_SolumCat	Solmic Cat
+MPID_H_SolumCat	A cat found only in Solm. This region\nis known for cats with a leopard-like\ncoat.
+MPID_KarisonCoco	Calisson Chicken
+MPID_H_KarisonCoco	A chicken found mainly in Firene.\nDespite their round shape, they can\nfly and sometimes carry messages.
+MPID_AuraEagle	Aura Eagle
+MPID_H_AuraEagle	An eagle found mainly in Brodia.\nTheir mastery of air currents makes\nthem adept at long-distance flight.
+MPID_IrisOwl	Iris Owl
+MPID_H_IrisOwl	An owl found mainly in Elusia. They\nare strong and swift fliers, kept warm\nby their large feathers.
+MPID_PannaCamel	Panna Camel
+MPID_H_PannaCamel	A camel found mainly in Solm. Most\nSolmic households have at least one\nfor transportation and carrying cargo.
+MPID_EleosPigeon	Elyosian Pigeon
+MPID_H_EleosPigeon	A wild bird found in all regions of \nElyos. At times they appear in large\nflocks, causing a spectacle. 
+MPID_EleosSeagull	Elyosian Seagull
+MPID_H_EleosSeagull	A wild bird that inhabits coastlines\nall over Elyos. They constantly try to\nsneak fish from the day's catch.
+MPID_EleosDog	Elyosian Dog
+MPID_H_EleosDog	A dog found in all regions of Elyos.\nThese friendly, intelligent animals are\noften kept indoors as pets.
+MPID_EleosBlackDog	Black Elyosian Dog
+MPID_H_EleosBlackDog	A dog found in all regions of Elyos.\nKnown for their black coats, they are\nfriendly and easily trained.
+MPID_EleosWhiteDog	White Elyosian Dog
+MPID_H_EleosWhiteDog	A dog found in all regions of Elyos.\nKnown for their white coats, they are\nfriendly and easily trained.
+MPID_MailDonkey	Mère Donkey
+MPID_H_MailDonkey	A rare animal found only in Firene.\nThey prefer clean water and fresh\nproduce. Legend says they are lucky.
+MPID_RutileMarmot	Rutile Marmot
+MPID_H_RutileMarmot	A rare animal found only in Brodia.\nConsidered a local guardian, they like\nuninhabited areas such as cliff tops.
+MPID_LizardsReindeer	Vervain Deer
+MPID_H_LizardsReindeer	A rare animal found only in Elusia.\nOften found deep in the forest, their\nshed antlers make a wondrous cure.
+MPID_BavaroFlamingo	Tartu Flamingo
+MPID_H_BavaroFlamingo	A rare animal found only in Solm. \nRoyalty use these oasis-dwelling\nbirds to send special messages.

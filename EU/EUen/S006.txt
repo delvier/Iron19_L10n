@@ -1,0 +1,46 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\nWhat is that? In the back there. Is that...\na throne?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06ベレト\nThis resembles the Holy Tomb. That's a place\nfrom my world.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nWhat is the Holy Tomb?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06ベレト\nIt's where the goddess Sothis sleeps. For the\nChurch of Seiros, this is the holiest place of all.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x08\x06ベレト\nTo ensure the safety of the tomb, a monastery\nwas built atop it.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\nOK... So, why is it here?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06ベレト\nOnly a very few know the legend of Saint Seiros\nand the Holy Tomb.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06ベレト\nSaint Seiros received power and revelation from\nthe goddess and, with it, a sacred duty.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06ベレト\nShe was to save the people of Fódlan, and use\nher power wisely in order to lead them.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06ベレト\nPerhaps it's inevitable that we'd be guided here.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x0A\x08リュール\nWhy do you say that?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06ベレト\nIf the bond between us is to further strengthen,\nthen you must face a trial here.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0A\x08リュール\nI see. And you want me to fight you, Byleth?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06ベレト\nShow me whether you can wisely use the power\nyou've gained on your journey so far.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nUnderstood.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06ベレト\nIn your eyes, I see no hesitation. Good.\nReady yourself!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nI'm ready. And I won't hold anything back!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x16\x06ベレト\x0CNormal\n\x0E\x03\x02\x08\x06ベレト\nTo win the fight, keep your eyes wide. Always\nknow where your enemies are.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWhat are those things scattered around\nthe battlefield?\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nThose are my targets, and I will destroy them...\nUnless you can prevent me from doing so.\x0E\x04\x00\x00
+MID_EV2_#003	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI'll guard them well!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nAngry\n\x0E\x03\x02\x08\x06ベレト\nDepending on the wielder, power can be used\nfor good or evil with equal ease.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x18\x06ベレト\x0EStandBy\n\x0E\x03\x02\x08\x06ベレト\nThat's why the heart of the one controlling\nthe power is important.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nThe heart. That would mean...\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nMy heart determines how the power is used...\nAll right, Byleth. I'm ready!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x16\x0Cオルテンシア\x06Sad\n\x0E\x03\x02\x0E\x0Cオルテンシア\nI've gotta say it feels a little weird to fight\nsomeone who's supposed to be an ally.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06ベレト\x02b\n\x0E\x05\x01\x14\x06ベレト\nSmile\n\x0E\x03\x02\x08\x06ベレト\nJust because we're fighting doesn't make us\nenemies. Not this time.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06ベレト\nWe're still friends. But for now, prepare\nfor battle.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1C\x0Cオルテンシア\x0CStrike\n\x0E\x03\x02\x0E\x0Cオルテンシア\nOK. I've got no choice but to fight? Let's do it.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06ベレト\x022\n\x0E\x03\x02\x0A\x08リュール\nI managed to win...somehow.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06ベレト\nWell done. Your fighting was magnificent.\nThe trial is passed.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nI learned so much battling you.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06ベレト\nThank you, but your skills were quite strong\neven before we met.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nStill, you've taught me so many things.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nYou're an excellent teacher, Byleth.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06ベレト\nThat's kind of you to say. Though it helps that\nyou have such raw skill already.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06ベレト\nAll I need do is listen and give a little nudge\nto those embarking on a path.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06ベレト\nYour success here is the direct result of all the\nchoices you've made before today.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nI've always understood that one choice leads\nto another, but...\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nI'm worried what might happen if I ever make\nthe wrong choice...\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06ベレト\nYou needn't worry at all. By passing this trial,\nyou've shown the truth of who you are.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x08\x06ベレト\nAnd you have your allies to set you right...\nshould you ever begin to stray.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x08\x06ベレト\nRemember, I will always be by your side\nas well. To the very end.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08リュール\nThank you. I'll continue on my path, trusting my\nallies to help me along the way.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06ベレト\nYou've clearly learned all you need to here.\nShall we continue on our journey? \x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

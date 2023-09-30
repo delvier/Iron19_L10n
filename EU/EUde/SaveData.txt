@@ -1,0 +1,49 @@
+MID_SAVEDATA_CONFIRM_CLEARDATA	Möchtest du deine Enddaten speichern?\n(Deine Armee wird auf den Status von vor\nKapitel 26 zurückgesetzt, es wird jedoch ver-\nmerkt, dass du das Kapitel abgeschlossen hast.)
+MID_SAVEDATA_CONFIRM_WRITING	Fortschritt speichern?
+MID_SAVEDATA_CONFIRM_SKIP_WRITING	Ohne Speichern fortfahren?
+MID_SAVEDATA_CONFIRM_SKIP_YES	Fortfahren
+MID_SAVEDATA_CONFIRM_SUSPEND	Speichern und zum Titelbildschirm\nzurückkehren?
+MID_SAVEDATA_CONFIRM_SUSPEND_LOAD	Wenn du diese Speicherdaten lädst und dann \ndas Spiel beendest, ohne ein neues Lesezei-\nchen zu erstellen, beginnst du den Kampf beim nächsten Starten des Spiels von Anfang an.
+MID_SAVEDATA_CONFIRM_SUSPEND_COPY	Lesezeichen können nicht kopiert werden.
+MID_SAVEDATA_CONFIRM_COPY	Speicherdaten kopieren?
+MID_SAVEDATA_CONFIRM_COPY_YES	Kopieren
+MID_SAVEDATA_CONFIRM_DELETE	Speicherdaten löschen?
+MID_SAVEDATA_CONFIRM_DELETE_YES	Löschen
+MID_SAVEDATA_READING	Ladevorgang...\nBitte das System nicht ausschalten.
+MID_SAVEDATA_WRITING	Speichervorgang...\nBitte das System nicht ausschalten.
+MID_SAVEDATA_COPYING	Speicherdaten werden kopiert...\nBitte das System nicht ausschalten.
+MID_SAVEDATA_DELETING	Speicherdaten werden gelöscht...\nBitte das System nicht ausschalten.
+MID_SAVEDATA_LOAD_FAILED	Speicherdaten konnten nicht geladen werden.
+MID_SAVEDATA_VERSION_ERROR	Speicherdaten konnten nicht geladen werden,\nda sie zu einer anderen Version gehören.\nBitte aktualisiere die Software.
+MID_SAVEDATA_SAVE_FAILED	Fortschritt konnte nicht gespeichert werden.
+MID_SAVEDATA_COPY_FAILED	Speicherdaten konnten nicht kopiert werden.
+MID_SAVEDATA_DELETE_FAILED	Speicherdaten konnten nicht gelöscht werden.
+MID_SAVEDATA_OLD_VERSION	Die Speicherdaten konnten nicht geladen\nwerden. Bitte beende die Software und\nstarte sie erneut, oder aktualisiere sie im\nNintendo eShop.
+MID_SAVEDATA_NO_DATA	Keine Speicherdaten.
+MID_SAVEDATA_TYPE_AUTO	Auto-Speicherdatei
+MID_SAVEDATA_TYPE_MANUAL	Datei \x0E\x01\x00\x00
+MID_SAVEDATA_SEQ_SORTIE	Vor Kampf
+MID_SAVEDATA_SEQ_BMAP	Im Kampf
+MID_SAVEDATA_SEQ_BMAP_AFTER	Nach Kampf
+MID_SAVEDATA_SEQ_SORTIE_ENCOUNT	Vor Gefecht
+MID_SAVEDATA_SEQ_BMAP_ENCOUNT	Im Gefecht
+MID_SAVEDATA_SEQ_ENCOUNT_AFTER	Nach Gefecht
+MID_SAVEDATA_SEQ_SORTIE_TRAINING	Vor Training
+MID_SAVEDATA_SEQ_BMAP_TRAINING	Im Training
+MID_SAVEDATA_SEQ_TRAINING_AFTER	Nach Training
+MID_SAVEDATA_SEQ_KIZUNA	Erkundung
+MID_SAVEDATA_SEQ_HUB	Somniel
+MID_SAVEDATA_SEQ_GMAP	Weltkarte
+MID_SAVEDATA_LOAD_YES	Laden
+MID_SAVEDATA_LOAD_HELP	Wähle einen Speicherplatz.
+MID_SAVEDATA_SAVE_TITLE	Speichern
+MID_SAVEDATA_SAVE_HELP	Wähle einen Speicherplatz.
+MID_SAVEDATA_SAVE_YES	Speichern
+MID_SAVEDATA_SUSPEND_TITLE	Lesezeichen
+MID_SAVEDATA_SUSPEND_HELP	Wähle einen Speicherplatz.
+MID_SAVEDATA_SUSPEND_YES	Lesezeichen erstellen
+MID_SAVEDATA_COPY_TITLE	Kopieren
+MID_SAVEDATA_COPY_SRC_HELP	Wähle einen Speicherplatz zum Kopieren.
+MID_SAVEDATA_COPY_DST_HELP	Wohin kopieren?
+MID_SAVEDATA_DELETE_TITLE	Löschen
+MID_SAVEDATA_DELETE_HELP	Wähle einen Speicherplatz.

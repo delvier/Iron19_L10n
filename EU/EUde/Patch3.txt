@@ -1,0 +1,260 @@
+MID_MSG_CC_DLC_JOB_OPEN	Deine Einheiten haben jetzt Zugriff auf die\nKlassen Verzauberer und Magiekanonier.\n(Für einen Wechsel zu einer dieser Klassen\nist ein spezielles Item notwendig.)
+MID_MSG_EVIL_COMPLETE_REWARD	Dämonenwelt-Abschluss-Belohnungen
+MID_DLC_News_Patch3_Title	Ver. 2.0.0
+MID_DLC_News_Patch3	Erweiterungspass\n\n・ Die Dämonenwelt wurde hinzugefügt. Sobald du diese neue\n  Geschichte gemeistert hast, schließen sich dir und deiner\n  Gruppe neue Verbündete an. Außerdem stehen dann die\n  Klassen „Verzauberer“ und „Magiekanonier“ zur Verfügung.\n\nGratis-Inhalt\n\n・ Du erhältst Materialien für die Veredelung von Waffen, wenn\n  du nach erfolgreicher Beendigung von Kapitel 4 ins Somniel\n  zurückkehrst.\n\n・ Du kannst nun über den Nintendo eShop auf kostenlose\n  Bonus-Inhalte zugreifen.
+MID_MSG_GET_ITEM_Patch3	Update-Bonus 2 erhalten.
+MID_SYS_EvilMap	Dämonenwelt
+MID_SysDialog_Move_EvilMap	Zur Dämonenwelt
+MID_MSG_Encount_EvilMap	Gefecht in der Dämonenwelt
+MID_Hub_Well_GotoEvil	Zur Dämonenwelt
+MID_Hub_Well_GotoEvil_Dialog_Message	Dämonenwelt betreten?
+MID_Hub_Well_GotoEvil_Dialog_Yes	Betreten
+MID_Hub_Well_GotoEvil_Dialog_Message_After	In die Dämonenwelt gehen?
+MCID_E001_PREFIX	Dämonenwelt 1
+MCID_E001	Fremde Drachen
+MCID_E001_PLACE	Armring-Altar
+MCID_E002_PREFIX	Dämonenwelt 2
+MCID_E002	Saat der Unruhe
+MCID_E002_PLACE	Grüner Garten
+MCID_E002_OUTLINE	Nach Abwehr des Assassinen sucht\n\x0E\x0A\x008\x18der Wyrmgott\x1Cdie Wyrmgöttin mit Nel und Nil in\nFirene einen Armring.
+MCID_E003_PREFIX	Dämonenwelt 3
+MCID_E003	Kriegspfad
+MCID_E003_PLACE	Königliche Straße
+MCID_E003_OUTLINE	Die Gruppe schickt Firenes\nEmblem schlafen und sucht in\nBrodia weitere Armringe.
+MCID_E004_PREFIX	Dämonenwelt 4
+MCID_E004	Königinnenzorn
+MCID_E004_PLACE	Frostiger Wald
+MCID_E004_OUTLINE	Die Gruppe erfährt von verdäch-\ntigen Handlungen in Elusia.\nNoch drei Armringe verbleiben.
+MCID_E005_PREFIX	Dämonenwelt 5
+MCID_E005	Der Dämonenerbe
+MCID_E005_PLACE	Wüstenfestung
+MCID_E006_PREFIX	Dämonenwelt 6
+MCID_E006	Sieben Armringe
+MCID_E006_PLACE	Somniel (gefallen)
+MCID_E006_OUTLINE	Ohne Nel und die Armringe reist\n\x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin nach Nil suchend\nzu einer einst schwebenden Insel.
+MID_RULE_DLC_LOSE	Nel, Nil oder \x0E\x06\x03\x00 wird besiegt.
+MID_RULE_DLC_LOSE2	Nel oder \x0E\x06\x03\x00 wird besiegt.
+MID_RULE_E001_WIN	??? besiegen.
+MID_RULE_E002_WIN	Alfred und Céline besiegen.
+MID_RULE_E003_WIN	Diamant und Alcryst besiegen.
+MID_RULE_E004_WIN	Ivy und Timerra besiegen.
+MID_RULE_E005_WIN	Nil besiegen.
+MID_RULE_E006_WIN	Dämonen-Nil besiegen.
+MTID_Cemetery	Friedhof
+MTID_Dragon	Dunkelsiegel
+MPID_El	Nel
+MPID_H_El	Ältere der Zwillinge mit Dämonen-\ndrachenblut. Kämpft mutig an der\nSeite ihres Bruders.
+MPID_Il	Nil
+MPID_H_Il	Jüngerer der Zwillinge mit Dämonen-\ndrachenblut. Gütiger Mann, der seine\nSchwester unterstützt.
+MPID_H_Il_E005	Jüngerer der Zwillinge mit Dämonen-\ndrachenblut. Beging Verrat an seiner\nSchwester und \x0E\x0A\x008\x18dem Wyrmgott\x1Cder Wyrmgöttin.
+MPID_Il_E006	Dämonen-Nil
+MPID_H_Il_E006	Dem Willen Sombrons folgend ver-\nwandelte er sich mithilfe der Sieben\nArmringe in Das Böse.
+MPID_Rafale	Rafal
+MPID_H_Rafale	Ein Mann mit Dämonendrachenblut.\nSchloss sich \x0E\x0A\x00\x10\x06dem\x06der \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin auf\n\x0E\x0A\x00\x1A\x0Cdessen\nderen Einladung an.
+MPID_Selestia	Zelestia
+MPID_H_Selestia	Anführerin der Vier Winde und\nMagiedrache. Sie kümmert sich\nvoller Liebe um ihre Gefährten.
+MPID_Gregory	Gregory
+MPID_H_Gregory_E	Mitglied der Vier Winde. Ein liebens-\nwürdiger, wenn auch etwas feiger\nund vorsichtiger Magieanwender.
+MPID_H_Gregory	Vizekommandant der Vier Winde. Ein\nliebenswürdiger, wenn auch etwas\nübervorsichtiger Magieanwender.
+MPID_Madeline	Madeline
+MPID_H_Madeline	Mitglied der Vier Winde. Eine\naufgeweckte, gepanzerte Ritterin\nmit festen Überzeugungen.
+MPID_MorphWolf	Verzerrter Wolf
+MPID_H_MorphWolf	Ein Verzerrter Wolf, erweckt vom\nDämonendrachen. Ist flink und greift\nmit scharfen Klauen und Zähnen an.
+MPID_MorphWolfSilver	Silberwolf
+MPID_H_MorphWolfSilver	Ein Verzerrter Wolf in metallischer\nForm. Selten, gewährt dafür aber\nzusätzliche Erfahrungspunkte.
+MPID_MorphDragonF	Verzerrter Wyvern
+MPID_H_MorphDragonF	Ein riesiger Verzerrter Wyvern, vom\nDämonendrachen erweckt. Fliegt am\nHimmel und greift mit Atem an.
+MPID_MorphDragonFGold	Goldwyvern
+MPID_H_MorphDragonFGold	Ein Verzerrter Wyvern in metallischer\nForm. Selten, gewährt dafür aber\nzusätzliche Schätze.
+MPID_ShadowSiblings	Dämonengeschwister
+MPID_H_FogatoHide	Ein unbekannter Attentäter, der es\nauf die Emblem-Armringe abgesehen\nhat.
+MPID_H_AlfredR	Firenes König aus einer anderen\nWelt. Verbittert und voller Streitlust\nerledigt er seine Feinde ohne Gnade.
+MPID_H_CelineR	Firenes Prinzessin aus einer anderen\nWelt. Sie ist kühl und gerissen und\nbegegnet anderen mit eisiger Härte.
+MPID_H_DiamandR	Brodias König aus einer anderen\nWelt. Zögerlichkeit und Pessimismus\nrauben ihm alle Entschlossenheit.
+MPID_H_StalukeR	Brodias Prinz aus einer anderen\nWelt. Überheblich stolz blickt er auf\nseinen schwachen Bruder herab.
+MPID_H_IvyR	Elusias Königin aus einer anderen\nWelt. Als eitle Adlige verachtet sie\nden niederen Stand ihrer Schwester.
+MPID_H_HortensiaR	Elusias Prinzessin aus einer anderen\nWelt. Der Schock durch den Verlust\nihres Vaters brach ihren Willen.
+MPID_H_MisutiraR	Solms Königin aus einer anderen\nWelt. Eine extrem starre und formelle\nPerson ohne Anpassungsvermögen.
+MPID_H_FogatoR	Solms Prinz aus einer anderen Welt.\nEin überzeugter Hedonist, der sich\nlächelnd in die Schlacht stürzt.
+MPID_alias_El	Stoischer Drache
+MPID_alias_Rafale	Büßender Drache
+MPID_alias_Selestia	Gütige Anführerin
+MPID_alias_Gregory	Verblasste Narbe
+MPID_alias_Madeline	Heilendes Herz
+MJID_ShadowPrincessR	Dämonenkind
+MJID_H_ShadowPrincessR	Bluterbin des Dämonendrachen.\nKämpft mit einer Lanze und wechselt\nper Drachenstein zur Drachenform.
+MJID_ShadowLordR	Dämonenkind
+MJID_H_ShadowLordRE	Bluterbe des Dämonendrachen.\nNutzt widerwillig eine Axt\nund ist mäßig kampftauglich.
+MJID_H_ShadowLordRE_E005	Bluterbe des Dämonendrachen. Seit\nOffenbarung seiner wahren Natur\nein furchterregender Axtkämpfer.
+MJID_H_ShadowLordR	Bluterbe des Dämonendrachen.\nKämpft mit einer Axt und wechselt\nper Drachenstein zur Drachenform.
+MJID_ShadowDragonR	Das Böse
+MJID_H_ShadowDragonR	Ein Dämonendrache mit der Macht\nder Emblem-Armringe. Verheert das\nSchlachtfeld mit starken Attacken.
+MJID_MorphWolf	Verzerrter Wolf
+MJID_H_MorphWolf	Schergen des Dämonendrachen, die\ndie Welt vernichten wollen. Greifen\nmit verfluchten Reißzähnen an.
+MJID_MorphFlyingDragon	Verzerrter Wyvern
+MJID_H_MorphFlyingDragon	Schergen des Dämonendrachen, die\ndie Welt vernichten wollen. Mähen\nihre Feinde mit bösem Atem nieder.
+MJID_AvenirR	Königlicher
+MJID_H_AvenirR	Kriegstreibendes Individuum.\nEin geübter Reiter, der sich auf den\nUmgang mit Lanzen versteht.
+MJID_FleurageR	Königliche
+MJID_H_FleurageR	Kriegstreibendes Individuum. Eine\ntalentierte Magierin, die auch mit\neinem Schwert umgehen kann.
+MJID_SuccesseurR	Bewacher
+MJID_H_SuccesseurR	Ein Schwertkämpfer, der seinen\nStolz verloren und seine ritterliche\nTugend aufgegeben hat.
+MJID_TirailleurR	Bewacher
+MJID_H_TirailleurR	Ein Bogenschütze, der seinen\nStolz verloren und seine ritterliche\nTugend aufgegeben hat.
+MJID_LindwurmR	Abrichterin
+MJID_H_LindwurmR	Anhängerin des Dämonendrachen,\nder Bestien gehorchen. Kämpft mit\nBuch und Stab auf einem Wyvern.
+MJID_SleipnirR	Abrichterin
+MJID_H_SleipnirR	Anhängerin des Dämonendrachen,\nder Bestien gehorchen. Kämpft mit\nBuch und Stab auf einem Pegasus.
+MJID_PitchforkR	Beschatterin
+MJID_H_PitchforkR	Bringt im Namen der „Gerechtigkeit“\npolitische Gegner zum Schweigen.\nEine erfahrene Lanzenkämpferin.
+MJID_CupidoR	Beschatter
+MJID_H_CupidoR	Bringt im Namen der „Gerechtigkeit“\nGegner zum Schweigen.\nEin erfahrener Reiter und Schütze.
+MIID_ElAttack	Dunkler Funke
+MIID_H_ElAttack	Angriff, der die Macht eines\nDämonendrachensteins nutzt.\nHalbiert gegnerische Ver./Res.
+MIID_ElAttack2	Dunkle Arkana
+MIID_H_ElAttack2	Magieangriff mit physischer Kraft,\nder gegn. Ver./Res. halbiert. Nutzt\nMacht eines Dämonendrachensteins.
+MIID_Evilstone	Dunkler Stein
+MIID_H_Evilstone	Drachenstein, der die Macht des\nDämonendrachen enthält. Halbiert\ngegnerische Ver./Res.
+MIID_TrueEvilstone	Dkl. Ruinstein
+MIID_H_TrueEvilstone	Drachenstein mit der Macht des\nDämonendrachen. Halbiert gegn.\nVer./Res. Als Nah- und Fernangriff\nmöglich.
+MIID_Evilstone_Magic	Dkl. Magiestein
+MIID_H_Evilstone_Magic	Drachenstein mit der Macht des\nDämonendrachen. Magieangriff mit\nphys. Kraft. Halbiert gegn. Ver./Res.
+MIID_Evilstone_Slayer_Horse	Dkl. Schlachtstein
+MIID_H_Evilstone_Slayer_Horse	Drachenstein mit der Macht des\nDämonendrachen. Halbiert\ngegnerische Ver./Res.\nEffektiv gegen: Berittene.
+MIID_Evilstone_Slayer_Fly	Dkl. Laststein
+MIID_H_Evilstone_Slayer_Fly	Drachenstein mit der Macht des\nDämonendrachen. Halbiert\ngegnerische Ver./Res.\nEffektiv gegen: Flieger.
+MIID_H_Liberation_E006	Nur für \x0E\x0A\x008\x18den Wyrmgott\x1Cdie Wyrmgöttin. Verleiht\nAngr. +15 im Kampf gegen\nDämonen-Nil.
+MIID_H_Liberation_E006_Normal	Nur für \x0E\x0A\x008\x18den Wyrmgott\x1Cdie Wyrmgöttin. Verleiht\nAngr. +30 im Kampf gegen\nDämonen-Nil.
+MIID_IlAttack	Dämonensturm
+MIID_H_IlAttack	Eine Reihe gewaltiger Fernangriffe.
+MIID_IlBeam	Dämonenstrahl
+MIID_H_IlBeam	Ein Strahl der Finsternis, der Gegner\nweiträumig niedermäht. Treffer\ngarantiert. Ignoriert Ver./Res.
+MIID_IlRush	Verheerung
+MIID_H_IlRush	Zerstört benachbart. Gelände, streckt\nFreund wie Feind nieder u. nutzt\nderen Lebenskraft zur Stärkung.
+MIID_IlAbsorp	Essenz leeren
+MIID_H_IlAbsorp	Streckt alle Einheiten in dem Bereich\naugenblicklich nieder und nutzt\nderen Lebenskraft zur Stärkung.
+MIID_IlSummon	Wirbel beschw.
+MIID_H_IlSummon	Erzeugt Wirbel, die Verzerrte\nheraufbeschwören.
+MIID_MiasmaBreath	Miasma-Atem
+MIID_H_MiasmaBreath	Miasma-Atemangriff. Ignoriert\ngegnerische Ver./Res. Fügt dem\nFeld des Gegners ein Miasma hinzu.
+MIID_MiasmaBall	Miasma-Kugel
+MIID_H_MiasmaBall	Miasma-Fernangriff. Fügt Gegnerfeld\nMiasma hinzu. Gegn. wird stumm u.\neingefroren. Ignoriert gegn. Ver./Res.
+MIID_ElBento	Nels Ration
+MIID_H_ElBento	Essensreste, von Nel effizient\ngepackt. Stellen 20 KP wieder her.
+MIID_RafaleBento	Rafals Ration
+MIID_H_RafaleBento	Essensreste, von Rafal selbstsicher\ngepackt. Stellen 20 KP wieder her.
+MIID_SelestiaBento	Zelestias Ration
+MIID_H_SelestiaBento	Essensreste, von Zelestia fürsorglich\ngepackt. Stellen 20 KP wieder her.
+MIID_GregoryBento	Gregorys Ration
+MIID_H_GregoryBento	Essensreste, von Gregory vorsichtig\ngepackt. Stellen 20 KP wieder her.
+MIID_MadelineBento	Madelines Ration
+MIID_H_MadelineBento	Essensreste, von Madeline stolz\ngepackt. Stellen 20 KP wieder her.
+MIID_EnchantSeal	Mystische Tasche
+MIID_H_EnchantSeal	Erlaubt Einheit, zur Klasse\n„Verzauberer“ zu wechseln.
+MIID_MageCannonSeal	Magiekanone
+MIID_H_MageCannonSeal	Erlaubt Einheit, zur Klasse\n„Magiekanonier“ zu wechseln.
+MSID_PrivateSkill_El	Beschützerisch
+MSID_H_PrivateSkill_El	Initiiert der Gegner den Kampf gegen\nRafal, erhält die Einheit Krit. +10 für\n1 Zug.
+MSID_H_PrivateSkill_El_E	Initiiert der Gegner den Kampf gegen\nNil, erhält die Einheit Krit. +10 für\n1 Zug.
+MSID_PrivateSkill_Rafale	Rivalität
+MSID_H_PrivateSkill_Rafale	Besiegt ein Verbündeter innerhalb\nvon 2 Feldern einen Gegner, erhält\ndie Einheit Krit. +10 für 1 Zug.
+MSID_PrivateSkill_Il	Verletzter Stolz
+MSID_H_PrivateSkill_Il	Besiegt ein Verbündeter innerhalb\nvon 2 Feldern einen Gegner, erhält\ndie Einheit Krit. +10 für 1 Zug.
+MSID_PrivateSkill_Selestia	Gütige Gabe
+MSID_H_PrivateSkill_Selestia	Wenn die Einheit einen Gegner\nbesiegt, gewährt sie Verbündeten im\nUmkreis von 2 Feldern Trf. +20 für\n1 Zug.
+MSID_PrivateSkill_Gregory	Überlebensplan
+MSID_H_PrivateSkill_Gregory	Wenn sich im Umkreis von 3 Feldern\nmehr Gegner als Verbündete\nbefinden, erhält die Einheit Aw. +20.
+MSID_PrivateSkill_Madeline	Ritterkodex
+MSID_H_PrivateSkill_Madeline	Initiiert der Gegner den Kampf und\nbefindet sich die Einheit neben\neinem Verbündeten, erleidet sie\nSchaden -2.
+MSID_PrivateSkill_Alfred_E	Selbstverteidigung
+MSID_PrivateSkill_Celine_E	Wilde Blume
+MSID_PrivateSkill_Diamand_E	Schluss jetzt
+MSID_PrivateSkill_Staluke_E	Ich kann alles
+MSID_PrivateSkill_Ivy_E	Das letzte Wort
+MSID_PrivateSkill_Hortensia_E	Heimliche Hilfe
+MSID_PrivateSkill_Misutira_E	Solmer Würde
+MSID_PrivateSkill_Fogato_E	Zermürber
+MSID_JobSkill_MorphFlyingDragon	Miasma-Zone
+MSID_H_JobSkill_MorphFlyingDragon	Zu Beginn des Zugs wird dem\nGelände im Umkreis von 2 Feldern\nein Miasma hinzugefügt.
+MSID_JobSkill_ShadowPrincessR	Emblem-Trotz
+MSID_H_JobSkill_ShadowPrincessR	Wird die Einheit mit einem\nBündnis-Angriff angegriffen,\nerleidet sie Schaden -20 %.
+MSID_JobSkill_ShadowLordR	Emblem anspornen
+MSID_H_JobSkill_ShadowLordR	Zu Beginn der Spielerphase wird\ndie Bündnisleiste benachbarter\nVerbündeter um +1 gefüllt.
+MSID_DisplaySkill_DamageCut	Siegelschutz
+MSID_H_DisplaySkill_DamageCut	Reduziert erlittenen Schaden und\ngegnerische Chance auf kritische\nTreffer um 50.
+MSID_ChainAttackDamageWeaken+	Bandbrecher+
+MSID_H_ChainAttackDamageWeaken+	Reduziert die Genauigkeit von\ngegnerischen Koop-Schlägen auf\n10 %. Reduziert erlittenen Schaden.
+MSID_H_SenerioEngage_DarkSide	Greift die Einheit mit Büchern an,\nwerden ihre KP um 50 % des\nzugefügten Schadens\nwiederhergestellt.
+MSID_H_SenerioEngageAtk_DarkSide	Die Einheit kann mit Feuer-,\nDonner- und Windmagie Gegner\nin einem Gebiet angreifen. Wind\nist effektiv gegen Flieger.
+MAID_ElWear	Kreative Kleidung
+MAID_H_ElWear	Alltagskleidung von Nel, Nachfahrin des Dämonendrachen. Hat durch\njahrelange Ausbesserungen ein recht originelles Aussehen bekommen.
+MAID_RafaleWear	Simple Kleidung
+MAID_H_RafaleWear	Alltagskleidung von Rafal, Nachfahre des Dämonendrachen, die schlicht\nist, um nicht vom Anhänger abzulenken, der ein Gegenstück zu Nels ist.
+MAID_SelestiaWear	Elegantes Kleid
+MAID_H_SelestiaWear	Alltagskleidung von Zelestia, Anführerin der Vier Winde. Edles Kleid für\nruhige Tage im Somniel. Ihre Freunde helfen ihr öfters mit den Haaren.
+MAID_GregoryWear	Dämonenumhang
+MAID_H_GregoryWear	Alltagskleidung von Gregory, Vize der Vier Winde. Die Dämonendrachen-\nsymbole stehen für die Treue zu Nel, Rafal und allen Verbündeten.
+MAID_MadelineWear	Perfektes Plissee
+MAID_H_MadelineWear	Alltagskleidung von Madeline, eine der Vier Winde. Versprüht einen\nHauch von Reife, aber berücksichtigt auch ihre Vorliebe für Schleifen.
+MID_LVUP_1_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x0E\x04エル\x06Die\n\x0E\x03\x02\x06\x04エル\nSo hatte ich mir das nicht vorgestellt.\x0E\x04\x00\x00
+MID_LVUP_2_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nSolch Trivialitäten kümmern mich nicht.\x0E\x04\x00\x00
+MID_LVUP_3_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nAndere sollen meine Leistungen bewerten. Ich\nkonzentriere mich nur darauf, was als Nächstes\nkommt.\x0E\x04\x00\x00
+MID_LVUP_4_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nWenn es \x0E\x0A\x008\x18den Wyrmgott\x1Cdie Wyrmgöttin zufriedenstellt, dann\nauch mich.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nDas wird genügen.\x0E\x04\x00\x00
+MID_LVUP_CC_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nIch fühle mich geehrt, ein solches Geschenk\n\x0E\x0A\x00<\x1Cdes Wyrmgottes\x1Cder Wyrmgöttin empfangen zu dürfen.\x0E\x04\x00\x00
+MID_LVUP_1_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x14\nラファール\x06Sad\n\x0E\x03\x02\x0C\nラファール\nNein... Ich werde kein Fehlschlag sein...\x0E\x04\x00\x00
+MID_LVUP_2_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nDas ist noch nicht das Ende.\x0E\x04\x00\x00
+MID_LVUP_3_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0ESerious\n\x0E\x03\x02\x0C\nラファール\nEin zu erwartendes Ergebnis. Aber ich kann\nnoch mehr.\x0E\x04\x00\x00
+MID_LVUP_4_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1A\nラファール\x0CStrike\n\x0E\x03\x02\x0C\nラファール\nSeid \x0E\x0A\x00\x1A\nZeuge\x0CZeugin meiner Macht, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nSmile\n\x0E\x03\x02\x0C\nラファール\nNun habe ich wahre Macht erhalten.\x0E\x04\x00\x00
+MID_LVUP_CC_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0EStandBy\n\x0E\x03\x02\x0C\nラファール\nIch werde weiter unsere Feinde niederstrecken,\nob nun in dieser Form oder einer anderen.\x0E\x04\x00\x00
+MID_LVUP_1_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x16\x0Cセレスティア\x06Sad\n\x0E\x03\x02\x0E\x0Cセレスティア\nWie kurios. Für einen Magiedrachen bin ich\nnoch recht jung. Ich sollte eigentlich schneller\nVerbesserungen sehen.\x0E\x04\x00\x00
+MID_LVUP_2_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nSelbst die kleinsten Veränderungen erfüllen\nmein Herz mit Freude!\x0E\x04\x00\x00
+MID_LVUP_3_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nAngry\n\x0E\x03\x02\x0E\x0Cセレスティア\nIch will Stärke erlangen, die meiner Rolle als\nAnführerin der Vier Winde gerecht wird.\x0E\x04\x00\x00
+MID_LVUP_4_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nRelax\n\x0E\x03\x02\x0E\x0Cセレスティア\nMeine Fähigkeiten verbessern sich. Ich fühle\nmich gerade, als könnte ich alles schaffen!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nIch bin hier viel stärker geworden, als ich es in\nmeiner alten Welt je war. Was für ein gewaltiger\nUnterschied!\x0E\x04\x00\x00
+MID_LVUP_CC_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nDas macht Spaß! Zuvor hatte ich nicht viele\nGelegenheiten, andere Kleidung auszuprobieren.\nWie sehe ich darin aus, \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin?\x0E\x04\x00\x00
+MID_LVUP_1_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Sad\n\x0E\x03\x02\x0C\nグレゴリー\nÄnderungen machen mir Angst, aber keine\nÄnderungen tun das ebenfalls.\x0E\x04\x00\x00
+MID_LVUP_2_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Shy\n\x0E\x03\x02\x0C\nグレゴリー\nÄhm, damit sollte ich zumindest etwas besser\nSchmerzen vermeiden können... oder?\x0E\x04\x00\x00
+MID_LVUP_3_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\nIch werde diese Macht nutzen, um bei der\nVerwirklichung einer Welt zu helfen, die frei ist\nvon Angst und Schmerzen!\x0E\x04\x00\x00
+MID_LVUP_4_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1E\nグレゴリー\x10Surprise\n\x0E\x03\x02\x0C\nグレゴリー\nMoment! Was geschieht mit mir? Das ist ein\nGrund zur Freude, richtig?\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1A\nグレゴリー\x0CStatus\n\x0E\x03\x02\x0C\nグレゴリー\nIch weiß nicht, ob ich mir selbst noch mehr\nMacht als diese anvertrauen würde...\x0E\x04\x00\x00
+MID_LVUP_CC_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nSmile\n\x0E\x03\x02\x0C\nグレゴリー\nWas meint Ihr? Steht mir das? Ich hoffe, mit\ndieser Aufmachung werden es sich die Gegner\nzweimal überlegen.\x0E\x04\x00\x00
+MID_LVUP_1_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Sad\n\x0E\x03\x02\x0C\nマデリーン\nEine Schande. Doch nächstes Mal werde ich es\nbesser machen.\x0E\x04\x00\x00
+MID_LVUP_2_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x1C\nマデリーン\x0ESerious\n\x0E\x03\x02\x0C\nマデリーン\nEine Leistung, die wohl kaum angemessen ist.\nIch werde noch härter trainieren müssen!\x0E\x04\x00\x00
+MID_LVUP_3_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nSmile\n\x0E\x03\x02\x0C\nマデリーン\nSeht Ihr? Es kommt nicht nur aufs Alter an.\x0E\x04\x00\x00
+MID_LVUP_4_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nNur dieses eine Mal... habe ich vielleicht\ntatsächlich etwas Lob verdient.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nDas hätte ich niemals ohne all meine Freunde\nund Verbündete an meiner Seite geschafft.\x0E\x04\x00\x00
+MID_LVUP_CC_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Shy\n\x0E\x03\x02\x0C\nマデリーン\nIch will Euch ja keine Umstände bereiten, doch\ndiese Aufmachung unterscheidet sich doch sehr\nvon dem, was ich gewöhnt bin...\x0E\x04\x00\x00
+MID_RELAY_Stamp_El_0	Bitte vergebt mir.
+MID_RELAY_Stamp_Rafale_0	Enttäuscht mich nicht.
+MID_RELAY_Stamp_Selestia_0	Das wird lustig!
+MID_RELAY_Stamp_Gregory_0	Ich hoffe, das tut nicht weh.
+MID_RELAY_Stamp_Madeline_0	Ich bin kein Kind mehr!
+MID_BGM_DLC_Evt_Twin_ST_Play	Hoffnung der Zwillingsdrachen
+MID_BGM_DLC_Evt_Twin_Exposed_ST_Play	Unerfüllte Träume
+MID_BGM_DLC_Sys_Gmap_ST_Play	Die Reise der Drachen
+MID_BGM_DLC_Field_P14_Map_ST_Play	Erlösung und Verlust
+MID_BGM_DLC_Field_P14_Combat_ST_Play	Erlösung und Verlust (Rebellion)
+MID_BGM_DLC_Field_P15_ST_Play	Gespiegeltes Bündnis
+MID_BGM_DLC_Boss_07_Pre_ST_Play	Der Unbeständige
+MID_BGM_DLC_Boss_07_Start_ST_Play	Der Unbeständige (Raserei)
+MID_BGM_DLC_Sys_ED2_ST_Play	Das langersehnte Ende der Reise
+MID_BGM_DLC_Mov_GOP_Full_ST_Play	Emblem-Bündnis! (Langfassung)
+MID_BGM_DLC_Field_P15_Pre_ST_Play	Erwachen aus kurzem Schlaf
+MID_BGM_DLC_Evt_Twin_Past_ST_Play	Erinnerungen
+MID_Hub_Well_Difficulty_Change	Schwierigkeit
+MID_Hub_Well_Difficulty_Change_Confirm	Schwierigkeit der Dämonenwelt ändern?\n(Die Schwierigkeit der Hauptstory bleibt gleich.\nDu kannst die Einstellung jederzeit ändern.)
+MID_Hub_Well_Difficulty_Change_Before	Aktuelle Schwierigkeit
+MID_Hub_Well_Difficulty_Change_Normal	Ändern zu: Normal
+MID_Hub_Well_Difficulty_Change_Hard	Ändern zu: Schwer
+MID_Hub_Well_Difficulty_Change_Lunatic	Ändern zu: Extrem
+MID_Hub_Well_Difficulty_Change_Cancel	Abbrechen
+MID_Hub_Well_Difficulty_Change_Dialog	Schwierigkeit der Dämonenwelt zu „\x0E\x01\x00\x00“\ngeändert.
+MID_FORTUNE_TROUBLE_El	Alle machen sich Sorgen,\nweil sie ganze Zitronen\nam Stück isst.
+MID_FORTUNE_TROUBLE_Rafale	Süßes zaubert ihm ein\ndämliches Grinsen ins\nGesicht.
+MID_FORTUNE_TROUBLE_Selestia	Vögel lassen sich des\nÖfteren auf ihren Hörnern\nnieder.
+MID_FORTUNE_TROUBLE_Gregory	Sein Lieblingsplüschtier\nsieht ziemlich abgenutzt\naus.
+MID_FORTUNE_TROUBLE_Madeline	Sie liebt Schleifen, kriegt\nes aber partout nicht hin,\nsie selbst zu binden.
+MID_Movie_E07	Erinnerungen einer anderen Welt
+MID_H_Movie_E07	Die Dämonendrachenzwillinge riefen \x0E\x0A\x00\x10\x06den\x06die\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin in ein anderes Elyos, wo \x0E\x0A\x00\x0E\x04er\x06sie\nbeim Kampf um 7 Armringe helfen soll.

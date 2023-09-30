@@ -1,0 +1,47 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nQuesta brezza... I profumi... Mi sento a casa.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nA casa? Intendi il mondo da cui provieni?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x06\x04リン\nSì, questo posto mi ricorda le pianure di Sacae,\ndove sono nata.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x06\x04リン\nMi ricordo bene la loro bellezza. Sembravano\nstendersi fino all'orizzonte davanti ai miei occhi\ndi bambina.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nSembra un paesaggio incantevole, in effetti. Il\nvento è piacevole.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x06\x04リン\nMi fa piacere che lo pensi, anche se questa\nnon è la mia vera patria.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x06\x04リン\nCi svegliavamo all'alba, ci occupavamo del\nbestiame, poi andavamo a caccia e al tramonto\ntutti a letto.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x06\x04リン\nE così via, giorno dopo giorno. Ma, purtroppo,\nnon durò a lungo.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0A\x08リュール\nPerché? Cosa successe?\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x06\x04リン\nIl mio popolo, la tribù dei Lorca, subì l'attacco\ndi feroci banditi. Non fummo in molti\na sopravvivere.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x06\x04リン\nQuei banditi usarono tutti i mezzi a loro\ndisposizione. Avvelenarono le nostre scorte\nidriche e ne approfittarono per attaccarci.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nMa è terribile...\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x06\x04リン\nGià. Le pianure di Sacae sono la nostra terra,\nuna terra che ci ha sempre benedetti con la sua\nabbondanza.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x06\x04リン\nAnche se questo luogo porta con sé tante\nmemorie tristi, ci sono comunque affezionata.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x06\x04リン\nMa ora basta con questi pensieri. Questo posto\nmi riempie di energia!\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x06\x04リン\nImpugna la spada! Ti mostrerò cosa sa fare\nuna guerriera dei Lorca!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x0A\x08リュール\nSono pront\x0E\x0A\x00\x08\x02o\x02a. Ma non credere di battermi tanto\nfacilmente.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0A\x08リュール\nNe ho passate di cotte e di crude nella vita.\nE sono cert\x0E\x0A\x00\x08\x02o\x02a che non sia finita qui.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x06\x04リン\nMa grazie a questo incontro, il nostro legame\nsi rinforzerà e con lui il mio potere.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x06\x04リン\nForza, allora! Fammi vedere cosa sai fare!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nSei pront\x0E\x0A\x00\x08\x02o\x02a? Fatti sotto! E vedi di non trattenerti!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSento delle voci provenire da quelle tende.\nSono dei nemici. Attacchiamoli, prima che\nsia troppo tardi.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nNon me ne starò certo qui a guardare! Farò\nla mia parte anch'io!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x0E\x04リン\x06Die\n\x0E\x03\x02\x06\x04リン\nQueste pianure, dalle distese verdi e dai venti\npossenti hanno fatto di me la guerriera forte\nche ora hai davanti. E tu sei forte?\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDevo ancora migliorare, ma ho acquisito forza\nin questa avventura.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x02\x06\x04リン\nBuono a sapersi, ma sappi che non ci andrò\nleggera!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x14\x08アイビー\x08Pain\n\x0E\x03\x02\x0A\x08アイビー\nChe strana sensazione combattere contro di te.\nNon faccio che pensare a mio padre e a tutto\nquello che è successo.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x12\x04リン\nRelax\n\x0E\x03\x02\x06\x04リン\nMh? Mi fa piacere affrontarti, abile come sei.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x12\x08アイビー\x06Sad\n\x0E\x03\x02\x0A\x08アイビー\nMio padre non aveva mai parole così\nincoraggianti. E va bene, cominciamo.\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nVederti qui mi fa quasi sembrare di avere mio\npadre di nuovo tra noi. Ma non è così che\nfunziona il mondo, purtroppo.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0A\x04リン\x02b\n\x0E\x05\x01\x14\x04リン\x0CStatus\n\x0E\x03\x02\x06\x04リン\nSfortunatamente non posso sostituire tuo\npadre, né la sua memoria.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x12\x04リン\nSmile\n\x0E\x03\x02\x06\x04リン\nSei diventata brava. Ora mostrami quanto\nsei cresciuta!\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x1E\x0Cオルテンシア\x0EStandBy\n\x0E\x03\x02\x0E\x0Cオルテンシア\nNon solo sono più forte, ma anche più carina!\nSe mio padre fosse qui rimarrebbe molto colpito\nnel vedermi così maturata!\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04リン\x022\n\x0E\x03\x02\x06\x04リン\nWow. Mi hai battuta. La tua forza è innegabile.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nLe tue abilità non sono da meno! Che potenza...\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nChissà se sarei come te se fossi cresciut\x0E\x0A\x00\x08\x02o\x02a qui\nnelle pianure...\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x06\x04リン\nEheh. Forse. Qui ho imparato le basi\ndel combattimento, ma molte delle cose\nche so le devo a Eliwood e Hector.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x06\x04リン\nAbbiamo viaggiato in lungo e in largo insieme.\nA volte ci scontravamo tra di noi, per tenerci\nin allenamento.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x06\x04リン\nCon loro ho imparato la giustizia e il coraggio.\nOltre che a fidarmi degli altri. Ci vuole forza per\nlasciarsi andare.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x06\x04リン\nE quella forza mi ha resa la persona che sono.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nAl mio risveglio non avevo ricordi e non riuscivo\na fidarmi di nessuno.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nMa ora sono circondat\x0E\x0A\x00\x08\x02o\x02a di amici che mi\ninsegnano molte cose riguardo al mondo...\ne anche riguardo a me.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nAlla fine di questa avventura spero di diventare\nforte come loro. E come te.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x06\x04リン\nSono sicura che ce la farai!\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x06\x04リン\nE naturalmente ti aiuterò, se vorrai!\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nGrazie, Lyn.\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

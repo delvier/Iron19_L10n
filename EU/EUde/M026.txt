@@ -1,0 +1,409 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nDer letzte Kampf steht an. Wenn Ihr bereit seid,\nbewegen wir das Somniel selbst zum Portal.\x0E\x04\x02\x00
+MID_OP1_#002	Sobald wir dem Dämonendrachen gegenüber-\ntreten, gibt es wohl kein Zurück mehr.\x0E\x04\x02\x00
+MID_OP1_#003	Seid Ihr innerlich bereit und auch ausgerüstet\nfür das, was bevorsteht?\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x0A\x08リュール\nDas Somniel steigt in die Höhe. Bald sollten wir\nSombron erreichen.\x0E\x04\x02\x00
+MID_OP2_#002	Lasst uns diesen Kampf gewinnen und dann\ngemeinsam heimkehren.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x08\x06マルス\nJa. Natürlich...\x0E\x04\x02\x00
+MID_OP2_#004	Ack...
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nMarth! Was geschieht mich Euch?!\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x08\x06マルス\nIch kann es wohl nicht länger verbergen...\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nWas verbergen?!\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x08\x06マルス\nEs gibt etwas, das ich Euch sagen sollte, bevor\nwir ankommen, \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_OP2_#009	Das Portal hat unsere Welt destabilisiert.\x0E\x04\x02\x00
+MID_OP2_#010	Ich habe keinen physischen Körper, ebenso wie\ndie anderen Embleme. Womöglich werden wir\nunsere Form nicht beibehalten können.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\nDavon wusste ich nichts. Ich wünschte, ich\nhätte das bemerkt.\x0E\x04\x02\x00
+MID_OP2_#012	Aber wenn das Portal dafür verantwortlich ist,\nist das nur vorübergehend, richtig?\x0E\x04\x02\x00
+MID_OP2_#013	Nachdem wir es geschlossen haben, könnt Ihr\nund die anderen Embleme Euch erholen.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x08\x06マルス\n...\x0E\x04\x02\x00
+MID_OP2_#015	Wenn sich das Portal schließt, wird es eine\nstarke Verzerrung geben.\x0E\x04\x02\x00
+MID_OP2_#016	Wir werden ihr nicht standhalten können.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08リュール\nWas sagt Ihr da?\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x08\x06マルス\nWenn der Kampf vorüber ist und das Portal\nsich schließt, werden alle Embleme außer\nEuch...\x0E\x04\x02\x00
+MID_OP2_#019	verschwinden.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP2_#021	Ihr meint, wenn wir Sombron bezwingen...\nWenn wir das Portal schließen...\x0E\x04\x02\x00
+MID_OP2_#022	Dann verlieren wir Euch und die anderen\nEmbleme?\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x08\x06マルス\nJa.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x0A\x08リュール\nWir waren die ganze Zeit zusammen und jetzt\nverschwindet Ihr einfach?\x0E\x04\x02\x00
+MID_OP2_#025	Bitte, Marth... Ich will Euch und die anderen\nnicht verlieren! Wir brauchen Euch!\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x02\x08\x06マルス\nDas Portal geöffnet zu lassen, würde diese Welt\ndem Untergang weihen. Wäre Euch das lieber?\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x0A\x08リュール\nNein, aber...\x0E\x04\x02\x00
+MID_OP2_#028	\x0E\x03\x02\x08\x06マルス\nWir Embleme existieren, um diesem Reich zu\nHilfe zu kommen.\x0E\x04\x02\x00
+MID_OP2_#029	Wir würden alles tun, um das Volk von Elyos\nzu beschützen. Selbst wenn es unser Ende\nbedeutet.\x0E\x04\x00\x00
+MID_OP2_#030	\x0E\x03\x02\x0A\x08リュール\nUnser Versprechen, Elyos gemeinsam wieder-\naufzubauen, unser Plan, die Welt zu bereisen...\nNichts davon ist möglich?\x0E\x04\x00\x00
+MID_OP2_#031	\x0E\x03\x02\x08\x06マルス\nEs tut mir so leid, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x0A\x08リュール\nIhr müsst Euch nicht entschuldigen.\x0E\x04\x02\x00
+MID_OP2_#033	Ich habe Euch um viele Versprechen gebeten...\nZu viele.\x0E\x04\x02\x00
+MID_OP2_#034	Aber als ich mir eine Zukunft mit Euch an\nmeiner Seite ausmalte... war ich glücklich.\x0E\x04\x00\x00
+MID_OP2_#035	\x0E\x03\x02\x08\x06マルス\nEs gibt ein Versprechen, das ich immer noch\nhalten kann.\x0E\x04\x02\x00
+MID_OP2_#036	In Lythos, an dem Tag, als Ihr erwacht seid...\nWas sagte ich, als Ihr mich beschworen hattet?\x0E\x04\x02\x00
+MID_OP2_#037	„Ich bin Euer Verbündeter bis zum Schluss“.\x0E\x04\x00\x00
+MID_OP2_#038	\x0E\x03\x02\x0A\x08リュール\nIch erinnere mich.\x0E\x04\x00\x00
+MID_OP2_#039	\x0E\x03\x02\x08\x06マルス\nDieses Versprechen werde ich niemals brechen.\nBis zum Ende des Krieges – und meinem\neigenen – werde ich bei Euch bleiben.\x0E\x04\x00\x00
+MID_OP2_#040	\x0E\x03\x02\x0A\x08リュール\nIhr seid so gütig, Marth. Das wart Ihr von\nAnfang an.\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x02\x08\x06マルス\nIhr ebenfalls. Deshalb sind wir so weit\ngekommen.\x0E\x04\x02\x00
+MID_OP2_#042	Mehr noch als Eure Stärke ist es Eure Fürsorge\nfür andere, die uns alle so weit gebracht hat.\x0E\x04\x00\x00
+MID_OP2_#043	\x0E\x03\x02\x0A\x08リュール\nDanke.\x0E\x04\x00\x00
+MID_OP2_#044	\x0E\x03\x02\x08\x06マルス\nNun gut, seid gewappnet. Bald erreichen wir\ndas Portal.\x0E\x04\x00\x00
+MID_OP2_#045	\x0E\x03\x02\x0A\x08リュール\nIch bin bereit.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08リュール\nDas ist also das Portal zu anderen Welten...\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0A\x08ヴェイル\nEs ist schön, aber... sehr kalt.\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08ソンブル\nIhr beiden. Hier.\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x0A\x08リュール\nSombron!\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x0A\x08ヴェイル\nPapa...\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x02\x0A\x08ソンブル\nIch hatte nicht erwartet, dass ihr überleben\nwürdet, geschweige denn dass ihr zu mir\ngelangen würdet!\x0E\x04\x00\x00
+MID_OP3_#007	\x0E\x03\x02\x0A\x08リュール\nWir sind gekommen, um Euch daran zu hindern,\nElyos zu zerstören.\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x0A\x08ソンブル\nIch bin fertig mit eurer wertlosen Welt. Kehrt\ndorthin zurück und schließt das Portal. Lebt\ndort in Frieden.\x0E\x04\x02\x00
+MID_OP3_#009	Ihr bleibt in eurer Welt und ich mache mich auf\nden Weg zu den anderen Welten. Das sollte\nbeide Seiten zufriedenstellen.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x0A\x08リュール\nIhr werdet zurückkehren und Elyos erneut\nangreifen. Wir werden Euch niemals glauben,\ndass Ihr das nicht tut!\x0E\x04\x02\x00
+MID_OP3_#011	Und Ihr habt zu viel Leid und Verlust zu\nverantworten, um einfach gehen zu dürfen.\x0E\x04\x02\x00
+MID_OP3_#012	Wir werden Euch hier und jetzt bezwingen und\nverhindern, dass Ihr in andere Welten einfallt.\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x0A\x08ソンブル\nHmpf. In andere Welten einfallen... Denkst du\netwa, das wäre alles, was ich mir wünsche?\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x0A\x08リュール\nLiege ich etwa falsch?\x0E\x04\x00\x00
+MID_OP3_#015	\x0E\x03\x02\x0A\x08ソンブル\nEine Invasion ist nur Mittel zum Zweck. Was ich\nwill, ist eine Wiedervereinigung.\x0E\x04\x02\x00
+MID_OP3_#016	Eine Wiedervereinigung mit Emblem Null.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x0A\x08リュール\nEmblem Null?\x0E\x04\x00\x00
+MID_OP3_#018	\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x08\x06マルス\nDavon habe ich noch nie gehört.\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x0A\x08ソンブル\nNatürlich nicht. Dieses Emblem stammt nicht\naus deiner Welt.\x0E\x04\x02\x00
+MID_OP3_#020	Und ich übrigens auch nicht.\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x0A\x08リュール\nWas meint Ihr damit?\x0E\x04\x00\x00
+MID_OP3_#022	\x0E\x03\x02\x0A\x08ソンブル\nJenseits dieses Portals gibt es unendlich viele\nWelten. Eine davon war meine Heimat.\x0E\x04\x02\x00
+MID_OP3_#023	Sie hatte ihre eigenen Emblem-Ringe, und es\nkam zu einem Krieg um die Kontrolle über sie.\x0E\x04\x02\x00
+MID_OP3_#024	Wir haben verloren. Der Feind nutzte die Macht\nder Ringe, um meine Verwandten zu töten.\x0E\x04\x02\x00
+MID_OP3_#025	Alle von ihnen. Doch ich war noch sehr jung.\nUnsere Feinde gewährten nur mir die Gnade\ndes Exils.\x0E\x04\x00\x00
+MID_OP3_#026	\x0E\x03\x02\x08\x06マルス\nIhr meint... sie schickten Euch nach Elyos.\x0E\x04\x00\x00
+MID_OP3_#027	\x0E\x03\x02\x0A\x08ソンブル\nEine friedliche Welt, die von göttlichen Drachen\nregiert wurde. Dort sollte ich ein beschauliches\nLeben führen.\x0E\x04\x02\x00
+MID_OP3_#028	Doch ich brachte etwas mit, wovon sie nichts\nwussten. Einen einzelnen Emblem-Ring.\x0E\x04\x00\x00
+MID_OP3_#029	\x0E\x03\x02\x0A\x08リュール\nEmblem Null.\x0E\x04\x00\x00
+MID_OP3_#030	\x0E\x03\x02\x0A\x08ソンブル\nIn meiner Welt kannte man es als „Emblem des\nUrsprungs“. Es hatte meine Macht und war\nnicht in der Lage zu sprechen.\x0E\x04\x02\x00
+MID_OP3_#031	Der Legende nach kämpfte dieses Emblem\nohne fremde Hilfe. So viel Ehrgeiz – und keine\nVerbündeten.\x0E\x04\x02\x00
+MID_OP3_#032	Diese Geschichte zeigte mir in meiner völligen\nAbgeschiedenheit einen Weg nach vorne.\x0E\x04\x02\x00
+MID_OP3_#033	Ich war gefangen in dieser Welt ohne Freunde\noder Verwandte. Nur jenes Emblem spendete\nmir Trost.\x0E\x04\x00\x00
+MID_OP3_#034	\x0E\x03\x02\x08\x06マルス\nWer auch immer das war, muss sehr mächtig\ngewesen sein.\x0E\x04\x02\x00
+MID_OP3_#035	Ein Emblem ist für gewöhnlich nicht in der\nLage, die Reise zwischen Welten zu überleben.\x0E\x04\x02\x00
+MID_OP3_#036	Seine Form in einer neuen Welt beizubehalten,\nund sei es nur für wenige Augenblicke... Von\nsolch einer Macht habe ich noch nie gehört.\x0E\x04\x00\x00
+MID_OP3_#037	\x0E\x03\x02\x0A\x08リュール\nUnd jetzt wollt Ihr eine Wiedervereinigung.\nDieses Emblem ist also fort.\x0E\x04\x00\x00
+MID_OP3_#038	\x0E\x03\x02\x0A\x08ソンブル\nGenau – und alles wegen der Dorfbewohner, die\nmich einige Jahre nach meiner Ankunft fanden.\x0E\x04\x02\x00
+MID_OP3_#039	Sie hielten mich für ein Findelkind. Sie hatten\nMitleid mit mir – meine ersten Bezugspersonen\nin deiner Welt.\x0E\x04\x02\x00
+MID_OP3_#040	Kurz darauf verließ mich das Emblem und ließ\nnur den Ring zurück.\x0E\x04\x02\x00
+MID_OP3_#041	Und warum? Um eine Bindung zu den Bewoh-\nnern dieser Welt einzugehen. Ich verzweifelte,\nund dann...\x0E\x04\x02\x00
+MID_OP3_#042	Dann legte ich ihr Dorf in Schutt und Asche.\x0E\x04\x00\x00
+MID_OP3_#043	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP3_#044	\x0E\x03\x02\x0A\x08ソンブル\nIch schwor mir, alle Bindungen zu lösen, um\nmeine Ziele zu verfolgen. So, wie mein Emblem\nes getan hatte.\x0E\x04\x02\x00
+MID_OP3_#045	Ich kämpfte allein, vertraute niemandem und\nbereitete mich auf meine Rückkehr in meine\nWelt vor. Um Rache zu üben.\x0E\x04\x02\x00
+MID_OP3_#046	Ich brauchte Erfüllungsgehilfen für meinen\nPlan – und Land. Ich verbrachte Jahre damit,\nbeides anzuhäufen. Dann griff ich an.\x0E\x04\x00\x00
+MID_OP3_#047	\x0E\x03\x02\x0A\x08リュール\nDer Krieg vor tausend Jahren... Darum ging es\nalso?\x0E\x04\x00\x00
+MID_OP3_#048	\x0E\x03\x02\x0A\x08ヴェイル\nAber Papa, Ihr wart auf dieser Welt nicht allein.\x0E\x04\x02\x00
+MID_OP3_#049	Mama hat Euch sehr geliebt. Eure Anhänger,\nEure Getreuen, meine Geschwister...\x0E\x04\x02\x00
+MID_OP3_#050	Zephia, Griss, Marni, Mauvier... Mein Bruder und\nich! Alles, was wir taten, taten wir für Euch!\x0E\x04\x00\x00
+MID_OP3_#050_F	Zephia, Griss, Marni, Mauvier... Meine Schwester\nund ich! Alles, was wir taten, taten wir für Euch!\x0E\x04\x00\x00
+MID_OP3_#051	\x0E\x03\x02\x0A\x08ソンブル\nWie ich bereits sagte – Erfüllungsgehilfen, die\neinzig und allein nach meinen Befehlen\ngehandelt haben.\x0E\x04\x02\x00
+MID_OP3_#052	Mit dem einzigen Zweck, benutzt und entsorgt\nzu werden. Ihr Tod hat keinerlei Bedeutung.\x0E\x04\x00\x00
+MID_OP3_#053	\x0E\x03\x02\x0A\x08ヴェイル\nDeshalb habt Ihr sie alle getötet... Aber was\nist mit uns? Wolltet Ihr, dass wir sterben?\x0E\x04\x00\x00
+MID_OP3_#054	\x0E\x03\x02\x0A\x08ソンブル\nIhr wart für mich genau wie die anderen.\x0E\x04\x00\x00
+MID_OP3_#055	\x0E\x03\x02\x0A\x08ヴェイル\nWie... grausam.\x0E\x04\x00\x00
+MID_OP3_#056	\x0E\x03\x02\x0A\x08リュール\nIhr müsst Euch irren, was Euer Emblem angeht.\nEs hat Euch nicht im Stich gelassen.\x0E\x04\x00\x00
+MID_OP3_#057	\x0E\x03\x02\x0A\x08ソンブル\nWas?\x0E\x04\x00\x00
+MID_OP3_#058	\x0E\x03\x02\x0A\x08リュール\nEin einsamer Krieger wie dieses Emblem weiß\ngenau, wie schwer es ist, allein zu sein.\x0E\x04\x02\x00
+MID_OP3_#059	Es wäre bei Euch geblieben, um Euch diese\nEinsamkeit im Exil zu ersparen.\x0E\x04\x02\x00
+MID_OP3_#060	Bis Ihr nicht mehr allein wart und neue Leute in\nEurem Leben hattet. Bis es Euch wieder gut\nging.\x0E\x04\x02\x00
+MID_OP3_#061	Glaubt Ihr nicht – mehr als jeder andere – dass\nein wahrer Freund wie dieser, sich für Euch\njene Bindungen gewünscht hätte?\x0E\x04\x00\x00
+MID_OP3_#062	\x0E\x03\x02\x0A\x08ソンブル\nDu weißt nichts über mein Emblem – rein gar\nnichts.\x0E\x04\x00\x00
+MID_OP3_#063	\x0E\x03\x02\x0A\x08リュール\nDas stimmt. Aber wenn Euer Emblem ohne ein\nWort verschwunden ist...\x0E\x04\x02\x00
+MID_OP3_#064	Dann wisst auch Ihr nicht, weshalb. Niemand\nweiß es.\x0E\x04\x00\x00
+MID_OP3_#065	\x0E\x03\x02\x0A\x08ソンブル\nEin weiterer Grund für die Wiedervereinigung!\nIch werde eine Welt nach der anderen\ndurchforsten!\x0E\x04\x00\x00
+MID_OP3_#066	\x0E\x03\x02\x08\x06マルス\nSombron. Das Emblem des Ursprungs existiert\nnicht mehr.\x0E\x04\x02\x00
+MID_OP3_#067	Ihr könnt suchen, solange Ihr wollt – es ist\nzwecklos.\x0E\x04\x02\x00
+MID_OP3_#068	Vielleicht findet Ihr den Helden selbst. Aber\nEmbleme sind nicht dieselben Wesen. Wir sind\nnicht identisch mit ihnen.\x0E\x04\x02\x00
+MID_OP3_#069	Ihr werdet nicht mit Eurem Emblem wieder-\nvereint werden – nie wieder.\x0E\x04\x00\x00
+MID_OP3_#070	\x0E\x03\x02\x0A\x08ソンブル\nSeid still.\x0E\x04\x00\x00
+MID_OP3_#071	\x0E\x03\x02\x0A\x08リュール\nIch kann Eure Verbitterung nur erahnen. Aber\nso viele andere zu opfern...\x0E\x04\x02\x00
+MID_OP3_#072	So egoistisch zu sein, die Welt zu zerstören?\nEure eigenen Kinder zu töten?! Das ist einfach\nnur falsch.\x0E\x04\x00\x00
+MID_OP3_#073	\x0E\x03\x02\x0A\x08ソンブル\nSeid still, habe ich gesagt! Ihr sprecht über\nDinge, von denen ihr nichts versteht!\x0E\x04\x02\x00
+MID_OP3_#074	Ohne mein Emblem wäre ich machtlos\ngestorben. Kümmerlich.\x0E\x04\x02\x00
+MID_OP3_#075	Das Emblem war stark genug, allein zu\nbestehen! Im Gegensatz zu euch, die ihr euch\nzusammenkauert wie winselnde Hunde.\x0E\x04\x02\x00
+MID_OP3_#076	Dieser Krieger hat mir die Bedeutung allen\nDaseins gezeigt – allein zu kämpfen und Rache\nzu nehmen!\x0E\x04\x00\x00
+MID_OP3_#077	\x0E\x03\x02\x08\x06マルス\nIhr irrt Euch. Das ist unmöglich. Kein Emblem\nwill, dass eine Welt zerstört wird.\x0E\x04\x02\x00
+MID_OP3_#078	Wir helfen den Leuten durch unsere Bande mit\nden Wyrmgöttern. Wir sind Kräfte des Guten!\x0E\x04\x02\x00
+MID_OP3_#079	Wir würden uns niemals dafür entscheiden, dass\nunsere Macht für das Böse missbraucht wird.\x0E\x04\x00\x00
+MID_OP3_#080	\x0E\x03\x02\x0A\x08ソンブル\nSchluss jetzt mit diesem Unsinn! Ich werde nicht\nzulassen, dass ihr mich aufhaltet – oder meine\nAbsichten infrage stellt!\x0E\x04\x02\x00
+MID_OP3_#081	Ich habe Jahrtausende darauf hingearbeitet.\nWenn ihr mir im Weg stehen wollt, werdet ihr\nsterben.\x0E\x04\x00\x00
+MID_OP3_#082	\x0E\x03\x02\x0A\x08リュール\nEs ist so weit. Macht Euch alle kampfbereit!\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x00\x06\x04ST\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ソンブル\x024\n\x0E\x03\x02\x0A\x08ソンブル\nDu wagst es, dein Schwert gegen mich zu erheben?\nDich gegen meinen lang gehegten Wunsch zu stellen?\x0E\x04\x02\x00
+MID_OP4_#002	Welch Überheblichkeit. Dafür sollst du bezahlen.\nSieh selbst, wie zerbrechlich eure Bande sind!\x0E\x04\x00\x00
+MID_OP4_#003	\x0E\x03\x02\x08\x06マルス\nNnng... Ah!\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x0A\x08リュール\nHm?!\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x02\x0A\x08ヴェイル\nWas geschieht mit ihnen?!\x0E\x04\x00\x00
+MID_OP4_#006	\x0E\x03\x02\x0A\x08ソンブル\nIch versiegle das Portal zu eurer Welt. Das hätte\nich sofort tun sollen, als ihr hier aufgetaucht seid.\x0E\x04\x02\x00
+MID_OP4_#007	Eure Embleme sind wohl zu schwach. Sie werden\nin den dimensionalen Verzerrungen verloren gehen.\x0E\x04\x00\x00
+MID_OP4_#008	\x0E\x03\x02\x0A\x08リュール\nHm?\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x02\x08\x06マルス\nDas kann nicht...\nDas kann nicht das Ende sein, \x0E\x06\x03\x00...\x0E\x04\x02\x00
+MID_OP4_#010	Wenn wir uns trennen müssen,\nerinnert Euch an alles, was wir getan haben...
+MID_OP4_#011	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x02\x0A\x08リュール\nMarth!\x0E\x04\x00\x00
+MID_OP4_#012	\x0E\x03\x02\x0A\x08ヴェイル\nDie Embleme...\x0E\x04\x00\x00
+MID_OP4_#013	\x0E\x03\x02\x0A\x08リュール\nIch wusste, wir würden uns einst trennen müssen...\naber ich dachte, wir hätten mehr Zeit.\x0E\x04\x00\x00
+MID_OP4_#014	\x0E\x03\x02\x0A\x08ソンブル\nSo viel zu euren Emblemen. Nicht mehr lange,\ndann ist das Portal für immer geschlossen.\x0E\x04\x02\x00
+MID_OP4_#015	Tröstet euch. Ich werde eurer Welt\nnicht weiter schaden.\x0E\x04\x00\x00
+MID_OP4_#015_2	Aber ihr werdet hier so sterben, wie ich gelebt\nhabe: qualvoll und fern der Heimat.\x0E\x04\x00\x00
+MID_OP4_#016	\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWir können nie wieder... heimkehren?\x0E\x04\x00\x00
+MID_OP4_#017	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nIch war von Anfang an auf den Tod vorbereitet.\nBrodia, mein Land, ich bete für dich.\x0E\x04\x00\x00
+MID_OP4_#018	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08アイビー\x023\n\x0E\x03\x02\x0A\x08アイビー\nEs scheint, als würde Elusia...\nmein wahres Ich niemals kennenlernen.\x0E\x04\x00\x00
+MID_OP4_#019	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nEs tut mir leid, Mutter.\x0E\x04\x00\x00
+MID_OP4_#020	\x0E\x03\x01\x0C\nミスティラ\n\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x02\x0A\x08ソンブル\nKeine Sorge. Ich habe nicht vor,\neuer Leiden unnötig in die Länge zu ziehen.\x0E\x04\x02\x00
+MID_OP4_#021	Wenn ich fertig bin, bleibt in eurer Welt keine\nSpur von mir. Als wäre ich nie dort gewesen.\x0E\x04\x00\x00
+MID_OP4_#022	\x0E\x03\x02\x0A\x08リュール\nIch werde Euch aufhalten.\x0E\x04\x00\x00
+MID_OP4_#023	\x0E\x03\x02\x0A\x08ソンブル\nOh, wirklich?\x0E\x04\x00\x00
+MID_OP4_#024	\x0E\x03\x02\x0A\x08リュール\nEs ist noch nicht vorbei. Das Portal ist offen. Wenn\nich alles gebe, kann ich die Embleme zurückrufen!\x0E\x04\x02\x00
+MID_OP4_#025	Wir haben so viel erreicht. Bekämpft Ihr ihn an\nmeiner Seite? Euer Glaube verleiht mir Kraft!\x0E\x04\x00\x00
+MID_OP4_#026	\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x0A\x08ヴェイル\nJa, Bruder! Ich bin bei dir!\x0E\x04\x00\x00
+MID_OP4_#026_F	\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x0A\x08ヴェイル\nJa, Schwester! Ich bin bei dir!\x0E\x04\x00\x00
+MID_OP4_#027	\x0E\x03\x02\x0A\x08リュール\nVeyle...\x0E\x04\x00\x00
+MID_OP4_#028	\x0E\x03\x02\x0A\x08ヴェイル\nIch bleibe an deiner Seite. Ich kann keine Embleme\nbeschwören oder mich in einen Drachen verwandeln.\x0E\x04\x02\x00
+MID_OP4_#029	Aber ich bin immer noch ein königlicher Drache!\nEs muss etwas geben, was ich tun kann.\x0E\x04\x00\x00
+MID_OP4_#030	\x0E\x03\x02\x0A\x08リュール\nJa!\x0E\x04\x00\x00
+MID_OP4_#031	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWir stehen alle an Eurer Seite!\x0E\x04\x02\x00
+MID_OP4_#032	Ihr habt so viel für jeden von uns getan!\nNun ist es an uns, den Gefallen zu erwidern!\x0E\x04\x00\x00
+MID_OP5_Vandre1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche... Sollte ich hier fallen, so wisset,\ndass ich stolz bin, als Euer Ritter zu sterben!\x0E\x04\x00\x00
+MID_OP5_Clan1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x16\x06クラン\x0CStatus\n\x0E\x03\x02\x08\x06クラン\nIhr könnt es schaffen! Seit dem Tag, an dem Ihr\naufgewacht seid, wusste ich, dass Ihr die Welt\nretten würdet!\x0E\x04\x00\x00
+MID_OP5_Fram1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x18\x06フラン\x0EStandBy\n\x0E\x03\x02\x08\x06フラン\nDer Moment der Wahrheit ist gekommen! Als ein\nTeil der 33. Drachenbehüter muss ich helfen!\x0E\x04\x00\x00
+MID_OP5_Alfred1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWir haben diese Reise gemeinsam begonnen –\nlasst sie uns nun gemeinsam beenden! Möge\nunsere Welt gedeihen, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche!\x0E\x04\x00\x00
+MID_OP5_Etie1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエーティエ\x02t\n\x0E\x05\x01\x18\nエーティエ\nSmile\n\x0E\x03\x02\x0C\nエーティエ\nWir sind auf der Zielgeraden! Wenn Ihr müde\nwerdet, sind wir hier, um Euch zu unterstützen!\x0E\x04\x00\x00
+MID_OP5_Boucheron1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nブシュロン\x02t\n\x0E\x05\x01\x1C\nブシュロン\x0EStandBy\n\x0E\x03\x02\x0C\nブシュロン\nIch hebe mir meine Tränen für Eure Siegesrede\nauf. Unser Weg ist so klar vorgezeichnet, dass\nnicht einmal ich mich verlaufen kann!\x0E\x04\x00\x00
+MID_OP5_Celine1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x16\x08セリーヌ\nAngry\n\x0E\x03\x02\x0A\x08セリーヌ\nAlle Blumen müssen blühen... Für Euch werde\nich ein sanfter Regen und ein Lichtstrahl sein!\x0E\x04\x00\x00
+MID_OP5_Chloe1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロエ\x02t\n\x0E\x05\x01\x18\x06クロエ\x0EStandBy\n\x0E\x03\x02\x08\x06クロエ\nDies ist der Abschnitt der Geschichte, in dem\nwir in die Dunkelheit fallen oder zum Licht\nemporsteigen. Greifen wir nach dem Licht!\x0E\x04\x00\x00
+MID_OP5_Louis1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ルイ\x02t\n\x0E\x05\x01\x16\x04ルイ\x0EStandBy\n\x0E\x03\x02\x06\x04ルイ\nKämpft weiter, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Lasst uns Euch und\ndie Embleme noch einmal zusammenführen.\x0E\x04\x00\x00
+MID_OP5_Yunaka1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ユナカ\x02t\n\x0E\x05\x01\x14\x06ユナカ\nSmile\n\x0E\x03\x02\x08\x06ユナカ\nIch könnte die Embleme imitieren, aber das\nwäre nicht dasselbe. Also lasst sie uns\nzurückholen!\x0E\x04\x00\x00
+MID_OP5_Staluke1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02t\n\x0E\x05\x01\x18\nスタルーク\nRelax\n\x0E\x03\x02\x0C\nスタルーク\nIch mache mir Sorgen... aber Ihr werdet meine\nUnterstützung nicht brauchen. Ich weiß, dass\nIhr das für uns schafft.\x0E\x04\x00\x00
+MID_OP5_Citrinica1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x18\nシトリニカ\nAngry\n\x0E\x03\x02\x0C\nシトリニカ\nIch nehme an, dass Reichtum zu einem solchen\nZeitpunkt keine große Hilfe ist... aber ich werde\naus vollem Herzen beten!\x0E\x04\x00\x00
+MID_OP5_Lapis1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x14\x06ラピス\nSmile\n\x0E\x03\x02\x08\x06ラピス\nIhr könnt es schaffen, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Unterlegene\nfinden immer dann zu großer Stärke, wenn sie\nsie am meisten brauchen – vertraut mir!\x0E\x04\x00\x00
+MID_OP5_Diamand1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Dies ist für Vater... und all die\nSoldaten, die auf dem Weg gefallen sind.\x0E\x04\x00\x00
+MID_OP5_Umber1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アンバー\x02t\n\x0E\x05\x01\x16\x08アンバー\nAngry\n\x0E\x03\x02\x0A\x08アンバー\nNutzt meine Stärke, meinen Mut, was Ihr wollt!\nEs ist mir egal, ob ich zur Legende werde oder\nnicht. Es zählt nur, dass wir gewinnen!\x0E\x04\x00\x00
+MID_OP5_Jade1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ジェーデ\x02t\n\x0E\x05\x01\x16\x08ジェーデ\nSmile\n\x0E\x03\x02\x0A\x08ジェーデ\nDie letzte Seite unserer Geschichte endet mit\nSonnenlicht... und mit \x0E\x0A\x00\x18\neinem\neiner siegreichen\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin.\x0E\x04\x00\x00
+MID_OP5_Ivy1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08アイビー\x02t\n\x0E\x05\x01\x1A\x08アイビー\x0EStandBy\n\x0E\x03\x02\x0A\x08アイビー\nIhr wart stets die Quelle meiner Kraft. Macht\nEuch meinen Glauben, nur dieses eine Mal, zu\neigen!\x0E\x04\x00\x00
+MID_OP5_Kagetsu1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カゲツ\x02t\n\x0E\x05\x01\x14\x06カゲツ\nSmile\n\x0E\x03\x02\x08\x06カゲツ\nIn dieser Situation ist es wie in jeder anderen\nauch. Mein Glaube an Euch geriet nicht ein\neinziges Mal ins Wanken!\x0E\x04\x00\x00
+MID_OP5_Zelkova1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ゼルコバ\x02t\n\x0E\x05\x01\x1A\x08ゼルコバ\x0EStandBy\n\x0E\x03\x02\x0A\x08ゼルコバ\nMüssen wir so... melodramatisch... sein? Ich\nglaube, für \x0E\x0A\x008\x18den Wyrmgott\x1Cdie Wyrmgöttin kann ich eine\nAusnahme machen.\x0E\x04\x00\x00
+MID_OP5_Fogato1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nフォガート\x02t\n\x0E\x05\x01\x18\nフォガート\nSmile\n\x0E\x03\x02\x0C\nフォガート\nHahaha, glaubt Ihr, wir können das Blatt\nwenden? Das liebe ich an Euch, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche!\x0E\x04\x00\x00
+MID_OP5_Pandoro1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パンドロ\x02t\n\x0E\x05\x01\x18\x08パンドロ\x0CStrike\n\x0E\x03\x02\x0A\x08パンドロ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Embleme. Wenn ich ein Gebet\nsprechen darf... Möge ich gesegnet sein,\nEuch heute zum Sieg zu verhelfen.\x0E\x04\x00\x00
+MID_OP5_Bonet1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ボネ\x02t\n\x0E\x05\x01\x14\x04ボネ\x0CStatus\n\x0E\x03\x02\x06\x04ボネ\nDer Sieg wird nach der Bitterkeit des Krieges\nnur allzu süß schmecken. Bitte gestattet mir,\neinen Triumph zu servieren.\x0E\x04\x00\x00
+MID_OP5_Misutira1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nミスティラ\x02t\n\x0E\x05\x01\x18\nミスティラ\nSmile\n\x0E\x03\x02\x0C\nミスティラ\nJetzt nur nicht den Mut verlieren! Gehen wir\nerhobenen Hauptes voran! Wir glauben an Euch\nund werden gewinnen. Ganz einfach!\x0E\x04\x00\x00
+MID_OP5_Panetone1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08パネトネ\x02t\n\x0E\x05\x01\x18\x08パネトネ\x0CStrike\n\x0E\x03\x02\x0A\x08パネトネ\nOh ja, es geht los! Das ist er! Der letzte Kampf!\nSchreiten wir voran und radieren den Feind aus!\x0E\x04\x00\x00
+MID_OP5_Merin1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06メリン\x02t\n\x0E\x05\x01\x16\x06メリン\x0CStatus\n\x0E\x03\x02\x08\x06メリン\nIhr seid unfassbar lässig, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Und alle\nanderen hier auch. So verlieren wir auf keinen\nFall!\x0E\x04\x00\x00
+MID_OP5_Hortensia1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x02t\n\x0E\x05\x01\x1A\x0Cオルテンシア\nAngry\n\x0E\x03\x02\x0E\x0Cオルテンシア\nKeine Traurigkeit mehr, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Ich habe sie\nso satt! Sorgen wir dafür, dass alle das hier\nüberstehen. Ich glaube an Euch!\x0E\x04\x00\x00
+MID_OP5_Seadas1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08セアダス\x02t\n\x0E\x05\x01\x16\x08セアダス\nSmile\n\x0E\x03\x02\x0A\x08セアダス\nWenn Ihr Euren Glauben in den Mond und die\nSterne setzt, werden unsere geliebten Embleme\nzurückkehren!\x0E\x04\x00\x00
+MID_OP5_Rosado1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ロサード\x02t\n\x0E\x05\x01\x16\x08ロサード\nSmile\n\x0E\x03\x02\x0A\x08ロサード\nMeine Siegeszeichnung ist ohne die Embleme\nunvollkommen, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Holt sie uns zurück!\x0E\x04\x00\x00
+MID_OP5_Goldmary1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cゴルドマリー\x02t\n\x0E\x05\x01\x16\x0Cゴルドマリー\x06Shy\n\x0E\x03\x02\x0E\x0Cゴルドマリー\nEs tut mir leid, dass die anderen die Sache\nherauszögern. Wir wissen beide, dass mein\nGlaube an Euch bereits genügt.\x0E\x04\x00\x00
+MID_OP5_Linden1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リンデン\x02t\n\x0E\x05\x01\x16\x08リンデン\nSmile\n\x0E\x03\x02\x0A\x08リンデン\nIhr habt bereits so manches Wunder vollbracht.\nNatürlich glaube ich an Euch. Zweifelt niemals\ndaran.\x0E\x04\x00\x00
+MID_OP5_Saphir1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nザフィーア\x02t\n\x0E\x05\x01\x1A\nザフィーア\x0CStatus\n\x0E\x03\x02\x0C\nザフィーア\nEine letzte Anstrengung für den Sieg! Holt die\nEmbleme zurück, damit wir es schaffen können!\x0E\x04\x00\x00
+MID_OP5_Veyre1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x1A\x08ヴェイル\x0EStandBy\n\x0E\x03\x02\x0A\x08ヴェイル\nAls deine Schwester und als Dämonendrache\nwerde ich alles Nötige tun, um dir zu helfen,\nPapa aufzuhalten!\x0E\x04\x00\x00
+MID_OP5_Mauve1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nAllen Glauben, der in meinem Herzen verbleibt,\nschenke ich Euch.\x0E\x04\x00\x00
+MID_OP5_Anna1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x18\x06アンナ\x0EStandBy\n\x0E\x03\x02\x08\x06アンナ\nHeute gibt es einen Rabatt von 100 Prozent auf\ndie Unterstützungsdienste von Lady Anna! Ein\neinmaliges Angebot! Keine Rückerstattung!\x0E\x04\x00\x00
+MID_OP5_Jean1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ジャン\x02t\n\x0E\x05\x01\x16\x06ジャン\x0CStrike\n\x0E\x03\x02\x08\x06ジャン\nIch will, dass wir alle lebendig nach Hause\nzurückkehren. Seid stark, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Ich glaub\nan Euch!\x0E\x04\x00\x00
+MID_OP6_#001	\x0E\x02\x00\x06\x04ST\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x04\x03\x04
+MID_OP6_#002	\x0E\x03\x02\x0A\x08ソンブル\nIhr Narren. Eure Bemühungen sind\nebenso zwecklos wie erbärmlich!\x0E\x04\x00\x00
+MID_OP6_#003	\x0E\x03\x02\x0A\x08リュール\nBitte, meine Freunde, ich brauche Euch alle... ein\nletztes Mal. Verbündet Euch noch einmal mit uns!\x0E\x04\x02\x00
+MID_OP6_#004	Strahle hell, Emblem der Anfänge – Marth!
+MID_OP6_#005	\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x0A\x08リュール\nStehe uns bei, Emblem von Echoes – Celica!
+MID_OP6_#006	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x0C\x06セリカ\x023\n\x0E\x03\x02\x0A\x08リュール\nUnterstütze uns,\nEmblem von Holy War – Sigurd!
+MID_OP6_#007	\x0E\x03\x01\x08\x06セリカ\n\x0E\x03\x00\x0E\x08シグルド\x023\n\x0E\x03\x02\x0A\x08リュール\nBefreie uns, Emblem von Genealogy – Leif!
+MID_OP6_#008	\x0E\x03\x01\x0A\x08シグルド\n\x0E\x03\x00\x0C\x06リーフ\x023\n\x0E\x03\x02\x0A\x08リュール\nErhebe dich, Emblem von Binding – Roy!
+MID_OP6_#009	\x0E\x03\x01\x08\x06リーフ\n\x0E\x03\x00\x0A\x04ロイ\x023\n\x0E\x03\x02\x0A\x08リュール\nWehe herüber, Emblem von Blazing – Lyn!
+MID_OP6_#010	\x0E\x03\x01\x06\x04ロイ\n\x0E\x03\x00\x0A\x04リン\x023\n\x0E\x03\x02\x0A\x08リュール\nBringe Ruhe zurück, Emblem von Sacred –\nEirika!
+MID_OP6_#011	\x0E\x03\x01\x06\x04ロイ\n\x0E\x03\x00\x10\nエイリーク\x023\n\x0E\x03\x02\x0A\x08リュール\nKämpfe tapfer, Emblem von Radiance – Ike!
+MID_OP6_#012	\x0E\x03\x01\x0C\nエイリーク\n\x0E\x03\x00\x0C\x06アイク\x023\n\x0E\x03\x02\x0A\x08リュール\nHeile uns, Emblem von Dawn – Micaiah!
+MID_OP6_#013	\x0E\x03\x01\x08\x06アイク\n\x0E\x03\x00\x0C\x06ミカヤ\x023\n\x0E\x03\x02\x0A\x08リュール\nEntflamme uns, Emblem von Awakening –\nLucina!
+MID_OP6_#014	\x0E\x03\x01\x08\x06ミカヤ\n\x0E\x03\x00\x0C\x06ルキナ\x023\n\x0E\x03\x02\x0A\x08リュール\nZeig deine Fänge, Emblem von Fates – Corrin!
+MID_OP6_#015	\x0E\x03\x01\x08\x06ルキナ\n\x0E\x03\x00\x0C\x06カムイ\x023\n\x0E\x03\x02\x0A\x08リュール\nLehre uns, Emblem der Akademie – Byleth!
+MID_OP6_#016	\x0E\x03\x01\x08\x06カムイ\n\x0E\x03\x00\x0C\x06ベレト\x023\n\x0E\x03\x02\x0A\x08リュール\nUnd natürlich, das finale Emblem...\x0E\x04\x02\x00
+MID_OP6_#017	Verbinde uns, Fire Emblem – \x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP6_#018	\x0E\x03\x01\x08\x06ベレト\n\x0E\x03\x02\x0A\x08ソンブル\nWas...\x0E\x04\x00\x00
+MID_OP6_#019	\x0E\x03\x02\x0A\x08リュール\nWir 13 Embleme und ihre Verbündeten treten\nEuch entgegen. Die Zukunft mag uns getrennt sehen.\x0E\x04\x02\x00
+MID_OP6_#020	Doch hier und jetzt kämpfen wir vereint.\nDieser Kampf, dieser Moment ist alles, was zählt.\x0E\x04\x00\x00
+MID_OP6_#021	\x0E\x03\x02\x0A\x08ソンブル\nUnsinn. Ihr seid nichts als ein Glimmen.\nEin verlöschendes Licht. Ihr seid rein gar nichts!\x0E\x04\x02\x00
+MID_OP6_#022	Je tiefer eure Bande, umso größer der Schmerz,\nwenn diese Bande zu Staub zerfallen.\x0E\x04\x02\x00
+MID_OP6_#022_2	Was fügt ihr euch selbst solchen Schmerz zu?\nWarum lasst ihr diese Schwäche zu?\x0E\x04\x02\x00
+MID_OP6_#023	Gib auf und stirb, mein törichtes Kind!\x0E\x04\x00\x00
+MID_OP6_#024	\x0E\x03\x02\x0A\x08リュール\nJa. Ihr seht in mir ein Kind. Töricht und schwach.\nUnd vielleicht habt Ihr recht. Vielleicht bin ich das.\x0E\x04\x02\x00
+MID_OP6_#025	Doch ich bin nicht allein! Und wir sind stärker,\nwenn wir zusammenstehen!\x0E\x04\x02\x00
+MID_OP6_#026	Zerbrochene Bande schmerzen, doch sie kommen\numso stärker zurück und bringen noch mehr Hoffnung!\x0E\x04\x02\x00
+MID_OP6_#027	Wenn man will, kann man jedes Band wiederbeleben.\nUnd das werde ich tun, immer und immer wieder!\x0E\x04\x02\x00
+MID_OP6_#028	Ihr werdet diesen Ort nicht verlassen.\nDenn wir werden Euch aufhalten!\x0E\x04\x02\x00
+MID_OP6_#029	Macht Euch bereit, Sombron! Dies ist das Ende!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ソンブル\x02b\n\x0E\x05\x01&\x18M026_ソンブル_人型\nAngry\n\x0E\x03\x02\x0A\x08ソンブル\nDu hast so hart gekämpft und bist so weit\ngereist, nur um zu sterben?\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01(\x18M026_ソンブル_人型\x0CNormal\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nDu bist armselig.\x0E\x04\x02\x00
+MID_BT2_#002	Und als ob es noch nicht genug wäre, mich zu\nverschmähen, um \x0E\x0A\x00:\x18ein Wyrmgott\x1Eeine Wyrmgöttin zu werden...\nVatermord? Unverzeihlich.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nIhr habt Eure eigenen Kinder getötet und wolltet\ndie Welt zerstören – nur für Eure egoistischen\nWünsche.\x0E\x04\x02\x00
+MID_BT2_#004	Ihr seid derjenige, der Unverzeihliches getan\nhat.\x0E\x04\x00\x00
+MID_BT2_#005	\x0E\x05\x01&\x18M026_ソンブル_人型\nAngry\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nWie ich bereits sagte – deine Welt hat keinerlei\nBedeutung für mich. Ihre Bewohner, meine\nKinder... du.\x0E\x04\x02\x00
+MID_BT2_#006	Sobald ich von hier fortgehe, werde ich dich\nvergessen. Selbst wenn wir uns wiederträfen,\nwürde ich mich nicht an dein Gesicht erinnern.\x0E\x04\x00\x00
+MID_BT2_#007	\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMit anderen Worten: Ihr werdet dieselben Fehler\nerneut begehen. Wer von uns ist also armselig?\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08ヴェイル\x02t\n\x0E\x05\x01\x12\x08ヴェイル\x06Sad\n\x0E\x03\x02\x0A\x08ヴェイル\nPapa...\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01&\x18M026_ソンブル_人型\nAngry\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nOh, der Fehlgriff. Ich dachte, ich wäre dich los,\nund doch bist du hier.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x16\x08ヴェイル\nSmile\n\x0E\x03\x02\x0A\x08ヴェイル\nHehe.\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nDu lachst.\x0E\x04\x00\x00
+MID_BT3_#005	\x0E\x03\x02\x0A\x08ヴェイル\nIhr seid wütend, weil ich durchgehalten und\nüberlebt habe. Das fühlt sich beinahe wie ein\nLob an.\x0E\x04\x02\x00
+MID_BT3_#006	\x0E\x05\x01\x12\x08ヴェイル\x06Sad\nWir haben nie Zeit als Vater und Tochter\nmiteinander verbracht, wie ich es mir\ngewünscht habe.\x0E\x04\x02\x00
+MID_BT3_#007	\x0E\x05\x01\x16\x08ヴェイル\nAngry\nAber ich bin froh, dass ich nicht aufgegeben\nhabe. Ich habe es geschafft. Denn jetzt kann ich\ndiejenige sein, die Euch bezwingt.\x0E\x04\x00\x00
+MID_BT3_#008	\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nDu bist ein niederträchtiges Kind. Nichts\nanderes erwarte ich von meinen Nachkommen.\x0E\x04\x00\x00
+MID_BT3_#009	\x0E\x05\x01\x18\x08ヴェイル\x0CStrike\n\x0E\x03\x02\x0A\x08ヴェイル\nIch hoffe, Ihr seht zu, Mama. Ich werde ihn\naufhalten – so, wie Ihr es mir gesagt habt.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01&\x18M026_ソンブル_人型\nSmile\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nHehehe! Es ist noch nicht vorbei.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x05\x01*\x18M026_ソンブル_人型\x0EStandBy\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nAus dem Weg, ihr Würmer!\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nSombron hat Verstärkung gerufen! Aber wer ist\ndas?\x0E\x04\x00\x00
+MID_EV2_#002	\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x06\x00>\x18M026_ソンブル_人型"MPID_SombreDragon\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nDachtet ihr, ich hätte untätig herumgesessen\nund nur auf euch gewartet?\x0E\x04\x02\x00
+MID_EV2_#003	Ich konnte mein Emblem nicht zurückholen,\naber dafür habe ich andere beschworen, deren\nMacht ebenbürtig ist.\x0E\x04\x02\x00
+MID_EV2_#004	Dunkle Embleme, die einst ihre Welten ins\nVerderben stürzten.\x0E\x04\x00\x00
+MID_EV2_#005	\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nDunkle Embleme?\x0E\x04\x00\x00
+MID_EV2_#006	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0C\x06マルス\x02t\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nDiese Präsenz... Sie ist so vertraut. Ja. Dies\nmüssen die Gegner sein, die wir in unserer\nursprünglichen Form bekämpft haben.\x0E\x04\x02\x00
+MID_EV2_#007	Vielleicht sollten wir jedes Emblem seinem\neigenen Gegner zuordnen. Aber ich kann nicht\nausmachen, wer wer ist...\x0E\x04\x02\x00
+MID_EV2_#008	Wir sollten näher heranrücken. Aber vorsichtig.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDer Schild ist weg! Jetzt ist unsere Chance!\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x06\x00>\x18M026_ソンブル_人型"MPID_SombreDragon\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nHaltet sie auf, Dunkle Embleme!\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1E\x18M026_ソンブル_人型\x02b\n\x0E\x03\x02\x1A\x18M026_ソンブル_人型\nDann... wird mir meine Wiedervereinigung...\nalso verwehrt.\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02t\n\x0E\x05\x01\x1A\x06マルス\x10Surprise\n\x0E\x03\x02\x08\x06マルス\nIch spüre Euch, Schatten! Und ich glaube auch\nzu wissen, wer Ihr seid!\x0E\x04\x02\x00
+MID_BT9_#002	\x0E\x05\x01\x14\x06マルス\nAngry\nIch habe Euch bereits zuvor besiegt, und ich\nwerde es wieder tun, denn ich führe das\nErhabene Falchion!\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08シグルド\x02t\n\x0E\x05\x01\x1C\x08シグルド\x10Surprise\n\x0E\x03\x02\x0A\x08シグルド\nDas heilige Schwert Tyrfing ist erwacht. Das\nbedeutet, Ihr seid-- Nein. Unmöglich.\x0E\x04\x02\x00
+MID_BT10_#002	\x0E\x05\x01\x16\x08シグルド\nAngry\nAls Ritter von Grannvale und Nachfahre von\neinem der 12 Heiligen Ritter werde ich Euch\nein Ende bereiten!\x0E\x04\x00\x00
+MID_BT11_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02t\n\x0E\x05\x01\x16\x06セリカ\x0CStatus\n\x0E\x03\x02\x08\x06セリカ\nWir begegnen uns erneut, Duma... Obwohl ich\nmir nicht sicher bin, ob Ihr es wirklich seid.\x0E\x04\x02\x00
+MID_BT11_#002	\x0E\x05\x01\x14\x06セリカ\nAngry\nBitte, richtet keinen Schaden mehr an. Gewährt\nEurer erschöpften Seele ihre verdiente Ruhe...\x0E\x04\x00\x00
+MID_BT12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ミカヤ\x02t\n\x0E\x05\x01\x14\x06ミカヤ\nAngry\n\x0E\x03\x02\x08\x06ミカヤ\nIhr?! Hat Sombron Euch erneut beschworen, um\nüber die Welt zu richten?\x0E\x04\x02\x00
+MID_BT12_#002	Das werde ich nicht zulassen! Yune... Gib mir\nKraft!\x0E\x04\x00\x00
+MID_BT13_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04ロイ\x02t\n\x0E\x05\x01\x18\x04ロイ\x10Surprise\n\x0E\x03\x02\x06\x04ロイ\nWarum seid Ihr hier, und warum in dieser Form?\nWir haben nichts miteinander auszufechten.\x0E\x04\x02\x00
+MID_BT13_#002	\x0E\x05\x01\x12\x04ロイ\nAngry\nIch werde meinen Beitrag leisten, um dies zu\nbeenden. Und ich werde Eure Seele ein weiteres\nMal vom endlosen Kämpfen befreien.\x0E\x04\x00\x00
+MID_BT14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06リーフ\x02t\n\x0E\x05\x01\x14\x06リーフ\nAngry\n\x0E\x03\x02\x08\x06リーフ\nIhr strahlt Bösartigkeit aus... aber seid Ihr\nwirklich der dunkle Bischof, gegen den ich\nbereits gekämpft habe?\x0E\x04\x02\x00
+MID_BT14_#002	Habt Ihr vor, auch in dieser Welt Angst und\nVerzweiflung zu verbreiten? Das werde ich\nniemals zulassen!\x0E\x04\x00\x00
+MID_BT15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02t\n\x0E\x03\x02\x08\x06ルキナ\nIhr seid mir ein weiteres Mal gefolgt. Ihr, die\nSchwinge der Verzweiflung und der Atem der\nVerderbnis...\x0E\x04\x02\x00
+MID_BT15_#002	\x0E\x05\x01\x14\x06ルキナ\nAngry\nWenn das so ist, dann fordere ich dieses\nSchicksal heraus. Sterbt, damit unsere Zukunft\nleben kann!\x0E\x04\x00\x00
+MID_BT16_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04リン\x02t\n\x0E\x03\x02\x06\x04リン\nDas Schicksal steckt voller Überraschungen.\nWer hätte gedacht, dass wir uns noch einmal\nbegegnen würden?\x0E\x04\x02\x00
+MID_BT16_#002	\x0E\x05\x01\x12\x04リン\nAngry\nDoch ich fürchte, hier werden sich unsere Wege\nfür immer trennen. Bald seid Ihr nur noch ein\nFleck auf meinem Schwert!\x0E\x04\x00\x00
+MID_BT17_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06アイク\x02t\n\x0E\x03\x02\x08\x06アイク\nIch weiß genau, wer Ihr seid. Ich spüre es.\nIhr seid der Verrückte König.\x0E\x04\x02\x00
+MID_BT17_#002	Ich werde mich gegen Euch nicht zurückhalten!\nIch werde mit all meiner Kraft kämpfen!\x0E\x04\x00\x00
+MID_BT18_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ベレト\x02t\n\x0E\x05\x01\x14\x06ベレト\nAngry\n\x0E\x03\x02\x08\x06ベレト\nDer Befreier wurde wiederbelebt? Ich bezweifle,\ndass Ihr in Frieden gehen werdet. Nun, auch ich\nwerde das nicht tun.\x0E\x04\x02\x00
+MID_BT18_#002	Der Fluss der Zeit mag uns beide hierhergeführt\nhaben, doch jetzt werde ich Eure Reise\nbeenden.\x0E\x04\x00\x00
+MID_BT19_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06カムイ\x02t\n\x0E\x05\x01\x14\x06カムイ\nAngry\n\x0E\x03\x02\x08\x06カムイ\nIch wollte Euch nicht begegnen. Aber wenn es\nstimmt, dass Ihr am Ende jeder meiner Wege\nsteht...\x0E\x04\x02\x00
+MID_BT19_#002	Dann werde ich Euch jedes Mal aufhalten. Ich\nwerde nicht aufgeben!\x0E\x04\x00\x00
+MID_BT20_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nエイリーク\x02t\n\x0E\x03\x02\x0C\nエイリーク\nIch spüre ein Miasma des Bösen, das von Euch\nausgeht... Seid Ihr etwa der Dämonenkönig?\x0E\x04\x02\x00
+MID_BT20_#002	\x0E\x05\x01\x18\nエイリーク\nAngry\nWenn Ihr es seid, werde ich Euch bezwingen,\nbevor Ihr irgendjemanden täuscht oder eine\nTragödie verursacht.\x0E\x04\x00\x00
+MID_BT21_#001	\x0E\x02\x01\x00\n\x0E\x03\x00,&M026_異形兵_マスター_メディウス\x02b\n\x0E\x03\x02(&M026_異形兵_マスター_メディウス\nWie? Wie wurde ich so leicht besiegt?\x0E\x04\x00\x00
+MID_BT22_#001	\x0E\x02\x01\x00\n\x0E\x03\x00,&M026_異形兵_マスター_ロプトウス\x02b\n\x0E\x03\x02(&M026_異形兵_マスター_ロプトウス\nAbschaum...\x0E\x04\x00\x00
+MID_BT23_#001	\x0E\x02\x01\x00\n\x0E\x03\x00("M026_異形兵_マスター_ドーマ\x02b\n\x0E\x03\x02$"M026_異形兵_マスター_ドーマ\nNur Macht hat Gewicht. Nur Stärke bedeutet\nHerrschaft...\x0E\x04\x00\x00
+MID_BT24_#001	\x0E\x02\x01\x00\n\x0E\x03\x00,&M026_異形兵_マスター_アスタルテ\x02b\n\x0E\x03\x02(&M026_異形兵_マスター_アスタルテ\nIch bin vollkommen... und doch habt Ihr mich\nbesiegt. Unmöglich...\x0E\x04\x00\x00
+MID_BT25_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_イドゥン\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_イドゥン\nIch... Ich bin allein... Allein in der Dunkelheit...\x0E\x04\x00\x00
+MID_BT26_#001	\x0E\x02\x01\x00\n\x0E\x03\x00("M026_異形兵_マスター_ベルド\x02b\n\x0E\x03\x02$"M026_異形兵_マスター_ベルド\nDas habe ich mir selbst zuzuschreiben...\x0E\x04\x00\x00
+MID_BT27_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_ギムレー\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_ギムレー\nIhr seid alle machtlos! Schwach! Unbedeutend!\nIhr... seid... wie... Würmer...\x0E\x04\x00\x00
+MID_BT28_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_ネルガル\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_ネルガル\nWarum? Warum muss ich verlieren?\nMehr... Macht...\x0E\x04\x00\x00
+MID_BT29_#001	\x0E\x02\x01\x00\n\x0E\x03\x00.(M026_異形兵_マスター_アシュナード\x02b\n\x0E\x03\x02*(M026_異形兵_マスター_アシュナード\nMehr... Mehr, sage ich! In dieser Zeit des\nAufstiegs reicht es nicht aus... Ist es nicht\ngenug...\x0E\x04\x00\x00
+MID_BT30_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_ネメシス\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_ネメシス\nIhr erbärmlichen Schwächlinge. Zu feige, mich\nohne diese Meute anzugreifen...\x0E\x04\x00\x00
+MID_BT31_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_ハイドラ\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_ハイドラ\nWarum bin ich aber nun der, der leidet?\nWarum bin ich der, der allein sterben soll?\x0E\x04\x00\x00
+MID_BT32_#001	\x0E\x02\x01\x00\n\x0E\x03\x00*$M026_異形兵_マスター_フォデス\x02b\n\x0E\x03\x02&$M026_異形兵_マスター_フォデス\nIhr elenden Narren...\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08リュール\nWir haben gewonnen, Sombron.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08ソンブル\nJetzt werde ich niemals nach Hause zurück-\nkehren. Vielleicht ist es auch gut so.\x0E\x04\x02\x00
+MID_ED1_#003	Ich bin es leid... Ich bin es leid, in jedem\nSchatten zu suchen.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nNach... dem Emblem des Ursprungs?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08ソンブル\nIch habe in finsteren Wäldern gesucht... in\ndüsteren Höhlen... im Schatten eines toten\nBaumes.\x0E\x04\x02\x00
+MID_ED1_#006	An solchen Orten spürte ich mein Emblem\nwieder. Jetzt ist all das vorbei.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nIhr habt Euch entschieden, allein zu sein, und\ndoch suchtet Ihr weiter nach diesem Emblem.\nWarum?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08ソンブル\nVielleicht brauchte ich jemanden, der anerkennt,\nwie weit ich es ganz allein geschafft habe.\x0E\x04\x02\x00
+MID_ED1_#009	Jemanden, der mich sieht – so, wie ich bin –\nnachdem ich Jahrtausende verstoßen war.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nIch hätte diese Person sein können. Oder Veyle,\noder unsere Geschwister. Warum habt Ihr das\nnicht zugelassen?\x0E\x04\x02\x00
+MID_ED1_#011	Warum habt Ihr diese Kriege begonnen?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08ソンブル\nPah! Ich brauche keine Verbindungen. Nicht in\ndeiner Welt.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nNicht einmal ganz am Schluss wollt Ihr uns\nein Vater sein. Nun gut.\x0E\x04\x02\x00
+MID_ED1_#014	Ihr werdet nur der Dämonendrache sein – ein\nÜbel, das wir beseitigt haben. So werden wir\nEuch in Erinnerung behalten.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08ソンブル\nTu, was du willst. Ich war all diese Zeit allein.\nWarum sollte es bei meinem Tod anders sein?\x0E\x04\x02\x00
+MID_ED1_#016	Ich brauche weder Gnade noch Mitleid. Ich\nwerde hier sterben, getrennt von der Person,\nnach der ich mich sehne.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nErinnert Ihr Euch an die Anrufung?\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x0A\x08ソンブル\nWas?\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\nDie Anrufung für das Emblem des Ursprungs.\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x02\x0A\x08ソンブル\nIch habe es versucht. Wieder und wieder habe\nich die Worte gesprochen. Es war zwecklos.\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x0A\x08リュール\nTrotzdem... Es kann nicht schaden, es zu\nversuchen. Ein letztes Mal.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08ソンブル\nNun gut... Verbrenne...\x0E\x04\x02\x00
+MID_ED1_#023	Verbrenne uns, Emblem des Ursprungs.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08ソンブル\nOh! Dieses Licht! Oh... Endlich...\x0E\x04\x02\x00
+MID_ED1_#026	Endlich treffen wir uns wieder...\x0E\x04\x00\x00
+MID_ED1_#027	\x0E\x03\x02\x0A\x08ヴェイル\nPapa? Ich... Ich sehe niemanden...\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0A\x08リュール\nIch auch nicht. Es muss jemand sein, den nur er\nsehen kann.\x0E\x04\x02\x00
+MID_ED1_#029	Ein alter Freund. Die einzige Person, der er sich\njemals geöffnet hat.\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x02\x0A\x08ソンブル\nDu und ich... Lass uns gemeinsam gehen... ein\nletztes Mal.\x0E\x04\x02\x00
+MID_ED1_#031	Bündnis!
+MID_ED1_#032	\x0E\x03\x01\x0A\x08ソンブル\n\x0E\x03\x02\x0A\x08ヴェイル\nPapa...\x0E\x04\x00\x00
+MID_ED1_#033	\x0E\x03\x02\x0A\x08リュール\nEr ist weg. Und der Ring für das Emblem des\nUrsprungs... Er ist mit ihm verschwunden.\x0E\x04\x02\x00
+MID_ED1_#034	Unser Kampf ist vorbei. Gehen wir nach Hause.\x0E\x04\x02\x00
+MID_ED1_#035	Es ist an der Zeit, dieses Portal ein für alle Mal\nzu schließen.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x0A\x08リュール\nDas Portal schließt sich.\x0E\x04\x02\x00
+MID_ED2_#002	Sobald es geschlossen ist, endet der Krieg und\ndas Gleichgewicht der Welt wird wiederher-\ngestellt.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x08\x06マルス\nWir haben es geschafft, \x0E\x06\x03\x00!\x0E\x04\x02\x00
+MID_ED2_#004	Hahaha.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x0A\x08リュール\nOh...\x0E\x04\x02\x00
+MID_ED2_#006	Es ist wirklich Zeit, sich zu verabschieden.\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06マルス\nDas war eine wundervolle Reise. Danke, dass\nwir sie mit Euch teilen durften, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x0A\x08リュール\nNein, ich danke Euch, Marth.\x0E\x04\x02\x00
+MID_ED2_#009	Ich bin so traurig, dass Ihr geht. Aber es ist Zeit,\nsich erhobenen Hauptes zu verabschieden.\x0E\x04\x02\x00
+MID_ED2_#010	Danke, dass Ihr Euer Versprechen gehalten habt.\nIhr wart tatsächlich bis zum Ende mein\nVerbündeter – mein Freund.\x0E\x04\x02\x00
+MID_ED2_#011	Ich hoffe nur, dass ich stark genug sein werde\nfür das, was vor mir liegt.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x08\x06マルス\nDas werdet Ihr. Ihr seid bereits viel stärker als\nvor tausend Jahren – oder am Tag Eures\nErwachens.\x0E\x04\x02\x00
+MID_ED2_#013	Ich weiß, dass Ihr das Erbe der Embleme und\ndas Eurer Mutter fortführen werdet.\x0E\x04\x02\x00
+MID_ED2_#014	Wir werden nicht mehr hier sein, um Euch zu\nhelfen.\x0E\x04\x02\x00
+MID_ED2_#015	Jetzt seid Ihr an der Reihe, anderen zu helfen.\nAls \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin und als Emblem.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0A\x08リュール\nDas werde ich.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nDu bist nicht allein. Wir werden dich dabei\nunterstützen, Bruder.\x0E\x04\x00\x00
+MID_ED2_#017_F	\x0E\x03\x00\x0E\x08ヴェイル\x024\n\x0E\x03\x02\x0A\x08ヴェイル\nDu bist nicht allein. Wir werden dich dabei\nunterstützen, Schwester.\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWir können Marth und die anderen zwar nicht\nersetzen, aber wir werden unser Bestes geben.\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x0E\x08アイビー\x024\n\x0E\x03\x02\x0A\x08アイビー\nJa... Bitte macht Euch keine Sorgen...\nOh nein. Mir kommen die Tränen.\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nHnng... Ich wünschte, wir würden Euch nicht\nverlieren.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nWir haben Euch gerade erst kennengelernt, und\njetzt... heißt es Lebewohl?\x0E\x04\x00\x00
+MID_ED2_#022	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x0E\x08シグルド\x021\n\x0E\x03\x02\x0A\x08シグルド\nBitte weint nicht.\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x0A\x08リュール\nAber...\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x0A\x08シグルド\nIhr tragt die Verantwortung für diese Welt. Tut\nes mit Stolz!\x0E\x04\x02\x00
+MID_ED2_#025	Ihr sollt Eure Tränen nicht auf ewig zurück-\nhalten. Aber in diesem Moment versucht es\nbitte.\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x08\x06マルス\nDa stimme ich zu. Ich möchte, dass wir uns mit\neinem Lächeln auf dem Gesicht verabschieden.\x0E\x04\x02\x00
+MID_ED2_#027	So wünsche ich mir, dass wir einander in\nErinnerung bleiben. Mit Freude und ohne\nTrauer.\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x02\x0A\x08リュール\nDas wünsche ich mir auch.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ベレト\x021\n\x0E\x03\x02\x08\x06ベレト\nDies ist unser Abschied, aber wir werden uns\nniemals davon verabschieden, was wir\ngemeinsam gelernt haben.\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x00\x0C\x06カムイ\x021\n\x0E\x03\x02\x08\x06カムイ\nIch werde Euch vermissen... Aber ich weiß,\ndass Ihr die richtigen Pfade wählen werdet.\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x00\x0C\x06ルキナ\x021\n\x0E\x03\x02\x08\x06ルキナ\nAuch wenn unsere Wege sich trennen, werden\nwir im Geiste immer verbunden bleiben. Bitte\nsorgt für eine gute Zukunft.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x00\x0C\x06ミカヤ\x021\n\x0E\x03\x02\x08\x06ミカヤ\nKeine Sorge. Ich sehe, dass Eure Leben voller\nHoffnung und Glück sein werden.\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x00\x0C\x06アイク\x021\n\x0E\x03\x02\x08\x06アイク\nGeht und verbessert die Welt. Ich weiß, dass Ihr\ndas könnt... Ich weiß, dass Ihr das WERDET.\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x00\x10\nエイリーク\x021\n\x0E\x03\x02\x0C\nエイリーク\nIch werde für Euch beten. Dafür, dass Eure Welt\nein Ort der Güte und des Lachens ist.\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x00\x0A\x04リン\x021\n\x0E\x03\x02\x06\x04リン\nWohin Ihr auch geht, mögen die Segen von\nMutter Erde und Vater Himmel Euch folgen.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x00\x0A\x04ロイ\x021\n\x0E\x03\x02\x06\x04ロイ\nIch bin froh, Euch kennengelernt zu haben. Ich\nhoffe, Ihr macht aus diesem Land ein Arcadia.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x00\x0C\x06リーフ\x021\n\x0E\x03\x02\x08\x06リーフ\nWenn sich Eure Nationen verbünden, gibt es\nkeine Herausforderung, die Ihr nicht bewältigen\nkönnt.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x00\x0E\x08シグルド\x021\n\x0E\x03\x02\x0A\x08シグルド\nKennt Liebe ebenso wie Trauer. Haltet Eure\nBande in Ehren und tragt das Licht bei Euch,\ndann wird Euch nichts unmöglich sein.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x00\x0C\x06セリカ\x021\n\x0E\x03\x02\x08\x06セリカ\nGeht mit Güte voran, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche. Und möge Euer\nGlück ewig andauern.\x0E\x04\x00\x00
+MID_ED4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nDies ist der Augenblick.\x0E\x04\x00\x00
+MID_ED4_#002	\x0E\x03\x02\x0A\x08リュール\nDas ist er.\x0E\x04\x00\x00
+MID_ED4_#003	\x0E\x03\x02\x08\x06マルス\nDanke, \x0E\x06\x03\x00. Ihr seid ein Mitglied\nunserer Familie – das Emblem, das uns alle\nverbindet.\x0E\x04\x02\x00
+MID_ED4_#004	Falls wir uns jemals wiedertreffen... Nein.\nBIS wir uns wiedertreffen...\x0E\x04\x02\x00
+MID_ED4_#005	hoffe ich, dass Ihr Euch an uns erinnert. Wir, die\nwir für diese Zeit gemeinsam existierten.\x0E\x04\x02\x00
+MID_ED4_#006	Die 13 Embleme.\x0E\x04\x00\x00
+MID_ED4_#007	\x0E\x03\x02\x0A\x08リュール\nNatürlich werde ich Euch in Erinnerung behal-\nten. Alles von Euch – und alle Momente, die wir\nmiteinander teilten.\x0E\x04\x02\x00
+MID_ED4_#008	Selbst wenn wir getrennt sind, werden wir\nimmer miteinander verbunden sein.\x0E\x04\x02\x00
+MID_ED4_#009	Danke, dass Ihr bis zum Ende an meiner Seite\nwart.\x0E\x04\x00\x00
+MID_ED4_#010	\x0E\x03\x02\x08\x06マルス\nHahaha.\x0E\x04\x02\x00
+MID_ED4_#011	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x02\x0A\x08リュール\nLebt wohl, Embleme... Meine Familie.\x0E\x04\x02\x00
+MID_ED4_#012	Ihr habt mir Mut, Kraft und Inspiration gegeben.\nIch werde Eurem Beispiel folgen.\x0E\x04\x02\x00
+MID_ED4_#013	Für immer. Das verspreche ich.\x0E\x04\x02\x00
+MID_ED4_#014	Gehen wir nach Hause. Zurück nach Elyos.\x0E\x04\x00\x00
+MID_MOVIE1_#001	Heute ist der Tag meiner Krönung.\nIch werde zum Wyrmgottkönig ernannt.
+MID_MOVIE1_#001_F	Heute ist der Tag meiner Krönung.\nIch werde zur Wyrmgottkönigin ernannt.
+MID_MOVIE1_#002	Ich hatte gehofft, Ihr alle würdet zu dieser\nGelegenheit an meiner Seite stehen.
+MID_MOVIE1_#003	Aber das ist wohl nicht möglich.
+MID_MOVIE1_#004	Strahle hell, Emblem der Anfänge!
+MID_MOVIE1_#005	Es war einen Versuch wert.
+MID_MOVIE1_#006	Ob wir uns wohl je wiedersehen werden?
+MID_MOVIE1_#007	Aha! Wusste ich doch,\ndass ich Euch hier finden würde!
+MID_MOVIE1_#008	Wir haben überall nach Euch gesucht.
+MID_MOVIE1_#009	Ihr seid es...
+MID_MOVIE1_#010	Die Krönung wird jeden Moment beginnen.
+MID_MOVIE1_#011	Also gut. Zeit zum Umziehen.\nEs sei denn, Ihr wollt das anbehalten.
+MID_MOVIE1_#012	Ja, das sollte ich wohl...
+MID_MOVIE1_#013	Na dann, Beeilung! Komm schon!
+MID_MOVIE1_#014	Na gut! Ich komm ja schon, ich komm ja schon!
+MID_MOVIE1_#015	Irgendwann in der Zukunft...
+MID_MOVIE1_#016	werden sich unsere Wege vielleicht\nein weiteres Mal kreuzen.
+MID_MOVIE1_#017	Wenn Ihr wünscht, können unsere Bande jederzeit\nneu geknüpft werden. Sagt einfach nur:
+MID_MOVIE1_#018	Bündnis!
+MID_MOVIE2_#001	\x0E\x03\x02\x0A\x08リュール\nWas ist geschehen?\x0E\x04\x00\x00
+MID_MOVIE2_#002	\x0E\x03\x02\x0A\x08ソンブル\nAlle, die dir etwas bedeuten...\nSie sind alle tot.\x0E\x04\x00\x00
+MID_MOVIE2_#003	\x0E\x03\x02\x0A\x08ヴェイル\nLieber Bruder. Es ist Zeit zu gehen.\x0E\x04\x00\x00
+MID_MOVIE2_#003_F	\x0E\x03\x02\x0A\x08ヴェイル\nLiebe Schwester. Es ist Zeit zu gehen.\x0E\x04\x00\x00
+MID_MOVIE2_#004	\x0E\x03\x02\x0A\x08ソンブル\nHahahahaha!\x0E\x04\x00\x00

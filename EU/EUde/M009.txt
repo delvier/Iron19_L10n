@@ -1,0 +1,180 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nDiamant, wo ist der König?\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0E\x0Cディアマンド\nEr ist zur Front aufgebrochen. Unsere Befehle\nlauten, hier bei der Nachhut bereitzustehen.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nVerstanden.\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0E\x0Cディアマンド\nHier. Nehmt dies.\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nDer Ring? Ihr habt ihn nicht Eurem Vater\ngegeben?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0E\x0Cディアマンド\nIch habe es versucht. Er wollte ihn nicht haben.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x00\x0A\x04ロイ\x023\n\x0E\x03\x02\x06\x04ロイ\nDer König sagte, falls irgendetwas geschehen\nsollte, so wünscht er, dass Ihr meinen Ring\nsicher verwahren möget.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nAber was, wenn er ihn braucht?\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x0E\x0Cディアマンド\nVater will einen fairen Kampf.\x0E\x04\x02\x00
+MID_OP1_#010	Das soll nicht heißen, es wäre unfair, diesen\nRing einzusetzen. Aber wir Brodianer haben ein\nbesonderes Gefühl des Stolzes.\x0E\x04\x02\x00
+MID_OP1_#011	Er will dies aus eigener Kraft überstehen und\nhat uns darum gebeten, seinen Wunsch zu\nrespektieren.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nIch verstehe. Doch ich bin mir nicht so sicher,\nob unsere Feinde das gleiche Ehrgefühl teilen.\x0E\x04\x02\x00
+MID_OP1_#013	Halten wir uns bereit. Wenn es zum\nSchlimmsten kommt, will ich helfen können.\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0E\x0Cディアマンド\nEinverstanden.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x06\x04ロイ\nJa, das klingt gut.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nWie es scheint, hat der Kampf begonnen.\x0E\x04\x00\x00
+MID_MOVIE1_#001	\x0E\x03\x02\x0A\x08モリオン\nHYAAAH!\x0E\x04\x00\x00
+MID_MOVIE1_#002	\x0E\x03\x02\x0E\x0Cハイアシンス\nEure Invasionen meines Landes\nhaben ihren Preis.\x0E\x04\x00\x00
+MID_MOVIE1_#002_2	\x0E\x03\x02\x0E\x0Cハイアシンス\nUnd den werdet Ihr nun bezahlen!\x0E\x04\x00\x00
+MID_MOVIE1_#003	\x0E\x03\x02\x0A\x08モリオン\nHahaha! Glaubt Ihr wirklich,\nIhr könntet der Macht von Brodia standhalten?\x0E\x04\x00\x00
+MID_MOVIE1_#004	\x0E\x03\x02\x0E\x0Cハイアシンス\nAllerdings. Meine Armee\nist von Lord Sombron persönlich gesegnet.\x0E\x04\x00\x00
+MID_MOVIE1_#005	\x0E\x03\x02\x0A\x08モリオン\nVerflucht seid Ihr!\x0E\x04\x00\x00
+MID_MOVIE1_#006	\x0E\x03\x02\x0A\x08モリオン\nHehe...\x0E\x04\x00\x00
+MID_MOVIE1_#007	\x0E\x03\x02\x0A\x08モリオン\nWas ist los? Ist das alles,\nwas Euer Drache zu bieten hat?\x0E\x04\x00\x00
+MID_MOVIE1_#008	\x0E\x03\x02\x0E\x0Cハイアシンス\nEr hat noch nicht seine volle Stärke.\x0E\x04\x00\x00
+MID_MOVIE1_#008_2	\x0E\x03\x02\x0E\x0Cハイアシンス\nNicht, solange das Ritual noch fehlt...\x0E\x04\x00\x00
+MID_MOVIE1_#009	\x0E\x03\x02\x0A\x08モリオン\nDas Ritual?\x0E\x04\x00\x00
+MID_MOVIE1_#010	\x0E\x03\x02\x0E\x0Cハイアシンス\nDas, mit dem wir seine volle Macht\nwieder entfachen werden.\x0E\x04\x00\x00
+MID_MOVIE1_#010_2	\x0E\x03\x02\x0E\x0Cハイアシンス\nUnd dazu... benötigen wir\nkönigliches Blut als Opfer.\x0E\x04\x00\x00
+MID_MOVIE1_#011	\x0E\x03\x02\x0E\x0Cハイアシンス\nDas dargebotene Blut...\x0E\x04\x00\x00
+MID_MOVIE1_#011_2	\x0E\x03\x02\x0E\x0Cハイアシンス\nEs wird das Eure sein!\x0E\x04\x00\x00
+MID_MOVIE1_#012	\x0E\x03\x02\x0A\x08モリオン\nWas?\x0E\x04\x00\x00
+MID_MOVIE1_#013	\x0E\x03\x02\x0A\x08モリオン\nAAAH!\x0E\x04\x00\x00
+MID_MOVIE1_#014	\x0E\x03\x02\x0E\x0Cハイアシンス\nHahaha...\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nVater!\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nKommt, Diamant! Es ist noch nicht zu spät,\nihn zu retten!\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x12\x0Cハイアシンス\x021\n\x0E\x03\x02\x0E\x0Cハイアシンス\nIhr habt diese Schlacht verloren,\nehemaliger König von Brodia.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x02\x06\x04グリ\nAlso gut, er wird nicht leichter,\nwenn wir warten. Los.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x02\x08\x06マロン\nWir wissen, was zu tun ist, Euer Majestät.\nBis später.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0E\x0Cハイアシンス\nMhm.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x01\x0E\x0Cハイアシンス\n\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nMein Vater! Sie wollen ihn fortschleppen!\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nDas lassen wir nicht zu!\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x02\x0A\x08アイビー\nDas sagt IHR... Aber da irrt Ihr Euch.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\nPrinzessin Ivy!\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x00\x12\x0Cハイアシンス\x023\n\x0E\x03\x02\x0E\x0Cハイアシンス\nHalte sie um jeden Preis hier fest, Kind.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0A\x08アイビー\nJa.\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0E\x0Cハイアシンス\nOh, und Ivy? Vergiss nicht, dass jener Ring dir\nvon unserem Lord Sombron überlassen wurde.\x0E\x04\x02\x00
+MID_OP2_#014	Dass du ihn nicht beschützen konntest,\nwar ein schwerwiegendes Versagen.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0A\x08アイビー\n...\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0E\x0Cハイアシンス\nEs ist deine Pflicht, den Ring nun zurückzuholen.\nIch kehre nach Elusia zurück. Versage nicht erneut.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x01\x0E\x0Cハイアシンス\n\x0E\x03\x02\x0A\x08アイビー\nIch soll Euch also Zeit verschaffen,\nindem ich hier sterbe.\x0E\x04\x00\x00
+MID_OP2_#017_2	\x0E\x03\x01\x0E\x0Cハイアシンス\n\x0E\x03\x02\x0A\x08アイビー\nGut. Ich sterbe für Euch, Vater...\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0E\x0Cディアマンド\nIhr werdet uns nicht aufhalten.\x0E\x04\x02\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nWir müssen König Morion sofort zurückholen.\nKoste es, was es wolle!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDer Sturm wird immer heftiger.\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02b\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nWir müssen Prinzessin Ivys Einheiten\nzurückdrängen.\x0E\x04\x02\x00
+MID_OP3_#003	\x0E\x05\x01\x18\x0Cディアマンド\x08Pain\nVater einfach so davonzuschleifen... Was\nkönnte König Hyacinth bloß im Schilde führen?\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nIch weiß es nicht. Doch bei einer solchen Anzahl\nan Verzerrten steht uns ein harter Kampf bevor.\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02t\n\x0E\x05\x01\x1A\x10ジェーデ_兜あり\x06Sad\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nDer Schnee wirbelt nur so umher. Ich frage\nmich, ob ich Prinz Diamant finden kann.\x0E\x04\x02\x00
+MID_OP4_#002	\x0E\x05\x01 \x10ジェーデ_兜あり\x0CNormal\nEs gibt kaum einen schlechteren Zeitpunkt zum\nMeditieren, aber ich muss meinen Kopf frei\nbekommen.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M009_カゲツ\x02b\n\x0E\x05\x01\x1A\x10M009_カゲツ\x06Sad\n\x0E\x03\x02\x12\x10M009_カゲツ\nIch fürchte, das wird nicht gut enden.\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x18\x12M009_ゼルコバ\x02t\n\x0E\x05\x01 \x12M009_ゼルコバ\nAngry\n\x0E\x03\x02\x14\x12M009_ゼルコバ\nPrinzessin Ivy, hat der König Euch vielleicht\neinen... weiteren... Ring gegeben?\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x01\x12\x10M009_カゲツ\n\x0E\x03\x00\x18\x12M009_アイビー\x02b\n\x0E\x05\x01$\x12M009_アイビー\x0EStandBy\n\x0E\x03\x02\x14\x12M009_アイビー\nHat er nicht. Du hast doch gehört, was er gesagt\nhat. Wenn ich einen Ring haben will, muss ich\nden zurückholen, den ich verloren habe.\x0E\x04\x02\x00
+MID_EV1_#004	Dieses Mal kämpfen wir ohne Verstärkung.\nWir müssen uns allein behaupten.\x0E\x04\x02\x00
+MID_EV1_#005	\x0E\x05\x01\x1E\x12M009_アイビー\x08Pain\nWenn ihr fortgehen wollt, dann... verstehe ich\ndas.\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x05\x01 \x12M009_ゼルコバ\nAngry\n\x0E\x03\x02\x14\x12M009_ゼルコバ\nWas werdet... Ihr tun?\x0E\x04\x00\x00
+MID_EV1_#007	\x0E\x05\x01$\x12M009_アイビー\x0EStandBy\n\x0E\x03\x02\x14\x12M009_アイビー\nIch habe keine andere Wahl, als zu bleiben.\nAuch wenn ich weiß, dass es aussichtslos ist.\x0E\x04\x02\x00
+MID_EV1_#008	\x0E\x05\x01\x1C\x12M009_アイビー\x06Die\nAuch wenn ich weiß, dass ich sterben werde...\x0E\x04\x00\x00
+MID_EV1_#009	\x0E\x03\x02\x14\x12M009_ゼルコバ\n...\x0E\x04\x00\x00
+MID_EV1_#010	\x0E\x05\x01 \x12M009_アイビー\nAngry\n\x0E\x03\x02\x14\x12M009_アイビー\nIhr zwei: Begebt euch zu den Festungen im\nNorden und im Süden. Dort stehen die\nVerzerrten bereit.\x0E\x04\x00\x00
+MID_EV14_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M009_カゲツ\x02b\n\x0E\x05\x01\x1E\x10M009_カゲツ\nAngry\n\x0E\x03\x02\x12\x10M009_カゲツ\nAlso gut. Zeit anzugreifen!\x0E\x04\x00\x00
+MID_EV15_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M009_ゼルコバ\x02b\n\x0E\x05\x01 \x12M009_ゼルコバ\nAngry\n\x0E\x03\x02\x14\x12M009_ゼルコバ\nMögen die... Verzerrten... vorrücken.\x0E\x04\x00\x00
+MID_TK1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nVerzeihung. Alles in Ordnung?\x0E\x04\x00\x00
+MID_TK1_#002	\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02b\n\x0E\x05\x01 \x10ジェーデ_兜あり\x0CNormal\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nOh, ja. Ich habe nur etwas meditiert.\nWer seid Ihr? Etwa eine neue Grenzwache?\x0E\x04\x00\x00
+MID_TK1_#003	\x0E\x05\x01\x16\x08リュール\nSmile\n\x0E\x03\x02\x0A\x08リュール\nNein. Ich bin \x0E\x0A\x008\x18der Wyrmgott\x1Cdie Wyrmgöttin \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_TK1_#004	\x0E\x05\x01$\x10ジェーデ_兜あり\x10Surprise\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nWie unhöflich von mir!\x0E\x04\x02\x00
+MID_TK1_#005	\x0E\x05\x01 \x10ジェーデ_兜あり\x0CStrike\nIch bin Jade, eine königliche Ritterin von Brodia.\nPrinz Diamant hat mir von Euch erzählt.\x0E\x04\x02\x00
+MID_TK1_#006	\x0E\x05\x01\x16\x08ジェーデ\nAngry\nDarf ich mich Euren Reihen anschließen,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche?\x0E\x04\x00\x00
+MID_TK1_#007	\x0E\x03\x02\x0A\x08リュール\nNatürlich. Willkommen, Jade!\x0E\x04\x00\x00
+MID_TK1_#008	\x0E\x05\x01\x1E\x10ジェーデ_兜あり\nSmile\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nDanke. Gestattet mir, Euch zu zeigen, warum\nman mich die „eiserne Mauer“ nennt.\x0E\x04\x00\x00
+MID_TK1P_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x022\n\x0E\x03\x02\x0A\x08リュール\nVerzeihung. Alles in Ordnung?\x0E\x04\x00\x00
+MID_TK1P_#002	\x0E\x03\x02\x12\x10ジェーデ_兜あり\nOh, ja. Ich habe nur etwas meditiert.\nWer seid Ihr? Etwa eine neue Grenzwache?\x0E\x04\x00\x00
+MID_TK1P_#003	\x0E\x03\x02\x0A\x08リュール\nNein. Ich bin \x0E\x0A\x008\x18der Wyrmgott\x1Cdie Wyrmgöttin \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_TK1P_#004	\x0E\x03\x02\x12\x10ジェーデ_兜あり\nWie unhöflich von mir!\x0E\x04\x02\x00
+MID_TK1P_#005	Ich bin Jade, eine königliche Ritterin von Brodia.\nPrinz Diamant hat mir von Euch erzählt.\x0E\x04\x02\x00
+MID_TK1P_#006	Darf ich mich Euren Reihen anschließen,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche?\x0E\x04\x00\x00
+MID_TK1P_#007	\x0E\x03\x02\x0A\x08リュール\nNatürlich. Willkommen, Jade!\x0E\x04\x00\x00
+MID_TK1P_#008	\x0E\x03\x02\x12\x10ジェーデ_兜あり\nDanke. Gestattet mir, Euch zu zeigen, warum\nman mich die „eiserne Mauer“ nennt.\x0E\x04\x00\x00
+MID_TK2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cディアマンド\x02t\n\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nJade!\x0E\x04\x00\x00
+MID_TK2_#002	\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02b\n\x0E\x05\x01$\x10ジェーデ_兜あり\x10Surprise\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nPrinz Diamant!\x0E\x04\x02\x00
+MID_TK2_#003	\x0E\x05\x01 \x10ジェーデ_兜あり\x0CNormal\nBin ich froh, dass es Euch gut geht. Ist im\nSchloss alles in Ordnung?\x0E\x04\x02\x00
+MID_TK2_#004	\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nJa. \x0E\x0A\x008\x18Der Wyrmgott\x1CDie Wyrmgöttin hat uns bei der Verteidigung\ngeholfen. Aber Vater... Er ist in Gefahr!\x0E\x04\x02\x00
+MID_TK2_#005	Jade, du bist hiermit von deinen Pflichten an\nder Grenze befreit. Von hier an begleitest du\nmich!\x0E\x04\x00\x00
+MID_TK2_#006	\x0E\x05\x01 \x10ジェーデ_兜あり\x0CStatus\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nNatürlich!\x0E\x04\x00\x00
+MID_TK3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02t\n\x0E\x05\x01$\x10ジェーデ_兜あり\x10Surprise\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nPrinz Diamant!\x0E\x04\x00\x00
+MID_TK3_#002	\x0E\x03\x00\x12\x0Cディアマンド\x02b\n\x0E\x05\x01\x1A\x0Cディアマンド\nRelax\n\x0E\x03\x02\x0E\x0Cディアマンド\nJade! Du bist unversehrt.\x0E\x04\x00\x00
+MID_TK3_#003	\x0E\x05\x01\x1E\x10ジェーデ_兜あり\nAngry\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nJa. Ich bin hier, um zu helfen. \x0E\x0A\x008\x18Der Wyrmgott\x1CDie Wyrmgöttin\nhat mir alles erzählt.\x0E\x04\x02\x00
+MID_TK3_#004	Bringen wir König Morion zurück.\x0E\x04\x00\x00
+MID_TK3_#005	\x0E\x05\x01\x1A\x0Cディアマンド\nAngry\n\x0E\x03\x02\x0E\x0Cディアマンド\nJa. Ich bin froh, dich bei uns zu haben!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M009_アイビー\x02b\n\x0E\x05\x01 \x12M009_アイビー\nAngry\n\x0E\x03\x02\x14\x12M009_アイビー\nVaters Befehle waren eindeutig. Ihr kommt nicht\nvorbei.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M009_アイビー\x02b\n\x0E\x05\x01\x1E\x12M009_アイビー\x08Pain\n\x0E\x03\x02\x14\x12M009_アイビー\nVater... Es tut mir leid...\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M009_ゼルコバ\x02b\n\x0E\x05\x01 \x12M009_ゼルコバ\nAngry\n\x0E\x03\x02\x14\x12M009_ゼルコバ\nIch hatte die Gelegenheit, wegzulaufen, doch\nich bin... geblieben. Nun muss ich... kämpfen.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M009_ゼルコバ\x02b\n\x0E\x05\x01\x1E\x12M009_ゼルコバ\x08Pain\n\x0E\x03\x02\x14\x12M009_ゼルコバ\nMehr... halte ich nicht aus. Zurück zu\nPrinzessin Ivy.\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M009_カゲツ\x02b\n\x0E\x05\x01\x1E\x10M009_カゲツ\nAngry\n\x0E\x03\x02\x12\x10M009_カゲツ\nWenn Prinzessin Ivy bleibt, bleibe ich auch!\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M009_カゲツ\x02b\n\x0E\x05\x01\x1C\x10M009_カゲツ\x08Pain\n\x0E\x03\x02\x12\x10M009_カゲツ\nIch darf hier nicht sterben... Ich muss Prinzessin\nIvy beschützen...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02t\n\x0E\x05\x01"\x10ジェーデ_兜あり\x0EStandBy\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nGenug meditiert. Nun... Meint Ihr wirklich, Ihr\nkönnt meine Verteidigung durchbrechen?\x0E\x04\x00\x00
+MID_DIE_LOCAL_Jade_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02b\n\x0E\x05\x01\x1C\x10ジェーデ_兜あり\x08Pain\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nIch habe versagt, Prinz Diamant. Ihr müsst den\nKönig ohne mich retten...\x0E\x04\x00\x00
+MID_DIE_CASUAL_LOCAL_Jade_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10ジェーデ_兜あり\x02b\n\x0E\x05\x01\x1C\x10ジェーデ_兜あり\x08Pain\n\x0E\x03\x02\x12\x10ジェーデ_兜あり\nIch bin verwundet. Ich muss mich zurückziehen.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08アイビー\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08アイビー\nIhr habt gewonnen... Bitte tötet mich.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nNein. Ich werde Euch nicht das Leben nehmen.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08アイビー\nSeid nicht naiv. Sollte ich weiterleben, was\nhielte mich davon ab, Euch weiterhin zu jagen?\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nIhr könnt nicht mehr nach Elusia zurückkehren.\nEuer Land ist fertig mit Euch.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08アイビー\nWie kommt Ihr denn darauf?\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nHätte König Hyacinth gewollt, dass Ihr überlebt,\nhätte er Euch einen Emblem-Ring gegeben.\x0E\x04\x02\x00
+MID_ED1_#007	Darüber hinaus musste er uns gar nicht\naufhalten. Das hätte bereits das Wetter\ngeschafft.\x0E\x04\x02\x00
+MID_ED1_#008	Ich verstehe nicht, warum... aber der König hat\nEuch nur benutzt. Er hatte gar nicht geplant,\ndass Ihr diesen Kampf überlebt.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08アイビー\nIch schätze, Ihr habt recht.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x0A\x08リュール\nEuer Vater opferte bereits Euer Leben.\x0E\x04\x02\x00
+MID_ED1_#011	Ich werde nicht dasselbe tun.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0A\x08アイビー\nIhr werdet mir also nicht die Erlösung durch den\nTod gewähren. Wie grausam von Euch.\x0E\x04\x02\x00
+MID_ED1_#013	Aber... Ihr seid \x0E\x0A\x00.\x12mein Gott\x18meine Göttin, und ich werde\nEuren Willen respektieren.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nHm?\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x02\x0A\x08アイビー\nVergesst besser, was ich gerade gesagt habe.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\nSicher...\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08アイビー\nIm Gegenzug biete ich Euch Informationen an.\x0E\x04\x02\x00
+MID_ED1_#018	Ich werde Euch erzählen, wohin man König\nMorion bringt, und aus welchem Grund.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_ED1_#020	\x0E\x03\x00\x12\x0Cディアマンド\x024\n\x0E\x03\x02\x0E\x0Cディアマンド\nAlso? Spuckt es schon aus!\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x0A\x08アイビー\nMein Vater plant, ein Ritual abzuhalten, um die\nMacht des Dämonendrachen wiederherzustellen.\x0E\x04\x00\x00
+MID_ED1_#022	\x0E\x03\x02\x0A\x08リュール\nEin Ritual?\x0E\x04\x00\x00
+MID_ED1_#023	\x0E\x03\x02\x0A\x08アイビー\nDer Dämonendrache ist zwar frei, doch seine\nFähigkeiten sind eingeschränkt.\x0E\x04\x02\x00
+MID_ED1_#024	Die Gefangenschaft hat ihn geschwächt. Er\nkann sich kaum bewegen, geschweige denn\nseine Drachenform annehmen.\x0E\x04\x02\x00
+MID_ED1_#025	Für ihn wäre es ideal, alle zwölf Ringe zu\nbesitzen, doch sie zu finden wird Zeit\nbenötigen.\x0E\x04\x02\x00
+MID_ED1_#026	In der Zwischenzeit plant Sombron daher, seine\nMacht mithilfe eines uralten Rituals vorübergeh-\nend wiederzuerlangen.\x0E\x04\x02\x00
+MID_ED1_#027	Dabei wird ihm königliches Blut dargebracht.\x0E\x04\x00\x00
+MID_ED1_#028	\x0E\x03\x02\x0E\x0Cディアマンド\nIhr könnt unmöglich meinen Vater meinen!\x0E\x04\x00\x00
+MID_ED1_#029	\x0E\x03\x02\x0A\x08リュール\nAber dann wird König Morion...\x0E\x04\x00\x00
+MID_ED1_#030	\x0E\x03\x02\x0A\x08アイビー\nJa. Mein Vater hat ihn verschleppt, um ihn\nals Opfer für Lord Sombron zu verwenden.\nDas war von Anfang an sein Plan.\x0E\x04\x00\x00
+MID_ED1_#031	\x0E\x03\x02\x0A\x08リュール\nDas ist ja furchtbar.\x0E\x04\x00\x00
+MID_ED1_#032	\x0E\x03\x02\x0A\x08アイビー\nDas Ritual wird in der Destinea-Kathedrale\nstattfinden. Ihr müsst Euch beeilen.\x0E\x04\x02\x00
+MID_ED1_#033	Und bitte, seid vorsichtig. Seit der\nDämonendrache zurückgekehrt ist, ist Vater\nnicht mehr derselbe.\x0E\x04\x00\x00
+MID_ED1_#034	\x0E\x03\x02\x0A\x08リュール\nIch verstehe...\x0E\x04\x00\x00
+MID_ED1_#035	\x0E\x03\x02\x0A\x08アイビー\nDas ist alles, was ich weiß. Kommt, Zelkov,\nKagetsu. Verlassen wir diesen Ort.\x0E\x04\x00\x00
+MID_ED1_#036	\x0E\x03\x02\x0A\x08リュール\nWas werdet Ihr tun?\x0E\x04\x00\x00
+MID_ED1_#037	\x0E\x03\x02\x0A\x08アイビー\nWas immer ich kann. Ohne dabei Partei zu\nergreifen.\x0E\x04\x02\x00
+MID_ED1_#038	Wenn wir uns wiedertreffen, \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin... so\nhoffe ich, dass wir keine Feinde mehr sein\nwerden.\x0E\x04\x00\x00
+MID_ED1_#039	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x02\x0A\x08リュール\nGehen wir nach Elusia.\x0E\x04\x00\x00
+MID_ED1_#040	\x0E\x03\x02\x0E\x0Cディアマンド\nJa, beeilen wir uns!\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nJe weiter wir nach Elusia vordringen, desto\nheftiger wird der Schneesturm.\x0E\x04\x02\x00
+MID_ED2_#002	Ist dies wirklich der richtige Weg zur Destinea-\nKathedrale?\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIch weiß es nicht. In diesem Schneesturm ist es\nschwierig, sich noch zurechtzufinden.\x0E\x04\x00\x00
+MID_ED2_#004	\x0E\x03\x00\x12\x0Cディアマンド\x023\n\x0E\x03\x02\x0E\x0Cディアマンド\nGah... Wir haben keine Zeit, uns zu verlaufen.\x0E\x04\x02\x00
+MID_ED2_#005	Moment! Da vorne ist jemand.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x00\x14\x0Eヴェイル_包帯\x021\n\x0E\x03\x02\x10\x0Eヴェイル_包帯\nHm? Bist du es, \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x0A\x08リュール\nVeyle!\x0E\x04\x00\x00
+MID_ED2_#008	\x0E\x03\x02\x0E\x0Cディアマンド\nIhr kennt sie?\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x0A\x08リュール\nSie ist eine Freundin. Veyle, wie bist du hierher-\ngelangt?\x0E\x04\x00\x00
+MID_ED2_#010	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nIch... Ich weiß nicht.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x0A\x08リュール\nDu weißt nicht, wie du die Grenze zu einem\nanderen Land überschritten hast?\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nUnd was ist mit dir? Du scheinst wegen\nirgendetwas besorgt zu sein. Stimmt was nicht?\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x0A\x08リュール\nWir versuchen, zur Destinea-Kathedrale zu\ngelangen, aber wir haben uns im Schnee\nverlaufen.\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nZur Kathedrale geht es dort entlang.\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08リュール\nDu weißt, wo sie ist?\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nJa. Ihr seid schon ganz nah. Siehst du den\ngroßen Baum dort? Nutzt ihn als Orientierungs-\npunkt.\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x0A\x08リュール\nIch weiß deine Hilfe zu schätzen!\x0E\x04\x00\x00
+MID_ED2_#018	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nIch schulde dir noch was dafür, dass du mir den\nVerband angelegt hast. Das war so freundlich\nvon dir.\x0E\x04\x02\x00
+MID_ED2_#019	Huch. Hast du diesen Ring damals schon\ngetragen, \x0E\x06\x03\x00?\x0E\x04\x00\x00
+MID_ED2_#020	\x0E\x03\x02\x0A\x08リュール\nJa. Er bedeutet mir sehr viel.\x0E\x04\x00\x00
+MID_ED2_#021	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nEr ist mir letztes Mal gar nicht aufgefallen.\nEr ist hübsch.\x0E\x04\x02\x00
+MID_ED2_#022	Wirklich... hübsch...\x0E\x04\x00\x00
+MID_ED2_#023	\x0E\x03\x02\x0A\x08リュール\nVeyle?\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x10\x0Eヴェイル_包帯\nEmblem-Ring...\x0E\x04\x00\x00
+MID_ED2_#025	\x0E\x03\x02\x0A\x08リュール\nVeyle!\x0E\x04\x00\x00
+MID_ED2_#026	\x0E\x03\x02\x10\x0Eヴェイル_包帯\n...\x0E\x04\x02\x00
+MID_ED2_#027	Oh! Es tut mir leid! Ich sollte dann mal\nweiterziehen!\x0E\x04\x00\x00
+MID_ED2_#028	\x0E\x03\x01\x10\x0Eヴェイル_包帯\n\x0E\x03\x02\x0A\x08リュール\nWo willst du denn hin?! Es ist viel zu\ngefährlich!\x0E\x04\x00\x00
+MID_ED2_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nWeg ist sie.\x0E\x04\x00\x00
+MID_ED2_#030	\x0E\x03\x02\x0E\x0Cディアマンド\nWir haben keine Zeit, nach ihr zu suchen. Nicht,\nsolange Vaters Leben in Gefahr ist.\x0E\x04\x00\x00
+MID_ED2_#031	\x0E\x03\x02\x0A\x08リュール\nIhr habt recht. Beeilen wir uns.\x0E\x04\x02\x00
+MID_ED2_#032	Veyle, was um alles in der Welt...\x0E\x04\x00\x00

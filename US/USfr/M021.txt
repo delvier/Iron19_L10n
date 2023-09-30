@@ -1,0 +1,341 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06モーヴ\nNotre navire est amarré ici.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0A\x08リュール\nMerci de nous avoir escortés jusqu'ici.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x00\x0C\x06マロン\x021\n\x0E\x03\x02\x08\x06マロン\nMauvier ! Tout est prêt, comme tu me l'as\ndemandé ! N'hésite pas à exagérer mon impli...\nHé, une petite minute !\x0E\x04\x02\x00
+MID_OP1_#004	Que fait le Dragon divin ici ?!\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nMarni ?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06マロン\nQu'est-ce que vous voulez ?! Nous n'avons plus\nle moindre anneau !\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06モーヴ\nLes circonstances nous poussent à voyager\nensemble vers Lythos.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06マロン\nHein ?!\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06モーヴ\nDragon divin. Lorsque Marni et moi avons perdu\nles anneaux, Zephia nous a punis... bien\ntrop durement.\x0E\x04\x02\x00
+MID_OP1_#010	Alors, je vous jure sur mon honneur que je ne\nvous trahirai pas une fois en mer. Je vous\nmènerai à Lythos sans encombre.\x0E\x04\x02\x00
+MID_OP1_#011	M'accorderez-vous votre confiance ?\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nJ'y consens. Menez-nous à Lythos.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06マロン\nQuoi ?! Pourquoi les aides-tu ?! Ce ne sont pas\nnos amis. Ce sont nos ennemis !\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x08\x06モーヴ\nIl faut que le Dragon divin rende visite à\nDame Veyle.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x0A\x08リュール\nNous n'avons aucune raison de vous affronter.\nTant que vous vous abstenez de lancer les\nhostilités.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x08\x06マロン\nVoilà qu'ils nous menacent pour éviter qu'on\nles menace. Mauvier ! Qu'est-ce que c'est\nque cette histoire ?!\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06モーヴ\nJe t'en dirai plus une fois à bord. Si ça ne te\nconvient pas, tu peux rester ici.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06マロン\nHé... Quoi ?! Parfait ! Très bien. D'accord ?\x0E\x04\x02\x00
+MID_OP1_#019	Une trêve temporaire jusqu'à ce que l'on\nretrouve Zephia et les autres à Lythos.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x08\x06モーヴ\nVoilà. Allons-y, Dragon divin.\x0E\x04\x00\x00
+MID_OP1_#021	\x0E\x03\x02\x0A\x08リュール\nTrès bien.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06モーヴ\x021\n\x0E\x03\x00\x0C\x06マロン\x023\n\x0E\x03\x02\x08\x06マロン\nVous êtes l'enfant du seigneur Sombron ?!\nQuoi ?!\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nOui.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x08\x06マロン\nMais alors... Vous êtes l\x0E\x0A\x00\x1E\x0Ee frère\x0Ca sœur que Dame Veyle\ncherche depuis tout ce temps ?!\x0E\x04\x02\x00
+MID_OP2_#004	Et c'est pour ça qu'on va à Lythos...\nAttendez. Griss est au courant de tout ça ?\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nC'est lui qui me l'a dit.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x08\x06モーヴ\nGriss cherchait la bagarre au château d'Elusia\npour vérifier la véracité de ses informations. Il\nn'a pas hésité à sacrifier un anneau pour cela.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x08\x06マロン\nQuoi ?! Personne ne m'avait informée de\nce plan !\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x0A\x08リュール\nPourquoi Sombron et Veyle se rendent-ils\nà Lythos ?\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x08\x06モーヴ\nC'est Gradlon, la contrée du Dragon déchu, qui\na été engloutie par l'océan. Il a décidé de la\nrestaurer.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x00\x10\nヴァンドレ\x024\n\x0E\x03\x02\x0C\nヴァンドレ\nRestaurer cette contrée impie ?! Ma parole.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0A\x08リュール\nQue savez-vous de ce pays, Vander ?\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x0C\nヴァンドレ\nGradlon a été engloutie sous les vagues il y a\nmille ans de cela.\x0E\x04\x02\x00
+MID_OP2_#013	C'était, bien sûr, la contrée de Sombron.\x0E\x04\x02\x00
+MID_OP2_#014	De la même manière que Lythos est sacrée,\nGradlon est dévoyée.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x08\x06モーヴ\nPour faire remonter Gradlon à la surface,\nSombron doit détruire le fragment de Dragon\ndivin qui se trouve à Lythos.\x0E\x04\x02\x00
+MID_OP2_#016	Ce fragment est ce qui maintient Gradlon sous\nles eaux. Le seigneur Sombron trouve cela...\nproblématique.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08リュール\nAlors, vous voulez dire que le plus grand désir\nde Sombron... est de restaurer Gradlon ?\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x08\x06モーヴ\nPas du tout. Son désir, si un tel mot est adapté\nau seigneur Sombron, est d'envahir d'autres\nmondes.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nD'autres mondes ?!\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x08\x06モーヴ\nLe continent d'Elyos n'est qu'une étape. Il a\nprévu d'étendre son territoire à tous les autres\nmondes.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x0A\x08リュール\nAlors, il existe d'autres mondes, et il veut tous\nles diriger. Comment... est-ce possible ?\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x08\x06モーヴ\nJe ne suis sûr de rien. Le seigneur Sombron n'a\njamais abordé ce sujet de manière détaillée.\nPas avec moi, en tout cas.\x0E\x04\x02\x00
+MID_OP2_#023	Ce dont je suis sûr, cependant, c'est qu'il\nmanipule Dame Veyle pour servir ses ambitions.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x0A\x08リュール\nJe vous en prie, dites-m'en plus.\x0E\x04\x02\x00
+MID_OP2_#025	J'ai entendu qu'on traitait Veyle de tare. Mais\nqu'est-ce que ça signifie ?\x0E\x04\x00\x00
+MID_OP2_#026	\x0E\x03\x02\x08\x06モーヴ\nEh bien, pour commencer, les dragons royaux\ndevraient tous pouvoir invoquer des Emblèmes,\nmais elle en est incapable.\x0E\x04\x02\x00
+MID_OP2_#027	Le seigneur Sombron l'a découvert peu après\nsa résurrection, quand Dame Veyle et lui\nse sont retrouvés.\x0E\x04\x02\x00
+MID_OP2_#028	Ses frères et sœurs ont tous participé à la\nguerre, mais elle était trop jeune à l'époque\net n'a jamais vu le moindre Emblème.\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x0A\x08リュール\nElle m'a dit qu'on s'était rencontré\x0E\x0A\x00\x0A\x02s\x04es\nune fois, il y a mille ans.\x0E\x04\x00\x00
+MID_OP2_#030	\x0E\x03\x02\x08\x06モーヴ\nVous êtes l'un de ses nombreux frères et sœurs,\nmais, peu à peu, ils sont tous morts au combat.\x0E\x04\x02\x00
+MID_OP2_#031	Tous... sauf vous.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP2_#033	\x0E\x03\x02\x08\x06モーヴ\nPuis son père le seigneur Sombron fut\nenfermé et sa mère mourut. Dame Veyle\nse retrouva alors seule au monde.\x0E\x04\x02\x00
+MID_OP2_#034	Précédée de la rumeur la désignant comme\nla dernière enfant du Dragon déchu, elle ne\npouvait espérer se faire le moindre ami.\x0E\x04\x02\x00
+MID_OP2_#035	Dame Veyle a vécu cachée, sachant\npertinemment qu'elle risquait la mort si jamais\non lui mettait la main dessus.\x0E\x04\x00\x00
+MID_OP2_#036	\x0E\x03\x02\x0A\x08リュール\nMille ans à vivre ainsi... Toute seule, pendant\ntout ce temps ?\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x08\x06モーヴ\nPas entièrement. Il y a quelques siècles, elle\nest entrée en contact avec des fidèles du\nDragon déchu...\x0E\x04\x02\x00
+MID_OP2_#038	Elle dormait dans un temple secret dont ils\ns'occupaient jusqu'au retour du seigneur\nSombron.\x0E\x04\x02\x00
+MID_OP2_#039	Elle s'entendait bien, jadis, avec les gardiens du\ntemple. Mais, récemment, quand elle s'est\nréveillée...\x0E\x04\x00\x00
+MID_OP2_#040	\x0E\x03\x02\x0A\x08リュール\nIls étaient tous morts, n'est-ce pas ?\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x02\x08\x06モーヴ\nAlors Dame Veyle était soulagée, voire folle de\njoie, de retrouver le seigneur Sombron.\x0E\x04\x02\x00
+MID_OP2_#042	Mais lui la détestait et la traitait de tare en\nraison de son cœur tendre et de son incapacité\nà utiliser les pouvoirs des Dragons déchus.\x0E\x04\x02\x00
+MID_OP2_#043	Sombron avait besoin qu'elle lui obéisse,\ncependant, alors il a ordonné à Zephia d'altérer\nsa personnalité.\x0E\x04\x02\x00
+MID_OP2_#044	Dame Veyle a peut-être cru ne plus être\nseule, mais en fin de compte, elle ne l'a\njamais autant été.\x0E\x04\x00\x00
+MID_OP2_#045	\x0E\x03\x02\x0A\x08リュール\nC'est terrible...\x0E\x04\x00\x00
+MID_OP2_#046	\x0E\x03\x02\x08\x06マロン\n...\x0E\x04\x00\x00
+MID_OP2_#047	\x0E\x03\x02\x08\x06モーヴ\nQu'est-ce qu'il y a, Marni ? Ce sont les vagues ?\nTu as le mal de mer ?\x0E\x04\x00\x00
+MID_OP2_#048	\x0E\x03\x02\x08\x06マロン\nNon ! J'essaie de retenir mes larmes ! Mais...\nje ne savais pas à quel point la vie de Dame\nVeyle était triste.\x0E\x04\x02\x00
+MID_OP2_#049	Moi qui pensais avoir une histoire tragique...\nJ'aurais peut-être dû être plus gentille avec elle.\x0E\x04\x00\x00
+MID_OP2_#050	\x0E\x03\x02\x08\x06モーヴ\nTu ne m'as jamais parlé de ton passé, Marni.\x0E\x04\x00\x00
+MID_OP2_#051	\x0E\x03\x02\x08\x06マロン\nFranchement, on fait pas plus banal... J'ai\njuste été abandonnée par ma mère, c'est tout.\x0E\x04\x02\x00
+MID_OP2_#052	J'avais des frères. Beaucoup de frères. Et elle\navait décidé qu'elle n'avait pas besoin d'une\nfille.\x0E\x04\x02\x00
+MID_OP2_#053	C'est étrange, parce que j'étais bien plus forte\nque ces parasites inutiles, même à l'époque...\x0E\x04\x02\x00
+MID_OP2_#054	J'étais celle qui aidait le plus, mais elle ne m'a\njamais remerciée ni félicitée.\x0E\x04\x02\x00
+MID_OP2_#055	La première fois qu'on est parties en balade,\nelle et moi, c'était parce qu'elle cherchait un\nendroit pour m'abandonner.\x0E\x04\x02\x00
+MID_OP2_#056	On marchait main dans la main, je sautillais\nde joie. Et c'est là qu'elle m'a abandonnée\ndevant une église.\x0E\x04\x00\x00
+MID_OP2_#057	\x0E\x03\x02\x0A\x08リュール\nIncroyable...\x0E\x04\x00\x00
+MID_OP2_#058	\x0E\x03\x02\x08\x06マロン\nOh, ça va. Le prêtre était gentil, et comme j'ai\naidé à libérer le seigneur Sombron, je ne vous\nraconte pas le nombre d'éloges que j'ai reçus !\x0E\x04\x02\x00
+MID_OP2_#059	J'ai fini par faire la rencontre de Zephia et\nrejoindre les Chacals. Alors, vous voyez ?\nL'histoire de Dame Veyle est bien plus triste.\x0E\x04\x00\x00
+MID_OP2_#060	\x0E\x03\x02\x08\x06モーヴ\nZephia a formé les Quatre Chacals à l'aide\nde fervents partisans du Dragon déchu.\x0E\x04\x00\x00
+MID_OP2_#061	\x0E\x03\x02\x0A\x08リュール\nVous aussi, Mauvier ?\x0E\x04\x00\x00
+MID_OP2_#062	\x0E\x03\x02\x08\x06モーヴ\nOui, j'étais là, dans le temple secret où dormait\nDame Veyle. Quand elle s'est réveillée...\x0E\x04\x02\x00
+MID_OP2_#063	J'étais à côté d'elle et nous avons discuté.\nElle, un dragon de sang royal, m'a demandé\nde devenir son ami.\x0E\x04\x02\x00
+MID_OP2_#064	Quand je lui ai dit que c'était impossible, elle\nm'a demandé si je pouvais la servir en tant\nque chevalier, dans ce cas.\x0E\x04\x00\x00
+MID_OP2_#065	\x0E\x03\x02\x0A\x08リュール\nEt vous avez accepté.\x0E\x04\x00\x00
+MID_OP2_#066	\x0E\x03\x02\x08\x06モーヴ\nJe n'avais aucune raison de refuser.\x0E\x04\x00\x00
+MID_OP2_#067	\x0E\x03\x02\x08\x06マロン\nCe n'est pas rien d'être choisi comme ça.\nSurtout par une personne de sang royal.\nJe n'aurais jamais cru !\x0E\x04\x02\x00
+MID_OP2_#068	Elle t'a adoubé ? C'est grandiose. Je suis\nsincère, Mauvier. C'est vraiment grandiose.\x0E\x04\x00\x00
+MID_OP2_#069	\x0E\x03\x02\x08\x06モーヴ\nSi tu le souhaitais, je parie que Dame Veyle te\nprendrait toi aussi à son service comme\nchevalier.\x0E\x04\x00\x00
+MID_OP2_#070	\x0E\x03\x02\x08\x06マロン\nQuoi ? Jamais de la vie. Je ne tiens pas tant\nque ça à travailler avec toi. Jamais de mercis,\njamais d'éloges. Je te déteste.\x0E\x04\x00\x00
+MID_OP2_#071	\x0E\x03\x02\x08\x06モーヴ\nVraiment ?\x0E\x04\x00\x00
+MID_OP2_#072	\x0E\x03\x02\x08\x06マロン\nEn plus, je suis déjà attendue quelque part.\nJe dois retourner auprès de Zephia.\x0E\x04\x02\x00
+MID_OP2_#073	Vu que tu aides le Dragon divin, j'imagine que\ntu vas te faire évincer des Chacals.\x0E\x04\x00\x00
+MID_OP2_#074	\x0E\x03\x02\x08\x06モーヴ\nJe m'y attends en effet.\x0E\x04\x00\x00
+MID_OP2_#075	\x0E\x03\x02\x08\x06マロン\nOui, eh bien, moi ça me plaît de faire partie des\nQuatre Chacals. Dès qu'on aura quitté ce\nbateau, on sera ennemis, toi et moi.\x0E\x04\x00\x00
+MID_OP2_#076	\x0E\x03\x02\x08\x06モーヴ\nTu me détestes vraiment, alors. Tu seras bien\nplus heureuse sans moi, dans ce cas.\x0E\x04\x00\x00
+MID_OP2_#077	\x0E\x03\x02\x08\x06マロン\nTrès bien... Oui. Assez parlé.\nC'est une perte de temps.\x0E\x04\x00\x00
+MID_OP2_#078	\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x02\x0A\x08リュール\nMauvier, merci de nous avoir raconté tout cela.\x0E\x04\x02\x00
+MID_OP2_#079	Quand nous trouverons Veyle, j'espère que vous\nferez ce qui est le mieux pour elle.\x0E\x04\x02\x00
+MID_OP2_#080	Même si cela nous pousse à croiser le fer une\nfois encore.\x0E\x04\x00\x00
+MID_OP2_#081	\x0E\x03\x02\x08\x06モーヴ\nJe vous le promets.\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0A\x08リュール\nQu'est-il arrivé à Lythos ? Tout n'est plus\nque ruines et décrépitude...\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0C\nヴァンドレ\nC'est le signe du retour de Gradlon ou que\nnos ennemis sont en train de détruire le\nfragment de Dragon divin.\x0E\x04\x00\x00
+MID_OP3_#003	\x0E\x03\x02\x0A\x08リュール\nNous devons stopper Sombron, et vite. Où\nse trouve le fragment ?\x0E\x04\x00\x00
+MID_OP3_#004	\x0E\x03\x02\x0C\nヴァンドレ\nDans le château, l'ancienne demeure\nde Sa Majesté Lumera.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x0A\x08リュール\nQui aurait cru que nous reviendrions en\nces lieux pour les trouver... dans cet état.\x0E\x04\x00\x00
+MID_OP4_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nJe sais que vous êtes là, Sombron !\nMontrez-vous !\x0E\x04\x00\x00
+MID_OP4_#002	\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nAh, le Dragon divin est arrivé.\x0E\x04\x02\x00
+MID_OP4_#003	Ou devrais-je vous nommer l'Imposteur divin ?\x0E\x04\x00\x00
+MID_OP4_#004	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP4_#005	\x0E\x03\x02\x08\x06セピア\nVous arrivez plus tôt que prévu. Comment\navez-vous su où nous trouver ?\x0E\x04\x02\x00
+MID_OP4_#006	Mes deux autres enfants ne sont\nmême pas encore revenus...\x0E\x04\x00\x00
+MID_OP4_#007	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x00\x0C\x06マロン\x024\n\x0E\x03\x02\x08\x06モーヴ\nJ'imagine que vous parlez de nous.\x0E\x04\x00\x00
+MID_OP4_#008	\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x02\x06\x04グリ\nQu'est-ce que vous faites avec eux ?!\x0E\x04\x00\x00
+MID_OP4_#009	\x0E\x03\x02\x08\x06セピア\nVous les avez menés jusqu'ici et vous nous\navez trahis ? Incroyable.\x0E\x04\x00\x00
+MID_OP4_#010	\x0E\x03\x02\x08\x06マロン\nJe vous en prie, non ! Vous faites fausse route !\x0E\x04\x00\x00
+MID_OP4_#011	\x0E\x03\x02\x06\x04グリ\nFausse route ?! Pfff. Ça m'a l'air\nplutôt évident, pourtant.\x0E\x04\x00\x00
+MID_OP4_#012	\x0E\x03\x02\x08\x06モーヴ\nTout est ma faute. Je voulais que Dame\nVeyle et le Dragon divin se rencontrent...\x0E\x04\x02\x00
+MID_OP4_#013	Je les ai même peut-être forcés à venir. Mais\nce n'était pas nécessaire. En tout cas, Marni\nn'a absolument rien à voir avec tout ça.\x0E\x04\x00\x00
+MID_OP4_#014	\x0E\x03\x02\x08\x06マロン\nMauvier...\x0E\x04\x00\x00
+MID_OP4_#015	\x0E\x03\x02\x08\x06モーヴ\nRetourne auprès des Chacals, Marni.\x0E\x04\x00\x00
+MID_OP4_#016	\x0E\x03\x02\x08\x06マロン\nM-Mais...\x0E\x04\x00\x00
+MID_OP4_#017	\x0E\x03\x02\x08\x06モーヴ\nNe tergiverse pas. Vas-y. Maintenant !\x0E\x04\x00\x00
+MID_OP4_#018	\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x02\x08\x06セピア\nMarni, ravie de te revoir. Mais toi,\nMauvier, qu'allons-nous faire de toi ?\x0E\x04\x02\x00
+MID_OP4_#019	Je suis prête à pardonner et oublier si tes\nexplications sont convaincantes. Nous formons\nune famille, après tout.\x0E\x04\x00\x00
+MID_OP4_#020	\x0E\x03\x02\x08\x06モーヴ\nBalivernes. Je sais bien que vous comptez me\npunir. Mais Dame Veyle verra le Dragon divin.\x0E\x04\x00\x00
+MID_OP4_#021	\x0E\x03\x02\x08\x06セピア\nEspèce de rustre égoïste...\x0E\x04\x00\x00
+MID_OP4_#022	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x0E\x08ヴェイル\x023\n\x0E\x03\x02\x0A\x08ヴェイル\nCe n'est pas grave. J'avais justement envie\nde discuter avec le Dragon divin.\x0E\x04\x00\x00
+MID_OP5_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x16\x10ヴェイル_黒_悪\x021\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x0A\x08リュール\nVeyle ?! Que vous est-il arrivé ?\x0E\x04\x00\x00
+MID_OP5_#002	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nHa ha ha ! C'est si bon de vous revoir.\x0E\x04\x00\x00
+MID_OP5_#003	\x0E\x03\x02\x08\x06モーヴ\nQu'avez-vous fait à Dame Veyle ?\x0E\x04\x00\x00
+MID_OP5_#004	\x0E\x03\x00\x0C\x06セピア\x023\n\x0E\x03\x02\x08\x06セピア\nJe t'ai parlé du casque enchanté du seigneur\nSombron. Mon sort fait désormais effet.\x0E\x04\x00\x00
+MID_OP5_#005	\x0E\x03\x02\x0A\x08リュール\nVeyle, savez-vous qui je suis ?!\x0E\x04\x00\x00
+MID_OP5_#006	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nEh bien, vous êtes mon frère disparu. Je suis\ntellement contente de vous revoir enfin.\x0E\x04\x02\x00
+MID_OP5_#006_F	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nEh bien, vous êtes ma sœur disparue. Je suis\ntellement contente de vous revoir enfin.\x0E\x04\x02\x00
+MID_OP5_#007	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_OP5_#008	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x0C\x06マロン\x022\n\x0E\x03\x02\x08\x06マロン\nBon sang ?! Alors c'est ça que vous tentiez\nde lui faire ? L'autre Dame Veyle peut-elle\nrevenir ?\x0E\x04\x00\x00
+MID_OP5_#009	\x0E\x03\x02\x08\x06セピア\nNon, jamais. Pas tant que ce casque qu'elle\nporte est intact.\x0E\x04\x02\x00
+MID_OP5_#010	Son autre facette est morte.\x0E\x04\x00\x00
+MID_OP5_#011	\x0E\x03\x02\x08\x06マロン\nM-Morte ?\x0E\x04\x00\x00
+MID_OP5_#012	\x0E\x03\x02\x08\x06セピア\nOh, allons. Tu devrais être ravie de ne plus\navoir besoin de parler à la tare.\x0E\x04\x00\x00
+MID_OP5_#013	\x0E\x03\x02\x08\x06マロン\nZephia, je connais le passé de Veyle... Et\nvous ? Vous étiez là à l'époque...\x0E\x04\x00\x00
+MID_OP5_#014	\x0E\x03\x02\x08\x06セピア\nQuoi ?\x0E\x04\x00\x00
+MID_OP5_#015	\x0E\x03\x02\x08\x06マロン\nJe n'en savais rien... quand je vous ai aidé\nà faire toutes ces choses horribles.\x0E\x04\x02\x00
+MID_OP5_#016	Dame Veyle a été seule pendant une éternité.\nEt elle avait hâte de revoir sa famille.\x0E\x04\x02\x00
+MID_OP5_#017	Mais elle n'a jamais pu en profiter. Et elle ne\npourra jamais le faire. C'est vraiment horrible...\x0E\x04\x00\x00
+MID_OP5_#018	\x0E\x03\x02\x08\x06セピア\nQu'est-ce qu'il y a, Marni ?\x0E\x04\x00\x00
+MID_OP5_#019	\x0E\x03\x02\x08\x06マロン\nZephia, ça me plaisait, quand vous faisiez\nmon éloge.\x0E\x04\x02\x00
+MID_OP5_#020	J'aimais quand vous disiez qu'on formait une\nfamille. J'aimais le fait d'appartenir à un groupe.\nJ'aimais les Quatre Chacals.\x0E\x04\x02\x00
+MID_OP5_#021	Mais nous sommes allés beaucoup trop loin.\x0E\x04\x02\x00
+MID_OP5_#022	Je vais faire ce que je pense juste, même\nsi ça doit me priver d'éloges.\x0E\x04\x00\x00
+MID_OP5_#023	\x0E\x03\x02\x08\x06セピア\nMarni ?!\x0E\x04\x00\x00
+MID_OP5_#024	\x0E\x03\x02\x08\x06マロン\nJe vais libérer Dame Veyle ! Je vais réduire\nce casque en miettes !\x0E\x04\x00\x00
+MID_OP5_#025	\x0E\x03\x02\x08\x06セピア\nNon ! Arrête !\x0E\x04\x00\x00
+MID_OP5C_#001	\x0E\x03\x02\x08\x06マロン\nHYAAAH !
+MID_OP5C_#002	 \x0E\x04\x00\x00
+MID_OP5C_#003	\x0E\x03\x02\x0A\x08ヴェイル\nPathétique, Marni. Une telle attaque ne ferait\npas la moindre égratignure au cadeau de Père.\x0E\x04\x00\x00
+MID_OP5C_#004	\x0E\x03\x02\x08\x06マロン\nJ'ai frappé de toutes mes forces...\nmais ça n'a rien fait du tout...\x0E\x04\x00\x00
+MID_OP5C_#005	\x0E\x03\x02\x0A\x08ヴェイル\nJe suppose que tu voulais me libérer,\nmais tu as échoué, pauvre idiote.\x0E\x04\x00\x00
+MID_OP5C_#006	\x0E\x03\x02\x08\x06マロン\nNon...\x0E\x04\x00\x00
+MID_OP5C_#007	\x0E\x03\x02\x08\x06セピア\nJe t'avais dit d'arrêter, n'est-ce pas ?\x0E\x04\x02\x00
+MID_OP5C_#008	Espèce de petite peste.\x0E\x04\x00\x00
+MID_OP5C_#009	\x0E\x03\x02\x08\x06マロン\nJe...\x0E\x04\x00\x00
+MID_OP5C_#010	\x0E\x03\x00\x0E\x08リュール\x024\n\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_OP5C_#011	\x0E\x03\x02\x08\x06セピア\nVilaine fille. Si seulement\ntu m'avais écoutée...\x0E\x04\x00\x00
+MID_OP5C_#012	\x0E\x03\x02\x08\x06マロン\nZe... phi... a...\x0E\x04\x00\x00
+MID_OP5C_#013	\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06モーヴ\nMarni !\x0E\x04\x00\x00
+MID_OP5C_#014	\x0E\x03\x00\x0C\x06マロン\x022\n\x0E\x03\x02\x08\x06マロン\nMauvier...\x0E\x04\x02\x00
+MID_OP5C_#015	Je suis désolée. J'ai essayé de la sauver,\nmais... j'imagine que je n'étais pas assez forte.\x0E\x04\x02\x00
+MID_OP5C_#016	Écoute, si jamais... elle redevient... elle-même...\ntu veux bien lui transmettre un message ?\x0E\x04\x02\x00
+MID_OP5C_#017	Dis-lui... qu'elle a fait\ndu bon travail... D'accord ?\x0E\x04\x02\x00
+MID_OP5C_#018	 \x0E\x04\x00\x00
+MID_OP5C_#019	\x0E\x03\x02\x08\x06モーヴ\nNe nous abandonne pas. Je t'en prie ! Marni !\x0E\x04\x00\x00
+MID_OP5C_#020	\x0E\x03\x02\x08\x06マロン\n \x0E\x04\x00\x00
+MID_OP5C_#021	\x0E\x03\x01\x08\x06マロン\n\x0E\x03\x02\x08\x06セピア\nOh, elle est morte dans tes bras ?\nComme c'est tragique...\x0E\x04\x00\x00
+MID_OP5C_#022	\x0E\x03\x01\x0A\x08ヴェイル\n\x0E\x03\x00\x0A\x04グリ\x021\n\x0E\x03\x02\x06\x04グリ\nQuel gâchis ! Elle est morte pour rien.\x0E\x04\x00\x00
+MID_OP5C_#023	\x0E\x03\x02\x08\x06モーヴ\nAAAH !\x0E\x04\x00\x00
+MID_OP5_2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nMarni... essayait seulement de faire\nrevenir Veyle.\x0E\x04\x02\x00
+MID_OP5_2_#002	Tout ça... juste pour ça ?\x0E\x04\x00\x00
+MID_OP5_2_#003	\x0E\x03\x00\x0C\x06モーヴ\x023\n\x0E\x03\x02\x08\x06モーヴ\nJe ne me tiendrai plus jamais près de vous,\nZephia, à part quand ma lame vous transpercera\nle cœur.\x0E\x04\x02\x00
+MID_OP5_2_#004	Dragon divin, je vous en conjure !\nPermettez-moi de me battre à vos côtés.\x0E\x04\x02\x00
+MID_OP5_2_#005	Pour venger Marni. Et pour sauver Dame Veyle.\x0E\x04\x00\x00
+MID_OP5_2_#006	\x0E\x03\x02\x0A\x08リュール\nMauvier, bien sûr.\x0E\x04\x00\x00
+MID_OP5_2_#007	\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x00\x16\x10ヴェイル_黒_悪\x021\n\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nAlors, tu vas me trahir, tout simplement ?\nM'abandonner à la tristesse et à la solitude\nune fois encore ?\x0E\x04\x02\x00
+MID_OP5_2_#008	Et toi, mon frère. Je pensais que tu serais\nravi de retrouver ta sœur après tout ce temps.\x0E\x04\x00\x00
+MID_OP5_2_#008_F	Et toi, ma sœur. Je pensais que tu serais\nravie de retrouver ta sœur après tout ce temps.\x0E\x04\x00\x00
+MID_OP5_2_#009	\x0E\x04\x03\x04
+MID_OP5_2_#010	\x0E\x03\x02\x0A\x08リュール\nVous n'êtes pas notre Veyle.\x0E\x04\x00\x00
+MID_OP5_2_#011	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nC'est sûrement à cause de mon nouveau style.\nAlors, vous risquez également d'abhorrer ce\nstyle-là.\x0E\x04\x00\x00
+MID_OP5_2_#012	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x0C\x06マルス\x023\n\x0E\x03\x02\x0A\x08リュール\nMarth.\x0E\x04\x00\x00
+MID_OP5_2_#013	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nLes autres Emblèmes ont été volés, et vous lui\navez tourné le dos. Oh, pauvre petite chose.\x0E\x04\x02\x00
+MID_OP5_2_#014	Tout comme moi. Mais je suis là pour vous,\npetit Emblème. Je suis tout ce dont vous\navez besoin.\x0E\x04\x02\x00
+MID_OP5_2_#015	Si j'avais su qu'un\x0E\x0A\x00\x06
+MID_OP5_2_#016	Je veux m'assurer d'être la seule enfant de\nmon Père.\x0E\x04\x00\x00
+MID_OP5_2_#017	\x0E\x03\x02\x0A\x08リュール\nVous désirez donc être seule à jamais ?\x0E\x04\x00\x00
+MID_OP5_2_#018	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nOui, tout à fait. Je n'ai nullement besoin d'une\nfamille, d'amis ou de fidèles serviteurs.\x0E\x04\x02\x00
+MID_OP5_2_#019	Je vous remercie de m'apporter les anneaux,\nmais c'est là que notre relation prend fin...\x0E\x04\x02\x00
+MID_OP5_2_#020	Maintenant, au revoir, mon frère.\x0E\x04\x00\x00
+MID_OP5_2_#020_F	Maintenant, au revoir, ma sœur.\x0E\x04\x00\x00
+MID_OP5_2_#021	\x0E\x04\x03\x04
+MID_OP5_2_#022	\x0E\x03\x02\x0A\x08リュール\nVeyle...\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nVotre Divinité... À compter de ce jour,\nje suis à vos côtés !\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M021_ヴェイル\x02b\n\x0E\x05\x01 \x12M021_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M021_ヴェイル\nQui regardez-vous ? Moi, qui me tiens devant\nvous ? Ou celle que j'étais avant ?\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M021_ヴェイル\x02b\n\x0E\x05\x01 \x12M021_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M021_ヴェイル\nJe voulais tant vous retrouver. Je voulais tant\nvous tuer.\x0E\x04\x02\x00
+MID_BT2_#002	\x0E\x05\x01 \x12M021_ヴェイル\nAngry\nLa marionnette de la reine Lumera. Un vulgaire\nvermisseau pleurnichard et pathétique. Vous\nn'êtes pas m\x0E\x0A\x00 \x10on frère\x0Ca sœur.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nEt vous n'êtes pas ma sœur. Contrairement\nà Veyle. Rendez-la-moi.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x03\x02\x14\x12M021_ヴェイル\nJe suis Veyle ! Et je vais vous le prouver\nimmédiatement... en vous ôtant la vie !\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M021_ヴェイル\x02b\n\x0E\x05\x01 \x12M021_ヴェイル\nSmile\n\x0E\x03\x02\x14\x12M021_ヴェイル\nAh ! Mon fidèle chevalier, Mauvier. Ne vas-tu\ndonc pas me défendre ?\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nMon service au sein des Quatre Chacals est de\nl'histoire ancienne. Je ne vous défendrai pas.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x1C\x12M021_ヴェイル\x06Sad\n\x0E\x03\x02\x14\x12M021_ヴェイル\nToujours le même, Mauvier. Vous ne me voyez\npas. Vous ne pouvez même pas dire mon nom.\x0E\x04\x02\x00
+MID_BT3_#004	\x0E\x05\x01 \x12M021_ヴェイル\nSmile\nMais n'ayez crainte. Je n'ai pas oublié votre\nrécompense. Que diriez-vous d'une mort\nrapide ?\x0E\x04\x00\x00
+MID_BT3_#005	\x0E\x05\x01\x10\x06モーヴ\x06Die\n\x0E\x03\x02\x08\x06モーヴ\nJe suis prêt à tous les sacrifices pour\narracher Dame Veyle à vos griffes.\x0E\x04\x02\x00
+MID_BT3_#006	\x0E\x05\x01\x16\x06モーヴ\x0CStrike\nDonne-moi la force, Marni !\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M021_ヴェイル\x02b\n\x0E\x05\x01\x1E\x12M021_ヴェイル\x08Pain\n\x0E\x03\x02\x14\x12M021_ヴェイル\nJe... Je...\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M021_セピア\x02b\n\x0E\x03\x02\x12\x10M021_セピア\nIl n'y a rien de personnel. Je suis simplement\nles ordres de Dame Veyle.\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M021_セピア\x02b\n\x0E\x05\x01\x1A\x10M021_セピア\x06Sad\n\x0E\x03\x02\x12\x10M021_セピア\nC'est bien triste que nous devions nous\naffronter, toi et moi, Mauvier.\x0E\x04\x02\x00
+MID_BT6_#002	\x0E\x05\x01\x1E\x10M021_セピア\nAngry\nMoi qui pensais que nous formions\nune famille...\x0E\x04\x00\x00
+MID_BT6_#003	\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x16\x06モーヴ\x0CStrike\n\x0E\x03\x02\x08\x06モーヴ\nUne famille ?! Vous avez tué Marni !\x0E\x04\x02\x00
+MID_BT6_#004	\x0E\x05\x01\x14\x06モーヴ\nAngry\nJ'aurais dû me dresser contre vous plus tôt.\nDame Veyle et Marni auraient eu une chance...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x16\x10M021_セピア\x02b\n\x0E\x05\x01\x1C\x10M021_セピア\x08Pain\n\x0E\x03\x02\x12\x10M021_セピア\nCe n'était pas si pathétique, finalement...\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM021_グリ\x02b\n\x0E\x05\x01\x1C\x0EM021_グリ\nRelax\n\x0E\x03\x02\x10\x0EM021_グリ\nQu'il y ait deux Chacals ou bien quatre, peu\nm'importe. Je combattrai avec plus de rage,\nvoilà tout.\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM021_グリ\x02b\n\x0E\x05\x01\x1E\x0EM021_グリ\x0CNormal\n\x0E\x03\x02\x10\x0EM021_グリ\nTiens, voilà le traître. Ne t'inquiète pas, tu vas\nbientôt rejoindre Marni.\x0E\x04\x00\x00
+MID_BT9_#002	\x0E\x03\x00\x0C\x06モーヴ\x02t\n\x0E\x05\x01\x14\x06モーヴ\nAngry\n\x0E\x03\x02\x08\x06モーヴ\nComment oses-tu prononcer son nom ?!\x0E\x04\x02\x00
+MID_BT9_#003	\x0E\x05\x01\x16\x06モーヴ\x0CStrike\nJe te tuerai vite. Tu seras enterré avant\nmême de ressentir la douleur de la mort.\x0E\x04\x00\x00
+MID_BT10_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x14\x0EM021_グリ\x02b\n\x0E\x05\x01\x1A\x0EM021_グリ\x08Pain\n\x0E\x03\x02\x10\x0EM021_グリ\nLa mort, c'est la fin de toute douleur. Qui\nsouhaiterait une telle chose ?\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x16\x10ヴェイル_黒_善\x021\n\x0E\x03\x02\x12\x10ヴェイル_黒_善\nQue... Que se passe-t-il ?\x0E\x04\x02\x00
+MID_ED1_#002	Vous ici, \x0E\x06\x03\x00 ?\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nVeyle ? Veyle ! C'est vraiment vous,\nn'est-ce pas ?!\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x12\x10ヴェイル_黒_善\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nÇa n'a aucun sens. Elle n'était pas censée\nchanger de la sorte...\x0E\x04\x02\x00
+MID_ED1_#005	Le casque enchanté... Il est fissuré !\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x00\x0C\x06モーヴ\x022\n\x0E\x03\x02\x08\x06モーヴ\nL'attaque de Marni a fait mouche ?\x0E\x04\x02\x00
+MID_ED1_#007	Marni... Quel courage.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x16\x10ヴェイル_黒_善\x021\n\x0E\x03\x02\x12\x10ヴェイル_黒_善\nOù... sommes-nous ?\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nAu château de Lythos. Vous étiez sous\nle joug de Zephia.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x12\x10ヴェイル_黒_善\nMa tête me fait souffrir le martyre. Et...\nAttendez un peu. Qu'est-ce que c'est\nque ces vêtements ?\x0E\x04\x02\x00
+MID_ED1_#011	Et... Où ai-je donc trouvé cet anneau ?\x0E\x04\x02\x00
+MID_ED1_#012	C'est le vôtre, n'est-ce pas ? Je me souviens...\nNous étions près de la cathédrale. Vous disiez\nqu'il était important pour vous.\x0E\x04\x02\x00
+MID_ED1_#013	Tenez... Prenez-le.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0A\x08リュール\nJe vous remercie, Veyle.\x0E\x04\x00\x00
+MID_ED1_#015	\x0E\x03\x01\x12\x10ヴェイル_黒_善\n\x0E\x03\x00\x0E\x08ソンブル\x021\n\x0E\x03\x02\x0A\x08ソンブル\nJe ne le tolérerai pas.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x00\x00
+MID_MOVIE1_#001	\x0E\x03\x02\x0A\x08ソンブル\nÉcoutez-moi, ô ma pauvre fille,\ntare de sa lignée.\x0E\x04\x00\x00
+MID_MOVIE1_#002	\x0E\x03\x02\x0A\x08ヴェイル\nPapa...\x0E\x04\x00\x00
+MID_MOVIE1_#003	\x0E\x03\x02\x0A\x08ソンブル\nNous sommes si proches, je le sens,\nmais leur bonté vous rend faible.\x0E\x04\x00\x00
+MID_MOVIE1_#003_2	\x0E\x03\x02\x0A\x08ソンブル\nAllez récupérer mes Anneaux d'Emblèmes !\x0E\x04\x00\x00
+MID_MOVIE1_#004	\x0E\x03\x02\x0A\x08ヴェイル\nNon !\x0E\x04\x00\x00
+MID_MOVIE1_#005	\x0E\x03\x02\x0A\x08ソンブル\nJe vois. Quel dommage.\x0E\x04\x02\x00
+MID_MOVIE1_#006	Bien... Vous ne m'êtes plus d'aucune utilité.\x0E\x04\x00\x00
+MID_MOVIE1_#006_2	Et je préfère... me débarrasser\ndes choses inutiles.\x0E\x04\x00\x00
+MID_MOVIE1_#007	\x0E\x03\x02\x0A\x08ヴェイル\nAh !\x0E\x04\x00\x00
+MID_MOVIE1_#008	\x0E\x03\x02\x0A\x08リュール\nVeyle !\x0E\x04\x00\x00
+MID_MOVIE1_#009	\x0E\x03\x02\x0A\x08ヴェイル\n \x0E\x04\x00\x00
+MID_MOVIE1_#010	\x0E\x03\x02\x0A\x08リュール\nAaah ! Argh... Ugh...\x0E\x04\x00\x00
+MID_MOVIE1_#011	\x0E\x03\x02\x0A\x08ヴェイル\nNon !\x0E\x04\x00\x00
+MID_MOVIE1_#012	\x0E\x03\x02\x0A\x08ソンブル\nStupide enfant.\x0E\x04\x02\x00
+MID_MOVIE1_#013	C'est la deuxième fois que je vous réprime.\x0E\x04\x02\x00
+MID_MOVIE1_#013_2	Mais cette fois-ci... le sommeil\nne vous ramènera pas.\x0E\x04\x02\x00
+MID_MOVIE1_#014	Cette fois-ci...\x0E\x04\x00\x00
+MID_MOVIE1_#014_2	votre défaite sera définitive.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0E\x08ヴェイル\x021\n\x0E\x03\x02\x0A\x08ヴェイル\nPourquoi avez-vous fait ça ?! Vous n'auriez\npas dû surgir devant moi, \x0E\x06\x03\x00 !\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x0A\x08リュール\nJ'ai simplement fait... mon possible...\npour vous protéger du danger.\x0E\x04\x02\x00
+MID_ED2_#003	Je voulais me faire pardonner toutes\nles fois où je n'ai pas su vous protéger.\x0E\x04\x02\x00
+MID_ED2_#004	Je suis désolé\x0E\x0A\x00\x06
+MID_ED2_#005	\x0E\x03\x02\x0A\x08ヴェイル\nTout ça m'est bien égal ! Mais ne mourez pas !\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x0A\x08リュール\nNe vous inquiétez pas... J'ai encore...\ndes choses importantes à faire...\x0E\x04\x02\x00
+MID_ED2_#006_2	\x0E\x03\x02\x0A\x08リュール\nJe ne peux pas mourir tant\nque je ne vous ai pas tout dit...\x0E\x04\x02\x00
+MID_ED2_#007	J'ai... tant de choses à vous dire...\nVous devez savoir qui... je suis...\x0E\x04\x02\x00
+MID_ED2_#007_2	Écoutez-moi, Veyle, je suis votre...\x0E\x04\x02\x00
+MID_ED2_#008	 \x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x02\x0A\x08ヴェイル\n\x0E\x06\x03\x00 ? Non...\naccrochez-vous... Ne me laissez pas !\x0E\x04\x02\x00
+MID_ED2_#010	Ne me laissez pas, \x0E\x06\x03\x00 !\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x00\x0E\x08ソンブル\x022\n\x0E\x03\x02\x0A\x08ソンブル\nMaintenant, plus personne\nne se dressera sur mon chemin.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0C\nヴァンドレ\nLe Dragon divin... est mort.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nComment... Comment est-ce possible ?\x0E\x04\x00\x00
+MID_ED2_#014	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08ヴェイル\nAttendez, la dracopierre !\x0E\x04\x00\x00
+MID_ED2_#014_2	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x02\x0A\x08ヴェイル\nMais pourquoi...\x0E\x04\x00\x00
+MID_ED2_#015	\x0E\x03\x02\x0A\x08ソンブル\nCette créature rebelle était\nun autre de mes enfants.\x0E\x04\x00\x00
+MID_ED2_#015_2	\x0E\x03\x02\x0A\x08ソンブル\nCelui que vous cherchiez depuis tout ce temps.\x0E\x04\x00\x00
+MID_ED2_#015_3	\x0E\x03\x02\x0A\x08ソンブル\nVotre frère.\x0E\x04\x00\x00
+MID_ED2_#015_F	\x0E\x03\x02\x0A\x08ソンブル\nCette créature rebelle était\nune autre de mes enfants.\x0E\x04\x00\x00
+MID_ED2_#015_F_2	\x0E\x03\x02\x0A\x08ソンブル\nCelle que vous cherchiez depuis tout ce temps.\x0E\x04\x00\x00
+MID_ED2_#015_F_3	\x0E\x03\x02\x0A\x08ソンブル\nVotre sœur.\x0E\x04\x00\x00
+MID_ED2_#016	\x0E\x03\x02\x0A\x08ヴェイル\nHein ?\x0E\x04\x00\x00
+MID_ED2_#017	\x0E\x03\x02\x0A\x08ソンブル\nLe Dragon divin a recueilli ce\x0E\x0A\x000\x10 traître\x1Ctte traîtresse après\nla dernière guerre et l'a aidé\x0E\x0A\x00\x06
+MID_ED2_#018	Aucun de mes enfants ne devrait être\nun Dragon divin. La mort était la seule issue.\x0E\x04\x00\x00
+MID_ED2_#019	\x0E\x03\x02\x0A\x08ヴェイル\nNon... Mais la pierre... La pierre\nne peut se briser que si...\x0E\x04\x02\x00
+MID_ED2_#020	Depuis tout ce temps... C'était vous, mon frère...\x0E\x04\x02\x00
+MID_ED2_#020_2	Je vous ai trouvé... Je vous ai enfin trouvé !\x0E\x04\x02\x00
+MID_ED2_#020_F	Depuis tout ce temps... C'était vous, ma sœur...\x0E\x04\x02\x00
+MID_ED2_#020_F_2	Je vous ai trouvée... Je vous ai enfin trouvée !\x0E\x04\x02\x00
+MID_ED2_#021	Je vous en prie, je dois vous parler ! Vous\nn'auriez pas dû vous sacrifier pour moi !\x0E\x04\x02\x00
+MID_ED2_#022	 \x0E\x04\x02\x00
+MID_ED2_#023	\x0E\x03\x02\x0A\x08ソンブル\nLes enfants sont si pathétiques. Enfin,\nles douze anneaux sont désormais à moi.\x0E\x04\x00\x00
+MID_ED2_#024	\x0E\x03\x02\x0A\x08ヴェイル\nNon ! Rendez-les-nous ! Immédiatement !\nCes anneaux appartiennent à mon frère !\x0E\x04\x02\x00
+MID_ED2_#024_F	\x0E\x03\x02\x0A\x08ヴェイル\nNon ! Rendez-les-nous ! Immédiatement !\nCes anneaux appartiennent à ma sœur !\x0E\x04\x02\x00
+MID_ED2_#025	Ses amis ont fait tant d'efforts\npour arriver jusqu'ici !\x0E\x04\x02\x00
+MID_ED2_#026	\x0E\x03\x02\x0A\x08ソンブル\nEt pourtant... Je contrôle\ntous les Anneaux d'Emblèmes.\x0E\x04\x02\x00
+MID_ED2_#027	Le pouvoir qu'ils octroient tous\nles mille ans est si grand !\x0E\x04\x00\x00
+MID_ED2_#027_2	Et aujourd'hui, il est à moi !\x0E\x04\x00\x00
+MID_MOVIE2_#002	\x0E\x03\x02\x0A\x08ソンブル\nEntendez-moi, Anneaux d'Emblèmes...\nAccordez-moi votre pouvoir infini !\x0E\x04\x02\x00
+MID_MOVIE2_#004	 \x0E\x04\x02\x00
+MID_MOVIE2_#006	Gradlon, élève-toi... Élève-toi à nouveau !\x0E\x04\x02\x00
+MID_MOVIE2_#009	Ha ha ha ha...\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x16\x10ヴェイル_黒_善\x022\n\x0E\x03\x02\x0C\nヴァンドレ\nImpossible. Gradlon... est restaurée...\x0E\x04\x00\x00
+MID_ED3_#002	\x0E\x03\x02\x12\x10ヴェイル_黒_善\nPapa, où allez-vous ? Vous avez tout détruit.\nVous avez même tué votre propre enfant...\x0E\x04\x02\x00
+MID_ED3_#003	Est-ce là ce que vous souhaitiez ?\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x0C\x06セピア\x021\n\x0E\x03\x02\x08\x06セピア\nOn dirait que c'est la fin pour vous tous, hum ?\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x12\x10ヴェイル_黒_善\nZephia !\x0E\x04\x00\x00
+MID_ED3_#006	\x0E\x03\x02\x08\x06セピア\nDame Tare. Vous n'avez survécu en ce jour\nque parce que l'on vous protégeait...\x0E\x04\x02\x00
+MID_ED3_#007	Mais malheureusement... il est temps\ndésormais de faire vos adieux.\x0E\x04\x00\x00
+MID_ED3_#008	\x0E\x03\x02\x12\x10ヴェイル_黒_善\nMes adieux ?\x0E\x04\x02\x00
+MID_ED3_#009	M-Ma tête !\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x00\x0C\x06モーヴ\x024\n\x0E\x03\x02\x08\x06モーヴ\nDame Veyle ?!\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x12\x10ヴェイル_黒_善\nJe ne veux... pas qu'elle... prenne\nle contrôle !\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x08\x06モーヴ\nMais Marni a détruit le casque !\x0E\x04\x00\x00
+MID_ED3_#013	\x0E\x03\x02\x08\x06セピア\nOh, Mauvier. Mon pauvre Mauvier. Ce n'était\nqu'une petite fissure. Cela l'a seulement\naffaibli...\x0E\x04\x02\x00
+MID_ED3_#014	Mais avec l'évolution du pouvoir du seigneur\nSombron, le casque est encore plus efficace\nqu'avant.\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x02\x08\x06モーヴ\n...\x0E\x04\x00\x00
+MID_ED3_#016	\x0E\x03\x02\x08\x06セピア\nDame Veyle ? Venez. Joignez-vous à nous,\nsi vous le voulez bien...\x0E\x04\x00\x00
+MID_ED3_#017	\x0E\x03\x00\x16\x10ヴェイル_黒_悪\x022\n\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nAaargh !\x0E\x04\x02\x00
+MID_ED3_#018	Ha ha ha !\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x08\x06モーヴ\nNon !\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nPère ! Mouah ha ha ! Quelle puissance !\nVous avez enfin réussi.\x0E\x04\x02\x00
+MID_ED3_#021	Je voulais tuer moi-même le Dragon divin,\nmais bon...\x0E\x04\x00\x00
+MID_ED3_#022	\x0E\x03\x02\x08\x06セピア\nDame Veyle... Le seigneur Sombron sera ravi\nde vous accueillir comme sa fille, désormais.\x0E\x04\x00\x00
+MID_ED3_#023	\x0E\x03\x00\x0A\x04グリ\x023\n\x0E\x03\x02\x06\x04グリ\nContent que vous soyez revenue parmi nous.\nJ'avoue que j'étais prêt à vous tuer moi-même,\ndans le cas contraire.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nZephia, Griss, retournez auprès de Père. Je vous\nretrouve très vite.\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x02\x08\x06セピア\nBien sûr.\x0E\x04\x00\x00
+MID_ED3_#026	\x0E\x03\x02\x06\x04グリ\nOui, je me doutais que vous diriez ça.\x0E\x04\x00\x00
+MID_ED3_#027	\x0E\x03\x01\x08\x06セピア\n\x0E\x03\x01\x06\x04グリ\n\x0E\x03\x01\x12\x10ヴェイル_黒_悪\n\x0E\x03\x01\x08\x06モーヴ\n\x0E\x03\x00\x16\x10ヴェイル_黒_悪\x021\n\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nBon... quant à vous, la mort est inévitable.\nMais je ne puis souffrir une tâche à moitié\nterminée.\x0E\x04\x02\x00
+MID_ED3_#028	Rangez tout ce désordre. Ne laissez aucun\nsurvivant.\x0E\x04\x00\x00
+MID_ED3_#029	\x0E\x03\x00\x12\x0Cディアマンド\x022\n\x0E\x03\x02\x0E\x0Cディアマンド\nDes Aberrations ! Il y en a beaucoup trop !\x0E\x04\x00\x00
+MID_ED3_#030	\x0E\x03\x00\x10\nミスティラ\x024\n\x0E\x03\x02\x0C\nミスティラ\nNous n'avons même pas nos anneaux...\x0E\x04\x00\x00
+MID_ED3_#031	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nDes anneaux ? Ils ne vous serviraient à rien.\nLe Dragon divin est mort.\x0E\x04\x02\x00
+MID_ED3_#032	Aucun d'entre vous n'est capable d'invoquer\ndes Emblèmes.\x0E\x04\x00\x00
+MID_ED3_#033	\x0E\x03\x01\x0E\x0Cディアマンド\n\x0E\x03\x00\x0E\x08アイビー\x022\n\x0E\x03\x02\x0A\x08アイビー\nC'est la fin... Nous n'avons aucune issue...\x0E\x04\x00\x00
+MID_ED3_#034	\x0E\x03\x02\x12\x10ヴェイル_黒_悪\nAlors, qui veut mourir en premier ? Ne soyez\npas timides, voyons.\x0E\x04\x02\x00
+MID_ED3_#035	Vous rejoindrez tous bientôt votre cher\n« Dragon divin », \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_ED3_#036	\x0E\x03\x01\x0A\x08アイビー\n\x0E\x03\x00\x12\x0Cアルフレッド\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nAllons-nous tous mourir ici ?\x0E\x04\x02\x00
+MID_ED3_#037	Il doit bien y avoir une solution ! Je vous en\nprie, \x0E\x06\x03\x00 !\x0E\x04\x02\x00

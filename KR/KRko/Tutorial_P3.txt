@@ -1,0 +1,50 @@
+MID_TUT_BMAP_EVIL_RULE_TITLE	사룡의 장의 출격 규칙
+MID_TUT_BMAP_EVIL_RULE_0	사룡의 장에서는 아군 유닛이\n각 맵에 따라 정해진 레벨과\n병과로 출격하게 됩니다
+MID_TUT_BMAP_EVIL_RULE_1	아이템도 정해진 물건을 소지하고 있습니다\n유닛끼리 소지품을 교환하는 것은 가능합니다
+MID_TUT_BMAP_EVIL_RULE_2	또한, ｢캐주얼｣, ｢클래식｣ 중\n어떤 설정으로 플레이하는가에 상관없이\n전투에서 쓰러진 아군은 맵 클리어 후에 복귀합니다
+MID_TUT_BMAP_EVIL_GUEST_TITLE	게스트 유닛
+MID_TUT_BMAP_EVIL_GUEST_0	사룡의 장의 스토리 중에는\n맵에 따라 정해진 게스트 유닛이 참가합니다
+MID_TUT_BMAP_EVIL_GUEST_1	엘은 용석을 사용해 싸우는 강력한 유닛입니다\n일은 기본 능력이 낮기 때문에 너무 앞에 나서지 않도록\n문장사와 짝을 지어 아군의 지원을 맡기도록 합시다
+MID_TUT_BMAP_EVIL_GUEST_2	사룡의 장에서는 엘, 일이 쓰러지면\n패배하게 되니 주의합시다
+MID_TUT_BMAP_EVIL_FANG_CURSE_TITLE	상태 이상 ｢송곳니의 저주｣
+MID_TUT_BMAP_EVIL_FANG_CURSE_0	이형늑대의 송곳니가 명중하면 전투 후에\n｢송곳니의 저주｣ 상태가 부여됩니다
+MID_TUT_BMAP_EVIL_FANG_CURSE_1	송곳니의 저주 상태가 되면 HP 최대치가 5 감소합니다\n추가로 공격이 명중할 때마다 효과가 축적됩니다
+MID_TUT_BMAP_EVIL_FANG_CURSE_2	송곳니의 저주 상태는 맵 종료 시까지 지속됩니다\n｢레스트｣의 지팡이를 사용하면 회복됩니다
+MID_TUT_BMAP_EVIL_MELEE_TITLE	혼전
+MID_TUT_BMAP_EVIL_MELEE_0	발밑의 원이 노란색으로 표시된 유닛도\n적군입니다
+MID_TUT_BMAP_EVIL_MELEE_1	빨간색 표시 유닛과 노란색 표시 유닛끼리도\n서로 적이기 때문에 서로를 공격합니다
+MID_TUT_BMAP_EVIL_MELEE_2	요령껏 잘 움직여서\n어부지리를 노리는 것도 좋은 방법입니다
+MID_TUT_BMAP_EVIL_POW_TITLE	갇힌 \x0E\x06\x03\x00
+MID_TUT_BMAP_EVIL_POW_0	갇혀 있는 \x0E\x06\x03\x00\x0E\x0A\x04\x08\x02은\x02는 무기를 들고 있지 않으며\n일방적으로 공격을 받게 됩니다
+MID_TUT_BMAP_EVIL_POW_1	격파당하면 패배하기 때문에\n공격을 받으면 회복시켜 줍시다
+MID_TUT_BMAP_EVIL_SUMMON_TITLE	소환의 소용돌이
+MID_TUT_BMAP_EVIL_SUMMON_0	소환의 소용돌이가 있는 위치에서는\n다음 아군 페이즈 개시와 동시에 적이 소환됩니다
+MID_TUT_BMAP_EVIL_SUMMON_1	소용돌이가 있는 칸에 유닛이 있으면\n적의 소환을 저지할 수 있습니다\n노릴 수 있다면 소용돌이를 막아 봅시다
+MID_TUT_BMAP_EVIL_RUSHMOVE_TITLE	파괴 충동
+MID_TUT_BMAP_EVIL_RUSHMOVE_0	사룡진이 빛나면 다음 적군 페이즈에\n대사룡 일이 주변 일대를 파괴한 다음\n그곳을 향해 이동합니다
+MID_TUT_BMAP_EVIL_RUSHMOVE_1	그때, 위험 범위에 있는 유닛은\n적과 아군을 가리지 않고 휘말려서 쓰러집니다
+MID_TUT_BMAP_EVIL_RUSHMOVE_2	휘말려서 쓰러진 유닛의 수에 따라\n대사룡 일이 파워 업합니다
+MID_TUT_DLG_E006_ADVICE	사룡의 장에서는 아군이 격파당해도\n사라지지 않으며 클리어 후에 복귀합니다\n총력을 기울여 도전해 봅시다!
+MID_TUT_BMAP_EVIL_ENCHANT_TITLE	특수 병과 ｢인챈트｣
+MID_TUT_BMAP_EVIL_ENCHANT_0	인챈트는 아이템과 무기를 사용해\n자신과 아군, 무기를 강화할 수 있는 병과입니다\n클래스 체인지에는 ｢신비한 가방｣이 필요합니다
+MID_TUT_BMAP_EVIL_ENCHANT_1	｢극한 활용｣ 커맨드는 아이템을 소비해\n아군 유닛에게 다양한 특수 효과를 부여합니다\n아이템에 따라 부여 가능한 효과가 달라집니다
+MID_TUT_BMAP_EVIL_ENCHANT_2	｢무기 공명｣ 커맨드는 소지품에서 지정한 무기와\n동명의 무기를 그 맵 동안만 강화합니다\n(적과 아군이 지닌 동명의 무기를 모두 강화)
+MID_TUT_BMAP_EVIL_MAGECANON_TITLE	특수 병과 ｢메이지 캐넌｣
+MID_TUT_BMAP_EVIL_MAGECANON_0	메이지 캐넌은 포탄을 발사해서\n원거리 공격을 할 수 있는 병과입니다\n클래스 체인지에는 ｢마법 대포｣가 필요합니다
+MID_TUT_BMAP_EVIL_MAGECANON_1	공격력은 ｢기술｣이 높을수록 상승합니다\n공격 시의 명중은 자신의 힘과 체격이 높고\n적과의 거리가 가까울수록 상승합니다
+MID_TUT_BMAP_EVIL_MAGECANON_2	｢전탄 발사｣ 커맨드는 1턴 후 지정한 위치에\n강력한 범위 공격을 합니다\n단, 장비 중이었던 포탄은 사라집니다
+MID_TUT_BMAP_EVIL_MAGECANON_3	적 메이지 캐넌의 전체 위험 범위 표시는\n일반적인 전체 위험 범위 표시와 다르게 표시됩니다
+MID_TUT_GMAP_EVIL_TITLE	월드 맵(사룡의 장)
+MID_TUT_GMAP_EVIL_0	사룡의 장에서는 전용 월드 맵을 이동하며\n스토리를 진행합니다
+MID_TUT_GMAP_EVIL_1	월드 맵 메뉴에서\n메인 스토리의 월드 맵과\n거점 솔라넬로 돌아갈 수 있습니다
+MID_TUT_GMAP_EVIL_2	한번 클리어한 맵에서는\n조우전이 발생하는 경우도 있습니다
+MID_TUT_HUB_EVIL_START_TITLE	사룡의 장
+MID_TUT_HUB_EVIL_START_0	신비한 우물을 통해\n사룡의 장 스토리를 시작할 수 있습니다
+MID_TUT_HUB_EVIL_START_1	모든 전투 맵을 클리어하지 않아도\n돌아가서 메인 스토리를 진행할 수 있습니다
+MID_TUT_HUB_EVIL_START_2	사룡의 장에서는 메인 스토리와는 별개로\n언제든지 난이도를 변경할 수 있습니다
+MID_TUT_HUB_EVIL_START_NOTICE	｢신비한 우물｣의 상태가 이상한 듯합니다
+MID_TUT_NAVI_E004_ADVICE_START	이 맵에서는 적끼리 전투하는 경우가 많으므로 환경 설정의\n『전투 애니메이션』과 『지팡이·춤추기 애니메이션』을\n｢아군 유닛｣으로 설정합니다\n이 설정은 환경 설정에서 언제든 변경할 수 있습니다
+MID_TUT_NAVI_E004_ADVICE_END	맵 시작 시에 변경한\n『전투 애니메이션』과 『지팡이·춤추기 애니메이션』\n설정을 원래대로 되돌립니다
+MID_TIPS_JOB_02	｢무기 공명｣은 이름만 같으면 수송대 안의 무기도 강화한다.
+MID_TIPS_JOB_03	｢무기 공명｣의 효과는 다른 무기를 공명시키면 제거된다.
+MID_TIPS_ITEM_21	메이지 캐넌의 ｢전탄 발사｣는 상태 이상 부여가 반드시 성공한다(일부 강적 제외).

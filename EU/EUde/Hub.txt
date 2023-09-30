@@ -1,0 +1,510 @@
+MID_Hub_ThisTime	Akt. Zeit
+MID_Hub_Time_Morning	\x0E\x08\x02\x10\x0EMorningMorgen
+MID_Hub_Time_Noon	\x0E\x08\x02\x08\x06DayNachmittag
+MID_Hub_Time_Evening	\x0E\x08\x02\x10\x0EEveningAbend
+MID_Hub_Time_Night	\x0E\x08\x02\x0C\nNightNacht
+MID_Hub_Move	Reisen
+MID_Hub_Enter	Betreten
+MID_Hub_Talk	Reden
+MID_Hub_Check	Ansehen
+MID_Hub_Ring_Cleaning_Brush	Polieren
+MID_Hub_Ring_Cleaning_BrushStrong	Stark polieren
+MID_Hub_Ring_Cleaning_Stop	Beenden
+MID_Hub_Unknown	???
+MID_Hub_WeaponShop	Arsenal
+MID_Hub_ItemShop	Laden
+MID_Hub_Blacksmith	Schmiede
+MID_Hub_AccessoryShop	Boutique
+MID_Hub_Mascot	Mysteriöser Altar
+MID_Hub_Mascot_After	Altar von \x0E\x06\x05\x00
+MID_Hub_FortuneStore	Wahrsager
+MID_Hub_FreeMarket	Flohmarkt
+MID_Hub_Photoshop	Ruhmeshalle
+MID_Hub_amiibo	amiibo-Pavillon
+MID_H_Hub_amiibo	Wähle eine Aktion.
+MID_Hub_amiibo_Read	Einlesen
+MID_Hub_amiibo_Accessory_Trade	Kostüme
+MID_Hub_amiibo_Music_Trade	Musik
+MID_Hub_Animal	Stall
+MID_Hub_Here_Unit	Personen
+MID_Hub_Area_List	Orte
+MID_Hub_Area_News	Benachrichtigungen
+MID_Hub_Area_News_Nothing	Keine Benachrichtigungen.
+MID_Hub_Area_Open	NEU
+MID_Hub_Area_NewItem	Neue Ware
+MID_Hub_Area_NewSystem	Neue Funktion
+MID_Hub_Area_NewLevel	Neue Schwierigkeit
+MID_Hub_Area_Count	Noch \x0E\x01\x00\x00
+MID_Hub_Area_NewStage	Neue Karte
+MID_Hub_Next	Aufbrechen
+MID_Hub_Next_Move	Reisen
+MID_Hub_Next_Confirm	Diese Gegend verlassen?
+MID_Hub_Next_Confirm_Where	Wohin?
+MID_Hub_Next_Confirm_Solanel	Somniel
+MID_Hub_Next_Confirm_Gmap	Weltkarte
+MID_Hub_Next_Go	Nächstes Kapitel
+MID_Hub_Confirm_Cancel	Hierbleiben
+MID_Hub_Gmap	Weltkarte
+MID_Hub_Gmap_Confirm	Zur Weltkarte?
+MID_Hub_M026	Z. letzt. Kampf
+MID_Hub_Solanel	Somniel
+MID_Hub_OtherWorld_Confirm	Durch das Portal in eine andere Welt gehen?
+MID_Hub_OtherWorld_Go	Los
+MID_Hub_MyRoom	Mein Zimmer
+MID_H_Hub_MyRoom	Opulentes Schlafgemach \x0E\x0A\x00<\x1Cdes Wyrmgottes\x1Cder Wyrmgöttin. Hier kannst du in Erinnerungen\nschwelgen oder eine kurze Pause machen.
+MID_Hub_GodRoom	Ringkammer
+MID_H_Hub_GodRoom	Ruheplatz der gesammelten Emblem-Ringe. Hier kannst du Fähigkeiten\nvon Emblemen erben oder Ringe des Bandes erstellen.
+MID_Hub_Cafe	Café
+MID_H_Hub_Cafe	Ein entspannender Gemeinschaftsort inklusive Kantine.\nBestelle beim Koch des Tages und speise mit Freunden.
+MID_Hub_Arena	Arena
+MID_H_Hub_Arena	Ein außerdimensionaler Trainingsort. Fordere Verbündete\nund Embleme zum Trainingskampf heraus und gewinne Erfahrung.
+MID_Hub_Arena_Closed	Noch nicht freigeschaltet.
+MID_Hub_Tower	Turm der Prüfungen
+MID_H_Hub_Tower	Ein kleines Bauwerk auf dem Kap. Darin kannst du dich\nan Prüfungen jenseits von Zeit und Raum versuchen.
+MID_Hub_CentralStores	Zentraler Platz
+MID_H_Hub_CentralStores	Der zentrale Platz beim Eingang ins Somniel beherbergt\nallerlei Geschäfte.
+MID_Hub_Poolside	Schwimmbad
+MID_H_Hub_Poolside	Ein elegantes Schwimmbecken, ideal für die\ngemeinsame Entspannung zwischen den Schlachten.
+MID_Hub_Orchard	Obstgarten
+MID_H_Hub_Orchard	Ein gut gepflegter Bestand an Obstbäumen.\nPflücke Zutaten für die Speisen im Café.
+MID_Hub_Pond	Teich
+MID_H_Hub_Pond	Ein kleiner Teich, in dem Fische\nund andere Kreaturen leben.
+MID_Hub_TrainingSpot	Trainingsplatz
+MID_H_Hub_TrainingSpot	Ein abgelegener Garten, in dem Verbündete\nihrem Training oder ihren Hobbys nachgehen.
+MID_Hub_Farm	Gehöft
+MID_H_Hub_Farm	Hier finden sich eine Weide sowie\nStallungen für Tiere aus ganz Elyos.
+MID_Hub_GoodViewSpot	Aussichtspunkt
+MID_H_Hub_GoodViewSpot	Eine Anhöhe mit fantastischem Ausblick.\nDer perfekte Ort für einen Moment der Besinnung.
+MID_Hub_Cave	Grotte
+MID_H_Hub_Cave	Eine uralte Kalksteingrotte im kalten Untergrund des\nSomniel. Darin befindet sich eine Art Altar.
+MID_Hub_MyRoom_Chest	Kommode
+MID_Hub_H_MyRoom_Chest_Nothing	Das sieht aus wie ein Ort für etwas Besonderes.
+MID_Hub_H_MyRoom_Chest_Ring_PickUp	Der Paktring ist darin. Herausnehmen?
+MID_Hub_MyRoom_Chest_Ring_PickUp	(Nach dem Ausruhen im Bett siehst du\nvielleicht andere Verbündete im Somniel.\nProbiere es aus, falls du den Verbündeten,\ndem du den Ring geben möchtest,\nnicht findest.)
+MID_Hub_H_MyRoom_Chest_Ring_PickUp_Yes	Ring nehmen
+MID_Hub_H_MyRoom_Chest_Ring_Return	Den Ring zurücklegen?
+MID_Hub_H_MyRoom_Chest_Ring_Return_Yes	Zurücklegen
+MID_Hub_MyRoom_Bed	Bett
+MID_Hub_MyRoom_Bed_TitleHelp	Wähle eine Aktion.
+MID_Hub_MyRoom_MovieChoice	Wähle eine Filmszene, die du ansehen möchtest.
+MID_Hub_MyRoom_SoundChoice	Wähle Musik zum Anhören aus.
+MID_Hub_MyRoom_SoundChoice_Stopping	Wird abgespielt: –
+MID_Hub_MyRoom_SoundChoice_Playing	Wird abgespielt: \x0E\x01\x00\x00
+MID_Hub_Bed_Sleep	Ausruhen
+MID_Hub_Bed_Sleep_CameHere	Klingt, als käme jemand herein...
+MID_Hub_Bed_Sleep_Guide	Etwas ausruhen?\n(Im Somniel wird Zeit vergehen.)
+MID_Hub_Bed_Sleep_Yes	Ausruhen
+MID_Hub_Bed_Recall	Erinnerungen
+MID_Hub_Bed_Recall_Wakeup	Weckdienst
+MID_Hub_Bed_Recall_Wakeup_List	Liste
+MID_Hub_Bed_Recall_Movie	Filmszenen
+MID_Hub_Bed_Recall_MovieList	Filmliste
+MID_Hub_Bed_Recall_Music	Musik
+MID_Hub_Bed_Difficulty_Change	Schwierigkeit
+MID_Hub_Bed_Difficulty_Change_Confirm	Du kannst die Schwierigkeit des Spiels\nnur verringern – du kannst sie nicht\nerhöhen oder die Änderung rückgängig\nmachen. Bist du sicher, dass du die\nSchwierigkeit ändern willst?
+MID_Hub_Bed_Difficulty_Change_Before	Aktuelle Schwierigkeit
+MID_Hub_Bed_Difficulty_Change_After	Neue Schwierigkeit
+MID_Hub_Bed_Difficulty_Change_Yes	Ändern
+MID_Hub_Bed_Difficulty_Change_Dialog	Schwierigkeit zu „\x0E\x01\x00\x00“ geändert.
+MID_Hub_Bed_Difficulty_Change_NG	Schwierigkeit kann von „Normal“ nicht geändert werden.
+MID_Hub_MyRoom_Piano	Klavier
+MID_Hub_MyRoom_Piano_Release	Du kannst jetzt das Klavier in deinem Zimmer\nim Somniel verwenden.
+MID_Hub_MyRoom_Piano_Confirmation	Du kannst dir die Credits ansehen.
+MID_Hub_MyRoom_Piano_Confirmation_Yes	Ansehen
+MID_Hub_Talk_Gift	Geschenk
+MID_Hub_Talk_PromisedRing	Paktring
+MID_Hub_Talk_Fishing	Angeln
+MID_Hub_Talk_DragonRide	Wyvernreiten
+MID_Hub_Talk_MuscleExercises	Krafttraining
+MID_Hub_Talk_Gift_PickUp	Wähle ein Geschenk, das du anbieten möchtest.
+MID_Hub_Talk_Gift_Confirmation	\x0E\x01\x00\x00 überreichen?
+MID_Hub_Talk_Gift_Yes	Überreichen
+MID_Hub_Mascot_Where	Dies scheint eine Art Altar zu sein.
+MID_Hub_Mascot_Spot	\x0E\x06\x05\x00
+MID_Hub_H_Mascot_Spot	Wähle, wie du dich darum kümmerst.
+MID_Hub_Mascot_Name	Wähle einen Namen für das Schutzwesen\ndes Somniel.
+MID_Hub_Mascot_Feeding	Füttern
+MID_Hub_Mascot_FoodChoice	Wähle etwas zu essen aus.
+MID_Hub_Mascot_FoodChoice_Nothing	Nichts vorhanden
+MID_Hub_Mascot_Gift_Confirmation	\x0E\x01\x00\x00 überreichen?
+MID_Hub_Mascot_Stroking	Streicheln
+MID_Hub_Mascot_Accessories	Anziehen
+MID_Hub_Mascot_Accessories_Help	Wähle, was du ändern möchtest.
+MID_Hub_Mascot_Accessories_Choice	Wähle ein Accessoire.
+MID_Hub_Mascot_Accessories_Parts	Accessoires
+MID_Hub_Mascot_Accessories_Head	Kopf
+MID_Hub_Mascot_Accessories_Tail	Schweif
+MID_Hub_Mascot_Accessories_Color	Schalfarbe
+MID_Hub_Mascot_Accessories_Color_Choice	Wähle die Farbe des Schals.
+MID_Hub_Mascot_Accessories_None	Nichts
+MID_Hub_Pedestal	Podest
+MID_Hub_Skill_Inheritance	Fähigkeiten erben
+MID_Hub_Ring_Gacha	Band-Ringe erstellen
+MID_Hub_Ring_Merge	Band-Ringe verschmelzen
+MID_Hub_Ring_Cleaning	Ringe polieren
+MID_Hub_RefineGodWeapon	Bündniswaffen
+MID_Hub_Inheritance_End	Geerbt
+MID_Hub_Inheritance_Level	Ab Lv. \x0E\x01\x00\x00
+MID_Hub_Inheritance_Invalid	Dieser Effekt tritt während eines\nBündnisses mit Emblem \x0E\x01\x00\x00\nnicht zusätzlich in Kraft.
+MID_Hub_Inheritance_Skill	Geerbte Fähigkeiten
+MID_Hub_Inheritance_Skill_HELP	Wähle eine Fähigkeit zum Erben.
+MID_Hub_Inheritance_LevelHelp	Ab Band-Level \x0E\x01\x00\x00
+MID_Hub_GodBodLevel	Band-Level
+MID_Hub_Inheritance_Skill_Confirmation	Diese Fähigkeit erben?
+MID_Hub_Inheritance_Skill_Yes	Erben
+MID_Hub_Inheritance_Skill_Finish	\x0E\x01\x00\x00\x0E\x01\x01\x00 geerbt.
+MID_Hub_Ring_Common_God_Empty	Du hast keine Ringe.
+MID_Hub_H_Ring_Gacha	Wähle ein Emblem, um Ringe zu erstellen.
+MID_Hub_Ring_Gacha_TotalRefinedCount	Insgesamt erstellt
+MID_Hub_Ring_Gacha_RingList	Erhaltene Ringe des Bandes
+MID_Hub_Ring_Gacha_1_Time_TitleHelp	Wähle die zu erstellende Menge.
+MID_Hub_Ring_Gacha_1_Time	1 erstellen
+MID_Hub_Ring_Gacha_10_Times	10 erstellen
+MID_Hub_Ring_Gacha_New	NEU!
+MID_Hub_Ring_Merge_Help	Einzuschmelzende Ringe wählen.
+MID_Hub_Ring_Merge_Empty	Keine vorhanden.
+MID_Hub_Ring_Merge_Needed_Count	Benötigte Materialien:
+MID_Hub_Ring_Merge_Failed_Full	Du kannst keine Ringe mehr tragen.
+MID_Hub_Ring_Merge_Confirm	Diese Ringe des Bandes einschmelzen?
+MID_Hub_Ring_Merge_Yes	Einschmelzen
+MID_Hub_Ring_Cleaning_GodSelect	Wähle einen Ring zum Polieren.
+MID_Hub_Ring_Cleaning_Help	Wähle, wer ihn polieren soll.
+MID_Hub_Ring_Cleaning_Confirm	\x0E\x01\x00\x00 von \x0E\x01\x01\x00 polieren lassen?
+MID_Hub_Ring_Cleaning_Yes	Polieren
+MID_Hub_Ring_Cleaning_Finish	Beenden
+MID_Hub_Ring_Cleaning_Finish_Confirm	Polieren beenden?
+MID_Hub_RefineGodWeapon_Refine	Verstärken
+MID_Hub_RefineGodWeapon_Refine_Help	Bündniswaffe zum Verstärken wählen.
+MID_Hub_RefineGodWeapon_RefineCapacity	Kapazität
+MID_Hub_RefineGodWeapon_RefineStatus	Werte
+MID_Hub_RefineGodWeapon_Empty	Keine Bündniswaffen verfügbar.
+MID_Hub_RefineGodWeapon_Nothing	Keine Verstärkungen.
+MID_Hub_RefineGodWeapon_SelectParam_Help	Zu verstärkenden Wert wählen.
+MID_Hub_RefineGodWeapon_Comfirm	\x0E\x01\x01\x00 von \x0E\x01\x00\x00 verstärken?
+MID_Hub_RefineGodWeapon_Contents	Verstärken:
+MID_Hub_RefineGodWeapon_Comfirm_Skill	Effektivität zur Waffe „\x0E\x01\x01\x00“ von\n\x0E\x01\x00\x00 hinzufügen?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Yes	Hinzufügen
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change	Effektivität der Waffe „\x0E\x01\x01\x00“ von\n\x0E\x01\x00\x00 ersetzen?
+MID_Hub_RefineGodWeapon_Comfirm_Skill_Change_Yes	Ersetzen
+MID_Hub_RefineGodWeapon_Comfirm_Yes	Verstärken
+MID_Hub_RefineGodWeapon_Comfirm2	\x0E\x01\x01\x00 von \x0E\x01\x00\x00 auf\n\x0E\x01\x02\x00 Lv. \x0E\x01\x03\x00 verstärkt.
+MID_Hub_RefineGodWeapon_Comfirm2_Skill	\x0E\x01\x02\x00 zur Waffe „\x0E\x01\x01\x00“ von\n\x0E\x01\x00\x00 hinzugefügt.
+MID_Hub_RefineGodWeapon_PowerUpValue	Kap.-Bedarf
+MID_Hub_RefineGodWeapon_Reset	Entfernen
+MID_Hub_RefineGodWeapon_Reset_Help	Wähle eine Bündniswaffe, von der etwas entfernt werden soll.
+MID_Hub_RefineGodWeapon_ResetParam_Help	Wähle eine Verstärkung, die entfernt werden soll.
+MID_Hub_RefineGodWeapon_Reset_Comfirm	\x0E\x01\x01\x00 von \x0E\x01\x00\x00 auf\n\x0E\x01\x02\x00 Lv. \x0E\x01\x03\x00 zurücksetzen?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Skill	\x0E\x01\x02\x00 von der Waffe „\x0E\x01\x01\x00“\nvon \x0E\x01\x00\x00 entfernen?
+MID_Hub_RefineGodWeapon_Reset_Comfirm_Yes	Entfernen
+MID_Hub_RefineGodWeapon_Reset_Comfirm2	\x0E\x01\x01\x00 von \x0E\x01\x00\x00 auf\n\x0E\x01\x02\x00 Lv. \x0E\x01\x03\x00 zurückgesetzt.
+MID_Hub_RefineGodWeapon_Reset_Comfirm2_Skill	\x0E\x01\x02\x00 von der Waffe „\x0E\x01\x01\x00“\nvon \x0E\x01\x00\x00 entfernt.
+MID_Hub_Arena_Gate	Trainingssiegel
+MID_Hub_Arena_Limit	Übrig:
+MID_Hub_Arena_Lv_MAX	Max. Band-Level erreicht.
+MID_Hub_Arena_Lv_Cap	Sieh das Gespräch an, um\nden Band-Level zu erhöhen.
+MID_Hub_Arena_Lv_Cap_Look	Band-Gespräch ansehen
+MID_Hub_Arena_Lv_Once	Du kannst den Band-Level\njeweils nur um 5 erhöhen.
+MID_Hub_Arena_Help	Wähle eine Aktion.
+MID_Hub_Arena_Start	Standard
+MID_Hub_Arena_Start_Help	Wähle eine Einheit zum Trainieren.
+MID_Hub_Arena_GodRelianceUp_Start	Emblem
+MID_Hub_Arena_GodRelianceUp_Start_Got_Select_Help	Wähle einen Emblem-Partner.
+MID_Hub_Arena_GodRelianceUp_Lv_Select	Wähle einen Band-Level.
+MID_Hub_Arena_GodRelianceUp_Help	Lass eine Einheit mit einem\nEmblem trainieren, um ihren\nBand-Level zu erhöhen.\nMehr Level kosten mehr\nFragmente des Bandes.
+MID_Hub_Arena_GodRelianceUp_Start_Confirm	Training mit \x0E\x01\x00\x00 und \x0E\x01\x01\x00 beginnen?
+MID_Hub_Arena_NoWeapon	Dieser Charakter kann am Training nicht\nteilnehmen, da er keine ausrüstbaren Waffen\nbei sich trägt.
+MID_Hub_Arena_Start_Confirm	Training von \x0E\x01\x00\x00 beginnen?
+MID_Hub_Arena_Win	SIEG
+MID_Hub_Arena_Lose	NIEDERLAGE
+MID_Hub_Arena_Draw	UNENTSCHIEDEN
+MID_Hub_Arena_BattleStart	VS.
+MID_Hub_Level_Choice	Wähle eine Schwierigkeit.
+MID_Hub_NewLevel_Open	Wird im Verlauf des Spiels freigeschaltet.
+MID_Hub_MiniGame_Expert	Experte
+MID_Hub_MiniGame_Start	LOS!
+MID_Hub_MiniGame_Finish	ENDE!
+MID_Hub_MiniGame_Stop	STOPP!
+MID_Hub_Mascot_Take_MuscleExercises	Brauchst du einen Trainingspartner?\n\x0E\x06\x05\x00 hilft dir, wenn seine\nZuneigung zu dir groß genug ist.
+MID_Hub_Mascot_Take_MuscleExercises_Yes	Mit \x0E\x06\x05\x00 trainieren
+MID_Hub_Mascot_NoTake_MuscleExercises	Allein trainieren
+MID_Hub_Mascot_Take_Fishing	Brauchst du einen Angelpartner?\n\x0E\x06\x05\x00 hilft dir, wenn seine\nZuneigung zu dir groß genug ist.
+MID_Hub_Mascot_Take_Fishing_Yes	Mit \x0E\x06\x05\x00 angeln
+MID_Hub_Mascot_NoTake_Fishing	Allein angeln
+MID_Hub_Mascot_Take_DragonRide	Brauchst du einen Reitpartner?\n\x0E\x06\x05\x00 hilft dir, wenn seine\nZuneigung zu dir groß genug ist.
+MID_Hub_Mascot_Take_DragonRide_Yes	Mit \x0E\x06\x05\x00 reiten
+MID_Hub_Mascot_NoTake_DragonRide	Allein reiten
+MID_Hub_MiniGame_AddDifficulty	Schwierigkeitsgrad „\x0E\x01\x00\x00“\nwurde hinzugefügt.
+MID_Hub_MiniGame_AddDifficulty_Muscle	Schwierigkeitsgrad „Eisern“ wurde hinzugefügt.\n(Diese Schwierigkeit dient dazu, deinen eigenen\nRekord zu brechen. Er beinhaltet keine\nBelohnungen oder Werte-Erhöhungen.)
+MID_Hub_MiniGame_MascotHelp	Beistand
+MID_Hub_MiniGame_MascotHelp_Count	Beistände
+MID_Hub_MiniGame_ThisTimeScore	Punkte
+MID_Hub_MiniGame_BestScore	Rekord
+MID_Hub_MiniGame_NoScore	Kein Rekord
+MID_Hub_MiniGame_TryResult	Ergebnis
+MID_Hub_MiniGame_DifficultyTipe	Niveau: \x0E\x01\x00\x00
+MID_Hub_MiniGame_NewRecord	Neuer Rekord!
+MID_Hub_MiniGame_Result_SSS	A+++
+MID_Hub_MiniGame_Result_SS	A++
+MID_Hub_MiniGame_Result_S	A+
+MID_Hub_MiniGame_Result_A	A
+MID_Hub_MiniGame_Result_B	B
+MID_Hub_MiniGame_Result_C	C
+MID_Hub_MiniGame_Result_D	D
+MID_Hub_MiniGame_Result_E	E
+MID_Hub_MiniGame_Result_F	F
+MID_Hub_MuscleExercises_Menu_Choice	Wähle eine Übung.
+MID_Hub_MuscleExercises_Rule	Regeln
+MID_Hub_MuscleExercises_Effect	Effekt
+MID_Hub_MuscleExercises_Continuity	Du erhältst keine weiteren Boni oder\nBelohnungen. Möchtest du das Krafttraining\ndennoch fortsetzen?
+MID_Hub_MuscleExercises_Continuity_Unacquired	Möchtest du das Krafttraining fortsetzen?
+MID_Hub_MuscleExercises_Continuity_Yes	Fortsetzen
+MID_Hub_MuscleExercises_Muscle	Eisern
+MID_Hub_MuscleExercises_Perfect	Perfekt
+MID_Hub_MuscleExercises_Good	Gut
+MID_Hub_MuscleExercises_Bad	Schlecht
+MID_Hub_MuscleExercises_Assist	Beistand
+MID_Hub_MuscleExercises_SpeedUp	Schneller!
+MID_Hub_MuscleExercises_Record	Aktueller Rekord
+MID_Hub_MuscleExercises_SuccessCount	Erfolge
+MID_Hub_MuscleExercises_ErrorCount	Fehler
+MID_Hub_MuscleExercises_Result	Ergebnis
+MID_Hub_MuscleExercises_StatusUp	\x0E\x01\x00\x00 +\x0E\x01\x01\x00 im nächsten Kampf.
+MID_Hub_MuscleExercises_PushUps	Liegestütze
+MID_Hub_MuscleExercises_PushUps_Rule_0	Halte die Leiste in der\nrichtigen Position an.
+MID_Hub_MuscleExercises_PushUps_Rule_1	Tempo wird höher. Nach\ndrei Fehlern ist es vorbei.
+MID_Hub_MuscleExercises_PushUps_Rule_2	Stä. von \x0E\x06\x03\x00 im\nnächsten Kampf evtl. höher.
+MID_Hub_MuscleExercises_Ads	Klappmesser
+MID_Hub_MuscleExercises_Ads_Rule_0	Fülle d. Leiste durch schnel-\nles Drücken des Knopfes.
+MID_Hub_MuscleExercises_Ads_Rule_1	Drücke so schnell du kannst.\nSpielende bei leerer Leiste.
+MID_Hub_MuscleExercises_Ads_Rule_2	KP von \x0E\x06\x03\x00 im\nnächsten Kampf evtl. höher.
+MID_Hub_MuscleExercises_Squat	Kniebeugen
+MID_Hub_MuscleExercises_Squat_Rule_0	Bewege beide Sticks der\nAnzeige entsprechend.
+MID_Hub_MuscleExercises_Squat_Rule_1	Folge den Pfeilen. Nach\ndrei Fehlern ist es vorbei.
+MID_Hub_MuscleExercises_Squat_Rule_2	Beh. von \x0E\x06\x03\x00 im\nnächsten Kampf evtl. höher.
+MID_Hub_Fishing_Continue_RodSelect	Wähle eine Angelrute.
+MID_Hub_Fishing_Continue	Weiterangeln?
+MID_Hub_Fish_Pcture_Book	Fischlexikon
+MID_Hub_Fishing_BonusFish	Bonus-Spezies
+MID_Hub_Fishing_Rod	Angelrute
+MID_Hub_Fishing_Fish	Fische
+MID_Hub_Fishing_Limit	Noch
+MID_Hub_Fishing_Count	Gefangen
+MID_Hub_Fishing_Success	Geschafft
+MID_Hub_Fishing_Perfect	Perfekt
+MID_Hub_Fishing_Escaped_Fast	Zu früh...
+MID_Hub_Fishing_Escaped_Late	Zu spät...
+MID_Hub_Fishing_Escaped	Er ist entkommen...
+MID_Hub_Fishing_BestSize	Rekord
+MID_Hub_Fishing_Centimeter	cm
+MID_Hub_Fishing_Size	Größe
+MID_Hub_Fishing_TinySize	Winzig
+MID_Hub_Fishing_SmallSize	Klein
+MID_Hub_Fishing_MiddleSize	Mittel
+MID_Hub_Fishing_LargeSize	Groß
+MID_Hub_Fishing_BigSize	Sehr groß
+MID_Hub_Fishing_GiantSize	Riesig
+MID_Hub_Fishing_Shadow_Small	Kleiner Schatten
+MID_Hub_Fishing_Shadow_Big	Großer Schatten
+MID_Hub_Fishing_Shadow_Giant	Riesiger Schatten
+MID_Hub_Fishing_GetItem	Erhalt. Items
+MID_Hub_Fishing_Conditions	Angel-Tipps
+MID_Hub_Fishing_TimeZone	Tageszeit
+MID_Hub_Fishing_TimeZone_Night	\x0E\x08\x02\x10\x0EEveningAbend\x0E\x08\x02\x0C\nNightNacht
+MID_Hub_Fishing_FishType	Gefangene Fischarten
+MID_Hub_Fishing_Continue_Yes	Weiter
+MID_Hub_Fishing_End	Beenden
+MID_Hub_Fishing_Bonus	BONUS!
+MID_Hub_Fishing_Hit	ANBISS!
+MID_Hub_Fishing_UnicornChar	Einhornforelle
+MID_Hub_H_Fishing_UnicornChar	Das Horn, das an ihrem Kopf\nwächst, bricht manchmal. Ihr\nFleisch wird zu Paste verarbeitet.
+MID_Hub_Fishing_PonYamame	Sint-Forelle
+MID_Hub_H_Fishing_PonYamame	Das schöne gepunktete Muster\nan ihren Seiten verblasst mit\nder Zeit. Ihr Fleisch ist delikat.
+MID_Hub_Fishing_HellKoi	Caria-Karpfen
+MID_Hub_H_Fishing_HellKoi	Seine manchmal lebhaften Farben\nmachen ihn zu einem beliebten\nHaustier. Nahrhaft und delikat.
+MID_Hub_Fishing_RavanaTrout	Tierra-Forelle
+MID_Hub_H_Fishing_RavanaTrout	Leicht zu fangen. Ein Fisch aus\nElusia, der getrocknet wird, um\nseinen Geschmack zu erhalten.
+MID_Hub_Fishing_SlitFinSalmon	Tipa-Lachs
+MID_Hub_H_Fishing_SlitFinSalmon	Der meistgefangene Fisch in\nBrodia. Bekannt für seine langen\nFlossen und sein rotes Fleisch.
+MID_Hub_Fishing_MandCobbBass	Monvill-Barsch
+MID_Hub_H_Fishing_MandCobbBass	Ein wahres Monster, beliebt beim\nBarschwettfischen in Solm.\nErgibt schmackhaftes Sashimi.
+MID_Hub_Fishing_BanganHerring	Samia-Hering
+MID_Hub_H_Fishing_BanganHerring	Seine oft großen Schulen über-\nraschen Fischer mit einem guten\nFang. Von mildem Geschmack.
+MID_Hub_Fishing_TeoteSquid	Paffo-Kalmar
+MID_Hub_H_Fishing_TeoteSquid	Kluge Fischer machen es sich\nzum Vorteil, dass sie Glitzerndes\nlieben. Wird fein gehackt serviert.
+MID_Hub_Fishing_BlosEel	Mykenä-Aal
+MID_Hub_H_Fishing_BlosEel	Sein schleimiger Körper macht es\nschwierig, ihn vom Haken zu lö-\nsen. Von herzhaftem Geschmack.
+MID_Hub_Fishing_LogerOctopus	Matob-Oktopus
+MID_Hub_H_Fishing_LogerOctopus	Man sollte ihn einholen, bevor er\nsich an Felsen festhält. Sein\nganzer Körper ist genießbar.
+MID_Hub_Fishing_HegeBeardCatfish	Mir-Wels
+MID_Hub_H_Fishing_HegeBeardCatfish	Er navigiert mithilfe seiner langen\nBarteln. Wird gekocht, gebraten\noder getrocknet serviert.
+MID_Hub_Fishing_SarriaDogMorayEel	Canisaria-Aal
+MID_Hub_H_Fishing_SarriaDogMorayEel	Dicker, aggressiver Fisch mit\ngefährlich scharfen Fängen. Sein\nFleisch ist voll im Geschmack.
+MID_Hub_Fishing_OmemeSardine	Glotz-Sardine
+MID_Hub_H_Fishing_OmemeSardine	Ein kleiner Fisch aus Firene, der\nzum Selbstschutz in Schwärmen\nschwimmt. Leicht zu säubern.
+MID_Hub_Fishing_AvidCrab	Samar-Krabbe
+MID_Hub_H_Fishing_AvidCrab	Bei Tagesanbruch leichter zu\nfangen, da sie sich am Tag im\nSand versteckt. Schale ist essbar.
+MID_Hub_Fishing_MunonTailHorseMackerel	Gela-Makrele
+MID_Hub_H_Fishing_MunonTailHorseMackerel	Gut geeignet für jene, die die\nZubereitung von Fisch üben\nwollen. Getrocknet sehr lecker.
+MID_Hub_Fishing_DosmaRay	Flachkopf-Rochen
+MID_Hub_H_Fishing_DosmaRay	Der Schwanz ist giftig. Das\nMuster auf seinem Bauch über-\nrascht alle mit einem Lächeln.
+MID_Hub_Fishing_DemonFangCod	Valcamo-Dorsch
+MID_Hub_H_Fishing_DemonFangCod	Erstklassiger Fisch, beliebt in\nBrodia und Firene. Alles von ihm\nwird verwendet.
+MID_Hub_Fishing_TephraSkipjack	Bisot-Thunfisch
+MID_Hub_H_Fishing_TephraSkipjack	Ein kräftiger Fisch, der um sein\nLeben kämpft. Frische Gerichte\nvon diesem Fisch sind beliebt.
+MID_Hub_Fishing_RainbowTrout	Prismaforelle
+MID_Hub_H_Fishing_RainbowTrout	Ein extrem seltener, mysteriöser\nFisch mit bunten Schuppen. Er\nist eine wahre Delikatesse.
+MID_Hub_Fishing_EnchantSkipjack	Mirakelthunfisch
+MID_Hub_H_Fishing_EnchantSkipjack	Wenig ist über diese seltene Art\nvon Thunfisch bekannt, da sie\nsich so schwer fangen lässt.
+MID_Hub_DragonRide_NowScore	Punkte:
+MID_Hub_DragonRide_BreakTarget	Treffer
+MID_Hub_DragonRide_Target_Pattern	Typen
+MID_Hub_DragonRide_Target_Normals	Standard
+MID_Hub_DragonRide_Target_Normals_Help	Ein Standardziel, das bei\nTreffern mit Drachen-\nschlag zerstört wird.
+MID_Hub_DragonRide_Target_Big	Explosiv
+MID_Hub_DragonRide_Target_Big_Help	Zerstört alle Ziele in der\nUmgebung, wenn es\ngetroffen wird.
+MID_Hub_DragonRide_Target_Link	Kette
+MID_Hub_DragonRide_Target_Link_Help	Zerstört benachbarte\nZiele in einer Reihe, wenn\nes getroffen wird.
+MID_Hub_DragonRide_Target_Special	Verstärker
+MID_Hub_DragonRide_Target_Special_Help	Stärkt deinen Drachen-\nschlag vorübergehend,\nwenn es getroffen wird.
+MID_Hub_DragonRide_Target_Rroulette	Wild
+MID_Hub_DragonRide_Target_Rroulette_Help	Dieses Ziel ändert seinen\nTyp fortlaufend, bis es\ngetroffen wird.
+MID_Hub_DragonRide_Operation	Steuerung
+MID_Hub_DragonRide_Operation_Title_Stick	Steuerung (Sticks)
+MID_Hub_DragonRide_Operation_Title_Gyro	Bewegungsst.
+MID_Hub_DragonRide_Operation_To_Stick	Zu Sticks wechseln
+MID_Hub_DragonRide_Operation_To_Gyro	Zu Bewegungsst. wechseln
+MID_Hub_DragonRide_Operation_Plus	Pause/Zurück
+MID_Hub_DragonRide_Operation_A	Feuerschlag
+MID_Hub_DragonRide_Operation_Y	Zieltempo
+MID_Hub_DragonRide_Operation_StickLR	Zielsteuerung
+MID_Hub_DragonRide_Operation_StickLR_Push	Ziel zurücksetzen
+MID_Hub_DragonRide_Operation_StickLR_Push_Sub	Bewegungssteuerung\nist auf der Seite des\ngedrückten Sticks aktiv.
+MID_Hub_DragonRide_Operation_ZLZR	Feuerschlag
+MID_Hub_DragonRide_Operation_LR	Zieltempo
+MID_Hub_DragonRide_Operation_Gyro0	Neigen:
+MID_Hub_DragonRide_Operation_Gyro1	Zielen
+MID_Hub_DragonRide_Operation_Suspension	Wyvernreiten beenden
+MID_Hub_CafeTerrace_Jukebox	Musiktruhe
+MID_Hub_CafeTerrace_H_Jukebox	Ändere die Musik im Somniel.
+MID_Hub_CafeTerrace_Board	Pinnwand
+MID_Hub_CafeTerrace_Cook	Bestellen
+MID_Hub_CafeTerrace_Cook_Choice_Unit	Wähle zwei Tischpartner.
+MID_Hub_CafeTerrace_Cook_Choice_Menu	Wähle ein Gericht.
+MID_Hub_CafeTerrace_Cook_Choice_Foods	Wähle Zutaten aus.
+MID_Hub_CafeTerrace_Cook_Specialty	Experte
+MID_Hub_CafeTerrace_Cook_StrongPoint	Erfahren
+MID_Hub_CafeTerrace_Cook_Experienced	Geübt
+MID_Hub_CafeTerrace_Cook_Challenging	Eifrig
+MID_Hub_CafeTerrace_Cook_BasicEffect	Effekte:
+MID_Hub_CafeTerrace_Cook_Favorite	Schmeckt wem?
+MID_Hub_CafeTerrace_Cook_Favorite_Good	Sehr gut
+MID_Hub_CafeTerrace_Cook_Favorite_Normal	Mittel
+MID_Hub_CafeTerrace_Cook_Favorite_Bad	Gar nicht
+MID_Hub_CafeTerrace_Cook_Chef	Koch vom Dienst
+MID_Hub_CafeTerrace_Friend	Tischpartner
+MID_Hub_CafeTerrace_CookMenu	Gericht
+MID_Hub_CafeTerrace_Cook_CallFriend	Tischpartner
+MID_Hub_CafeTerrace_Cook_RelianceStatus	Unterst.
+MID_Hub_CafeTerrace_Cook_AddFood	Zutaten hinzufügen
+MID_Hub_CafeTerrace_Cook_AddFood_Nothing	Keine
+MID_Hub_CafeTerrace_Cook_CanAddFood	Verwendbare Zutaten
+MID_Hub_CafeTerrace_Cook_Confirmation	Mit dem Kochen beginnen?
+MID_Hub_CafeTerrace_Cook_Everyone	Alle Einheiten erhalten
+MID_Hub_CafeTerrace_Cook_Effect_Nothing	Keine Effekte
+MID_Hub_CafeTerrace_Cook_Also	Wenn \x0E\x01\x00\x00, zusätzlich
+MID_Hub_CafeTerrace_Cook_Workmanship	Rang
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS	A++
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S	A+
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A	A
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B	B
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C	C
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D	D
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E	E
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F	F
+MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G	G
+MID_Hub_CafeTerrace_Bento_Get	Die Reste wurden zum Mitnehmen verpackt.
+MID_Hub_CafeTerrace_Bento_Discard	\x0E\x01\x00\x00 entsorgt.
+MID_MENU_NOTICE_BOARD_TITLE	Pinnwand
+MID_MENU_NOTICE_BOARD_HELP	Welche Information ansehen?
+MID_MENU_NOTICE_BOARD_INVESTMENT	Spenden
+MID_MENU_NOTICE_BOARD_INVESTMENT_HELP	An welches Land spenden?
+MID_MENU_NOTICE_SOLANEL_INFO	Karte des Somniel
+MID_MENU_NOTICE_ACHIEVEMENT	Erfolge
+MID_MENU_INVESTMENT_AmountOfMoney	Wie viel möchtest du spenden?
+MID_MENU_INVESTMENT_G	\x0E\x01\x00\x00\x0E\x01\x01\x00 G
+MID_MENU_INVESTMENT_NEXT_LEVEL	Nächster Level
+MID_MENU_INVESTMENT_TOTAL	Bisher gespendet
+MID_MENU_INVESTMENT_LEVEL_EFFECT	Levelaufstieg-Effekte
+MID_MENU_INVESTMENT_LEVEL_BONUS	Sofortbelohnung
+MID_MENU_INVESTMENT_RESULT	Erkundung
+MID_MENU_INVESTMENT_LEVEL_EFFECT_MAX	Max. Level erreicht
+MID_MENU_INVESTMENT_COMPLETE	GESCHAFFT!
+MID_MENU_INVESTMENT_COMPLETE_INFO	Du hast den Maximalbetrag erreicht.
+MID_MENU_INVESTMENT_COMPLETE_HELP	\x0E\x08\x02\x04\x02X Inhalt unter „Details“.
+MID_MENU_INVESTMENT_GOLD_ENEMY	Gold-Verzerrter
+MID_MENU_INVESTMENT_EXP_ENEMY	Silber-Verzerrter
+MID_MENU_INVESTMENT_ANIMAL_ENABLE	Aufnehmbar
+MID_MENU_NATIONDATA_TITLE	Ressourcen: \x0E\x01\x00\x00
+MID_MENU_NATIONDATA_REFINE_ITEM	Minerale
+MID_MENU_NATIONDATA_FOOD	Zutaten
+MID_MENU_NATIONDATA_ANIMAL	Tiere
+MID_MENU_INVESTMENT_BONUS_FILENE_1	Reiche Ernte
+MID_MENU_INVESTMENT_BONUS_BRODIA_1	Mineralschätze
+MID_MENU_INVESTMENT_BONUS_IRCION_1	Wunderbare Heilung
+MID_MENU_INVESTMENT_BONUS_SOLUM_1	Marktwaren
+MID_MENU_INVESTMENT_BONUS_2	Nationalkleidung
+MID_MENU_INVESTMENT_BONUS_3	Begleiterpaket
+MID_MENU_INVESTMENT_BONUS_4	Traditionelle Kleidung
+MID_MENU_INVESTMENT_BONUS_Get	\x0E\x01\x00\x00 erhalten.
+MID_MENU_INVESTMENT_DIALOG_NEXT_ITEM	Nächst. Level (\x0E\x01\x00\x00)
+MID_MENU_SOLANEL_INFO_TITLE	Karte des Somniel
+MID_MENU_SOLANEL_INFO_COMMENT	Wähle, wohin du reisen möchtest.
+MID_MENU_SOLANEL_INFO_CONFIRM_TEXT	\x0E\x01\x00\x00: An diesen Ort begeben?
+MID_MENU_SOLANEL_INFO_CONFIRM_YES	Ja
+MID_MENU_ACHIEVEMENT_TITLE	Erfolge
+MID_MENU_ACHIEVEMENT_COUNT_TITLE	Geschafft
+MID_MENU_ACHIEVEMENT_COUNT_UNIT	Verbünd.
+MID_MENU_ACHIEVEMENT_COUNT_BATTLE	Kampf
+MID_MENU_ACHIEVEMENT_COUNT_SOLANEL	Somniel
+MID_MENU_ACHIEVEMENT_COUNT_SHOP	Laden
+MID_MENU_ACHIEVEMENT_COUNT_SYSTEM	System
+MID_MENU_ACHIEVEMENT_COUNT_TOTAL	Gesamt
+MID_MENU_ACHIEVEMENT_NOW	Gesamt
+MID_MENU_ACHIEVEMENT_BONUS	Belohnungen
+MID_MENU_ACHIEVEMENT_CLEAR	GESCHAFFT!
+MID_MENU_ACHIEVEMENT_COMPLETE	VOLLSTÄNDIG
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE	Belohnung für [\x0E\x01\x00\x00] abgeholt.
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL	Alle Belohnungen für Erfolge abholen?
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALLGET	Alle Belohnungen für Erfolge abgeholt.
+MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL_YES	Alle abholen
+MID_MENU_ACHIEVEMENT_UNIT_HUMAN	 Person(en)
+MID_MENU_ACHIEVEMENT_UNIT_ITEM	 Item(s)
+MID_MENU_ACHIEVEMENT_UNIT_COUNT	-mal
+MID_MENU_ACHIEVEMENT_UNIT_TIME	 Stunde(n)
+MID_MENU_ACHIEVEMENT_UNIT_ENEMY	 Gegner
+MID_MENU_ACHIEVEMENT_Clear_Nothing	Keine neuen Erfolge.
+MID_Hub_AnimalCoop_Nothing	Es sind noch keine Tiere hier...
+MID_Hub_AnimalCoop_Choice	Wähle die Tiere, die auf die Weide sollen.
+MID_Hub_AnimalCoop_Trade	Tauschen
+MID_Hub_AnimalCoop_FreeAnimal	Draußen
+MID_Hub_AnimalCoop_InAnimal	Drinnen
+MID_Hub_AnimalCoop_Number	Insgesamt
+MID_Hub_AnimalCoop_Entrust	Stall
+MID_Hub_AnimalCoop_Contact	Betrachten
+MID_TUT_HUB_RECORD_HALL_TITLE	Ruhmeshalle
+MID_TUT_HUB_RECORD_HALL_0	In der Ruhmeshalle kannst du deine Visitenkarte\nbearbeiten und die Karten anderer Spieler\nansehen.
+MID_TUT_HUB_RECORD_HALL_1	Du kannst diese Aktionen auch in der Enzyklo-\npädie vornehmen, aber Fototermine können nur\nin Außenbereichen des Somniel stattfinden.
+MID_TUT_HUB_PROFILE_TITLE	Visitenkarte
+MID_TUT_HUB_PROFILE_0	Auf deiner Visitenkarte kannst du individuell\ndarstellen, was du in diesem Spiel geleistet hast.
+MID_TUT_HUB_PROFILE_1	Mithilfe der Online-Funktionen kannst du deine\nKarte öffentlich machen und mit anderen\nSpielern Visitenkarten austauschen.
+MID_TUT_HUB_PROFILE_EDIT_TITLE	Visitenkarte bearbeiten
+MID_TUT_HUB_PROFILE_EDIT_0	Wähle „Meine Karte“, um deine Visitenkarte zu\nbearbeiten.
+MID_TUT_HUB_PROFILE_EDIT_1	Im fortschreitenden Spielverlauf wirst du\nweitere Individualisierungsoptionen freischalten.
+MID_TUT_HUB_PROFILE_PHOTO_TITLE	Fototermin
+MID_TUT_HUB_PROFILE_PHOTO_0	Du kannst auf deiner Visitenkarte auch ein Foto\nzeigen.
+MID_TUT_HUB_PROFILE_PHOTO_1	Kleide deine Verbündeten ein und positioniere\nsie an einem Ort deiner Wahl im Somniel.
+MID_TUT_HUB_PROFILE_PHOTO_2	Wenn alles vorbereitet ist, drücke \x0E\x08\x02\x0A\x08Plus, um den\nFotomodus zu aktivieren, und drücke dann\n\x0E\x08\x02\x04\x02L oder \x0E\x08\x02\x04\x02R, um das Foto aufzunehmen.
+MID_TUT_HUB_PROFILE_TRADE_TITLE	Visitenkarten austauschen
+MID_TUT_HUB_PROFILE_TRADE_0	Du kannst Visitenkarten mit anderen Spielern\naustauschen, die du in Staffel- und Dimensions-\nprüfungen getroffen hast.
+MID_TUT_HUB_PROFILE_TRADE_1	Falls du nicht möchtest, dass andere Spieler\ndeine Karte sehen, kannst du die Privatsphäre-\nEinstellungen der Karte anpassen.
+MID_TUT_HUB_PROFILE_TRADE_2	Im Menü kannst du die Karten anderer Spieler\nansehen und löschen.

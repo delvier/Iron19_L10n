@@ -1,0 +1,62 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x10\nヴェロニカ\x023\n\x0E\x03\x02\x0A\x08リュール\nIncredible. Another island among the clouds.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nI can sense another bracelet near here. We're\nquite close now, I'm certain.\x0E\x04\x02\x00
+MID_OP1_#003	Ah, there it is! The Bracelet of the Lonely Heir!\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x0A\x08リュール\nI hope the Emblem inside is friendly. Well, time\nto find out.\x0E\x04\x02\x00
+MID_OP1_#005	Heed our summons, Emblem of Heroes!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\nI am Veronica, Imperial Princess of Embla.\nName yourself.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nHello, Emblem Veronica. I'm the\nDivine Dragon \x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_OP2_#003	It's an honor.\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x0C\nヴェロニカ\nAn honor. What a strange thing to say.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nI'm honored to speak with such a distinguished\nEmblem. There's nothing strange about that.\x0E\x04\x02\x00
+MID_OP2_#006	And it just so happens we need all the allies\nwe can get. Would you consider joining us?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0C\nヴェロニカ\nJoining you? As your ally?\x0E\x04\x02\x00
+MID_OP2_#008	You have it the wrong way around. It is you\nwho would be joining the Emblian army.\x0E\x04\x02\x00
+MID_OP2_#009	But very well, I accept. You may join the Heroes\nI have summoned from other worlds.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\nYou can do that?\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0C\nヴェロニカ\nYes. Where I come from, that power belongs\nto one called the summoner.\x0E\x04\x02\x00
+MID_OP2_#012	When I became an Emblem, I developed the\nsame ability.\x0E\x04\x02\x00
+MID_OP2_#013	Now I am gathering Heroes from other worlds,\nthat I might bring the Kingdom of Askr to ruin.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nI've never heard of any Kingdom of Askr...\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0C\nヴェロニカ\nNever mind that. You will make a fine pawn in\nmy schemes.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x0A\x08リュール\nNow hold on a second...\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0C\nヴェロニカ\nThere is no time for delay. I must make you my\nHero before the summoner can do the same.\x0E\x04\x02\x00
+MID_OP2_#018	Prepare yourself for combat. The victor\ncommands the vanquished.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x0A\x08リュール\nWait! I don't want to fight!\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0C\nヴェロニカ\nYou don't have a choice. Let's begin.\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\n\x0E\x03\x02\x0C\nヴェロニカ\nOnce I defeat you, I will make you mine.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nDivine One, I fear it may be impossible for us\nto reach Emblem Veronica on this terrain...\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\nUse these tiles to reach my position.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nWe should split into teams and head for the\nactivation tiles.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nHmm... Nothing happens when it's just the one.\nWhat if we were to activate both at once?\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nWe should try stepping on the activation tile\nover there as well, Divine One.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\nWhat?! The islands are shaking!\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nWell... It seems we have ourselves a path. Now\nwe can bring the fight to Emblem Veronica.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x18\nヴェロニカ\nRelax\n\x0E\x03\x02\x0C\nヴェロニカ\nYou've come far. Well done.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nIf we defeat you here, do you promise you'll\njoin us?\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nYou have little to gain from that.\x0E\x04\x02\x00
+MID_BT1_#004	\x0E\x05\x01\x1C\nヴェロニカ\x0EStandBy\nI, on the other hand, stand to acquire a new\nHero for my forces.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴェロニカ\x02b\n\x0E\x05\x01\x1A\nヴェロニカ\x0CNormal\n\x0E\x03\x02\x0C\nヴェロニカ\nAre you of the Order of Heroes? No. You're\nrather...small, aren't you?\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0C\x06アンナ\x02t\n\x0E\x05\x01\x16\x06アンナ\x0CNormal\n\x0E\x03\x02\x08\x06アンナ\nOrder of Heroes? What a cool name! I'm not\nfamiliar though. Maybe you met my sister!\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x03\x02\x08\x06アンナ\nI believe my sisters are in your world too. Ooo,\nI wonder what kind of goods they were selling!\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\nヴェロニカ\x06Sad\n\x0E\x03\x02\x0C\nヴェロニカ\nYou're...unusual. You must be from an\ninteresting family.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nヴェロニカ\x022\n\x0E\x03\x02\x0C\nヴェロニカ\nWhy? Why do I always lose? This is not fair...\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nYou said the victor commands the vanquished.\nDoes that mean you'll join us now?\x0E\x04\x02\x00
+MID_ED1_#003	We're fighting for peace in this world.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0C\nヴェロニカ\nYour cause doesn't concern me.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0A\x08リュール\nAs the princess of an empire, you must have\nfought for the sake of your people.\x0E\x04\x02\x00
+MID_ED1_#006	We're doing the same thing here. I'm sure you\ncan understand that.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0C\nヴェロニカ\nA ruler's duty is to the people. Indeed, I have\nsaid as much before...\x0E\x04\x02\x00
+MID_ED1_#008	But I did all that I could for Embla, and still\nmy goals were forever out of reach.\x0E\x04\x02\x00
+MID_ED1_#009	You have many allies and the power to\nsummon Emblems...\x0E\x04\x02\x00
+MID_ED1_#010	Is that not enough? You already have all you\ncould possibly need.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nWe could always use more help. I, for one,\nwould feel a lot better with you on our side.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0C\nヴェロニカ\nI have nothing to offer you.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nThat's not true. You're a strong and capable\nleader. You'd be a powerful friend to have.\x0E\x04\x00\x00
+MID_ED1_#014	\x0E\x03\x02\x0C\nヴェロニカ\nYou really do say strange things.\x0E\x04\x02\x00
+MID_ED1_#015	Friendship doesn't interest me. But perhaps it is\nbetter than being alone.\x0E\x04\x02\x00
+MID_ED1_#016	Fine. You may use my power for a time.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nThank you, Emblem Veronica.\x0E\x04\x02\x00
+MID_ED1_#018	Let's head back. Your new allies are all going\nto be happy to meet you.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0C\nヴェロニカ\nHmm... We'll see about that.\x0E\x04\x02\x00
+MID_ED1_#020	It has been a long time since I've been among\na crowd. I'm not accustomed to such things.\x0E\x04\x02\x00
+MID_ED1_#021	Still...the thought is not an unpleasant one.\nI will speak with these allies of yours.\x0E\x04\x00\x00

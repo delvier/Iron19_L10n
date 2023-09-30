@@ -1,0 +1,383 @@
+MID_NET_SettingOn	
+MID_NET_TowerNetwork_On	
+MID_NET_RANKING_On	
+MID_NET_SettingOn_Yes	
+MID_NET_Setting	
+MID_NET_Connecting	
+MID_NET_Error_TROPE	
+MID_NET_Connecting_Error	
+MID_NET_Title_Help	
+MID_NET_Notes_Terms	
+MID_NET_Notes_Report	
+MID_MATCH_Title	
+MID_MATCH_Help	
+MID_MATCH_Title_Help	
+MID_RELAY_Title	
+MID_RELAY_Help	
+MID_RELAY_Title_Help	
+MID_CHALLENGE_Title	
+MID_CHALLENGE_Help	
+MID_CHALLENGE_Closed_Dialog	
+MID_NETWORK_Map_Outline	
+MID_NETWORK_Map_Name	
+MID_NETWORK_Map_Name_Content	
+MID_NETWORK_LimitTurn_Content	
+MID_NETWORK_Reward	
+MID_NETWORK_Degree	
+MID_NETWORK_Clear_Reward	
+MID_NETWORK_Map_Select	
+MID_NETWORK_BACK_CONFIRM	
+MID_NETWORK_BACK_CONFIRM_YES	
+MID_NETWORK_H_BACK_CONFIRM	
+MID_NET_Error	
+MID_NET_NFC_Error	
+MID_MATCH_Easy	
+MID_MATCH_H_Easy	
+MID_MATCH_Easy_TitleHelp	
+MID_V001	
+MID_V002	
+MID_V003	
+MID_V004	
+MID_V005	
+MID_V006	
+MID_MATCH_Search	
+MID_MATCH_Search_Help	
+MID_MATCH_Random	
+MID_MATCH_H_Random	
+MID_MATCH_Serious_H_Random	
+MID_MATCH_Matching	
+MID_MATCH_Matching_Empty	
+MID_MATCH_Matching_Verification	
+MID_MATCH_NoData	
+MID_MATCH_Friend	
+MID_MATCH_H_Friend	
+MID_MATCH_Serious_H_Friend	
+MID_MATCH_Friend_Select_Prompt	
+MID_MATCH_Friend_Select	
+MID_MATCH_Friend_Corps	
+MID_MATCH_Friend_Code	
+MID_MATCH_H_Friend_Code	
+MID_MATCH_Serious_H_Friend_Code	
+MID_MATCH_Friend_Code_Input_Easy	
+MID_MATCH_Friend_ID	
+MID_MATCH_Friend_ID_Search	
+MID_MATCH_My_ID_Attention	
+MID_MATCH_Profile	
+MID_MATCH_H_Profile	
+MID_MATCH_Serious_H_Profile	
+MID_MATCH_Profile_Select_Prompt	
+MID_MATCH_Profile_Select	
+MID_ProfileCard_Match_NoProfile	
+MID_MATCH_MAP_Error	
+MID_MATCH_Serious	
+MID_MATCH_H_Serious	
+MID_MATCH_H_Serious_Attention	
+MID_MATCH_H_Serious_OldMap	
+MID_MATCH_Serious_Help	
+MID_MATCH_Friend_Code_Input_Serious	
+MID_MATCH_Battle_Start	
+MID_MATCH_H_Battle_Start	
+MID_MATCH_Battle_Win	
+MID_MATCH_H_Battle_Lose	
+MID_MATCH_GET_PIECE	
+MID_MATCH_GET_GOLD	
+MID_MATCH_GET_ITEM	
+MID_MATCH_GET_ITEM_PLURAL	
+MID_MATCH_Map_EditName	
+MID_MATCH_Map_Edit	
+MID_MATCH_H_Map_Edit	
+MID_MATCH_Map_Reset	
+MID_MATCH_H_Map_Reset	
+MID_MATCH_H_Map_Reset_Confirmation	
+MID_MATCH_Map_Save	
+MID_MATCH_H_Map_Save	
+MID_MATCH_Map_Edit_Finish	
+MID_MATCH_H_Map_Edit_Finish	
+MID_MATCH_Map_Edit_Finish_Confirmation	
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave	
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes	
+MID_MATCH_Map_Edit_Finish_Confirmation_No	
+MID_MATCH_Map_HealPanel_Duplicated	
+MID_MATCH_Map_Cannon_Duplicated	
+MID_MATCH_Map_Save_Error	
+MID_MATCH_Map_Save_Error_NoUnit	
+MID_MATCH_Map_Save_Error_AllUnit	
+MID_MATCH_Serious_Error_AllUnit	
+MID_MATCH_Map_Save_Error_BanAreaUnit	
+MID_MATCH_Map_Save_Error_InvalidData	
+MID_MATCH_Map_Save_Success	
+MID_MATCH_Map_UpRoad	
+MID_MATCH_Map_UpRoad_Yes	
+MID_MATCH_Map_UpRoad_No	
+MID_MATCH_Map_UpRoad_Success	
+MID_MATCH_Map_UpRoad_Failure	
+MID_MATCH_Unit_Duplicate	
+MID_MATCH_Map_Edit_AI_NotMove	
+MID_MATCH_H_Map_Edit_AI_NotMove	
+MID_MATCH_Map_Edit_AI_Defense	
+MID_MATCH_H_Map_Edit_AI_Defense	
+MID_MATCH_Map_Edit_AI_Rush	
+MID_MATCH_H_Map_Edit_AI_Rush	
+MID_MATCH_Map_Edit_AI_ResponseA	
+MID_MATCH_H_Map_Edit_AI_ResponseA	
+MID_MATCH_Map_Edit_AI_ResponseB	
+MID_MATCH_H_Map_Edit_AI_ResponseB	
+MID_MATCH_Map_Edit_AI_ResponseC	
+MID_MATCH_H_Map_Edit_AI_ResponseC	
+MID_MATCH_Map_Replay	
+MID_MATCH_H_Map_Replay	
+MID_MATCH_History	
+MID_MATCH_NoHistory	
+MID_MATCH_MockCombat	
+MID_MATCH_H_MockCombat	
+MID_MATCH_Surrender	
+MID_MATCH_H_Surrender	
+MID_MATCH_Surrender_Attention	
+MID_MATCH_Surrender_Yes	
+MID_MATCH_MyRate	
+MID_MATCH_ID	
+MID_MATCH_Victory	
+MID_MATCH_Defeat	
+MID_REPORT_TITLE	
+MID_REPORT_MAP_DELETE	
+MID_REPORT_TITLE_HELP	
+MID_REPORT_NOTES	
+MID_REPORT__CONFIRM_DIALOG	
+MID_REPORT__CONFIRM_DIALOG_YES	
+MID_REPORT_CATEGORY_SELECT	
+MID_REPORT_MAP	
+MID_REPORT_CATEGORY	
+MID_REPORT_REASON	
+MID_REPORT_REASON_INPUT	
+MID_REPORT_CATEGORY_PERSONAL	
+MID_REPORT_CATEGORY_CRIMINAL	
+MID_REPORT_CATEGORY_IMMORAL	
+MID_REPORT_CATEGORY_HARASSMENT	
+MID_REPORT_CATEGORY_COMMERCIAL	
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT	
+MID_REPORT_CATEGORY_OTHER	
+MID_REPORT_RESULT	
+MID_RELAY_Ticket	
+MID_RELAY_Ticket_Stock	
+MID_RELAY_NewData	
+MID_RELAY_H_NewData	
+MID_RELAY_TakeOver_START_CONFIRM	
+MID_RELAY_Unit_Select	
+MID_RELAY_Ticket_Lack	
+MID_RELAY_Unit_Lack	
+MID_RELAY_TakeOver	
+MID_RELAY_H_TakeOver	
+MID_RELAY_TakeOver_Outline	
+MID_RELAY_TakeOver_Empty	
+MID_RELAY_Joining_players	
+MID_RELAY_TakeOver_Help	
+MID_RELAY_TakeOver_ID	
+MID_RELAY_Random	
+MID_RELAY_H_Random	
+MID_RELAY_ID_Search	
+MID_RELAY_H_ID_Search	
+MID_RELAY_ID_Input	
+MID_RELAY_ID_Search_Attention	
+MID_RELAY_ID_Search_OK	
+MID_RELAY_Data_Error	
+MID_RELAY_ID_Search_MyMap_Error	
+MID_RELAY_ID_Search_Again_Error	
+MID_RELAY_ID_Search_Finish_Error	
+MID_RELAY_ID_Search_Other_Error	
+MID_RELAY_ID_Search_Error	
+MID_RELAY_ID_Search_NoData	
+MID_RELAY_Replay	
+MID_RELAY_H_Replay	
+MID_RELAY_Map_Select	
+MID_RELAY_Replay_Select	
+MID_RELAY_Replay_Datetime	
+MID_RELAY_Replay_Select_Prompt	
+MID_RELAY_Reselect	
+MID_RELAY_Replay_Empty	
+MID_RELAY_Replay_NotUpdate	
+MID_RELAY_Replay_NotSeeYet	
+MID_RELAY_Replay_Beginning_NoFinish	
+MID_RELAY_Replay_Beginning_NoFinish_Yes	
+MID_RELAY_Replay_Beginning	
+MID_RELAY_Replay_Beginning_Yes	
+MID_RELAY_Replay_Beginning_No	
+MID_RELAY_Replay_Reward_Received	
+MID_RELAY_UpdateContents_Attention	
+MID_RELAY_UpdateContents_Yes	
+MID_RELAY_UpdateContents_No	
+MID_RELAY_MyMap_ID	
+MID_RELAY_Redo	
+MID_RELAY_PlayUser	
+MID_RELAY_UserMessage	
+MID_RELAY_PlayerChange	
+MID_RELAY_Win	
+MID_RELAY_Lose	
+MID_RELAY_FinalRecord	
+MID_RELAY_UpRoad	
+MID_RELAY_Failure	
+MID_RELAY_OPEN_N006	
+MCID_N001_1	
+MCID_N002_1	
+MCID_N003_1	
+MCID_N004_1	
+MCID_N005_1	
+MCID_N006_1	
+MID_RELAY_Award_All	
+MID_RELAY_Award_Regret	
+MID_RELAY_Award_Count_Kill	
+MID_RELAY_Award_Count_Damage	
+MID_RELAY_Award_Count_Recovered	
+MID_RELAY_Award_Count_Break	
+MID_RELAY_Award_Count_Engage	
+MID_RELAY_Award_Count_Item	
+MID_RELAY_Award_Count_Poison	
+MID_RELAY_Award_Count_LongWalk	
+MID_RELAY_Award_Count_Skill	
+MID_RELAY_Award_Invisible	
+MID_RELAY_Award_Count_Critical	
+MID_RELAY_Award_Count_SpecialAttack	
+MID_RELAY_Award_Count_EngageAttack	
+MID_RELAY_Award_Count_ChainGuard	
+MID_RELAY_Award_Count_Smash	
+MID_RELAY_Award_Count_Adjacent	
+MID_RELAY_Award_Count_Indirect	
+MID_RELAY_Award_Count_NoKill	
+MID_RELAY_Award_Count_ChainAttack	
+MID_RELAY_Award_Sabotage_Comment	
+MID_RELAY_Award_MyPace	
+MID_RELAY_Award_Strike	
+MID_RELAY_Award_Count_Standby	
+MID_RELAY_Award_TroubleMaker	
+MID_RELAY_Award_Sabotage_Unlucky	
+MID_RELAY_Award_Kill	
+MID_RELAY_Award_Damage	
+MID_RELAY_Award_Recovered	
+MID_RELAY_Award_Break	
+MID_RELAY_Award_Engage	
+MID_RELAY_Award_Item	
+MID_RELAY_Award_Poison	
+MID_RELAY_Award_LongWalk	
+MID_RELAY_Award_Skill	
+MID_RELAY_Award_NoDamage	
+MID_RELAY_Award_Critical	
+MID_RELAY_Award_SpecialAttack	
+MID_RELAY_Award_EngageAttack	
+MID_RELAY_Award_ChainGuard	
+MID_RELAY_Award_Smash	
+MID_RELAY_Award_Adjacent	
+MID_RELAY_Award_Indirect	
+MID_RELAY_Award_NoKill	
+MID_RELAY_Award_ChainAttack	
+MID_RELAY_Award_Sabotage	
+MID_RELAY_Award_EnergySaving	
+MID_RELAY_Award_Peace	
+MID_RELAY_Award_Standby	
+MID_RELAY_Award_Protected	
+MID_RELAY_Award_SkillTarget	
+MID_RELAY_Stamp_Message	
+MID_RELAY_Stamp_Lueur_M_0	PersonVoice(V_Wideuse_12)
+MID_RELAY_Stamp_Lueur_F_0	PersonVoice(V_Wideuse_14)
+MID_RELAY_Stamp_Vandre_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Clan_0	PersonVoice(V_Wideuse_19)
+MID_RELAY_Stamp_Fram_0	PersonVoice(V_Wideuse_22)
+MID_RELAY_Stamp_Alfred_0	PersonVoice(V_Wideuse_18)
+MID_RELAY_Stamp_Boucheron_0	PersonVoice(V_Wideuse_27)
+MID_RELAY_Stamp_Etie_0	PersonVoice(V_Wideuse_18)
+MID_RELAY_Stamp_Celine_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Louis_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Chloe_0	PersonVoice(V_Wideuse_22)
+MID_RELAY_Stamp_Diamand_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Umber_0	PersonVoice(V_Wideuse_18)
+MID_RELAY_Stamp_Jade_0	PersonVoice(V_Wideuse_06)
+MID_RELAY_Stamp_Staluke_0	PersonVoice(V_Wideuse_14)
+MID_RELAY_Stamp_Lapis_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Citrinica_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Ivy_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Zelkova_0	PersonVoice(V_Wideuse_05)
+MID_RELAY_Stamp_Kagetsu_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Hortensia_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Rosado_0	PersonVoice(V_Wideuse_17)
+MID_RELAY_Stamp_Goldmary_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Misutira_0	PersonVoice(V_Wideuse_23)
+MID_RELAY_Stamp_Merin_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Panetone_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Fogato_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Pandoro_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Bonet_0	PersonVoice(V_Wideuse_22)
+MID_RELAY_Stamp_Anna_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Jean_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Yunaka_0	PersonVoice(V_Wideuse_26)
+MID_RELAY_Stamp_Seadas_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Linden_0	PersonVoice(V_Wideuse_19)
+MID_RELAY_Stamp_Saphir_0	PersonVoice(V_Wideuse_20)
+MID_RELAY_Stamp_Veyre_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Mauve_0	PersonVoice(V_Wideuse_14)
+MID_RELAY_Stamp_Lumiere_0	PersonVoice(V_Wideuse_11)
+MID_RELAY_Stamp_Marth_0	PersonVoice(V_Wideuse_29)
+MID_RELAY_Stamp_Celica_0	PersonVoice(V_Wideuse_29)
+MID_RELAY_Stamp_Siglud_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Leaf_0	PersonVoice(V_Wideuse_02)
+MID_RELAY_Stamp_Roy_0	PersonVoice(V_Wideuse_15)
+MID_RELAY_Stamp_Lin_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Eirik_0	PersonVoice(V_Wideuse_01)
+MID_RELAY_Stamp_Ike_0	PersonVoice(V_Wideuse_30)
+MID_RELAY_Stamp_Micaiah_0	PersonVoice(V_Wideuse_13)
+MID_RELAY_Stamp_Lucina_0	PersonVoice(V_Wideuse_23)
+MID_RELAY_Stamp_Kamui_0	PersonVoice(V_Wideuse_10)
+MID_RELAY_Stamp_Byleth_0	PersonVoice(V_Wideuse_12)
+MID_RANKING_Title	
+MID_H_RANKING_Title	
+MID_RANKING_First	
+MID_RANKING_Second	
+MID_RANKING_Third	
+MID_RANKING_Other	
+MID_RANKING_Fail	
+MID_CHALLENGE_EXP_TITLE	
+MID_CHALLENGE_MapSelect_Help	
+MID_CHALLENGE_MapSelect_MenuCaption	
+MID_CHALLENGE_MapInfo_N_Battles	
+MID_CHALLENGE_MapInfo_BestRecort	
+MID_CHALLENGE_MapInfo_Turn	
+MID_CHALLENGE_MapInfo_Materials	
+MID_CHALLENGE_DifficultyMenu_Help	
+MID_CHALLENGE_DifficultyMenu_Recommended	
+MID_CHALLENGE_DifficultyMenu_Difficulty	
+MID_CHALLENGE_DifficultyMenu_Start	
+MID_CHALLENGE_Start_CONFIRM	
+MID_CHALLENGE_GiveUp	
+MID_CHALLENGE_H_GiveUp	
+MID_CHALLENGE_GiveUp_CONFIRM	
+MID_CHALLENGE_Confirm	
+MID_CHALLENGE_MAP1	
+MID_CHALLENGE_MAP2	
+MID_CHALLENGE_MAP3	
+MID_CHALLENGE_Get_Item	
+MID_CHALLENGE_Get_EXP	
+MID_CHALLENGE_Join_MAP1	
+MID_CHALLENGE_Join_MAP2	
+MID_CHALLENGE_Join_MAP3	
+MID_CHALLENGE_Get_SP	
+MID_CHALLENGE_OPEN_LEVEL41	
+MID_CHALLENGE_C001_TITLE	
+MID_CHALLENGE_C002_TITLE	
+MID_CHALLENGE_C003_TITLE	
+MID_CHALLENGE_C004_TITLE	
+MID_CHALLENGE_C005_TITLE	
+MID_CHALLENGE_C006_TITLE	
+MID_AMIIBO_Ticket_Music	
+MID_AMIIBO_Ticket_Accessories	
+MID_AMIIBO_Touch_Count	
+MID_AMIIBO_Touch_Interval	
+MID_AMIIBO_Touch	
+MID_AMIIBO_Accessories_Attention	
+MID_AMIIBO_Trade_Ticket	
+MID_AMIIBO_Trade_Ticket_Use	
+MID_AMIIBO_Trade_Ticket_Have	
+MID_AMIIBO_Trade_Music_Select	
+MID_AMIIBO_Trade_Ticket_Music	
+MID_AMIIBO_Music	
+MID_AMIIBO_Trade_Accessories_Select	
+MID_AMIIBO_Trade_Ticket_Accessories	
+MID_AMIIBO_Accessories	
+MID_AMIIBO_Trade_Nothing	
+MID_AMIIBO_Trade_Information	

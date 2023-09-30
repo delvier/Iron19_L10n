@@ -1,0 +1,349 @@
+MID_SYS_EnchantEffect	Verzauberungseff.
+MID_DLC_News_Patch1_Title	Ver. 1.2.0
+MID_DLC_News_Patch1	Erweiterungspass\n\n・ Die Embleme Hector, Soren und Camilla wurden hinzugefügt.\n  Sie schließen sich dir und deiner Gruppe an, wenn du ihre\n  jeweiligen Göttlichen Kapitel erfolgreich beendest.\n\n・ Erweiterungspass-Bonus 2 wurde hinzugefügt. Sofern du den\n  Erweiterungspass gekauft hast, erhältst du Materialien, Wappen\n  und Fähigkeiten.\n\n・ In der Boutique gibt es neue Accessoires, z. B.:\n  Somniellinie, Somnielmaske, Somnielohren, Hundeohren,\n  Hasenohren, Fuchsohren.\n\nGratis-Inhalt\n\n・ Im Somniel gibt es nun Orte, an denen du und deine\n  Verbündeten in der Freizeit Erholung findet. Nutze sie, um die\n  Unterstützungspunkte zwischen Verbündeten zu erhöhen.
+MID_MSG_GET_ITEM_DLC_Accessory2	Erweiterungspass-Bonus 2 erhalten.
+MCID_G002_PREFIX	Göttliches Kapitel
+MCID_G002	Der eigenwillige General
+MCID_G002_PLACE	Höhle des Berserkers
+MCID_G002_OUTLINE	In einer dunklen, mit Miasma\ngefüllten Höhle wurde ein Armring\ngesichtet.
+MCID_G004_PREFIX	Göttliches Kapitel
+MCID_G004	Der strahlende Stratege
+MCID_G004_PLACE	Magmahöhle
+MCID_G004_OUTLINE	In einer Höhle mit flüssiger Lava\nwurde ein Armring gesichtet.
+MCID_G005_PREFIX	Göttliches Kapitel
+MCID_G005	Die vernarrte Schwester
+MCID_G005_PLACE	Untergrundpassage
+MCID_G005_OUTLINE	In einer gesunkenen, unterirdischen\nRuine wurde ein Armring gesichtet.
+MID_RULE_G002_WIN	Emblem Hector besiegen.
+MID_RULE_G004_WIN	Emblem Soren besiegen.
+MID_RULE_G005_WIN	Emblem Camilla besiegen.
+MTID_VolcanicBombTraces	Verbrannter Boden
+MTID_Fumarole	Schlot
+MTID_Crater	Krater
+MPID_Hector	Hector
+MPID_H_Hector	Das Emblem der Stärke. Ein\nüberschwänglicher, heroischer Mann\nmit grenzenlosem Selbstvertrauen.
+MPID_Senerio	Soren
+MPID_H_Senerio	Das Emblem des Scharfsinns. Ein\npräzise kalkulierender Stratege mit\nklarem Urteilsvermögen.
+MPID_Camilla	Camilla
+MPID_H_Camilla	Das Emblem der Offenbarung.\nEine wunderschöne Wyvernreiterin\nmit einer hinreißenden Aura.
+MGID_Hector	Hector
+MGID_H_Hector	Das Emblem der Stärke. Löscht\nGegner mit seiner Axt aus und\nriskiert sein Leben für seine Freunde.
+MGID_H_EnemyHector	Das erwachte Emblem aus dem\nArmring des eigenwilligen Generals.
+MGID_Senerio	Soren
+MGID_H_Senerio	Das Emblem des Scharfsinns.\nÜberragend im Umgang mit Magie\nund mächtigen magischen Büchern.
+MGID_H_EnemySenerio	Das erwachte Emblem aus dem\nArmring des Strategen.
+MGID_Camilla	Camilla
+MGID_H_Camilla	Das Emblem der Offenbarung.\nFliegt durch die Lüfte und vernichtet\nihre Gegner mit Axt und Magie.
+MGID_H_EnemyCamilla	Das erwachte Emblem aus dem\nArmring der vernarrten Schwester.
+MGEID_Hector	Stärke
+MGEID_Senerio	Scharfsinn
+MGEID_Camilla	Offenbarung
+MJID_Enchant	Verzauberer
+MJID_H_Enchant	Ein Sanitäter, versiert im Umgang\nmit Items im Kampf. Herausragend in\nder Unterstützung. Nutzt den Vorrat.
+MIID_Hector_WolfBeil	Wolfbeil
+MIID_H_Hector_WolfBeil	Axt von Emblem Hector.\nEffektiv gegen: Berittene,\nGepanzerte.
+MIID_Hector_Runesword	Runenschwert
+MIID_H_Hector_Runesword	Mag. Schwert von Emblem Hector.\nNah-/Fernangriffe. Stellt KP = 50 %\ndes zugefügten Schadens wieder her.
+MIID_Hector_Armads	Armads
+MIID_H_Hector_Armads	Mit Donner erfüllte Axt von\nEmblem Hector. Verleiht Ver. +5.\nEffektiv gegen: Drachen.
+MIID_Senerio_Thunderstorm	Gewitter
+MIID_H_Senerio_Thunderstorm	Donnermagie mit großer Reichweite,\nangewendet von Emblem Soren.\nKein Folgeangriff möglich.
+MIID_Senerio_MagicShield	Reflektion
+MIID_H_Senerio_MagicShield	Emblem Sorens Stab. Verb. innerhalb\nvon 2 Feldern: „Fügt dem Gegner\n50 % des erlittenen mag. Schaden\nzu.“ (1 Zug)
+MIID_Senerio_Rexcalibur	Rexcalibur
+MIID_H_Senerio_Rexcalibur	Mächtige Windmagie, die von\nEmblem Soren angewendet wird.\nEffektiv gegen: Flieger.
+MIID_Senerio_Disaster	Kataklysmus
+MIID_H_Senerio_Disaster	Magie von Emblem Soren. Feuer-,\nDonner-, Windmagie-Angr. mit je\n40 % Schaden. Wind eff. gg. Flieger
+MIID_Camilla_BoltAxe	Donneraxt
+MIID_H_Camilla_BoltAxe	Magische Axt von Emblem Camilla.\nFür Nah- und Fernangriffe.
+MIID_Camilla_Lightning	Blitz
+MIID_H_Camilla_Lightning	Magie, die von Emblem Camilla\nangewendet wird. Initiiert die Einheit\nden Kampf, greift sie 2-mal an.
+MIID_Camilla_Camilla'sAxe	Camillas Axt
+MIID_H_Camilla_Camilla'sAxe	Axt von Emblem Camilla. Verleiht\nRes. +10 und d. Ziel erleidet zusätzl.\nSchaden = gegn. Res. - gegn. Ver.
+MIID_HE_Vulnerary	Bei der Einheit und bei Verbündeten\ninnerhalb von 2 Feldern werden\n15 KP wiederhergestellt.
+MIID_HE_Antidote	Heilt Statuseffekte der Einheit und\nvon benachbarten Verbündeten.
+MIID_HE_Medicine	Die Bündnisleiste der Einheit sowie\ndie Bündnisleisten von benachbarten\nVerbündeten füllen sich um 2.
+MIID_HE_HolyWater	Die Einheit und benachbarte\nVerbündete erhalten „Effektiv\ngegen: Verzerrte“ für 1 Zug.
+MIID_HE_Torch	Verleiht der Einheit u. benachbarten\nVerbündeten die Fähigkeit „Fackel“.\nRadius: 7 Felder. Nimmt pro Zug ab.
+MIID_HE_HpTonic	Erhöht max. KP abhängig zum Level.\nKoop-Schläge fügen der Einheit und\nbenachbarten Verbündeten keinen\nSchaden zu (1 Runde).
+MIID_HE_StrTonic	Erhöht Stä. abhängig zum Level.\nReduziert bei Einh. u. benachbarten\nVerbündeten das Waffengewicht\num 50 % (1 Runde).
+MIID_HE_TecTonic	Erhöht Beh. abhängig zum Level.\nVerleiht der Einheit u. benachbarten\nVerbündeten: „Immunität gegen\nBruch“ für 1 Zug.
+MIID_HE_SpdTonic	Erhöht Ges. abhängig zum Level.\nVerleiht der Einheit u. benachbarten\nVerbündeten „Immunität gegen\nEinfrieren“ für 1 Zug.
+MIID_HE_LckTonic	Verleiht der Einheit u. benachbarten\nVerbündeten: „30 % Chance, erlitt.\nSchaden zu ignorieren“ für 1 Zug.
+MIID_HE_DefTonic	Verleiht der Einheit u. benachbarten\nVerbündeten: „Reflektiert erlittenen\nphysischen Schaden“ für 1 Zug.
+MIID_HE_MagTonic	Erhöht Mag. abhängig zum Level.\nVerleiht der Einheit u. benachbarten\nVerbündeten Immunität gegen\n„Schweigen“ (1 Runde).
+MIID_HE_MdefTonic	Verleiht der Einheit u. benachbarten\nVerbündeten: „Reflektiert erlittenen\nmagischen Schaden“ für 1 Zug.
+MIID_HE_Bento	Gewährt einem benachbarten Verb.:\n„Bei mindestens 2 KP zu Beginn des\nKampfes überlebt die Einheit\ngarantiert mit 1 KP (1-mal).“
+MIID_HE_WeaponAvo	Verleiht Waffen mit demselben\nNamen für die Dauer einer Schlacht\nAw. +20.
+MIID_HE_WeaponDef	Verleiht Waffen mit demselben\nNamen für die Dauer einer Schlacht\nVer./Res. +5.
+MIID_HE_WeaponCrit	Verleiht Waffen mit demselben\nNamen für die Dauer einer Schlacht\nKrit. +20.
+MIID_HE_WeaponAtk	Verleiht Waffen mit demselben\nNamen für die Dauer einer Schlacht\nKft. +5.
+MIID_HE_WeaponHit	Verleiht Waffen mit demselben\nNamen für die Dauer einer Schlacht\nTrf. +20.
+MIID_HE_WeaponAvo_Short	Verzauberungseffekt:\nVerleiht Aw. +20.
+MIID_HE_WeaponDef_Short	Verzauberungseffekt:\nVerleiht Ver./Res. +5.
+MIID_HE_WeaponCrit_Short	Verzauberungseffekt:\nVerleiht Krit. +20.
+MIID_HE_WeaponAtk_Short	Verzauberungseffekt:\nVerleiht Kft. +5.
+MIID_HE_WeaponHit_Short	Verzauberungseffekt:\nVerleiht Trf. +20.
+MSID_QuickResponse	Flinke Riposte
+MSID_H_QuickResponse	Wird die Einheit angegriffen,\nwährend sie mindestens 80 % KP\nhat, kann sie einen Folgeangriff\nausführen, sofern die Waffe es\nzulässt.
+MSID_QuickResponse+	Flinke Riposte+
+MSID_H_QuickResponse+	Wird die Einheit angegriffen,\nwährend sie mindestens 60 % KP\nhat, kann sie einen Folgeangriff\nausführen, sofern die Waffe es\nzulässt.
+MSID_HeavyAttack	Schweres Plus
+MSID_H_HeavyAttack	Führt die Einheit einen physischen\nAngriff mit einer Waffe aus, deren\nGewicht höher als Fig. der Einh. ist,\nfügt sie zusätzlichen Schaden in\nHöhe der Differenz zu (max. +5).
+MSID_GazeDiagonally	Stechender Blick
+MSID_H_GazeDiagonally	Sind die KP der Einheit = 100 %,\nverbraucht sie 20 % ihrer max. KP,\num Gegner daran zu hindern, die\n4 Felder diagonal neben ihr zu\nbetreten (1 Zug).
+MSID_H_GazeDiagonally_CMD	Blockiert neben der Einheit\n4 Felder in der Diagonale.
+MSID_WARNING_GazeDiagonally_CMD	Kann nur bei KP = 100 % verwendet\nwerden.
+MSID_Adaptability	Flexibilität
+MSID_H_Adaptability	Wurde die Einheit von gegn. Angriff\ngetroffen, erhält sie nach dem Kampf\nVer. +2 gg. phys. Agr. o. Res. +2 gg.\nmag. Angr. bis zum Ende d. Schlacht\no. bis der and. Effekt ausgelöst wird.
+MSID_Adaptability+	Flexibilität+
+MSID_H_Adaptability+	Wurde die Einheit von gegn. Angriff\ngetroffen, erhält sie nach dem Kampf\nVer. +3 gg. phys. Agr. o. Res. +3 gg.\nmag. Angr. bis zum Ende d. Schlacht\no. bis der and. Effekt ausgelöst wird.
+MSID_HectorEngage	Uneinnehmbar
+MSID_H_HectorEngage	Verleiht der Einheit Ver./Res. +30 %,\nwenn sie angegriffen wird.
+MSID_H_HectorEngage_Dragon	Verleiht der Einheit Ver./Res. +30 %,\nwenn sie angegriffen wird.\nDrache: Krit. Aw. +50 %
+MSID_H_HectorEngage_Horse	Verleiht Ver./Res. +30 %, wenn\ndie Einheit angegriffen wird.\nBerittene: Verleiht Immunität gegen\nEinfrieren.
+MSID_H_HectorEngage_Heavy	Verleiht Ver./Res. +30 %, wenn\ndie Einheit angegriffen wird.\nGepanzerte: Steigerungsrate für\nVer. = +50 %.
+MSID_H_HectorEngage_Fly	Verleiht Ver./Res. +30 %, wenn\ndie Einheit angegriffen wird.\nFlieger: Steigerungsrate für\nRes. = +50 %.
+MSID_HectorEngageAtk	Auge des Sturms
+MSID_H_HectorEngageAtk	Verleiht Immunität gegenüber\n„Bruch“. Die Einheit kann für 1 Zug\neinen Folgeangriff ausführen, der\nGegner nicht. Nur Schwert/Axt.
+MSID_H_HectorEngageAtk_Dragon	Verleiht Immunität gegenüber\n„Bruch“. Die Einheit kann für 1 Zug\neinen Folgeangriff ausführen, der\nGegner nicht. Nur Schwert/Axt.\nDrache: Verhindert krit. Treffer.
+MSID_H_HectorEngageAtk_Coop	Verleiht Immunität gegenüber\n„Bruch“. Die Einheit kann für 1 Zug\neinen Folgeangriff ausführen, der\nGegner nicht. Nur Schwert/Axt.\nAssistent: Krit. +20.
+MSID_H_HectorEngageAtk_Covert	Verleiht Immunität gegenüber\n„Bruch“. Die Einheit kann für 1 Zug\neinen Folgeangriff ausführen, der\nGegner nicht. Nur Schwert/Axt.\nVerstohlene: Aw. +30.
+MSID_H_HectorEngageAtk_CMD	Einh. kann immer Folgeangr.\nausführen, der Gegner nicht.
+MSID_HectorEngageAtk+	Auge des Sturms+
+MSID_H_HectorEngageAtk+	Verleiht Immunität gegenüber\n„Bruch“. Für 1 Zug greift die Einh.\nzuerst an. Sie führt einen Folgeangr.\naus, der Gegner nicht.\nNur Schwert/Axt.
+MSID_H_HectorEngageAtk+_Dragon	Verleiht Immunität gegenüber\n„Bruch“. Für 1 Zug greift die Einh.\nzuerst an. Sie führt einen Folgeangr.\naus, der Geg. nicht. Nur Schwert/Axt.\nDrache: Verhindert krit. Treffer.
+MSID_H_HectorEngageAtk+_Coop	Verleiht Immunität gegenüber\n„Bruch“. Für 1 Zug greift die Einh.\nzuerst an. Sie führt einen Folgeangr.\naus, der Geg. nicht. Nur Schwert/Axt.\nAssistent: Krit. +20.
+MSID_H_HectorEngageAtk+_Covert	Verleiht Immunität gegenüber\n„Bruch“. Für 1 Zug greift die Einh.\nzuerst an. Sie führt einen Folgeangr.\naus, der Geg. nicht. Nur Schwert/Axt.\nVerstohlene: Aw. +30.
+MSID_H_HectorEngageAtk+_CMD	Einh. greift zuerst an & Folge-\nangriff. Geg.: Kein Folgeangr.
+MSID_MagicOfLaw+	Anima-Fokus
+MSID_H_MagicOfLaw+	Verwendet die Einheit ein Buch, fügt\nsie Ver. -3 mit Feuermagie, Trf. -20\nmit Donnermagie und Bew. -2\nmit Windmagie zu (1 Zug).
+MSID_KeenInsight	Erkenntnis
+MSID_H_KeenInsight	Fügt die Einheit „Effektiv gegen“-\nSchaden zu, fügt sie zusätzlichen\nSchaden +X (X = 5) zu.
+MSID_KeenInsight+	Erkenntnis+
+MSID_H_KeenInsight+	Fügt die Einheit „Effektiv gegen“-\nSchaden zu, fügt sie zusätzlichen\nSchaden +X (X = 7) zu.
+MSID_NominateDecoy	Lockvogel
+MSID_H_NominateDecoy	Erlaubt es, einen Verbündeten zum\nbevorzugten Ziel des Gegners zu\nmachen. Wurde der Verbündete\n3-mal angegriffen, wird der Effekt\naufgehoben.
+MSID_H_NominateDecoy_CMD	Ein Verbündeter wird zum\nbevorzugten Ziel der Gegner.
+MSID_PreventionReturn	Erholungshinderer
+MSID_H_PreventionReturn	Greift die Einh. einen Geg., der unter\n„Bruch“ leidet, mit einem Buch an,\nbesteht die Chance, dass er sich von\ndem Status nicht erholt. Bei hohem\nGes.-Wert der Einh.: höhere Chance.
+MSID_SenerioEngage	Schein
+MSID_H_SenerioEngage	Greift die Einheit mit Büchern an,\nverursacht sie Res. -20 %. Die KP\nder Einheit werden um 50 %\ndes zugefügten Schadens\nwiederhergestellt.
+MSID_H_SenerioEngage_Dragon	Greift die Einheit mit Büchern an,\nverursacht sie Res. -20 %. Die KP\nder Einh. werden um 50 % d. zugefü.\nSchadens wiederhergest. – Drache:\nKrit. wird verdoppelt.
+MSID_H_SenerioEngage_Magic	Greift die Einheit mit Büchern an,\nverursacht sie Res. -20 %. Die KP\nder Einh. werden um 50 % d. zugefü.\nSchadens wiederhergst. – Mystische:\nZusätzlich -10 % auf gegn. Res.
+MSID_H_SenerioEngage_Prana	Greift die Einheit mit Büchern an,\nverursacht sie Res. -20 %. Die KP\nder Einh. werden um 50 % d. zugefü.\nSchadens wiederhergest. – Qi-Adept:\nHeilt 100 % d. zugefügten Schadens.
+MSID_SenerioEngageAtk	Kataklysmus
+MSID_H_SenerioEngageAtk	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.
+MSID_H_SenerioEngageAtk_Dragon	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.\nDrache: Setzt Gelände in Brand.
+MSID_H_SenerioEngageAtk_Magic	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.\nMystische: Schaden +10 %.
+MSID_H_SenerioEngageAtk_Prana	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger. Qi-\nAdept: Bruch d. Geg.: 20 %-Chance.
+MSID_H_SenerioEngageAtk_CMD	Greift ein Gebiet mit Feuer-,\nDonner- und Windmagie an.
+MSID_H_SenerioEngageAtk_G004	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 30 %\nan. Wind ist effektiv gegen Flieger.
+MSID_SenerioEngageAtk+	Kataklysmus+
+MSID_H_SenerioEngageAtk+	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.
+MSID_H_SenerioEngageAtk+_Dragon	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.\nDrache: Setzt Gelände in Brand.
+MSID_H_SenerioEngageAtk+_Magic	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger.\nMystische: Schaden +10 %.
+MSID_H_SenerioEngageAtk+_Prana	Die Einheit greift mit Feuer-,\nDonner- und Windmagie mit je 40 %\nSchaden Gegner in einem Gebiet an.\nWind ist effektiv gegen Flieger. Qi-\nAdept: Bruch d. Geg.: 20 %-Chance.
+MSID_H_SenerioEngageAtk+_CMD	Greift ein Gebiet mit Feuer-,\nDonner- und Windmagie an.
+MSID_DragonPulse_other	Drachenader
+MSID_H_DragonPulse_other	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.
+MSID_H_DragonPulse_other_CMD	Fügt Areal einen Effekt hinzu.
+MSID_H_DragonPulse_other_Dragon	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nDrache: Jeder der Drachenader-\nEffekte ist wählbar.
+MSID_DragonPulse_other_Coop	Steinader
+MSID_H_DragonPulse_other_Coop_CMD	Lässt Steinsäulen entstehen, die den\nVer./Res.-Wert erhöhen.
+MSID_H_DragonPulse_other_Coop	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nAssistent: Lässt Steinsäulen\nentstehen, die den Ver./Res.-Wert\nerhöhen.
+MSID_DragonPulse_other_Horse	Wasserader
+MSID_H_DragonPulse_other_Horse_CMD	Erschafft Wasser, das den\nAw.-Wert verringert.
+MSID_H_DragonPulse_other_Horse	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nBerittene: Erschafft Wasser, das den\nAw.-Wert verringert.
+MSID_DragonPulse_other_Covert	Rauchader
+MSID_H_DragonPulse_other_Covert_CMD	Erschafft Rauch, der den\nVer./Aw.-Wert verringert.
+MSID_H_DragonPulse_other_Covert	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nVerstohlene: Erschafft Rauch, der\nVer./Aw. verringert.
+MSID_DragonPulse_other_Heavy	Rankenader
+MSID_H_DragonPulse_other_Heavy_CMD	Erschafft Ranken, die gegen\n„Bruch“ immunisieren.
+MSID_H_DragonPulse_other_Heavy	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nGepanzerte: Erschafft Ranken,\ndie gegen den Effekt „Bruch“\nimmunisieren.
+MSID_DragonPulse_other_Fly	Beistandsader
+MSID_H_DragonPulse_other_Fly_CMD	Erschafft heilenden Schein,\nder KP wiederherstellt.
+MSID_H_DragonPulse_other_Fly	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nFlieger: Erschafft einen heilenden\nSchein, der KP wiederherstellt.
+MSID_DragonPulse_other_Magic	Flammenader
+MSID_H_DragonPulse_other_Magic_CMD	Erschafft Flammen, die\nSchaden zufügen.
+MSID_H_DragonPulse_other_Magic	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nMystische: Erschafft Flammen, die\nSchaden zufügen.
+MSID_DragonPulse_other_Prana	Frostader
+MSID_H_DragonPulse_other_Prana_CMD	Erschafft einen Eisboden, der\ndie Bewegung erhöht.
+MSID_H_DragonPulse_other_Prana	Erlaubt es, bestimmten Feldern einen\nbesonderen Effekt hinzuzufügen.\nQi-Adept: Erschafft einen Eisboden,\nder die Bewegung erhöht.
+MSID_EarthVeinAbsorption	Geländepflege
+MSID_H_EarthVeinAbsorption	Nach der Aktion der Einh. oder wenn\nsie auf einem Feld mit Feuer, Miasma\no. a. Geländeeffekten wartet, werden\ndiese Effekte aufgehoben u. bei der\nEinh. werden 10 KP wiederhergest.
+MSID_Detox	Giftabbau
+MSID_H_Detox	Zu Beginn der Runde wird\nVergiftung geheilt.
+MSID_CleanUp	Aufräumer
+MSID_H_CleanUp	Initiiert die Einheit den Kampf und\nlandet einen kritischen Treffer, fügt\nsie dem Gegner nach dem Kampf\n5 Schaden zu.
+MSID_CleanUp+	Aufräumer+
+MSID_H_CleanUp+	Initiiert die Einheit den Kampf und\nlandet einen kritischen Treffer, fügt\nsie dem Gegner nach dem Kampf\n10 Schaden zu.
+MSID_CamillaEngage	Überflieger
+MSID_H_CamillaEngage	Verleiht Bew. +2. Die Einheit kann\nwie eine Flugeinheit Gelände queren.
+MSID_H_CamillaEngage_Dragon	Verleiht Bew. +2. Einh. kann wie eine\nFlugeinh. Gelände queren. – Drache:\nInitiiert die Einh. d. Kampf, fügt sie\nGeg. innerhalb v. 2 Feldern Schaden\nzu = 10 % d. gegnerischen max. KP.
+MSID_H_CamillaEngage_Horse	Verleiht Bew. +2. Die Einheit kann\nwie eine Flugeinheit Gelände queren.\nBerittene: Zusätzlich Bew. +2.
+MSID_H_CamillaEngage_Fly	Verleiht Bew. +2. Die Einheit kann\nwie eine Flugeinheit Gelände queren.\nFlieger: Zusätzlich Bew. +1.
+MSID_CamillaEngageAtk	Dunkles Inferno
+MSID_H_CamillaEngageAtk	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.
+MSID_H_CamillaEngageAtk_Dragon	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.\nDrache: Erhöht Bereich des Effekts.
+MSID_H_CamillaEngageAtk_Magic	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.\nMystische: Zugefüg. Schaden +20 %.
+MSID_H_CamillaEngageAtk_Prana	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen u. diese Felder in\nBrand zu setzen. – Qi-Adept:\nBenachb. Felder erhalten „Schein“.
+MSID_H_CamillaEngageAtk_CMD	Angriff auf bestimmte Felder,\ndie in Brand gesetzt werden.
+MSID_CamillaEngageAtk+	Dunkles Inferno+
+MSID_H_CamillaEngageAtk+	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.
+MSID_H_CamillaEngageAtk+_Dragon	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.\nDrache: Erhöht Bereich des Effekts.
+MSID_H_CamillaEngageAtk+_Magic	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen und diese Felder\nin Brand zu setzen.\nMystische: Zugefüg. Schaden +20 %.
+MSID_H_CamillaEngageAtk+_Prana	Erlaubt es der Einheit, Gegnern auf\nbestimmten Feldern in ihrer Nähe\nSchaden zuzufügen u. diese Felder in\nBrand zu setzen. – Qi-Adept:\nBenachb. Felder erhalten „Schein“.
+MSID_H_CamillaEngageAtk+_CMD	Angriff auf bestimmte Felder,\ndie in Brand gesetzt werden.
+MSID_Str_Def_1	Stä./Ver. +1
+MSID_H_Str_Def_1	Verleiht Stä. +1 und Ver. +1.
+MSID_Str_Def_2	Stä./Ver. +2
+MSID_H_Str_Def_2	Verleiht Stä. +2 und Ver. +2.
+MSID_Str_Def_3	Stä./Ver. +3
+MSID_H_Str_Def_3	Verleiht Stä. +3 und Ver. +3.
+MSID_Str_Def_4	Stä./Ver. +4
+MSID_H_Str_Def_4	Verleiht Stä. +4 und Ver. +4.
+MSID_Str_Def_5	Stä./Ver. +5
+MSID_H_Str_Def_5	Verleiht Stä. +5 und Ver. +5.
+MSID_Mag_Res_1	Mag./Res. +1
+MSID_H_Mag_Res_1	Verleiht Mag. +1 und Res. +1.
+MSID_Mag_Res_2	Mag./Res. +2
+MSID_H_Mag_Res_2	Verleiht Mag. +2 und Res. +2.
+MSID_Mag_Res_3	Mag./Res. +3
+MSID_H_Mag_Res_3	Verleiht Mag. +3 und Res. +3.
+MSID_Mag_Res_4	Mag./Res. +4
+MSID_H_Mag_Res_4	Verleiht Mag. +4 und Res. +4.
+MSID_Mag_Res_5	Mag./Res. +5
+MSID_H_Mag_Res_5	Verleiht Mag. +5 und Res. +5.
+MSID_Spd_Res_1	Ges./Res. +1
+MSID_H_Spd_Res_1	Verleiht Ges. +1 und Res. +1.
+MSID_Spd_Res_2	Ges./Res. +2
+MSID_H_Spd_Res_2	Verleiht Ges. +2 und Res. +2.
+MSID_Spd_Res_3	Ges./Res. +3
+MSID_H_Spd_Res_3	Verleiht Ges. +3 und Res. +3.
+MSID_Spd_Res_4	Ges./Res. +4
+MSID_H_Spd_Res_4	Verleiht Ges. +4 und Res. +4.
+MSID_Spd_Res_5	Ges./Res. +5
+MSID_H_Spd_Res_5	Verleiht Ges. +5 und Res. +5.
+MSID_AntiAxeArts_1	Axtwacht 1
+MSID_H_AntiAxeArts_1	Ist der Gegner mit einer Axt\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -1.
+MSID_AntiAxeArts_2	Axtwacht 2
+MSID_H_AntiAxeArts_2	Ist der Gegner mit einer Axt\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -2.
+MSID_AntiAxeArts_3	Axtwacht 3
+MSID_H_AntiAxeArts_3	Ist der Gegner mit einer Axt\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -3.
+MSID_AntiAxeArts_4	Axtwacht 4
+MSID_H_AntiAxeArts_4	Ist der Gegner mit einer Axt\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -4.
+MSID_AntiAxeArts_5	Axtwacht 5
+MSID_H_AntiAxeArts_5	Ist der Gegner mit einer Axt\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -5.
+MSID_AntiMagicArts_1	Magiewacht 1
+MSID_H_AntiMagicArts_1	Ist der Gegner mit einem Buch\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -1.
+MSID_AntiMagicArts_2	Magiewacht 2
+MSID_H_AntiMagicArts_2	Ist der Gegner mit einem Buch\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -2.
+MSID_AntiMagicArts_3	Magiewacht 3
+MSID_H_AntiMagicArts_3	Ist der Gegner mit einem Buch\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -3.
+MSID_AntiMagicArts_4	Magiewacht 4
+MSID_H_AntiMagicArts_4	Ist der Gegner mit einem Buch\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -4.
+MSID_AntiMagicArts_5	Magiewacht 5
+MSID_H_AntiMagicArts_5	Ist der Gegner mit einem Buch\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -5.
+MSID_AntiLanceArts_1	Lanzenwacht 1
+MSID_H_AntiLanceArts_1	Ist der Gegner mit einer Lanze\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -1.
+MSID_AntiLanceArts_2	Lanzenwacht 2
+MSID_H_AntiLanceArts_2	Ist der Gegner mit einer Lanze\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -2.
+MSID_AntiLanceArts_3	Lanzenwacht 3
+MSID_H_AntiLanceArts_3	Ist der Gegner mit einer Lanze\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -3.
+MSID_AntiLanceArts_4	Lanzenwacht 4
+MSID_H_AntiLanceArts_4	Ist der Gegner mit einer Lanze\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -4.
+MSID_AntiLanceArts_5	Lanzenwacht 5
+MSID_H_AntiLanceArts_5	Ist der Gegner mit einer Lanze\nausgerüstet, erleidet die Einheit\nim Kampf Schaden -5.
+MSID_JobSkill_Enchant1	Verzauberung
+MSID_JobSkill_Enchant1_CMD1	Itemrausch
+MSID_H_JobSkill_Enchant1_CMD1	Verbraucht ein Item, um\nVerbündete zu stärken.
+MSID_JobSkill_Enchant1_CMD2	Waffenrausch
+MSID_H_JobSkill_Enchant1_CMD2	Verwende eine Waffe, um\nalle ident. Waffen zu stärken.
+MSID_JobSkill_Enchant2	Vorrat
+MSID_H_JobSkill_Enchant2	Hier können Einheiten Waffen und\nItems lagern oder herausnehmen.
+MSID_H_Ent_AntiMorph_Short	Effektiv gegen: Verzerrte für 1 Zug.
+MSID_H_Ent_ResistChain_Short	Max KP +\x0E\x01\x00\x00, negiert geg. Koop-Schläge f. 1 Zug.
+MSID_H_Ent_WeightZero_Short	Waffengewicht -50 %, Stä. +\x0E\x01\x00\x00 für 1 Zug.
+MSID_H_Ent_ResistBreak_Short	Immunität gg. „Bruch“, Beh. +\x0E\x01\x00\x00 für 1 Zug.
+MSID_H_Ent_ResistFreeze_Short	Immunität gg. „Einfrieren“, Ges. +\x0E\x01\x00\x00 für 1 Zug.
+MSID_H_Ent_MayNoDamage_Short	30 % Chance, erlitt. Schaden zu ignor. f. 1 Zg.
+MSID_H_Ent_ReflectPhysic_Short	Reflektiert erlittenen phys. Schaden für 1 Zug.
+MSID_H_Ent_ResistSilence_Short	Immunität geg. „Schweigen“, Mag. +\x0E\x01\x00\x00 f. 1 Zug.
+MSID_H_Ent_ReflectMagic_Short	Reflektiert erlittenen mag. Schaden für 1 Zug.
+MSID_H_Ent_HoldOutOnce_Short	Garantiert Überleben bei mind. 2 KP (1-mal).
+MSID_Ent_AntiMorph	Eff.: Verzerrte
+MSID_Ent_ResistChain	Koop ignorier.
+MSID_Ent_WeightZero	Gewicht -50 %
+MSID_Ent_ResistBreak	Bruch ignorier.
+MSID_Ent_ResistFreeze	Einfrieren ignor.
+MSID_Ent_MayNoDamage	Schaden ignor.
+MSID_Ent_ReflectPhysic	Phys. reflekt.
+MSID_Ent_ResistSilence	Schweigen ign.
+MSID_Ent_ReflectMagic	Magie reflekt.
+MSID_Ent_HoldOutOnce	Überleben
+MAID_Mascot	Somniellinie
+MAID_MascotM	Somnieleinteiler
+MAID_H_MascotM	Einteiler, in dem man wie das Schutzwesen des Somniel aussieht. Mit all\nden wohltuenden Details – von den Pfötchen bis zum fluffigen Schweif.
+MAID_MascotF	Somnieleinteiler
+MAID_H_MascotF	Einteiler, in dem man wie das Schutzwesen des Somniel aussieht. Mit all\nden wohltuenden Details – von den Pfötchen bis zum fluffigen Schweif.
+MAID_SolaHead	Somnielmaske
+MAID_H_SolaHead	Diese makellose Maske verleiht dem Träger die unergründlichen Miene des\nSchutzwesens. Ein Muss für alle, die einmal Schutzwesen sein wollen.
+MAID_CatEar	Somnielohren
+MAID_H_CatEar	Ein Accessoire, in aufwändiger Handarbeit erschaffen. So sehen die Ohren\ndes Schutzwesens aus, die bei keinem Schutzwesenoutfit fehlen dürfen.
+MAID_DogEar	Hundeohren
+MAID_H_DogEar	Ein Accessoire, in aufwändiger Handarbeit erschaffen. Das sind die Ohren\neines Hundes aus Elusia. So zeigt man seine Liebe für die süßen Welpen.
+MAID_RabbitEar	Hasenohren
+MAID_H_RabbitEar	Ein Accessoire, das wie die Ohren eines Hasen aussieht. Der Flaum an den\nOhren macht sie unglaublich weich.
+MAID_FoxEar	Fuchsohren
+MAID_H_FoxEar	Ein Accessoire, das wie die Ohren einer seltenen Fuchsart aussieht. Man\nsagt, ihr Träger könne sich sogar in so einen Fuchs verwandeln!
+MID_BONDSRING_Hector00	Adliger von Ositia in Elibe, einem\nKontinent einer anderen Welt.
+MID_BONDSRING_Hector01	Seine Axt Armads begleitete ihn und\nseinen Freund Eliwood in den Kampf.
+MID_BONDSRING_Senerio00	Mitglied von Greils Söldnern aus Tel-\nlius, Kontinent einer anderen Welt.
+MID_BONDSRING_Senerio01	Ein talentierter Stratege, der Greils\nSöldner schon oft aus Gefahr rettete.
+MID_BONDSRING_Camilla00	Die älteste Prinzessin von Nohr,\neinem Land in einer anderen Welt.
+MID_BONDSRING_Camilla01	Sie kann warmherzig sein, ist aber\ngnadenlos gegenüber ihren Feinden.
+MGID_Ring_Hector	Armring des eigenwilligen Generals
+MGID_H_Ring_Hector	Armring, in dem Hector schläft. Ein\nüberschwänglicher, heroischer Mann\nmit grenzenlosem Selbstvertrauen.
+MGID_Ring_Senerio	Armring des Strategen
+MGID_H_Ring_Senerio	Armring, in dem Soren schläft. Ein\npräzise kalkulierender Stratege mit\nklarem Urteilsvermögen.
+MGID_Ring_Camilla	Armring der vernarrten Schwester
+MGID_H_Ring_Camilla	Armring, in dem Camilla schläft.\nEine wunderschöne Wyvernreiterin\nmit einer hinreißenden Aura.
+MGID_World_Hector	Welt der Dame der Ebene
+MGID_World_Senerio	Welt des strahlenden Helden
+MGID_World_Camilla	Welt der Weltveränderin
+MID_RELAY_Stamp_Hector_0	Verlass dich weiter auf mich!
+MID_RELAY_Stamp_Senerio_0	Nicht schlecht...
+MID_RELAY_Stamp_Camilla_0	Jemand verdient eine Bestrafung.
+MID_Hub_Horse	Stall
+MID_Hub_Fruit	Obstgarten
+MID_Hub_Pool	Schwimmbad
+MID_Hub_Refresh	Freizeit
+MID_Hub_Refresh_Help	Wähle zwei Verbündete aus.
+MID_Hub_Refresh_Entrust	Empfehlung
+MID_Hub_Refresh_Entrust_Help	Wählt automatisch einen Charakter aus,\nder Unterstützungspunkte erhält.
+MID_Hub_Refresh_RelianceLv	Unterstützung
+MID_Hub_Refresh_Place	Ort
+MID_Hub_Refresh_Unit	Verbünd., die Freizeit haben:
+MID_Hub_Refresh_Used	Bereits verwendet
+MID_Hub_Refresh_Attention	Du kannst diesen Ort erst nach der nächsten\nSchlacht wieder verwenden.
+MID_Hub_Refresh_Confirmation	Freizeit beginnen?
+MID_Hub_Refresh_Start	Beginnen
+MID_Hub_Refresh_Result	Direkt zu den Ergebnissen
+MID_Hub_Refresh_Stop	Abbrechen
+MID_Hub_Refresh_RelianceLvUP	Der Unterstützungslevel von \x0E\x01\x00\x00\nund \x0E\x01\x01\x00 hat sich erhöht.
+MID_Hub_Refresh_Reliance_Occurrence	Das Unterstützungsgespräch zwischen\n\x0E\x01\x00\x00 und \x0E\x01\x01\x00 wurde freigeschaltet.
+MID_Hub_Refresh_NoReliance_Occurrence	\x0E\x01\x00\x00 und \x0E\x01\x01\x00\nfühlen sich erholt.
+PCTMID_Hector	„Verlass dich auf mich.“
+PCTMID_Senerio	„Fakten sind Fakten.“
+PCTMID_Camilla	„Du bist so niedlich!“
+MID_Movie_K15	Emblem Hector
+MID_H_Movie_K15	Emblem Hector, beschworen aus dem\nArmring des eigenwilligen Generals.
+MID_Movie_K16	Emblem Soren
+MID_H_Movie_K16	Emblem Soren, beschworen aus dem\nArmring des Strategen.
+MID_Movie_K17	Emblem Camilla
+MID_H_Movie_K17	Emblem Camilla, beschworen aus dem\nArmring der vernarrten Schwester.
+MID_MAP_HIS_EngageWait	\x0E\x01\x00\x00 setzte Auge des Sturms ein.
+MID_MAP_HIS_EngageWaitPlus	\x0E\x01\x00\x00 setzte Auge des Sturms+ ein.
+MID_MAP_HIS_Enchant	\x0E\x01\x00\x00 setzte Itemrausch ein.
+MID_MAP_HIS_Enchant_Weapon	\x0E\x01\x00\x00 setzte Waffenrausch ein.

@@ -1,0 +1,260 @@
+MID_MSG_CC_DLC_JOB_OPEN	Ahora tus unidades pueden cambiar\na las clases taumaturgo y mago artillero.\n(Para hacerlo es necesario un objeto especial.)\n
+MID_MSG_EVIL_COMPLETE_REWARD	Recompensas por superar la Epopeya del Caído
+MID_DLC_News_Patch3_Title	Ver. 2.0.0
+MID_DLC_News_Patch3	Pase de expansión\n\n・ Se ha añadido la Epopeya del Caído. Al superar esta nueva\n   historia, se unirán al grupo varios aliados. Además, habrá\n   dos clases adicionales a tu disposición: taumaturgo\n   y mago artillero.\n\nContenido gratuito\n\n・ Recibirás materiales para mejorar armas de fusión\n   cuando accedas al Somniel tras completar el capítulo 4.\n\n・ Es posible obtener contenido de bonificación de forma\n   gratuita desde Nintendo eShop.
+MID_MSG_GET_ITEM_Patch3	Bonificación de actualización 2 recibida.
+MID_SYS_EvilMap	Epopeya del Caído
+MID_SysDialog_Move_EvilMap	Epopeya del Caído
+MID_MSG_Encount_EvilMap	Escaramuza en la Epopeya del Caído.
+MID_Hub_Well_GotoEvil	Epopeya del Caído
+MID_Hub_Well_GotoEvil_Dialog_Message	¿Quieres iniciar la Epopeya del Caído?
+MID_Hub_Well_GotoEvil_Dialog_Yes	Comenzar
+MID_Hub_Well_GotoEvil_Dialog_Message_After	¿Quieres ir a la Epopeya del Caído?
+MCID_E001_PREFIX	Epopeya del Caído 1
+MCID_E001	Dragones lejanos
+MCID_E001_PLACE	Altar del brazalete
+MCID_E002_PREFIX	Epopeya del Caído 2
+MCID_E002	Semillas del caos
+MCID_E002_PLACE	Jardín exuberante
+MCID_E002_OUTLINE	Tras repeler a los asesinos, el\nDragón Divino va a Firene con Nel\ny Nil para reclamar un brazalete.
+MCID_E003_PREFIX	Epopeya del Caído 3
+MCID_E003	Sendero de guerra
+MCID_E003_PLACE	Camino real
+MCID_E003_OUTLINE	Tras poner en letargo al Emblema\nde Firene, el grupo se dirige a\nBrodia en busca de otro brazalete.
+MCID_E004_PREFIX	Epopeya del Caído 4
+MCID_E004	Choque de reinas
+MCID_E004_PLACE	Bosque gélido
+MCID_E004_OUTLINE	El grupo recibe novedades\ninquietantes desde Elusia.\nQuedan tres brazaletes.
+MCID_E005_PREFIX	Epopeya del Caído 5
+MCID_E005	El heredero caído
+MCID_E005_PLACE	Fuerte del desierto
+MCID_E006_PREFIX	Epopeya del Caído 6
+MCID_E006	Siete brazaletes
+MCID_E006_PLACE	El Somniel caído
+MCID_E006_OUTLINE	Tras perder a Nel y los brazaletes,\nel Dragón Divino busca a Nil en\nuna isla que antaño flotó en el aire.
+MID_RULE_DLC_LOSE	\x0E\x06\x03\x00, Nel o Nil caen.
+MID_RULE_DLC_LOSE2	\x0E\x06\x03\x00 o Nel caen.
+MID_RULE_E001_WIN	Derrota a (?).
+MID_RULE_E002_WIN	Derrota a Alfred y Céline.
+MID_RULE_E003_WIN	Derrota a Diamant y Alcryst.
+MID_RULE_E004_WIN	Derrota a Ivy y Timerra.
+MID_RULE_E005_WIN	Derrota a Nil.
+MID_RULE_E006_WIN	Derrota a Nil Caído.
+MTID_Cemetery	Cementerio
+MTID_Dragon	Sello caído
+MPID_El	Nel
+MPID_H_El	La mayor de los hijos mellizos del\nDragón Caído. Lucha valerosamente\njunto a su hermano.
+MPID_Il	Nil
+MPID_H_Il	El menor de los hijos mellizos\ndel Dragón Caído. Joven amable\nque ayuda a su hermana.
+MPID_H_Il_E005	El menor de los hijos mellizos\ndel Dragón Caído. Traicionó a su\nhermana y al Dragón Divino.
+MPID_Il_E006	Nil Caído
+MPID_H_Il_E006	Siguiendo los deseos de Sombron,\nutilizó los siete brazaletes para\ntransformarse en el Gran Caído.
+MPID_Rafale	Rafal
+MPID_H_Rafale	Descendiente del Dragón Caído\nque aceptó la invitación para luchar\njunto al Dragón Divino.
+MPID_Selestia	Zelestia
+MPID_H_Selestia	Líder de los Cuatro Vientos. Dragona\nmaga que siente un enorme afecto\npor sus compañeros de armas.
+MPID_Gregory	Gregory
+MPID_H_Gregory_E	Miembro de los Cuatro Vientos.\nEs un mago amable, aunque peca de\npusilanimidad y exceso de cautela.
+MPID_H_Gregory	Lugarteniente de los Cuatro Vientos.\nEs un mago amable, aunque peca de\npusilanimidad y exceso de cautela.
+MPID_Madeline	Madeline
+MPID_H_Madeline	Integrante de los Cuatro Vientos.\nInteligente caballera acorazada\nde convicciones fuertes.
+MPID_MorphWolf	Lobo aberrante
+MPID_H_MorphWolf	Lobo resucitado por el Dragón\nCaído. Se mueve con agilidad y\nataca con garras y fauces afiladas.
+MPID_MorphWolfSilver	Lobo de plata
+MPID_H_MorphWolfSilver	Extraña aberración metálica de lobo\nque proporciona mucha experiencia\nal caer derrotada.
+MPID_MorphDragonF	Wyvern aberrante
+MPID_H_MorphDragonF	Enorme wyvern resucitado por\nel Dragón Caído. Surca los cielos\ny ataca con su poderoso aliento.
+MPID_MorphDragonFGold	Wyvern de oro
+MPID_H_MorphDragonFGold	Extraña aberración metálica de\nwyvern que tiene obsesión por\nacumular oro.
+MPID_ShadowSiblings	Hermanos caídos
+MPID_H_FogatoHide	Asesino no identificado que busca\nllevarse los brazaletes Emblema.
+MPID_H_AlfredR	Rey de Firene en otro mundo.\nDe carácter colérico y beligerante,\nelimina a sus enemigos sin piedad.
+MPID_H_CelineR	Princesa de Firene en otro mundo.\nFría y calculadora, se muestra\ninclemente con quienes la rodean.
+MPID_H_DiamandR	Rey de Brodia en otro mundo.\nApocado y pesimista, carece de\nconfianza para tomar decisiones.
+MPID_H_StalukeR	Príncipe de Brodia en otro mundo.\nTremendamente altanero, desprecia\na su pusilánime hermano.
+MPID_H_IvyR	Reina de Elusia en otro mundo.\nOrgullosa de su alcurnia, desprecia\nel origen plebeyo de su hermana.
+MPID_H_HortensiaR	Princesa de Elusia en otro mundo.\nEstá muy consternada a causa\nde la muerte de su padre.
+MPID_H_MisutiraR	Reina de Solm en otro mundo.\nExcesivamente rígida y formal,\nes de carácter muy inflexible.
+MPID_H_FogatoR	Príncipe de Solm en otro mundo.\nHedonista impenitente, se lanza\nal campo de batalla con una sonrisa.
+MPID_alias_El	Dragón estoico
+MPID_alias_Rafale	Dragón en pena
+MPID_alias_Selestia	Líder amable
+MPID_alias_Gregory	Antigua cicatriz
+MPID_alias_Madeline	Corazón aliviado
+MJID_ShadowPrincessR	Vástago caído
+MJID_H_ShadowPrincessR	Del linaje del Dragón Caído,\nlucha con lanza y usa una piedra\npara transformarse en dragón.
+MJID_ShadowLordR	Vástago caído
+MJID_H_ShadowLordRE	Del linaje del Dragón Caído, no\nes ducho en el combate, aunque\nse esfuerza para blandir un hacha.
+MJID_H_ShadowLordRE_E005	Del linaje del Dragón Caído,\ntras revelar su verdadera identidad,\nblande un hacha salvajemente.
+MJID_H_ShadowLordR	Del linaje del Dragón Caído,\nlucha con hacha y usa una piedra\npara transformarse en dragón.
+MJID_ShadowDragonR	Gran Caído
+MJID_H_ShadowDragonR	Dragón Caído con el poder de los\nbrazaletes Emblema. Siembra el caos\nen batalla con sus potentes ataques.
+MJID_MorphWolf	Lobo aberrante
+MJID_H_MorphWolf	Siervo del Dragón Caído que ansía\nsumir el mundo en la destrucción.\nAtaca con sus colmillos maléficos.
+MJID_MorphFlyingDragon	Wyvern aberrante
+MJID_H_MorphFlyingDragon	Siervo del Dragón Caído que ansía\nsumir el mundo en la destrucción.\nAtaca con su aliento maligno.
+MJID_AvenirR	Sangre azul
+MJID_H_AvenirR	Persona beligerante que desea\nla guerra. Destaca en el uso\nde la lanza a caballo.
+MJID_FleurageR	Sangre azul
+MJID_H_FleurageR	Persona beligerante que desea\nla guerra. Usa la magia con destreza\ny también maneja la espada.
+MJID_SuccesseurR	Déspota
+MJID_H_SuccesseurR	Espadachín que ha perdido\nla dignidad y ha renunciado\na los valores caballerescos.
+MJID_TirailleurR	Déspota
+MJID_H_TirailleurR	Arquero que ha perdido\nla dignidad y ha renunciado\na los valores caballerescos.
+MJID_LindwurmR	Dominabestias
+MJID_H_LindwurmR	Fiel del Dragón Caído que doblega\nla voluntad de las bestias. Monta\nun wyvern y usa magia y bastones.
+MJID_SleipnirR	Dominabestias
+MJID_H_SleipnirR	Fiel del Dragón Caído que doblega\nla voluntad de las bestias. Monta\nun pegaso y usa magia y bastones.
+MJID_PitchforkR	Vigía
+MJID_H_PitchforkR	Hábil con la lanza, en nombre\nde una supuesta justicia, diezma\na sus adversarios sin piedad.
+MJID_CupidoR	Vigía
+MJID_H_CupidoR	Hábil jinete con arco que, en nombre\nde una supuesta justicia, diezma\na sus adversarios sin piedad.
+MIID_ElAttack	Destello caído
+MIID_H_ElAttack	Ataque con una piedra que encierra\nel poder de un Dragón Caído.\nDemedia la Def/Res del rival.
+MIID_ElAttack2	Arcano caído
+MIID_H_ElAttack2	Ataque mágico con piedra de Dragón\nCaído que usa la potencia de ataque\nfísico. Demedia la Def/Res del rival.
+MIID_Evilstone	Piedra caída
+MIID_H_Evilstone	Piedra que encierra el poder de un\nDragón Caído. Demedia la Def/Res\ndel rival.
+MIID_TrueEvilstone	Piedra ruinosa
+MIID_H_TrueEvilstone	Piedra que encierra el poder de un\nDragón Caído. Demedia la Def/Res\ndel rival. También ataca a distancia.
+MIID_Evilstone_Magic	Piedra mágica
+MIID_H_Evilstone_Magic	Piedra de Dragón Caído. Ataca con\nmagia usando la potencia de ataque\nfísico. Demedia la Def/Res del rival.
+MIID_Evilstone_Slayer_Horse	Piedra asesina
+MIID_H_Evilstone_Slayer_Horse	Piedra que encierra el poder de un\nDragón Caído. Demedia la Def/Res\ndel rival. Eficacia: Caballería.
+MIID_Evilstone_Slayer_Fly	Piedra lastre
+MIID_H_Evilstone_Slayer_Fly	Piedra que encierra el poder de un\nDragón Caído. Demedia la Def/Res\ndel rival. Eficacia: Voladores.
+MIID_H_Liberation_E006	Solo para Dragones Divinos.\nAta + 15 si se enfrenta a Nil Caído.
+MIID_H_Liberation_E006_Normal	Solo para Dragones Divinos.\nAta + 30 si se enfrenta a Nil Caído.
+MIID_IlAttack	Asalto caído
+MIID_H_IlAttack	Serie de descomunales ataques\na distancia.
+MIID_IlBeam	Rayo caído
+MIID_H_IlBeam	Rayo oscuro que mata a todo rival\npresente en una zona amplia. Acierto\ngarantizado. Ignora la Def/Res.
+MIID_IlRush	Devastación
+MIID_H_IlRush	Destruye la zona que rodea a la\nunidad, matando a aliados y rivales,\ny absorbe su energía vital.
+MIID_IlAbsorp	Drenaje vital
+MIID_H_IlAbsorp	Mata al instante a todas las unidades\nde una zona, aliadas y enemigas,\ny absorbe su energía vital.
+MIID_IlSummon	Vórtice aberrante
+MIID_H_IlSummon	Crea vórtices que invocan\naberraciones.
+MIID_MiasmaBreath	Aliento miasma
+MIID_H_MiasmaBreath	Ataque con miasma que ignora la\nDef/Res del rival. Impregna de\nmiasma la casilla del enemigo.
+MIID_MiasmaBall	Bola miasma
+MIID_H_MiasmaBall	Ataque a distancia. Ignora la Def/Res\ndel rival. Congela y silencia al rival\ne impregna de miasma su casilla.
+MIID_ElBento	Ración de Nel
+MIID_H_ElBento	Sobras eficientemente guardadas\npor Nel. Restauran 20 PV.
+MIID_RafaleBento	Ración de Rafal
+MIID_H_RafaleBento	Sobras guardadas con suficiencia\npor Rafal. Restauran 20 PV.
+MIID_SelestiaBento	Ración de Zelestia
+MIID_H_SelestiaBento	Sobras guardadas con cariño\npor Zelestia. Restauran 20 PV.
+MIID_GregoryBento	Ración de Gregory
+MIID_H_GregoryBento	Sobras cautelosamente guardadas\npor Gregory. Restauran 20 PV.
+MIID_MadelineBento	Ración de Madeline
+MIID_H_MadelineBento	Sobras orgullosamente guardadas\npor Madeline. Restauran 20 PV.
+MIID_EnchantSeal	Morral místico
+MIID_H_EnchantSeal	Permite al usuario pasar\na la clase taumaturgo.
+MIID_MageCannonSeal	Cañón mágico
+MIID_H_MageCannonSeal	Permite al usuario pasar\na la clase mago artillero.
+MSID_PrivateSkill_El	Guardián
+MSID_H_PrivateSkill_El	Si Rafal sufre un ataque,\notorga Crí + 10 durante 1 turno.
+MSID_H_PrivateSkill_El_E	Si Nil sufre un ataque,\notorga Crí + 10 durante 1 turno.
+MSID_PrivateSkill_Rafale	Competitividad
+MSID_H_PrivateSkill_Rafale	Si un aliado situado en un radio\nde 2 casillas derrota a un enemigo,\notorga a la unidad Crí + 10 durante\n1 turno.
+MSID_PrivateSkill_Il	Orgullo herido
+MSID_H_PrivateSkill_Il	Si un aliado situado en un radio\nde 2 casillas derrota a un enemigo,\notorga a la unidad Crí + 10 durante\n1 turno.
+MSID_PrivateSkill_Selestia	Estímulo amigable
+MSID_H_PrivateSkill_Selestia	Si la unidad derrota a un enemigo,\nlos aliados situados en un radio\nde 2 casillas obtienen Gol + 20\ndurante 1 turno.
+MSID_PrivateSkill_Gregory	Autoconservación
+MSID_H_PrivateSkill_Gregory	Si hay más enemigos que aliados\nen un radio de 3 casillas, la unidad\nobtiene Esq + 20.
+MSID_PrivateSkill_Madeline	Ideal caballeresco
+MSID_H_PrivateSkill_Madeline	Si el rival inicia el enfrentamiento\ny hay un aliado en una casilla\nadyacente a la unidad, esta sufre\ndaño - 2.
+MSID_PrivateSkill_Alfred_E	Defensa personal
+MSID_PrivateSkill_Celine_E	Flor salvaje
+MSID_PrivateSkill_Diamand_E	Acto final
+MSID_PrivateSkill_Staluke_E	Vanagloria
+MSID_PrivateSkill_Ivy_E	Última palabra
+MSID_PrivateSkill_Hortensia_E	Ayuda sigilosa
+MSID_PrivateSkill_Misutira_E	Boato de Solm
+MSID_PrivateSkill_Fogato_E	Desgaste
+MSID_JobSkill_MorphFlyingDragon	Campo de miasma
+MSID_H_JobSkill_MorphFlyingDragon	Al inicio del turno, cubre de\nmiasma la zona situada en un\nradio de 2 casillas de la unidad.
+MSID_JobSkill_ShadowPrincessR	Mitigaemblemas
+MSID_H_JobSkill_ShadowPrincessR	Si el rival asesta un ataque de fusión,\nla unidad sufre daño - 20 %.
+MSID_JobSkill_ShadowLordR	Espoleo Emblema
+MSID_H_JobSkill_ShadowLordR	Al inicio del turno del jugador,\nrestaura 1 al contador de fusión\nde los aliados adyacentes.
+MSID_DisplaySkill_DamageCut	Sello protector
+MSID_H_DisplaySkill_DamageCut	La unidad sufre daño - 50 y se\nreduce en un 50 % la probabilidad\nde sufrir golpes críticos.
+MSID_ChainAttackDamageWeaken+	Rompevínculos +
+MSID_H_ChainAttackDamageWeaken+	Reduce al 10 % la precisión de los\nataques en cadena del rival, así\ncomo el daño sufrido por la unidad.
+MSID_H_SenerioEngage_DarkSide	La unidad recupera PV = 50 % del\ndaño infligido si ataca con grimorio.
+MSID_H_SenerioEngageAtk_DarkSide	Permite atacar con viento, trueno y\nfuego a rivales situados en una zona.\n(Viento: eficacia contra voladores.)
+MAID_ElWear	Hábito artístico
+MAID_H_ElWear	Ropa de diario de Nel, descendiente del Dragón Caído.\nTras años de retoques, ha adquirido un aspecto único y original.
+MAID_RafaleWear	Hábito clásico
+MAID_H_RafaleWear	Ropa de diario de Rafal, descendiente del Dragón Caído.\nConjunto de estilo sobrio cuyo colgante va a juego con el de Nel.
+MAID_SelestiaWear	Vestido elegante
+MAID_H_SelestiaWear	Ropa de diario de Zelestia, líder de los Cuatro Vientos. Traje refinado para\ndías tranquilos en el Somniel. Suele necesitar ayuda con su larga melena.
+MAID_GregoryWear	Capa del Caído
+MAID_H_GregoryWear	Ropa de diario de Gregory, lugarteniente de los Cuatro Vientos.\nLos motivos de Dragón Caído indican su lealtad a Nel, Rafal y sus aliados.
+MAID_MadelineWear	Plisado perfecto
+MAID_H_MadelineWear	Ropa de diario de Madeline, de los Cuatro Vientos. Este atuendo refleja\nsu amor por los lazos al tiempo que le da un aire de madurez.
+MID_LVUP_1_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x0E\x04エル\x06Die\n\x0E\x03\x02\x06\x04エル\nEsperaba algo más.\x0E\x04\x00\x00
+MID_LVUP_2_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nMejor no obsesionarse con trivialidades.\x0E\x04\x00\x00
+MID_LVUP_3_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x14\x04エル\x0CNormal\n\x0E\x03\x02\x06\x04エル\nQue los demás evalúen mi rendimiento.\nYo me ocuparé de lo que está por venir.\x0E\x04\x00\x00
+MID_LVUP_4_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nSi esto le agrada al Dragón Divino,\nsupongo que también me agrada a mí.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nEsto bastará.\x0E\x04\x00\x00
+MID_LVUP_CC_El	\x0E\x02\x01\x00\n\x0E\x03\x00\x0A\x04エル\x02t\n\x0E\x05\x01\x12\x04エル\nSmile\n\x0E\x03\x02\x06\x04エル\nEs un honor recibir tal presente\nde manos del Dragón Divino.\x0E\x04\x00\x00
+MID_LVUP_1_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x14\nラファール\x06Sad\n\x0E\x03\x02\x0C\nラファール\nNo... Me niego a ser un fracasado...\x0E\x04\x00\x00
+MID_LVUP_2_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nAngry\n\x0E\x03\x02\x0C\nラファール\nEsto no se acaba aquí.\x0E\x04\x00\x00
+MID_LVUP_3_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0ESerious\n\x0E\x03\x02\x0C\nラファール\nEs lo que esperaba, pero puedo hacerlo mejor.\x0E\x04\x00\x00
+MID_LVUP_4_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1A\nラファール\x0CStrike\n\x0E\x03\x02\x0C\nラファール\n¡Admira mi poder, Divinidad!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x18\nラファール\nSmile\n\x0E\x03\x02\x0C\nラファール\nAhora sí que he obtenido poder.\x0E\x04\x00\x00
+MID_LVUP_CC_Rafale	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nラファール\x02t\n\x0E\x05\x01\x1C\nラファール\x0EStandBy\n\x0E\x03\x02\x0C\nラファール\nContinuaré aplastando al enemigo\nde esta forma o de cualquier otra.\x0E\x04\x00\x00
+MID_LVUP_1_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x16\x0Cセレスティア\x06Sad\n\x0E\x03\x02\x0E\x0Cセレスティア\nQué raro. Soy joven para ser una dragona maga.\nDebería mejorar más rápido.\x0E\x04\x00\x00
+MID_LVUP_2_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\n¡Incluso el cambio más insignificante\ncolma de dicha mi corazón!\x0E\x04\x00\x00
+MID_LVUP_3_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nAngry\n\x0E\x03\x02\x0E\x0Cセレスティア\nDebo acumular fuerza para ser digna\nde liderar los Cuatro Vientos.\x0E\x04\x00\x00
+MID_LVUP_4_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nRelax\n\x0E\x03\x02\x0E\x0Cセレスティア\nEstoy mejorando.\n¡Ahora mismo me siento capaz de todo!\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\nSoy mucho más fuerte que en mi viejo mundo.\n¡No hay ni punto de comparación!\x0E\x04\x00\x00
+MID_LVUP_CC_Selestia	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cセレスティア\x02t\n\x0E\x05\x01\x1A\x0Cセレスティア\nSmile\n\x0E\x03\x02\x0E\x0Cセレスティア\n¡Estupendo! Apenas tengo ocasiones de cambiar\nde aspecto. ¿Me queda bien, Divinidad?\x0E\x04\x00\x00
+MID_LVUP_1_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Sad\n\x0E\x03\x02\x0C\nグレゴリー\nMe aterran los cambios...\nAunque también me aterra no progresar.\x0E\x04\x00\x00
+MID_LVUP_2_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x14\nグレゴリー\x06Shy\n\x0E\x03\x02\x0C\nグレゴリー\nMmm... Esto debería ayudarme a evitar\naunque sea un poco de dolor, ¿verdad?\x0E\x04\x00\x00
+MID_LVUP_3_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nAngry\n\x0E\x03\x02\x0C\nグレゴリー\n¡Usaré este poder para ayudar a construir\nun mundo libre de miedo y de dolor!\x0E\x04\x00\x00
+MID_LVUP_4_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1E\nグレゴリー\x10Surprise\n\x0E\x03\x02\x0C\nグレゴリー\n¡Un momento! ¿Qué me ha ocurrido?\nDebería alegrarme, ¿no?\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x1A\nグレゴリー\x0CStatus\n\x0E\x03\x02\x0C\nグレゴリー\nNo sé hasta qué punto es seguro\nque siga acumulando poder.\x0E\x04\x00\x00
+MID_LVUP_CC_Gregory	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nグレゴリー\x02t\n\x0E\x05\x01\x18\nグレゴリー\nSmile\n\x0E\x03\x02\x0C\nグレゴリー\n¿Y bien? ¿Cómo me queda? Espero que sirva\npara intimidar al enemigo y que me deje en paz.\x0E\x04\x00\x00
+MID_LVUP_1_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Sad\n\x0E\x03\x02\x0C\nマデリーン\nQué vergüenza.\nLa próxima vez lo haré mejor.\x0E\x04\x00\x00
+MID_LVUP_2_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x1C\nマデリーン\x0ESerious\n\x0E\x03\x02\x0C\nマデリーン\nUna actuación apenas aceptable...\n¡Debo practicar más!\x0E\x04\x00\x00
+MID_LVUP_3_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nSmile\n\x0E\x03\x02\x0C\nマデリーン\n¿Lo ven? La edad no lo es todo.\x0E\x04\x00\x00
+MID_LVUP_4_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nPor una vez, quizá el elogio\nno esté injustificado.\x0E\x04\x00\x00
+MID_LVUP_LIMIT_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x18\nマデリーン\nRelax\n\x0E\x03\x02\x0C\nマデリーン\nNo podría haberlo logrado\nsin la ayuda de mis amigos y aliados.\x0E\x04\x00\x00
+MID_LVUP_CC_Madeline	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nマデリーン\x02t\n\x0E\x05\x01\x14\nマデリーン\x06Shy\n\x0E\x03\x02\x0C\nマデリーン\nNo me gusta quejarme, pero este atuendo\nes algo diferente a lo que estoy habituada...\x0E\x04\x00\x00
+MID_RELAY_Stamp_El_0	Por favor, perdóname.
+MID_RELAY_Stamp_Rafale_0	No me decepciones.
+MID_RELAY_Stamp_Selestia_0	¡Esto será divertido!
+MID_RELAY_Stamp_Gregory_0	Espero que no duela.
+MID_RELAY_Stamp_Madeline_0	¡Ya soy mayor!
+MID_BGM_DLC_Evt_Twin_ST_Play	Anhelo de los dragones mellizos
+MID_BGM_DLC_Evt_Twin_Exposed_ST_Play	Sueños rotos
+MID_BGM_DLC_Sys_Gmap_ST_Play	El viaje del dragón
+MID_BGM_DLC_Field_P14_Map_ST_Play	Salvación y pérdida
+MID_BGM_DLC_Field_P14_Combat_ST_Play	Salvación y pérdida (Rebelión)
+MID_BGM_DLC_Field_P15_ST_Play	Fusión reflejada
+MID_BGM_DLC_Boss_07_Pre_ST_Play	Persona cambiante
+MID_BGM_DLC_Boss_07_Start_ST_Play	Persona cambiante (Frenesí)
+MID_BGM_DLC_Sys_ED2_ST_Play	Por fin acaba el viaje
+MID_BGM_DLC_Mov_GOP_Full_ST_Play	¡Fusión Emblema! (Versión completa)
+MID_BGM_DLC_Field_P15_Pre_ST_Play	Despertar tras un breve sueño
+MID_BGM_DLC_Evt_Twin_Past_ST_Play	Recuerdos
+MID_Hub_Well_Difficulty_Change	Dificultad
+MID_Hub_Well_Difficulty_Change_Confirm	¿Cambiar la dificultad de la Epopeya del Caído?\n(El nivel de dificultad de la historia principal\nno se verá afectado. Puedes modificar esta\nopción en cualquier momento.)
+MID_Hub_Well_Difficulty_Change_Before	Dificultad actual
+MID_Hub_Well_Difficulty_Change_Normal	Cambiar a normal
+MID_Hub_Well_Difficulty_Change_Hard	Cambiar a difícil
+MID_Hub_Well_Difficulty_Change_Lunatic	Cambiar a extremo
+MID_Hub_Well_Difficulty_Change_Cancel	Cancelar
+MID_Hub_Well_Difficulty_Change_Dialog	Se ha cambiado la dificultad\nde la Epopeya del Caído a: \x0E\x01\x00\x00.
+MID_FORTUNE_TROUBLE_El	La gente se alarma\ncuando ve cómo devora\nlimones enteros.
+MID_FORTUNE_TROUBLE_Rafale	Las golosinas hacen que\nse le ponga una sonrisa\ntonta en la cara.
+MID_FORTUNE_TROUBLE_Selestia	Los pájaros suelen\nposarse en sus cuernos.
+MID_FORTUNE_TROUBLE_Gregory	Su peluche favorito\nestá bastante ajado.
+MID_FORTUNE_TROUBLE_Madeline	Le gustan los lazos,\npero se le da fatal atarlos.
+MID_Movie_E07	Recuerdos de otro mundo
+MID_H_Movie_E07	El Dragón Divino es invocado a otro\nElyos por unos dragones caídos mellizos\npara luchar por los siete brazaletes.

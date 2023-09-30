@@ -1,0 +1,45 @@
+MID_TUT_BMAP_FireBall_TITLE	Volcanic Bombs
+MID_TUT_BMAP_FireBall_0	Falling volcanic bombs deal damage on impact.
+MID_TUT_BMAP_FireBall_1	They are guaranteed to fall wherever you see\nmagma craters, so keep your allies off of them.
+MID_TUT_BMAP_FireBall_2	Units on craters will also take damage.
+MID_TUT_BMAP_Smoke_TITLE	Smoke
+MID_TUT_BMAP_Smoke_0	Terrain engulfed by smoke will reduce units'\navoid rate (Avo), defense, and resistance.
+MID_TUT_BMAP_Smoke_1	The smoke on this map in particular will also\nspread slowly over time, so be careful.
+MID_TUT_HUB_REFRESH_TITLE	Recreation
+MID_TUT_HUB_REFRESH_0	You can select two allies on the Somniel to\nspend some time relaxing at various locations.
+MID_TUT_HUB_REFRESH_1	Support points between the allies you select\nmay increase as they spend time together.
+MID_TUT_HUB_REFRESH_2	You can do this once each at the pool, orchard,\nand stable between battles.
+MID_TUT_HUB_REFRESH_NOTICE	You can now select Recreation at the pool\nand other locations.
+MID_TUT_HUB_REFRESH_OPEN	You can now use Recreation.
+MID_TUT_GOD_HECTOR_TITLE	Emblem Hector
+MID_TUT_GOD_HECTOR_0	Emblem Hector boasts high defense. He can\nprotect allies and counterattack against foes.
+MID_TUT_GOD_HECTOR_1	The sync skill Quick Riposte lets counterattacks\nfollow up while the unit's HP is above a\ncertain threshold.
+MID_TUT_GOD_HECTOR_2	The engage weapon Wolf Beil deals bonus\ndamage against cavalry and armored enemies.
+MID_TUT_GOD_HECTOR_3	The engage skill Impenetrable increases the\nunit's defense and resistance when attacked.
+MID_TUT_GOD_HECTOR_4	The engage attack Storm's Eye prevents foes\nfrom following up or inflicting the break status.\nIt also lets the unit's counterattacks follow up.
+MID_TUT_GOD_SENERIO_TITLE	Emblem Soren
+MID_TUT_GOD_SENERIO_0	Emblem Soren specializes in offensive magic\nand manipulating the conditions of a battle.
+MID_TUT_GOD_SENERIO_1	The sync skill Assign Decoy makes a designated\nally more likely to be targeted by foes.
+MID_TUT_GOD_SENERIO_2	The engage weapon Bolting strikes distant foes\nwith long-range thunder magic.
+MID_TUT_GOD_SENERIO_3	The engage skill Flare lowers a foe's resistance\nand heals the unit when attacking with tomes.
+MID_TUT_GOD_SENERIO_4	The engage attack Cataclysm strikes an area\nwith fire, thunder, and wind magic.
+MID_TUT_GOD_CAMILLA_TITLE	Emblem Camilla
+MID_TUT_GOD_CAMILLA_0	Emblem Camilla can manipulate terrain and\ncontrol the flow of battle from the air.
+MID_TUT_GOD_CAMILLA_1	The sync skill Dragon Vein adds terrain effects\nbased on the user's unit type while clearing\nthe same area of any flames or miasma.
+MID_TUT_GOD_CAMILLA_2	The engage weapon Bolt Axe can strike foes at\nrange with magical attacks.
+MID_TUT_GOD_CAMILLA_3	The engage skill Soar boosts movement (Mov)\nand allows the unit to fly.
+MID_TUT_GOD_CAMILLA_4	The engage attack Dark Inferno damages foes\nacross a wide area and engulfs terrain in flame.
+MID_TUT_TIPS_Hector	Emblem Hector
+MID_TUT_TIPS_Senerio	Emblem Soren
+MID_TUT_TIPS_Camilla	Emblem Camilla
+MID_TIPS_OTHER_35	You can use the Somniel's three recreation locations once each between battles.
+MID_TIPS_SKILL_36	When attacking with fire, thunder, or wind tomes, lower one of a foe's stats for 1 turn.\nWhich stat is lowered depends on the type of tome used.
+MID_TIPS_SKILL_37	When attacking a broken foe with magic, grants a chance the foe will remain broken.
+MID_TIPS_GOD_29	Brother of Marquess Ostia from the continent of Elibe in another world.\nBoasts tremendous strength with an axe.
+MID_TIPS_GOD_30	With the Thunder Axe Armads in hand, he fought alongside Roy's father, Eliwood,\nagainst a great evil.
+MID_TIPS_GOD_31	Strategic adviser to the Greil Mercenaries on the continent of Tellius in another world.
+MID_TIPS_GOD_32	A sage belonging to Ike's mercenary group. A tactician of unparalleled skill.
+MID_TIPS_GOD_33	Princess of Nohr, a country in another world. A powerful wyvern rider with a\ndoting personality.
+MID_TIPS_GOD_34	One of Corrin's sisters. Devoted to her friends and family, ruthless to her enemies.
+MID_TUT_NAVI_G004_ADVICE_START	Due to the high number of enemies with staves\non this map, Staff/Dance Animations will be set\nto Your Turn for this battle. You can change this\nat any time in the Settings menu.
+MID_TUT_NAVI_G004_ADVICE_END	The change to the Staff/Dance Animations\nsetting made at the start of this battle will\nnow be reverted.

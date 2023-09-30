@@ -1,0 +1,198 @@
+MID_OP1C_#001	\x0E\x02\x00\x06\x04PP\n\x0E\x03\x00\x12\x0Cアルフレッド\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0E\x0Cアルフレッド\nHemos cruzado la frontera.\nAhora estamos en territorio de Brodia.\x0E\x04\x00\x00
+MID_OP1C_#002	\x0E\x03\x02\x0A\x08リュール\nEl paisaje es totalmente distinto al de Firene.\nHay rocas hasta donde alcanza la vista.\x0E\x04\x00\x00
+MID_OP1C_#003	\x0E\x03\x02\x0E\x0Cアルフレッド\n¡Cuidado!\x0E\x04\x00\x00
+MID_OP1C_#004	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x02\x00
+MID_OP1C_#005	\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Nos atacan?\x0E\x04\x00\x00
+MID_OP1C_#006	\x0E\x03\x01\x0E\x0Cアルフレッド\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x06\x00&\nスタルーク\x18MPID_Unknown\n\x0E\x03\x02\x0C\nスタルーク\n \x0E\x04\x00\x00
+MID_OP1C_#007	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n¡¿Quiénes son?!\x0E\x04\x00\x00
+MID_OP1C_#008	\x0E\x03\x02\x0C\nスタルーク\nLo mismo podría decirles. Son ustedes\nquienes han cruzado la frontera.\x0E\x04\x00\x00
+MID_OP1C_#009	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_OP1C_#010	\x0E\x03\x02\x0C\nスタルーク\nIdentifíquense de inmediato o los tomaré\npor bandidos.\x0E\x04\x00\x00
+MID_OP1C_#010_2	\x0E\x03\x02\x0C\nスタルーク\nLa próxima vez no fallaré.\x0E\x04\x00\x00
+MID_OP1C_#011	\x0E\x03\x02\x0A\x08リュール\nSoy el Dragón Divino \x0E\x06\x03\x00,\nde Lythos. No soy \x0E\x0A\x00.\x14un bandido\x16una bandida.\x0E\x04\x00\x00
+MID_OP1C_#012	\x0E\x03\x00\x12\x0Cアルフレッド\x024\n\x0E\x03\x02\x0E\x0Cアルフレッド\nYo soy Alfred, el príncipe heredero\nde Firene y su aliado.\x0E\x04\x00\x00
+MID_OP1C_#013	\x0E\x03\x02\x0C\nスタルーク\n¿El Dragón Divino... y el príncipe\nheredero de Firene?\x0E\x04\x00\x00
+MID_OP1C_#014	\x0E\x03\x02\x0A\x08リュール\nCorrecto. Y, ¿quién eres tú\npara asaltarnos de este modo?\x0E\x04\x00\x00
+MID_OP1C_#015	\x0E\x03\x02\x0C\nスタルーク\n \x0E\x04\x02\x00
+MID_OP1C_#016	Lo...\x0E\x04\x00\x00
+MID_OP1C_#017	\x0E\x03\x02\x0A\x08リュール\n \x0E\x04\x00\x00
+MID_OP1C_#018	\x0E\x03\x02\x0C\nスタルーク\n¡Lo siento muchísimo!\x0E\x04\x00\x00
+MID_OP1C_#019	\x0E\x03\x02\x0A\x08リュール\n¿Mm?\x0E\x04\x00\x00
+MID_OP1C_#020	\x0E\x03\x02\x0C\nスタルーク\n¡He amenazado al Dragón Divino!\n¡Y al príncipe heredero de Firene!\x0E\x04\x00\x00
+MID_OP1C_#020_2	\x0E\x03\x02\x0C\nスタルーク\n¡Imploro su perdón!\x0E\x04\x00\x00
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x020\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x10\nスタルーク\x022\n\x0E\x03\x02\x0A\x08リュール\nTranquilo. No pasa nada.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x0E\x0Cアルフレッド\nTremenda reverencia, soldado.\nDebe de estar destrozándote las rodillas...\x0E\x04\x02\x00
+MID_OP1_#003	Un momento, tu cara me resulta familiar.\x0E\x04\x02\x00
+MID_OP1_#004	No eres un soldado, ¿verdad?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0C\nスタルーク\nNo... Soy Alcryst, segundo príncipe de Brodia.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x0A\x08リュール\n¿Un príncipe?\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0E\x0Cアルフレッド\n¡Sí que eres tú!\n¿Cómo estás, príncipe Alcryst?\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0C\nスタルーク\nPues peor todavía que de costumbre.\nLamento no haberme presentado antes.\x0E\x04\x02\x00
+MID_OP1_#009	Oh... Estas son mis vasallas: Lapis y Citrinne.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x00\x10\nシトリニカ\x023\n\x0E\x03\x02\x0C\nシトリニカ\nEs un honor recibirl\x0E\x0A\x00\x08\x02o\x02a a usted\ny a sus acompañantes.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x01\x0C\nシトリニカ\n\x0E\x03\x00\x0C\x06ラピス\x023\n\x0E\x03\x02\x08\x06ラピス\nEso, bienvenidos a Brodia.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nNo me siento del todo bienvenid\x0E\x0A\x00\x08\x02o\x02a.\nAún parecen estar dispuestos a matarnos.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x0C\nスタルーク\nEs que estamos un poco tensos...\x0E\x04\x02\x00
+MID_OP1_#014	Mi padre, el rey Morion, recibió una misiva\nde la reina Ève informando de su llegada.\x0E\x04\x02\x00
+MID_OP1_#015	Nos ordenó que fuésemos a la frontera\npara recibirlos formalmente.\x0E\x04\x02\x00
+MID_OP1_#016	Llevamos tiempo esperando y solo nos hemos\ntopado con numerosos monstruos y bandidos.\x0E\x04\x02\x00
+MID_OP1_#017	Por eso los tomamos por atacantes.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x0E\x0Cアルフレッド\nSiento haber tardado tanto en llegar.\nTuvimos que dar un pequeño rodeo.\x0E\x04\x02\x00
+MID_OP1_#019	En todo caso, de haber herido al Dragón Divino,\nla reputación de Brodia se habría visto afectada.\x0E\x04\x02\x00
+MID_OP1_#020	Ten más cuidado, príncipe Alcryst.\x0E\x04\x00\x00
+MID_OP1_#021	\x0E\x03\x02\x0C\nスタルーク\nSí, lo tendré... Lo siento muchísimo.\x0E\x04\x00\x00
+MID_OP1_#022	\x0E\x03\x01\x08\x06ラピス\n\x0E\x03\x00\x10\nシトリニカ\x023\n\x0E\x03\x02\x0C\nシトリニカ\nNo ha sido culpa tuya, Alcryst.\nEra imposible que supieras quiénes eran.\x0E\x04\x02\x00
+MID_OP1_#023	¿No podían haber llegado con algo más\nde la grandeza propia de la realeza?\x0E\x04\x00\x00
+MID_OP1_#024	\x0E\x03\x01\x0C\nシトリニカ\n\x0E\x03\x00\x0C\x06ラピス\x023\n\x0E\x03\x02\x08\x06ラピス\nEste es un reino de guerreros. Si no pueden\nesquivar una flecha, no son dignos de entrar.\x0E\x04\x02\x00
+MID_OP1_#025	El fuerte manda sobre el débil. Quizá habría\nque ver cuán fuertes son, príncipe...\x0E\x04\x00\x00
+MID_OP1_#026	\x0E\x03\x02\x0E\x0Cアルフレッド\n¿Cómo has dicho?\x0E\x04\x00\x00
+MID_OP1_#027	\x0E\x03\x02\x0C\nスタルーク\n¡No quería decir eso, discúlpenla!\nMi reino valora la fuerza quizá en demasía.\x0E\x04\x02\x00
+MID_OP1_#028	Además, no tienes nada que demostrar.\nConozco bien tu valía en batalla, príncipe Alfred.\x0E\x04\x00\x00
+MID_OP1_#029	\x0E\x03\x02\x0E\x0Cアルフレッド\nAh, bueno... Gracias.\x0E\x04\x00\x00
+MID_OP1_#030	\x0E\x03\x02\x0C\nスタルーク\nSiento todo esto. También siento ser yo\nquien los recibe en lugar de alguien mejor.\x0E\x04\x00\x00
+MID_OP1_#031	\x0E\x03\x02\x0A\x08リュール\nDeja de pedir perdón. Me alegra mucho\nque nos reciba un príncipe en persona.\x0E\x04\x00\x00
+MID_OP1_#032	\x0E\x03\x02\x0C\nスタルーク\n¿De verdad? ¿Le alegra que sea... yo?\x0E\x04\x00\x00
+MID_OP1_#033	\x0E\x03\x02\x0A\x08リュール\nClaro. De hecho, es un honor.\x0E\x04\x00\x00
+MID_OP1_#034	\x0E\x03\x02\x0C\nスタルーク\nQué amable. Además de ser \x0E\x0A\x00\x1C\x0Cdivino\x0Cdivina,\ntiene una personalidad encantadora.\x0E\x04\x02\x00
+MID_OP1_#035	¿Podría no brillar tanto, por favor? Su luz\nsolo realza lo sombrío de mi carácter.\x0E\x04\x00\x00
+MID_OP1_#036	\x0E\x03\x02\x0A\x08リュール\nDe acuerdo...\x0E\x04\x00\x00
+MID_OP1_#037	\x0E\x03\x02\x0C\nスタルーク\nVengan conmigo, por favor.\nYo los guiaré hasta el castillo de Brodia.\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0C\nスタルーク\nPronto llegaremos al Gran Puente.\nNos llevará directos al castillo.\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x02\x0A\x08リュール\nBien.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0C\nスタルーク\nDivinidad, quería preguntarle sobre algo\nque la reina Ève dijo en su misiva.\x0E\x04\x02\x00
+MID_OP2_#004	¿Es cierto que Elusia ha liberado a Sombron?\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x0A\x08リュール\nLo es. Nos lo dijo una guerrera de Elusia.\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0C\nスタルーク\nEntiendo...\x0E\x04\x02\x00
+MID_OP2_#007	Nos habían llegado rumores,\npero prefería creer que no eran ciertos.\x0E\x04\x02\x00
+MID_OP2_#008	Malditos canallas... Necesitan todos los anillos\npara vencer al Dragón Caído, ¿verdad?\x0E\x04\x02\x00
+MID_OP2_#009	Durante generaciones, nuestro reino\nha custodiado el Anillo del Joven León.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0A\x08リュール\nEl Anillo del Joven León...\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x02\x0C\nスタルーク\nTiene engastada una piedra roja\ny está rodeado de un aura que infunde valor.\x0E\x04\x02\x00
+MID_OP2_#012	Diamant, el príncipe heredero,\ndice que ha oído una voz procedente del anillo.\x0E\x04\x02\x00
+MID_OP2_#013	Es una persona increíble.\nTengo suerte de ser su hermano.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nParece que sientes gran admiración por él.\x0E\x04\x00\x00
+MID_OP2_#015	\x0E\x03\x02\x0C\nスタルーク\nSí. Es fuerte, sabio y nada arrogante.\nTanto el rey como el pueblo de Brodia lo aman.\x0E\x04\x02\x00
+MID_OP2_#016	A él lo hicieron con la mejor de las telas,\npero conmigo solo usaron los recortes.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08リュール\nNo tienes que menospreciarte de ese modo.\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0C\nスタルーク\n¡Ah, ya lo veo! Contemple el Gran Puente.\x0E\x04\x02\x00
+MID_OP2_#019	Parece que hoy hay muchos soldados fue...\nUn momento, esos son...\x0E\x04\x02\x00
+MID_OP2_#020	¡Soldados de Elusia!\n¡Han tomado el puente!\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x0A\x08リュール\nNo...\x0E\x04\x00\x00
+MID_OP2C_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x01\x0A\x08リュール\n\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Ya era hora! ¡Es de muy mala educación\nhacer esperar a una princesa! ¡Es intolerable!\x0E\x04\x00\x00
+MID_OP2C_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x10\nスタルーク\x024\n\x0E\x03\x02\x0C\nスタルーク\n¿Una princesa?\x0E\x04\x00\x00
+MID_OP2C_#003	\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Esa soy yo, la segunda princesa de Elusia,\nHortensia!\x0E\x04\x00\x00
+MID_OP2C_#003_2	\x0E\x03\x02\x0E\x0Cオルテンシア\nBueno, pues ¡hola a todos!\x0E\x04\x00\x00
+MID_OP2C_#004	\x0E\x03\x02\x0A\x08リュール\n¿La segunda princesa... de Elusia?\x0E\x04\x00\x00
+MID_OP2C_#005	\x0E\x03\x02\x0E\x0Cオルテンシア\nPues sí, la misma que viste y calza.\nY tú debes de ser el Dragón Divino.\x0E\x04\x00\x00
+MID_OP2C_#006	\x0E\x03\x02\x0A\x08リュール\nAsí es.\x0E\x04\x00\x00
+MID_OP2C_#007	\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Lo sabía! Lo he adivinado enseguida...\nEres más hermos\x0E\x0A\x00\x08\x02o\x02a que el resto. Era obvio.\x0E\x04\x02\x00
+MID_OP2C_#008	Siempre creí que Lumera era el único Dragón\nDivino. No podía creer que hubiese otro más.\x0E\x04\x02\x00
+MID_OP2C_#009	Tus ojos tienen un color distinto cada uno...\nEs fascinante.\x0E\x04\x00\x00
+MID_OP2_2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nスタルーク\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x12\x0Cオルテンシア\x023\n\x0E\x03\x02\x0C\nスタルーク\n¡No te acerques más!\x0E\x04\x02\x00
+MID_OP2_2_#002	¡Malvados elusianos! ¡No son dignos\nde estar en presencia del Dragón Divino!\x0E\x04\x00\x00
+MID_OP2_2_#003	\x0E\x03\x02\x0E\x0Cオルテンシア\nNo hablo contigo, brodiano.\nAdemás, ¡ustedes son los malvados!\x0E\x04\x00\x00
+MID_OP2_2_#004	\x0E\x03\x02\x0C\nスタルーク\n(...)\x0E\x04\x00\x00
+MID_OP2_2_#005	\x0E\x03\x02\x0E\x0Cオルテンシア\nMi padre dice que Brodia\nes un país de salvajes avariciosos.\x0E\x04\x02\x00
+MID_OP2_2_#006	No dejan de atacar nuestro reino\npara ocupar nuestras tierras. ¡Los odio!\x0E\x04\x02\x00
+MID_OP2_2_#007	¿Tienen idea del sufrimiento que causan?\n¡Y no solo a los soldados, sino a todo el mundo!\x0E\x04\x00\x00
+MID_OP2_2_#008	\x0E\x03\x02\x0C\nスタルーク\nNo los invadimos para ampliar nuestro territorio.\x0E\x04\x02\x00
+MID_OP2_2_#009	Solo intentamos mantenerlos a raya,\npues son malvados e impredecibles.\x0E\x04\x02\x00
+MID_OP2_2_#010	¿Qué pretendes? ¿Has venido a invadirnos\nen busca de venganza?\x0E\x04\x00\x00
+MID_OP2_2_#011	\x0E\x03\x02\x0E\x0Cオルテンシア\nNo. Jamás me pondrían al mando\nde una operación tan ambiciosa.\x0E\x04\x02\x00
+MID_OP2_2_#012	Solo he venido a apoderarme de los anillos\npor orden de mi padre, el rey Hyacinth.\x0E\x04\x00\x00
+MID_OP2_2_#013	\x0E\x03\x02\x0A\x08リュール\n¿Te ha pedido que hagas esto?\x0E\x04\x00\x00
+MID_OP2_2_#014	\x0E\x03\x02\x0E\x0Cオルテンシア\nAjá. Y ahora, si no hay más preguntas,\nentréguenme los anillos y nadie morirá.\x0E\x04\x00\x00
+MID_OP2_2_#015	\x0E\x03\x02\x0A\x08リュール\nJamás.\x0E\x04\x00\x00
+MID_OP2_2_#016	\x0E\x03\x02\x0E\x0Cオルテンシア\nAy, y yo que pensaba que quitarles\nlos anillos iba a ser el trabajo más fácil...\x0E\x04\x02\x00
+MID_OP2_2_#017	En cambio, a la suertuda de mi hermana,\nle ha tocado asaltar el castillo...\x0E\x04\x00\x00
+MID_OP2_2_#018	\x0E\x03\x02\x0A\x08リュール\n¿La princesa heredera marcha\nhacia el castillo de Brodia?\x0E\x04\x00\x00
+MID_OP2_2_#019	\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Oh! Quizá no debí decir eso...\x0E\x04\x00\x00
+MID_OP2_2_#020	\x0E\x03\x02\x0C\nスタルーク\n¡Debemos volver de inmediato!\x0E\x04\x00\x00
+MID_OP2_2_#021	\x0E\x03\x02\x0E\x0Cオルテンシア\nNi que los fuera a dejar pasar.\n¡Mi padre estará muy orgulloso de mí!\x0E\x04\x02\x00
+MID_OP2_2_#022	¡Adelante, soldados de Elusia!\n¡Tráiganme esos anillos!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nスタルーク\x02b\n\x0E\x05\x01\x18\nスタルーク\nAngry\n\x0E\x03\x02\x0C\nスタルーク\nDebemos deshacernos de ellos rápidamente\ny volver al castillo. No hay tiempo que perder.\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x16\x06ラピス\x0CStrike\n\x0E\x03\x02\x08\x06ラピス\nNo tema, príncipe Alcryst.\n¡Nosotras nos encargaremos!\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x01\x08\x06ラピス\n\x0E\x03\x00\x10\nシトリニカ\x02t\n\x0E\x05\x01\x18\nシトリニカ\nSmile\n\x0E\x03\x02\x0C\nシトリニカ\nSi lo hacemos bien, creo que estaremos\nde vuelta a tiempo para comer.\x0E\x04\x00\x00
+MID_EV1_#004	\x0E\x05\x01\x18\nスタルーク\nSmile\n\x0E\x03\x02\x0C\nスタルーク\nSé que tienen mucha confianza,\npero me sigue preocupando que haya bajas.\x0E\x04\x02\x00
+MID_EV1_#005	\x0E\x05\x01\x1C\nスタルーク\x0EStandBy\nLas protegeré a ambas.\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x03\x01\x0C\nシトリニカ\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x1A\x06ラピス\x10Surprise\n\x0E\x03\x02\x08\x06ラピス\nQué valiente...\x0E\x04\x02\x00
+MID_EV1_#007	\x0E\x05\x01\x10\x06ラピス\x06Sad\nPero ¡somos sus vasallas!\nEs nuestro deber protegerlo a usted.\x0E\x04\x00\x00
+MID_EV1_#008	\x0E\x05\x01\x18\nスタルーク\nAngry\n\x0E\x03\x02\x0C\nスタルーク\nYa, ya, pero quédense atrás.\x0E\x04\x00\x00
+MID_EV1_#009	\x0E\x05\x01\x1A\x06ラピス\x10Surprise\n\x0E\x03\x01\x0C\nスタルーク\n\x0E\x03\x02\x08\x06ラピス\n(?)\x0E\x04\x00\x00
+MID_EV1_#010	\x0E\x03\x00\x10\nシトリニカ\x02b\n\x0E\x05\x01\x18\nシトリニカ\nSmile\n\x0E\x03\x02\x0C\nシトリニカ\nAlcryst, no seas ridículo. Eres un arquero,\ntú deberías quedarte atrás.\x0E\x04\x00\x00
+MID_EV1_#011	\x0E\x03\x01\x0C\nシトリニカ\n\x0E\x05\x01\x1A\x06ラピス\x10Surprise\n\x0E\x03\x02\x08\x06ラピス\n¡Espera, Citrinne! ¡Tú también\ndeberías permanecer en la retaguardia!\x0E\x04\x02\x00
+MID_EV1_#012	\x0E\x05\x01\x12\x06ラピス\x08Pain\nVaya par...\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x12\x0Cオルテンシア\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\nNos estamos divirtiendo mucho,\n¿verdad, Dragón Divino? Estoy disfrutando...\x0E\x04\x02\x00
+MID_EV2_#002	Espero que no te importe que haya invitado\na otra amiguita a jugar.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x02\x0A\x08リュール\n¡Es un... Emblema!\x0E\x04\x02\x00
+MID_EV3_#002	¿Cómo es posible? ¡Nadie la ha invocado!\x0E\x04\x00\x00
+MID_EV3_#003	\x0E\x03\x00\x12\x0Cオルテンシア\x022\n\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Mira qué cara! Pobre Dragón Divino, ¿creías\nque solo tú podías usar Emblemas? ¡Pues no!\x0E\x04\x02\x00
+MID_EV3_#004	Es un truco divertido. Y todo gracias a que\nlord Sombron le ha dado su poder a este anillo.\x0E\x04\x02\x00
+MID_EV3_#005	Lo llaman el Anillo de la Venerable.\nEs bonito, ¿no?\x0E\x04\x00\x00
+MID_EV3_#006	\x0E\x03\x02\x0A\x08リュール\n¡Es uno de los anillos que protegía mi madre!\n¡Devuélvemelo!\x0E\x04\x00\x00
+MID_EV3_#007	\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Ni hablar! Ahora le pertenece a Elusia.\nPero, si quieres echarle un último vistazo...\x0E\x04\x02\x00
+MID_EV3_#008	¡Ven aquí y dejaré que lo veas más de cerca!\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x14\x06ラピス\nAngry\n\x0E\x03\x02\x08\x06ラピス\nPríncipe Alcryst y Citrinne, atrás.\nDejen que yo me ocupe.\x0E\x04\x02\x00
+MID_EV4_#002	Puedo derribar a los enemigos\nque se interpongan en nuestro camino.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ラピス\x02t\n\x0E\x05\x01\x16\x06ラピス\x0CStrike\n\x0E\x03\x02\x08\x06ラピス\n¡Esta es nuestra oportunidad!\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M007_ロサード\x02b\n\x0E\x05\x01 \x12M007_ロサード\nSmile\n\x0E\x03\x02\x14\x12M007_ロサード\nParece que va a empezar.\nQue todo el mundo ocupe sus posiciones.\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x00\x1C\x16M007_ゴルドマリー\x02t\n\x0E\x05\x01&\x16M007_ゴルドマリー\x0CNormal\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nEl Dragón Divino es...\x0E\x04\x00\x00
+MID_EV6_#003	\x0E\x03\x02\x14\x12M007_ロサード\nMenos adorable que nosotros, ¿no?\x0E\x04\x00\x00
+MID_EV6_#004	\x0E\x05\x01 \x16M007_ゴルドマリー\x06Sad\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nSí, exacto.\x0E\x04\x00\x00
+MID_EV6_#005	\x0E\x03\x02\x14\x12M007_ロサード\n¡Así me gusta! Hay que humillar a los enemigos\nantes de una batalla.\x0E\x04\x02\x00
+MID_EV6_#006	\x0E\x05\x01 \x12M007_ロサード\nRelax\nVamos, robemos esos anillos para que Hortensia\nesté orgullosa de nosotros. ¿Estás lista?\x0E\x04\x00\x00
+MID_EV6_#007	\x0E\x05\x01 \x16M007_ゴルドマリー\x06Sad\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nSí, Rosado. Eliminémoslos rápidamente.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06マルス\x02t\n\x0E\x05\x01\x14\x06マルス\nAngry\n\x0E\x03\x02\x08\x06マルス\nEse Emblema es un enemigo temible.\x0E\x04\x00\x00
+MID_EV7_#002	\x0E\x03\x02\x08\x06マルス\nLos enemigos cercanos pueden atacar con ella.\nDebemos andar con mucho cuidado.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M007_オルテンシア\x02b\n\x0E\x05\x01$\x16M007_オルテンシア\nAngry\n\x0E\x03\x02\x18\x16M007_オルテンシア\n¿Tienes algún anillo Emblema?\nSi es así, ¡entrégamelo!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nDevuelve ese anillo.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x1C\x16M007_オルテンシア\x02b\n\x0E\x05\x01(\x16M007_オルテンシア\x0EStandBy\n\x0E\x03\x02\x18\x16M007_オルテンシア\n¡De eso nada! Los quiero todos.\x0E\x04\x02\x00
+MID_BT2_#003	\x0E\x05\x01$\x16M007_オルテンシア\nAngry\nMira que te lo he pedido por las buenas...\nPero ¡no! Tenías que ser terc\x0E\x0A\x00\x08\x02o\x02a...\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\n¿Ahora resulta que yo soy \x0E\x0A\x00\x0C\x04el\x04la terc\x0E\x0A\x00\x08\x02o\x02a?\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M007_オルテンシア\x02b\n\x0E\x05\x01"\x16M007_オルテンシア\x08Pain\n\x0E\x03\x02\x18\x16M007_オルテンシア\n¡No es justo! ¿He perdido?\x0E\x04\x02\x00
+MID_BT3_#002	¡No me vas a quitar el anillo!\nNo puedo decepcionar a mi padre.\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M007_ロサード\x02b\n\x0E\x03\x02\x14\x12M007_ロサード\nHoy es tu día de suerte, encanto.\n¡Vas a luchar contra mí!\x0E\x04\x00\x00
+MID_BT5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M007_ロサード\x02b\n\x0E\x05\x01 \x12M007_ロサード\nSmile\n\x0E\x03\x02\x14\x12M007_ロサード\n¡El Dragón Divino! Me alegra conocerte, aunque\nmás me alegraría que me dieras ese anillo.\x0E\x04\x00\x00
+MID_BT5_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x18\x08リュール\x0CStrike\n\x0E\x03\x02\x0A\x08リュール\nA mí me haría feliz que te rindieras.\x0E\x04\x00\x00
+MID_BT6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x18\x12M007_ロサード\x02b\n\x0E\x05\x01\x1E\x12M007_ロサード\x08Pain\n\x0E\x03\x02\x14\x12M007_ロサード\nLo siento, Hortensia. Tengo que retirarme...\x0E\x04\x00\x00
+MID_BT7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M007_ゴルドマリー\x02b\n\x0E\x05\x01$\x16M007_ゴルドマリー\nAngry\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nTe lo voy a pedir educadamente:\nhazme el favor de morir.\x0E\x04\x00\x00
+MID_BT8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M007_ゴルドマリー\x02b\n\x0E\x05\x01 \x16M007_ゴルドマリー\x06Sad\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nDe cerca, tienes la mitad de encanto\nde lo que pensaba, Dragón Divino.\x0E\x04\x00\x00
+MID_BT8_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\n¿Eso es todo lo que te preocupa en medio\nde una batalla? Acabemos ya con esto.\x0E\x04\x00\x00
+MID_BT9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x1C\x16M007_ゴルドマリー\x02b\n\x0E\x05\x01"\x16M007_ゴルドマリー\x08Pain\n\x0E\x03\x02\x18\x16M007_ゴルドマリー\nQué cruel...\nMe voy, ya no lo aguanto más.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x12\x0Cオルテンシア\x021\n\x0E\x03\x02\x0E\x0Cオルテンシア\n¡Esto es muy frustrante!\x0E\x04\x02\x00
+MID_ED1_#002	¡Rosado y Goldmary! ¡Soldados!\n¡Nos retiramos!\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x01\x0E\x0Cオルテンシア\n\x0E\x03\x00\x10\nスタルーク\x024\n\x0E\x03\x02\x0C\nスタルーク\nHan salido huyendo...\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x00\x12\x0Cアルフレッド\x023\n\x0E\x03\x02\x0E\x0Cアルフレッド\nEl puente ha sufrido muchos daños. Llevará\nsu tiempo encontrar un camino seguro.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nNo hemos recuperado el anillo Emblema...\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0E\x0Cアルフレッド\nPero no nos han arrebatado ninguno,\nni tampoco \x0E\x0A\x00\x0C\x04lo\x04la han herido.\x0E\x04\x02\x00
+MID_ED1_#007	Debemos mirar el lado positivo, ¿no?\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x0A\x08リュール\nTienes razón.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nEs más que evidente que Elusia tiene\nen su poder los anillos robados.\x0E\x04\x02\x00
+MID_ED1_#010	Lo cual significa que ya poseen cinco.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\n¿Cinco?\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x0C\nヴァンドレ\nSí, contando los que robaron\ndel castillo de Lythos.\x0E\x04\x02\x00
+MID_ED1_#013	El Anillo del Lord Sabio, el de los Mellizos\nAzures, el del Instructor y el de la Venerable.\x0E\x04\x02\x00
+MID_ED1_#014	Este último es el que llevaba la princesa\nHortensia, como recordará.\x0E\x04\x02\x00
+MID_ED1_#015	Aparte de esos cuatro, al reino también le\nfue confiado un anillo por sus antepasados.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x0A\x08リュール\n¿Cuál es?\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0C\nスタルーク\nConozco la respuesta. Creo que se trata\ndel Anillo de la Noble de Sacae.\x0E\x04\x02\x00
+MID_ED1_#018	Dicen que el rey le tiene mucha estima\ny que lo guarda en sus aposentos.\x0E\x04\x00\x00
+MID_ED1_#019	\x0E\x03\x02\x0E\x0Cアルフレッド\n¿En sus aposentos? Qué extraño... El de Firene\nse guardaba en una cámara del castillo.\x0E\x04\x02\x00
+MID_ED1_#020	¿Dónde lo guardan en Brodia?\x0E\x04\x00\x00
+MID_ED1_#021	\x0E\x03\x02\x0C\nスタルーク\nEl nuestro también está a buen\nrecaudo en una cámara especial.\x0E\x04\x02\x00
+MID_ED1_#022	Cambiando de tema... ¿cuándo nos pondremos\nde camino al castillo?\x0E\x04\x02\x00
+MID_ED1_#023	Estoy muy preocupado por su situación.\x0E\x04\x00\x00
+MID_ED1_#024	\x0E\x03\x02\x0E\x0Cアルフレッド\nLos soldados que enviamos a reconocer\nel terreno no deberían tardar en volver.\x0E\x04\x00\x00
+MID_ED1_#025	\x0E\x03\x02\x0A\x08リュール\nHagamos los preparativos para partir\ncuanto antes.\x0E\x04\x00\x00
+MID_ED1_#026	\x0E\x03\x02\x0C\nスタルーク\nGracias. Si algo les ocurriese a mi padre\no a mi hermano, no sé qué haría...\x0E\x04\x00\x00
+MID_ED2_#001	¡Toma esto!
+MID_ED2_#002	 
+MID_ED2_#003	Ya casi está.
+MID_ED2_#004	 
+MID_ED2_#005	Ya no hay más.
+MID_ED2_#005_2	La aldea... por fin está a salvo.
+MID_ED2_#006	Pero aún no es suficiente.\nDebo hacerme más fuerte.
+MID_ED2_#007	Tan fuerte como tú. Te extraño tanto...
+MID_ED2_#007_2	Aún pienso en lo que dijiste hace tanto tiempo.
+MID_ED2_#008	¿Dónde estás, hermano?...
+MID_ED2_#008_F	¿Dónde estás, hermana?...

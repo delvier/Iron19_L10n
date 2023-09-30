@@ -1,0 +1,48 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x0A\x08リュール\nThere's something about this island... It's like\na magical energy...\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x08\x06セリカ\nThe Seabound Shrine was located in a place\nquite similar to this.\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nWhat kind of place was that?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06セリカ\nIt sat in the Novis Strait, off of Zofia. There was\nan altar to the goddess Mila in a cave...\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nI wonder if that means there's an altar here too.\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06セリカ\nThis place reminds me of those days. I'd just\nbegun to experience life.\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x08\x06セリカ\nI was so set on how I thought the world should\nbe that I failed to heed my allies' advice.\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x0A\x08リュール\nThat doesn't seem like you. Not to me, at least.\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06セリカ\nBack then, I visited Mila's temple, hoping to\nlearn of a way to save my homeland.\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x08\x06セリカ\nThen we discovered there was a necrodragon\non the island. That thing could have killed us all.\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06セリカ\nAnd we'd already fought a band of pirates...\nSaying it now, I realize how reckless we were.\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x0A\x08リュール\nIt sounds to me like you were helping people as\nyou traveled.\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06セリカ\nSo, \x0E\x06\x03\x00, would you have chosen\nthe same as I did?\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x02\x0A\x08リュール\nOf course. I couldn't ignore anyone in need, no\nmatter how dangerous the situation might be.\x0E\x04\x00\x00
+MID_OP1_#015	\x0E\x03\x02\x08\x06セリカ\nI know you wouldn't. You're courageous and\nstrong─that's why we're here.\x0E\x04\x00\x00
+MID_OP1_#016	\x0E\x03\x02\x0A\x08リュール\nI suppose I don't understand. What do\nyou mean?\x0E\x04\x00\x00
+MID_OP1_#017	\x0E\x03\x02\x08\x06セリカ\nThis is where you will face your trial.\x0E\x04\x00\x00
+MID_OP1_#018	\x0E\x03\x02\x08\x06セリカ\nDefeat me in combat and our bond will\ngrow stronger.\x0E\x04\x00\x00
+MID_OP1_#019	\x0E\x03\x02\x08\x06セリカ\nNow take up your weapon, and let's see where\nyour courage can take you.\x0E\x04\x00\x00
+MID_OP1_#020	\x0E\x03\x02\x0A\x08リュール\nI understand, and I'm going to win!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nThe preparations for battle are complete.\nLet's begin.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nThere. See the summoner? If we don't take\nthem down quickly, things could get rough.\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x18\x06セリカ\x0ESerious\n\x0E\x03\x02\x08\x06セリカ\n\x0E\x06\x03\x00, you are a kind soul.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x05\x01\x10\x06セリカ\x06Sad\n\x0E\x03\x02\x08\x06セリカ\nHowever, the world cannot be saved with\nkindness alone.\x0E\x04\x00\x00
+MID_BT1_#003	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nI've learned it takes strength as well.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nOne alone is a plan only for failure. Both are\nessential. Now show me you understand.\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x14\x06セリカ\nSmile\n\x0E\x03\x02\x08\x06セリカ\nYou seem quite happy, Alfred.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nRelax\n\x0E\x03\x02\x0E\x0Cアルフレッド\nI was thinking how you've been in Firene all this\ntime, but you've never seen how strong we are!\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06セリカ\nAngry\n\x0E\x03\x02\x08\x06セリカ\nWell, you're awfully full of confidence.\x0E\x04\x00\x00
+MID_BT2_#004	\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nIt's hard not to be when you already know\nyou're going to win the battle!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06セリカ\x02b\n\x0E\x05\x01\x16\x06セリカ\x0CStatus\n\x0E\x03\x02\x08\x06セリカ\nI must admit, going to battle against you is\nrather strange, Céline.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0E\x08セリーヌ\x02t\n\x0E\x05\x01\x12\x08セリーヌ\x06Sad\n\x0E\x03\x02\x0A\x08セリーヌ\nOh, quite. I would rather chat over a cup of tea.\nYet, as this is a trial, tea is not an option.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x18\x08セリーヌ\x0CStrike\n\x0E\x03\x02\x0A\x08セリーヌ\nSo instead of polite conversation, I will fight\nyou to the last, yes?\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x18\x06セリカ\x0EStandBy\n\x0E\x03\x02\x08\x06セリカ\nOf course. Come at me now. Bring everything\nyou have to bear and claim victory.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06セリカ\x022\n\x0E\x03\x02\x08\x06セリカ\nThe victory is yours. That was very well\ndone, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x0A\x08リュール\nThank you, Celica.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x08\x06セリカ\nYou grow stronger along with the power of\nyour bonds. \x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x08\x06セリカ\nKeep forging deeper connections with your\nallies as you fight this war.\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06セリカ\nDo that, and you will have the strength you\nneed to save this world.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nI understand, and I'll do my best to strengthen\nthe bonds I have─and forge new ones if I can.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x08\x06セリカ\nOnce you've used that strength to bring peace,\nit will be your kindness that you will lean on.\x0E\x04\x00\x00
+MID_ED1_#008	\x0E\x03\x02\x08\x06セリカ\nWith kindness, you can build a world where\nno one hurts for the sake of hurting.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x0A\x08リュール\nDo you really think that's something I can do?\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06セリカ\nOh, the road will be long and treacherous, but\nyou're just the person to make the journey.\x0E\x04\x00\x00
+MID_ED1_#011	\x0E\x03\x02\x0A\x08リュール\nIf you say so, Celica. I suppose there's no choice\nother than to try.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06セリカ\nHeh, well, keep doing your best, \x0E\x06\x03\x00.\nWe'll bring kindness back to the world.\x0E\x04\x00\x00
+MID_ED1_#013	\x0E\x03\x02\x0A\x08リュール\nYes, we will!\x0E\x04\x00\x00
+MID_LC1_#001	\x0E\x02\x02\x00

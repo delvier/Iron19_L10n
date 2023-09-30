@@ -1,0 +1,50 @@
+MID_TUT_BMAP_EVIL_RULE_TITLE	Fell Xenologue Deployment
+MID_TUT_BMAP_EVIL_RULE_0	In Fell Xenologue battles, your allies will have\npredetermined classes and levels.
+MID_TUT_BMAP_EVIL_RULE_1	Their inventories are also predetermined, but\nyou can swap items between units normally.
+MID_TUT_BMAP_EVIL_RULE_2	Allies who fall in battle will return afterward,\nregardless of your difficulty settings.
+MID_TUT_BMAP_EVIL_GUEST_TITLE	Guest Allies
+MID_TUT_BMAP_EVIL_GUEST_0	The Fell Xenologue features unique allies who\nwill join you in each battle as guests.
+MID_TUT_BMAP_EVIL_GUEST_1	Nel is a powerful dragon unit. Nil is a capable\nsupport unit, in conjunction with Emblems, but\nis not well suited to the front lines.
+MID_TUT_BMAP_EVIL_GUEST_2	Losing either Nel or Nil will count as a defeat,\nso be careful in using them.
+MID_TUT_BMAP_EVIL_FANG_CURSE_TITLE	Cursed Fangs
+MID_TUT_BMAP_EVIL_FANG_CURSE_0	The bite of a Corrupted Wolf inflicts a status\neffect called Cursed Fangs.
+MID_TUT_BMAP_EVIL_FANG_CURSE_1	Each stack of Cursed Fangs will reduce the\nmax HP of the affected unit by 5.
+MID_TUT_BMAP_EVIL_FANG_CURSE_2	The curse stacks with each hit, and lasts for the\nrest of the battle unless you remove it using a\nRestore staff.
+MID_TUT_BMAP_EVIL_MELEE_TITLE	Free-for-All
+MID_TUT_BMAP_EVIL_MELEE_0	Some units in this battle are marked in yellow.
+MID_TUT_BMAP_EVIL_MELEE_1	These are enemy units, but they are also foes of\nthe enemies who are marked in red.
+MID_TUT_BMAP_EVIL_MELEE_2	Try to take advantage of the situation as these\ntwo groups fight each other.
+MID_TUT_BMAP_EVIL_POW_TITLE	Imprisoned \x0E\x06\x03\x00
+MID_TUT_BMAP_EVIL_POW_0	While imprisoned, \x0E\x06\x03\x00 has no\nweapons and cannot fight back.
+MID_TUT_BMAP_EVIL_POW_1	Be sure to heal as necessary to prevent defeat!
+MID_TUT_BMAP_EVIL_SUMMON_TITLE	Summoning Vortexes
+MID_TUT_BMAP_EVIL_SUMMON_0	Enemy reinforcements will appear on these\nvortexes at the start of the next player phase.
+MID_TUT_BMAP_EVIL_SUMMON_1	You can keep a vortex from summoning foes by\npositioning a unit to occupy the vortex's space.
+MID_TUT_BMAP_EVIL_RUSHMOVE_TITLE	Devastation
+MID_TUT_BMAP_EVIL_RUSHMOVE_0	When a Fell Sigil begins to glow, that means\nFell Nil intends to move there after destroying\nthe area he's currently standing in.
+MID_TUT_BMAP_EVIL_RUSHMOVE_1	The blast will occur on the next enemy phase.\nAll units caught in the area, friend or foe, will\nbe defeated.
+MID_TUT_BMAP_EVIL_RUSHMOVE_2	The more units Fell Nil defeats in this way,\nthe more his power will grow.
+MID_TUT_DLG_E006_ADVICE	Allies who are defeated in the Fell Xenologue\nwill return after the battle is over. Don't worry\nabout losing anyone─go all-out for victory!
+MID_TUT_BMAP_EVIL_ENCHANT_TITLE	New Class: Enchanter
+MID_TUT_BMAP_EVIL_ENCHANT_0	Enchanters consume items and weapons to\nenhance themselves and their allies. A mystic\nsatchel is required to change to this class.
+MID_TUT_BMAP_EVIL_ENCHANT_1	Item Surge consumes an item to grant special\neffects to allies based on the item consumed.
+MID_TUT_BMAP_EVIL_ENCHANT_2	Weapon Surge uses a weapon in your inventory\nto strengthen all weapons of the same name,\nally and enemy alike, for the entire battle.
+MID_TUT_BMAP_EVIL_MAGECANON_TITLE	New Class: Mage Cannoneer
+MID_TUT_BMAP_EVIL_MAGECANON_0	Mage cannoneers pelt foes with artillery shells\nfrom long range. A mage cannon is required\nto change to this class.
+MID_TUT_BMAP_EVIL_MAGECANON_1	For mage cannoneers, attack power scales\nwith dexterity. Their hit rate increases with\nstrength, build, and proximity to target.
+MID_TUT_BMAP_EVIL_MAGECANON_2	Let Fly expends equipped shells to unleash a\npowerful artillery strike in an area. The attack\nlands after one turn.
+MID_TUT_BMAP_EVIL_MAGECANON_3	The danger radius for mage cannoneers has a\ndifferent appearance than usual.
+MID_TUT_GMAP_EVIL_TITLE	World Map (Fell Xenologue)
+MID_TUT_GMAP_EVIL_0	The Fell Xenologue has its own map, which\nyou'll traverse as you progress the story.
+MID_TUT_GMAP_EVIL_1	You can use the World Map menu to return to\nthe world of the main story or the Somniel.
+MID_TUT_GMAP_EVIL_2	You can also fight in skirmishes that will\nappear in areas you've already completed.
+MID_TUT_HUB_EVIL_START_TITLE	Fell Xenologue
+MID_TUT_HUB_EVIL_START_0	You can access the Fell Xenologue from the\nancient well.
+MID_TUT_HUB_EVIL_START_1	You do not have to complete it all at once.\nYou can return to the world of the main story\nbetween chapters if you like.
+MID_TUT_HUB_EVIL_START_2	The Fell Xenologue also has a difficulty setting\nseparate from that of the main game.
+MID_TUT_HUB_EVIL_START_NOTICE	Something is odd at the ancient well.
+MID_TUT_NAVI_E004_ADVICE_START	Due to the high number of foes fighting each\nother, Combat and Staff/Dance Animations will\nbe set to Allied Units for this battle. You can\nchange this at any time in the Settings menu.
+MID_TUT_NAVI_E004_ADVICE_END	Changes to the Combat and Staff/Dance\nAnimations settings made at the start of\nthis battle will now be reverted.
+MID_TIPS_JOB_02	Weapon Surge also strengthens any weapons of the same name that you have stored\nin your convoy.
+MID_TIPS_JOB_03	The Weapon Surge effect ends early if you use Weapon Surge again with a\ndifferent weapon.
+MID_TIPS_ITEM_21	The mage cannoneer's Let Fly ability is guaranteed to apply a status effect on all but\nthe strongest foes.

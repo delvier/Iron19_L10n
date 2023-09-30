@@ -1,0 +1,214 @@
+MID_OP1_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\n...\x0E\x04\x02\x00
+MID_OP1_#002	Wo bin ich?\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x02\x08\x06フラン\nHuch?\x0E\x04\x00\x00
+MID_OP1_#004	\x0E\x03\x02\x08\x06クラン\nWhoa. Siehst du dasselbe wie ich?\x0E\x04\x00\x00
+MID_OP1_#005	\x0E\x03\x02\x0A\x08リュール\nHallo. Wer seid ihr denn?\x0E\x04\x00\x00
+MID_OP1_#006	\x0E\x03\x02\x08\x06フラン\nIhr seid erwacht!\x0E\x04\x00\x00
+MID_OP1_#007	\x0E\x03\x02\x0A\x08リュール\nWas?\x0E\x04\x00\x00
+MID_OP1_#008	\x0E\x03\x02\x08\x06フラン\nIhr seid also wirklich wach, ja?\x0E\x04\x00\x00
+MID_OP1_#009	\x0E\x03\x02\x08\x06クラン\nIhr seid \x0E\x0A\x008\x18der Wyrmgott\x1Cdie Wyrmgöttin\n\x0E\x06\x03\x00!\x0E\x04\x00\x00
+MID_OP1_#010	\x0E\x03\x02\x0A\x08リュール\nÄh...\x0E\x04\x00\x00
+MID_OP1_#011	\x0E\x03\x02\x08\x06フラン\nDas gibt's ja nicht!\x0E\x04\x00\x00
+MID_OP1_#012	\x0E\x03\x02\x08\x06クラン\nUnglaublich!\x0E\x04\x00\x00
+MID_OP1_#013	\x0E\x03\x02\x08\x06クラン\n\x0E\x0A\x008\x18Der Wyrmgott\x1CDie Wyrmgöttin ist endlich erwacht!\x0E\x04\x00\x00
+MID_OP1_#014	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x02\x0A\x08リュール\nHe, wartet!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nRuhig, ruhig, ihr zwei. Was macht ihr hier für\neinen Aufruhr?\x0E\x04\x00\x00
+MID_OP2_#002	\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nÄh... Hm?\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin \x0E\x06\x03\x00!\x0E\x04\x02\x00
+MID_OP2_#004	Ein Wunder ist geschehen! Ein wahres Wunder!\n\x0E\x0A\x00\x10\x06Der\x06Die Göttliche ist endlich erwacht!\x0E\x04\x02\x00
+MID_OP2_#005	Dass ich den Tag noch erleben darf, an dem Ihr\nvor mir steht. Welch Ehre!\x0E\x04\x00\x00
+MID_OP2_#006	\x0E\x03\x02\x0A\x08リュール\nÄhm. Ich will ja nicht unhöflich sein, aber... wer\nseid Ihr?\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0C\nヴァンドレ\nAh! Ich bitte um Verzeihung. Ich habe kurz die\nBeherrschung verloren.\x0E\x04\x02\x00
+MID_OP2_#008	Mein Name ist Vander. Ich bin der\n32. Drachenbehüter.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nHallo, Sir Vander.\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x0C\nヴァンドレ\nBei den Himmeln, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Es ist nicht nötig,\ndass Ihr mich so förmlich ansprecht. Vander\nallein genügt.\x0E\x04\x00\x00
+MID_OP2_#011	\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x00\x0C\x06クラン\x024\n\x0E\x03\x02\x08\x06フラン\nSeht Ihr? Ich habe Euch doch gesagt, dass \x0E\x0A\x00\x10\x06der\x06die\n\x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin erwacht ist!\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x08\x06クラン\nJa! Wir haben die Wahrheit gesagt!\x0E\x04\x00\x00
+MID_OP2_#013	\x0E\x03\x02\x0A\x08リュール\nIhr zwei... Ich glaube, eure Namen kenne ich\nnoch nicht.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x08\x06クラン\nOh, entschuldigt! Wir waren so aufgeregt, dass\nwir ganz vergessen haben, uns vorzustellen.\x0E\x04\x02\x00
+MID_OP2_#015	Wir sind die 33. Drachenbehüter! Mein Name ist\nClanne. Freut mich, Euch kennenzulernen.\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x08\x06フラン\nUnd ich bin Framme! Wir sind Zwillinge.\x0E\x04\x02\x00
+MID_OP2_#017	Wir haben seit einer Ewigkeit darauf gewartet,\ndass Ihr erwacht!\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x0C\nヴァンドレ\nAls Drachenbehüter ist es unsere Aufgabe, Euch\nzu beschützen und für Euch zu sorgen.\x0E\x04\x02\x00
+MID_OP2_#019	Generation für Generation harrten unsere\nVorfahren des Tages, an dem Ihr erwachen\nwürdet...\x0E\x04\x02\x00
+MID_OP2_#020	Ich gestehe, ich bin erstaunt, dass dies endlich\neingetreten ist.\x0E\x04\x02\x00
+MID_OP2_#021	Ihr müsst wissen, es sind bereits tausend Jahre\nvergangen, seit der erste Behüter seinen Posten\neinnahm.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x0A\x08リュール\nTausend Jahre? So lange habe ich geschlafen?\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x0C\nヴァンドレ\nDas habt Ihr. Eure Mutter – die Wyrmgottkönigin\nLumera – hat diesen Tag seit Langem herbeige-\nsehnt.\x0E\x04\x02\x00
+MID_OP2_#024	Nun seid Ihr, selbst \x0E\x0A\x00:\x18ein Wyrmgott\x1Eeine Wyrmgöttin, endlich\nerwacht. Das kann nur Großes bedeuten.\x0E\x04\x00\x00
+MID_OP2_#025	\x0E\x03\x02\x0A\x08リュール\nEinen Moment bitte. Diese Königin, die du\nerwähnt hast – sie ist meine Mutter?\x0E\x04\x02\x00
+MID_OP2_#026	Und ich bin \x0E\x0A\x00B\x1Cein „Wyrmgott“"eine „Wyrmgöttin“, sagt Ihr?\x0E\x04\x00\x00
+MID_OP2_#027	\x0E\x03\x02\x0C\nヴァンドレ\nOje. Sind Eure Erinnerungen ein wenig getrübt,\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche?\x0E\x04\x00\x00
+MID_OP2_#028	\x0E\x03\x02\x0A\x08リュール\nIch erinnere mich an meinen Namen, aber...\ndas ist auch schon alles.\x0E\x04\x00\x00
+MID_OP2_#029	\x0E\x03\x02\x08\x06クラン\nIhr könnt Euch an nichts anderes mehr\nerinnern?\x0E\x04\x00\x00
+MID_OP2_#030	\x0E\x03\x02\x08\x06フラン\nVielleicht seid Ihr bloß noch etwas benommen,\nweil Ihr so lange geschlafen habt?\x0E\x04\x00\x00
+MID_OP2_#031	\x0E\x03\x02\x0A\x08リュール\nAber ich weiß nicht einmal, wer ich bin.\x0E\x04\x00\x00
+MID_OP2_#032	\x0E\x03\x02\x0C\nヴァンドレ\nSeid unbesorgt. Solche Gedächtnislücken sind\nzu erwarten nach einem dermaßen langen\nSchlaf.\x0E\x04\x02\x00
+MID_OP2_#033	Erlaubt mir: Ihr seid \x0E\x0A\x00:\x18ein Wyrmgott\x1Eeine Wyrmgöttin, ein\nMitglied einer königlichen Familie von Drachen,\ndie als Gottheiten verehrt werden.\x0E\x04\x02\x00
+MID_OP2_#034	Lumera, die Königin aller Wyrmgötter,\nherrscht über das heilige Land von Lythos.\x0E\x04\x02\x00
+MID_OP2_#035	In einem Krieg vor tausend Jahren hat sie den\nbösen Dämonendrachen bezwungen und\nversiegelt.\x0E\x04\x02\x00
+MID_OP2_#036	Ihr, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche, seid ihr einziges Kind.\x0E\x04\x00\x00
+MID_OP2_#037	\x0E\x03\x02\x0A\x08リュール\nDer Krieg, der Dämonendrache... Ich habe das\nGefühl, mich beinahe erinnern zu können, aber...\x0E\x04\x00\x00
+MID_OP2_#038	\x0E\x03\x02\x0C\nヴァンドレ\nBitte, quält Euch nicht. Ihr müsst Euch nicht\nsofort an alles erinnern.\x0E\x04\x02\x00
+MID_OP2_#039	Die Erinnerungen werden mit der Zeit von selbst\nzurückkehren. Ihr seid ein Wesen von immenser\nMacht – nichts Geringeres als eine Gottheit.\x0E\x04\x02\x00
+MID_OP2_#040	Ich habe viele Erzählungen von Eurer Güte,\nEurem Edelmut und Eurer Tapferkeit gehört.\nVon Eurem unbeirrten Heldengeist.\x0E\x04\x00\x00
+MID_OP2_#041	\x0E\x03\x02\x0A\x08リュール\nDa muss ich ja hohen Erwartungen gerecht\nwerden.\x0E\x04\x00\x00
+MID_OP2_#042	\x0E\x03\x02\x0C\nヴァンドレ\nBegeben wir uns fürs Erste zum Schloss Lythos.\nKönigin Lumera wird begeistert sein, Euch\nzu sehen.\x0E\x04\x02\x00
+MID_OP2_#043	Vielleicht wird Euer Wiedersehen auch dabei\nhelfen, Eure Erinnerungen wachzurütteln.\x0E\x04\x00\x00
+MID_OP2_#044	\x0E\x03\x02\x0A\x08リュール\nDas hoffe ich.\x0E\x04\x00\x00
+MID_OP2_#045	\x0E\x03\x02\x08\x06クラン\nNun gut! Vorwärts und abwärts!\x0E\x04\x00\x00
+MID_OP2_#046	\x0E\x03\x02\x08\x06フラン\nAuf zum Schloss Lythos!\x0E\x04\x00\x00
+MID_OP3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06クラン\x023\n\x0E\x03\x00\x0C\x06フラン\x024\n\x0E\x03\x02\x0A\x08リュール\nAll die Zeit habe ich also am Himmel\ngeschlafen?\x0E\x04\x00\x00
+MID_OP3_#002	\x0E\x03\x02\x0C\nヴァンドレ\nDas habt Ihr, ja. Der Ort, an dem Ihr geschlum-\nmert habt, wird „Somniel“ genannt.\x0E\x04\x02\x00
+MID_OP3_#003	Es ist eine Festung, die auf einer schwebenden\nInsel errichtet wurde, um Eure Sicherheit zu\ngarantieren.\x0E\x04\x02\x00
+MID_OP3_#004	Es ist der womöglich sicherste Ort in ganz\nElyos. Nur wenige Auserwählte können ihn\nbetreten.\x0E\x04\x00\x00
+MID_OP3_#005	\x0E\x03\x02\x0A\x08リュール\nIch verstehe. Und ihr drei lebt dort mit mir?\x0E\x04\x00\x00
+MID_OP3_#006	\x0E\x03\x02\x08\x06フラン\nJepp! Als Behüter verbringen wir unsere Zeit\ndamit, uns um Euch und um allerlei Angelegen-\nheiten des Somniel zu kümmern.\x0E\x04\x02\x00
+MID_OP3_#007	Es ist ein heiliger Ort, also arbeiten wir, so hart\nwir können, um ihn in bester Ordnung zu halten!\x0E\x04\x00\x00
+MID_OP3_#008	\x0E\x03\x02\x08\x06クラン\nWir bekommen ständig Besuch von Mitgliedern\nder Königsfamilien! Na ja, sie besuchen Euch,\nwenn man's genau nimmt.\x0E\x04\x02\x00
+MID_OP3_#009	Der Prinz und die Prinzessin aus Firene, einem\nsehr gläubigen Land, kommen besonders häufig\nvorbei.\x0E\x04\x00\x00
+MID_OP3_#010	\x0E\x03\x02\x08\x06フラン\nSie beten eine Zeit lang vor Euch, etwa so.\nUnd dann... sagen sie ein paar Worte, ganz so,\nals würden sie mit einem Freund reden.\x0E\x04\x00\x00
+MID_OP3_#011	\x0E\x03\x02\x0A\x08リュール\nIch verstehe. Danke, dass Ihr mich über all das\naufklärt, Clanne und Framme.\x0E\x04\x00\x00
+MID_OP3_#012	\x0E\x03\x02\x08\x06フラン\nAh! \x0E\x0A\x00\x10\x06Der\x06Die Göttliche hat unsere Namen gesagt!\nUnd sich bei uns bedankt!\x0E\x04\x00\x00
+MID_OP3_#013	\x0E\x03\x02\x08\x06クラン\nIch werde ohnmächtig... falls ich nicht schon\nohnmächtig bin. Träume ich etwa gerade?\x0E\x04\x00\x00
+MID_OP3_#014	\x0E\x03\x02\x0C\nヴァンドレ\nMuss ich euch daran erinnern, dass ihr euch\nin der Gegenwart \x0E\x0A\x00<\x1Cdes Wyrmgottes\x1Cder Wyrmgöttin befindet?!\x0E\x04\x02\x00
+MID_OP3_#015	Wie oft soll ich euch noch dazu ermahnen, euch\neurer Position entsprechend zu benehmen?\x0E\x04\x02\x00
+MID_OP3_#016	\x0E\x0A\x00*\x14Göttlicher\x12Göttliche, bitte verzeiht diesen beschämenden\nBruch der gebotenen Anstandsregeln.\x0E\x04\x00\x00
+MID_OP3_#017	\x0E\x03\x02\x0A\x08リュール\nBruch der Anstandsregeln! Hahaha, wenn ich\nehrlich sein soll – mir gefällt ihr Enthusiasmus.\x0E\x04\x00\x00
+MID_OP3_#018	\x0E\x03\x02\x08\x06フラン\nHehe! Ihr seid so gütig, wie ich es mir immer\nvorgestellt hab!\x0E\x04\x00\x00
+MID_OP3_#019	\x0E\x03\x02\x08\x06クラン\nOh, seht nur, dort ist es!\x0E\x04\x00\x00
+MID_OP3_#020	\x0E\x03\x02\x0A\x08リュール\nSchloss Lythos. Die... Wyrmgottkönigin befindet\nsich dort, sagtet ihr?\x0E\x04\x00\x00
+MID_OP3_#021	\x0E\x03\x02\x0C\nヴァンドレ\nJa. Es ist für Euch wohl eine Heimkehr nach\ntausend Jahren, nicht wahr?\x0E\x04\x00\x00
+MID_OP3_#022	\x0E\x03\x02\x08\x06フラン\nKeine Sorge. Wir sind ja bei Euch.\x0E\x04\x00\x00
+MID_OP3_#023	\x0E\x03\x02\x08\x06クラン\nWenn Ihr wollt, könnt Ihr meine Hand halten.\x0E\x04\x00\x00
+MID_OP3_#024	\x0E\x03\x02\x0A\x08リュール\nDanke.\x0E\x04\x02\x00
+MID_OP3_#025	Hm?\x0E\x04\x02\x00
+MID_OP3_#026	Seit wann trage ich denn diesen Ring? Habe ich\nihn auch schon vor meinem Schlaf getragen?\x0E\x04\x02\x00
+MID_OP3_#027	Dieser blaue Stein... Er erinnert mich an etwas...\x0E\x04\x00\x00
+MID_OP3C_#001	GRAAAR!
+MID_OP3C_#002	Hm?!
+MID_OP3C_#003	W-was sind das für schreckliche Dinger?!
+MID_OP3C_#004	Vander! Ist es normal, dass sich hier\nsolche Kreaturen herumtreiben?
+MID_OP3C_#005	Nein. Ich habe solche Monster nie zuvor gesehen,
+MID_OP3C_#006	geschweige denn davon gehört, dass es sie in Lythos\nüberhaupt gibt. Dies ist ein Land des Friedens.
+MID_OP3C_#007	Ich verstehe. Nun...
+MID_OP3C_#008	Sollen wir sie bekämpfen?
+MID_OP3C_#008_2	Wie Ihr wünscht, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche!\nIhr, \x0E\x0A\x00\x1A\x0Cdessen\nderen Tapferkeit unvergleichlich ist.
+MID_OP3C_#009	Nein. Fliehen wir.
+MID_OP3C_#010	Was?
+MID_OP3C_#011	Wir haben nicht die geringste Ahnung,\nwer sie sind,
+MID_OP3C_#011_2	und wir wissen nicht,\nwie sie hierher gelangten.
+MID_OP3C_#012	Darüber hinaus... habe ich\naus irgendeinem Grund ein ungutes Gefühl.
+MID_OP3C_#012_2	Also fliehen wir!
+MID_OP3C_#013	Ich, äh, nun... Hat mir \x0E\x0A\x008\x18der Wyrmgott\x1Cdie Wyrmgöttin gerade\nwirklich den Befehl zum Rückzug erteilt?
+MID_OP3C_#014	Alles klar! Zieht Euch zurück!
+MID_OP3C_#015	Wir lenken sie für Euch ab!
+MID_OP3C_#016	Was zum-- Kommt zurück!\nKommt sofort wieder her!
+MID_OP3C_#017	GRAAAAH!
+MID_OP3C_#018	Ah! Oh nein!
+MID_OP3C_#019	Ah, das sieht nicht gut aus...
+MID_OP3C_#020	Clanne! Framme!
+MID_OP3C_#021	Haltet durch! Wir werden euch retten!
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nVander!\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1E\nヴァンドレ\x10Surprise\n\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Bleibt zurück, es ist zu gefährlich!\x0E\x04\x00\x00
+MID_EV1_#003	\x0E\x03\x02\x0A\x08リュール\nClanne und Framme wollten mich beschützen.\nIch muss ihnen helfen.\x0E\x04\x02\x00
+MID_EV1_#004	Ich nehme alles zurück, was ich gesagt habe.\nWir werden NICHT fliehen. Bitte, lasst mich\nkämpfen.\x0E\x04\x00\x00
+MID_EV1_#005	\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nIn Ordnung... Aber bleibt wachsam.\x0E\x04\x00\x00
+MID_EV1_#006	\x0E\x03\x02\x0A\x08リュール\nDas werde ich.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nWas haben diese Kreaturen in Lythos zu\nsuchen?\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nWir sollten das Dickicht als Deckung nutzen.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nIhr seid verletzt, \x0E\x0A\x00*\x14Göttlicher\x12Göttliche? Bitte nutzt ein\nHeilmittel.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02t\n\x0E\x05\x01\x1C\nヴァンドレ\x0EStandBy\n\x0E\x03\x02\x0C\nヴァンドレ\nDiese Gegner sind wahrlich furchteinflößend...\x0E\x04\x02\x00
+MID_EV5_#002	\x0E\x0A\x00*\x14Göttlicher\x12Göttliche, bitte nutzt ein Heilmittel, falls Ihr\nverletzt werdet!\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02t\n\x0E\x05\x01\x16\x06フラン\x0CStrike\n\x0E\x03\x02\x08\x06フラン\nEs sind einfach zu viele... \x0E\x0A\x00*\x14Göttlicher\x12Göttliche, lauft weg!\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06フラン\x02b\n\x0E\x05\x01\x12\x06フラン\x08Pain\n\x0E\x03\x02\x08\x06フラン\n...\x0E\x04\x00\x00
+MID_EV7_#002	\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x18\x06クラン\x0EStandBy\n\x0E\x03\x02\x08\x06クラン\nFramme, alles in Ordnung?!\x0E\x04\x00\x00
+MID_EV7_#003	\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x00\x10\nヴァンドレ\x02b\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nClanne, Framme, es ist hier zu gefährlich für\neuch! Zieht euch zum Schloss zurück!\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クラン\x02t\n\x0E\x05\x01\x18\x06クラン\x0EStandBy\n\x0E\x03\x02\x08\x06クラン\nIch muss Framme beschützen... Ich habe keine\nAngst vor euch, ihr elenden Monster!\x0E\x04\x00\x00
+MID_EV9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x10\nヴァンドレ\x02b\n\x0E\x05\x01\x18\nヴァンドレ\nAngry\n\x0E\x03\x02\x0C\nヴァンドレ\nNoch mehr Gegner!\x0E\x04\x00\x00
+MID_EV9_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x14\x08リュール\x08Pain\n\x0E\x03\x02\x0A\x08リュール\nEs werden immer mehr und mehr.\x0E\x04\x02\x00
+MID_EV9_#003	\x0E\x05\x01\x12\x08リュール\x06Sad\nIhr alle versucht mich zu beschützen.\x0E\x04\x02\x00
+MID_EV9_#004	Ich sollte Euch beschützen! Wenn es ich doch\nnur könnte... irgendwie.\x0E\x04\x00\x00
+MID_EV9_#005	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x00\x16\x10M000_マルス\x02b\n\x0E\x05\x01"\x10M000_マルス\x0EStandBy\n\x0E\x03\x04\x12\x10M000_マルス\n\x0E\x03\x02\x12\x10M000_マルス\n\x0E\x06\x03\x00...\x0E\x04\x00\x00
+MID_EV9_#006	\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWas?\x0E\x04\x00\x00
+MID_EV9_#007	\x0E\x03\x04\x12\x10M000_マルス\n\x0E\x03\x02\x12\x10M000_マルス\nIhr müsst Euch erinnern, \x0E\x06\x03\x00...\x0E\x04\x00\x00
+MID_EV9_#008	\x0E\x03\x02\x0A\x08リュール\nWer... Wer hat das gesagt?\x0E\x04\x00\x00
+MID_EV10_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール
+MID_EV10_#002	Der Ring...\x0E\x04\x00\x00
+MID_EV10_#003	\x0E\x03\x00\x16\x10M000_マルス\x020\n\x0E\x03\x02\x12\x10M000_マルス\nWisst, dass meine Stärke die Eure sein kann.\x0E\x04\x00\x00
+MID_EV10_#004	\x0E\x03\x02\x0A\x08リュール\nIch kenne diese Stimme.\x0E\x04\x00\x00
+MID_EV10_#005	\x0E\x03\x02\x12\x10M000_マルス\nSollten sich unsere Pfade dereinst wieder kreuzen,\nhoffe ich, Ihr erinnert Euch noch an mich.\x0E\x04\x02\x00
+MID_EV10_#006	Möget Ihr Euch an uns erinnern, die wir an Eurer\nSeite gekämpft haben.\x0E\x04\x00\x00
+MID_EV10_#007	\x0E\x03\x01\x12\x10M000_マルス\n\x0E\x03\x02\x0A\x08リュール\nDie zwölf Embleme.\x0E\x04\x00\x00
+MID_EV10_#008	\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche?\x0E\x04\x00\x00
+MID_EV10_#009	\x0E\x03\x02\x0A\x08リュール
+MID_EV10_#010	\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Das schafft Ihr nicht allein!\x0E\x04\x00\x00
+MID_EV10_#011	\x0E\x03\x02\x0A\x08リュール\nKeine Sorge! Bitte! Ich bin nicht allein.\x0E\x04\x02\x00
+MID_EV10_#012	Helft mir.\nLeiht mir in diesem Kampf Eure Stärke!\x0E\x04\x02\x00
+MID_EV10_#013	Strahle hell, Emblem der Anfänge!\x0E\x04\x00\x00
+MID_MOVIE1_#001	\x0E\x03\x02\x08\x06マルス\nIch bin Marth. Genauer gesagt, Emblem Marth.\x0E\x04\x00\x00
+MID_EV11_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x00\x0C\x06フラン\x022\n\x0E\x03\x02\x08\x06フラン\nDas war großartig!\x0E\x04\x00\x00
+MID_EV11_#002	\x0E\x03\x02\x08\x06クラン\nKlasse!\x0E\x04\x00\x00
+MID_EV11_#003	\x0E\x03\x01\x08\x06クラン\n\x0E\x03\x01\x08\x06フラン\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08リュール\nWir haben es geschafft!\x0E\x04\x02\x00
+MID_EV11_#004	Danke für Eure Hilfe, Marth, wirklich!\x0E\x04\x00\x00
+MID_EV11_#005	\x0E\x03\x00\x0C\x06マルス\x021\n\x0E\x03\x02\x08\x06マルス\nNatürlich. Es ist schön, Euch zu sehen.\x0E\x04\x02\x00
+MID_EV11_#006	Ich konnte Eurem Ruf folgen,\nweil Ihr Euch an mich erinnert habt.\x0E\x04\x00\x00
+MID_EV11_#007	\x0E\x03\x01\x08\x06マルス\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x0C\nヴァンドレ\nTrügen mich meine Augen...\noder ist dies eines der Embleme aus den Legenden?\x0E\x04\x00\x00
+MID_EV11_#008	\x0E\x03\x01\x0C\nヴァンドレ\n\x0E\x03\x02\x0A\x08リュール\nClanne, Framme!\nBringt euch in Sicherheit, sofort!\x0E\x04\x00\x00
+MID_EV11_#009	\x0E\x03\x00\x0C\x06クラン\x021\n\x0E\x03\x02\x08\x06クラン\nOh, in Ordnung!\x0E\x04\x00\x00
+MID_EV12_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nMit Eurer Hilfe, Marth, könnten wir es schaffen.\nWerdet Ihr uns helfen?\x0E\x04\x00\x00
+MID_EV12_#002	\x0E\x03\x00\x0C\x06マルス\x02b\n\x0E\x05\x01\x14\x06マルス\nRelax\n\x0E\x03\x02\x08\x06マルス\nNatürlich. Ich werde von nun an an Eurer Seite\nkämpfen. Ich bin Euer Verbündeter bis zum\nSchluss.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x00\x0C\x06クラン\x024\n\x0E\x03\x00\x0C\x06フラン\x023\n\x0E\x03\x00\x10\nヴァンドレ\x021\n\x0E\x03\x02\x08\x06フラン\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche! Vander! Danke, dass Ihr uns gerettet\nhabt.\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06クラン\nJa. Und, äh... entschuldigt bitte. Das ist alles nur\npassiert, weil wir vorgeprescht sind.\x0E\x04\x00\x00
+MID_ED1_#003	\x0E\x03\x02\x0A\x08リュール\nIch bin \x0E\x0A\x00<\x1Cderjenige, der\x1Cdiejenige, die sich entschuldigen sollte.\nIhr habt euch nur in Gefahr begeben, um mich\nzu beschützen.\x0E\x04\x02\x00
+MID_ED1_#004	Ich bin wirklich erleichtert, dass ihr jetzt in\nSicherheit seid...\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x0C\nヴァンドレ\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche, ich höre, wie sich weitere Gegner\nnähern.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x0A\x08リュール\nNoch mehr? Ich dachte, wir hätten sie alle\nerledigt!\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0C\nヴァンドレ\nDas scheint leider nicht der Fall zu sein.\x0E\x04\x02\x00
+MID_ED1_#008	Diese Kreaturen... Wird das denn nie ein Ende\nmit ihnen haben?\x0E\x04\x00\x00
+MID_MOVIE2_#001	\x0E\x03\x02\x0A\x08リュール\nNoch mehr?\x0E\x04\x00\x00
+MID_MOVIE2_#002	\x0E\x03\x02\x0A\x08リュール\nUnd sie haben sogar einen Drachen?!\x0E\x04\x00\x00
+MID_MOVIE2_#003	\x0E\x03\x02\x0A\x08リュール\nAh!\x0E\x04\x00\x00
+MID_MOVIE2_#004	\x0E\x03\x02\x0A\x08ルミエル\nEndlich. Du bist erwacht.\x0E\x04\x00\x00
+MID_ED3_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x03\x00\x0E\x08リュール\x022\n\x0E\x03\x02\x0A\x08ルミエル\nBist du es wirklich, \x0E\x06\x03\x00?\x0E\x04\x02\x00
+MID_ED3_#002	\x0E\x03\x02\x0A\x08リュール\nJa, \x0E\x0A\x00\x10\x06der\x06die bin ich. Danke für die rettende Hilfe.\x0E\x04\x00\x00
+MID_ED3_#003	\x0E\x03\x02\x0A\x08ルミエル\nEs freut mich, dich zu sehen, \x0E\x06\x03\x00.\x0E\x04\x00\x00
+MID_ED3_#004	\x0E\x03\x02\x0A\x08リュール\nWas?\x0E\x04\x00\x00
+MID_ED3_#005	\x0E\x03\x02\x0A\x08ルミエル\nIch habe so lange auf diesen Moment gewartet!\x0E\x04\x02\x00
+MID_ED3_#006	\x0E\x03\x02\x0A\x08リュール\nOh!\x0E\x04\x00\x00
+MID_ED3_#007	\x0E\x03\x02\x0A\x08ルミエル\nAls ich spürte, dass du erwacht bist, flog ich\nhierher, so schnell es meine Flügel erlaubten.\x0E\x04\x02\x00
+MID_ED3_#008	Ich hoffe, du bist nicht verletzt.\x0E\x04\x00\x00
+MID_ED3_#009	\x0E\x03\x02\x0A\x08リュール\nMir... mir geht es gut.\x0E\x04\x00\x00
+MID_ED3_#010	\x0E\x03\x02\x0A\x08ルミエル\nWas für eine Erleichterung! Du ahnst ja nicht,\nwie sehr ich dich vermisst habe, mein Kind.\x0E\x04\x00\x00
+MID_ED3_#011	\x0E\x03\x02\x0A\x08リュール\nOh! Du bist... meine Mutter.\x0E\x04\x00\x00
+MID_ED3_#012	\x0E\x03\x02\x0A\x08ルミエル\nWas ist denn los? Sag bloß, du...\x0E\x04\x02\x00
+MID_ED3_#013	\x0E\x03\x00\x10\nヴァンドレ\x023\n\x0E\x03\x02\x0C\nヴァンドレ\nDie Erinnerungen \x0E\x0A\x00\x10\x06des\x06der Göttlichen sind seit\n\x0E\x0A\x00\x1A\x0Cseinem\nihrem Erwachen etwas getrübt.\x0E\x04\x00\x00
+MID_ED3_#014	\x0E\x03\x02\x0A\x08ルミエル\nOh! Ich verstehe.\x0E\x04\x00\x00
+MID_ED3_#015	\x0E\x03\x02\x0A\x08リュール\nEs tut mir leid. Das ist sicher nicht das, was du\nerwartet hattest.\x0E\x04\x00\x00
+MID_ED3_#016	\x0E\x03\x02\x0A\x08ルミエル\nNein, ich muss mich entschuldigen. Ich war so\nvoller Freude, dass ich dich mit aller Kraft\numarmt habe.\x0E\x04\x02\x00
+MID_ED3_#017	Das bedeutet also, du hast alles... vergessen.\x0E\x04\x02\x00
+MID_ED3_#018	Das war wohl zu erwarten. Tausend Jahre sind\neine sehr lange Zeit.\x0E\x04\x00\x00
+MID_ED3_#019	\x0E\x03\x02\x0A\x08リュール\nVander hat erklärt, dass ich seit... einem Krieg,\nder damals stattfand, geschlafen habe.\x0E\x04\x00\x00
+MID_ED3_#020	\x0E\x03\x02\x0A\x08ルミエル\nJa. Du hast damals eine furchtbare Verletzung\ndavongetragen, und... und deswegen...\x0E\x04\x00\x00
+MID_ED3_#021	\x0E\x03\x02\x0A\x08リュール\nEine Verletzung? Daran kann ich mich nicht\nerinnern. Und auch nicht an diese Welt, oder\nirgendetwas sonst.\x0E\x04\x00\x00
+MID_ED3_#022	\x0E\x03\x02\x0A\x08ルミエル\nSorge dich nicht, \x0E\x0A\x00 \x0EKleiner\x0EKleines. Ich werde dir alles\nerzählen, was du vergessen hast.\x0E\x04\x02\x00
+MID_ED3_#023	Ich bin einfach nur froh, dich wiederzuhaben.\nGanz gleich, woran du dich erinnerst, du bist\nmein geliebtes Kind.\x0E\x04\x00\x00
+MID_ED3_#024	\x0E\x03\x02\x0A\x08リュール\nDennoch... Das ist nicht das Wiedersehen, das\ndu dir erhofft hast.\x0E\x04\x00\x00
+MID_ED3_#025	\x0E\x03\x02\x0A\x08ルミエル\nOh, sorge dich nicht um mich. Es ist mir bereits\nTrost genug, deine schöne Stimme wieder\nhören zu können!\x0E\x04\x02\x00
+MID_ED3_#026	Und noch einmal in deine Augen blicken zu\ndürfen. Sie haben so eine schöne Farbe,\n\x0E\x06\x03\x00.\x0E\x04\x02\x00
+MID_ED4_#001	\x0E\x02\x00\x10\x0EDefault\n\x0E\x03\x00\x0E\x08ルミエル\x021\n\x0E\x0B\x00f
+MID_MOVIE3_#001	\x0E\x03\x02\x0A\x08ルミエル\nWir leben auf dem Kontinent Elyos...\nVier Nationen, die ein heiliges Land umgeben.\x0E\x04\x02\x00
+MID_MOVIE3_#002	Firene, Reich der Fülle.\x0E\x04\x02\x00
+MID_MOVIE3_#002_2	Brodia, Reich der Krieger.\x0E\x04\x02\x00
+MID_MOVIE3_#002_3	Elusia, Reich des Wissens.\x0E\x04\x02\x00
+MID_MOVIE3_#002_4	Solm, Reich der Freiheit.\x0E\x04\x02\x00
+MID_MOVIE3_#003	Das heilige Land der Wyrmgötter, Lythos.\x0E\x04\x02\x00
+MID_MOVIE3_#003_2	Und Gradlon, Reich des Dämonendrachen.\nIn Ruinen.\x0E\x04\x02\x00
+MID_MOVIE3_#004	Vor tausend Jahren tobte ein erbitterter Krieg\nzwischen unseren Landen und dem Dämonendrachen.\x0E\x04\x02\x00
+MID_MOVIE3_#005	Wir riefen Helden aus anderen Welten\nzur Hilfe herbei – die sogenannten Embleme.\x0E\x04\x02\x00
+MID_MOVIE3_#006	Gemeinsam mit ihnen kämpften die Krieger\nunserer Nationen Seite an Seite.\x0E\x04\x02\x00
+MID_MOVIE3_#007	Am Ende waren wir siegreich\nund konnten den Dämonendrachen verbannen.\x0E\x04\x02\x00
+MID_MOVIE3_#008	Lange Jahre herrschte Frieden.\x0E\x04\x02\x00
+MID_MOVIE3_#008_2	Doch nun spüre ich die Wiedererweckung.\nDer Bann wird schwächer.\x0E\x04\x02\x00
+MID_MOVIE3_#009	Fällt sein Schatten erneut über das Land,\nbleibt uns keine Wahl, als ihn wie einst zu bekämpfen.\x0E\x04\x02\x00
+MID_MOVIE3_#010	Der Dämonendrache Sombron\nmuss aufgehalten werden.\x0E\x04\x02\x00

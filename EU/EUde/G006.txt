@@ -1,0 +1,89 @@
+MID_OP1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0A\x04チキ\x022\n\x0E\x03\x00\x0C\x06クロム\x023\n\x0E\x03\x00\x0C\x06ルフレ\x024\n\x0E\x03\x02\x0A\x08リュール\nDieser Schrein sieht vielversprechend aus.\nSehen wir uns mal nach einem weiteren Armring\num.\x0E\x04\x00\x00
+MID_OP1_#002	\x0E\x03\x02\x06\x04チキ\nAh! Gefunden! Hier, das ist der Armring des\nerhabenen Hirten!\x0E\x04\x00\x00
+MID_OP1_#003	\x0E\x03\x02\x0A\x08リュール\nInteressant. Darin befindet sich eine ungewöhn-\nliche Präsenz. Versuchen wir eine Anrufung...\x0E\x04\x02\x00
+MID_OP1_#004	Erwache, Emblem der Bande!\x0E\x04\x00\x00
+MID_OP2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06クロム\nEndlich erwacht. Ich scheine wohl recht lange\ngeschlafen zu haben.\x0E\x04\x02\x00
+MID_OP2_#002	Dann kann ich dich wohl nicht mehr mit deinen\nlangen Nickerchen aufziehen.\x0E\x04\x00\x00
+MID_OP2_#003	\x0E\x03\x02\x0A\x08リュール\nÄhm, hallo?\x0E\x04\x00\x00
+MID_OP2_#004	\x0E\x03\x02\x08\x06クロム\nAh, tut mir leid, wir müssen uns erst mal\nsammeln. Freut mich, Euch kennenzulernen.\nIch bin Chrom.\x0E\x04\x00\x00
+MID_OP2_#005	\x0E\x03\x02\x08\x06ルフレ\nEr ist der Anführer der Hirten. Ich bin Daraen,\nsein Taktiker.\x0E\x04\x02\x00
+MID_OP2_#006	Solltet Ihr \x0E\x0A\x00\x10\x06der\x06diejenige gewesen sein, \x0E\x0A\x00\x10\x06der\x06die uns\naufgeweckt hat, so möchte ich Euch danken.\x0E\x04\x00\x00
+MID_OP2_#007	\x0E\x03\x02\x0A\x08リュール\nDas war ich. Ich bin \x0E\x0A\x00\x10\x06der\x06die \x0E\x0A\x00(\x10Wyrmgott\x14Wyrmgöttin\n\x0E\x06\x03\x00. Und ihr seid also zwei Embleme\nin einem Armring?\x0E\x04\x00\x00
+MID_OP2_#008	\x0E\x03\x02\x08\x06クロム\nRichtig, aber das ist keine Überraschung.\nDaraen und mich verbinden Bande, die stärker\nals das Schicksal sind.\x0E\x04\x00\x00
+MID_OP2_#009	\x0E\x03\x02\x0A\x08リュール\nWie meinst du das?\x0E\x04\x00\x00
+MID_OP2_#010	\x0E\x03\x02\x08\x06ルフレ\nAn dem Tag, an dem wir Chroms ältere\nSchwester, die Erhabene Emmeryn, verloren,\nlegte ich gegenüber Chrom einen Eid ab.\x0E\x04\x02\x00
+MID_OP2_#011	Keiner von uns beiden war halb so gut, wie sie\nes war. Aber zusammen wurden wir mehr.\x0E\x04\x00\x00
+MID_OP2_#012	\x0E\x03\x02\x08\x06クロム\nWir unterstützten uns von da an gegenseitig\nund gingen gemeinsam durch dick und dünn,\negal, welche Gefahren auch vor uns lagen.\x0E\x04\x02\x00
+MID_OP2_#013	Meine Schwester kämpfte für eine friedliche\nWelt. Gemeinsam ließen Daraen und ich ihren\nTraum Wirklichkeit werden.\x0E\x04\x00\x00
+MID_OP2_#014	\x0E\x03\x02\x0A\x08リュール\nDas klingt wunderbar. Wir kämpfen ebenfalls\nfür eine friedliche Welt.\x0E\x04\x02\x00
+MID_OP2_#015	Wärt ihr beide bereit, euch noch einmal für den\nFrieden einzusetzen?\x0E\x04\x00\x00
+MID_OP2_#016	\x0E\x03\x02\x08\x06クロム\nNatürlich. Es wäre uns eine Ehre.\x0E\x04\x00\x00
+MID_OP2_#017	\x0E\x03\x02\x0A\x08リュール\nEhre? Aber ich habe euch doch noch gar nicht\nerklärt, was hier vor sich geht!\x0E\x04\x00\x00
+MID_OP2_#018	\x0E\x03\x02\x08\x06クロム\nIch wusste in dem Moment, in dem ich Euch in\ndie Augen sah, dass ich Euch vertrauen kann.\x0E\x04\x00\x00
+MID_OP2_#019	\x0E\x03\x02\x08\x06ルフレ\nChrom folgt seinen Instinkten. Er hat auch mir\nsofort von der ersten Sekunde an vertraut,\nobwohl ich mein Gedächtnis verloren hatte.\x0E\x04\x00\x00
+MID_OP2_#020	\x0E\x03\x02\x0A\x08リュール\nNun, ich schätze dieses Zutrauen.\x0E\x04\x00\x00
+MID_OP2_#021	\x0E\x03\x02\x08\x06クロム\nBevor wir uns Euch anschließen, sollten wir\nuns dennoch einmal mit eigenen Augen an-\nsehen, aus welchem Holz Ihr geschnitzt seid.\x0E\x04\x00\x00
+MID_OP2_#022	\x0E\x03\x02\x08\x06ルフレ\nDem stimme ich zu. Eine Schlacht zu gewinnen\nverlangt Stärke und Tapferkeit. Wir sollten uns\nvergewissern, dass Ihr beides besitzt.\x0E\x04\x00\x00
+MID_OP2_#023	\x0E\x03\x02\x08\x06クロム\nKeine Sorge, das ist keine formelle Prüfung.\nZeigt uns einfach Euer Können und habt das\nVertrauen, dass dies ausreicht.\x0E\x04\x00\x00
+MID_OP2_#024	\x0E\x03\x02\x0A\x08リュール\nEinverstanden. Dann lasst uns anfangen!\x0E\x04\x00\x00
+MID_EV1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nZögert nicht. Greift uns mit allem, was Ihr habt,\nan.\x0E\x04\x00\x00
+MID_EV1_#002	\x0E\x03\x00\x0C\x06ルフレ\x02t\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nMal sehen, wie Ihr mit unserer Strategie\nfertigwerdet.\x0E\x04\x00\x00
+MID_EV2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDiese Barriere blockiert unseren Weg. Wir\nmüssen herausfinden, wie wir sie durchbrechen\nkönnen.\x0E\x04\x00\x00
+MID_EV3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x12\x0Cアルフレッド\x02t\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\n\x0E\x0A\x00*\x14Göttlicher\x12Göttliche, wie es aussieht, wird die Barriere\nvon diesen Kristallen dort generiert.\x0E\x04\x00\x00
+MID_EV3_#002	\x0E\x03\x00\x0E\x08リュール\x02b\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nZerstören wir einen. Mal sehen, was passiert.\x0E\x04\x00\x00
+MID_EV4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nHrmpf. Die Barriere ist immer noch da...\x0E\x04\x00\x00
+MID_EV4_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nWir werden wohl alle Kristalle zerstören\nmüssen, wenn wir weiterkommen wollen.\x0E\x04\x00\x00
+MID_EV5_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nWas ist das? Der Kristall wurde wiederherge-\nstellt...\x0E\x04\x00\x00
+MID_EV5_#002	\x0E\x03\x00\x12\x0Cアルフレッド\x02b\n\x0E\x05\x01\x1A\x0Cアルフレッド\nAngry\n\x0E\x03\x02\x0E\x0Cアルフレッド\nDann sollten wir keine Zeit verlieren. Wir\nattackieren sie alle, bevor jeder von uns seine\nAktionen durchgeführt und beendet hat.\x0E\x04\x00\x00
+MID_EV6_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x16\x06クロム\x0CStatus\n\x0E\x03\x02\x08\x06クロム\nIhre Formation ist nicht mehr so geschlossen.\nIst es nun an der Zeit, Daraen?\x0E\x04\x00\x00
+MID_EV6_#002	\x0E\x03\x00\x0C\x06ルフレ\x02t\n\x0E\x05\x01\x16\x06ルフレ\x0CStrike\n\x0E\x03\x02\x08\x06ルフレ\nDefinitiv. Lass uns zur nächsten Phase unseres\nPlans übergehen.\x0E\x04\x00\x00
+MID_EV7_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x1C\x08リュール\x10Surprise\n\x0E\x03\x02\x0A\x08リュール\nDas Gebiet wurde geflutet! Haben sie vor,\nunseren Vormarsch aufzuhalten?\x0E\x04\x00\x00
+MID_EV8_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nAusgezeichnet! Wir haben alle Kristalle zerstört!\x0E\x04\x00\x00
+MID_EV9_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nDie Barriere ist verschwunden! Beeilung!\nRücken wir zu den Emblemen vor!\x0E\x04\x00\x00
+MID_BT1_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02t\n\x0E\x05\x01\x14\x06ルキナ\nSmile\n\x0E\x03\x02\x08\x06ルキナ\nVater! Ich hätte niemals erwartet, dich auch in\ndieser Welt wiederzusehen.\x0E\x04\x00\x00
+MID_BT1_#002	\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nLucina! Ich hatte auch nicht erwartet, dich hier\nzu sehen.\x0E\x04\x02\x00
+MID_BT1_#003	\x0E\x05\x01\x16\x06クロム\x0CStatus\nWir haben eine Menge nachzuholen, aber damit\nmüssen wir warten, bis der Kampf vorbei ist.\x0E\x04\x00\x00
+MID_BT1_#004	\x0E\x05\x01\x16\x06ルキナ\x0CStatus\n\x0E\x03\x02\x08\x06ルキナ\nNatürlich! Es ist so lange her, dass wir uns im\nTrainingskampf gemessen haben. Wir müssen\nnur aufpassen, dass nichts zu Bruch geht!\x0E\x04\x00\x00
+MID_BT2_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06クロム\x02b\n\x0E\x05\x01\x14\x06クロム\nRelax\n\x0E\x03\x02\x08\x06クロム\nIhr seid gut in Form, daran erkenne ich, dass\nEuch der Kampf nicht fremd ist. Ihr wisst, was\nIhr tut.\x0E\x04\x00\x00
+MID_BT2_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nAuf meinem Weg habe ich viel gelernt, aber das\nZiel habe ich noch nicht erreicht.\x0E\x04\x00\x00
+MID_BT2_#003	\x0E\x05\x01\x14\x06クロム\nSmile\n\x0E\x03\x02\x08\x06クロム\nIhr habt die gleiche Entschlossenheit, die auch\nDaraen auszeichnet. Das erkenne ich in Euren\nAugen.\x0E\x04\x02\x00
+MID_BT2_#004	\x0E\x05\x01\x16\x06クロム\x0CStatus\nLegen wir los. Ich bin so weit!\x0E\x04\x00\x00
+MID_BT3_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルキナ\x02t\n\x0E\x05\x01\x14\x06ルキナ\nSmile\n\x0E\x03\x02\x08\x06ルキナ\nDaraen! Du bist auch an Vaters Seite.\x0E\x04\x00\x00
+MID_BT3_#002	\x0E\x03\x00\x0C\x06ルフレ\x02b\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nJa. Ich habe Chrom nie verlassen.\x0E\x04\x00\x00
+MID_BT3_#003	\x0E\x05\x01\x16\x06ルキナ\x0CStatus\n\x0E\x03\x02\x08\x06ルキナ\nIch fühle mich ein wenig befangen, gegen die\nandere Hälfte meines Vaters zu kämpfen, aber\nich werde mein Bestes geben!\x0E\x04\x00\x00
+MID_BT3_#004	\x0E\x05\x01\x16\x06ルフレ\x0CStrike\n\x0E\x03\x02\x08\x06ルフレ\nIch verstehe, wie du dich fühlst, aber halte dich\nnicht zurück!\x0E\x04\x00\x00
+MID_BT4_#001	\x0E\x02\x01\x00\n\x0E\x03\x00\x0C\x06ルフレ\x02b\n\x0E\x05\x01\x16\x06ルフレ\x0CNormal\n\x0E\x03\x02\x08\x06ルフレ\nIch bin neugierig – ich will wissen, was Ihr\nkönnt. Zeigt mir \x0E\x0A\x008\x18den Anführer\x1Cdie Anführerin, \x0E\x0A\x00\x10\x06dem\x06der wir uns\nanschließen werden.\x0E\x04\x00\x00
+MID_BT4_#002	\x0E\x03\x00\x0E\x08リュール\x02t\n\x0E\x05\x01\x16\x08リュール\nAngry\n\x0E\x03\x02\x0A\x08リュール\nSehr gerne, Emblem Daraen.\x0E\x04\x02\x00
+MID_BT4_#003	Unsere Strategien mögen einen Taktiker wie\nEuch vielleicht nicht beeindrucken, aber die\nBande zwischen meinen Verbündeten sind stark.\x0E\x04\x00\x00
+MID_BT4_#004	\x0E\x05\x01\x14\x06ルフレ\nSmile\n\x0E\x03\x02\x08\x06ルフレ\nChrom hatte recht. Ihr habt unser Vertrauen\nverdient.\x0E\x04\x00\x00
+MID_ED1_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0E\x08リュール\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06ルフレ\nNun, damit wäre die Sache erledigt. Ich habe\ngenug gesehen. Wie ist es mit dir, Chrom?\x0E\x04\x00\x00
+MID_ED1_#002	\x0E\x03\x02\x08\x06クロム\nMir geht es genauso. Wir haben eine ungeheure\nStärke und Entschlossenheit gesehen.\x0E\x04\x02\x00
+MID_ED1_#003	Ihr seid mutig in Eurem Handeln und zugleich\naufrichtig, wenn es um Eure Überzeugungen\ngeht. Ich bin beeindruckt.\x0E\x04\x00\x00
+MID_ED1_#004	\x0E\x03\x02\x0A\x08リュール\nIhr werdet euch uns also anschließen?\x0E\x04\x00\x00
+MID_ED1_#005	\x0E\x03\x02\x08\x06クロム\nVerzeiht all die Mühe, die wir Euch gemacht\nhaben. Aber ich wollte ganz sicher sein.\nJa, \x0E\x06\x03\x00, wir werden Euch helfen.\x0E\x04\x00\x00
+MID_ED1_#006	\x0E\x03\x02\x08\x06ルフレ\nBündeln wir unsere Kräfte, um diese Welt in\neine Ära des Friedens zu führen.\x0E\x04\x00\x00
+MID_ED1_#007	\x0E\x03\x02\x0A\x08リュール\nVielen Dank, Emblem Chrom und Emblem\nDaraen.\x0E\x04\x02\x00
+MID_ED1_#008	Mit euch an unserer Seite hege ich für unsere\nWelt mehr Hoffnung als jemals zuvor.\x0E\x04\x00\x00
+MID_ED1_#009	\x0E\x03\x02\x08\x06クロム\nHoffnung, ja! Sie ist der Schlüssel zu Eurer\nfriedvollen Welt.\x0E\x04\x00\x00
+MID_ED1_#010	\x0E\x03\x02\x08\x06ルフレ\nUnd es ist an uns, diese Hoffnung weiterzu-\ngeben, damit die Welt nicht der Verzweiflung\nzum Opfer fällt.\x0E\x04\x02\x00
+MID_ED1_#011	Meiner Meinung nach ist es wichtig, diesem\nZiel Leben einzuhauchen, indem man es laut\nausspricht.\x0E\x04\x00\x00
+MID_ED1_#012	\x0E\x03\x02\x08\x06クロム\nGut gesagt. Wenn Hoffnung für diese Welt unser\nZiel ist, dürfen wir nicht halbherzig sein.\x0E\x04\x02\x00
+MID_ED1_#013	Es gab Zeiten in meinem Leben, da war auch\nich der Verzweiflung nahe.\x0E\x04\x02\x00
+MID_ED1_#014	Daraen und unseren Freunden habe ich es zu\nverdanken, dass ich in diesen Momenten nicht\naufgegeben habe.\x0E\x04\x02\x00
+MID_ED1_#015	Selbst als es mir bestimmt war zu sterben,\nhaben wir das Schicksal überwunden, indem wir\nuns vertraut und gegenseitig ermutigt haben.\x0E\x04\x00\x00
+MID_ED1_#016	\x0E\x03\x02\x08\x06ルフレ\nDu hast recht. Und solange Ihr an dieser\nHoffnung festhaltet, wird Euch dies ebenfalls\ngelingen.\x0E\x04\x00\x00
+MID_ED1_#017	\x0E\x03\x02\x0A\x08リュール\nIch verstehe. Ich werde mir diese Worte zu\nHerzen nehmen.\x0E\x04\x00\x00
+MID_ED1_#018	\x0E\x03\x02\x08\x06クロム\nDas ist die richtige Einstellung! Wir werden\nEuch gerne in den Schlachten, die vor Euch\nliegen, zur Seite stehen.\x0E\x04\x00\x00
+MID_ED2_#001	\x0E\x02\x02\x00\n\x0E\x03\x00\x0C\x06ルキナ\x021\n\x0E\x03\x00\x0C\x06クロム\x022\n\x0E\x03\x00\x0C\x06ルフレ\x023\n\x0E\x03\x02\x08\x06ルキナ\nVater! Daraen! Wir haben uns viel zu lange\nnicht gesehen.\x0E\x04\x00\x00
+MID_ED2_#002	\x0E\x03\x02\x08\x06クロム\nLucina! Ich bin so froh, dich wiederzusehen.\x0E\x04\x00\x00
+MID_ED2_#003	\x0E\x03\x02\x08\x06ルフレ\nGut siehst du aus. Und du bist auch ein Emblem\ngeworden wie wir? Unglaublich.\x0E\x04\x02\x00
+MID_ED2_#004	Chrom ist ständig nur in Sorge um dich. Ich\nmuss zugeben, dass das schon etwas ermüdend\nist.\x0E\x04\x00\x00
+MID_ED2_#005	\x0E\x03\x02\x08\x06クロム\nWir werden das aber jetzt nicht vor Lucina\nausdiskutieren.\x0E\x04\x00\x00
+MID_ED2_#006	\x0E\x03\x02\x08\x06ルキナ\nMachst du dir wirklich so oft Sorgen?\x0E\x04\x00\x00
+MID_ED2_#007	\x0E\x03\x02\x08\x06クロム\nHmpf. Natürlich tue ich das. Ich bin dein Vater.\x0E\x04\x02\x00
+MID_ED2_#008	Aber da wir nun endlich wieder vereint sind,\nmuss ich mir keine Gedanken mehr machen.\x0E\x04\x00\x00
+MID_ED2_#009	\x0E\x03\x02\x08\x06ルキナ\nEs fühlt sich an, als sei eine Last von meinen\nSchultern genommen worden.\x0E\x04\x02\x00
+MID_ED2_#010	Nun können wir wieder Seite an Seite kämpfen,\nso wie wir es früher in Ylisse taten.\x0E\x04\x00\x00
+MID_ED2_#011	\x0E\x03\x02\x08\x06クロム\nNichts würde mich glücklicher machen.\x0E\x04\x00\x00
+MID_ED2_#012	\x0E\x03\x02\x08\x06ルフレ\nZusammen werden wir diese Welt zu einem\nbesseren Ort machen.\x0E\x04\x00\x00
+MID_ED2_#013	\x0E\x03\x02\x08\x06ルキナ\nZusammen!\x0E\x04\x00\x00

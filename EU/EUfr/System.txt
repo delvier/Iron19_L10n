@@ -1,0 +1,304 @@
+MID_SYS_Difficulty_Normal	Normal
+MID_H_Difficulty_Normal	Joueurs débutants et intermédiaires
+MID_SYS_Difficulty_Hard	Difficile
+MID_H_Difficulty_Hard	Joueurs expérimentés
+MID_SYS_Difficulty_Lunatic	Expert
+MID_H_Difficulty_Lunatic	Amateurs de défi
+MID_SYS_Mode_Select	Choisissez un mode.
+MID_SYS_Mode_Casual	Débutant
+MID_H_Mode_Casual	Les unités perdues reviennent\ndans la bataille suivante.
+MID_SYS_Mode_Classic	Classique
+MID_H_Mode_Classic	Les unités perdues le sont définitivement.\nChaque décision est capitale.
+MID_SYS_Grow_Random	Aléatoire
+MID_H_Grow_Random	Quand le niveau d'une unité augmente, ses\ncaractéristiques s'améliorent aléatoirement en\ntenant compte du type et de la classe de l'unité.
+MID_SYS_Grow_Fixed	Fixe
+MID_H_Grow_Fixed	Quand le niveau d'une unité augmente, ses\ncaractéristiques s'améliorent uniquement en\nfonction du type et de la classe de l'unité.
+MID_Decision	OK
+MID_ToNext	Suite
+MID_SYS_BattleRecord	Stats bataille
+MID_SYS_Time	Temps :
+MID_SYS_None	-
+MID_SYS_Battle_Count	 bat.
+MID_SYS_Win_Count	 vict.
+MID_SYS_FoughtTogetherGod	Emblème le plus utilisé
+MID_SYS_TypeSection	Division de classe
+MID_SYS_SeniorPosition	Avancée
+MID_SYS_BasicPosition	Base
+MID_SYS_SpecialPosition	Spéciale
+MID_SYS_Position	Classe \x0E\x01\x00\x00
+MID_SYS_UseWeapon	Armes
+MID_SYS_TypeOfWepon_1	Type 1
+MID_SYS_TypeOfWepon_2	Type 2
+MID_SYS_Status	Carac. de combat
+MID_SYS_Capability	Carac. de base
+MID_SYS_EquipedStatus	Carac. util.
+MID_SYS_Spec	Performance
+MID_SYS_Detail	Détails
+MID_SYS_EngageWeapon	Armes fusion
+MID_SYS_Class	Classe
+MID_SYS_Item	Objets
+MID_SYS_Skill	Techniques
+MID_SYS_SP	PT
+MID_H_INFO_SP	Points de technique. Permettent\nd'hériter de techniques d'Emblèmes.
+MID_SYS_Rating	Éval.
+MID_H_INFO_Rating	Somme des caractéristiques\nprincipales de l'unité.
+MID_SYS_LV	Niv
+MID_H_INFO_LV	Indicateur de la force globale de\nl'unité. Augmente avec l'expérience.\n\x0E\x01\x00\x00 EXP jusqu'au niveau suivant.
+MID_H_INFO_LV_MAX	Indicateur de la force globale de\nl'unité. Augmente avec l'expérience.\nL'unité a atteint le niveau maximum.
+MID_H_INFO_LV_ENEMY	Indicateur de la force globale de\nl'unité. Augmente avec l'expérience.
+MID_H_INFO_BOND_LV	Indicateur du lien entre l'unité et\nl'Emblème. Plus ce lien est fort, plus\nl'Emblème lui confère de puissance.
+MID_SYS_Exp	EXP
+MID_SYS_HP_MAX_UP	PV max
+MID_SYS_HP	PV
+MID_H_INFO_HP	Points de vie. L'unité est vaincue\ns'ils tombent à zéro.
+MID_H_COMBAT_INFO_HP	Une prévision de l'impact du combat\nsur les PV des unités impliquées.
+MID_SYS_Str	Frc
+MID_H_INFO_Str	Force. Pondère les dégâts infligés\npar une attaque physique.
+MID_SYS_Mag	Mag
+MID_H_INFO_Mag	Magie. Pondère les dégâts infligés\npar une attaque magique.
+MID_SYS_Tec	Tec
+MID_H_INFO_Tec	Technique. Pondère la précision\net les chances de porter un coup\ncritique.
+MID_SYS_Spd	Vit
+MID_H_INFO_Spd	Vitesse. Pondère l'esquive. L'unité\nattaque deux fois si sa vitesse\ndépasse celle de l'ennemi de 5.
+MID_SYS_Lck	Cha
+MID_H_INFO_Lck	Chance. Effets multiples. Pondère les\nchances d'éviter les coups critiques.
+MID_SYS_Def	Déf
+MID_H_INFO_Def	Défense. Réduit les dégâts reçus\nlors d'une attaque physique.
+MID_SYS_Res	Rés
+MID_H_INFO_Res	Résistance. Réduit les dégâts reçus\nlors d'une attaque magique.
+MID_SYS_Mov	Mvt
+MID_H_INFO_Mov	Mouvement. Distance en cases\nque l'unité peut parcourir.
+MID_SYS_Phy	Cst
+MID_H_INFO_Phy	Constitution. Évite que les armes\nlourdes ne réduisent la vitesse\nd'attaque.
+MID_SYS_Vis	Vis
+MID_H_INFO_Vis	Vision. Distance à laquelle l'unité\npeut voir dans l'obscurité ou dans\ndes conditions similaires.
+MID_SYS_Atk	Atq
+MID_SYS_Dmg	Dgt
+MID_H_INFO_Atk	Attaque. Pondère les dégâts des\nattaques physiques ou magiques.
+MID_H_COMBAT_INFO_Dmg	La quantité de dégâts infligés\nà l'ennemi en cas de coup.
+MID_SYS_Weapon_Attack	Atq p
+MID_SYS_H_Weapon_Attack	Attaque physique. Puissance des\nattaques menées avec une arme\nphysique.
+MID_SYS_Magic_Attack	Atq m
+MID_SYS_H_Magic_Attack	Attaque magique. Puissance des\nattaques menées avec une arme\nmagique.
+MID_SYS_Special_Attack	Spcl
+MID_SYS_H_Special_Attack	Attaque spéciale. Puissance des\nattaques spéciales ignorant la\ndéfense et la résistance des ennemis.
+MID_SYS_Hit	Prc
+MID_H_INFO_Hit	Précision. Pondère les chances\nde réussir à toucher l'ennemi.
+MID_H_COMBAT_INFO_Hit	Précision des attaques\net autres effets.
+MID_SYS_Avo	Esq
+MID_H_INFO_Avo	Esquive. Pondère les chances\nd'esquiver une attaque ennemie.
+MID_SYS_Crit	Crit
+MID_H_INFO_Crit	Critique. Pondère les chances\nde porter un coup critique\n(dégâts triplés).
+MID_H_COMBAT_INFO_Crit	Chances de porter un coup\ncritique.
+MID_SYS_Secure	Évit
+MID_H_INFO_Secure	Évitement. Pondère les chances\nd'éviter un coup critique ennemi.
+MID_COMBAT_INFO_Recovery	Réc
+MID_H_COMBAT_INFO_Recovery	La quantité de PV que la cible\nde l'unité récupérera une fois\nsoignée.
+MID_H_INFO_WLV	Niveau : \x0E\x01\x00\x00
+MID_H_INFO_WLV_Special	Spcl
+MID_H_INFO_WLV_Sword	Épée
+MID_H_INFO_WLV_Lance	Lance
+MID_H_INFO_WLV_Magic	Tome
+MID_H_INFO_WLV_Dagger	Dague
+MID_H_INFO_WLV_Axe	Hache
+MID_H_INFO_WLV_Bow	Arc
+MID_H_INFO_WLV_Rod	Bâton
+MID_H_INFO_WLV_Fist	Art
+MID_SYS_BondCombi	Lien entre \x0E\x01\x00\x00 et \x0E\x01\x01\x00
+MID_SYS_BOND_LV	Lien
+MID_SYS_MAX	MAX
+MID_SYS_Infinity	∞
+MID_SYS_STYLE_BONUS	Bonus de type !
+MID_SYS_QUALITY_Sword	Apt. épée
+MID_SYS_H_QUALITY_Sword	Aptitude à l'épée.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Lance	Apt. lance
+MID_SYS_H_QUALITY_Lance	Aptitude à la lance.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Magic	Apt. magie
+MID_SYS_H_QUALITY_Magic	Aptitude à la magie.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Knife	Apt. dague
+MID_SYS_H_QUALITY_Knife	Aptitude à la dague.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Axe	Apt. hache
+MID_SYS_H_QUALITY_Axe	Aptitude à la hache.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Bow	Apt. arc
+MID_SYS_H_QUALITY_Bow	Aptitude à l'arc.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Rod	Apt. bâton
+MID_SYS_H_QUALITY_Rod	Aptitude au bâton.\nRequise pour être promu\nà certaines classes.
+MID_SYS_QUALITY_Fist	Apt. art
+MID_SYS_H_QUALITY_Fist	Aptitude aux arts.\nRequise pour être promu\nà certaines classes.
+MID_SYS_H_HPStock	Pierre de résurrection\nConsommée pour récupérer tous\nles PV lorsqu'ils tombent à 0.
+MID_SYS_ValueEmpty	--
+MID_SYS_Mt	Dmg
+MID_SYS_Rec	Guér.
+MID_SYS_Eff	Eff
+MID_SYS_Weight	Pds
+MID_SYS_Rng	Prt
+MID_SYS_WLV_Short	Niv.
+MID_H_SYS_Equip	É
+MID_SYS_Target	Cible
+MID_SYS_Me	Unité
+MID_H_INFO_DISABLE_ENGAGE	Fusion requise
+MID_H_INFO_DISABLE_WEAPONLEVEL	Unité incompatible
+MID_SYS_GodWeapon_LV	Niv
+MID_SYS_ExpNext	Suiv.
+MID_SYS_GOLD_COUNT	Écus
+MID_SYS_ABRIDGEMENT	...
+MID_H_INFO_Param_Base	Valeur de base : 
+MID_H_INFO_Param_Correction_Weight	Poids de l'arme 
+MID_H_INFO_Param_Correction_God	Emblème 
+MID_H_INFO_Param_Correction_Support	Soutien 
+MID_H_INFO_Param_Correction_Terrain	Terrain 
+MID_H_INFO_Param_Correction_Effect	Effet 
+MID_H_INFO_Param_Correction_Hub	Bien-être 
+MID_Material_Iron	Fer
+MID_Material_Steel	Acier
+MID_Material_Silver	Argent
+MID_PieceOfBonds	Fragments de lien
+MID_B_INFO_DAMAGE	Dégâts
+MID_MSG_GET	Obtenu
+MID_MSG_COST	Coût
+MID_MSG_JOIN_UNIT	\x0E\x01\x00\x00 a rejoint votre groupe.
+MID_MSG_JOIN_UNIT2	\x0E\x01\x00\x00 et \x0E\x01\x01\x00\nont rejoint votre groupe.
+MID_MSG_JOIN_UNIT3	\x0E\x01\x00\x00, \x0E\x01\x01\x00 et \x0E\x01\x02\x00\nont rejoint votre groupe.
+MID_MSG_GET_ITEM	Obtenu : \x0E\x01\x00\x00 \x0E\x01\x01\x00
+MID_MSG_GET_ALREADY	Vous ne pouvez pas scanner cet amiibo\navant que vos scans aient été actualisés.
+MID_MSG_GET_ITEM_PLURAL	Vous obtenez \x0E\x01\x00\x00\x0E\x01\x01\x00×\x0E\x01\x02\x00
+MID_MSG_GET_GOLD	Obtenu : \x0E\x01\x00\x00 \x0E\x01\x01\x00 É
+MID_MSG_GET_PIECE	Obtenu : \x0E\x01\x00\x00 fragment de lien ×\x0E\x01\x01\x00
+MID_MSG_BREAK_ITEM	Brisé : \x0E\x01\x00\x00\x0E\x01\x01\x00
+MID_MSG_DEPRIVED_ITEM	L'ennemi a volé : \x0E\x01\x01\x00 ×\x0E\x01\x00\x00.
+MID_MSG_LEARN_SKILL	Technique de classe apprise : \x0E\x01\x00\x00\x0E\x01\x01\x00.
+MID_MSG_SUPPORT_LEVEL_UP	\x0E\x01\x00\x00 et \x0E\x01\x01\x00 ont atteint\nle niveau de soutien \x0E\x01\x02\x00.
+MID_MSG_POPUP_RELIANCE_EXP_UP	Soutien augmenté !
+MID_MSG_POPUP_RELIANCE_ADDITION	Dialogue dispo !
+MID_MSG_TUTORIAL_NEW	À présent dans le guide : \x0E\x01\x00\x00
+MID_MSG_BOND_LV_CAP	Des dialogues de lien sont disponibles.
+MID_MSG_FRIENDLIST_NEWPAGE	Nouvelle page sur \x0E\x01\x00\x00 dans le carnet.
+MID_MSG_BONDRING_NEWPAGE	Nouvelles informations sur les anneaux\x0E\x01\x0B\x00.
+MID_MSG_BOND_LV_CAP_Talk_Attention	EXP de lien au maximum entre \x0E\x01\x00\x00 et \x0E\x01\x01\x00.\nChoisissez Lien dans le menu Références\nà Somniel ou sur la carte du monde\npour accroître davantage le niveau de lien.
+MID_MSG_BOND_LV_CAP_RELEASE	Niveau de lien maximum déverrouillé !
+MID_MSG_BOND_LV_MAX_amiiboItem	Le niveau de lien entre l'Emblème \x0E\x01\x00\x00\net de nombreux alliés est au maximum.\nRécompense : \x0E\x01\x01\x00\x0E\x01\x02\x00.
+MID_MSG_POPUP_BOND_EXP_UP	Lien augmenté !
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION	Si vous choisissez de ne pas utiliser le cristal\ntemporel draconique, vous subirez une défaite\net la partie sera terminée. Confirmer ?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK	Si vous choisissez de ne pas utiliser le cristal\ntemporel draconique, vous subirez une défaite\net l'épreuve sera terminée. Confirmer ?
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES	Oui (partie terminée)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK	Oui (épreuve terminée)
+MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO	Non (utiliser le cristal)
+MID_MSG_GAMEOVER_CONFIRM	Recommencer la bataille depuis le début ?\nVous pouvez également conserver\nl'expérience que vous avez gagnée.
+MID_MSG_GAMEOVER_YES_EXP_ON	Garder EXP et réessayer
+MID_MSG_GAMEOVER_YES_EXP_OFF	Réinit. EXP et réessayer
+MID_MSG_GAMEOVER_NO	Retourner à l'écran titre
+MID_MSG_BGM_CHANGE	Le menu Paramètres a désormais des options\npour la musique. Vous pouvez modifier la\nmusique pour les phases joueur et ennemis\ndans les batailles ne s'intégrant pas à\nl'histoire principale.
+MID_MSG_ENGAGE_PLUS_ATTENTION	La technique Fusion+ de l'Emblème\n\x0E\x06\x03\x00 ne peut pas être utilisée dans\nles épreuves de Relais et du Multivers.
+MID_MSG_STORY_COMPLETE_REWARD	Récompenses
+MID_MSG_PLAYER_PHASE	PHASE JOUEUR
+MID_MSG_ENEMY_PHASE	PHASE ENNEMIS
+MID_MSG_ALLY_PHASE	PHASE ALLIÉS
+MID_MSG_OFFENSE_PHASE	PHASE ATTAQUANT
+MID_MSG_DEFENSE_PHASE	PHASE DÉFENSEUR
+MID_MSG_PHASE_TURN	Tours restants : \x0E\x01\x00\x00
+MID_MSG_AUTO_TROPE	Combat auto
+MID_MSG_SKIP_TROPE	Passer
+MID_MSG_LEVEL_UP	NIVEAU SUPÉRIEUR !
+MID_MSG_CLASS_CHANGE	CHANGEMENT DE CLASSE
+MID_MSG_STAGE_CLEAR	NIVEAU TERMINÉ !
+MID_MSG_GAME_OVER	GAME OVER
+MID_MSG_POPUP_CRITICAL	Critique !
+MID_MSG_POPUP_BREAK	Brise-garde !
+MID_MSG_POPUP_MISS	Raté !
+MID_MSG_POPUP_NO_DAMAGE	Sans effet !
+MID_MSG_POPUP_SMASH	Repoussement !
+MID_MSG_POPUP_CHAINATTACK	Attaque enchaînée !
+MID_MSG_POPUP_CHAINGUARD	Garde enchaînée !
+MID_MSG_POPUP_DUALGUARD	Intervention !
+MID_KEYHELP_MYFACE_SELECT	Choisir forme
+MID_KEYHELP_BIRTHDAY_SELECT	Mois/Jour
+MID_KEYHELP_MAP_HELP	Détails
+MID_KEYHELP_MINIGAME_OPERATION_HELP	Commandes
+MID_KEYHELP_MAP_NOT_ACTION	Changer d'unité
+MID_KEYHELP_MAP_UNIT_VIEWER	Détails de l'unité
+MID_KEYHELP_MAP_CANCEL_ORDERS	Désactiver le combat auto
+MID_KEYHELP_MAP_SKIP	Passer
+MID_KEYHELP_GMAP_LOOK_OVER	Zoom -
+MID_KEYHELP_GMAP_MOVE_NEWEST	Ch. suivant
+MID_KEYHELP_GMAP_FREE_CAMERA	Caméra libre
+MID_KEYHELP_MAP_ACTION	Changer carte
+MID_KEYHELP_DASH	Courir
+MID_KEYHELP_MENU	Menu
+MID_KEYHELP_MENU_ACTION	Changer menu
+MID_KEYHELP_CATEGORY_ACTION	Changer cat.
+MID_KEYHELP_TALK_AUTOPLAY	Conv. auto
+MID_KEYHELP_TALK_AUTOPLAY_CANCEL	Annuler conv. auto
+MID_KEYHELP_TALK_LOG	Historique
+MID_KEYHELP_TALK_LOG_VOICE	Voix
+MID_KEYHELP_MENU_DECIDE	OK
+MID_KEYHELP_MENU_SELECT	Sélectionner
+MID_KEYHELP_MENU_RETURN	Retour
+MID_KEYHELP_MENU_AUTO	Tout optimiser
+MID_KEYHELP_MENU_TROOPLIST_CHANGE	Changer d'unité
+MID_KEYHELP_MENU_HELP	Détails
+MID_KEYHELP_MENU_ASSISTINFO_CHANGE	Infos suppl.
+MID_KEYHELP_MENU_WEAPON_CHANGE	Changer d'arme
+MID_KEYHELP_MENU_UNIT_CHANGE	Changer d'unité
+MID_KEYHELP_MENU_CHARACTER_CHANGE	Changer d'allié
+MID_KEYHELP_MENU_GOD_CHANGE	Changer d'Emblème
+MID_KEYHELP_MENU_HELP_CHANGE	Parcourir infos
+MID_KEYHELP_MENU_ABILITY	Effets de lien
+MID_KEYHELP_MENU_BATTLE_START	Combattre !
+MID_KEYHELP_MENU_TUTORIAL	Guide
+MID_KEYHELP_MENU_COUNTRY_CHANGE	Changer de pays
+MID_KEYHELP_MENU_ZOOM_PICTURE	Zoom
+MID_KEYHELP_MENU_UNIT_SELECT	Liste
+MID_KEYHELP_MENU_LOOK_UNIT	Voir
+MID_KEYHELP_MENU_CAMERA_CHANGE	Bouger cam.
+MID_KEYHELP_MENU_CAMERA_IN_OUT	Cam. verticale
+MID_KEYHELP_MENU_CAMERA_OPERATION	Contrôler cam.
+MID_KEYHELP_MENU_BACK_CHANGE	Arrière-plan
+MID_KEYHELP_MENU_UI_HIDE	Affichage
+MID_KEYHELP_MENU_EYES	Regard caméra
+MID_KEYHELP_MENU_RESET	Par défaut
+MID_KEYHELP_MENU_SORT	Trier
+MID_KEYHELP_MENU_FISHING_CAST	Lancer
+MID_KEYHELP_MENU_FISHING_CAST_STOP	Annuler
+MID_KEYHELP_MENU_ACHIEVEMENT	Obtenir réc.
+MID_KEYHELP_MENU_ACHIEVEMENT_ALL	Tout obtenir
+MID_KEYHELP_MOVIE_CAPTION	Sous-titres
+MID_KEYHELP_EDIT_TURN	Faire pivoter
+MID_KEYHELP_EDIT_PUT	Placer
+MID_KEYHELP_EDIT_DELETE	Supprimer
+MID_KEYHELP_EDIT_TACTICS_CHANGE	Tactique
+MID_KEYHELP_EDIT_LIST	Liste terrains
+MID_KEYHELP_EDIT_OBJCHANGE	Chang. terrain
+MID_KEYHELP_EDIT_UNDO	Annuler
+MID_KEYHELP_NEXT	Suivant
+MID_KEYHELP_ANIMAL_VIEW	Voir
+MID_KEYHELP_ANIMAL_ACTION	Action
+MID_KEYHELP_REWIND_TURN	Tour +/-
+MID_KEYHELP_REWIND_ACTION	Sélectionner
+MID_WEAPON_NAME_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE	\x0E\x01\x00\x00\x0E\x01\x01\x00
+MID_WEAPON_NAME_ENGRAVE_REFINE	\x0E\x01\x00\x00+\x0E\x01\x01\x00\x0E\x01\x02\x00
+MID_RING_RANK_S	S
+MID_RING_RANK_A	A
+MID_RING_RANK_B	B
+MID_RING_RANK_C	C
+MID_LOCALIZE_COLON	
+MID_LOCALIZE_HYPHEN	 - 
+MID_LOCALIZE_CN_THIRD_M	他
+MID_LOCALIZE_CN_THIRD_F	她
+MID_LOCALIZE_TW_THIRD_M	他
+MID_LOCALIZE_TW_THIRD_F	她
+MID_LANGUAGE_JP_JAPANESE	Japonais
+MID_LANGUAGE_US_ENGLISH	Anglais (Amérique du Nord)
+MID_LANGUAGE_US_FRENCH	Français (Canada)
+MID_LANGUAGE_US_SPANISH	Espagnol (Amérique latine)
+MID_LANGUAGE_EU_ENGLISH	Anglais (Europe)
+MID_LANGUAGE_EU_FRENCH	Français (Europe)
+MID_LANGUAGE_EU_SPANISH	Espagnol (Europe)
+MID_LANGUAGE_EU_GERMAN	Allemand
+MID_LANGUAGE_EU_ITALIAN	Italien
+MID_LANGUAGE_CN_TRADITIONAL	Chinois traditionnel
+MID_LANGUAGE_CN_SIMPLIFIED	Chinois simplifié
+MID_LANGUAGE_KR_KOREAN	Coréen
+MID_LANGUAGE_VOICE_JAPANESE	Japonais
+MID_LANGUAGE_VOICE_ENGLISH	Anglais
+MID_MSG_GET_ITEM_FEH	Vous avez reçu un cadeau spécial !

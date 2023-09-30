@@ -1,0 +1,31 @@
+MID_MAP_HIS_PhaseBegin_Player	PLAYER PHASE 開始
+MID_MAP_HIS_PhaseBegin_Enemy	ENEMY PHASE 開始
+MID_MAP_HIS_PhaseBegin_Ally	ALLY PHASE 開始
+MID_MAP_HIS_Fixed	\x0E\x01\x00\x00已待命。
+MID_MAP_HIS_Talk	\x0E\x01\x00\x00已與其他單位對話。
+MID_MAP_HIS_Attack	\x0E\x01\x00\x00已發動攻擊。
+MID_MAP_HIS_Rod	\x0E\x01\x00\x00已使用法杖。
+MID_MAP_HIS_EngageCharge	\x0E\x01\x00\x00已發動霸克・天空。
+MID_MAP_HIS_Destroy	\x0E\x01\x00\x00已將其破壞。
+MID_MAP_HIS_ItemUse	\x0E\x01\x00\x00已使用持有物品。
+MID_MAP_HIS_Trade	\x0E\x01\x00\x00已交換持有物品。
+MID_MAP_HIS_PutOff	\x0E\x01\x00\x00已捨棄持有物品。
+MID_MAP_HIS_Visit	\x0E\x01\x00\x00已訪問該處。
+MID_MAP_HIS_Breakdown	\x0E\x01\x00\x00已占領該處。
+MID_MAP_HIS_Escape	\x0E\x01\x00\x00已撤離戰場。
+MID_MAP_HIS_Door	\x0E\x01\x00\x00已開啟門扉。
+MID_MAP_HIS_Torch_Off	\x0E\x01\x00\x00已熄滅燈火。
+MID_MAP_HIS_Torch_On	\x0E\x01\x00\x00已點燃燈火。
+MID_MAP_HIS_TreasureBox	\x0E\x01\x00\x00已打開寶箱。
+MID_MAP_HIS_Transporter	\x0E\x01\x00\x00已使用運輸隊。
+MID_MAP_HIS_Dance	\x0E\x01\x00\x00已跳完舞。
+MID_MAP_HIS_Guard	\x0E\x01\x00\x00已發動連鎖防禦。
+MID_MAP_HIS_LucinaEngage	\x0E\x01\x00\x00已發動牽絆之盾。
+MID_MAP_HIS_OverlapSkill	\x0E\x01\x00\x00已發動龍脈。
+MID_MAP_HIS_CommandSkill	\x0E\x01\x00\x00已發動\x0E\x01\x01\x00。
+MID_MAP_HIS_VisionCreate	\x0E\x01\x00\x00已創造殘像。
+MID_MAP_HIS_VisionDelete	\x0E\x01\x00\x00已解除殘像。
+MID_MAP_HIS_DestroyVillage	\x0E\x01\x00\x00已破壞民宅。
+MID_MAP_HIS_EngageBreak	\x0E\x01\x00\x00已發動結合破壞。
+MID_MAP_HIS_EngageAttack	\x0E\x01\x00\x00已發動\x0E\x01\x01\x00。
+MID_MAP_HIS_PickUp	\x0E\x01\x00\x00已行動完畢。
